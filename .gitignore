@@ -17,9 +17,9 @@
 !**/src/test/**/build/
 
 # Maven
-**/.mvn/wrapper/maven-wrapper.jar
-**/mvnw
-**/mvnw.cmd
+# **/.mvn/wrapper/maven-wrapper.jar
+# **/mvnw
+# **/mvnw.cmd
 
 # Environment variables
 **/.env
