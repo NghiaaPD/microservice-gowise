@@ -1,0 +1,34 @@
+# IDE files
+/.vscode
+.idea/
+*.iws
+*.iml
+*.ipr
+.project
+.classpath
+.settings
+
+# Build directories
+**/target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+**/build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Maven
+**/.mvn/wrapper/maven-wrapper.jar
+**/mvnw
+**/mvnw.cmd
+
+# Environment variables
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Spring Boot
+# **/HELP.md
+
+# Logs
+**/logs/
+**/*.log

@@ -1,0 +1,10 @@
+# Component service test
+## User
+### GET user data from component service Demo ( User )
+GET http://192.168.1.21:8080/v1/users
+
+
+# Test from API Gateway
+## User
+### GET user data from API Gateway
+GET http://192.168.1.21:8081/v1/users
