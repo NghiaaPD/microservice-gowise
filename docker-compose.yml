@@ -1,0 +1,43 @@
+version: '3'
+services:
+  discovery-server:
+    build: ./discovery-server
+    image: microservice-gowise/discovery-server
+    container_name: discovery-server
+    ports:
+      - "8761:8761"
+    env_file:
+      - ./discovery-server/.env
+
+  admin-service:
+    build: ./admin-service
+    image: microservice-gowise/admin-service
+    container_name: admin-service
+    ports:
+      - "8080:8080"
+    depends_on:
+      - discovery-server
+    env_file:
+      - ./admin-service/.env
+
+  api-gateway:
+    build: ./api-gateway
+    image: microservice-gowise/api-gateway
+    container_name: api-gateway
+    ports:
+      - "8081:8081"
+    depends_on:
+      - discovery-server
+    env_file:
+      - ./api-gateway/.env
+
+  demo:
+    build: ./demo
+    image: microservice-gowise/demo
+    container_name: demo
+    ports:
+      - "8082:8082"
+    depends_on:
+      - discovery-server
+    env_file:
+      - ./demo/.env
