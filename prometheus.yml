@@ -1,0 +1,23 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: 'discovery-server'
+    static_configs:
+      - targets: ['discovery-server:8080']
+
+  - job_name: 'admin-service'
+    static_configs:
+      - targets: ['admin-service:8080']
+
+  - job_name: 'api-gateway'
+    static_configs:
+      - targets: ['api-gateway:8081']
+
+  - job_name: 'demo'
+    static_configs:
+      - targets: ['demo:8082']
+
+  - job_name: 'python-service'
+    static_configs:
+      - targets: ['python-service:8000']
