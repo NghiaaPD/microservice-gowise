@@ -41,3 +41,12 @@ services:
       - discovery-server
     env_file:
       - ./demo/.env
+
+  python-service:
+    build: ./python-service
+    image: microservice-gowise/python-service
+    container_name: python-service
+    ports:
+      - "8000:8000"
+    depends_on:
+      - discovery-server

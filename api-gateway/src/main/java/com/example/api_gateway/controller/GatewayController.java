@@ -18,10 +18,20 @@ public class GatewayController {
     @GetMapping("/v1/users")
     public ResponseEntity<Object> forwardToDemo() {
         try {
-            // Sử dụng trực tiếp tên service "DEMO"
             String serviceUrl = loadBalancer.choose("DEMO").getUri().toString();
             String url = serviceUrl + "/v1/users";
 
+            return restTemplate.getForEntity(url, Object.class);
+        } catch (Exception e) {
+            return ResponseEntity.status(500).body("Error: " + e.getMessage());
+        }
+    }
+
+    @GetMapping("/hello")
+    public ResponseEntity<Object> forwardToPythonService() {
+        try {
+            String serviceUrl = loadBalancer.choose("PYTHON-SERVICE").getUri().toString();
+            String url = serviceUrl + "/hello";
             return restTemplate.getForEntity(url, Object.class);
         } catch (Exception e) {
             return ResponseEntity.status(500).body("Error: " + e.getMessage());
