@@ -58,3 +58,12 @@ services:
       - ./prometheus.yml:/etc/prometheus/prometheus.yml
     ports:
       - "9090:9090"
+
+  go-service:
+    build: ./go-service
+    image: microservice-gowise/go-service
+    container_name: go-service
+    ports:
+      - "8002:8002"
+    depends_on:
+      - discovery-server
