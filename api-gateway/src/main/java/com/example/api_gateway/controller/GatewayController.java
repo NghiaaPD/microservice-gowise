@@ -37,4 +37,15 @@ public class GatewayController {
             return ResponseEntity.status(500).body("Error: " + e.getMessage());
         }
     }
+
+    @GetMapping("/v1/ping")
+    public ResponseEntity<Object> forwardToGoService() {
+        try {
+            String serviceUrl = loadBalancer.choose("GO-SERVICE").getUri().toString();
+            String url = serviceUrl + "/v1/ping";
+            return restTemplate.getForEntity(url, Object.class);
+        } catch (Exception e) {
+            return ResponseEntity.status(500).body("Error: " + e.getMessage());
+        }
+    }
 }
