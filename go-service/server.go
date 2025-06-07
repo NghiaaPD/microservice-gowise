@@ -14,11 +14,14 @@ import (
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 )
 
-func registerWithEureka() {
-	for {
-		eurekaURL := os.Getenv("EUREKA_SERVER") + "apps/" + os.Getenv("SERVICE_NAME")
+var instanceID string
 
-		xmlTemplate := `
+func registerWithEureka() {
+	hostName, _ := os.Hostname()
+	instanceID = hostName + ":" + os.Getenv("SERVICE_NAME") + ":" + os.Getenv("SERVICE_PORT")
+	eurekaURL := os.Getenv("EUREKA_SERVER") + "apps/" + os.Getenv("SERVICE_NAME")
+
+	xmlTemplate := `
 		<instance>
 		<hostName>{{.HostName}}</hostName>
 		<app>{{.ServiceName}}</app>
@@ -26,25 +29,29 @@ func registerWithEureka() {
 		<vipAddress>{{.ServiceName}}</vipAddress>
 		<status>UP</status>
 		<port enabled="true">{{.ServicePort}}</port>
+		<instanceId>{{.InstanceID}}</instanceId>
 		<dataCenterInfo class="com.netflix.appinfo.InstanceInfo$DefaultDataCenterInfo">
 			<name>MyOwn</name>
 		</dataCenterInfo>
 		</instance>
 	`
-		data := struct {
-			HostName    string
-			ServiceName string
-			ServicePort string
-		}{
-			HostName:    getLocalIP(),
-			ServiceName: os.Getenv("SERVICE_NAME"),
-			ServicePort: os.Getenv("SERVICE_PORT"),
-		}
+	data := struct {
+		HostName    string
+		ServiceName string
+		ServicePort string
+		InstanceID  string
+	}{
+		HostName:    hostName, // Dùng hostname cho cả hostName và ipAddr
+		ServiceName: os.Getenv("SERVICE_NAME"),
+		ServicePort: os.Getenv("SERVICE_PORT"),
+		InstanceID:  instanceID,
+	}
 
-		var body bytes.Buffer
-		tmpl, _ := template.New("eureka").Parse(xmlTemplate)
-		tmpl.Execute(&body, data)
+	var body bytes.Buffer
+	tmpl, _ := template.New("eureka").Parse(xmlTemplate)
+	tmpl.Execute(&body, data)
 
+	for {
 		req, _ := http.NewRequest("POST", eurekaURL, &body)
 		req.Header.Set("Content-Type", "application/xml")
 		resp, err := http.DefaultClient.Do(req)
@@ -60,7 +67,7 @@ func registerWithEureka() {
 }
 
 func renewWithEureka() {
-	eurekaRenewURL := os.Getenv("EUREKA_SERVER") + "apps/" + os.Getenv("SERVICE_NAME") + "/" + getLocalIP() + ":" + os.Getenv("SERVICE_NAME") + ":" + os.Getenv("SERVICE_PORT")
+	eurekaRenewURL := os.Getenv("EUREKA_SERVER") + "apps/" + os.Getenv("SERVICE_NAME") + "/" + instanceID
 	for {
 		req, _ := http.NewRequest("PUT", eurekaRenewURL, nil)
 		resp, err := http.DefaultClient.Do(req)
@@ -70,7 +77,7 @@ func renewWithEureka() {
 			log.Println("Eureka renew status:", resp.Status)
 			resp.Body.Close()
 		}
-		time.Sleep(30 * time.Second) // Gửi renew mỗi 30s
+		time.Sleep(30 * time.Second)
 	}
 }
 
