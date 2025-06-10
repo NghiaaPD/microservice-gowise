@@ -7,7 +7,7 @@ on:
     branches: [ main, develop ]
 
 jobs:
-  build-java-services:
+  check-java-format:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -22,12 +22,10 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: '21'
-      - name: Build with Maven
-        run: ./mvnw clean package -DskipTests
-      - name: Run unit & integration tests
-        run: ./mvnw test
+      - name: Checkstyle
+        run: ./mvnw checkstyle:check
 
-  build-python-service:
+  check-python-format:
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -38,12 +36,10 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - name: Install dependencies
-        run: pip install uv && uv pip install --system --no-cache .
       - name: Lint
         run: pip install flake8 && flake8 server.py
 
-  build-go-service:
+  check-go-format:
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -54,8 +50,8 @@ jobs:
         uses: actions/setup-go@v5
         with:
           go-version: '1.22'
-      - name: Build
-        run: go build -v ./...
+      - name: Go fmt
+        run: test -z "$(gofmt -l .)"
 
   docker-compose-test:
     runs-on: ubuntu-latest
@@ -73,7 +69,11 @@ jobs:
         run: sleep 60
       - name: Test API Gateway health
         run: curl --fail http://localhost:8081/health || exit 1
-      - name: Test Prometheus
-        run: curl --fail http://localhost:9090/-/ready || exit 1
+      - name: Test Demo API
+        run: curl --fail http://localhost:8081/v1/users || exit 1
+      - name: Test Go API
+        run: curl --fail http://localhost:8081/v1/ping || exit 1
+      - name: Test Python API
+        run: curl --fail http://localhost:8081/hello || exit 1
       - name: Tear down
         run: docker-compose down

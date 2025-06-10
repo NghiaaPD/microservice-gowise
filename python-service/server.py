@@ -5,6 +5,7 @@ from prometheus_fastapi_instrumentator import Instrumentator
 
 app = FastAPI()
 
+
 @app.on_event("startup")
 async def register_to_eureka():
     ip = socket.gethostbyname(socket.gethostname())
@@ -15,8 +16,10 @@ async def register_to_eureka():
         instance_host=ip
     )
 
+
 @app.get("/hello")
 def read_hello():
     return {"message": "hello"}
+
 
 Instrumentator().instrument(app).expose(app)
