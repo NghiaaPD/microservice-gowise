@@ -89,3 +89,19 @@ jobs:
         run: curl --fail http://localhost:8081/hello || exit 1
       - name: Tear down
         run: docker-compose down
+
+  build-java-services:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up JDK 21
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+      - name: Build Java services
+        run: |
+          cd discovery-server && ./mvnw clean package -DskipTests && cd ..
+          cd admin-service && ./mvnw clean package -DskipTests && cd ..
+          cd api-gateway && ./mvnw clean package -DskipTests && cd ..
+          cd demo && ./mvnw clean package -DskipTests && cd ..
