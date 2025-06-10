@@ -15,7 +15,7 @@ public final class DemoApplication {
 
 	/**
 	 * Main method to start the Spring Boot application.
-	 * 
+	 *
 	 * @param args the command line arguments
 	 */
 	public static void main(final String[] args) {
