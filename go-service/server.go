@@ -16,10 +16,21 @@ import (
 
 var instanceID string
 
+func getEnv(key, fallback string) string {
+	val := os.Getenv(key)
+	if val == "" {
+		return fallback
+	}
+	return val
+}
+
 func registerWithEureka() {
 	hostName, _ := os.Hostname()
-	instanceID = hostName + ":" + os.Getenv("SERVICE_NAME") + ":" + os.Getenv("SERVICE_PORT")
-	eurekaURL := os.Getenv("EUREKA_SERVER") + "apps/" + os.Getenv("SERVICE_NAME")
+	serviceName := getEnv("SERVICE_NAME", "GO-SERVICE")
+	servicePort := getEnv("SERVICE_PORT", "8083")
+	eurekaServer := getEnv("EUREKA_SERVER", "http://discovery-server:8761/eureka/")
+	instanceID = hostName + ":" + serviceName + ":" + servicePort
+	eurekaURL := eurekaServer + "apps/" + serviceName
 
 	xmlTemplate := `
 		<instance>
@@ -41,9 +52,9 @@ func registerWithEureka() {
 		ServicePort string
 		InstanceID  string
 	}{
-		HostName:    hostName, // Dùng hostname cho cả hostName và ipAddr
-		ServiceName: os.Getenv("SERVICE_NAME"),
-		ServicePort: os.Getenv("SERVICE_PORT"),
+		HostName:    hostName,
+		ServiceName: serviceName,
+		ServicePort: servicePort,
 		InstanceID:  instanceID,
 	}
 
@@ -67,7 +78,12 @@ func registerWithEureka() {
 }
 
 func renewWithEureka() {
-	eurekaRenewURL := os.Getenv("EUREKA_SERVER") + "apps/" + os.Getenv("SERVICE_NAME") + "/" + instanceID
+	serviceName := getEnv("SERVICE_NAME", "GO-SERVICE")
+	servicePort := getEnv("SERVICE_PORT", "8083")
+	eurekaServer := getEnv("EUREKA_SERVER", "http://discovery-server:8761/eureka/")
+	hostName, _ := os.Hostname()
+	instanceID := hostName + ":" + serviceName + ":" + servicePort
+	eurekaRenewURL := eurekaServer + "apps/" + serviceName + "/" + instanceID
 	for {
 		req, _ := http.NewRequest("PUT", eurekaRenewURL, nil)
 		resp, err := http.DefaultClient.Do(req)
@@ -101,6 +117,7 @@ func main() {
 	if err != nil {
 		log.Println("No .env file found")
 	}
+	servicePort := getEnv("SERVICE_PORT", "8083")
 
 	r := gin.Default()
 	r.GET("/v1/ping", func(c *gin.Context) {
@@ -112,5 +129,5 @@ func main() {
 	})
 	go registerWithEureka()
 	go renewWithEureka()
-	r.Run(":" + os.Getenv("SERVICE_PORT"))
+	r.Run(":" + servicePort)
 }

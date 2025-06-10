@@ -67,13 +67,6 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y docker-compose
-      - name: Copy env example files
-        run: |
-          cp discovery-server/.env.example discovery-server/.env
-          cp admin-service/.env.example admin-service/.env
-          cp go-service/.env.example go-service/.env
-          cp demo/.env.example demo/.env
-          cp api-gateway/.env.example api-gateway/.env
       - name: Build and run all services
         run: docker-compose up --build -d
       - name: Wait for services to be healthy

@@ -8,3 +8,11 @@ GET http://192.168.1.21:8080/v1/users
 ## User
 ### GET user data from API Gateway
 GET http://192.168.1.21:8081/v1/users
+
+## ping
+### GET ping from API Gateway
+GET http://192.168.1.21:8081/v1/ping
+
+## hello
+### GET hello from API Gateway
+GET http://192.168.1.21:8081/hello
