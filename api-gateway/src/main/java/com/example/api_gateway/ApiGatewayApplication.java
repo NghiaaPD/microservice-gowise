@@ -9,7 +9,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  */
 @SpringBootApplication
 @EnableDiscoveryClient
-public class ApiGatewayApplication {
+public final class ApiGatewayApplication {
 
 	private ApiGatewayApplication() {
 		// Prevent instantiation

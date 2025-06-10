@@ -50,7 +50,10 @@ public final class GatewayController {
     @GetMapping("/hello")
     public ResponseEntity<Object> forwardToPythonService() {
         try {
-            String serviceUrl = loadBalancer.choose("PYTHON-SERVICE").getUri().toString();
+            String serviceUrl = loadBalancer
+                    .choose("PYTHON-SERVICE")
+                    .getUri()
+                    .toString();
             String url = serviceUrl + "/hello";
             return restTemplate.getForEntity(url, Object.class);
         } catch (Exception e) {
@@ -67,7 +70,10 @@ public final class GatewayController {
     @GetMapping("/v1/ping")
     public ResponseEntity<Object> forwardToGoService() {
         try {
-            String serviceUrl = loadBalancer.choose("GO-SERVICE").getUri().toString();
+            String serviceUrl = loadBalancer
+                    .choose("GO-SERVICE")
+                    .getUri()
+                    .toString();
             String url = serviceUrl + "/v1/ping";
             return restTemplate.getForEntity(url, Object.class);
         } catch (Exception e) {
