@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 @SpringBootApplication
 @EnableAdminServer
-public class AdminServiceApplication {
+public final class AdminServiceApplication {
 
 	private AdminServiceApplication() {
 		// Prevent instantiation
