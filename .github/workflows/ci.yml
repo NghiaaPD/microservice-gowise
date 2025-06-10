@@ -75,6 +75,12 @@ jobs:
           touch demo/.env
           touch go-service/.env
           touch python-service/.env
+      - name: Build Java services
+        run: |
+          cd discovery-server && ./mvnw clean package -DskipTests && cd ..
+          cd admin-service && ./mvnw clean package -DskipTests && cd ..
+          cd api-gateway && ./mvnw clean package -DskipTests && cd ..
+          cd demo && ./mvnw clean package -DskipTests && cd ..
       - name: Build and run all services
         run: docker-compose up --build -d
       - name: Wait for services to be healthy
