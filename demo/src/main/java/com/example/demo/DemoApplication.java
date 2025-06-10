@@ -10,16 +10,16 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public final class DemoApplication {
 
     private DemoApplication() {
-		// Prevent instantiation
-	}
+        // Prevent instantiation
+    }
 
-	/**
-	 * Main method to start the Spring Boot application.
-	 *
-	 * @param args the command line arguments
-	 */
+    /**
+     * Main method to start the Spring Boot application.
+     *
+     * @param args the command line arguments
+     */
     public static void main(final String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
-	}
+        SpringApplication.run(DemoApplication.class, args);
+    }
 
 }

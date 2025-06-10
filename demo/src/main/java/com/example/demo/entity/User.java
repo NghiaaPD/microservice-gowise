@@ -68,7 +68,7 @@ public class User {
     /**
      * Set user name.
      *
-     * @param name user name
+     * @param newName user name
      */
     public void setName(final String newName) {
         this.name = newName;
@@ -86,7 +86,7 @@ public class User {
     /**
      * Set user email.
      *
-     * @param email user email
+     * @param newEmail user email
      */
     public void setEmail(final String newEmail) {
         this.email = newEmail;
