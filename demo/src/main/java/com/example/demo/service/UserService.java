@@ -14,7 +14,7 @@ public final class UserService {
 
     /**
      * Get all users.
-     * 
+     *
      * @return list of users
      */
     public List<User> getAllUsers() {

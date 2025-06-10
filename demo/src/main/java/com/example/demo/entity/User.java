@@ -30,7 +30,9 @@ public class User {
      * @param userName  user name
      * @param userEmail user email
      */
-    public User(final Long userId, final String userName, final String userEmail) {
+    public User(final Long userId,
+            final String userName,
+            final String userEmail) {
         this.id = userId;
         this.name = userName;
         this.email = userEmail;
@@ -48,10 +50,10 @@ public class User {
     /**
      * Set user id.
      *
-     * @param id user id
+     * @param newId user id
      */
-    public void setId(final Long id) {
-        this.id = id;
+    public void setId(final Long newId) {
+        this.id = newId;
     }
 
     /**
@@ -68,8 +70,8 @@ public class User {
      *
      * @param name user name
      */
-    public void setName(final String name) {
-        this.name = name;
+    public void setName(final String newName) {
+        this.name = newName;
     }
 
     /**
@@ -86,7 +88,7 @@ public class User {
      *
      * @param email user email
      */
-    public void setEmail(final String email) {
-        this.email = email;
+    public void setEmail(final String newEmail) {
+        this.email = newEmail;
     }
 }
