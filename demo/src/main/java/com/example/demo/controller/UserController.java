@@ -24,7 +24,7 @@ public class UserController {
 
     /**
      * Get all users.
-     * 
+     *
      * @return list of users
      */
     @GetMapping("/v1/users")

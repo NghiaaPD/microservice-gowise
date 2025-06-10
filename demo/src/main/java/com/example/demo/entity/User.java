@@ -25,20 +25,20 @@ public class User {
 
     /**
      * Constructor with all fields.
-     * 
+     *
      * @param id    user id
      * @param name  user name
      * @param email user email
      */
-    public User(final Long id, final String name, final String email) {
-        this.id = id;
-        this.name = name;
-        this.email = email;
+    public User(final Long userId, final String userName, final String userEmail) {
+        this.id = userId;
+        this.name = userName;
+        this.email = userEmail;
     }
 
     /**
      * Get user id.
-     * 
+     *
      * @return id
      */
     public Long getId() {
@@ -47,7 +47,7 @@ public class User {
 
     /**
      * Set user id.
-     * 
+     *
      * @param id user id
      */
     public void setId(final Long id) {
@@ -56,7 +56,7 @@ public class User {
 
     /**
      * Get user name.
-     * 
+     *
      * @return name
      */
     public String getName() {
@@ -65,7 +65,7 @@ public class User {
 
     /**
      * Set user name.
-     * 
+     *
      * @param name user name
      */
     public void setName(final String name) {
@@ -74,7 +74,7 @@ public class User {
 
     /**
      * Get user email.
-     * 
+     *
      * @return email
      */
     public String getEmail() {
@@ -83,7 +83,7 @@ public class User {
 
     /**
      * Set user email.
-     * 
+     *
      * @param email user email
      */
     public void setEmail(final String email) {
