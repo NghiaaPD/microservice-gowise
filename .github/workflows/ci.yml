@@ -89,7 +89,7 @@ jobs:
       - name: Build and run all services
         run: docker-compose up --build -d
       - name: Wait for services to be healthy
-        run: sleep 60
+        run: sleep 120
       - name: Test Demo API
         run: curl --fail http://localhost:8081/v1/users || exit 1
       - name: Test Go API
