@@ -67,6 +67,14 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y docker-compose
+      - name: Create empty .env files
+        run: |
+          touch discovery-server/.env
+          touch admin-service/.env
+          touch api-gateway/.env
+          touch demo/.env
+          touch go-service/.env
+          touch python-service/.env
       - name: Build and run all services
         run: docker-compose up --build -d
       - name: Wait for services to be healthy

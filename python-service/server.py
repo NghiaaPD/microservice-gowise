@@ -10,8 +10,10 @@ app = FastAPI()
 @app.on_event("startup")
 async def register_to_eureka():
     ip = socket.gethostbyname(socket.gethostname())
-    eureka_server = os.getenv("EUREKA_SERVER_URL", "http://discovery-server:8761/eureka/")
-    app_name = os.getenv("APPLICATION_NAME", "python-service")
+    eureka_server = os.getenv("EUREKA_SERVER_URL", 
+                              "http://discovery-server:8761/eureka/")
+    app_name = os.getenv("APPLICATION_NAME", 
+                         "python-service")
     instance_port = int(os.getenv("SERVER_PORT", "8001"))
     await eureka_client.init_async(
         eureka_server=eureka_server,
