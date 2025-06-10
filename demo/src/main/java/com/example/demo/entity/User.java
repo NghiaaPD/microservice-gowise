@@ -26,9 +26,9 @@ public class User {
     /**
      * Constructor with all fields.
      *
-     * @param id    user id
-     * @param name  user name
-     * @param email user email
+     * @param userId    user id
+     * @param userName  user name
+     * @param userEmail user email
      */
     public User(final Long userId, final String userName, final String userEmail) {
         this.id = userId;
