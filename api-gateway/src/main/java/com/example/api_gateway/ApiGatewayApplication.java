@@ -11,17 +11,17 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 @EnableDiscoveryClient
 public final class ApiGatewayApplication {
 
-	private ApiGatewayApplication() {
-		// Prevent instantiation
-	}
+    private ApiGatewayApplication() {
+        // Prevent instantiation
+    }
 
-	/**
-	 * Main method to start the Spring Boot application.
-	 *
-	 * @param args the command line arguments
-	 */
-	public static void main(final String[] args) {
-		SpringApplication.run(ApiGatewayApplication.class, args);
-	}
+    /**
+     * Main method to start the Spring Boot application.
+     *
+     * @param args the command line arguments
+     */
+    public static void main(final String[] args) {
+        SpringApplication.run(ApiGatewayApplication.class, args);
+    }
 
 }
