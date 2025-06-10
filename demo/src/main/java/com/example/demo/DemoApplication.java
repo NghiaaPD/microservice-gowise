@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public final class DemoApplication {
 
-	private DemoApplication() {
+    private DemoApplication() {
 		// Prevent instantiation
 	}
 
@@ -18,7 +18,7 @@ public final class DemoApplication {
 	 *
 	 * @param args the command line arguments
 	 */
-	public static void main(final String[] args) {
+    public static void main(final String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
