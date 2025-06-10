@@ -27,7 +27,7 @@ public final class GatewayController {
 
     /**
      * Forward request to demo service.
-     * 
+     *
      * @return response from demo service
      */
     @GetMapping("/v1/users")
@@ -44,7 +44,7 @@ public final class GatewayController {
 
     /**
      * Forward request to python service.
-     * 
+     *
      * @return response from python service
      */
     @GetMapping("/hello")
@@ -64,7 +64,7 @@ public final class GatewayController {
 
     /**
      * Forward request to go service.
-     * 
+     *
      * @return response from go service
      */
     @GetMapping("/v1/ping")

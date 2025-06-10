@@ -12,9 +12,9 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 public final class ApiGatewayApplication {
 
 	private ApiGatewayApplication() {
-		// Prevent instantiation
+        // Prevent instantiation
 	}
-
+	
 	/**
 	 * Main method to start the Spring Boot application.
 	 *
