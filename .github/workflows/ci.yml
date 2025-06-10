@@ -1,0 +1,100 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  check-java-format:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        service: [discovery-server, admin-service, api-gateway, demo]
+    defaults:
+      run:
+        working-directory: ${{ matrix.service }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up JDK 21
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+      - name: Checkstyle
+        run: ./mvnw checkstyle:check
+
+  check-python-format:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: python-service
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: Lint
+        run: pip install flake8 && flake8 server.py
+
+  check-go-format:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: go-service
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+      - name: Go fmt
+        run: test -z "$(gofmt -l .)"
+
+  docker-compose-test:
+    runs-on: ubuntu-latest
+    services:
+      docker:
+        image: docker:24.0.5-dind
+        options: --privileged
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+      - name: Set up JDK 21
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+      - name: Install docker-compose
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y docker-compose
+      - name: Create empty .env files
+        run: |
+          touch discovery-server/.env
+          touch admin-service/.env
+          touch api-gateway/.env
+          touch demo/.env
+          touch go-service/.env
+          touch python-service/.env
+      - name: Build Java services
+        run: |
+          cd discovery-server && ./mvnw clean package -DskipTests && cd ..
+          cd admin-service && ./mvnw clean package -DskipTests && cd ..
+          cd api-gateway && ./mvnw clean package -DskipTests && cd ..
+          cd demo && ./mvnw clean package -DskipTests && cd ..
+      - name: Build and run all services
+        run: docker-compose up --build -d
+      - name: Wait for services to be healthy
+        run: sleep 120
+      - name: Test Demo API
+        run: curl --fail http://localhost:8081/v1/users || exit 1
+      - name: Test Go API
+        run: curl --fail http://localhost:8081/v1/ping || exit 1
+      - name: Test Python API
+        run: curl --fail http://localhost:8081/hello || exit 1
+      - name: Tear down
+        run: docker-compose down
