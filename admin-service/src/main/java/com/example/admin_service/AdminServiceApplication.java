@@ -11,6 +11,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @EnableAdminServer
 public class AdminServiceApplication {
 
+	private AdminServiceApplication() {
+		// Prevent instantiation
+	}
+
 	/**
 	 * Main method to start the Spring Boot application.
 	 *
@@ -19,5 +23,4 @@ public class AdminServiceApplication {
 	public static void main(final String[] args) {
 		SpringApplication.run(AdminServiceApplication.class, args);
 	}
-
 }
