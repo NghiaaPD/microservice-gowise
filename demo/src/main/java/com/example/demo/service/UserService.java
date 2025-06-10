@@ -21,7 +21,10 @@ public final class UserService {
         return Arrays.asList(
                 new User(1L, "Alice", "alice@example.com"),
                 new User(2L, "Bob", "bob@example.com"),
-                new User(UserService.CHARLIE_ID, "Charlie", "charlie@example.com"));
+                new User(
+                    UserService.CHARLIE_ID,
+                    "Charlie",
+                    "charlie@example.com"));
     }
 
     /**
