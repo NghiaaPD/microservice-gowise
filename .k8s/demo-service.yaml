@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  annotations:
+    kompose.cmd: /snap/kompose/19/kompose-linux-amd64 convert -o .k8s
+    kompose.version: 1.21.0 (992df58d8)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: demo
+  name: demo
+spec:
+  ports:
+  - name: "8082"
+    port: 8082
+    targetPort: 8082
+  selector:
+    io.kompose.service: demo
+status:
+  loadBalancer: {}

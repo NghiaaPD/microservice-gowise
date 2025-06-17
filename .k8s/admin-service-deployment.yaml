@@ -1,0 +1,47 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: /snap/kompose/19/kompose-linux-amd64 convert -o .k8s
+    kompose.version: 1.21.0 (992df58d8)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: admin-service
+  name: admin-service
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      io.kompose.service: admin-service
+  strategy: {}
+  template:
+    metadata:
+      annotations:
+        kompose.cmd: /snap/kompose/19/kompose-linux-amd64 convert -o .k8s
+        kompose.version: 1.21.0 (992df58d8)
+      creationTimestamp: null
+      labels:
+        io.kompose.service: admin-service
+    spec:
+      containers:
+      - env:
+        - name: EUREKA_SERVER_URL
+          valueFrom:
+            configMapKeyRef:
+              key: EUREKA_SERVER_URL
+              name: admin-service--env
+        - name: SERVER_PORT
+          valueFrom:
+            configMapKeyRef:
+              key: SERVER_PORT
+              name: admin-service--env
+        image: microservice-gowise/admin-service
+        imagePullPolicy: ""
+        name: admin-service
+        ports:
+        - containerPort: 8080
+        resources: {}
+      restartPolicy: Always
+      serviceAccountName: ""
+      volumes: null
+status: {}

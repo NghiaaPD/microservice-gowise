@@ -1,9 +1,14 @@
+import os
+import socket
 from fastapi import FastAPI
+from dotenv import load_dotenv
 import py_eureka_client.eureka_client as eureka_client
 import socket
+import os
 from prometheus_fastapi_instrumentator import Instrumentator
 
 app = FastAPI()
+
 
 @app.on_event("startup")
 async def register_to_eureka():

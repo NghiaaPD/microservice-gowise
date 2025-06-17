@@ -299,6 +299,7 @@ dependencies = [
     { name = "fastapi" },
     { name = "prometheus-fastapi-instrumentator" },
     { name = "py-eureka-client" },
+    { name = "python-dotenv" },
     { name = "uvicorn", extra = ["standard"] },
 ]
 
@@ -307,6 +308,7 @@ requires-dist = [
     { name = "fastapi", specifier = ">=0.115.12" },
     { name = "prometheus-fastapi-instrumentator", specifier = ">=7.1.0" },
     { name = "py-eureka-client", specifier = ">=0.11.13" },
+    { name = "python-dotenv", specifier = ">=1.1.0" },
     { name = "uvicorn", extras = ["standard"], specifier = ">=0.34.3" },
 ]
 
