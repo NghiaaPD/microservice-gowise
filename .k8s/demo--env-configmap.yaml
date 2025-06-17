@@ -1,0 +1,11 @@
+apiVersion: v1
+data:
+  APPLICATION_NAME: demo
+  EUREKA_SERVER_URL: http://127.0.0.1:8761/eureka/
+  SERVER_PORT: "8082"
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  labels:
+    io.kompose.service: demo-demo--env
+  name: demo--env

@@ -1,0 +1,52 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: /snap/kompose/19/kompose-linux-amd64 convert -o .k8s
+    kompose.version: 1.21.0 (992df58d8)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: discovery-server
+  name: discovery-server
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      io.kompose.service: discovery-server
+  strategy: {}
+  template:
+    metadata:
+      annotations:
+        kompose.cmd: /snap/kompose/19/kompose-linux-amd64 convert -o .k8s
+        kompose.version: 1.21.0 (992df58d8)
+      creationTimestamp: null
+      labels:
+        io.kompose.service: discovery-server
+    spec:
+      containers:
+      - env:
+        - name: APPLICATION_NAME
+          valueFrom:
+            configMapKeyRef:
+              key: APPLICATION_NAME
+              name: discovery-server--env
+        - name: EUREKA_HOSTNAME
+          valueFrom:
+            configMapKeyRef:
+              key: EUREKA_HOSTNAME
+              name: discovery-server--env
+        - name: SERVER_PORT
+          valueFrom:
+            configMapKeyRef:
+              key: SERVER_PORT
+              name: discovery-server--env
+        image: microservice-gowise/discovery-server
+        imagePullPolicy: ""
+        name: discovery-server
+        ports:
+        - containerPort: 8761
+        resources: {}
+      restartPolicy: Always
+      serviceAccountName: ""
+      volumes: null
+status: {}

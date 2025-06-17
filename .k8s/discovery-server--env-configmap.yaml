@@ -1,0 +1,11 @@
+apiVersion: v1
+data:
+  APPLICATION_NAME: 127.0.0.1
+  EUREKA_HOSTNAME: 127.0.0.1
+  SERVER_PORT: "8761"
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  labels:
+    io.kompose.service: discovery-server-discovery-server--env
+  name: discovery-server--env
