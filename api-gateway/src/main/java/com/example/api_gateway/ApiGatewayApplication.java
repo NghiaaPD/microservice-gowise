@@ -4,12 +4,24 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
+/**
+ * Main application class for api-gateway.
+ */
 @SpringBootApplication
 @EnableDiscoveryClient
-public class ApiGatewayApplication {
+public final class ApiGatewayApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ApiGatewayApplication.class, args);
-	}
+    private ApiGatewayApplication() {
+        // Prevent instantiation
+    }
+
+    /**
+     * Main method to start the Spring Boot application.
+     *
+     * @param args the command line arguments
+     */
+    public static void main(final String[] args) {
+        SpringApplication.run(ApiGatewayApplication.class, args);
+    }
 
 }
