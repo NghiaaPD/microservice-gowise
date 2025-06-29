@@ -9,12 +9,47 @@ GET http://192.168.1.21:8080/v1/users
 ### GET user data from API Gateway
 GET http://192.168.1.21:8081/v1/users
 
-## ping
-### GET ping from API Gateway
-GET http://192.168.1.21:8081/v1/ping
+### Register new user
+POST http://192.168.1.21:8081/auth/signup
+Content-Type: application/json
 
-## hello
-### GET hello from API Gateway
-GET http://192.168.1.21:8081/hello
+{
+  "username": "testuser",
+  "email": "test@example.com",
+  "password": "password123"
+}
 
-###
+### Test signin qua API Gateway
+POST http://192.168.1.21:8081/auth/signin
+Content-Type: application/json
+
+{
+  "login": "testuser",
+  "password": "password123"
+}
+
+### Test email configuration (sender email)
+POST http://192.168.1.21:8081/auth/test-email
+Content-Type: application/json
+
+{
+  "email": "nghiapdse182439@fpt.edu.vn"
+}
+
+### Test email to Gmail (destination email)
+POST http://192.168.1.21:8081/auth/test-email
+Content-Type: application/json
+
+{
+  "email": "phanducnghiat1@gmail.com"
+}
+
+### Test signup with real email
+POST http://192.168.1.21:8081/auth/signup
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "email": "phanducnghiat1@gmail.com",
+  "password": "123"
+}
