@@ -5,8 +5,7 @@ nohup mvn spring-boot:run -f discovery-server/pom.xml > .logs/discovery-server.l
 nohup mvn spring-boot:run -f admin-service/pom.xml > .logs/admin-service.log 2>&1 &
 nohup mvn spring-boot:run -f api-gateway/pom.xml > .logs/api-gateway.log 2>&1 &
 nohup mvn spring-boot:run -f demo/pom.xml > .logs/demo.log 2>&1 &
-# Nếu có auth-service:
-# nohup ./mvnw spring-boot:run -f auth-service/pom.xml > auth-service.log 2>&1 &
+nohup mvn spring-boot:run -f auth-service/pom.xml > .logs/auth-service.log 2>&1 &
 
 # RUn service Go ( Gin ) on dev mode
 (cd go-service && nohup go run server.go > ../.logs/go-service.log 2>&1 &)
