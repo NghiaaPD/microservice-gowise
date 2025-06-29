@@ -34,3 +34,4 @@
 **/*.log
 
 python-service/__pycache__
+auth-service
