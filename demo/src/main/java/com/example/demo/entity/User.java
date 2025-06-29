@@ -1,41 +1,94 @@
 package com.example.demo.entity;
 
+/**
+ * User entity.
+ */
 public class User {
+    /**
+     * User id.
+     */
     private Long id;
+    /**
+     * User name.
+     */
     private String name;
+    /**
+     * User email.
+     */
     private String email;
 
+    /**
+     * Default constructor.
+     */
     public User() {
     }
 
-    public User(Long id, String name, String email) {
-        this.id = id;
-        this.name = name;
-        this.email = email;
+    /**
+     * Constructor with all fields.
+     *
+     * @param userId    user id
+     * @param userName  user name
+     * @param userEmail user email
+     */
+    public User(final Long userId,
+            final String userName,
+            final String userEmail) {
+        this.id = userId;
+        this.name = userName;
+        this.email = userEmail;
     }
 
-    // Getter và Setter
+    /**
+     * Get user id.
+     *
+     * @return id
+     */
     public Long getId() {
         return id;
     }
 
-    public void setId(Long id) {
-        this.id = id;
+    /**
+     * Set user id.
+     *
+     * @param newId user id
+     */
+    public void setId(final Long newId) {
+        this.id = newId;
     }
 
+    /**
+     * Get user name.
+     *
+     * @return name
+     */
     public String getName() {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    /**
+     * Set user name.
+     *
+     * @param newName user name
+     */
+    public void setName(final String newName) {
+        this.name = newName;
     }
 
+    /**
+     * Get user email.
+     *
+     * @return email
+     */
     public String getEmail() {
         return email;
     }
 
-    public void setEmail(String email) {
-        this.email = email;
+    /**
+     * Set user email.
+     *
+     * @param newEmail user email
+     */
+    public void setEmail(final String newEmail) {
+        this.email = newEmail;
     }
 }
