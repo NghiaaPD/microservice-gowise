@@ -1,18 +1,14 @@
 package com.example.auth_service.service;
 
-import com.example.auth_service.config.JwtProperties;
 import com.example.auth_service.entity.User;
 import com.example.auth_service.repository.UserRepository;
-import io.jsonwebtoken.Jwts;
-import io.jsonwebtoken.SignatureAlgorithm;
-import io.jsonwebtoken.security.Keys;
+import com.example.auth_service.util.JwtUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
-
-import java.security.Key;
 import java.time.LocalDateTime;
-import java.util.Date;
+import java.util.Map;
+import java.util.HashMap;
 import java.util.Optional;
 import java.util.UUID;
 import org.slf4j.Logger;
@@ -30,14 +26,13 @@ public class AuthService {
     private PasswordEncoder passwordEncoder;
 
     @Autowired
-    private JwtProperties jwtProperties;
+    private JwtUtil jwtUtil;
 
     @Autowired
     private EmailService emailService;
 
-    private Key getSigningKey() {
-        return Keys.hmacShaKeyFor(jwtProperties.getSecret().getBytes());
-    }
+    @Autowired
+    private RefreshTokenService refreshTokenService;
 
     public User createUser(String username, String email, String password) {
         User user = new User();
@@ -93,49 +88,22 @@ public class AuthService {
      * Tạo JWT token chỉ chứa userId, role và thời gian hết hạn
      */
     public String generateToken(User user) {
-        Date now = new Date();
-        Date expiryDate = new Date(now.getTime() + jwtProperties.getExpiration());
-
-        return Jwts.builder()
-                .setSubject(user.getId().toString())
-                .setIssuedAt(now)
-                .setExpiration(expiryDate)
-                .claim("role", user.getRole())
-                .signWith(getSigningKey(), SignatureAlgorithm.HS512)
-                .compact();
+        return jwtUtil.generateToken(user);
     }
 
     /**
      * Validate JWT token
      */
     public boolean validateToken(String token) {
-        try {
-            Jwts.parserBuilder()
-                    .setSigningKey(getSigningKey())
-                    .build()
-                    .parseClaimsJws(token);
-            return true;
-        } catch (Exception e) {
-            return false;
-        }
+        return jwtUtil.validateToken(token);
     }
 
     public String getUserIdFromToken(String token) {
-        return Jwts.parserBuilder()
-                .setSigningKey(getSigningKey())
-                .build()
-                .parseClaimsJws(token)
-                .getBody()
-                .getSubject();
+        return jwtUtil.getUserIdFromToken(token);
     }
 
     public String getRoleFromToken(String token) {
-        return Jwts.parserBuilder()
-                .setSigningKey(getSigningKey())
-                .build()
-                .parseClaimsJws(token)
-                .getBody()
-                .get("role", String.class);
+        return jwtUtil.getRoleFromToken(token);
     }
 
     public Optional<User> findByEmail(String email) {
@@ -156,5 +124,75 @@ public class AuthService {
 
     public boolean validatePassword(User user, String password) {
         return passwordEncoder.matches(password, user.getPassword()); // Sửa từ getPasswordHash() thành getPassword()
+    }
+
+    /**
+     * Tạo access token và refresh token cho user
+     */
+    public Map<String, String> generateTokens(User user) {
+        String accessToken = jwtUtil.generateToken(user);
+        com.example.auth_service.entity.RefreshToken refreshToken = refreshTokenService.createRefreshToken(user);
+
+        Map<String, String> tokens = new HashMap<>();
+        tokens.put("accessToken", accessToken);
+        tokens.put("refreshToken", refreshToken.getToken());
+
+        logger.info("Generated tokens for user: {}", user.getUsername());
+        return tokens;
+    }
+
+    /**
+     * Làm mới access token bằng refresh token
+     */
+    public Map<String, String> refreshAccessToken(String refreshToken) {
+        if (!refreshTokenService.isRefreshTokenValid(refreshToken)) {
+            throw new RuntimeException("Invalid or expired refresh token");
+        }
+
+        Optional<User> userOpt = refreshTokenService.getUserFromRefreshToken(refreshToken);
+        if (userOpt.isEmpty()) {
+            throw new RuntimeException("User not found for refresh token");
+        }
+
+        User user = userOpt.get();
+
+        // Kiểm tra user vẫn active
+        if (!user.getIsActive()) {
+            refreshTokenService.deleteRefreshToken(refreshToken);
+            throw new RuntimeException("User account is inactive");
+        }
+
+        // Tạo access token mới
+        String newAccessToken = jwtUtil.generateToken(user);
+
+        Map<String, String> tokens = new HashMap<>();
+        tokens.put("accessToken", newAccessToken);
+        tokens.put("refreshToken", refreshToken); // Giữ nguyên refresh token
+
+        logger.info("Refreshed access token for user: {}", user.getUsername());
+        return tokens;
+    }
+
+    /**
+     * Logout user - xóa refresh token
+     */
+    public void logout(String refreshToken) {
+        refreshTokenService.deleteRefreshToken(refreshToken);
+        logger.info("User logged out, refresh token deleted");
+    }
+
+    /**
+     * Logout từ tất cả thiết bị - xóa tất cả refresh token của user
+     */
+    public void logoutAllDevices(User user) {
+        refreshTokenService.deleteAllRefreshTokensForUser(user);
+        logger.info("User logged out from all devices: {}", user.getUsername());
+    }
+
+    /**
+     * Xóa tất cả refresh token theo userId
+     */
+    public int deleteAllRefreshTokensByUserId(UUID userId) {
+        return refreshTokenService.deleteAllRefreshTokensByUserId(userId);
     }
 }

@@ -1,5 +1,6 @@
 package com.example.api_gateway.config;
 
+import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.cors.CorsConfiguration;
@@ -12,11 +13,15 @@ import java.util.Arrays;
 public class CorsConfig {
 
     @Bean
-    public CorsFilter corsFilter() {
+    public FilterRegistrationBean<CorsFilter> corsFilterRegistration() {
         CorsConfiguration corsConfiguration = new CorsConfiguration();
 
-        // Cho phép tất cả origins (có thể thay đổi thành domain cụ thể để bảo mật hơn)
-        corsConfiguration.setAllowedOriginPatterns(Arrays.asList("*"));
+        // Cho phép specific origins (thay vì *)
+        corsConfiguration.setAllowedOriginPatterns(Arrays.asList(
+                "http://127.0.0.1:*",
+                "http://localhost:*",
+                "http://nghiapd.kiko-ecrux.ts.net:*",
+                "http://635b-171-235-191-90.ngrok-free.app/"));
 
         // Cho phép tất cả HTTP methods
         corsConfiguration.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"));
@@ -24,8 +29,11 @@ public class CorsConfig {
         // Cho phép tất cả headers
         corsConfiguration.setAllowedHeaders(Arrays.asList("*"));
 
-        // Cho phép credentials (cookies, authorization headers)
+        // Cho phép credentials (cookies, authorization headers) - QUAN TRỌNG!
         corsConfiguration.setAllowCredentials(true);
+
+        // Expose headers để frontend có thể đọc
+        corsConfiguration.setExposedHeaders(Arrays.asList("*"));
 
         // Thời gian cache preflight request (giây)
         corsConfiguration.setMaxAge(3600L);
@@ -33,6 +41,14 @@ public class CorsConfig {
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
         source.registerCorsConfiguration("/**", corsConfiguration);
 
-        return new CorsFilter(source);
+        CorsFilter corsFilter = new CorsFilter(source);
+
+        // Tạo FilterRegistrationBean để set order
+        FilterRegistrationBean<CorsFilter> registrationBean = new FilterRegistrationBean<>();
+        registrationBean.setFilter(corsFilter);
+        registrationBean.setOrder(1); // Chạy đầu tiên, trước JWT filter
+        registrationBean.setName("CorsFilter");
+
+        return registrationBean;
     }
 }

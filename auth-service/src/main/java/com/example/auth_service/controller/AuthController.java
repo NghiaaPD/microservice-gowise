@@ -10,6 +10,7 @@ import org.slf4j.LoggerFactory;
 
 import java.util.Map;
 import java.util.Optional;
+import java.util.UUID;
 
 @RestController
 @RequestMapping("/auth")
@@ -92,14 +93,15 @@ public class AuthController {
                         .body(Map.of("success", false, "message", "Account is inactive"));
             }
 
-            // Tạo JWT token
-            String token = authService.generateToken(user);
+            // Tạo JWT token và refresh token
+            Map<String, String> tokens = authService.generateTokens(user);
             logger.info("User signed in successfully: {}", login);
 
             return ResponseEntity.ok(Map.of(
                     "success", true,
                     "message", "Login successful!",
-                    "token", token,
+                    "accessToken", tokens.get("accessToken"),
+                    "refreshToken", tokens.get("refreshToken"),
                     "user", Map.of(
                             "id", user.getId(),
                             "username", user.getUsername(),
@@ -134,6 +136,83 @@ public class AuthController {
             return ResponseEntity.status(500).body(Map.of(
                     "success", false,
                     "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * API Refresh Token - làm mới access token
+     */
+    @PostMapping("/refresh")
+    public ResponseEntity<?> refreshToken(@RequestBody Map<String, String> request) {
+        try {
+            String refreshToken = request.get("refreshToken");
+
+            if (refreshToken == null || refreshToken.trim().isEmpty()) {
+                return ResponseEntity.badRequest().body(Map.of(
+                        "success", false,
+                        "message", "Refresh token is required"));
+            }
+
+            Map<String, String> tokens = authService.refreshAccessToken(refreshToken);
+
+            return ResponseEntity.ok(Map.of(
+                    "success", true,
+                    "message", "Token refreshed successfully!",
+                    "accessToken", tokens.get("accessToken"),
+                    "refreshToken", tokens.get("refreshToken")));
+
+        } catch (Exception e) {
+            logger.error("Token refresh error: {}", e.getMessage(), e);
+            return ResponseEntity.status(401).body(Map.of(
+                    "success", false,
+                    "message", "Invalid or expired refresh token"));
+        }
+    }
+
+    /**
+     * API Logout - Xóa refresh token theo userId
+     */
+    @PostMapping("/logout")
+    public ResponseEntity<?> logout(@RequestBody Map<String, String> request) {
+        try {
+            String userIdStr = request.get("userId");
+
+            if (userIdStr == null || userIdStr.trim().isEmpty()) {
+                logger.warn("Logout failed: No userId provided");
+                return ResponseEntity.badRequest()
+                        .body(Map.of("success", false, "message", "UserId is required"));
+            }
+
+            UUID userId;
+            try {
+                userId = UUID.fromString(userIdStr);
+            } catch (IllegalArgumentException e) {
+                logger.warn("Logout failed: Invalid UUID format - {}", userIdStr);
+                return ResponseEntity.badRequest()
+                        .body(Map.of("success", false, "message", "Invalid userId format"));
+            }
+
+            // Xóa tất cả refresh token của user này
+            int deletedCount = authService.deleteAllRefreshTokensByUserId(userId);
+
+            if (deletedCount > 0) {
+                logger.info("User {} logged out successfully, deleted {} refresh tokens", userId, deletedCount);
+                return ResponseEntity.ok(Map.of(
+                        "success", true,
+                        "message", "Logged out successfully",
+                        "deletedTokens", deletedCount));
+            } else {
+                logger.warn("Logout: No refresh tokens found for user {}", userId);
+                return ResponseEntity.ok(Map.of(
+                        "success", true,
+                        "message", "User already logged out or no active sessions",
+                        "deletedTokens", 0));
+            }
+
+        } catch (Exception e) {
+            logger.error("Logout error: {}", e.getMessage(), e);
+            return ResponseEntity.status(500)
+                    .body(Map.of("success", false, "message", "Service temporarily unavailable"));
         }
     }
 }

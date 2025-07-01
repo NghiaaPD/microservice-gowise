@@ -241,4 +241,64 @@ public class GatewayController {
                     "message", "Service temporarily unavailable"));
         }
     }
+
+    @PostMapping("/auth/refresh")
+    public ResponseEntity<Object> forwardToAuthServiceRefresh(@RequestBody Map<String, String> request) {
+        try {
+            String serviceUrl = loadBalancer.choose("auth-service").getUri().toString();
+            String url = serviceUrl + "/auth/refresh";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            headers.setAccept(Arrays.asList(MediaType.APPLICATION_JSON));
+
+            HttpEntity<Map<String, String>> entity = new HttpEntity<>(request, headers);
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            try {
+                Object responseBody = objectMapper.readValue(e.getResponseBodyAsString(), Object.class);
+                return ResponseEntity.status(e.getStatusCode()).body(responseBody);
+            } catch (Exception parseException) {
+                return ResponseEntity.status(e.getStatusCode()).body(Map.of(
+                        "success", false,
+                        "message", "Token refresh failed"));
+            }
+        } catch (Exception e) {
+            logger.error("Error connecting to auth service: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    @PostMapping("/auth/logout")
+    public ResponseEntity<Object> forwardToAuthServiceLogout(@RequestBody Map<String, String> request) {
+        try {
+            String serviceUrl = loadBalancer.choose("auth-service").getUri().toString();
+            String url = serviceUrl + "/auth/logout";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            headers.setAccept(Arrays.asList(MediaType.APPLICATION_JSON));
+
+            HttpEntity<Map<String, String>> entity = new HttpEntity<>(request, headers);
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            try {
+                Object responseBody = objectMapper.readValue(e.getResponseBodyAsString(), Object.class);
+                return ResponseEntity.status(e.getStatusCode()).body(responseBody);
+            } catch (Exception parseException) {
+                return ResponseEntity.status(e.getStatusCode()).body(Map.of(
+                        "success", false,
+                        "message", "Logout failed"));
+            }
+        } catch (Exception e) {
+            logger.error("Error connecting to auth service: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
 }
