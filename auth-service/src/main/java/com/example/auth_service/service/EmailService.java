@@ -3,11 +3,16 @@ package com.example.auth_service.service;
 import com.example.auth_service.config.AppProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.mail.SimpleMailMessage;
+import org.springframework.core.io.ClassPathResource;
 import org.springframework.mail.javamail.JavaMailSender;
+import org.springframework.mail.javamail.MimeMessageHelper;
 import org.springframework.stereotype.Service;
+import org.thymeleaf.TemplateEngine;
+import org.thymeleaf.context.Context;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import jakarta.mail.internet.MimeMessage;
 
 @Service
 public class EmailService {
@@ -20,34 +25,40 @@ public class EmailService {
     @Autowired
     private AppProperties appProperties;
 
+    @Autowired
+    private TemplateEngine templateEngine;
+
     @Value("${spring.mail.username}")
     private String fromEmail;
 
     public void sendVerificationEmail(String toEmail, String username, String token) {
         try {
-            SimpleMailMessage message = new SimpleMailMessage();
-            message.setFrom(fromEmail);
-            message.setTo(toEmail);
-            message.setSubject("Account Verification - GoWise");
+            // Tạo context cho template
+            Context context = new Context();
+            context.setVariable("username", username);
+            context.setVariable("verificationUrl", appProperties.getBaseUrl() + "/auth/verify?token=" + token);
 
-            String verificationUrl = appProperties.getBaseUrl() + "/auth/verify?token=" + token;
-            String emailBody = String.format(
-                    "Hi %s,\n\n" +
-                            "Thank you for registering with GoWise!\n\n" +
-                            "Please click the following link to verify your account:\n" +
-                            "%s\n\n" +
-                            "This link will expire in 24 hours.\n\n" +
-                            "If you didn't create this account, please ignore this email.\n\n" +
-                            "Best regards,\n" +
-                            "GoWise Team",
-                    username, verificationUrl);
+            // Render HTML template
+            String htmlContent = templateEngine.process("email/verification-email", context);
 
-            message.setText(emailBody);
-            mailSender.send(message);
+            // Tạo MimeMessage
+            MimeMessage mimeMessage = mailSender.createMimeMessage();
+            MimeMessageHelper helper = new MimeMessageHelper(mimeMessage, true, "UTF-8");
+
+            helper.setFrom(fromEmail);
+            helper.setTo(toEmail);
+            helper.setSubject("Verify Your Email Address - GoWise");
+            helper.setText(htmlContent, true); // true = HTML content
+
+            // Embed logo image
+            ClassPathResource logoResource = new ClassPathResource("asset/logo.png");
+            helper.addInline("logo", logoResource);
+
+            mailSender.send(mimeMessage);
 
             logger.info("Verification email sent to: {}", toEmail);
         } catch (Exception e) {
-            logger.error("Failed to send verification email to {}: {}", toEmail, e.getMessage());
+            logger.error("Failed to send verification email to {}: {}", toEmail, e.getMessage(), e);
             // KHÔNG throw exception nữa - để signup vẫn thành công
         }
     }
