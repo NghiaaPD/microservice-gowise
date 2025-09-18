@@ -1,7 +1,9 @@
 package com.example.auth_service.service;
 
 import com.example.auth_service.config.JwtProperties;
+import com.example.auth_service.entity.RefreshToken;
 import com.example.auth_service.entity.User;
+import com.example.auth_service.repository.RefreshTokenRepository;
 import com.example.auth_service.repository.UserRepository;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
@@ -9,6 +11,7 @@ import io.jsonwebtoken.security.Keys;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.security.Key;
 import java.time.LocalDateTime;
@@ -34,6 +37,9 @@ public class AuthService {
 
     @Autowired
     private EmailService emailService;
+
+    @Autowired
+    private RefreshTokenRepository refreshTokenRepository;
 
     private Key getSigningKey() {
         return Keys.hmacShaKeyFor(jwtProperties.getSecret().getBytes());
@@ -156,5 +162,71 @@ public class AuthService {
 
     public boolean validatePassword(User user, String password) {
         return passwordEncoder.matches(password, user.getPassword()); // Sửa từ getPasswordHash() thành getPassword()
+    }
+
+    /**
+     * Tạo refresh token cho user
+     */
+    public RefreshToken createRefreshToken(User user) {
+        // Xóa tất cả refresh token cũ của user (nếu có nhiều thiết bị, comment dòng
+        // này)
+        // refreshTokenRepository.deleteByUser(user);
+
+        String tokenValue = UUID.randomUUID().toString();
+        LocalDateTime expiresAt = LocalDateTime.now()
+                .plusSeconds(jwtProperties.getRefreshExpiration() / 1000);
+
+        RefreshToken refreshToken = new RefreshToken(user, tokenValue, expiresAt);
+        return refreshTokenRepository.save(refreshToken);
+    }
+
+    /**
+     * Validate và rotate refresh token
+     */
+    @Transactional
+    public RefreshToken validateAndRotateRefreshToken(String tokenValue) {
+        Optional<RefreshToken> tokenOpt = refreshTokenRepository.findByToken(tokenValue);
+
+        if (tokenOpt.isEmpty()) {
+            throw new RuntimeException("Refresh token không tồn tại");
+        }
+
+        RefreshToken oldToken = tokenOpt.get();
+
+        // Kiểm tra hết hạn
+        if (oldToken.getExpiresAt().isBefore(LocalDateTime.now())) {
+            refreshTokenRepository.delete(oldToken);
+            throw new RuntimeException("Refresh token đã hết hạn");
+        }
+
+        User user = oldToken.getUser();
+
+        // Xóa token cũ
+        refreshTokenRepository.delete(oldToken);
+
+        // Tạo token mới
+        return createRefreshToken(user);
+    }
+
+    /**
+     * Xóa refresh token (logout)
+     */
+    public void deleteRefreshToken(String tokenValue) {
+        Optional<RefreshToken> tokenOpt = refreshTokenRepository.findByToken(tokenValue);
+        tokenOpt.ifPresent(refreshTokenRepository::delete);
+    }
+
+    /**
+     * Cleanup expired refresh tokens
+     */
+    @Transactional
+    public void cleanupExpiredRefreshTokens() {
+        LocalDateTime now = LocalDateTime.now();
+        long expiredCount = refreshTokenRepository.countByExpiresAtBefore(now);
+
+        if (expiredCount > 0) {
+            refreshTokenRepository.deleteByExpiresAtBefore(now);
+            logger.info("Cleaned up {} expired refresh tokens", expiredCount);
+        }
     }
 }
