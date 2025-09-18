@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 @ConfigurationProperties(prefix = "app")
 public class AppProperties {
 
-    private String baseUrl = "http://192.168.1.21:8081";
+    private String baseUrl = "http://nghiapd.ddns.net:8081";
 
     public String getBaseUrl() {
         return baseUrl;
