@@ -18,4 +18,6 @@ public interface UserRepository extends JpaRepository<User, UUID> { // Sá»­a tá»
     boolean existsByUsername(String username);
 
     Optional<User> findByVerificationToken(String verificationToken);
+
+    Optional<User> findByResetOtp(String resetOtp);
 }

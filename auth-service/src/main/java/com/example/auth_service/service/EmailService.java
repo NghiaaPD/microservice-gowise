@@ -62,4 +62,39 @@ public class EmailService {
             // KHÔNG throw exception nữa - để signup vẫn thành công
         }
     }
+
+    public void sendPasswordResetEmail(String toEmail, String username, String otp) {
+        try {
+            MimeMessage message = mailSender.createMimeMessage();
+            MimeMessageHelper helper = new MimeMessageHelper(message, true, "UTF-8");
+
+            // Set email properties
+            helper.setFrom(fromEmail);
+            helper.setTo(toEmail);
+            helper.setSubject("Password Reset - Verification Code");
+
+            // Create Thymeleaf context
+            Context context = new Context();
+            context.setVariable("username", username);
+            context.setVariable("otp", otp);
+
+            // Process template
+            String htmlContent = templateEngine.process("email/forgot-password", context);
+
+            // Attach logo
+            ClassPathResource logoResource = new ClassPathResource("asset/logo.png");
+            if (logoResource.exists()) {
+                helper.addInline("logo", logoResource);
+            }
+
+            // Set HTML content
+            helper.setText(htmlContent, true);
+
+            mailSender.send(message);
+            logger.info("Password reset email sent to: {}", toEmail);
+        } catch (Exception e) {
+            logger.error("Failed to send password reset email to {}: {}", toEmail, e.getMessage(), e);
+            throw new RuntimeException("Failed to send password reset email", e);
+        }
+    }
 }

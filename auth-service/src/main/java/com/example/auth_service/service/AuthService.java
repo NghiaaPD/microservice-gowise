@@ -17,6 +17,7 @@ import java.security.Key;
 import java.time.LocalDateTime;
 import java.util.Date;
 import java.util.Optional;
+import java.util.Random;
 import java.util.UUID;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -228,5 +229,107 @@ public class AuthService {
             refreshTokenRepository.deleteByExpiresAtBefore(now);
             logger.info("Cleaned up {} expired refresh tokens", expiredCount);
         }
+    }
+
+    /**
+     * Generate 6-digit OTP
+     */
+    private String generateOtp() {
+        Random random = new Random();
+        int otp = 100000 + random.nextInt(900000); // 6-digit number
+        return String.valueOf(otp);
+    }
+
+    /**
+     * Send password reset OTP to user email
+     */
+    public boolean sendPasswordResetOtp(String email) {
+        Optional<User> userOpt = userRepository.findByEmail(email);
+
+        if (userOpt.isEmpty()) {
+            return false; // User not found
+        }
+
+        User user = userOpt.get();
+
+        // Generate OTP and set expiry (10 minutes)
+        String otp = generateOtp();
+        user.setResetOtp(otp);
+        user.setOtpExpiry(LocalDateTime.now().plusMinutes(10));
+
+        userRepository.save(user);
+
+        // Send OTP email
+        try {
+            emailService.sendPasswordResetEmail(email, user.getUsername(), otp);
+            logger.info("Password reset OTP sent to: {}", email);
+            return true;
+        } catch (Exception e) {
+            logger.error("Failed to send password reset OTP to {}: {}", email, e.getMessage());
+            return false;
+        }
+    }
+
+    /**
+     * Reset password with OTP validation
+     */
+    public boolean resetPasswordWithOtp(String email, String otp, String newPassword) {
+        Optional<User> userOpt = userRepository.findByEmail(email);
+
+        if (userOpt.isEmpty()) {
+            return false; // User not found
+        }
+
+        User user = userOpt.get();
+
+        // Validate OTP
+        if (user.getResetOtp() == null || !user.getResetOtp().equals(otp)) {
+            logger.warn("Invalid OTP for password reset: {}", email);
+            return false;
+        }
+
+        // Check OTP expiry
+        if (user.getOtpExpiry() == null || user.getOtpExpiry().isBefore(LocalDateTime.now())) {
+            logger.warn("Expired OTP for password reset: {}", email);
+            return false;
+        }
+
+        // Update password and clear OTP
+        user.setPassword(passwordEncoder.encode(newPassword));
+        user.setResetOtp(null);
+        user.setOtpExpiry(null);
+
+        userRepository.save(user);
+
+        logger.info("Password reset successfully for: {}", email);
+        return true;
+    }
+
+    /**
+     * Validate OTP without resetting password
+     */
+    public boolean validateOtp(String email, String otp) {
+        Optional<User> userOpt = userRepository.findByEmail(email);
+
+        if (userOpt.isEmpty()) {
+            return false; // User not found
+        }
+
+        User user = userOpt.get();
+
+        // Validate OTP
+        if (user.getResetOtp() == null || !user.getResetOtp().equals(otp)) {
+            logger.warn("Invalid OTP validation attempt: {}", email);
+            return false;
+        }
+
+        // Check OTP expiry
+        if (user.getOtpExpiry() == null || user.getOtpExpiry().isBefore(LocalDateTime.now())) {
+            logger.warn("Expired OTP validation attempt: {}", email);
+            return false;
+        }
+
+        logger.info("OTP validated successfully for: {}", email);
+        return true;
     }
 }

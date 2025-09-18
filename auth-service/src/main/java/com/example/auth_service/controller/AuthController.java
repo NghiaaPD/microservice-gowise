@@ -210,4 +210,125 @@ public class AuthController {
                     .body(Map.of("success", false, "message", "Service temporarily unavailable"));
         }
     }
+
+    /**
+     * API Forgot Password - Send OTP
+     */
+    @PostMapping("/forgot-password")
+    public ResponseEntity<?> forgotPassword(@RequestBody Map<String, String> request) {
+        try {
+            String email = request.get("email");
+
+            if (email == null || email.isEmpty()) {
+                return ResponseEntity.badRequest()
+                        .body(Map.of("success", false, "message", "Email is required"));
+            }
+
+            // Send OTP to email
+            boolean success = authService.sendPasswordResetOtp(email);
+
+            if (success) {
+                logger.info("Password reset OTP sent to: {}", email);
+                return ResponseEntity.ok(Map.of(
+                        "success", true,
+                        "message", "Password reset code has been sent to your email"));
+            } else {
+                return ResponseEntity.badRequest()
+                        .body(Map.of("success", false, "message", "Email not found"));
+            }
+
+        } catch (Exception e) {
+            logger.error("Forgot password error: {}", e.getMessage(), e);
+            return ResponseEntity.status(500)
+                    .body(Map.of("success", false, "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * API Reset Password - Verify OTP and Update Password
+     */
+    @PostMapping("/reset-password")
+    public ResponseEntity<?> resetPassword(@RequestBody Map<String, String> request) {
+        try {
+            String email = request.get("email");
+            String otp = request.get("otp");
+            String newPassword = request.get("new_password");
+
+            if (email == null || email.isEmpty()) {
+                return ResponseEntity.badRequest()
+                        .body(Map.of("success", false, "message", "Email is required"));
+            }
+
+            if (otp == null || otp.isEmpty()) {
+                return ResponseEntity.badRequest()
+                        .body(Map.of("success", false, "message", "OTP is required"));
+            }
+
+            if (newPassword == null || newPassword.isEmpty()) {
+                return ResponseEntity.badRequest()
+                        .body(Map.of("success", false, "message", "New password is required"));
+            }
+
+            if (newPassword.length() < 6) {
+                return ResponseEntity.badRequest()
+                        .body(Map.of("success", false, "message", "Password must be at least 6 characters"));
+            }
+
+            // Reset password with OTP validation
+            boolean success = authService.resetPasswordWithOtp(email, otp, newPassword);
+
+            if (success) {
+                logger.info("Password reset successfully for: {}", email);
+                return ResponseEntity.ok(Map.of(
+                        "success", true,
+                        "message", "Password has been reset successfully"));
+            } else {
+                return ResponseEntity.badRequest()
+                        .body(Map.of("success", false, "message", "Invalid or expired OTP"));
+            }
+
+        } catch (Exception e) {
+            logger.error("Reset password error: {}", e.getMessage(), e);
+            return ResponseEntity.status(500)
+                    .body(Map.of("success", false, "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * API Validate OTP
+     */
+    @PostMapping("/validate-otp")
+    public ResponseEntity<?> validateOtp(@RequestBody Map<String, String> request) {
+        try {
+            String email = request.get("email");
+            String otp = request.get("otp");
+
+            if (email == null || email.isEmpty()) {
+                return ResponseEntity.badRequest()
+                        .body(Map.of("success", false, "message", "Email is required"));
+            }
+
+            if (otp == null || otp.isEmpty()) {
+                return ResponseEntity.badRequest()
+                        .body(Map.of("success", false, "message", "OTP is required"));
+            }
+
+            boolean isValid = authService.validateOtp(email, otp);
+
+            if (isValid) {
+                logger.info("OTP validated successfully for: {}", email);
+                return ResponseEntity.ok(Map.of(
+                        "success", true,
+                        "message", "OTP is valid"));
+            } else {
+                return ResponseEntity.badRequest()
+                        .body(Map.of("success", false, "message", "Invalid or expired OTP"));
+            }
+
+        } catch (Exception e) {
+            logger.error("Validate OTP error: {}", e.getMessage(), e);
+            return ResponseEntity.status(500)
+                    .body(Map.of("success", false, "message", "Service temporarily unavailable"));
+        }
+    }
 }

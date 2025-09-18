@@ -241,4 +241,169 @@ public class GatewayController {
                     "message", "Service temporarily unavailable"));
         }
     }
+
+    /**
+     * Forward forgot password request to auth service.
+     */
+    @PostMapping("/auth/forgot-password")
+    public ResponseEntity<Object> forwardToAuthServiceForgotPassword(@RequestBody Map<String, String> request) {
+        try {
+            String serviceUrl = loadBalancer.choose("auth-service").getUri().toString();
+            String url = serviceUrl + "/auth/forgot-password";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            headers.setAccept(Arrays.asList(MediaType.APPLICATION_JSON));
+
+            HttpEntity<Map<String, String>> entity = new HttpEntity<>(request, headers);
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            try {
+                Object responseBody = objectMapper.readValue(e.getResponseBodyAsString(), Object.class);
+                return ResponseEntity.status(e.getStatusCode()).body(responseBody);
+            } catch (Exception parseException) {
+                return ResponseEntity.status(e.getStatusCode()).body(Map.of(
+                        "success", false,
+                        "message", "Forgot password failed"));
+            }
+        } catch (Exception e) {
+            logger.error("Error connecting to auth service forgot-password: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Forward validate OTP request to auth service.
+     */
+    @PostMapping("/auth/validate-otp")
+    public ResponseEntity<Object> forwardToAuthServiceValidateOtp(@RequestBody Map<String, String> request) {
+        try {
+            String serviceUrl = loadBalancer.choose("auth-service").getUri().toString();
+            String url = serviceUrl + "/auth/validate-otp";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            headers.setAccept(Arrays.asList(MediaType.APPLICATION_JSON));
+
+            HttpEntity<Map<String, String>> entity = new HttpEntity<>(request, headers);
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            try {
+                Object responseBody = objectMapper.readValue(e.getResponseBodyAsString(), Object.class);
+                return ResponseEntity.status(e.getStatusCode()).body(responseBody);
+            } catch (Exception parseException) {
+                return ResponseEntity.status(e.getStatusCode()).body(Map.of(
+                        "success", false,
+                        "message", "OTP validation failed"));
+            }
+        } catch (Exception e) {
+            logger.error("Error connecting to auth service validate-otp: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Forward reset password request to auth service.
+     */
+    @PostMapping("/auth/reset-password")
+    public ResponseEntity<Object> forwardToAuthServiceResetPassword(@RequestBody Map<String, String> request) {
+        try {
+            String serviceUrl = loadBalancer.choose("auth-service").getUri().toString();
+            String url = serviceUrl + "/auth/reset-password";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            headers.setAccept(Arrays.asList(MediaType.APPLICATION_JSON));
+
+            HttpEntity<Map<String, String>> entity = new HttpEntity<>(request, headers);
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            try {
+                Object responseBody = objectMapper.readValue(e.getResponseBodyAsString(), Object.class);
+                return ResponseEntity.status(e.getStatusCode()).body(responseBody);
+            } catch (Exception parseException) {
+                return ResponseEntity.status(e.getStatusCode()).body(Map.of(
+                        "success", false,
+                        "message", "Password reset failed"));
+            }
+        } catch (Exception e) {
+            logger.error("Error connecting to auth service reset-password: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Forward refresh token request to auth service.
+     */
+    @PostMapping("/auth/refresh")
+    public ResponseEntity<Object> forwardToAuthServiceRefresh(@RequestBody Map<String, String> request) {
+        try {
+            String serviceUrl = loadBalancer.choose("auth-service").getUri().toString();
+            String url = serviceUrl + "/auth/refresh";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            headers.setAccept(Arrays.asList(MediaType.APPLICATION_JSON));
+
+            HttpEntity<Map<String, String>> entity = new HttpEntity<>(request, headers);
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            try {
+                Object responseBody = objectMapper.readValue(e.getResponseBodyAsString(), Object.class);
+                return ResponseEntity.status(e.getStatusCode()).body(responseBody);
+            } catch (Exception parseException) {
+                return ResponseEntity.status(e.getStatusCode()).body(Map.of(
+                        "success", false,
+                        "message", "Token refresh failed"));
+            }
+        } catch (Exception e) {
+            logger.error("Error connecting to auth service refresh: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Forward logout request to auth service.
+     */
+    @PostMapping("/auth/logout")
+    public ResponseEntity<Object> forwardToAuthServiceLogout(@RequestBody Map<String, String> request) {
+        try {
+            String serviceUrl = loadBalancer.choose("auth-service").getUri().toString();
+            String url = serviceUrl + "/auth/logout";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            headers.setAccept(Arrays.asList(MediaType.APPLICATION_JSON));
+
+            HttpEntity<Map<String, String>> entity = new HttpEntity<>(request, headers);
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            try {
+                Object responseBody = objectMapper.readValue(e.getResponseBodyAsString(), Object.class);
+                return ResponseEntity.status(e.getStatusCode()).body(responseBody);
+            } catch (Exception parseException) {
+                return ResponseEntity.status(e.getStatusCode()).body(Map.of(
+                        "success", false,
+                        "message", "Logout failed"));
+            }
+        } catch (Exception e) {
+            logger.error("Error connecting to auth service logout: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
 }
