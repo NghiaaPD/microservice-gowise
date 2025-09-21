@@ -33,6 +33,12 @@ public class User {
     @Column(name = "token_expiry")
     private LocalDateTime tokenExpiry;
 
+    @Column(name = "reset_otp")
+    private String resetOtp;
+
+    @Column(name = "otp_expiry")
+    private LocalDateTime otpExpiry;
+
     // Constructors
     public User() {
         this.isActive = false;
@@ -114,5 +120,21 @@ public class User {
 
     public void setTokenExpiry(LocalDateTime tokenExpiry) {
         this.tokenExpiry = tokenExpiry;
+    }
+
+    public String getResetOtp() {
+        return resetOtp;
+    }
+
+    public void setResetOtp(String resetOtp) {
+        this.resetOtp = resetOtp;
+    }
+
+    public LocalDateTime getOtpExpiry() {
+        return otpExpiry;
+    }
+
+    public void setOtpExpiry(LocalDateTime otpExpiry) {
+        this.otpExpiry = otpExpiry;
     }
 }

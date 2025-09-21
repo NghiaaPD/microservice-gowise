@@ -18,6 +18,9 @@ public class JwtProperties {
     @Positive(message = "JWT expiration phải là số dương")
     private long expiration;
 
+    @Positive(message = "JWT refresh expiration phải là số dương")
+    private long refreshExpiration;
+
     public JwtProperties() {
     }
 
@@ -35,5 +38,13 @@ public class JwtProperties {
 
     public void setExpiration(long expiration) {
         this.expiration = expiration;
+    }
+
+    public long getRefreshExpiration() {
+        return refreshExpiration;
+    }
+
+    public void setRefreshExpiration(long refreshExpiration) {
+        this.refreshExpiration = refreshExpiration;
     }
 }
