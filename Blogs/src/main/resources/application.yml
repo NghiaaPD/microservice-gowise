@@ -19,3 +19,7 @@ spring:
   docker:
     compose:
       enabled: false
+
+jwt:
+  secret: "mysupersecretkeymysupersecretkeygowise"
+  expiration: 3600000

@@ -1,13 +1,15 @@
 # Structure
+
 ```swift
 src/main/java/com/example/blogs/
  ├── config/
  │    └── SecurityConfig.java
- │    └── JwtFilter.java
+ │    └── CustomUserDetailsService.java
  ├── controller/
  │    └── BlogController.java
- ├── dto/
- │    └── BlogRequest.java
+ │    └── AuthController.java
+ ├── utils/
+ │    └── JWTUtils.java
  ├── entity/
  │    └── Blog.java
  │    └── User.java
