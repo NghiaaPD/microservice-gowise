@@ -7,8 +7,9 @@ pkill -f 'api-gateway'
 pkill -f 'discovery-server'
 pkill -f 'demo'
 pkill -f 'auth-service'
+pkill -f 'user-service'
 
-lsof -ti :8001-8003 | xargs -r kill -9
+lsof -ti :8001-8003,8085 | xargs -r kill -9
 
 
 rm -f .logs/*.log
