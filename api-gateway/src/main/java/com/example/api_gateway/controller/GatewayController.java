@@ -10,7 +10,9 @@ import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -401,6 +403,303 @@ public class GatewayController {
             }
         } catch (Exception e) {
             logger.error("Error connecting to auth service logout: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    // User Service Endpoints
+
+    /**
+     * Forward GET /users/health to user-service
+     */
+    @GetMapping("/users/health")
+    public ResponseEntity<Object> forwardUserHealth() {
+        try {
+            String serviceUrl = loadBalancer.choose("USER-SERVICE").getUri().toString();
+            String url = serviceUrl + "/users/health";
+            return restTemplate.getForEntity(url, Object.class);
+        } catch (Exception e) {
+            logger.error("Error forwarding to user service health: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Forward GET /users/test to user-service
+     */
+    @GetMapping("/users/test")
+    public ResponseEntity<Object> forwardUserTest() {
+        try {
+            String serviceUrl = loadBalancer.choose("USER-SERVICE").getUri().toString();
+            String url = serviceUrl + "/users/test";
+            return restTemplate.getForEntity(url, Object.class);
+        } catch (Exception e) {
+            logger.error("Error forwarding to user service test: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Forward GET /users/{id} to user-service
+     */
+    @GetMapping("/users/{id}")
+    public ResponseEntity<Object> forwardGetUserById(@PathVariable String id) {
+        try {
+            var serviceInstance = loadBalancer.choose("USER-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("USER-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "User service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/users/" + id;
+            return restTemplate.getForEntity(url, Object.class);
+        } catch (HttpClientErrorException e) {
+            // Forward client errors (like 404) as is
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to user service get user: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Forward GET /users to user-service (get all users)
+     */
+    @GetMapping("/users")
+    public ResponseEntity<Object> forwardGetAllUsers() {
+        try {
+            var serviceInstance = loadBalancer.choose("USER-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("USER-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "User service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/users";
+            return restTemplate.getForEntity(url, Object.class);
+        } catch (Exception e) {
+            logger.error("Error forwarding to user service get all users: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Forward PUT /users/{id} to user-service (update all)
+     */
+    @PutMapping("/users/{id}")
+    public ResponseEntity<Object> forwardUpdateUser(@PathVariable String id, @RequestBody Object body) {
+        try {
+            var serviceInstance = loadBalancer.choose("USER-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("USER-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "User service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/users/" + id;
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+            return restTemplate.exchange(url, HttpMethod.PUT, entity, Object.class);
+        } catch (HttpClientErrorException e) {
+            // Forward client errors (like 404) as is
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to user service update user: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Forward PUT /users/{id}/first_name to user-service
+     */
+    @PutMapping("/users/{id}/first_name")
+    public ResponseEntity<Object> forwardUpdateFirstName(@PathVariable String id, @RequestBody Object body) {
+        try {
+            String serviceUrl = loadBalancer.choose("USER-SERVICE").getUri().toString();
+            String url = serviceUrl + "/users/" + id + "/first_name";
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+            return restTemplate.exchange(url, HttpMethod.PUT, entity, Object.class);
+        } catch (Exception e) {
+            logger.error("Error forwarding to user service update first name: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Forward PUT /users/{id}/last_name to user-service
+     */
+    @PutMapping("/users/{id}/last_name")
+    public ResponseEntity<Object> forwardUpdateLastName(@PathVariable String id, @RequestBody Object body) {
+        try {
+            String serviceUrl = loadBalancer.choose("USER-SERVICE").getUri().toString();
+            String url = serviceUrl + "/users/" + id + "/last_name";
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+            return restTemplate.exchange(url, HttpMethod.PUT, entity, Object.class);
+        } catch (Exception e) {
+            logger.error("Error forwarding to user service update last name: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Forward PUT /users/{id}/language to user-service
+     */
+    @PutMapping("/users/{id}/language")
+    public ResponseEntity<Object> forwardUpdateLanguage(@PathVariable String id, @RequestBody Object body) {
+        try {
+            String serviceUrl = loadBalancer.choose("USER-SERVICE").getUri().toString();
+            String url = serviceUrl + "/users/" + id + "/language";
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+            return restTemplate.exchange(url, HttpMethod.PUT, entity, Object.class);
+        } catch (Exception e) {
+            logger.error("Error forwarding to user service update language: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Forward PUT /users/{id}/region to user-service
+     */
+    @PutMapping("/users/{id}/region")
+    public ResponseEntity<Object> forwardUpdateRegion(@PathVariable String id, @RequestBody Object body) {
+        try {
+            var serviceInstance = loadBalancer.choose("USER-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("USER-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "User service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/users/" + id + "/region";
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+            return restTemplate.exchange(url, HttpMethod.PUT, entity, Object.class);
+        } catch (HttpClientErrorException e) {
+            // Forward client errors (like 404) as is
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to user service update region: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Forward PUT /users/{id}/city to user-service
+     */
+    @PutMapping("/users/{id}/city")
+    public ResponseEntity<Object> forwardUpdateCity(@PathVariable String id, @RequestBody Object body) {
+        try {
+            var serviceInstance = loadBalancer.choose("USER-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("USER-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "User service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/users/" + id + "/city";
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+            return restTemplate.exchange(url, HttpMethod.PUT, entity, Object.class);
+        } catch (HttpClientErrorException e) {
+            // Forward client errors (like 404) as is
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to user service update city: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Forward PUT /users/{id}/is_premium to user-service
+     */
+    @PutMapping("/users/{id}/is_premium")
+    public ResponseEntity<Object> forwardUpdateIsPremium(@PathVariable String id, @RequestBody Object body) {
+        try {
+            var serviceInstance = loadBalancer.choose("USER-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("USER-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "User service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/users/" + id + "/is_premium";
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+            return restTemplate.exchange(url, HttpMethod.PUT, entity, Object.class);
+        } catch (HttpClientErrorException e) {
+            // Forward client errors (like 404) as is
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to user service update is_premium: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Forward PUT /users/{id}/is_add_credit_card to user-service
+     */
+    @PutMapping("/users/{id}/is_add_credit_card")
+    public ResponseEntity<Object> forwardUpdateIsAddCreditCard(@PathVariable String id, @RequestBody Object body) {
+        try {
+            var serviceInstance = loadBalancer.choose("USER-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("USER-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "User service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/users/" + id + "/is_add_credit_card";
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+            return restTemplate.exchange(url, HttpMethod.PUT, entity, Object.class);
+        } catch (HttpClientErrorException e) {
+            // Forward client errors (like 404) as is
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to user service update is_add_credit_card: {}", e.getMessage());
             return ResponseEntity.status(500).body(Map.of(
                     "success", false,
                     "message", "Service temporarily unavailable"));
