@@ -38,21 +38,21 @@ Content-Type: application/json
 
 ###
 GET http://localhost:8080/api/blogs
-Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJVU0VSIl0sImlkIjoxLCJzdWIiOiJ1c2VyMSIsImlhdCI6MTc1ODQ1OTYwNywiZXhwIjoxNzU4NDYzMjA3fQ.9UIojchmNkETPdO61YndmlZTYrhZmOwG6Jt14h7AbP0
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJBRE1JTiJdLCJpZCI6Miwic3ViIjoiYWRtaW4iLCJpYXQiOjE3NTkyNDE3ODksImV4cCI6MTc1OTI0NTM4OX0.GK0y4IEl8TmbXAR-Tm3RmnRIBEDC0wsBoWYskbPx6qs
 
 ###
 POST  http://localhost:8080/api/blogs
-Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJVU0VSIl0sImlkIjoxLCJzdWIiOiJ1c2VyMSIsImlhdCI6MTc1ODQ1OTYwNywiZXhwIjoxNzU4NDYzMjA3fQ.9UIojchmNkETPdO61YndmlZTYrhZmOwG6Jt14h7AbP0
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJVU0VSIl0sImlkIjoxLCJzdWIiOiJ1c2VyMSIsImlhdCI6MTc1OTI0MTY2OCwiZXhwIjoxNzU5MjQ1MjY4fQ.rjys5K2xDjBRB5vxPBlzAcG4uoHReYc-SLphGnY0PTo
 Content-Type: application/json
 
 {
-  "title": "Bài viết number 2",
+  "title": "Bài viết number 1",
   "content": "Đây là nội dung blog test"
 }
 
 ###
 GET http://localhost:8080/api/blogs/admin/pending
-Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJBRE1JTiJdLCJpZCI6Miwic3ViIjoiYWRtaW4iLCJpYXQiOjE3NTg0NTk2MzgsImV4cCI6MTc1ODQ2MzIzOH0.N7jRbiEppQdOqdggB6lc943HA0OqWcHqGwt7IImggSI
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJBRE1JTiJdLCJpZCI6Miwic3ViIjoiYWRtaW4iLCJpYXQiOjE3NTkyNDE3ODksImV4cCI6MTc1OTI0NTM4OX0.GK0y4IEl8TmbXAR-Tm3RmnRIBEDC0wsBoWYskbPx6qs
 
 ###
 PUT http://localhost:8080/api/blogs/admin/1/approve

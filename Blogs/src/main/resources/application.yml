@@ -21,5 +21,5 @@ spring:
       enabled: false
 
 jwt:
-  secret: "mysupersecretkeymysupersecretkeygowise"
-  expiration: 3600000
+  secret: "4pMrj9Q5aOg/Qi9tYfYQLIww81gmtLda4MCRkwCtBhPLgx9bYCzJH0h8ojM0fZ9VQi/Gf0u6XMmiiA7si55glg=="
+  expiration: 600000
