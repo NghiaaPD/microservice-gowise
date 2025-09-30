@@ -20,6 +20,12 @@ spring:
     compose:
       enabled: false
 
+  management:
+    endpoints:
+      web:
+        exposure:
+          include: health,info
+
 jwt:
   secret: "4pMrj9Q5aOg/Qi9tYfYQLIww81gmtLda4MCRkwCtBhPLgx9bYCzJH0h8ojM0fZ9VQi/Gf0u6XMmiiA7si55glg=="
   expiration: 600000

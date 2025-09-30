@@ -76,7 +76,7 @@ public class AuthController {
 
         // Parse roles: chấp nhận String hoặc Collection
         Set<User.Role> roles = parseRoles(req.get("roles"));
-        if (roles.isEmpty()) roles = EnumSet.of(User.Role.USER);
+        if (roles.isEmpty()) roles = EnumSet.of(User.Role.user);
 
         User toSave = User.builder()
                 .username(username.trim())

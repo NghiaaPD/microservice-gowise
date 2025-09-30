@@ -48,7 +48,7 @@ public class JwtFilter extends OncePerRequestFilter {
                     context.setAuthentication(authentication);
                     SecurityContextHolder.setContext(context);
 
-                    // tạm log kiểm tra
+                    // log kiểm tra
                     System.out.println("[JWT] ok user=" + username + " roles=" + roles);
                 } else {
                     System.out.println("[JWT] invalid (signature/expired)");

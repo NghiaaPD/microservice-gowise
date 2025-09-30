@@ -33,7 +33,7 @@ public class User {
     private Set<Role> roles;
 
     public enum Role {
-        ADMIN,
-        USER
+        admin,
+        user
     }
 }
