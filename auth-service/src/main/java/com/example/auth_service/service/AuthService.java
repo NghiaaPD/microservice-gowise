@@ -97,7 +97,7 @@ public class AuthService {
     }
 
     /**
-     * Tạo JWT token chỉ chứa userId, role và thời gian hết hạn
+     * Tạo JWT token chứa userId, email, role và thời gian hết hạn
      */
     public String generateToken(User user) {
         Date now = new Date();
@@ -108,6 +108,7 @@ public class AuthService {
                 .setIssuedAt(now)
                 .setExpiration(expiryDate)
                 .claim("role", user.getRole())
+                .claim("email", user.getEmail())
                 .signWith(getSigningKey(), SignatureAlgorithm.HS512)
                 .compact();
     }
