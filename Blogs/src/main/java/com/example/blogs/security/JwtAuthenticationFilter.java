@@ -1,0 +1,80 @@
+package com.example.blogs.security;
+
+import com.example.blogs.Utils.JwtUtils;
+import jakarta.servlet.FilterChain;
+import jakarta.servlet.ServletException;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+import lombok.RequiredArgsConstructor;
+import org.springframework.http.HttpHeaders;
+import org.springframework.security.authentication.AbstractAuthenticationToken;
+import org.springframework.security.core.authority.SimpleGrantedAuthority;
+import org.springframework.security.core.context.SecurityContextHolder;
+import org.springframework.util.StringUtils;
+import org.springframework.web.filter.OncePerRequestFilter;
+
+import java.io.IOException;
+import java.util.List;
+import java.util.Objects;
+import java.util.UUID;
+import java.util.stream.Collectors;
+
+@RequiredArgsConstructor
+public class JwtAuthenticationFilter extends OncePerRequestFilter {
+
+    private final JwtUtils jwtUtils;
+    private final boolean enableHeaderFallback;
+
+    @Override
+    protected void doFilterInternal(HttpServletRequest request,
+                                    HttpServletResponse response,
+                                    FilterChain chain) throws ServletException, IOException {
+
+        String auth = request.getHeader(HttpHeaders.AUTHORIZATION);
+        boolean authenticated = false;
+
+        if (StringUtils.hasText(auth) && auth.startsWith("Bearer ")) {
+            String token = auth.substring(7);
+            try {
+                JwtUtils.ParsedToken parsed = jwtUtils.parseAndValidate(token);
+                setAuthentication(parsed.userId(), parsed.roles());
+                authenticated = true;
+            } catch (Exception e) {
+                SecurityContextHolder.clearContext();
+            }
+        }
+
+        // Fallback: nếu bật & chưa authenticated & có X-User-Id -> set ROLE_USER
+        if (!authenticated && enableHeaderFallback) {
+            String userHeader = request.getHeader("X-User-Id");
+            if (StringUtils.hasText(userHeader)) {
+                try {
+                    UUID uid = UUID.fromString(userHeader);
+                    setAuthentication(uid, List.of(Role.USER.name()));
+                } catch (IllegalArgumentException ignored) { }
+            }
+        }
+
+        chain.doFilter(request, response);
+    }
+
+    private void setAuthentication(UUID userId, List<String> roles) {
+        List<SimpleGrantedAuthority> authorities = roles.stream()
+                .filter(Objects::nonNull)
+                .map(r -> r.startsWith("ROLE_") ? r : "ROLE_" + r)
+                .map(SimpleGrantedAuthority::new)
+                .collect(Collectors.toList());
+
+        AbstractAuthenticationToken authToken = new AbstractAuthenticationToken(authorities) {
+            @Override
+            public Object getCredentials() { return ""; }
+            @Override
+            public Object getPrincipal() { return userId; }
+        };
+        authToken.setAuthenticated(true);
+        SecurityContextHolder.getContext().setAuthentication(authToken);
+
+        System.out.println("[JWT] user=" + userId + " authorities=" +
+                authorities.stream().map(a -> a.getAuthority()).toList());
+    }
+}

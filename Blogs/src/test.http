@@ -1,63 +1,156 @@
-POST http://localhost:8080/api/auth/register
+@baseUrl = http://localhost:8080
+@userA = 11111111-1111-1111-1111-111111111111
+@userB = 22222222-2222-2222-2222-222222222222
+@adminId = 99999999-9999-9999-9999-999999999999
+@adminJwt = eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI5OTk5OTk5OS05OTk5LTk5OTktOTk5OS05OTk5OTk5OTk5OTkiLCJyb2xlcyI6WyJBRE1JTiJdLCJpYXQiOjE3NTkyOTM1MTUsImV4cCI6MTc1OTI5NDExNX0.KKrf5TVQnUBuf2cjxLfj8gDJZ_7RiYKhothhKmwqvlA
+
+/**
+### Lấy JWT User A
+GET http://localhost:8080/api/auth/token?userId=11111111-1111-1111-1111-111111111111&roles=USER
+
+### Lấy JWT User B
+GET http://localhost:8080/api/auth/token?userId=22222222-2222-2222-2222-222222222222&roles=USER
+
+### Lấy JWT Admin
+GET http://localhost:8080/api/auth/token?userId=99999999-9999-9999-9999-999999999999&roles=ADMIN
+
+**/
+
+/**
+    * ============= USER FLOW — X-User-Id header =============
+    * Lưu ý:
+    * - Cần bật security.fallback-header-auth=true nếu bạn đã bật Spring Security và muốn auth bằng X-User-Id.
+    * - Nếu chưa bật Security, cứ giữ nguyên X-User-Id như hiện tại.
+    */
+
+### 1) Tạo bài viết (User A) -> lưu postId
+# @name createPost
+POST {{baseUrl}}/api/posts
+Content-Type: application/json
+X-User-Id: {{userA}}
+
+{
+  "title": "Hello World",
+  "content": "My very first blog post"
+}
+
+> {%
+    // Lưu postId để dùng cho các request sau
+    const id = response.body.id;
+    client.global.set("postId", id);
+    client.log("Saved postId = " + id);
+%}
+
+### 2) Tác giả xem bài vừa tạo (vẫn PENDING)
+GET {{baseUrl}}/api/posts/{{postId}}
+X-User-Id: {{userA}}
+
+### 3) Người khác (User B) cố xem bài PENDING -> 403
+GET {{baseUrl}}/api/posts/{{postId}}
+X-User-Id: {{userB}}
+
+### 4) Admin duyệt bài -> APPROVE (cần JWT nếu bật Security; nếu chưa bật thì bỏ Authorization)
+# @name adminApprove
+POST {{baseUrl}}/api/admin/posts/{{postId}}/moderate
+Authorization: Bearer {{adminJwt}}
+X-User-Id: {{adminId}}
+Content-Type: application/json
+
+
+{
+  "action": "APPROVE",
+  "note": "Looks good"
+}
+
+### 5) Feed công khai: bài đã APPROVED sẽ xuất hiện
+GET {{baseUrl}}/api/posts/feed
+
+### 6) Like bài (User B) -> trả về tổng số like
+POST {{baseUrl}}/api/posts/{{postId}}/like
+X-User-Id: {{userB}}
+
+### 7) Like lần nữa (idempotent, count không tăng)
+POST {{baseUrl}}/api/posts/{{postId}}/like
+X-User-Id: {{userB}}
+
+### 8) Unlike (User B)
+DELETE {{baseUrl}}/api/posts/{{postId}}/like
+X-User-Id: {{userB}}
+
+### 9) Sửa bài (User A) -> quay về PENDING, publishedAt = null
+PUT {{baseUrl}}/api/posts/{{postId}}
+Content-Type: application/json
+X-User-Id: {{userA}}
+
+{
+  "title": "Hello World (edited)",
+  "content": "Updated content"
+}
+
+### 10) Admin Reject bài sau khi sửa (để test REJECT)
+POST {{baseUrl}}/api/admin/posts/{{postId}}/moderate
+Authorization: Bearer {{adminJwt}}
+X-User-Id: {{adminId}}
 Content-Type: application/json
 
 {
-  "username": "user1",
-  "password": "123456"
+  "action": "REJECT",
+  "note": "Please refine"
 }
 
-###
-POST http://localhost:8080/api/auth/register
+### 11) Tác giả xem bài REJECTED -> 200
+GET {{baseUrl}}/api/posts/{{postId}}
+X-User-Id: {{userA}}
+
+### 12) Người khác xem bài REJECTED -> 403
+GET {{baseUrl}}/api/posts/{{postId}}
+X-User-Id: {{userB}}
+
+### 13) Danh sách bài của tôi (User A)
+GET {{baseUrl}}/api/posts/me?page=0&size=10&sort=createdAt,desc
+X-User-Id: {{userA}}
+
+### 14) Xoá mềm bài (User A)
+DELETE {{baseUrl}}/api/posts/{{postId}}
+X-User-Id: {{userA}}
+
+### 15) Feed sau xoá: bài đã xoá không còn (nếu trước đó approved)
+GET {{baseUrl}}/api/posts/feed
+
+### 16) Gọi admin list pending (để xem hàng chờ)
+GET {{baseUrl}}/api/admin/posts/pending?page=0&size=10&sort=createdAt,desc
+Authorization: Bearer {{adminJwt}}
+
+
+
+/**
+ * ============= USER FLOW — JWT (tuỳ chọn) =============
+ * Dùng khi bạn đã bật Security và muốn bỏ X-User-Id trong controller sau này.
+ * Yêu cầu: token chứa sub = userId (UUID) và roles ["USER"] hoặc ["ADMIN"].
+ */
+
+### (JWT) Tạo bài viết (USER)
+# @name jwtCreatePost
+POST {{baseUrl}}/api/posts
 Content-Type: application/json
+Authorization: Bearer {{adminJwt}}   // hoặc JWT của user thường (vai trò USER)
 
 {
-  "username": "admin",
-  "password": "123456",
-  "roles": [
-    "ADMIN"
-  ]
+  "title": "JWT Post",
+  "content": "Created with JWT principal"
 }
 
-###
-POST http://localhost:8080/api/auth/login
+> {% client.global.set("postIdJwt", response.body.id); %}
+
+### (JWT) Approve bằng token ADMIN
+POST {{baseUrl}}/api/admin/posts/{{postIdJwt}}/moderate
 Content-Type: application/json
+Authorization: Bearer {{adminJwt}}
 
 {
-  "username": "user1",
-  "password": "123456"
+  "action": "APPROVE",
+  "note": "Approved via JWT flow"
 }
 
-###
-POST http://localhost:8080/api/auth/login
-Content-Type: application/json
-
-{
-  "username": "admin",
-  "password": "123456"
-}
-
-###
-GET http://localhost:8080/api/blogs
-Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJBRE1JTiJdLCJpZCI6Miwic3ViIjoiYWRtaW4iLCJpYXQiOjE3NTkyNDE3ODksImV4cCI6MTc1OTI0NTM4OX0.GK0y4IEl8TmbXAR-Tm3RmnRIBEDC0wsBoWYskbPx6qs
-
-###
-POST  http://localhost:8080/api/blogs
-Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJVU0VSIl0sImlkIjoxLCJzdWIiOiJ1c2VyMSIsImlhdCI6MTc1OTI0MTY2OCwiZXhwIjoxNzU5MjQ1MjY4fQ.rjys5K2xDjBRB5vxPBlzAcG4uoHReYc-SLphGnY0PTo
-Content-Type: application/json
-
-{
-  "title": "Bài viết number 1",
-  "content": "Đây là nội dung blog test"
-}
-
-###
-GET http://localhost:8080/api/blogs/admin/pending
-Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJBRE1JTiJdLCJpZCI6Miwic3ViIjoiYWRtaW4iLCJpYXQiOjE3NTkyNDE3ODksImV4cCI6MTc1OTI0NTM4OX0.GK0y4IEl8TmbXAR-Tm3RmnRIBEDC0wsBoWYskbPx6qs
-
-###
-PUT http://localhost:8080/api/blogs/admin/1/approve
-Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJBRE1JTiJdLCJpZCI6Miwic3ViIjoiYWRtaW4iLCJpYXQiOjE3NTg0NTk2MzgsImV4cCI6MTc1ODQ2MzIzOH0.N7jRbiEppQdOqdggB6lc943HA0OqWcHqGwt7IImggSI
-
-###
-DELETE http://localhost:8080/api/blogs/3
-Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJBRE1JTiJdLCJpZCI6Miwic3ViIjoiYWRtaW4iLCJpYXQiOjE3NTg0NTk2MzgsImV4cCI6MTc1ODQ2MzIzOH0.N7jRbiEppQdOqdggB6lc943HA0OqWcHqGwt7IImggSI
+### (JWT) Feed
+GET {{baseUrl}}/api/posts/feed
