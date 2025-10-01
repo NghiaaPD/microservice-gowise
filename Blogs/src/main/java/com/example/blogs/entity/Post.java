@@ -54,10 +54,8 @@ public class Post {
     @Column(nullable = false)
     private boolean deleted = false;
 
-    // Thời điểm được coi là publish (khi APPROVED)
     private Instant publishedAt;
 
-    // Thông tin moderation
     private UUID moderatedByUserId;
     @Column(length = 1000)
     private String moderationNote;

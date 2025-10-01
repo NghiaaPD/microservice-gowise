@@ -16,12 +16,7 @@ GET http://localhost:8080/api/auth/token?userId=99999999-9999-9999-9999-99999999
 
 **/
 
-/**
-    * ============= USER FLOW — X-User-Id header =============
-    * Lưu ý:
-    * - Cần bật security.fallback-header-auth=true nếu bạn đã bật Spring Security và muốn auth bằng X-User-Id.
-    * - Nếu chưa bật Security, cứ giữ nguyên X-User-Id như hiện tại.
-    */
+/*============= USER FLOW — X-User-Id header =============*/
 
 ### 1) Tạo bài viết (User A) -> lưu postId
 # @name createPost
@@ -49,7 +44,7 @@ X-User-Id: {{userA}}
 GET {{baseUrl}}/api/posts/{{postId}}
 X-User-Id: {{userB}}
 
-### 4) Admin duyệt bài -> APPROVE (cần JWT nếu bật Security; nếu chưa bật thì bỏ Authorization)
+### 4) Admin duyệt bài -> APPROVE
 # @name adminApprove
 POST {{baseUrl}}/api/admin/posts/{{postId}}/moderate
 Authorization: Bearer {{adminJwt}}
@@ -125,7 +120,6 @@ Authorization: Bearer {{adminJwt}}
 
 /**
  * ============= USER FLOW — JWT (tuỳ chọn) =============
- * Dùng khi bạn đã bật Security và muốn bỏ X-User-Id trong controller sau này.
  * Yêu cầu: token chứa sub = userId (UUID) và roles ["USER"] hoặc ["ADMIN"].
  */
 
@@ -133,7 +127,7 @@ Authorization: Bearer {{adminJwt}}
 # @name jwtCreatePost
 POST {{baseUrl}}/api/posts
 Content-Type: application/json
-Authorization: Bearer {{adminJwt}}   // hoặc JWT của user thường (vai trò USER)
+Authorization: Bearer {{adminJwt}}
 
 {
   "title": "JWT Post",

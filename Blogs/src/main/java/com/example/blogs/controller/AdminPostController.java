@@ -25,7 +25,7 @@ public class AdminPostController {
         return adminService.listPending(pageable);
     }
 
-    // Approve / Reject bằng một endpoint
+    // Approve / Reject
     @PostMapping("/{postId}/moderate")
     public PostResponse moderate(
             @RequestHeader(value = "X-User-Id", required = false) String userHeader,
