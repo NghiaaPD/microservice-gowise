@@ -1,40 +1,56 @@
 package com.example.blogs.exception;
 
 import jakarta.persistence.EntityNotFoundException;
+import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.Map;
+import java.time.Instant;
 
 @RestControllerAdvice
 public class ApiExceptionHandler {
 
     @ExceptionHandler(EntityNotFoundException.class)
     @ResponseStatus(HttpStatus.NOT_FOUND)
-    public Map<String, String> handleNotFound(EntityNotFoundException ex) {
-        return Map.of("error", ex.getMessage());
+    public ApiError handleNotFound(EntityNotFoundException ex, HttpServletRequest req) {
+        return buildError(HttpStatus.NOT_FOUND, ex.getMessage(), req.getRequestURI());
     }
 
     @ExceptionHandler(SecurityException.class)
     @ResponseStatus(HttpStatus.FORBIDDEN)
-    public Map<String, String> handleForbidden(SecurityException ex) {
-        return Map.of("error", ex.getMessage());
+    public ApiError handleForbidden(SecurityException ex, HttpServletRequest req) {
+        return buildError(HttpStatus.FORBIDDEN, ex.getMessage(), req.getRequestURI());
     }
 
     @ExceptionHandler({IllegalArgumentException.class, MethodArgumentNotValidException.class})
     @ResponseStatus(HttpStatus.BAD_REQUEST)
-    public Map<String, String> handleBadRequest(Exception ex) {
-        String msg = (ex instanceof MethodArgumentNotValidException manve && !manve.getBindingResult().getAllErrors().isEmpty())
+    public ApiError handleBadRequest(Exception ex, HttpServletRequest req) {
+        String msg = (ex instanceof MethodArgumentNotValidException manve &&
+                !manve.getBindingResult().getAllErrors().isEmpty())
                 ? manve.getBindingResult().getAllErrors().get(0).getDefaultMessage()
                 : ex.getMessage();
-        return Map.of("error", msg);
+        return buildError(HttpStatus.BAD_REQUEST, msg, req.getRequestURI());
     }
 
     @ExceptionHandler(DataIntegrityViolationException.class)
     @ResponseStatus(HttpStatus.CONFLICT)
-    public Map<String, String> handleConflict(DataIntegrityViolationException ex) {
-        return Map.of("error", "Data conflict");
+    public ApiError handleConflict(DataIntegrityViolationException ex, HttpServletRequest req) {
+        return buildError(HttpStatus.CONFLICT, "Data conflict", req.getRequestURI());
+    }
+
+    @ExceptionHandler(Exception.class)
+    @ResponseStatus(HttpStatus.INTERNAL_SERVER_ERROR)
+    public ApiError handleGeneric(Exception ex, HttpServletRequest req) {
+        return buildError(HttpStatus.INTERNAL_SERVER_ERROR, ex.getMessage(), req.getRequestURI());
+    }
+
+    private ApiError buildError(HttpStatus status, String message, String path) {
+        return new ApiError(
+                status.value(),
+                status.getReasonPhrase(),
+                message
+        );
     }
 }

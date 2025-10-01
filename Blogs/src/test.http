@@ -2,7 +2,9 @@
 @userA = 11111111-1111-1111-1111-111111111111
 @userB = 22222222-2222-2222-2222-222222222222
 @adminId = 99999999-9999-9999-9999-999999999999
-@adminJwt = eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI5OTk5OTk5OS05OTk5LTk5OTktOTk5OS05OTk5OTk5OTk5OTkiLCJyb2xlcyI6WyJBRE1JTiJdLCJpYXQiOjE3NTkyOTM1MTUsImV4cCI6MTc1OTI5NDExNX0.KKrf5TVQnUBuf2cjxLfj8gDJZ_7RiYKhothhKmwqvlA
+@adminJwt = eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI5OTk5OTk5OS05OTk5LTk5OTktOTk5OS05OTk5OTk5OTk5OTkiLCJyb2xlcyI6WyJBRE1JTiJdLCJpYXQiOjE3NTkzMDcwODEsImV4cCI6MTc1OTMwNzY4MX0.z2vS1DneujQFAxbYLZK-HY2c2-kGOGBJCUdYRjApwwI
+@userAJwt = eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMTExMTExMS0xMTExLTExMTEtMTExMS0xMTExMTExMTExMTEiLCJyb2xlcyI6WyJVU0VSIl0sImlhdCI6MTc1OTMwNzAwOCwiZXhwIjoxNzU5MzA3NjA4fQ.hc32QF78xWIvj9uuM9AcYFh4c8x1SPysK_-_T2_-bi4
+
 
 /**
 ### Lấy JWT User A
@@ -31,7 +33,7 @@ X-User-Id: {{userA}}
 
 > {%
     // Lưu postId để dùng cho các request sau
-    const id = response.body.id;
+    const id = response.body.data.id;
     client.global.set("postId", id);
     client.log("Saved postId = " + id);
 %}
@@ -127,14 +129,14 @@ Authorization: Bearer {{adminJwt}}
 # @name jwtCreatePost
 POST {{baseUrl}}/api/posts
 Content-Type: application/json
-Authorization: Bearer {{adminJwt}}
+Authorization: Bearer {{userAJwt}}
 
 {
   "title": "JWT Post",
   "content": "Created with JWT principal"
 }
 
-> {% client.global.set("postIdJwt", response.body.id); %}
+> {% client.global.set("postIdJwt", response.body.data.id); %}
 
 ### (JWT) Approve bằng token ADMIN
 POST {{baseUrl}}/api/admin/posts/{{postIdJwt}}/moderate

@@ -1,8 +1,6 @@
 package com.example.blogs.controller;
 
-import com.example.blogs.dto.PostCreateRequest;
-import com.example.blogs.dto.PostResponse;
-import com.example.blogs.dto.PostUpdateRequest;
+import com.example.blogs.dto.*;
 import com.example.blogs.exception.UserIdResolver;
 import com.example.blogs.service.PostService;
 import jakarta.validation.Valid;
@@ -10,8 +8,13 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.security.core.Authentication;
+import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.server.ResponseStatusException;
 
+import java.util.Map;
 import java.util.UUID;
 
 @RestController
@@ -21,77 +24,105 @@ public class PostController {
 
     private final PostService postService;
 
+//    Create new blog
     @PostMapping
-    @ResponseStatus(HttpStatus.CREATED)
-    public PostResponse create(
-            @RequestHeader("X-User-Id") String userHeader,
+    public ResponseEntity<ApiResponse<PostResponse>> create(
+            Authentication auth,
+            @RequestHeader(value = "X-User-Id", required = false) String userHeader,
             @Valid @RequestBody PostCreateRequest req
     ) {
-        UUID userId = UserIdResolver.requireUserId(userHeader);
-        return postService.create(userId, req);
+        UUID userId;
+        if (StringUtils.hasText(userHeader)) {
+            userId = UserIdResolver.requireUserId(userHeader);
+            if (auth != null && auth.getPrincipal() instanceof UUID jwtUserId && !jwtUserId.equals(userId)) {
+                throw new ResponseStatusException(HttpStatus.FORBIDDEN, "X-User-Id does not match JWT");
+            }
+        } else {
+            if (auth == null || auth.getPrincipal() == null) {
+                throw new ResponseStatusException(HttpStatus.UNAUTHORIZED, "Missing authentication");
+            }
+            userId = (UUID) auth.getPrincipal();
+        }
+
+        PostResponse post = postService.create(userId, req);
+        return ResponseEntity.status(HttpStatus.CREATED)
+                .body(ApiResponse.created(post, Map.of("author", userId.toString())));
     }
 
+//    Update blog
     @PutMapping("/{postId}")
-    public PostResponse update(
+    public ResponseEntity<ApiResponse<PostResponse>> update(
             @RequestHeader("X-User-Id") String userHeader,
             @PathVariable UUID postId,
             @Valid @RequestBody PostUpdateRequest req
     ) {
         UUID userId = UserIdResolver.requireUserId(userHeader);
-        return postService.update(userId, postId, req);
+        PostResponse body = postService.update(userId, postId, req);
+        return ResponseEntity.status(HttpStatus.OK).body(ApiResponse.ok(body));
     }
 
+//    Soft Delete
     @DeleteMapping("/{postId}")
-    @ResponseStatus(HttpStatus.NO_CONTENT)
-    public void delete(
+    public ResponseEntity<ApiResponse<Void>> delete(
             @RequestHeader("X-User-Id") String userHeader,
             @PathVariable UUID postId
     ) {
         UUID userId = UserIdResolver.requireUserId(userHeader);
         postService.softDelete(userId, postId);
+        return ResponseEntity.status(HttpStatus.OK).body(ApiResponse.ok(null));
     }
 
+//    return a blog with user right
     @GetMapping("/{postId}")
-    public PostResponse getOne(
+    public ResponseEntity<ApiResponse<PostResponse>> getOne(
             @RequestHeader("X-User-Id") String userHeader,
             @PathVariable UUID postId
     ) {
         UUID userId = UserIdResolver.requireUserId(userHeader);
-        return postService.getOne(postId, userId);
+        PostResponse body = postService.getOne(postId, userId);
+        return  ResponseEntity.status(HttpStatus.OK).body(ApiResponse.ok(body));
     }
 
     // Feed: chỉ bài APPROVED
     @GetMapping("/feed")
-    public Page<PostResponse> feed(Pageable pageable) {
-        return postService.getFeed(pageable);
+    public ResponseEntity<ApiResponse<PageResponse<PostResponse>>> feed(Pageable pageable) {
+        Page<PostResponse> body = postService.getFeed(pageable);
+        return ResponseEntity.status(HttpStatus.OK).body(ApiResponse.ok(PageResponse.from(body)));
     }
 
     // Bài của chính mình (mọi trạng thái, trừ deleted)
     @GetMapping("/me")
-    public Page<PostResponse> myPosts(
+    public ResponseEntity<ApiResponse<PageResponse<PostResponse>>> myPosts(
             @RequestHeader("X-User-Id") String userHeader,
             Pageable pageable
     ) {
         UUID userId = UserIdResolver.requireUserId(userHeader);
-        return postService.getMyPosts(userId, pageable);
+        Page<PostResponse> body = postService.getMyPosts(userId, pageable);
+        long totalLikes = 0;
+        for (PostResponse p : body.getContent()) {
+            totalLikes += p.getLikeCount();
+        }
+        return ResponseEntity.status(HttpStatus.OK).body(ApiResponse.ok(PageResponse.from(body), Map.of("totalLike", totalLikes)));
     }
 
     // Like / Unlike
     @PostMapping("/{postId}/like")
-    public long like(
+    public ResponseEntity<ApiResponse<Long>> like(
             @RequestHeader("X-User-Id") String userHeader,
             @PathVariable UUID postId
     ) {
         UUID userId = UserIdResolver.requireUserId(userHeader);
-        return postService.like(userId, postId);
+        long count = postService.like(userId, postId);
+        return ResponseEntity.ok(ApiResponse.ok(count));
     }
 
     @DeleteMapping("/{postId}/like")
-    public long unlike(
+    public ResponseEntity<ApiResponse<Long>> unlike(
             @RequestHeader("X-User-Id") String userHeader,
             @PathVariable UUID postId
     ) {
         UUID userId = UserIdResolver.requireUserId(userHeader);
-        return postService.unlike(userId, postId);
+        long count = postService.unlike(userId, postId);
+        return ResponseEntity.ok(ApiResponse.ok(count));
     }
 }

@@ -133,11 +133,7 @@ public class PostServiceImpl implements PostService {
                 .title(p.getTitle())
                 .content(p.getContent())
                 .status(p.getStatus())
-                .deleted(p.isDeleted())
-                .publishedAt(p.getPublishedAt())
                 .likeCount(likeCount)
-                .createdAt(p.getCreatedAt())
-                .updatedAt(p.getUpdatedAt())
                 .build();
     }
 }

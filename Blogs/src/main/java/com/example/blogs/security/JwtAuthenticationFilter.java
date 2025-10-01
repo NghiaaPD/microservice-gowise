@@ -1,12 +1,15 @@
 package com.example.blogs.security;
 
 import com.example.blogs.Utils.JwtUtils;
+import com.example.blogs.exception.ApiError;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpStatus;
 import org.springframework.security.authentication.AbstractAuthenticationToken;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.context.SecurityContextHolder;
@@ -14,6 +17,7 @@ import org.springframework.util.StringUtils;
 import org.springframework.web.filter.OncePerRequestFilter;
 
 import java.io.IOException;
+import java.time.Instant;
 import java.util.List;
 import java.util.Objects;
 import java.util.UUID;
@@ -40,7 +44,18 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
                 setAuthentication(parsed.userId(), parsed.roles());
                 authenticated = true;
             } catch (Exception e) {
+                // Token sai hoặc hết hạn => trả 401 JSON
                 SecurityContextHolder.clearContext();
+
+                ApiError body = new ApiError(
+                        HttpStatus.UNAUTHORIZED.value(),
+                        HttpStatus.UNAUTHORIZED.getReasonPhrase(),
+                        "Invalid or expired token"
+                );
+                response.setStatus(HttpStatus.UNAUTHORIZED.value());
+                response.setContentType("application/json");
+                new ObjectMapper().writeValue(response.getWriter(), body);
+                return; // Dừng chain, không cho đi tiếp
             }
         }
 
@@ -70,6 +85,8 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
             public Object getCredentials() { return ""; }
             @Override
             public Object getPrincipal() { return userId; }
+            @Override
+            public String getName() { return userId.toString(); }
         };
         authToken.setAuthenticated(true);
         SecurityContextHolder.getContext().setAuthentication(authToken);

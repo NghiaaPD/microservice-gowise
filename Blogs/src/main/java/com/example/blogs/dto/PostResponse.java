@@ -15,10 +15,6 @@ public class PostResponse {
     String title;
     String content;
     PostStatus status;
-    boolean deleted;
-    Instant publishedAt;
     long likeCount;
-    Instant createdAt;
-    Instant updatedAt;
 }
 

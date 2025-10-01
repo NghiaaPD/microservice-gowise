@@ -26,6 +26,9 @@ public class SecurityConfig {
     @Value("${security.fallback-header-auth:false}")
     private boolean fallbackHeaderAuth;
 
+    private final JsonAuthenticationEntryPoint authenticationEntryPoint; // 401
+    private final JsonAccessDeniedHandler accessDeniedHandler;           // 403
+
     @Bean
     public JwtUtils jwtUtils() {
         return new JwtUtils(base64Secret, ttlSeconds);
@@ -35,22 +38,25 @@ public class SecurityConfig {
     public SecurityFilterChain apiFilterChain(HttpSecurity http, JwtUtils jwtUtils) throws Exception {
         JwtAuthenticationFilter jwtFilter = new JwtAuthenticationFilter(jwtUtils, fallbackHeaderAuth);
 
-        http
+        return http
                 .csrf(AbstractHttpConfigurer::disable)
                 .cors(Customizer.withDefaults())
                 .sessionManagement(sm -> sm.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
+                .exceptionHandling(eh -> eh
+                        .authenticationEntryPoint(authenticationEntryPoint)
+                        .accessDeniedHandler(accessDeniedHandler)
+                )
                 .authorizeHttpRequests(auth -> auth
-                        // public endpoints
+                        // public
                         .requestMatchers(HttpMethod.GET, "/api/posts/feed").permitAll()
                         .requestMatchers("/actuator/health").permitAll()
                         .requestMatchers("/api/auth/**").permitAll()
-                        // admin endpoints
+                        // admin
                         .requestMatchers("/api/admin/**").hasRole("ADMIN")
-                        // còn lại yêu cầu authenticated
+                        // còn lại
                         .anyRequest().authenticated()
                 )
-                .addFilterBefore(jwtFilter, UsernamePasswordAuthenticationFilter.class);
-
-        return http.build();
+                .addFilterBefore(jwtFilter, UsernamePasswordAuthenticationFilter.class)
+                .build();
     }
 }
