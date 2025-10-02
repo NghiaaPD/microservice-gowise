@@ -37,7 +37,6 @@ public class AdminPostController {
             @Valid @RequestBody ModerateRequest req
     ) {
         UUID adminUserId = (UUID) auth.getPrincipal();
-        // Nếu bạn vẫn muốn check header khớp với principal
         if (StringUtils.hasText(userHeader) && !adminUserId.equals(UUID.fromString(userHeader))) {
             throw new ResponseStatusException(HttpStatus.FORBIDDEN, "X-User-Id does not match token");
         }
