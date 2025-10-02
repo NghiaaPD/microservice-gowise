@@ -1,9 +1,13 @@
 package com.example.user_service.controller;
 
+import com.example.user_service.entity.CreditCard;
 import com.example.user_service.entity.User;
+import com.example.user_service.service.CreditCardService;
 import com.example.user_service.service.UserService;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotNull;
+import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Size;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -26,6 +30,9 @@ public class UserController {
 
     @Autowired
     private UserService userService;
+
+    @Autowired
+    private CreditCardService creditCardService;
 
     @GetMapping("/health")
     public String health() {
@@ -272,6 +279,164 @@ public class UserController {
         }
     }
 
+    // ==================== CREDIT CARD ENDPOINTS ====================
+
+    /**
+     * POST /users/{id}/credit-cards - Add credit card for user
+     */
+    @PostMapping("/{id}/credit-cards")
+    public ResponseEntity<Map<String, Object>> addCreditCard(
+            @PathVariable UUID id,
+            @RequestBody @Valid AddCreditCardRequest request) {
+
+        logger.info("POST /users/{}/credit-cards - Adding credit card", id);
+        logger.info("Request details: cardType={}, expiryMonth={}, expiryYear={}, setAsDefault={}",
+                request.getCardType(), request.getExpiryMonth(), request.getExpiryYear(), request.getSetAsDefault());
+
+        Map<String, Object> response = new HashMap<>();
+
+        try {
+            CreditCard creditCard = creditCardService.addCreditCard(
+                    id,
+                    request.getCardNumber(),
+                    request.getCardType(),
+                    request.getExpiryMonth(),
+                    request.getExpiryYear(),
+                    request.getSetAsDefault());
+
+            response.put("success", true);
+            response.put("message", "Credit card added successfully and is_add_credit_card updated to true");
+            response.put("data", Map.of(
+                    "cardId", creditCard.getId(),
+                    "lastFourDigits", creditCard.getLastFourDigits(),
+                    "cardType", creditCard.getCardType(),
+                    "isDefault", creditCard.getIsDefault(),
+                    "expiryMonth", creditCard.getExpiryMonth(),
+                    "expiryYear", creditCard.getExpiryYear()));
+
+            logger.info("Credit card added successfully for user {}: cardId={}", id, creditCard.getId());
+            return ResponseEntity.ok(response);
+
+        } catch (Exception e) {
+            logger.error("Failed to add credit card for user {}: {}", id, e.getMessage());
+            response.put("success", false);
+            response.put("message", "Failed to add credit card: " + e.getMessage());
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(response);
+        }
+    }
+
+    /**
+     * GET /users/{id}/credit-cards - Get all credit cards for user
+     */
+    @GetMapping("/{id}/credit-cards")
+    public ResponseEntity<Map<String, Object>> getUserCreditCards(@PathVariable UUID id) {
+
+        logger.info("GET /users/{}/credit-cards - Fetching credit cards", id);
+
+        Map<String, Object> response = new HashMap<>();
+
+        try {
+            List<CreditCard> creditCards = creditCardService.getUserCreditCards(id);
+
+            // Convert to safe response format (không trả về số thẻ đã mã hóa)
+            List<Map<String, Object>> safeCards = creditCards.stream()
+                    .map(card -> {
+                        Map<String, Object> cardMap = new HashMap<>();
+                        cardMap.put("cardId", card.getId());
+                        cardMap.put("lastFourDigits", card.getLastFourDigits());
+                        cardMap.put("cardType", card.getCardType());
+                        cardMap.put("isDefault", card.getIsDefault());
+                        cardMap.put("expiryMonth", card.getExpiryMonth());
+                        cardMap.put("expiryYear", card.getExpiryYear());
+                        cardMap.put("createdAt", card.getCreatedAt());
+                        return cardMap;
+                    })
+                    .toList();
+
+            response.put("success", true);
+            response.put("message", "Credit cards retrieved successfully");
+            response.put("data", safeCards);
+            response.put("count", creditCards.size());
+
+            logger.info("Retrieved {} credit cards for user {}", creditCards.size(), id);
+            return ResponseEntity.ok(response);
+
+        } catch (Exception e) {
+            logger.error("Failed to get credit cards for user {}: {}", id, e.getMessage());
+            response.put("success", false);
+            response.put("message", "Failed to retrieve credit cards: " + e.getMessage());
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(response);
+        }
+    }
+
+    /**
+     * PUT /users/{id}/credit-cards/{cardId}/default - Set credit card as default
+     */
+    @PutMapping("/{id}/credit-cards/{cardId}/default")
+    public ResponseEntity<Map<String, Object>> setDefaultCreditCard(
+            @PathVariable UUID id,
+            @PathVariable UUID cardId) {
+
+        logger.info("PUT /users/{}/credit-cards/{}/default - Setting as default card", id, cardId);
+
+        Map<String, Object> response = new HashMap<>();
+
+        try {
+            boolean updated = creditCardService.setDefaultCreditCard(id, cardId);
+            if (updated) {
+                response.put("success", true);
+                response.put("message", "Credit card set as default successfully");
+                logger.info("Credit card {} set as default for user {}", cardId, id);
+                return ResponseEntity.ok(response);
+            } else {
+                response.put("success", false);
+                response.put("message", "Credit card not found or doesn't belong to user");
+                logger.warn("Failed to set credit card {} as default for user {}", cardId, id);
+                return ResponseEntity.status(HttpStatus.NOT_FOUND).body(response);
+            }
+        } catch (Exception e) {
+            logger.error("Error setting credit card {} as default for user {}: {}", cardId, id, e.getMessage());
+            response.put("success", false);
+            response.put("message", "Failed to set default card: " + e.getMessage());
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(response);
+        }
+    }
+
+    /**
+     * DELETE /users/{id}/credit-cards/{cardId} - Delete credit card
+     */
+    @DeleteMapping("/{id}/credit-cards/{cardId}")
+    public ResponseEntity<Map<String, Object>> deleteCreditCard(
+            @PathVariable UUID id,
+            @PathVariable UUID cardId) {
+
+        logger.info("DELETE /users/{}/credit-cards/{} - Deleting credit card", id, cardId);
+
+        Map<String, Object> response = new HashMap<>();
+
+        try {
+            boolean deleted = creditCardService.deleteCreditCard(id, cardId);
+            if (deleted) {
+                response.put("success", true);
+                response.put("message", "Credit card deleted successfully");
+                logger.info("Credit card {} deleted for user {}", cardId, id);
+                return ResponseEntity.ok(response);
+            } else {
+                response.put("success", false);
+                response.put("message", "Credit card not found or doesn't belong to user");
+                logger.warn("Failed to delete credit card {} for user {}", cardId, id);
+                return ResponseEntity.status(HttpStatus.NOT_FOUND).body(response);
+            }
+        } catch (Exception e) {
+            logger.error("Error deleting credit card {} for user {}: {}", cardId, id, e.getMessage());
+            response.put("success", false);
+            response.put("message", "Failed to delete card: " + e.getMessage());
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(response);
+        }
+    }
+
+    // ==================== REQUEST DTOs ====================
+
     // Request DTOs for validation
     public static class UpdateUserRequest {
         @NotBlank(message = "First name is required")
@@ -439,6 +604,64 @@ public class UserController {
 
         public void setIsAddCreditCard(Boolean isAddCreditCard) {
             this.isAddCreditCard = isAddCreditCard;
+        }
+    }
+
+    public static class AddCreditCardRequest {
+        @NotBlank(message = "Card number is required")
+        @Pattern(regexp = "^[0-9]{13,19}$", message = "Card number must be 13-19 digits")
+        private String cardNumber;
+
+        @NotNull(message = "Card type is required")
+        private CreditCard.CardType cardType;
+
+        @NotNull(message = "Expiry month is required")
+        private Short expiryMonth;
+
+        @NotNull(message = "Expiry year is required")
+        private Short expiryYear;
+
+        private Boolean setAsDefault;
+
+        // Getters and Setters
+        public String getCardNumber() {
+            return cardNumber;
+        }
+
+        public void setCardNumber(String cardNumber) {
+            this.cardNumber = cardNumber;
+        }
+
+        public CreditCard.CardType getCardType() {
+            return cardType;
+        }
+
+        public void setCardType(CreditCard.CardType cardType) {
+            this.cardType = cardType;
+        }
+
+        public Short getExpiryMonth() {
+            return expiryMonth;
+        }
+
+        public void setExpiryMonth(Short expiryMonth) {
+            this.expiryMonth = expiryMonth;
+        }
+
+        public Short getExpiryYear() {
+            return expiryYear;
+        }
+
+        public void setExpiryYear(Short expiryYear) {
+            this.expiryYear = expiryYear;
+        }
+
+        public Boolean getSetAsDefault() {
+            return setAsDefault;
+        }
+
+        public void setSetAsDefault(Boolean setAsDefault) {
+            this.setAsDefault = setAsDefault;
         }
     }
 }
