@@ -1,7 +1,9 @@
 package com.example.auth_service.service;
 
 import com.example.auth_service.config.JwtProperties;
+import com.example.auth_service.entity.RefreshToken;
 import com.example.auth_service.entity.User;
+import com.example.auth_service.repository.RefreshTokenRepository;
 import com.example.auth_service.repository.UserRepository;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
@@ -9,11 +11,13 @@ import io.jsonwebtoken.security.Keys;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.security.Key;
 import java.time.LocalDateTime;
 import java.util.Date;
 import java.util.Optional;
+import java.util.Random;
 import java.util.UUID;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -34,6 +38,9 @@ public class AuthService {
 
     @Autowired
     private EmailService emailService;
+
+    @Autowired
+    private RefreshTokenRepository refreshTokenRepository;
 
     private Key getSigningKey() {
         return Keys.hmacShaKeyFor(jwtProperties.getSecret().getBytes());
@@ -90,7 +97,7 @@ public class AuthService {
     }
 
     /**
-     * Tạo JWT token chỉ chứa userId, role và thời gian hết hạn
+     * Tạo JWT token chứa userId, email, role và thời gian hết hạn
      */
     public String generateToken(User user) {
         Date now = new Date();
@@ -101,6 +108,7 @@ public class AuthService {
                 .setIssuedAt(now)
                 .setExpiration(expiryDate)
                 .claim("role", user.getRole())
+                .claim("email", user.getEmail())
                 .signWith(getSigningKey(), SignatureAlgorithm.HS512)
                 .compact();
     }
@@ -156,5 +164,173 @@ public class AuthService {
 
     public boolean validatePassword(User user, String password) {
         return passwordEncoder.matches(password, user.getPassword()); // Sửa từ getPasswordHash() thành getPassword()
+    }
+
+    /**
+     * Tạo refresh token cho user
+     */
+    public RefreshToken createRefreshToken(User user) {
+        // Xóa tất cả refresh token cũ của user (nếu có nhiều thiết bị, comment dòng
+        // này)
+        // refreshTokenRepository.deleteByUser(user);
+
+        String tokenValue = UUID.randomUUID().toString();
+        LocalDateTime expiresAt = LocalDateTime.now()
+                .plusSeconds(jwtProperties.getRefreshExpiration() / 1000);
+
+        RefreshToken refreshToken = new RefreshToken(user, tokenValue, expiresAt);
+        return refreshTokenRepository.save(refreshToken);
+    }
+
+    /**
+     * Validate và rotate refresh token
+     */
+    @Transactional
+    public RefreshToken validateAndRotateRefreshToken(String tokenValue) {
+        Optional<RefreshToken> tokenOpt = refreshTokenRepository.findByToken(tokenValue);
+
+        if (tokenOpt.isEmpty()) {
+            throw new RuntimeException("Refresh token không tồn tại");
+        }
+
+        RefreshToken oldToken = tokenOpt.get();
+
+        // Kiểm tra hết hạn
+        if (oldToken.getExpiresAt().isBefore(LocalDateTime.now())) {
+            refreshTokenRepository.delete(oldToken);
+            throw new RuntimeException("Refresh token đã hết hạn");
+        }
+
+        User user = oldToken.getUser();
+
+        // Xóa token cũ
+        refreshTokenRepository.delete(oldToken);
+
+        // Tạo token mới
+        return createRefreshToken(user);
+    }
+
+    /**
+     * Xóa refresh token (logout)
+     */
+    public void deleteRefreshToken(String tokenValue) {
+        Optional<RefreshToken> tokenOpt = refreshTokenRepository.findByToken(tokenValue);
+        tokenOpt.ifPresent(refreshTokenRepository::delete);
+    }
+
+    /**
+     * Cleanup expired refresh tokens
+     */
+    @Transactional
+    public void cleanupExpiredRefreshTokens() {
+        LocalDateTime now = LocalDateTime.now();
+        long expiredCount = refreshTokenRepository.countByExpiresAtBefore(now);
+
+        if (expiredCount > 0) {
+            refreshTokenRepository.deleteByExpiresAtBefore(now);
+            logger.info("Cleaned up {} expired refresh tokens", expiredCount);
+        }
+    }
+
+    /**
+     * Generate 6-digit OTP
+     */
+    private String generateOtp() {
+        Random random = new Random();
+        int otp = 100000 + random.nextInt(900000); // 6-digit number
+        return String.valueOf(otp);
+    }
+
+    /**
+     * Send password reset OTP to user email
+     */
+    public boolean sendPasswordResetOtp(String email) {
+        Optional<User> userOpt = userRepository.findByEmail(email);
+
+        if (userOpt.isEmpty()) {
+            return false; // User not found
+        }
+
+        User user = userOpt.get();
+
+        // Generate OTP and set expiry (10 minutes)
+        String otp = generateOtp();
+        user.setResetOtp(otp);
+        user.setOtpExpiry(LocalDateTime.now().plusMinutes(10));
+
+        userRepository.save(user);
+
+        // Send OTP email
+        try {
+            emailService.sendPasswordResetEmail(email, user.getUsername(), otp);
+            logger.info("Password reset OTP sent to: {}", email);
+            return true;
+        } catch (Exception e) {
+            logger.error("Failed to send password reset OTP to {}: {}", email, e.getMessage());
+            return false;
+        }
+    }
+
+    /**
+     * Reset password with OTP validation
+     */
+    public boolean resetPasswordWithOtp(String email, String otp, String newPassword) {
+        Optional<User> userOpt = userRepository.findByEmail(email);
+
+        if (userOpt.isEmpty()) {
+            return false; // User not found
+        }
+
+        User user = userOpt.get();
+
+        // Validate OTP
+        if (user.getResetOtp() == null || !user.getResetOtp().equals(otp)) {
+            logger.warn("Invalid OTP for password reset: {}", email);
+            return false;
+        }
+
+        // Check OTP expiry
+        if (user.getOtpExpiry() == null || user.getOtpExpiry().isBefore(LocalDateTime.now())) {
+            logger.warn("Expired OTP for password reset: {}", email);
+            return false;
+        }
+
+        // Update password and clear OTP
+        user.setPassword(passwordEncoder.encode(newPassword));
+        user.setResetOtp(null);
+        user.setOtpExpiry(null);
+
+        userRepository.save(user);
+
+        logger.info("Password reset successfully for: {}", email);
+        return true;
+    }
+
+    /**
+     * Validate OTP without resetting password
+     */
+    public boolean validateOtp(String email, String otp) {
+        Optional<User> userOpt = userRepository.findByEmail(email);
+
+        if (userOpt.isEmpty()) {
+            return false; // User not found
+        }
+
+        User user = userOpt.get();
+
+        // Validate OTP
+        if (user.getResetOtp() == null || !user.getResetOtp().equals(otp)) {
+            logger.warn("Invalid OTP validation attempt: {}", email);
+            return false;
+        }
+
+        // Check OTP expiry
+        if (user.getOtpExpiry() == null || user.getOtpExpiry().isBefore(LocalDateTime.now())) {
+            logger.warn("Expired OTP validation attempt: {}", email);
+            return false;
+        }
+
+        logger.info("OTP validated successfully for: {}", email);
+        return true;
     }
 }

@@ -6,6 +6,7 @@ nohup mvn spring-boot:run -f admin-service/pom.xml > .logs/admin-service.log 2>&
 nohup mvn spring-boot:run -f api-gateway/pom.xml > .logs/api-gateway.log 2>&1 &
 nohup mvn spring-boot:run -f demo/pom.xml > .logs/demo.log 2>&1 &
 nohup mvn spring-boot:run -f auth-service/pom.xml > .logs/auth-service.log 2>&1 &
+nohup mvn spring-boot:run -f user-service/pom.xml > .logs/user-service.log 2>&1 &
 
 # RUn service Go ( Gin ) on dev mode
 (cd go-service && nohup go run server.go > ../.logs/go-service.log 2>&1 &)
