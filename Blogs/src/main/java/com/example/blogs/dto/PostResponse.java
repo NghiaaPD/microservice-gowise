@@ -16,5 +16,6 @@ public class PostResponse {
     String content;
     PostStatus status;
     long likeCount;
+    long viewCount;
 }
 
