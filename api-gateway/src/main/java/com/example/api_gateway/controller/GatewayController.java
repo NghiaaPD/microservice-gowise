@@ -9,6 +9,7 @@ import org.springframework.http.HttpMethod;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -706,6 +707,8 @@ public class GatewayController {
         }
     }
 
+    // ==================== PLAN SERVICE ENDPOINTS ====================
+
     /**
      * Forward POST /flights/search to plan-service
      */
@@ -722,14 +725,14 @@ public class GatewayController {
                 HttpEntity<Object> entity = new HttpEntity<>(body, headers);
                 return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
             }
-            
+
             String serviceUrl = serviceInstance.getUri().toString();
             String url = serviceUrl + "/flights/search";
             HttpHeaders headers = new HttpHeaders();
             headers.setContentType(MediaType.APPLICATION_JSON);
             HttpEntity<Object> entity = new HttpEntity<>(body, headers);
             return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
-            
+
         } catch (HttpClientErrorException e) {
             logger.error("Client error in flight search: {}", e.getResponseBodyAsString());
             return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
@@ -761,14 +764,14 @@ public class GatewayController {
                 HttpEntity<Object> entity = new HttpEntity<>(body, headers);
                 return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
             }
-            
+
             String serviceUrl = serviceInstance.getUri().toString();
             String url = serviceUrl + "/hotels/search";
             HttpHeaders headers = new HttpHeaders();
             headers.setContentType(MediaType.APPLICATION_JSON);
             HttpEntity<Object> entity = new HttpEntity<>(body, headers);
             return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
-            
+
         } catch (HttpClientErrorException e) {
             logger.error("Client error in hotel search: {}", e.getResponseBodyAsString());
             return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());

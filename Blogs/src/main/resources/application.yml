@@ -1,0 +1,36 @@
+spring:
+  application:
+    name: Blogs
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/blogdb
+    username: gowise
+    password: 12345
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+    open-in-view: false
+
+  docker:
+    compose:
+      enabled: false
+
+management:
+    endpoints:
+      web:
+        exposure:
+          include: health,info
+
+
+security:
+  jwt:
+
+    base64-secret: "4pMrj9Q5aOg/Qi9tYfYQLIww81gmtLda4MCRkwCtBhPLgx9bYCzJH0h8ojM0fZ9VQi/Gf0u6XMmiiA7si55glg=="
+    ttl-seconds: 600
+  fallback-header-auth: true
