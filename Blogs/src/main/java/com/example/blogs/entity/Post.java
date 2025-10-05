@@ -26,7 +26,8 @@ import java.util.UUID;
         indexes = {
                 @Index(name = "idx_posts_status", columnList = "status"),
                 @Index(name = "idx_posts_author", columnList = "author_user_id"),
-                @Index(name = "idx_posts_deleted", columnList = "deleted")
+                @Index(name = "idx_posts_deleted", columnList = "deleted"),
+                @Index(name = "idx_posts_view_count", columnList = "view_count")
         }
 )
 public class Post {
@@ -54,6 +55,9 @@ public class Post {
     @Column(nullable = false)
     private boolean deleted = false;
 
+    @Column(name = "view_count", nullable = false)
+    private long viewCount = 0L;
+
     private Instant publishedAt;
 
     private UUID moderatedByUserId;
@@ -74,4 +78,8 @@ public class Post {
 
     @OneToMany(mappedBy = "post", cascade = CascadeType.ALL, orphanRemoval = true)
     private Set<PostLike> likes = new HashSet<>();
+
+    public void increaseViewCount() {
+        this.viewCount++;
+    }
 }

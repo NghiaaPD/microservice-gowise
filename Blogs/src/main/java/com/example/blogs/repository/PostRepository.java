@@ -6,6 +6,7 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
 
+import java.util.Optional;
 import java.util.UUID;
 
 public interface PostRepository extends JpaRepository<Post, UUID> {
@@ -21,4 +22,7 @@ public interface PostRepository extends JpaRepository<Post, UUID> {
     default Page<Post> findApproved(Pageable pageable) {
         return findByDeletedFalseAndStatus(PostStatus.APPROVED, pageable);
     }
+
+    // viewCount
+    Optional<Post> findByIdAndDeletedFalse(UUID id);
 }

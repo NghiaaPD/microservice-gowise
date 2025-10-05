@@ -69,7 +69,7 @@ public class PostController {
     ) {
         UUID userId = UserIdResolver.requireUserId(userHeader);
         postService.softDelete(userId, postId);
-        return ResponseEntity.status(HttpStatus.OK).body(ApiResponse.ok(null));
+        return ResponseEntity.status(HttpStatus.OK).body(ApiResponse.ok(null, Map.of("message", "Deleted post!")));
     }
 
 //    return a blog with user right
@@ -98,11 +98,9 @@ public class PostController {
     ) {
         UUID userId = UserIdResolver.requireUserId(userHeader);
         Page<PostResponse> body = postService.getMyPosts(userId, pageable);
-        long totalLikes = 0;
-        for (PostResponse p : body.getContent()) {
-            totalLikes += p.getLikeCount();
-        }
-        return ResponseEntity.status(HttpStatus.OK).body(ApiResponse.ok(PageResponse.from(body), Map.of("totalLike", totalLikes)));
+        long totalLikes = body.getContent().stream().mapToLong(PostResponse::getLikeCount).sum();
+        long totalViews = body.getContent().stream().mapToLong(PostResponse::getViewCount).sum();
+        return ResponseEntity.status(HttpStatus.OK).body(ApiResponse.ok(PageResponse.from(body), Map.of("totalLike", totalLikes, "totalViews", totalViews)));
     }
 
     // Like / Unlike

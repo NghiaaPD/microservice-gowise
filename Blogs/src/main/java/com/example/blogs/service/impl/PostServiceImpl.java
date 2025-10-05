@@ -63,7 +63,7 @@ public class PostServiceImpl implements PostService {
     }
 
     @Override
-    @Transactional(readOnly = true)
+    @Transactional
     public PostResponse getOne(UUID postId, UUID requesterUserId) {
         Post p = postRepo.findById(postId).orElseThrow(() -> notFound(postId));
         // Xem bài:
@@ -72,6 +72,7 @@ public class PostServiceImpl implements PostService {
         if (p.getStatus() != PostStatus.APPROVED && !p.getAuthorUserId().equals(requesterUserId)) {
             throw new SecurityException("You are not allowed to view this post");
         }
+        p.setViewCount(p.getViewCount() + 1);
         long likes = likeRepo.countByPost(p);
         return toResponse(p, likes);
     }
@@ -134,6 +135,7 @@ public class PostServiceImpl implements PostService {
                 .content(p.getContent())
                 .status(p.getStatus())
                 .likeCount(likeCount)
+                .viewCount(p.getViewCount())
                 .build();
     }
 }
