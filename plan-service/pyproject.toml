@@ -1,13 +1,15 @@
 [project]
-name = "python-service"
+name = "plan-service"
 version = "0.1.0"
-description = "Add your description here"
+description = "Plan and Flight Ticket Management Service"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "fastapi>=0.115.12",
-    "prometheus-fastapi-instrumentator>=7.1.0",
+    "prometheus-fastapi-instrumentator>=7.1.0", 
     "py-eureka-client>=0.11.13",
     "python-dotenv>=1.1.0",
     "uvicorn[standard]>=0.34.3",
+    "pandas>=2.0.0",
+    "requests>=2.31.0",
 ]

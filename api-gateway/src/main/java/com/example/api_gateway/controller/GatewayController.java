@@ -705,4 +705,82 @@ public class GatewayController {
                     "message", "Service temporarily unavailable"));
         }
     }
+
+    /**
+     * Forward POST /flights/search to plan-service
+     */
+    @PostMapping("/flights/search")
+    public ResponseEntity<Object> forwardFlightSearch(@RequestBody Object body) {
+        try {
+            var serviceInstance = loadBalancer.choose("PLAN-SERVICE");
+            if (serviceInstance == null) {
+                logger.warn("PLAN-SERVICE not available in load balancer, trying direct connection");
+                // Fallback to direct connection
+                String url = "http://localhost:8001/flights/search";
+                HttpHeaders headers = new HttpHeaders();
+                headers.setContentType(MediaType.APPLICATION_JSON);
+                HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+                return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+            }
+            
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/flights/search";
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+            
+        } catch (HttpClientErrorException e) {
+            logger.error("Client error in flight search: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (HttpServerErrorException e) {
+            logger.error("Server error in flight search: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to plan service flight search: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Flight search service temporarily unavailable",
+                    "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward POST /hotels/search to plan-service
+     */
+    @PostMapping("/hotels/search")
+    public ResponseEntity<Object> forwardHotelSearch(@RequestBody Object body) {
+        try {
+            var serviceInstance = loadBalancer.choose("PLAN-SERVICE");
+            if (serviceInstance == null) {
+                logger.warn("PLAN-SERVICE not available in load balancer, trying direct connection");
+                // Fallback to direct connection
+                String url = "http://localhost:8001/hotels/search";
+                HttpHeaders headers = new HttpHeaders();
+                headers.setContentType(MediaType.APPLICATION_JSON);
+                HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+                return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+            }
+            
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/hotels/search";
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+            
+        } catch (HttpClientErrorException e) {
+            logger.error("Client error in hotel search: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (HttpServerErrorException e) {
+            logger.error("Server error in hotel search: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to plan service hotel search: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Hotel search service temporarily unavailable",
+                    "error", e.getMessage()));
+        }
+    }
 }

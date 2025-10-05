@@ -53,3 +53,123 @@ Content-Type: application/json
   "email": "phanducnghiat1@gmail.com",
   "password": "123"
 }
+
+# Plan Service Tests
+## Flight Search
+### Test flight search from Tokyo to Seoul
+POST http://192.168.1.21:8001/flights/search
+Content-Type: application/json
+
+{
+  "departure_lat": 9.927440929636997,
+  "departure_lon": 107.20402969999998,
+  "arrival_city": "Seoul",
+  "outbound_date": "2025-10-15",
+  "sort_criteria": "price",
+  "limit": 1
+}
+
+### Test flight search from Ho Chi Minh City to Bangkok (round trip)
+POST http://192.168.1.21:8081/flights/search
+Content-Type: application/json
+
+{
+  "departure_lat": 10.7769,
+  "departure_lon": 106.7009,
+  "arrival_city": "Bangkok",
+  "outbound_date": "2025-11-01",
+  "return_date": "2025-11-05",
+  "sort_criteria": "score",
+  "limit": 3
+}
+
+### Test flight search with duration sorting
+POST http://192.168.1.21:8001/flights/search
+Content-Type: application/json
+
+{
+  "departure_lat": 40.7128,
+  "departure_lon": -74.0060,
+  "arrival_city": "London",
+  "outbound_date": "2025-12-20",
+  "sort_criteria": "duration",
+  "limit": 10
+}
+
+### Test flight search via API Gateway (if configured)
+POST http://192.168.1.21:8081/flights/search
+Content-Type: application/json
+
+{
+  "departure_lat": 35.6762,
+  "departure_lon": 139.6503,
+  "arrival_city": "Seoul", 
+  "outbound_date": "2025-10-15",
+  "sort_criteria": "price",
+  "limit": 5
+}
+
+## Hotel Search
+### Test hotel search in Seoul for 2 adults
+POST http://192.168.1.21:8001/hotels/search
+Content-Type: application/json
+
+{
+  "location": "Seoul, South Korea",
+  "check_in_date": "2025-10-15",
+  "check_out_date": "2025-10-18",
+  "adults": 2,
+  "children": 0,
+  "limit": 5
+}
+
+### Test hotel search in Tokyo with children
+POST http://192.168.1.21:8001/hotels/search
+Content-Type: application/json
+
+{
+  "location": "Tokyo, Japan",
+  "check_in_date": "2025-10-15",
+  "check_out_date": "2025-10-18",
+  "adults": 2,
+  "children": 0,
+  "limit": 3
+}
+
+### Test hotel search in Bangkok (limited results)
+POST http://192.168.1.21:8001/hotels/search
+Content-Type: application/json
+
+{
+  "location": "Bangkok, Thailand",
+  "check_in_date": "2025-12-20",
+  "check_out_date": "2025-12-23",
+  "adults": 4,
+  "children": 2,
+  "limit": 1
+}
+
+### Test hotel search in Ho Chi Minh City
+POST http://192.168.1.21:8001/hotels/search
+Content-Type: application/json
+
+{
+  "location": "Ho Chi Minh City, Vietnam",
+  "check_in_date": "2025-10-10",
+  "check_out_date": "2025-10-12",
+  "adults": 2,
+  "children": 0,
+  "limit": 10
+}
+
+### Test hotel search via API Gateway (if configured)
+POST http://192.168.1.21:8081/hotels/search
+Content-Type: application/json
+
+{
+  "location": "Hanoi, Vietnam",
+  "check_in_date": "2025-11-15",
+  "check_out_date": "2025-11-17",
+  "adults": 3,
+  "limit": 5
+}
