@@ -2,6 +2,7 @@ import pandas as pd
 import math
 from typing import Dict, List, Tuple, Optional
 import logging
+from fuzzywuzzy import fuzz, process
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -11,7 +12,19 @@ class IATACodeFinder:
     def __init__(self):
         """Initialize the IATA code finder with airport data"""
         self.df = None
+        self.military_keywords = [
+            'air base', 'air force', 'military', 'naval', 'army', 'marine',
+            'airbase', 'afb', 'base', 'nas', 'mcas', 'joint base'
+        ]
         self._load_airport_data()
+        
+        # Initialize city list for fuzzy matching
+        if self.df is not None:
+            # Filter out NaN values and empty strings
+            self.city_list = [
+                city for city in self.df['City'].unique().tolist() 
+                if pd.notna(city) and isinstance(city, str) and city.strip()
+            ]
     
     def _load_airport_data(self):
         """Load airport data from OpenFlights dataset"""
@@ -61,92 +74,129 @@ class IATACodeFinder:
         
         return 2 * R * math.atan2(math.sqrt(a), math.sqrt(1 - a))
 
-    def find_nearest_by_coordinates(self, lat: float, lon: float, limit: int = 5) -> List[Dict]:
+    def fuzzy_match_city(self, city_name: str, threshold: int = 80) -> str:
         """
-        Find nearest airports by coordinates, prioritizing civilian airports
+        Find the best matching city name using fuzzy matching
         
         Args:
-            lat: Latitude
-            lon: Longitude
-            limit: Number of results to return
+            city_name: Input city name to match
+            threshold: Minimum confidence score (0-100)
             
         Returns:
-            List of dictionaries containing airport information
+            Best matching city name or None if no good match found
         """
-        if self.df is None:
-            raise RuntimeError("Airport data not loaded")
+        if not self.city_list or not city_name:
+            return None
             
-        # Calculate distances
+        # Use fuzzy matching to find the best match
+        best_match = process.extractOne(
+            city_name, 
+            self.city_list, 
+            scorer=fuzz.ratio
+        )
+        
+        if best_match and best_match[1] >= threshold:
+            logger.info(f"Fuzzy match: '{city_name}' → '{best_match[0]}' (confidence: {best_match[1]}%)")
+            return best_match[0]
+        else:
+            logger.warning(f"No good fuzzy match found for '{city_name}' (best score: {best_match[1] if best_match else 0}%)")
+            return None
+
+    def find_nearest_by_coordinates(self, lat: float, lon: float, limit: int = 5, max_distance: float = None) -> list:
+        """
+        Find nearest airports by coordinates using Haversine formula
+        
+        Args:
+            lat: Latitude 
+            lon: Longitude
+            limit: Number of nearest airports to return
+            max_distance: Maximum distance in km to search (None = no limit)
+            
+        Returns:
+            List of nearest airports with distance information
+        """
+        logger.info(f"Finding nearest airports to coordinates: ({lat}, {lon})")
+        
         df_copy = self.df.copy()
         df_copy["Distance_km"] = df_copy.apply(
             lambda row: self.haversine(lat, lon, row["Latitude"], row["Longitude"]), 
             axis=1
         )
         
-        # Filter out military bases
-        military_keywords = [
-            'air base', 'air force', 'military', 'naval', 'army', 'marine',
-            'airbase', 'afb', 'base', 'nas', 'mcas', 'joint base'
-        ]
+        # Apply distance filter if specified
+        if max_distance is not None:
+            df_copy = df_copy[df_copy["Distance_km"] <= max_distance]
+            logger.info(f"Filtering airports within {max_distance}km")
         
+        # Filter out military bases
         # Create a mask for civilian airports (exclude military)
         civilian_mask = True
-        for keyword in military_keywords:
+        for keyword in self.military_keywords:
             civilian_mask &= ~df_copy["Name"].str.contains(keyword, case=False, na=False)
         
         civilian_airports = df_copy[civilian_mask]
         
-        # If we have civilian airports within reasonable distance, use them
+        # If we have civilian airports within specified criteria, use them
         if len(civilian_airports) > 0:
             nearest = civilian_airports.sort_values("Distance_km").head(limit)
-            logger.info(f"Found {len(civilian_airports)} civilian airports within range")
+            logger.info(f"Found {len(civilian_airports)} civilian airports within criteria")
         else:
-            # Fall back to all airports if no civilian ones found
+            # Fall back to all airports (within distance limit) if no civilian ones found
             nearest = df_copy.sort_values("Distance_km").head(limit)
-            logger.warning("No civilian airports found, using all airports")
+            logger.warning("No civilian airports found within criteria, using all airports")
         
         return nearest[["Name", "City", "Country", "IATA", "Distance_km"]].to_dict('records')
 
-    def find_nearest_by_city(self, city_name: str, limit: int = 5) -> List[Dict]:
+    def find_nearest_by_city(self, city_name: str, limit: int = 5, fallback_coordinates: tuple = None, max_fallback_distance: float = 100.0) -> list:
         """
-        Find nearest airports by city name, prioritizing civilian airports
+        Find airports by city name using fuzzy matching with geographical fallback option
         
         Args:
-            city_name: Name of the city
-            limit: Number of results to return
+            city_name: Name of the city to search
+            limit: Maximum number of results to return
+            fallback_coordinates: (lat, lon) tuple for geographical fallback when no city match found
+            max_fallback_distance: Maximum distance in km for geographical fallback (default: 100km)
             
         Returns:
-            List of dictionaries containing airport information
+            List of airports matching the city name or nearby airports if fallback is used
         """
-        if self.df is None:
-            raise RuntimeError("Airport data not loaded")
-            
-        # Search for exact matches first, then partial matches
-        city_matches = self.df[
-            self.df["City"].str.contains(city_name, case=False, na=False) |
-            self.df["Name"].str.contains(city_name, case=False, na=False)
-        ]
+        logger.info(f"Searching airports for city: {city_name}")
         
-        if len(city_matches) == 0:
+        # First try fuzzy matching to find the best city name
+        matched_city = self.fuzzy_match_city(city_name, threshold=70)  # Lower threshold for more flexibility
+        
+        city_matches = pd.DataFrame()
+        
+        if matched_city:
+            # Use the fuzzy matched city name for exact search
+            city_matches = self.df[
+                self.df['City'].str.lower() == matched_city.lower()
+            ].copy()
+            logger.info(f"Found {len(city_matches)} airports for fuzzy matched city: '{matched_city}'")
+        else:
+            # Fallback to partial matching if fuzzy match fails
+            clean_city = city_name.strip().lower()
+            city_matches = self.df[
+                self.df['City'].str.lower().str.contains(clean_city, na=False, regex=False)
+            ].copy()
+            logger.info(f"Found {len(city_matches)} airports using partial matching for: '{clean_city}'")
+        
+        # If no city matches and fallback coordinates provided, use geographical search  
+        if city_matches.empty and fallback_coordinates:
+            lat, lon = fallback_coordinates
+            logger.info(f"No city matches for '{city_name}', using geographical fallback within {max_fallback_distance}km")
+            return self.find_nearest_by_coordinates(lat, lon, limit=limit, max_distance=max_fallback_distance)
+        
+        if city_matches.empty:
             logger.warning(f"No airports found for city: {city_name}")
             return []
         
-        # Filter out military bases and prioritize civilian airports
-        # Military keywords to exclude
-        military_keywords = [
-            'air base', 'air force', 'military', 'naval', 'army', 'marine',
-            'airbase', 'afb', 'base', 'nas', 'mcas', 'joint base'
+        # Filter out military airports
+        civilian_airports = city_matches[
+            ~city_matches['Name'].str.lower().str.contains('|'.join(self.military_keywords), na=False, regex=False)
         ]
         
-        # Create a mask for civilian airports (exclude military)
-        civilian_mask = True
-        for keyword in military_keywords:
-            civilian_mask &= ~city_matches["Name"].str.contains(keyword, case=False, na=False)
-        
-        civilian_airports = city_matches[civilian_mask]
-        
-        # If we have civilian airports, use them; otherwise fall back to all matches
-        if len(civilian_airports) > 0:
+        if not civilian_airports.empty:
             logger.info(f"Found {len(civilian_airports)} civilian airports for {city_name}")
             result_airports = civilian_airports
         else:
@@ -172,6 +222,7 @@ class IATACodeFinder:
     def get_nearest_iata_codes(self, lat: float, lon: float, city_name: str) -> Dict[str, any]:
         """
         Get 2 IATA codes: one from coordinates and one from city name
+        Enhanced with geographical fallback for cities without airports
         
         Args:
             lat: Latitude of the coordinates
@@ -181,9 +232,10 @@ class IATACodeFinder:
         Returns:
             Dictionary containing:
             - coordinate_result: Nearest airport by coordinates
-            - city_result: Nearest airport by city name
+            - city_result: Nearest airport by city name (or geographical fallback)
             - coordinate_iata: IATA code from coordinates
-            - city_iata: IATA code from city
+            - city_iata: IATA code from city (or geographical fallback)
+            - fallback_used: Whether geographical fallback was used for city search
         """
         try:
             # Find nearest by coordinates
@@ -193,8 +245,20 @@ class IATACodeFinder:
             
             # Find nearest by city name
             city_results = self.find_nearest_by_city(city_name, limit=1)
+            fallback_used = False
+            
+            # If no airports found in city, use geographical fallback
+            if not city_results:
+                logger.warning(f"No airports found for city: {city_name}, using geographical fallback")
+                city_results = self.find_nearest_by_coordinates(lat, lon, limit=1)
+                fallback_used = True
+                
             city_airport = city_results[0] if city_results else None
             city_iata = city_airport["IATA"] if city_airport else None
+            
+            # Log the fallback information
+            if fallback_used and city_airport:
+                logger.info(f"Geographical fallback successful: {city_name} → {city_airport['Name']} ({city_iata}) at {city_airport.get('Distance_km', 'N/A')} km")
             
             return {
                 "success": True,
@@ -202,6 +266,7 @@ class IATACodeFinder:
                 "city_result": city_airport,
                 "coordinate_iata": coord_iata,
                 "city_iata": city_iata,
+                "fallback_used": fallback_used,
                 "input": {
                     "latitude": lat,
                     "longitude": lon,
@@ -215,7 +280,8 @@ class IATACodeFinder:
                 "success": False,
                 "error": str(e),
                 "coordinate_iata": None,
-                "city_iata": None
+                "city_iata": None,
+                "fallback_used": False
             }
 
 

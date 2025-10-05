@@ -42,6 +42,65 @@ def health_check():
 def read_hello():
     return {"message": "hello from plan service"}
 
+@app.get("/cities/suggest")
+def suggest_cities(q: str = "", limit: int = 10):
+    """
+    Get city suggestions for auto-complete
+    
+    Query parameters:
+    - q: Query string for city search
+    - limit: Maximum number of suggestions (default: 10)
+    """
+    try:
+        from functions.get_iata_code import iata_finder
+        
+        if not q or len(q.strip()) < 2:
+            return {"suggestions": []}
+        
+        # Get city matcher from IATA finder
+        if iata_finder and hasattr(iata_finder, 'city_matcher'):
+            suggestions = iata_finder.city_matcher.get_city_suggestions(q.strip(), limit)
+            return {"suggestions": suggestions}
+        else:
+            return {"suggestions": [], "error": "City index not initialized"}
+            
+    except Exception as e:
+        logger.error(f"City suggestion error: {e}")
+        raise HTTPException(status_code=500, detail=f"Internal server error: {str(e)}")
+
+@app.get("/cities/airports")  
+def get_city_airports(city: str):
+    """
+    Get all airports for a specific city
+    
+    Query parameters:
+    - city: City name to search for airports
+    """
+    try:
+        from functions.get_iata_code import iata_finder
+        
+        if not city:
+            raise HTTPException(status_code=400, detail="City parameter is required")
+        
+        if iata_finder and hasattr(iata_finder, 'city_matcher'):
+            airports = iata_finder.city_matcher.get_airports_for_city(city)
+            matched_city = iata_finder.city_matcher.find_city_match(city)
+            
+            return {
+                "query": city,
+                "matched_city": matched_city,
+                "airports": airports,
+                "count": len(airports)
+            }
+        else:
+            raise HTTPException(status_code=500, detail="City index not initialized")
+            
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"City airports error: {e}")
+        raise HTTPException(status_code=500, detail=f"Internal server error: {str(e)}")
+
 # Flight ticket endpoints
 @app.post("/flights/search")
 def search_flights(request: dict):
