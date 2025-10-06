@@ -173,3 +173,272 @@ Content-Type: application/json
   "adults": 3,
   "limit": 5
 }
+
+# Travel Agent Tests
+## Agent Status
+### Check agent status
+GET http://192.168.1.21:8001/agent/status
+
+## Agent Itinerary Creation
+### Test create itinerary for Da Nang 3 days
+POST http://192.168.1.21:8001/agent/itinerary
+Content-Type: application/json
+
+{
+  "city": "Bangkok",
+  "days": 3,
+  "interests": "food, culture, nature",
+  "budget": "moderate",
+  "group_size": 2
+}
+
+### Test create itinerary for Hanoi 5 days
+POST http://192.168.1.21:8001/agent/itinerary
+Content-Type: application/json
+
+{
+  "city": "Hanoi",
+  "days": 5,
+  "interests": "history, food, shopping",
+  "budget": "3000$",
+  "group_size": 4
+}
+
+### Test create itinerary for Ho Chi Minh City 2 days
+POST http://192.168.1.21:8001/agent/itinerary
+Content-Type: application/json
+
+{
+  "city": "Ho Chi Minh City",
+  "days": 2,
+  "interests": "adventure, entertainment",
+  "group_size": 1
+}
+
+## Agent Chat Interface
+### Test natural language chat - create itinerary
+POST http://192.168.1.21:8001/agent/chat
+Content-Type: application/json
+
+{
+  "query": "Tôi muốn tạo lịch trình du lịch Đà Nẵng 4 ngày với gia đình có 2 người lớn và 1 trẻ em. Chúng tôi thích ăn uống và tham quan thiên nhiên."
+}
+
+### Test natural language chat - search places
+POST http://192.168.1.21:8001/agent/chat
+Content-Type: application/json
+
+{
+  "query": "Tìm các nhà hàng ngon và địa điểm tham quan nổi tiếng ở Seoul"
+}
+
+### Test natural language chat - travel advice
+POST http://192.168.1.21:8001/agent/chat
+Content-Type: application/json
+
+{
+  "query": "Gợi ý lịch trình du lịch Bangkok 3 ngày cho nhóm bạn trẻ thích mua sắm và ăn uống"
+}
+
+## Agent Places Search
+### Test search places in Da Nang
+POST http://192.168.1.21:8001/agent/places
+Content-Type: application/json
+
+{
+  "city": "Da Nang",
+  "categories": "restaurants, tourist attractions"
+}
+
+### Test search restaurants in Hanoi
+POST http://192.168.1.21:8001/agent/places
+Content-Type: application/json
+
+{
+  "city": "Hanoi",
+  "categories": "restaurants, cafes"
+}
+
+# Plan Management Tests
+## Save Plan
+### Test save a travel plan
+POST http://192.168.1.21:8001/plans/save
+Content-Type: application/json
+
+{
+  "user_id": "user123",
+  "plan_id": "plan001",
+  "plan_content": {
+    "destination": "Da Nang",
+    "duration": "3 days",
+    "interests": ["food", "culture", "nature"],
+    "budget": "moderate",
+    "group_size": 2,
+    "itinerary": {
+      "day_1": {
+        "morning": "Visit Son Tra Peninsula",
+        "afternoon": "Lunch at local restaurant",
+        "evening": "Explore Marble Mountains"
+      },
+      "day_2": {
+        "morning": "Visit Ba Na Hills",
+        "afternoon": "Shopping at local markets",
+        "evening": "Dinner at beach restaurant"
+      },
+      "day_3": {
+        "morning": "Visit Cham Museum",
+        "afternoon": "Relax at My Khe Beach",
+        "evening": "Departure"
+      }
+    }
+  }
+}
+
+### Test save another plan for same user
+POST http://192.168.1.21:8001/plans/save
+Content-Type: application/json
+
+{
+  "user_id": "user123",
+  "plan_id": "plan002",
+  "plan_content": {
+    "destination": "Hanoi",
+    "duration": "5 days",
+    "interests": ["history", "food", "culture"],
+    "budget": "budget",
+    "group_size": 4,
+    "itinerary": {
+      "day_1": "Ho Chi Minh Mausoleum",
+      "day_2": "Temple of Literature",
+      "day_3": "Halong Bay day trip",
+      "day_4": "Water Puppet Show",
+      "day_5": "Shopping and departure"
+    }
+  }
+}
+
+## Get Plan
+### Test get specific plan
+GET http://192.168.1.21:8001/plans/user123/plan001
+
+### Test get non-existent plan
+GET http://192.168.1.21:8001/plans/user123/plan999
+
+## Get User Plans
+### Test get all plans for user
+GET http://192.168.1.21:8001/plans/user123
+
+### Test get plans with limit
+GET http://192.168.1.21:8001/plans/user123?limit=1
+
+### Test get plans for non-existent user
+GET http://192.168.1.21:8001/plans/user999
+
+## Delete Plan
+### Test delete a plan
+DELETE http://192.168.1.21:8001/plans/user123/plan002
+
+### Test delete non-existent plan
+DELETE http://192.168.1.21:8001/plans/user123/plan999
+
+# API Gateway Tests (if configured)
+## Plan Management via Gateway
+### Test save plan via API Gateway
+POST http://192.168.1.21:8081/plans/save
+Content-Type: application/json
+
+{
+  "user_id": "gateway_user",
+  "plan_id": "gateway_plan001",
+  "plan_content": {
+    "destination": "Bangkok",
+    "duration": "4 days",
+    "interests": ["shopping", "food", "temples"],
+    "budget": "luxury",
+    "group_size": 2
+  }
+}
+
+### Test get plans via API Gateway
+GET http://192.168.1.21:8081/plans/gateway_user
+
+# Travel Agent Tests via API Gateway
+## Agent Status via Gateway
+### Check agent status via API Gateway
+GET http://192.168.1.21:8081/agent/status
+
+## Agent Itinerary Creation via Gateway
+### Test create itinerary for Bangkok 3 days via Gateway
+POST http://192.168.1.21:8081/agent/itinerary
+Content-Type: application/json
+
+{
+  "city": "Bangkok",
+  "days": 3,
+  "interests": "food, culture, shopping",
+  "budget": "moderate",
+  "group_size": 2
+}
+
+### Test create itinerary for Seoul 4 days via Gateway
+POST http://192.168.1.21:8081/agent/itinerary
+Content-Type: application/json
+
+{
+  "city": "Seoul",
+  "days": 4,
+  "interests": "entertainment, food, technology",
+  "budget": "high",
+  "group_size": 3
+}
+
+## Agent Chat Interface via Gateway
+### Test natural language chat via Gateway - create itinerary
+POST http://192.168.1.21:8081/agent/chat
+Content-Type: application/json
+
+{
+  "query": "Tôi muốn lập kế hoạch du lịch Tokyo 5 ngày cho gia đình, thích ăn uống và tham quan công nghệ"
+}
+
+### Test natural language chat via Gateway - search places
+POST http://192.168.1.21:8081/agent/chat
+Content-Type: application/json
+
+{
+  "query": "Gợi ý các nhà hàng ngon và địa điểm mua sắm ở Bangkok"
+}
+
+### Test natural language chat via Gateway - travel advice
+POST http://192.168.1.21:8081/agent/chat
+Content-Type: application/json
+
+{
+  "query": "Tạo lịch trình du lịch Hà Nội 3 ngày với ngân sách tiết kiệm, thích tham quan lịch sử"
+}
+
+## Agent Places Search via Gateway
+### Test search places in Tokyo via Gateway
+POST http://192.168.1.21:8081/agent/places
+Content-Type: application/json
+
+{
+  "city": "Tokyo",
+  "categories": "restaurants, tourist attractions, technology"
+}
+
+### Test search entertainment in Seoul via Gateway
+POST http://192.168.1.21:8081/agent/places
+Content-Type: application/json
+
+{
+  "city": "Seoul",
+  "categories": "entertainment, shopping, nightlife"
+}
+
+## Cities and Airports via Gateway
+### Test cities suggestion via Gateway
+GET http://192.168.1.21:8081/cities/suggest?q=Ban&limit=5
+
+### Test get airports for city via Gateway
+GET http://192.168.1.21:8081/cities/airports?city=Bangkok

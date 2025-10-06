@@ -1,0 +1,3282 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Dotonbori",
+        "rating": 4.4,
+        "address": "1 Chome Dotonbori, Chuo Ward, Osaka, 542-0071, Japan",
+        "latitude": 34.6687234,
+        "longitude": 135.5012971
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Osaka Castle",
+        "rating": 4.4,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6872571,
+        "longitude": 135.5258546
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Umeda Sky Building",
+        "rating": 4.4,
+        "address": "1 Chome-1-88 Oyodonaka, Kita Ward, Osaka, 531-6023, Japan",
+        "latitude": 34.7052872,
+        "longitude": 135.4896527
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Osaka Aquarium Kaiyukan",
+        "rating": 4.4,
+        "address": "1 Chome-1-10 Kaigandori, Minato Ward, Osaka, 552-0022, Japan",
+        "latitude": 34.6545182,
+        "longitude": 135.4289645
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Tsutenkaku",
+        "rating": 4.1,
+        "address": "1 Chome-18-6 Ebisuhigashi, Naniwa Ward, Osaka, 556-0002, Japan",
+        "latitude": 34.6524992,
+        "longitude": 135.5063058
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Osaka Castle Main Tower",
+        "rating": 4.5,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6872962,
+        "longitude": 135.5258605
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Tonbori River Walk",
+        "rating": 4.4,
+        "address": "Dotonbori, Chuo Ward, Osaka, 542-0071, Japan",
+        "latitude": 34.6689557,
+        "longitude": 135.5052283
+    },
+    {
+        "category": "tourist attractions",
+        "title": "OSAKA STATION CITY square of space-time",
+        "rating": 4.2,
+        "address": "Japan, 〒530-0001 Osaka, Kita Ward, Umeda, 3 Chome−1−3, 大阪ステーションシティ 大阪駅5F",
+        "latitude": 34.702411,
+        "longitude": 135.495917
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Osaka Monument",
+        "rating": 4.5,
+        "address": "Japan, 〒543-0063 Osaka, Tennoji Ward, Chausuyamacho, 5−55, 産直市場よってって てんしば店前",
+        "latitude": 34.6488161,
+        "longitude": 135.5103704
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Kakushi-kuruwa Bailey",
+        "rating": 3.8,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6877627,
+        "longitude": 135.52509999999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Tempozan Park",
+        "rating": 3.9,
+        "address": "3 Chome-2 Chikko, Minato Ward, Osaka, 552-0021, Japan",
+        "latitude": 34.6574583,
+        "longitude": 135.4327556
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Gokuraku-bashi Bridge",
+        "rating": 4.3,
+        "address": "1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6888836,
+        "longitude": 135.5266229
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hozen-ji Temple",
+        "rating": 4.3,
+        "address": "1 Chome-2-16 Namba, Chuo Ward, Osaka, 542-0076, Japan",
+        "latitude": 34.6679398,
+        "longitude": 135.5024676
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Osaka Castle Park",
+        "rating": 4.4,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6864797,
+        "longitude": 135.5262114
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Kuchu Teien Observatory",
+        "rating": 4.4,
+        "address": "梅田スカイビル, 1 Chome-1-88 Oyodonaka, Kita Ward, Osaka, 531-6039, Japan",
+        "latitude": 34.7052993,
+        "longitude": 135.490172
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Abeno Harukas",
+        "rating": 4.2,
+        "address": "1 Chome-1-43 Abenosuji, Abeno Ward, Osaka, 545-6016, Japan",
+        "latitude": 34.6460706,
+        "longitude": 135.5134771
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Osaka Museum of History",
+        "rating": 4.2,
+        "address": "4 Chome-1-32 Otemae, Chuo Ward, Osaka, 540-0008, Japan",
+        "latitude": 34.682614099999995,
+        "longitude": 135.5207975
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Universal Studios Japan",
+        "rating": 4.5,
+        "address": "2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.6656768,
+        "longitude": 135.4323185
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Tempozan Ferris Wheel",
+        "rating": 4.4,
+        "address": "1 Chome-1-10 Kaigandori, Minato Ward, Osaka, 552-0022, Japan",
+        "latitude": 34.6562686,
+        "longitude": 135.4309659
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Shingonzaka",
+        "rating": 4,
+        "address": "10 Ikutamacho, Tennoji Ward, Osaka, 543-0071, Japan",
+        "latitude": 34.666232099999995,
+        "longitude": 135.5126979
+    },
+    {
+        "category": "parks",
+        "title": "Osaka Castle Park",
+        "rating": 4.4,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6864797,
+        "longitude": 135.5262114
+    },
+    {
+        "category": "parks",
+        "title": "Tennoji Park",
+        "rating": 4.1,
+        "address": "5-55 Chausuyamacho, Tennoji Ward, Osaka, 543-0063, Japan",
+        "latitude": 34.6507248,
+        "longitude": 135.5104151
+    },
+    {
+        "category": "parks",
+        "title": "Nakanoshima Park",
+        "rating": 4.2,
+        "address": "1 Chome-1 Nakanoshima, Kita Ward, Osaka, 530-0005, Japan",
+        "latitude": 34.6924709,
+        "longitude": 135.50732299999999
+    },
+    {
+        "category": "parks",
+        "title": "Nagai Park",
+        "rating": 4.2,
+        "address": "1-1 Nagaikoen, Higashisumiyoshi Ward, Osaka, 546-0034, Japan",
+        "latitude": 34.6125758,
+        "longitude": 135.5199903
+    },
+    {
+        "category": "parks",
+        "title": "Bandai Pond Park",
+        "rating": 4,
+        "address": "3 Chome-7 Bandai, Sumiyoshi Ward, Osaka, 558-0055, Japan",
+        "latitude": 34.6201583,
+        "longitude": 135.5035122
+    },
+    {
+        "category": "parks",
+        "title": "Momogaike Park",
+        "rating": 3.8,
+        "address": "1 Chome Momogaikecho, Abeno Ward, Osaka, 545-0012, Japan",
+        "latitude": 34.630733299999996,
+        "longitude": 135.5214389
+    },
+    {
+        "category": "parks",
+        "title": "Utsubo Park",
+        "rating": 4.1,
+        "address": "Utsubohonmachi, Nishi Ward, Osaka, 550-0004, Japan",
+        "latitude": 34.684982,
+        "longitude": 135.4935063
+    },
+    {
+        "category": "parks",
+        "title": "Expo '70 Commemorative Park",
+        "rating": 4.3,
+        "address": "Senribanpakukoen, Suita, Osaka 565-0826, Japan",
+        "latitude": 34.8060955,
+        "longitude": 135.5290016
+    },
+    {
+        "category": "parks",
+        "title": "Nishinomaru Garden",
+        "rating": 4.2,
+        "address": "2 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.686780899999995,
+        "longitude": 135.52344549999998
+    },
+    {
+        "category": "parks",
+        "title": "Sumiyoshi Park",
+        "rating": 4,
+        "address": "1 Chome-1-13 Hamaguchihigashi, Suminoe Ward, Osaka, 559-0002, Japan",
+        "latitude": 34.612553,
+        "longitude": 135.4883195
+    },
+    {
+        "category": "parks",
+        "title": "Daisen Park",
+        "rating": 4.2,
+        "address": "1 Chome-4-3 Higashiuenoshibacho, Sakai Ward, Sakai, Osaka 590-0802, Japan",
+        "latitude": 34.5584962,
+        "longitude": 135.48275519999999
+    },
+    {
+        "category": "parks",
+        "title": "Kema Sakuranomiya Park",
+        "rating": 4.1,
+        "address": "Nakanocho, Miyakojima Ward, Osaka, 534-0027, Japan",
+        "latitude": 34.7051508,
+        "longitude": 135.51884379999998
+    },
+    {
+        "category": "parks",
+        "title": "Shirokita Park",
+        "rating": 3.9,
+        "address": "3 Chome Ikue, Asahi-ku, Osaka, 535-0004, Japan",
+        "latitude": 34.728845899999996,
+        "longitude": 135.53802059999998
+    },
+    {
+        "category": "parks",
+        "title": "Suminoe Park",
+        "rating": 3.8,
+        "address": "1 Chome-1-117 Minamikagaya, Suminoe Ward, Osaka, 559-0015, Japan",
+        "latitude": 34.6113585,
+        "longitude": 135.47541619999998
+    },
+    {
+        "category": "parks",
+        "title": "Namba Parks",
+        "rating": 4,
+        "address": "2 Chome-10-70 Nanbanaka, Naniwa Ward, Osaka, 556-0011, Japan",
+        "latitude": 34.6616083,
+        "longitude": 135.50193489999998
+    },
+    {
+        "category": "parks",
+        "title": "Tempozan Park",
+        "rating": 3.9,
+        "address": "3 Chome-2 Chikko, Minato Ward, Osaka, 552-0021, Japan",
+        "latitude": 34.6574583,
+        "longitude": 135.4327556
+    },
+    {
+        "category": "parks",
+        "title": "Universal Studios Japan",
+        "rating": 4.5,
+        "address": "2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.6656768,
+        "longitude": 135.4323185
+    },
+    {
+        "category": "parks",
+        "title": "Tsurumi Ryokuchi Park",
+        "rating": 4.2,
+        "address": "2-163 Ryokuchikoen, Tsurumi Ward, Osaka, 538-0036, Japan",
+        "latitude": 34.7114354,
+        "longitude": 135.57172359999998
+    },
+    {
+        "category": "parks",
+        "title": "Naniwa Park",
+        "rating": 3.6,
+        "address": "1 Chome-1 Shiokusa, Naniwa Ward, Osaka, 556-0024, Japan",
+        "latitude": 34.6624152,
+        "longitude": 135.4935595
+    },
+    {
+        "category": "parks",
+        "title": "Yodogawa Riverside National Park Kema Area",
+        "rating": 3.9,
+        "address": "4 Chome-12 Kemacho, Miyakojima Ward, Osaka, 534-0001, Japan",
+        "latitude": 34.7246439,
+        "longitude": 135.5187576
+    },
+    {
+        "category": "restaurants",
+        "title": "Halal Ramen Naniwaya",
+        "rating": 4.6,
+        "address": "2 Chome-7-22 Nishishinsaibashi, Chuo Ward, Osaka, 542-0086, Japan",
+        "latitude": 34.669663899999996,
+        "longitude": 135.4981661
+    },
+    {
+        "category": "restaurants",
+        "title": "Hafez",
+        "rating": 4.4,
+        "address": "2F, 1 Chome-2-14 Kitahorie, Nishi Ward, Osaka, 550-0014, Japan",
+        "latitude": 34.6726019,
+        "longitude": 135.4967925
+    },
+    {
+        "category": "restaurants",
+        "title": "Sushi Making Experience Namba",
+        "rating": 5,
+        "address": "1A, 2 Chome-6-11 Nishishinsaibashi, Chuo Ward, Osaka, 542-0086, Japan",
+        "latitude": 34.6693316,
+        "longitude": 135.49896769999998
+    },
+    {
+        "category": "restaurants",
+        "title": "The Fire",
+        "rating": 4.8,
+        "address": "カサドマートビル floor 2, 2 Chome-9-36 Nishishinsaibashi, Chuo Ward, Osaka, 542-0086, Japan",
+        "latitude": 34.6710144,
+        "longitude": 135.4991398
+    },
+    {
+        "category": "restaurants",
+        "title": "A5 Wagyu Yakiniku Osaka PANGA | Osaka halal restaurant",
+        "rating": 4.9,
+        "address": "Japan, 〒542-0085 Osaka, Chuo Ward, Shinsaibashisuji, 2 Chome−3−31",
+        "latitude": 34.6702923,
+        "longitude": 135.501745
+    },
+    {
+        "category": "restaurants",
+        "title": "Ali's Kitchen Osaka Halal Pakistani & Arabic Restaurant",
+        "rating": 4.3,
+        "address": "1 Chome-10-12 Shinsaibashisuji, Chuo Ward, Osaka, 542-0085, Japan",
+        "latitude": 34.674799799999995,
+        "longitude": 135.5009395
+    },
+    {
+        "category": "restaurants",
+        "title": "Kobebeef Teppanyaki RIO Osaka Mido-suji",
+        "rating": 4.9,
+        "address": "オービック御堂筋ビル 1F, 4 Chome-2-3 Hiranomachi, Chuo Ward, Osaka, 541-0046, Japan",
+        "latitude": 34.6873955,
+        "longitude": 135.50004479999998
+    },
+    {
+        "category": "restaurants",
+        "title": "OKO - Fun Okonomiyaki Bar",
+        "rating": 4.7,
+        "address": "2 Chome-4-13 Dotonbori, Chuo Ward, Osaka, 542-0071, Japan",
+        "latitude": 34.6687807,
+        "longitude": 135.49815479999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Gyozaoh! Dotonbori",
+        "rating": 4.5,
+        "address": "2 Chome-4-14 Dotonbori, Chuo Ward, Osaka, 542-0071, Japan",
+        "latitude": 34.6687114,
+        "longitude": 135.4981177
+    },
+    {
+        "category": "restaurants",
+        "title": "Hajime",
+        "rating": 4.4,
+        "address": "アイ・プラス江戸堀 １F, 1 Chome-9-11 Edobori, Nishi Ward, Osaka, 550-0002, Japan",
+        "latitude": 34.688713199999995,
+        "longitude": 135.49605739999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Fujiya 1935",
+        "rating": 4.5,
+        "address": "2 Chome-4-14 Yariyamachi, Chuo Ward, Osaka, 540-0027, Japan",
+        "latitude": 34.6830376,
+        "longitude": 135.5119325
+    },
+    {
+        "category": "restaurants",
+        "title": "Gyukatsu Motomura Namba Annex",
+        "rating": 4.8,
+        "address": "なんばチップスビル B1F, 3 Chome-6-17 Namba, Chuo Ward, Osaka, 542-0076, Japan",
+        "latitude": 34.666582999999996,
+        "longitude": 135.5010671
+    },
+    {
+        "category": "restaurants",
+        "title": "Sushi Hayata",
+        "rating": 4.5,
+        "address": "2 Chome-6-4 Fushimimachi, Chuo Ward, Osaka, 541-0044, Japan",
+        "latitude": 34.6890293,
+        "longitude": 135.5038956
+    },
+    {
+        "category": "restaurants",
+        "title": "Alto Tritone",
+        "rating": 4.6,
+        "address": "長谷川ビル 1階, 1 Chome-4-20 Oyodominami, Kita Ward, Osaka, 531-0075, Japan",
+        "latitude": 34.7037607,
+        "longitude": 135.489903
+    },
+    {
+        "category": "restaurants",
+        "title": "Chibo Okonomiyaki Restaurant",
+        "rating": 4.1,
+        "address": "千房 道頓堀ビル 1～6F, 1 Chome-5-5 Dotonbori, Chuo Ward, Osaka, 542-0071, Japan",
+        "latitude": 34.6688073,
+        "longitude": 135.5039074
+    },
+    {
+        "category": "restaurants",
+        "title": "Green Earth",
+        "rating": 4.7,
+        "address": "久宝ビル １F, 4 Chome-2-2 Kitakyuhojimachi, Chuo Ward, Osaka, 541-0057, Japan",
+        "latitude": 34.6797685,
+        "longitude": 135.4992871
+    },
+    {
+        "category": "restaurants",
+        "title": "Matsusakagyu Yakiniku M Yokocho Branch",
+        "rating": 4.5,
+        "address": "1 Chome-1-19 Namba, Chuo Ward, Osaka, 542-0076, Japan",
+        "latitude": 34.6681375,
+        "longitude": 135.50256919999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Osaka-ryori Asai",
+        "rating": 4.6,
+        "address": "ロイヤル中家 １階, 1 Chome-6-19 Higashishinsaibashi, Chuo Ward, Osaka, 542-0083, Japan",
+        "latitude": 34.6722106,
+        "longitude": 135.5044651
+    },
+    {
+        "category": "restaurants",
+        "title": "HALAL WAGYU GYUKATSU SHINJUKU-TEI Osaka Umeda",
+        "rating": 4.9,
+        "address": "Pont Nouveau, 7F, 2 Chome-5-30 Sonezaki, Kita Ward, Osaka, 530-0057, Japan",
+        "latitude": 34.6994547,
+        "longitude": 135.5017542
+    },
+    {
+        "category": "restaurants",
+        "title": "Taqueria La Fonda",
+        "rating": 4.7,
+        "address": "2 Chome-2-14 Tokuicho, Chuo Ward, Osaka, 540-0025, Japan",
+        "latitude": 34.6840423,
+        "longitude": 135.5143866
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe LA",
+        "rating": 4.8,
+        "address": "西井ビル 地下1階, 2 Chome-3-7 Nishishinsaibashi, Chuo Ward, Osaka, 542-0086, Japan",
+        "latitude": 34.669874,
+        "longitude": 135.5000604
+    },
+    {
+        "category": "cafes",
+        "title": "Maidreamin Osaka Namba Store",
+        "rating": 4.9,
+        "address": "3F, 2 Chome-2-21 Nanbanaka, Naniwa Ward, Osaka, 556-0011, Japan",
+        "latitude": 34.6630538,
+        "longitude": 135.50382779999998
+    },
+    {
+        "category": "cafes",
+        "title": "LiLo Coffee Roasters",
+        "rating": 4.8,
+        "address": "Shinsaibashi M １階, 1 Chome-10-28 Nishishinsaibashi, Chuo Ward, Osaka, 542-0086, Japan",
+        "latitude": 34.6740723,
+        "longitude": 135.49803359999999
+    },
+    {
+        "category": "cafes",
+        "title": "maZe nishihorie",
+        "rating": 4.8,
+        "address": "1 Chome-11-5 Kitahorie, Nishi Ward, Osaka, 550-0014, Japan",
+        "latitude": 34.6734358,
+        "longitude": 135.49555429999998
+    },
+    {
+        "category": "cafes",
+        "title": "SOT COFFEE ROASTER - Osaka Tenmabashi",
+        "rating": 4.6,
+        "address": "Belle Voix, １−２階, 1 Chome-3-7 Otedori, Chuo Ward, Osaka, 540-0021, Japan",
+        "latitude": 34.6858163,
+        "longitude": 135.51501249999998
+    },
+    {
+        "category": "cafes",
+        "title": "Brooklyn Roasting Company Namba",
+        "rating": 4.4,
+        "address": "1 Chome-1-21 Shikitsuhigashi, Naniwa Ward, Osaka, 556-0012, Japan",
+        "latitude": 34.6591855,
+        "longitude": 135.5026375
+    },
+    {
+        "category": "cafes",
+        "title": "CAFE TALES",
+        "rating": 4.8,
+        "address": "Maruchu 3rd.Bldg., 1階, 2 Chome-5-19 Kyutaromachi, Chuo Ward, Osaka, 541-0056, Japan",
+        "latitude": 34.681052699999995,
+        "longitude": 135.5036049
+    },
+    {
+        "category": "cafes",
+        "title": "Samoyed Cafe Al Osaka Kitahorie Branch",
+        "rating": 4.9,
+        "address": "Tamotsu Bldg,, 1階, 2 Chome-3-18 Kitahorie, Nishi Ward, Osaka, 550-0014, Japan",
+        "latitude": 34.673764399999996,
+        "longitude": 135.4924151
+    },
+    {
+        "category": "cafes",
+        "title": "MONDIAL KAFFEE 328 NY3",
+        "rating": 4.1,
+        "address": "1 Chome-6-16 Kitahorie, Nishi Ward, Osaka, 550-0014, Japan",
+        "latitude": 34.674205799999996,
+        "longitude": 135.49606319999998
+    },
+    {
+        "category": "cafes",
+        "title": "Maidreamin Osaka Nippombashi-Otaroad Store",
+        "rating": 4.9,
+        "address": "4 Chome-16-15 Nipponbashi, Naniwa Ward, Osaka, 556-0005, Japan",
+        "latitude": 34.660115,
+        "longitude": 135.50481
+    },
+    {
+        "category": "cafes",
+        "title": "Brooklyn Roasting Company Kitahama",
+        "rating": 4.4,
+        "address": "ハウザー 北浜ビル 1F, 1 Chome-1-9 Kitahama, Chuo Ward, Osaka, 541-0041, Japan",
+        "latitude": 34.6910465,
+        "longitude": 135.5091563
+    },
+    {
+        "category": "cafes",
+        "title": "Kopimal coffee",
+        "rating": 4.8,
+        "address": "4 Chome-17-3 Nipponbashi, Naniwa Ward, Osaka, 556-0005, Japan",
+        "latitude": 34.6594743,
+        "longitude": 135.5048618
+    },
+    {
+        "category": "cafes",
+        "title": "MOTO COFFEE",
+        "rating": 4.2,
+        "address": "ライオンビル, 2 Chome-1-1 Kitahama, Chuo Ward, Osaka, 541-0041, Japan",
+        "latitude": 34.6920741,
+        "longitude": 135.5064689
+    },
+    {
+        "category": "cafes",
+        "title": "COFFEE STAND OSAKA EDOBORI blue-Line",
+        "rating": 4.7,
+        "address": "1 Chome-１８番２１号 Edobori, Nishi Ward, Osaka, 550-0002, Japan",
+        "latitude": 34.689856899999995,
+        "longitude": 135.4942125
+    },
+    {
+        "category": "cafes",
+        "title": "FINAL FANTASY EORZEA CAFE in Osaka",
+        "rating": 4.6,
+        "address": "パセラリゾーツなんば道頓堀店 ５Ｆ, 1 Chome-4-27 Dotonbori, Chuo Ward, Osaka, 542-0071, Japan",
+        "latitude": 34.6685144,
+        "longitude": 135.5040986
+    },
+    {
+        "category": "cafes",
+        "title": "LEAD COFFEE",
+        "rating": 4.7,
+        "address": "新桜川ビル, 3 Chome-2-1 Sakuragawa, Naniwa Ward, Osaka, 556-0022, Japan",
+        "latitude": 34.6682115,
+        "longitude": 135.4869891
+    },
+    {
+        "category": "cafes",
+        "title": "Melbourne Coffee & Craft",
+        "rating": 4.5,
+        "address": "三栄ムアビル １Ｆ, 3 Chome-8-7 Minamisenba, Chuo Ward, Osaka, 542-0081, Japan",
+        "latitude": 34.6778507,
+        "longitude": 135.5020304
+    },
+    {
+        "category": "cafes",
+        "title": "Mill Pour Coffee",
+        "rating": 4.6,
+        "address": "3 Chome-6-1 Minamisenba, Chuo Ward, Osaka, 542-0081, Japan",
+        "latitude": 34.6765991,
+        "longitude": 135.50226469999998
+    },
+    {
+        "category": "cafes",
+        "title": "Chou Chou",
+        "rating": 4.9,
+        "address": "2-21 Nanbasennichimae, Chuo Ward, Osaka, 542-0075, Japan",
+        "latitude": 34.6654064,
+        "longitude": 135.5044799
+    },
+    {
+        "category": "cafes",
+        "title": "Peak Roast Coffee",
+        "rating": 4.4,
+        "address": "O-KYO 1階, 1 Chome-9-14 Kyomachibori, Nishi Ward, Osaka, 550-0003, Japan",
+        "latitude": 34.6874337,
+        "longitude": 135.4953423
+    },
+    {
+        "category": "mountains",
+        "title": "Showayama",
+        "rating": 4,
+        "address": "2-chōme-7 Chishima, Taishō-ku, Osaka, 551-0003, Japan",
+        "latitude": 34.64892,
+        "longitude": 135.47411
+    },
+    {
+        "category": "mountains",
+        "title": "Mount Tamateyama",
+        "rating": 4,
+        "address": "7 Tamatechō, Kashiwara, Osaka 582-0028, Japan",
+        "latitude": 34.561903099999995,
+        "longitude": 135.6302249
+    },
+    {
+        "category": "mountains",
+        "title": "Sotetsuyama",
+        "rating": 4.2,
+        "address": "4-chōme-3 Ōhama Kitamachi, Sakai Ward, Sakai, Osaka 590-0974, Japan",
+        "latitude": 34.5800097,
+        "longitude": 135.461567
+    },
+    {
+        "category": "waterfalls",
+        "title": "Minoh Falls",
+        "rating": 4.4,
+        "address": "2-2 Minookoen, Minoh, Osaka 562-0002, Japan",
+        "latitude": 34.8538281,
+        "longitude": 135.4719911
+    },
+    {
+        "category": "waterfalls",
+        "title": "Minooo Falls",
+        "rating": 4.4,
+        "address": "1 Minookōen, Minoh, Osaka 562-0002, Japan",
+        "latitude": 34.853755899999996,
+        "longitude": 135.4718474
+    },
+    {
+        "category": "waterfalls",
+        "title": "Nagaono Falls",
+        "rating": 4.2,
+        "address": "Higashitoyouracho, Higashiosaka, Osaka 579-8022, Japan",
+        "latitude": 34.6735712,
+        "longitude": 135.6666583
+    },
+    {
+        "category": "waterfalls",
+        "title": "Seseragi Waterfall",
+        "rating": 3.9,
+        "address": "Ryokuchikoen, Tsurumi Ward, Osaka, 570-0043, Japan",
+        "latitude": 34.7141206,
+        "longitude": 135.57149189999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "Gyojano Falls",
+        "rating": 4,
+        "address": "Ogi, Izumisano, Osaka 598-0023, Japan",
+        "latitude": 34.338274999999996,
+        "longitude": 135.3880761
+    },
+    {
+        "category": "waterfalls",
+        "title": "Goko Falls",
+        "rating": 3.8,
+        "address": "Takihata, Kawachinagano, Osaka 586-0072, Japan",
+        "latitude": 34.3681335,
+        "longitude": 135.5068128
+    },
+    {
+        "category": "waterfalls",
+        "title": "Takihatashijuhachi Falls",
+        "rating": 3,
+        "address": "Takihata, Kawachinagano, Osaka 586-0072, Japan",
+        "latitude": 34.3678665,
+        "longitude": 135.51345369999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Ishizumi Falls",
+        "rating": 3,
+        "address": "3 Chome Hata, Ikeda, Osaka 563-0021, Japan",
+        "latitude": 34.8399115,
+        "longitude": 135.4542712
+    },
+    {
+        "category": "waterfalls",
+        "title": "Falls Trail, Minoh Park",
+        "rating": 4.6,
+        "address": "1-1 Minookoen, Minoh, Osaka 562-0002, Japan",
+        "latitude": 34.8513569,
+        "longitude": 135.4717785
+    },
+    {
+        "category": "waterfalls",
+        "title": "Minoh Park",
+        "rating": 4.5,
+        "address": "1-18 Minookoen, Minoh, Osaka 562-0002, Japan",
+        "latitude": 34.847070599999995,
+        "longitude": 135.4723464
+    },
+    {
+        "category": "waterfalls",
+        "title": "Aji River",
+        "rating": 4,
+        "address": "Osaka, Japan",
+        "latitude": 34.669978,
+        "longitude": 135.4537445
+    },
+    {
+        "category": "waterfalls",
+        "title": "権現の滝",
+        "rating": 3.9,
+        "address": "Japan, 〒575-0022 Osaka, Shijonawate, Minamino",
+        "latitude": 34.722398399999996,
+        "longitude": 135.6611445
+    },
+    {
+        "category": "lakes",
+        "title": "Bandai Pond",
+        "rating": 4.2,
+        "address": "3-chōme-7 Bandai, Sumiyoshi Ward, Osaka, 558-0055, Japan",
+        "latitude": 34.6192377,
+        "longitude": 135.50177259999998
+    },
+    {
+        "category": "lakes",
+        "title": "Naga Pond",
+        "rating": 4.7,
+        "address": "Kanaokacho, Kita Ward, Sakai, Osaka 591-8022, Japan",
+        "latitude": 34.5531236,
+        "longitude": 135.5198933
+    },
+    {
+        "category": "lakes",
+        "title": "Bandai Pond",
+        "rating": 4.3,
+        "address": "3-chōme-7 Bandai, Sumiyoshi Ward, Osaka, 558-0055, Japan",
+        "latitude": 34.6195009,
+        "longitude": 135.502951
+    },
+    {
+        "category": "lakes",
+        "title": "Nishiomi Pond",
+        "rating": null,
+        "address": "2 Chome Miyakehigashi, Matsubara, Osaka 580-0041, Japan",
+        "latitude": 34.5870976,
+        "longitude": 135.55998979999998
+    },
+    {
+        "category": "lakes",
+        "title": "Umiizumi Pond",
+        "rating": null,
+        "address": "4 Chome Ao, Matsubara, Osaka 580-0043, Japan",
+        "latitude": 34.579748099999996,
+        "longitude": 135.5579252
+    },
+    {
+        "category": "beaches",
+        "title": "Shioashiya Beach",
+        "rating": 4.2,
+        "address": "Minamihamacho, 659-0037, Japan",
+        "latitude": 34.7069865,
+        "longitude": 135.3093075
+    },
+    {
+        "category": "beaches",
+        "title": "Nishikinohama Beach Park",
+        "rating": 3.9,
+        "address": "Sawa, Kaizuka, Osaka 597-0062, Japan",
+        "latitude": 34.4376153,
+        "longitude": 135.3344386
+    },
+    {
+        "category": "beaches",
+        "title": "Osaka Waterfront Park “Sakuranomiya Beach”",
+        "rating": 4.2,
+        "address": "4 Chome-5 Nakanocho, Miyakojima Ward, Osaka, 534-0027, Japan",
+        "latitude": 34.702331,
+        "longitude": 135.521378
+    },
+    {
+        "category": "beaches",
+        "title": "Rinkuminamihama Beaches (Tarui Southern Beach)",
+        "rating": 3.9,
+        "address": "Rinkuminamihama, Sennan, Osaka 590-0535, Japan",
+        "latitude": 34.380389,
+        "longitude": 135.26099299999998
+    },
+    {
+        "category": "beaches",
+        "title": "Sakaihama Natural Restoration Fureai Beach",
+        "rating": 3.4,
+        "address": "1-97 Chikkoyawatamachi, Sakai Ward, Sakai, Osaka 590-0901, Japan",
+        "latitude": 34.6012864,
+        "longitude": 135.4463559
+    },
+    {
+        "category": "swimming pools",
+        "title": "Ōgimachi Pool",
+        "rating": 3.6,
+        "address": "1 Chome-1-1 Ogimachi, Kita Ward, Osaka, 530-0025, Japan",
+        "latitude": 34.703381799999995,
+        "longitude": 135.50975649999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Osaka Municipal Central Indoor Pool",
+        "rating": 3.7,
+        "address": "2 Chome-7-8 Shimanouchi, Chuo Ward, Osaka, 542-0082, Japan",
+        "latitude": 34.6712834,
+        "longitude": 135.5088845
+    },
+    {
+        "category": "swimming pools",
+        "title": "Asue Osaka Pool",
+        "rating": 3.9,
+        "address": "3 Chome-1-20 Tanaka, Minato Ward, Osaka, 552-0005, Japan",
+        "latitude": 34.66104,
+        "longitude": 135.44741299999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Tsurumi Ryokuchi Pool",
+        "rating": 3.7,
+        "address": "1-37 Ryokuchikoen, Tsurumi Ward, Osaka, 538-0036, Japan",
+        "latitude": 34.7092052,
+        "longitude": 135.5809447
+    },
+    {
+        "category": "swimming pools",
+        "title": "Nagai Swimming Pool",
+        "rating": 3.7,
+        "address": "1-5 Nagaikoen, Higashisumiyoshi Ward, Osaka, 546-0034, Japan",
+        "latitude": 34.614568999999996,
+        "longitude": 135.5204507
+    },
+    {
+        "category": "swimming pools",
+        "title": "Osaka City Naniwa Indoor Swimming Pool",
+        "rating": 3.7,
+        "address": "3 Chome-8-8 Nanbanaka, Naniwa Ward, Osaka, 556-0011, Japan",
+        "latitude": 34.661297,
+        "longitude": 135.499416
+    },
+    {
+        "category": "swimming pools",
+        "title": "Osaka City Abeno Indoor Swimming Pool",
+        "rating": 3.6,
+        "address": "3 Chome-13-23 Abenosuji, Abeno Ward, Osaka, 545-0052, Japan",
+        "latitude": 34.6433256,
+        "longitude": 135.51027209999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Osaka City Nishi Indoor Swimming Pool",
+        "rating": 3.8,
+        "address": "松島公園 内, 1 Chome-4-16 Honden, Nishi Ward, Osaka, 550-0022, Japan",
+        "latitude": 34.6779583,
+        "longitude": 135.4818583
+    },
+    {
+        "category": "swimming pools",
+        "title": "Osaka Yodogawa indoor pool",
+        "rating": 3.6,
+        "address": "2 Chome-3-1 Jusohigashi, Yodogawa Ward, Osaka, 532-0023, Japan",
+        "latitude": 34.721317,
+        "longitude": 135.48653
+    },
+    {
+        "category": "swimming pools",
+        "title": "Osaka City Shimofukushima Pool",
+        "rating": 3.7,
+        "address": "4 Chome-1-82 Fukushima, Fukushima Ward, Osaka, 553-0003, Japan",
+        "latitude": 34.6899121,
+        "longitude": 135.4824074
+    },
+    {
+        "category": "swimming pools",
+        "title": "Higashinari indoor pool",
+        "rating": 4.1,
+        "address": "2 Chome-12-1 Higashinakamoto, Higashinari Ward, Osaka, 537-0021, Japan",
+        "latitude": 34.678532,
+        "longitude": 135.54797499999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Ikuno Indoor pool",
+        "rating": 3.4,
+        "address": "3 Chome-8-18 Momodani, Ikuno Ward, Osaka, 544-0034, Japan",
+        "latitude": 34.6607939,
+        "longitude": 135.53529659999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Osaka City Miyakojima Indoor Swimming Pool",
+        "rating": 3.9,
+        "address": "大阪市立都島屋内プール, 4 Chome-12-7 Miyakojimahondori, Miyakojima Ward, Osaka, 534-0021, Japan",
+        "latitude": 34.707409,
+        "longitude": 135.532546
+    },
+    {
+        "category": "swimming pools",
+        "title": "Konohana Indoor Swimming Pool",
+        "rating": 3.3,
+        "address": "5 Chome-4-21 Nishikujo, Konohana Ward, Osaka, 554-0012, Japan",
+        "latitude": 34.683617999999996,
+        "longitude": 135.464577
+    },
+    {
+        "category": "swimming pools",
+        "title": "Matsubara City Pool",
+        "rating": 3.8,
+        "address": "3 Chome-111-1 Taijo, Matsubara, Osaka 580-0044, Japan",
+        "latitude": 34.5791128,
+        "longitude": 135.5483429
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sanadayama pool",
+        "rating": 3.9,
+        "address": "5-109 Sanadayamacho, Tennoji Ward, Osaka, 543-0015, Japan",
+        "latitude": 34.6708211,
+        "longitude": 135.52826349999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Nishinari Indoor Swimming Pool",
+        "rating": 3.4,
+        "address": "1 Chome-6-1 Tamadehigashi, Nishinari Ward, Osaka, 557-0043, Japan",
+        "latitude": 34.627932699999995,
+        "longitude": 135.4958695
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hirano Okunai Pool",
+        "rating": 3.4,
+        "address": "4 Chome-6-1 Hiranominami, Hirano Ward, Osaka, 547-0031, Japan",
+        "latitude": 34.6179171,
+        "longitude": 135.5602126
+    },
+    {
+        "category": "swimming pools",
+        "title": "Northern Sports Center",
+        "rating": 3.7,
+        "address": "大阪市立北スポーツセンター, 3 Chome-4-27 Nakatsu, Kita Ward, Osaka, 531-0071, Japan",
+        "latitude": 34.7103676,
+        "longitude": 135.4926168
+    },
+    {
+        "category": "swimming pools",
+        "title": "旭屋内プール",
+        "rating": 3.7,
+        "address": "Japan, 〒535-0031 Osaka, Asahi-ku, Takadono, 6 Chome−14−6",
+        "latitude": 34.7174664,
+        "longitude": 135.54607049999998
+    },
+    {
+        "category": "resorts",
+        "title": "OMO7 Osaka by Hoshino Resorts",
+        "rating": 4.2,
+        "address": "3 Chome-16-30 Ebisunishi, Naniwa Ward, Osaka, 556-0003, Japan",
+        "latitude": 34.6508135,
+        "longitude": 135.5018895
+    },
+    {
+        "category": "resorts",
+        "title": "The Ritz-Carlton, Osaka",
+        "rating": 4.4,
+        "address": "2 Chome-5-25 Umeda, Kita Ward, Osaka, 530-0001, Japan",
+        "latitude": 34.69834,
+        "longitude": 135.4925207
+    },
+    {
+        "category": "resorts",
+        "title": "Conrad Osaka",
+        "rating": 4.6,
+        "address": "3 Chome-2-4 Nakanoshima, Kita Ward, Osaka, 530-0005, Japan",
+        "latitude": 34.6935346,
+        "longitude": 135.4957211
+    },
+    {
+        "category": "resorts",
+        "title": "Imperial Hotel Ōsaka",
+        "rating": 4.4,
+        "address": "1 Chome-8-50 Tenmabashi, Kita Ward, Osaka, 530-0042, Japan",
+        "latitude": 34.7007884,
+        "longitude": 135.5196843
+    },
+    {
+        "category": "resorts",
+        "title": "Osaka Hokko Marina Resort Guesthouse",
+        "rating": 3.7,
+        "address": "Japan, 〒554-0052 Osaka, Konohana Ward, Tsuneyoshi, 2 Chome−13−18, 大阪北港マリーナリゾート",
+        "latitude": 34.6747223,
+        "longitude": 135.4104291
+    },
+    {
+        "category": "resorts",
+        "title": "The St. Regis Osaka",
+        "rating": 4.3,
+        "address": "3 Chome-6-12 Honmachi, Chuo Ward, Osaka, 541-0053, Japan",
+        "latitude": 34.683343,
+        "longitude": 135.50139869999998
+    },
+    {
+        "category": "resorts",
+        "title": "Citadines Namba Osaka",
+        "rating": 4.6,
+        "address": "3 Chome-5-25 Nipponbashi, Naniwa Ward, Osaka, 556-0005, Japan",
+        "latitude": 34.6622676,
+        "longitude": 135.50623249999998
+    },
+    {
+        "category": "resorts",
+        "title": "Swissôtel Nankai Osaka",
+        "rating": 4.3,
+        "address": "5 Chome-1-60 Namba, Chuo Ward, Osaka, 542-0076, Japan",
+        "latitude": 34.6641574,
+        "longitude": 135.5011441
+    },
+    {
+        "category": "resorts",
+        "title": "The Day Osaka",
+        "rating": 4,
+        "address": "2 Chome-3-75 Hokkoryokuchi, Konohana Ward, Osaka, 554-0042, Japan",
+        "latitude": 34.6648502,
+        "longitude": 135.3907963
+    },
+    {
+        "category": "resorts",
+        "title": "Grand Prince Hotel Osaka Bay",
+        "rating": 4.1,
+        "address": "1 Chome-13-11 Nankokita, Suminoe Ward, Osaka, 559-0034, Japan",
+        "latitude": 34.6362593,
+        "longitude": 135.41627649999998
+    },
+    {
+        "category": "resorts",
+        "title": "Osaka Marriott Miyako Hotel",
+        "rating": 4.5,
+        "address": "1 Chome-1-43 Abenosuji, Abeno Ward, Osaka, 545-0052, Japan",
+        "latitude": 34.645795299999996,
+        "longitude": 135.5142975
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Hankyu RESPIRE OSAKA",
+        "rating": 4.3,
+        "address": "1-1 Ofukacho, Kita Ward, Osaka, 530-0011, Japan",
+        "latitude": 34.7047014,
+        "longitude": 135.4961473
+    },
+    {
+        "category": "resorts",
+        "title": "ANA Crowne Plaza Osaka by IHG",
+        "rating": 4,
+        "address": "1 Chome-3-1 Dojimahama, Kita Ward, Osaka, 530-0004, Japan",
+        "latitude": 34.6956294,
+        "longitude": 135.4982976
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel New Otani Osaka",
+        "rating": 4.2,
+        "address": "1 Chome-4-1 Shiromi, Chuo Ward, Osaka, 540-8578, Japan",
+        "latitude": 34.6908166,
+        "longitude": 135.5335447
+    },
+    {
+        "category": "resorts",
+        "title": "InterContinental Osaka by IHG",
+        "rating": 4.4,
+        "address": "3-3-60 Ofukacho, Kita Ward, Osaka, 530-0011, Japan",
+        "latitude": 34.7064297,
+        "longitude": 135.4942905
+    },
+    {
+        "category": "resorts",
+        "title": "Centara Grand Hotel Osaka",
+        "rating": 4.5,
+        "address": "2 Chome-11-50 Nanbanaka, Naniwa Ward, Osaka, 556-0011, Japan",
+        "latitude": 34.660291,
+        "longitude": 135.5022983
+    },
+    {
+        "category": "resorts",
+        "title": "Four Seasons Hotel Osaka",
+        "rating": 4.4,
+        "address": "2 Chome-4-32 Dojima, Kita Ward, Osaka, 530-0003, Japan",
+        "latitude": 34.6961363,
+        "longitude": 135.4935424
+    },
+    {
+        "category": "resorts",
+        "title": "Cross Hotel Osaka",
+        "rating": 4.4,
+        "address": "2 Chome-5-15 Shinsaibashisuji, Chuo Ward, Osaka, 542-0085, Japan",
+        "latitude": 34.6697148,
+        "longitude": 135.5007625
+    },
+    {
+        "category": "resorts",
+        "title": "Onyado Nono Oosaka-Yodoyabashi",
+        "rating": 4.5,
+        "address": "2 Chome-5番19号 Kitahama, Chuo Ward, Osaka, 541-0041, Japan",
+        "latitude": 34.6918078,
+        "longitude": 135.5047689
+    },
+    {
+        "category": "resorts",
+        "title": "THE SINGULARI HOTEL & SKYSPA AT UNIVERSAL STUDIOS JAPAN (CANDEO HOTELS Group)",
+        "rating": 4.1,
+        "address": "6 Chome-2-25 Shimaya, Konohana Ward, Osaka, 554-0024, Japan",
+        "latitude": 34.6682342,
+        "longitude": 135.4392002
+    },
+    {
+        "category": "camping sites",
+        "title": "Kotakiji Camping Ground",
+        "rating": 3.8,
+        "address": "1392 Takihata, Kawachinagano, Osaka 586-0072, Japan",
+        "latitude": 34.369471,
+        "longitude": 135.517438
+    },
+    {
+        "category": "camping sites",
+        "title": "Tsurumi Ryokuchi Camping Ground",
+        "rating": 3.5,
+        "address": "Ryokuchikoen, Tsurumi Ward, Osaka, 538-0054, Japan",
+        "latitude": 34.711212499999995,
+        "longitude": 135.5689726
+    },
+    {
+        "category": "camping sites",
+        "title": "Maishima BBQ Park",
+        "rating": 4,
+        "address": "2 Chome-1-107 Hokkoryokuchi, Konohana Ward, Osaka, 554-0042, Japan",
+        "latitude": 34.6676125,
+        "longitude": 135.3963071
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Ground, Chihaya-Enchi Park, Osaka Prefectural Forests",
+        "rating": 4.2,
+        "address": "1313-2 Chihaya, Chihayaakasaka, Minamikawachi District, Osaka 585-0051, Japan",
+        "latitude": 34.4098213,
+        "longitude": 135.67915299999999
+    },
+    {
+        "category": "camping sites",
+        "title": "淀川キャンプフィールド",
+        "rating": 4.1,
+        "address": "Japan, 〒532-0012 Osaka, Yodogawa Ward, Kikawahigashi, 1 Chome−1",
+        "latitude": 34.721418,
+        "longitude": 135.4939667
+    },
+    {
+        "category": "camping sites",
+        "title": "Arataki Camping Ground",
+        "rating": 3.9,
+        "address": "1392 Takihata, Kawachinagano, Osaka 586-0072, Japan",
+        "latitude": 34.3669673,
+        "longitude": 135.5141677
+    },
+    {
+        "category": "camping sites",
+        "title": "campsite麓",
+        "rating": 4.6,
+        "address": "Japan, 〒585-0043 Osaka, Minamikawachi District, Chihayaakasaka, Kiriyama, 272-1",
+        "latitude": 34.454313899999995,
+        "longitude": 135.62987619999998
+    },
+    {
+        "category": "camping sites",
+        "title": "GRAN CAMPING PALM GARDEN MAISHIMA by WBF",
+        "rating": 4.2,
+        "address": "2 Chome-3-57 Hokkoryokuchi, Konohana Ward, Osaka, 554-0042, Japan",
+        "latitude": 34.6663018,
+        "longitude": 135.390004
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Osaka, Osaka Council, Scout Association of Japan",
+        "rating": 4,
+        "address": "4662 Hotani, Hirakata, Osaka 573-0114, Japan",
+        "latitude": 34.7799489,
+        "longitude": 135.7128141
+    },
+    {
+        "category": "camping sites",
+        "title": "Tsurumi Ryokuchi barbecue area",
+        "rating": 3.8,
+        "address": "2-163 Takase, Tsurumi Ward, Osaka, 538-0036, Japan",
+        "latitude": 34.7104457,
+        "longitude": 135.570357
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Narukawa, Higashiosaka Municipal Outdoor Activity Center",
+        "rating": 4.1,
+        "address": "1 Chome-1668 Rokumanjicho, Higashiosaka, Osaka 579-8061, Japan",
+        "latitude": 34.6513753,
+        "longitude": 135.6630296
+    },
+    {
+        "category": "camping sites",
+        "title": "Osaka Hokko Marina Resort Guesthouse",
+        "rating": 3.7,
+        "address": "Japan, 〒554-0052 Osaka, Konohana Ward, Tsuneyoshi, 2 Chome−13−18, 大阪北港マリーナリゾート",
+        "latitude": 34.6747223,
+        "longitude": 135.4104291
+    },
+    {
+        "category": "camping sites",
+        "title": "Snow Peak Minoh Campfield",
+        "rating": 4.3,
+        "address": "Shimotodoromi, Minoh, Osaka 563-0252, Japan",
+        "latitude": 34.882541499999995,
+        "longitude": 135.4618234
+    },
+    {
+        "category": "camping sites",
+        "title": "大阪舞洲アーバンアウトドアベース「愛犬と一緒にデイキャンプ＆BBQ」with 大阪舞洲ドッグウォーキング",
+        "rating": 3.8,
+        "address": "Japan, 〒554-0042 Osaka, Konohana Ward, Hokkoryokuchi, 2 Chome−1−94",
+        "latitude": 34.6672928,
+        "longitude": 135.3981781
+    },
+    {
+        "category": "camping sites",
+        "title": "The Day Osaka",
+        "rating": 4,
+        "address": "2 Chome-3-75 Hokkoryokuchi, Konohana Ward, Osaka, 554-0042, Japan",
+        "latitude": 34.6648502,
+        "longitude": 135.3907963
+    },
+    {
+        "category": "camping sites",
+        "title": "Natural forest family car camping site",
+        "rating": 3.9,
+        "address": "411 Yamabe, Nose, Toyono District, Osaka 563-0372, Japan",
+        "latitude": 35.0077652,
+        "longitude": 135.3621844
+    },
+    {
+        "category": "camping sites",
+        "title": "Woods of Chikaku",
+        "rating": 4.1,
+        "address": "1-1 Hattoriryokuchi, Toyonaka, Osaka 561-0873, Japan",
+        "latitude": 34.7775065,
+        "longitude": 135.4860435
+    },
+    {
+        "category": "camping sites",
+        "title": "大阪北港舞洲ベイサイドバーベキューBBQ",
+        "rating": 3.8,
+        "address": "Japan, 〒554-0052 Osaka, Konohana Ward, Tsuneyoshi, 2 Chome−13−18 パパヘミングウェイ, 棟ウッドデッキ（Google Mapでご利用ください",
+        "latitude": 34.6745398,
+        "longitude": 135.40962009999998
+    },
+    {
+        "category": "camping sites",
+        "title": "Nature School Kinoizumi Wai Wai village of woodlands",
+        "rating": 4.5,
+        "address": "207 Shindachitsuzurabata, Sennan, Osaka 590-0511, Japan",
+        "latitude": 34.33339,
+        "longitude": 135.32406
+    },
+    {
+        "category": "camping sites",
+        "title": "Daito City Youth Outdoor Activity Center",
+        "rating": 3.9,
+        "address": "1846 Tatsuma, Daito, Osaka 574-0012, Japan",
+        "latitude": 34.720842999999995,
+        "longitude": 135.656804
+    },
+    {
+        "category": "hiking trails",
+        "title": "Falls Trail, Minoh Park",
+        "rating": 4.6,
+        "address": "1-1 Minookoen, Minoh, Osaka 562-0002, Japan",
+        "latitude": 34.8513569,
+        "longitude": 135.4717785
+    },
+    {
+        "category": "hiking trails",
+        "title": "Nakanoshima Esplanade",
+        "rating": 4.1,
+        "address": "2 Chome-3 Nakanoshima, Kita Ward, Osaka, 530-0005, Japan",
+        "latitude": 34.6942294,
+        "longitude": 135.4966972
+    },
+    {
+        "category": "hiking trails",
+        "title": "Yodogawa Riverside National Park Kema Area",
+        "rating": 3.9,
+        "address": "4 Chome-12 Kemacho, Miyakojima Ward, Osaka, 534-0001, Japan",
+        "latitude": 34.7246439,
+        "longitude": 135.5187576
+    },
+    {
+        "category": "hiking trails",
+        "title": "Minoh Park",
+        "rating": 4.5,
+        "address": "1-18 Minookoen, Minoh, Osaka 562-0002, Japan",
+        "latitude": 34.847070599999995,
+        "longitude": 135.4723464
+    },
+    {
+        "category": "hiking trails",
+        "title": "Sumiyoshi River Esplanade",
+        "rating": 4.2,
+        "address": "Suminoe Ward, Osaka, 559-0016, Japan",
+        "latitude": 34.6143353,
+        "longitude": 135.4746145
+    },
+    {
+        "category": "hiking trails",
+        "title": "Minoh Falls",
+        "rating": 4.4,
+        "address": "2-2 Minookoen, Minoh, Osaka 562-0002, Japan",
+        "latitude": 34.8538281,
+        "longitude": 135.4719911
+    },
+    {
+        "category": "hiking trails",
+        "title": "Gakuenzaka",
+        "rating": 3.7,
+        "address": "Yuhigaokacho, Tennoji Ward, Osaka, 543-0075, Japan",
+        "latitude": 34.6597383,
+        "longitude": 135.51210849999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Inari Hill",
+        "rating": 4.1,
+        "address": "1 Hattoriryokuchi, Toyonaka, Osaka 561-0873, Japan",
+        "latitude": 34.779302,
+        "longitude": 135.4933508
+    },
+    {
+        "category": "hiking trails",
+        "title": "Hoshida Park",
+        "rating": 4.3,
+        "address": "5019-1 Hoshida, Katano, Osaka 576-0011, Japan",
+        "latitude": 34.7507744,
+        "longitude": 135.6857624
+    },
+    {
+        "category": "hiking trails",
+        "title": "A port town with lots of cats",
+        "rating": 4.5,
+        "address": "3-19 Dejima Nishimachi, Sakai Ward, Sakai, Osaka 590-0831, Japan",
+        "latitude": 34.570428,
+        "longitude": 135.4521607
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ashihara Park",
+        "rating": 3.4,
+        "address": "2 Chome-1-1 Kuboyoshi, Naniwa Ward, Osaka, 556-0028, Japan",
+        "latitude": 34.661423,
+        "longitude": 135.4837042
+    },
+    {
+        "category": "hiking trails",
+        "title": "Chishima Park",
+        "rating": 3.8,
+        "address": "2 Chome-7 Chishima, Taishō-ku, Osaka, 551-0003, Japan",
+        "latitude": 34.6489601,
+        "longitude": 135.47398379999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Osaka Castle Park",
+        "rating": 4.4,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6864797,
+        "longitude": 135.5262114
+    },
+    {
+        "category": "hiking trails",
+        "title": "Momogaike Park",
+        "rating": 3.8,
+        "address": "1 Chome Momogaikecho, Abeno Ward, Osaka, 545-0012, Japan",
+        "latitude": 34.630733299999996,
+        "longitude": 135.5214389
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Dotonbori",
+        "rating": 4.4,
+        "address": "1 Chome Dotonbori, Chuo Ward, Osaka, 542-0071, Japan",
+        "latitude": 34.6687234,
+        "longitude": 135.5012971
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Osaka Aquarium Kaiyukan",
+        "rating": 4.4,
+        "address": "1 Chome-1-10 Kaigandori, Minato Ward, Osaka, 552-0022, Japan",
+        "latitude": 34.6545182,
+        "longitude": 135.4289645
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "The Island Garden",
+        "rating": 4.2,
+        "address": "1 Chome-1-88 Oyodonaka, Kita Ward, Osaka, 531-0076, Japan",
+        "latitude": 34.7045393,
+        "longitude": 135.49014599999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Osaka Castle Park",
+        "rating": 4.4,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6864797,
+        "longitude": 135.5262114
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Tempozan Park",
+        "rating": 3.9,
+        "address": "3 Chome-2 Chikko, Minato Ward, Osaka, 552-0021, Japan",
+        "latitude": 34.6574583,
+        "longitude": 135.4327556
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Minoh Falls",
+        "rating": 4.4,
+        "address": "2-2 Minookoen, Minoh, Osaka 562-0002, Japan",
+        "latitude": 34.8538281,
+        "longitude": 135.4719911
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Expo '70 Commemorative Park",
+        "rating": 4.3,
+        "address": "Senribanpakukoen, Suita, Osaka 565-0826, Japan",
+        "latitude": 34.8060955,
+        "longitude": 135.5290016
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Nishinomaru Garden",
+        "rating": 4.2,
+        "address": "2 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.686780899999995,
+        "longitude": 135.52344549999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Osaka Castle",
+        "rating": 4.4,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6872571,
+        "longitude": 135.5258546
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Nakanoshima Park",
+        "rating": 4.2,
+        "address": "1 Chome-1 Nakanoshima, Kita Ward, Osaka, 530-0005, Japan",
+        "latitude": 34.6924709,
+        "longitude": 135.50732299999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Minoh Park",
+        "rating": 4.5,
+        "address": "1-18 Minookoen, Minoh, Osaka 562-0002, Japan",
+        "latitude": 34.847070599999995,
+        "longitude": 135.4723464
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Kema Sakuranomiya Park",
+        "rating": 4.1,
+        "address": "Nakanocho, Miyakojima Ward, Osaka, 534-0027, Japan",
+        "latitude": 34.7051508,
+        "longitude": 135.51884379999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Tsurumi Ryokuchi Park",
+        "rating": 4.2,
+        "address": "2-163 Ryokuchikoen, Tsurumi Ward, Osaka, 538-0036, Japan",
+        "latitude": 34.7114354,
+        "longitude": 135.57172359999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Universal Studios Japan",
+        "rating": 4.5,
+        "address": "2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.6656768,
+        "longitude": 135.4323185
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Utsubo Park",
+        "rating": 4.1,
+        "address": "Utsubohonmachi, Nishi Ward, Osaka, 550-0004, Japan",
+        "latitude": 34.684982,
+        "longitude": 135.4935063
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Oizumi Ryokuchi Park",
+        "rating": 4.2,
+        "address": "128 Kanaokacho, Kita Ward, Sakai, Osaka 591-8022, Japan",
+        "latitude": 34.5648719,
+        "longitude": 135.5275278
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Kansai Cycle Sports Center",
+        "rating": 4.1,
+        "address": "1304 Amanocho, Kawachinagano, Osaka 586-0086, Japan",
+        "latitude": 34.4131493,
+        "longitude": 135.5298085
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Hamadera Park",
+        "rating": 4.1,
+        "address": "Hamadera Koencho, Sakai, Osaka 592-8346, Japan",
+        "latitude": 34.5420623,
+        "longitude": 135.44074179999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Yodogawa River Park",
+        "rating": 3.9,
+        "address": "7-6 Sotojimacho, Moriguchi, Osaka 570-0098, Japan",
+        "latitude": 34.7438467,
+        "longitude": 135.5583188
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Settsukyo Park",
+        "rating": 4,
+        "address": "大字原地内ほか, Takatsuki, Osaka 569-1036, Japan",
+        "latitude": 34.875275699999996,
+        "longitude": 135.5886466
+    },
+    {
+        "category": "temples",
+        "title": "Shitennō-ji",
+        "rating": 4.3,
+        "address": "1 Chome-11-18 Shitennoji, Tennoji Ward, Osaka, 543-0051, Japan",
+        "latitude": 34.6544581,
+        "longitude": 135.51652389999998
+    },
+    {
+        "category": "temples",
+        "title": "Taiyū-ji Temple",
+        "rating": 4,
+        "address": "3-7 Taiyujicho, Kita Ward, Osaka, 530-0051, Japan",
+        "latitude": 34.701823,
+        "longitude": 135.50410349999999
+    },
+    {
+        "category": "temples",
+        "title": "Hozen-ji Temple",
+        "rating": 4.3,
+        "address": "1 Chome-2-16 Namba, Chuo Ward, Osaka, 542-0076, Japan",
+        "latitude": 34.6679398,
+        "longitude": 135.5024676
+    },
+    {
+        "category": "temples",
+        "title": "Namba Yasaka Jinja",
+        "rating": 4.4,
+        "address": "2 Chome-9-19 Motomachi, Naniwa Ward, Osaka, 556-0016, Japan",
+        "latitude": 34.6615592,
+        "longitude": 135.4967039
+    },
+    {
+        "category": "temples",
+        "title": "Isshin-ji Temple",
+        "rating": 4.2,
+        "address": "2 Chome-8-69 Osaka, Tennoji Ward, Osaka, 543-0062, Japan",
+        "latitude": 34.652873299999996,
+        "longitude": 135.5109152
+    },
+    {
+        "category": "temples",
+        "title": "Osaka Tenmangu Shrine",
+        "rating": 4.3,
+        "address": "2 Chome-1-8 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
+        "latitude": 34.696057599999996,
+        "longitude": 135.5126556
+    },
+    {
+        "category": "temples",
+        "title": "Sumiyoshi Taisha",
+        "rating": 4.5,
+        "address": "2 Chome-9-89 Sumiyoshi, Sumiyoshi Ward, Osaka, 558-0045, Japan",
+        "latitude": 34.6123945,
+        "longitude": 135.4937612
+    },
+    {
+        "category": "temples",
+        "title": "Abiko Kannon",
+        "rating": 4.2,
+        "address": "4 Chome-1-20 Abiko, Sumiyoshi Ward, Osaka, 558-0014, Japan",
+        "latitude": 34.599654799999996,
+        "longitude": 135.5101679
+    },
+    {
+        "category": "temples",
+        "title": "Shitennoji Koshindo",
+        "rating": 4.2,
+        "address": "2-15 Horikoshicho, Tennoji Ward, Osaka, 543-0056, Japan",
+        "latitude": 34.6503456,
+        "longitude": 135.5162351
+    },
+    {
+        "category": "temples",
+        "title": "Senko-ji",
+        "rating": 4.3,
+        "address": "4 Chome-12-21 Hirano Honmachi, Hirano Ward, Osaka, 547-0044, Japan",
+        "latitude": 34.623391,
+        "longitude": 135.5553124
+    },
+    {
+        "category": "temples",
+        "title": "Shitennoji Nakanomon (Middle Gate)",
+        "rating": 4.4,
+        "address": "1 Chome-11-90 Shitennoji, Tennoji Ward, Osaka, 543-0051, Japan",
+        "latitude": 34.655084599999995,
+        "longitude": 135.5145969
+    },
+    {
+        "category": "temples",
+        "title": "Hozenji Mizukake Fudoson Temple",
+        "rating": 4.4,
+        "address": "1 Chome-2-16 Namba, Chuo Ward, Osaka, 542-0076, Japan",
+        "latitude": 34.667934599999995,
+        "longitude": 135.50246289999998
+    },
+    {
+        "category": "temples",
+        "title": "Kozugu",
+        "rating": 4.3,
+        "address": "1 Chome-1-29 Kozu, Chuo Ward, Osaka, 542-0072, Japan",
+        "latitude": 34.6688135,
+        "longitude": 135.5138794
+    },
+    {
+        "category": "temples",
+        "title": "Mitsutera",
+        "rating": 4.5,
+        "address": "2 Chome-7-12 Shinsaibashisuji, Chuo Ward, Osaka, 542-0085, Japan",
+        "latitude": 34.6706125,
+        "longitude": 135.50071359999998
+    },
+    {
+        "category": "temples",
+        "title": "Hiromasa Temple",
+        "rating": 4.4,
+        "address": "1 Chome-7-23 Sennichimae, Chuo Ward, Osaka, 542-0074, Japan",
+        "latitude": 34.6680791,
+        "longitude": 135.50349319999998
+    },
+    {
+        "category": "temples",
+        "title": "Samuhara Shrine",
+        "rating": 4.4,
+        "address": "2 Chome-5-26 Itachibori, Nishi Ward, Osaka, 550-0012, Japan",
+        "latitude": 34.6789407,
+        "longitude": 135.49100099999998
+    },
+    {
+        "category": "temples",
+        "title": "Katsuoji",
+        "rating": 4.5,
+        "address": "2914-1 Aomatani, Minoh, Osaka 562-8508, Japan",
+        "latitude": 34.8657752,
+        "longitude": 135.491087
+    },
+    {
+        "category": "temples",
+        "title": "Houonin Temple",
+        "rating": 4.2,
+        "address": "1 Chome-2-28 Kozu, Chuo Ward, Osaka, 542-0072, Japan",
+        "latitude": 34.6672222,
+        "longitude": 135.5136111
+    },
+    {
+        "category": "temples",
+        "title": "Kitamido",
+        "rating": 4.2,
+        "address": "4 Chome-1-3 Honmachi, Chuo Ward, Osaka, 541-0053, Japan",
+        "latitude": 34.6850446,
+        "longitude": 135.4996097
+    },
+    {
+        "category": "temples",
+        "title": "Tsuyuno Tenjinsya (Ohatsu Tenjin)",
+        "rating": 4.1,
+        "address": "2 Chome-5-4 Sonezaki, Kita Ward, Osaka, 530-0057, Japan",
+        "latitude": 34.6992683,
+        "longitude": 135.50076289999998
+    },
+    {
+        "category": "museums",
+        "title": "Osaka Science Museum",
+        "rating": 4.2,
+        "address": "4 Chome-2-1 Nakanoshima, Kita Ward, Osaka, 530-0005, Japan",
+        "latitude": 34.691227999999995,
+        "longitude": 135.4915442
+    },
+    {
+        "category": "museums",
+        "title": "Kamigata Ukiyo-e Museum",
+        "rating": 4.1,
+        "address": "1 Chome-6-4 Namba, Chuo Ward, Osaka, 542-0076, Japan",
+        "latitude": 34.667939499999996,
+        "longitude": 135.5022103
+    },
+    {
+        "category": "museums",
+        "title": "The Museum of Oriental Ceramics, Osaka",
+        "rating": 4.4,
+        "address": "1 Chome-1-26 Nakanoshima, Kita Ward, Osaka, 530-0005, Japan",
+        "latitude": 34.6934353,
+        "longitude": 135.50545209999999
+    },
+    {
+        "category": "museums",
+        "title": "Koji Kinutani Tenku Art Museum",
+        "rating": 4.2,
+        "address": "TOWER WEST, 27階, 1 Chome-1-30 Oyodonaka, Kita Ward, Osaka, 531-0076, Japan",
+        "latitude": 34.705318999999996,
+        "longitude": 135.4896224
+    },
+    {
+        "category": "museums",
+        "title": "The National Museum of Art, Osaka",
+        "rating": 4.1,
+        "address": "国立国際美術館, 4 Chome-2-55 Nakanoshima, Kita Ward, Osaka, 530-0005, Japan",
+        "latitude": 34.691781899999995,
+        "longitude": 135.491984
+    },
+    {
+        "category": "museums",
+        "title": "Osaka Municipal Housing Museum \"Osaka Museum of Housing and Living\"",
+        "rating": 4.2,
+        "address": "大阪市立住まい情報センタービル 8F, 6 Chome-4-20 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
+        "latitude": 34.710340599999995,
+        "longitude": 135.5113276
+    },
+    {
+        "category": "museums",
+        "title": "PEACE OSAKA (International Peace Center)",
+        "rating": 4.2,
+        "address": "2-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6817756,
+        "longitude": 135.5298798
+    },
+    {
+        "category": "museums",
+        "title": "Osaka City Museum of Fine Arts",
+        "rating": 4.1,
+        "address": "1-82 Chausuyamacho, Tennoji Ward, Osaka, 543-0063, Japan",
+        "latitude": 34.650116,
+        "longitude": 135.5103522
+    },
+    {
+        "category": "museums",
+        "title": "Nakanoshima Museum of Art, Osaka (NAKKA)",
+        "rating": 4.4,
+        "address": "4 Chome-3-1 Nakanoshima, Kita Ward, Osaka, 530-0005, Japan",
+        "latitude": 34.6924461,
+        "longitude": 135.4913924
+    },
+    {
+        "category": "museums",
+        "title": "Osaka Museum of History",
+        "rating": 4.2,
+        "address": "4 Chome-1-32 Otemae, Chuo Ward, Osaka, 540-0008, Japan",
+        "latitude": 34.682614099999995,
+        "longitude": 135.5207975
+    },
+    {
+        "category": "museums",
+        "title": "teamLab Botanical Garden Osaka",
+        "rating": 3.9,
+        "address": "1-23 Nagaikoen, Higashisumiyoshi Ward, Osaka, 546-0034, Japan",
+        "latitude": 34.6110004,
+        "longitude": 135.52042129999998
+    },
+    {
+        "category": "museums",
+        "title": "G-LION MUSEUM",
+        "rating": 4.2,
+        "address": "2 Chome-6-39 Kaigandori, Minato Ward, Osaka, 552-0022, Japan",
+        "latitude": 34.6516558,
+        "longitude": 135.436412
+    },
+    {
+        "category": "museums",
+        "title": "Expo '70 Commemorative Park",
+        "rating": 4.3,
+        "address": "Senribanpakukoen, Suita, Osaka 565-0826, Japan",
+        "latitude": 34.8060955,
+        "longitude": 135.5290016
+    },
+    {
+        "category": "museums",
+        "title": "Osaka Ukiyoe Museum",
+        "rating": 4.6,
+        "address": "不二家心斎橋ビル 3F, 2 Chome-2-23 Shinsaibashisuji, Chuo Ward, Osaka, 542-0085, Japan",
+        "latitude": 34.6710169,
+        "longitude": 135.5014343
+    },
+    {
+        "category": "museums",
+        "title": "Kaiyodo Figure Museum Miraiza Osaka-Jo",
+        "rating": 4.5,
+        "address": "ミライザ大阪城 B1F, 1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6855553,
+        "longitude": 135.52652229999998
+    },
+    {
+        "category": "museums",
+        "title": "Abeno Harukas Art Museum",
+        "rating": 4.1,
+        "address": "あべのハルカス 16階, 1 Chome-1-43 Abenosuji, Abeno Ward, Osaka, 545-6016, Japan",
+        "latitude": 34.6463189,
+        "longitude": 135.5132739
+    },
+    {
+        "category": "museums",
+        "title": "Osaka Culturarium at Tempozan",
+        "rating": 4,
+        "address": "1 Chome-5-10 Kaigandori, Minato Ward, Osaka, 552-0022, Japan",
+        "latitude": 34.6539195,
+        "longitude": 135.42955999999998
+    },
+    {
+        "category": "museums",
+        "title": "Sanno Art Museum",
+        "rating": 4.3,
+        "address": "2 Chome-2-27 Shiromi, Chuo Ward, Osaka, 540-0001, Japan",
+        "latitude": 34.6941949,
+        "longitude": 135.53300679999998
+    },
+    {
+        "category": "museums",
+        "title": "Osaka Museum of Natural History",
+        "rating": 4.2,
+        "address": "1-23 Nagaikoen, Higashisumiyoshi Ward, Osaka, 546-0034, Japan",
+        "latitude": 34.6104087,
+        "longitude": 135.5226625
+    },
+    {
+        "category": "museums",
+        "title": "National Museum of Ethnology",
+        "rating": 4.5,
+        "address": "10-1 Senribanpakukoen, Suita, Osaka 565-0826, Japan",
+        "latitude": 34.8128311,
+        "longitude": 135.5302466
+    },
+    {
+        "category": "night markets",
+        "title": "Kuromon Market",
+        "rating": 4.1,
+        "address": "2 Chome Nipponbashi, Chuo Ward, Osaka, 542-0073, Japan",
+        "latitude": 34.665352899999995,
+        "longitude": 135.50624059999998
+    },
+    {
+        "category": "night markets",
+        "title": "NightMarket（ナイトマーケット）",
+        "rating": 4.3,
+        "address": "7 Chome-22-13 Fukushima, Fukushima Ward, Osaka, 553-0003, Japan",
+        "latitude": 34.701086,
+        "longitude": 135.486844
+    },
+    {
+        "category": "night markets",
+        "title": "レンガ通り Brick Street",
+        "rating": 4.8,
+        "address": "6 Chome-3-12 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
+        "latitude": 34.7101696,
+        "longitude": 135.5120273
+    },
+    {
+        "category": "viewpoints",
+        "title": "Umeda Sky Building",
+        "rating": 4.4,
+        "address": "1 Chome-1-88 Oyodonaka, Kita Ward, Osaka, 531-6023, Japan",
+        "latitude": 34.7052872,
+        "longitude": 135.4896527
+    },
+    {
+        "category": "viewpoints",
+        "title": "Kuchu Teien Observatory",
+        "rating": 4.4,
+        "address": "梅田スカイビル, 1 Chome-1-88 Oyodonaka, Kita Ward, Osaka, 531-6039, Japan",
+        "latitude": 34.7052993,
+        "longitude": 135.490172
+    },
+    {
+        "category": "viewpoints",
+        "title": "Harukas 300 (Observatory)",
+        "rating": 4.6,
+        "address": "1 Chome-1-43 Abenosuji, Abeno Ward, Osaka, 545-6016, Japan",
+        "latitude": 34.6463062,
+        "longitude": 135.5133091
+    },
+    {
+        "category": "viewpoints",
+        "title": "大阪港 中央突堤 夕陽のテラス",
+        "rating": 4.2,
+        "address": "1 Chome Kaigandori, Minato Ward, Osaka, 552-0022, Japan",
+        "latitude": 34.6506724,
+        "longitude": 135.425678
+    },
+    {
+        "category": "viewpoints",
+        "title": "Sakishima​ Cosmo Tower​ Observatory",
+        "rating": 4.3,
+        "address": "さきしまコスモタワ 55F, 1 Chome-14-16 Nankokita, Suminoe Ward, Osaka, 559-0034, Japan",
+        "latitude": 34.638079499999996,
+        "longitude": 135.4146553
+    },
+    {
+        "category": "viewpoints",
+        "title": "Tsutenkaku",
+        "rating": 4.1,
+        "address": "1 Chome-18-6 Ebisuhigashi, Naniwa Ward, Osaka, 556-0002, Japan",
+        "latitude": 34.6524992,
+        "longitude": 135.5063058
+    },
+    {
+        "category": "viewpoints",
+        "title": "Abeno Harukas",
+        "rating": 4.2,
+        "address": "1 Chome-1-43 Abenosuji, Abeno Ward, Osaka, 545-6016, Japan",
+        "latitude": 34.6460706,
+        "longitude": 135.5134771
+    },
+    {
+        "category": "viewpoints",
+        "title": "Dotonbori",
+        "rating": 4.4,
+        "address": "1 Chome Dotonbori, Chuo Ward, Osaka, 542-0071, Japan",
+        "latitude": 34.6687234,
+        "longitude": 135.5012971
+    },
+    {
+        "category": "viewpoints",
+        "title": "Shinsaibashi",
+        "rating": 4.3,
+        "address": "3 Chome Minamisenba, Chuo Ward, Osaka, 542-0081, Japan",
+        "latitude": 34.6750884,
+        "longitude": 135.5013847
+    },
+    {
+        "category": "viewpoints",
+        "title": "淀屋橋スカイテラス",
+        "rating": 4.7,
+        "address": "Japan, 〒541-0041 Osaka, Chuo Ward, Kitahama, 3 Chome−６番地２２ ３０階",
+        "latitude": 34.692320099999996,
+        "longitude": 135.5013712
+    },
+    {
+        "category": "viewpoints",
+        "title": "Osaka Castle Park",
+        "rating": 4.4,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6864797,
+        "longitude": 135.5262114
+    },
+    {
+        "category": "viewpoints",
+        "title": "Tempozan Ferris Wheel",
+        "rating": 4.4,
+        "address": "1 Chome-1-10 Kaigandori, Minato Ward, Osaka, 552-0022, Japan",
+        "latitude": 34.6562686,
+        "longitude": 135.4309659
+    },
+    {
+        "category": "viewpoints",
+        "title": "Tonbori River Walk",
+        "rating": 4.4,
+        "address": "Dotonbori, Chuo Ward, Osaka, 542-0071, Japan",
+        "latitude": 34.6689557,
+        "longitude": 135.5052283
+    },
+    {
+        "category": "viewpoints",
+        "title": "阪急32番街 展望スペース",
+        "rating": 4.3,
+        "address": "Japan, 〒530-0017 Osaka, Kita Ward, Kakudacho, 8",
+        "latitude": 34.703054099999996,
+        "longitude": 135.49893459999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Osaka Aquarium Kaiyukan",
+        "rating": 4.4,
+        "address": "1 Chome-1-10 Kaigandori, Minato Ward, Osaka, 552-0022, Japan",
+        "latitude": 34.6545182,
+        "longitude": 135.4289645
+    },
+    {
+        "category": "viewpoints",
+        "title": "OSAKA STATION CITY square of space-time",
+        "rating": 4.2,
+        "address": "Japan, 〒530-0001 Osaka, Kita Ward, Umeda, 3 Chome−1−3, 大阪ステーションシティ 大阪駅5F",
+        "latitude": 34.702411,
+        "longitude": 135.495917
+    },
+    {
+        "category": "viewpoints",
+        "title": "Universal Studios Japan",
+        "rating": 4.5,
+        "address": "2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.6656768,
+        "longitude": 135.4323185
+    },
+    {
+        "category": "viewpoints",
+        "title": "Osaka Castle",
+        "rating": 4.4,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6872571,
+        "longitude": 135.5258546
+    },
+    {
+        "category": "viewpoints",
+        "title": "Shinsekai",
+        "rating": 4.2,
+        "address": "2 Chome Ebisuhigashi, Naniwa Ward, Osaka, 556-0002, Japan",
+        "latitude": 34.651601299999996,
+        "longitude": 135.50595619999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Sky Garden",
+        "rating": 4.2,
+        "address": "3 Chome-2 Umeda, Kita Ward, Osaka, 530-0001, Japan",
+        "latitude": 34.7015229,
+        "longitude": 135.4927949
+    },
+    {
+        "category": "gardens",
+        "title": "Nagai Botanical Garden",
+        "rating": 4.3,
+        "address": "1-23 Nagaikoen, Higashisumiyoshi Ward, Osaka, 546-0034, Japan",
+        "latitude": 34.6123152,
+        "longitude": 135.5243669
+    },
+    {
+        "category": "gardens",
+        "title": "Nishinomaru Garden",
+        "rating": 4.2,
+        "address": "2 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.686780899999995,
+        "longitude": 135.52344549999998
+    },
+    {
+        "category": "gardens",
+        "title": "Nagai Park",
+        "rating": 4.2,
+        "address": "1-1 Nagaikoen, Higashisumiyoshi Ward, Osaka, 546-0034, Japan",
+        "latitude": 34.6125758,
+        "longitude": 135.5199903
+    },
+    {
+        "category": "gardens",
+        "title": "Keitakuen Garden",
+        "rating": 4.3,
+        "address": "Japan, 〒543-0063 Osaka, Tennoji Ward, Chausuyamacho, 1 天王寺公園, 内",
+        "latitude": 34.6496571,
+        "longitude": 135.5115834
+    },
+    {
+        "category": "gardens",
+        "title": "Japanese garden",
+        "rating": 4.5,
+        "address": "1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6857525,
+        "longitude": 135.52486589999998
+    },
+    {
+        "category": "gardens",
+        "title": "Peach Grove",
+        "rating": 4.1,
+        "address": "1 Chome-1-17 Katamachi, 都島区 Osaka, 540-0002, Japan",
+        "latitude": 34.6909804,
+        "longitude": 135.5265609
+    },
+    {
+        "category": "gardens",
+        "title": "Autumn Garden",
+        "rating": 4.6,
+        "address": "3-10 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6838203,
+        "longitude": 135.5305512
+    },
+    {
+        "category": "gardens",
+        "title": "Daisen Park Japanese Garden",
+        "rating": 4.4,
+        "address": "17 Daisen Nakamachi, Sakai Ward, Sakai, Osaka 590-0801, Japan",
+        "latitude": 34.5597298,
+        "longitude": 135.4805619
+    },
+    {
+        "category": "gardens",
+        "title": "Plum Grove",
+        "rating": 4.3,
+        "address": "2 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6866905,
+        "longitude": 135.5284884
+    },
+    {
+        "category": "gardens",
+        "title": "teamLab Botanical Garden Osaka",
+        "rating": 3.9,
+        "address": "1-23 Nagaikoen, Higashisumiyoshi Ward, Osaka, 546-0034, Japan",
+        "latitude": 34.6110004,
+        "longitude": 135.52042129999998
+    },
+    {
+        "category": "gardens",
+        "title": "Sakuya Konohana Kan",
+        "rating": 4.2,
+        "address": "2-163 Ryokuchikoen, Tsurumi Ward, Osaka, 570-0043, Japan",
+        "latitude": 34.710043399999996,
+        "longitude": 135.5735714
+    },
+    {
+        "category": "gardens",
+        "title": "Osaka Castle Park",
+        "rating": 4.4,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6864797,
+        "longitude": 135.5262114
+    },
+    {
+        "category": "gardens",
+        "title": "Grand Front Osaka Minamitate Terrace Garden",
+        "rating": 4.1,
+        "address": "グランフロント大阪 南館 9階, 4-20 Ofukacho, Kita Ward, Osaka, 530-0011, Japan",
+        "latitude": 34.7040632,
+        "longitude": 135.4948069
+    },
+    {
+        "category": "gardens",
+        "title": "The Island Garden",
+        "rating": 4.2,
+        "address": "1 Chome-1-88 Oyodonaka, Kita Ward, Osaka, 531-0076, Japan",
+        "latitude": 34.7045393,
+        "longitude": 135.49014599999998
+    },
+    {
+        "category": "gardens",
+        "title": "Japanese Garden",
+        "rating": 3.8,
+        "address": "Ryokuchikoen, Tsurumi Ward, Osaka, 538-0036, Japan",
+        "latitude": 34.7154768,
+        "longitude": 135.57708929999998
+    },
+    {
+        "category": "gardens",
+        "title": "Hydrangeas at Nagai Botanical Garden",
+        "rating": 4.2,
+        "address": "1 Nagaikoen, Higashisumiyoshi Ward, Osaka, 546-0034, Japan",
+        "latitude": 34.6144842,
+        "longitude": 135.5240077
+    },
+    {
+        "category": "gardens",
+        "title": "Japanese Garden",
+        "rating": 4.3,
+        "address": "Senribanpakukoen, Suita, Osaka 565-0826, Japan",
+        "latitude": 34.8138114,
+        "longitude": 135.5324504
+    },
+    {
+        "category": "gardens",
+        "title": "Japanese Garden",
+        "rating": 4.4,
+        "address": "1 Chome-11 Shitennoji, Tennoji Ward, Osaka, 543-0051, Japan",
+        "latitude": 34.6558731,
+        "longitude": 135.51794189999998
+    },
+    {
+        "category": "gardens",
+        "title": "OSAKA GARDEN CITY",
+        "rating": 3.9,
+        "address": "Japan, 〒530-0001 Osaka, Kita Ward, Umeda, 2 Chome−5",
+        "latitude": 34.6986431,
+        "longitude": 135.4924676
+    },
+    {
+        "category": "gardens",
+        "title": "Tennoji Park",
+        "rating": 4.1,
+        "address": "5-55 Chausuyamacho, Tennoji Ward, Osaka, 543-0063, Japan",
+        "latitude": 34.6507248,
+        "longitude": 135.5104151
+    },
+    {
+        "category": "adventure parks",
+        "title": "Hirakata Park",
+        "rating": 4.3,
+        "address": "1-1 Hirakatakoencho, Hirakata, Osaka 573-0054, Japan",
+        "latitude": 34.8059896,
+        "longitude": 135.6392002
+    },
+    {
+        "category": "adventure parks",
+        "title": "Lagoon",
+        "rating": 4.5,
+        "address": "2 Chome-1-1 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.664964399999995,
+        "longitude": 135.4320559
+    },
+    {
+        "category": "adventure parks",
+        "title": "Tempozan Harbor Village",
+        "rating": 4.2,
+        "address": "1 Chome-1-10 Kaigandori, Minato Ward, Osaka, 552-0022, Japan",
+        "latitude": 34.6558407,
+        "longitude": 135.4302126
+    },
+    {
+        "category": "adventure parks",
+        "title": "Universal Studios Japan",
+        "rating": 4.5,
+        "address": "2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.6656768,
+        "longitude": 135.4323185
+    },
+    {
+        "category": "adventure parks",
+        "title": "Maishima Seaside Athletic",
+        "rating": 4.9,
+        "address": "2 Chome-1-107 Hokkoryokuchi, Konohana Ward, Osaka, 554-0042, Japan",
+        "latitude": 34.667129599999996,
+        "longitude": 135.3965944
+    },
+    {
+        "category": "adventure parks",
+        "title": "Peach's Castle",
+        "rating": 4.6,
+        "address": "2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.66766,
+        "longitude": 135.4304898
+    },
+    {
+        "category": "adventure parks",
+        "title": "Yoshi’s Adventure",
+        "rating": 3.6,
+        "address": "スーパー・ニンテンドー・ワールド, 2 Chome-1 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.6680316,
+        "longitude": 135.4303051
+    },
+    {
+        "category": "adventure parks",
+        "title": "Universal Wonderland",
+        "rating": 4.4,
+        "address": "ユニバーサル・スタジオ・ジャパン, 2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.6670333,
+        "longitude": 135.4331241
+    },
+    {
+        "category": "adventure parks",
+        "title": "LEGOLAND Discovery Center Osaka",
+        "rating": 4,
+        "address": "天保山マーケットプレース 3階, 1 Chome-1-10 Kaigandori, Minato Ward, Osaka, 552-0022, Japan",
+        "latitude": 34.656179,
+        "longitude": 135.4302448
+    },
+    {
+        "category": "adventure parks",
+        "title": "Jaws: The Ride",
+        "rating": 4.2,
+        "address": "2 Chome-１番33号 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.666181,
+        "longitude": 135.4317532
+    },
+    {
+        "category": "adventure parks",
+        "title": "SPY x FAMILY XR Ride",
+        "rating": 5,
+        "address": "Canyon, 2 Chome-1 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.6651938,
+        "longitude": 135.4351965
+    },
+    {
+        "category": "adventure parks",
+        "title": "Jurassic Park",
+        "rating": 4.5,
+        "address": "2 Chome-1-1 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.6648596,
+        "longitude": 135.4306059
+    },
+    {
+        "category": "adventure parks",
+        "title": "The Wizarding World Of Harry Potter",
+        "rating": 4.7,
+        "address": "2 Chome-1 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.6680321,
+        "longitude": 135.4316955
+    },
+    {
+        "category": "adventure parks",
+        "title": "Jurassic Park: The Ride",
+        "rating": 4.5,
+        "address": "ジュラシック·パーク, 2 Chome-1 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.6644031,
+        "longitude": 135.4306163
+    },
+    {
+        "category": "adventure parks",
+        "title": "Hogwarts Castle",
+        "rating": 4.6,
+        "address": "2 Chome-1 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.6686543,
+        "longitude": 135.43152849999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Minion Park",
+        "rating": 4.5,
+        "address": "2 Chome-1-5 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.6633594,
+        "longitude": 135.4324452
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventure Park Bouken in Nose",
+        "rating": 4.3,
+        "address": "437-1 Shukuno, Nose, Toyono District, Osaka 563-0341, Japan",
+        "latitude": 35.0063524,
+        "longitude": 135.411375
+    },
+    {
+        "category": "adventure parks",
+        "title": "Super Nintendo World Japan",
+        "rating": 4.5,
+        "address": "2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.667967399999995,
+        "longitude": 135.43032259999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "MIRRORGE Osaka",
+        "rating": 4.2,
+        "address": "Japan, 〒530-0011 Osaka, Kita Ward, Ofukacho, 5−94, グラングリーン大阪 うめきた公園サウスパークA棟",
+        "latitude": 34.7035188,
+        "longitude": 135.4930688
+    },
+    {
+        "category": "adventure parks",
+        "title": "Festival In The Park",
+        "rating": 4.9,
+        "address": "2 Chome-1 Sakurajima, Konohana Ward, Osaka, 554-0031, Japan",
+        "latitude": 34.665407,
+        "longitude": 135.433351
+    },
+    {
+        "category": "hot springs",
+        "title": "Solaniwa Onsen",
+        "rating": 3.9,
+        "address": "1 Chome-2-3 Benten, Minato Ward, Osaka, 552-0007, Japan",
+        "latitude": 34.6703579,
+        "longitude": 135.4595476
+    },
+    {
+        "category": "hot springs",
+        "title": "Kamigata Hot Spring Ikkyu",
+        "rating": 3.9,
+        "address": "5 Chome-9-31 Torishima, Konohana Ward, Osaka, 554-0051, Japan",
+        "latitude": 34.6814512,
+        "longitude": 135.4342716
+    },
+    {
+        "category": "hot springs",
+        "title": "Onyado Nono Oosaka-Yodoyabashi",
+        "rating": 4.5,
+        "address": "2 Chome-5番19号 Kitahama, Chuo Ward, Osaka, 541-0041, Japan",
+        "latitude": 34.6918078,
+        "longitude": 135.5047689
+    },
+    {
+        "category": "hot springs",
+        "title": "Spa Suminoe",
+        "rating": 4.1,
+        "address": "1 Chome-1-82 Izumi, Suminoe Ward, Osaka, 559-0023, Japan",
+        "latitude": 34.6103477,
+        "longitude": 135.46865839999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Onyado Nono Nanba",
+        "rating": 4.3,
+        "address": "1 Chome-4-18 Nipponbashi, Chuo Ward, Osaka, 542-0073, Japan",
+        "latitude": 34.667985,
+        "longitude": 135.506326
+    },
+    {
+        "category": "hot springs",
+        "title": "Tennen Onsen Naniwanoyu",
+        "rating": 4.2,
+        "address": "1 Chome-7-31 Nagaranishi, Kita Ward, Osaka, 531-0061, Japan",
+        "latitude": 34.715008499999996,
+        "longitude": 135.51355759999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Natural Hot Spring Hananoi",
+        "rating": 4,
+        "address": "3 Chome-6-35 Edobori, Nishi Ward, Osaka, 550-0002, Japan",
+        "latitude": 34.6853129,
+        "longitude": 135.4853434
+    },
+    {
+        "category": "hot springs",
+        "title": "Fudo Hot Spring",
+        "rating": 4.1,
+        "address": "13-14 Tennoden, Joto Ward, Osaka, 536-0012, Japan",
+        "latitude": 34.6887317,
+        "longitude": 135.5526271
+    },
+    {
+        "category": "hot springs",
+        "title": "Nobeha No Yu Tsuruhashi",
+        "rating": 4,
+        "address": "3 Chome-13-41 Tamatsu, Higashinari Ward, Osaka, 537-0023, Japan",
+        "latitude": 34.6657935,
+        "longitude": 135.535947
+    },
+    {
+        "category": "hot springs",
+        "title": "Utopia Shiratama Hot Spring",
+        "rating": 4.1,
+        "address": "2 Chome-7-36 Gamou, Joto Ward, Osaka, 536-0016, Japan",
+        "latitude": 34.6986547,
+        "longitude": 135.5401971
+    },
+    {
+        "category": "hot springs",
+        "title": "Shintoku Hot Spring",
+        "rating": 4.3,
+        "address": "3 Chome-6-19 Omiya, Asahi-ku, Osaka, 535-0002, Japan",
+        "latitude": 34.7246352,
+        "longitude": 135.5470918
+    },
+    {
+        "category": "hot springs",
+        "title": "Radium Onsen",
+        "rating": 4,
+        "address": "1 Chome-4-13 Ebisuhigashi, Naniwa Ward, Osaka, 556-0002, Japan",
+        "latitude": 34.6526274,
+        "longitude": 135.5066403
+    },
+    {
+        "category": "hot springs",
+        "title": "SPAWORLD HOTEL&RESORT",
+        "rating": 4,
+        "address": "3 Chome-4-24 Ebisuhigashi, Naniwa Ward, Osaka, 556-0002, Japan",
+        "latitude": 34.6499029,
+        "longitude": 135.5056078
+    },
+    {
+        "category": "hot springs",
+        "title": "Taihei no Yu Namba",
+        "rating": 4,
+        "address": "南 棟２階, 2 Chome-2-8 Shikitsuhigashi, Naniwa Ward, Osaka, 556-0012, Japan",
+        "latitude": 34.6568642,
+        "longitude": 135.499965
+    },
+    {
+        "category": "hot springs",
+        "title": "Hinata no Yu",
+        "rating": 3.8,
+        "address": "ドルチェヴィータ新大阪 9F, 1 Chome-6-15 Mikunihonmachi, Yodogawa Ward, Osaka, 532-0005, Japan",
+        "latitude": 34.7315271,
+        "longitude": 135.4895893
+    },
+    {
+        "category": "hot springs",
+        "title": "Irifune Onsen",
+        "rating": 4.4,
+        "address": "1 Chome-6-3 Haginochaya, Nishinari Ward, Osaka, 557-0004, Japan",
+        "latitude": 34.6487549,
+        "longitude": 135.5022912
+    },
+    {
+        "category": "hot springs",
+        "title": "Super Hotel Premier Namba Shinsaibashi Natural Hot Spring",
+        "rating": 4,
+        "address": "2 Chome-16-8 Nishishinsaibashi, Chuo Ward, Osaka, 542-0086, Japan",
+        "latitude": 34.6699102,
+        "longitude": 135.4973533
+    },
+    {
+        "category": "hot springs",
+        "title": "Algo-no-yu",
+        "rating": 3.9,
+        "address": "あるごの湯, 1-16 Kamisucho, Toyonaka, Osaka 561-0823, Japan",
+        "latitude": 34.7382363,
+        "longitude": 135.4782497
+    },
+    {
+        "category": "hot springs",
+        "title": "Kegon Onsen",
+        "rating": 4,
+        "address": "2 Chome-19-5 Shiginohigashi, Joto Ward, Osaka, 536-0013, Japan",
+        "latitude": 34.692761,
+        "longitude": 135.54885
+    },
+    {
+        "category": "hot springs",
+        "title": "IZA SAUNA osaka",
+        "rating": 4.8,
+        "address": "Japan, 〒534-0026 Osaka, Miyakojima Ward, Amijimacho, 4−13 東文ビル 1階受付",
+        "latitude": 34.692985,
+        "longitude": 135.5231227
+    },
+    {
+        "category": "shopping malls",
+        "title": "Osaka Station City",
+        "rating": 4,
+        "address": "3 Chome-1-3 Umeda, Kita Ward, Osaka, 530-0001, Japan",
+        "latitude": 34.702411,
+        "longitude": 135.495917
+    },
+    {
+        "category": "shopping malls",
+        "title": "Namba City",
+        "rating": 3.9,
+        "address": "5 Chome-1-60 Namba, Chuo Ward, Osaka, 542-0076, Japan",
+        "latitude": 34.662527499999996,
+        "longitude": 135.5025967
+    },
+    {
+        "category": "shopping malls",
+        "title": "Namba Parks",
+        "rating": 4,
+        "address": "2 Chome-10-70 Nanbanaka, Naniwa Ward, Osaka, 556-0011, Japan",
+        "latitude": 34.6616083,
+        "longitude": 135.50193489999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Grand Front Osaka",
+        "rating": 4,
+        "address": "4-20 Ofukacho, Kita Ward, Osaka, 530-0011, Japan",
+        "latitude": 34.703866399999995,
+        "longitude": 135.4949205
+    },
+    {
+        "category": "shopping malls",
+        "title": "Namba Walk",
+        "rating": 3.9,
+        "address": "1 Chome Sennichimae, Chuo Ward, Osaka, 542-0074, Japan",
+        "latitude": 34.6670875,
+        "longitude": 135.5030161
+    },
+    {
+        "category": "shopping malls",
+        "title": "AEON MALL OSAKA DOME CITY",
+        "rating": 3.8,
+        "address": "3 Chome-１３番-1 Chiyozaki, Nishi Ward, Osaka, 550-0023, Japan",
+        "latitude": 34.6702691,
+        "longitude": 135.477917
+    },
+    {
+        "category": "shopping malls",
+        "title": "Abeno Q’s Mall",
+        "rating": 4,
+        "address": "1 Chome-6-1 Abenosuji, Abeno Ward, Osaka, 545-0052, Japan",
+        "latitude": 34.6453267,
+        "longitude": 135.511683
+    },
+    {
+        "category": "shopping malls",
+        "title": "Tempozan Market Place",
+        "rating": 3.9,
+        "address": "1 Chome-1-10 Kaigandori, Minato Ward, Osaka, 552-0022, Japan",
+        "latitude": 34.6558539,
+        "longitude": 135.430205
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shinsaibashi-Suji Shopping Street",
+        "rating": 4.3,
+        "address": "2 Chome-2-22 Shinsaibashisuji, Chuo Ward, Osaka, 542-0085, Japan",
+        "latitude": 34.6710169,
+        "longitude": 135.5013394
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shinsaibashi Opa",
+        "rating": 3.7,
+        "address": "1 Chome-4-3 Nishishinsaibashi, Chuo Ward, Osaka, 542-0086, Japan",
+        "latitude": 34.673314999999995,
+        "longitude": 135.499799
+    },
+    {
+        "category": "shopping malls",
+        "title": "Doton Plaza Osaka",
+        "rating": 3.7,
+        "address": "2 Chome-15-10 Shimanouchi, Chuo Ward, Osaka, 542-0082, Japan",
+        "latitude": 34.669724699999996,
+        "longitude": 135.5066364
+    },
+    {
+        "category": "shopping malls",
+        "title": "HEP FIVE",
+        "rating": 4,
+        "address": "5-15 Kakudacho, Kita Ward, Osaka, 530-0017, Japan",
+        "latitude": 34.7040897,
+        "longitude": 135.50046319999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "DOTIKA (Dojima Underground Shopping Centre)",
+        "rating": 3.6,
+        "address": "1 Chome-6-1 Dojima, Kita Ward, Osaka, 530-0003, Japan",
+        "latitude": 34.6970052,
+        "longitude": 135.49543979999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Ebisu Bashi-Suji Shopping Street",
+        "rating": 4.2,
+        "address": "Namba, Chuo Ward, Osaka, 542-0076, Japan",
+        "latitude": 34.6674989,
+        "longitude": 135.50135079999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "LUCUA Osaka",
+        "rating": 4,
+        "address": "3 Chome-1-3 Umeda, Kita Ward, Osaka, 530-8558, Japan",
+        "latitude": 34.7028866,
+        "longitude": 135.4953236
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shinsaibashi Big Step",
+        "rating": 3.8,
+        "address": "1 Chome-6-14 Nishishinsaibashi, Chuo Ward, Osaka, 542-0086, Japan",
+        "latitude": 34.672424299999996,
+        "longitude": 135.4987968
+    },
+    {
+        "category": "shopping malls",
+        "title": "Hankyu Department Store Umeda Main Store",
+        "rating": 4.2,
+        "address": "8-7 Kakudacho, Kita Ward, Osaka, 530-8350, Japan",
+        "latitude": 34.7028186,
+        "longitude": 135.4985323
+    },
+    {
+        "category": "shopping malls",
+        "title": "OSAKA BAY TOWER",
+        "rating": 3.9,
+        "address": "1 Chome-2-4-700 Benten, Minato Ward, Osaka, 552-0007, Japan",
+        "latitude": 34.669932599999996,
+        "longitude": 135.4607029
+    },
+    {
+        "category": "shopping malls",
+        "title": "NAMBA SkyO",
+        "rating": 3.7,
+        "address": "5 Chome-1-60 Namba, Chuo Ward, Osaka, 542-0076, Japan",
+        "latitude": 34.663729499999995,
+        "longitude": 135.5009267
+    },
+    {
+        "category": "shopping malls",
+        "title": "Hankyu Sanban Gai",
+        "rating": 3.9,
+        "address": "1 Chome-1-3 Shibata, Kita Ward, Osaka, 530-0012, Japan",
+        "latitude": 34.7059668,
+        "longitude": 135.4984748
+    },
+    {
+        "category": "historical sites",
+        "title": "Osaka Castle",
+        "rating": 4.4,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6872571,
+        "longitude": 135.5258546
+    },
+    {
+        "category": "historical sites",
+        "title": "Osaka Castle Main Tower",
+        "rating": 4.5,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6872962,
+        "longitude": 135.5258605
+    },
+    {
+        "category": "historical sites",
+        "title": "Dotonbori",
+        "rating": 4.4,
+        "address": "1 Chome Dotonbori, Chuo Ward, Osaka, 542-0071, Japan",
+        "latitude": 34.6687234,
+        "longitude": 135.5012971
+    },
+    {
+        "category": "historical sites",
+        "title": "Osaka Museum of History",
+        "rating": 4.2,
+        "address": "4 Chome-1-32 Otemae, Chuo Ward, Osaka, 540-0008, Japan",
+        "latitude": 34.682614099999995,
+        "longitude": 135.5207975
+    },
+    {
+        "category": "historical sites",
+        "title": "Shinsaibashi",
+        "rating": 4.3,
+        "address": "3 Chome Minamisenba, Chuo Ward, Osaka, 542-0081, Japan",
+        "latitude": 34.6750884,
+        "longitude": 135.5013847
+    },
+    {
+        "category": "historical sites",
+        "title": "Ōte-mon Gate",
+        "rating": 4.4,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.685091199999995,
+        "longitude": 135.5230378
+    },
+    {
+        "category": "historical sites",
+        "title": "Hoenzaka Archaeological Site",
+        "rating": 3.7,
+        "address": "4 Chome-1 Otemae, Chuo Ward, Osaka, 540-0008, Japan",
+        "latitude": 34.682225599999995,
+        "longitude": 135.5209299
+    },
+    {
+        "category": "historical sites",
+        "title": "Osaka Castle Park",
+        "rating": 4.4,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6864797,
+        "longitude": 135.5262114
+    },
+    {
+        "category": "historical sites",
+        "title": "Osaka Municipal Housing Museum \"Osaka Museum of Housing and Living\"",
+        "rating": 4.2,
+        "address": "大阪市立住まい情報センタービル 8F, 6 Chome-4-20 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
+        "latitude": 34.710340599999995,
+        "longitude": 135.5113276
+    },
+    {
+        "category": "historical sites",
+        "title": "Osaka Tenmangu Shrine",
+        "rating": 4.3,
+        "address": "2 Chome-1-8 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
+        "latitude": 34.696057599999996,
+        "longitude": 135.5126556
+    },
+    {
+        "category": "historical sites",
+        "title": "Gokuraku-bashi Bridge",
+        "rating": 4.3,
+        "address": "1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6888836,
+        "longitude": 135.5266229
+    },
+    {
+        "category": "historical sites",
+        "title": "South Outer Moat",
+        "rating": 4.3,
+        "address": "Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6833105,
+        "longitude": 135.52565669999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Shitennō-ji",
+        "rating": 4.3,
+        "address": "1 Chome-11-18 Shitennoji, Tennoji Ward, Osaka, 543-0051, Japan",
+        "latitude": 34.6544581,
+        "longitude": 135.51652389999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Sembukan",
+        "rating": 3.9,
+        "address": "1 Chome-1-1 Tenmabashi, Kita Ward, Osaka, 530-0042, Japan",
+        "latitude": 34.698096899999996,
+        "longitude": 135.5214157
+    },
+    {
+        "category": "historical sites",
+        "title": "Site of Sanadamaru ( small fortification attached to Osaka castle ) & Monument honouring the memory",
+        "rating": 4,
+        "address": "5 Esashimachi, Tennoji Ward, Osaka, 543-0016, Japan",
+        "latitude": 34.6725323,
+        "longitude": 135.52664
+    },
+    {
+        "category": "historical sites",
+        "title": "Tekijuku",
+        "rating": 4.2,
+        "address": "3 Chome-3-8 Kitahama, Chuo Ward, Osaka, 541-0041, Japan",
+        "latitude": 34.6912792,
+        "longitude": 135.5032834
+    },
+    {
+        "category": "historical sites",
+        "title": "旧大阪毎日新聞大阪本社 旧社屋玄関 玄関ポーチ",
+        "rating": 4,
+        "address": "1 Chome-6-20 Dojima, Kita Ward, Osaka, 530-0003, Japan",
+        "latitude": 34.6971068,
+        "longitude": 135.4956819
+    },
+    {
+        "category": "historical sites",
+        "title": "大阪銀座跡",
+        "rating": null,
+        "address": "Japan, 〒540-0039 Osaka, Chuo Ward, Higashikoraibashi, 2−38 井原ビル",
+        "latitude": 34.689102999999996,
+        "longitude": 135.51126829999998
+    },
+    {
+        "category": "historical sites",
+        "title": "釣鐘屋敷跡",
+        "rating": 3.9,
+        "address": "Japan, 〒540-0035 Osaka, Chuo Ward, Tsuriganecho, 2 Chome−2",
+        "latitude": 34.688088,
+        "longitude": 135.51388319999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Sumiyoshi Taisha",
+        "rating": 4.5,
+        "address": "2 Chome-9-89 Sumiyoshi, Sumiyoshi Ward, Osaka, 558-0045, Japan",
+        "latitude": 34.6123945,
+        "longitude": 135.4937612
+    },
+    {
+        "category": "art galleries",
+        "title": "The National Museum of Art, Osaka",
+        "rating": 4.1,
+        "address": "国立国際美術館, 4 Chome-2-55 Nakanoshima, Kita Ward, Osaka, 530-0005, Japan",
+        "latitude": 34.691781899999995,
+        "longitude": 135.491984
+    },
+    {
+        "category": "art galleries",
+        "title": "Nakanoshima Museum of Art, Osaka (NAKKA)",
+        "rating": 4.4,
+        "address": "4 Chome-3-1 Nakanoshima, Kita Ward, Osaka, 530-0005, Japan",
+        "latitude": 34.6924461,
+        "longitude": 135.4913924
+    },
+    {
+        "category": "art galleries",
+        "title": "Koji Kinutani Tenku Art Museum",
+        "rating": 4.2,
+        "address": "TOWER WEST, 27階, 1 Chome-1-30 Oyodonaka, Kita Ward, Osaka, 531-0076, Japan",
+        "latitude": 34.705318999999996,
+        "longitude": 135.4896224
+    },
+    {
+        "category": "art galleries",
+        "title": "teamLab Botanical Garden Osaka",
+        "rating": 3.9,
+        "address": "1-23 Nagaikoen, Higashisumiyoshi Ward, Osaka, 546-0034, Japan",
+        "latitude": 34.6110004,
+        "longitude": 135.52042129999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Tezukayama Gallery",
+        "rating": 4.4,
+        "address": "Japan, 〒550-0015 Osaka, Nishi Ward, Minamihorie, 1 Chome−19−27, 山崎ビル2F",
+        "latitude": 34.670949,
+        "longitude": 135.4942647
+    },
+    {
+        "category": "art galleries",
+        "title": "Osaka City Museum of Fine Arts",
+        "rating": 4.1,
+        "address": "1-82 Chausuyamacho, Tennoji Ward, Osaka, 543-0063, Japan",
+        "latitude": 34.650116,
+        "longitude": 135.5103522
+    },
+    {
+        "category": "art galleries",
+        "title": "The Museum of Oriental Ceramics, Osaka",
+        "rating": 4.4,
+        "address": "1 Chome-1-26 Nakanoshima, Kita Ward, Osaka, 530-0005, Japan",
+        "latitude": 34.6934353,
+        "longitude": 135.50545209999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Kamigata Ukiyo-e Museum",
+        "rating": 4.1,
+        "address": "1 Chome-6-4 Namba, Chuo Ward, Osaka, 542-0076, Japan",
+        "latitude": 34.667939499999996,
+        "longitude": 135.5022103
+    },
+    {
+        "category": "art galleries",
+        "title": "Osaka Ukiyoe Museum",
+        "rating": 4.6,
+        "address": "不二家心斎橋ビル 3F, 2 Chome-2-23 Shinsaibashisuji, Chuo Ward, Osaka, 542-0085, Japan",
+        "latitude": 34.6710169,
+        "longitude": 135.5014343
+    },
+    {
+        "category": "art galleries",
+        "title": "Abeno Harukas Art Museum",
+        "rating": 4.1,
+        "address": "あべのハルカス 16階, 1 Chome-1-43 Abenosuji, Abeno Ward, Osaka, 545-6016, Japan",
+        "latitude": 34.6463189,
+        "longitude": 135.5132739
+    },
+    {
+        "category": "art galleries",
+        "title": "Osaka Culturarium at Tempozan",
+        "rating": 4,
+        "address": "1 Chome-5-10 Kaigandori, Minato Ward, Osaka, 552-0022, Japan",
+        "latitude": 34.6539195,
+        "longitude": 135.42955999999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Koyano Museum of Antique",
+        "rating": 4.2,
+        "address": "1 Chome-19-7 Higashinodamachi, Miyakojima Ward, Osaka, 534-0024, Japan",
+        "latitude": 34.6973249,
+        "longitude": 135.5269968
+    },
+    {
+        "category": "art galleries",
+        "title": "Morimura@museum",
+        "rating": 4.4,
+        "address": "5 Chome-5-36 Kitakagaya, Suminoe Ward, Osaka, 559-0011, Japan",
+        "latitude": 34.6221082,
+        "longitude": 135.4736761
+    },
+    {
+        "category": "art galleries",
+        "title": "Sanno Art Museum",
+        "rating": 4.3,
+        "address": "2 Chome-2-27 Shiromi, Chuo Ward, Osaka, 540-0001, Japan",
+        "latitude": 34.6941949,
+        "longitude": 135.53300679999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Kaiyodo Figure Museum Miraiza Osaka-Jo",
+        "rating": 4.5,
+        "address": "ミライザ大阪城 B1F, 1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.6855553,
+        "longitude": 135.52652229999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Tsubuayaga Museum",
+        "rating": 4,
+        "address": "5-12 Nagaocho, Sumiyoshi Ward, Osaka, 558-0044, Japan",
+        "latitude": 34.6122314,
+        "longitude": 135.4907403
+    },
+    {
+        "category": "art galleries",
+        "title": "Fujita Museum",
+        "rating": 4.4,
+        "address": "10-32 Amijimacho, Miyakojima Ward, Osaka, 534-0026, Japan",
+        "latitude": 34.6947551,
+        "longitude": 135.52550499999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Daimaru Museum Umeda",
+        "rating": 4.7,
+        "address": "3 Chome-1-1 Umeda, Kita Ward, Osaka, 530-0001, Japan",
+        "latitude": 34.7017776,
+        "longitude": 135.4963031
+    },
+    {
+        "category": "art galleries",
+        "title": "Kuboso Memorial Museum of Arts, Izumi",
+        "rating": 4.1,
+        "address": "3 Chome-6-12 Uchidacho, Izumi, Osaka 594-1156, Japan",
+        "latitude": 34.444984999999996,
+        "longitude": 135.4532224
+    },
+    {
+        "category": "art galleries",
+        "title": "Sakai Alphonse Mucha Museum",
+        "rating": 4.3,
+        "address": "Japan, 〒590-0014 Osaka, Sakai, Sakai Ward, Tadeicho, １−2−200 ベルマージュ堺, 弐番館",
+        "latitude": 34.577943999999995,
+        "longitude": 135.496251
+    },
+    {
+        "category": "theaters",
+        "title": "National Bunraku Theatre",
+        "rating": 4.2,
+        "address": "1 Chome-12-10 Nipponbashi, Chuo Ward, Osaka, 542-0073, Japan",
+        "latitude": 34.6673089,
+        "longitude": 135.5086957
+    },
+    {
+        "category": "theaters",
+        "title": "Festival Hall",
+        "rating": 4.5,
+        "address": "2 Chome-3-18 Nakanoshima, Kita Ward, Osaka, 530-0005, Japan",
+        "latitude": 34.6935888,
+        "longitude": 135.4969513
+    },
+    {
+        "category": "theaters",
+        "title": "Sankei Hall Breezé",
+        "rating": 3.9,
+        "address": "BREEZÉ TOWER, 7F, 2 Chome-4-9 Umeda, Kita Ward, Osaka, 530-0001, Japan",
+        "latitude": 34.6987339,
+        "longitude": 135.4940286
+    },
+    {
+        "category": "theaters",
+        "title": "Shin Kabuki-za",
+        "rating": 4,
+        "address": "Japan, 〒543-0001 Osaka, Tennoji Ward, Uehonmachi, 6 Chome−5−13, YUFURA6階",
+        "latitude": 34.6647716,
+        "longitude": 135.5199412
+    },
+    {
+        "category": "theaters",
+        "title": "Umeda Arts Theater",
+        "rating": 4.2,
+        "address": "19-1 Chayamachi, Kita Ward, Osaka, 530-0013, Japan",
+        "latitude": 34.7084784,
+        "longitude": 135.4990143
+    },
+    {
+        "category": "theaters",
+        "title": "Morinomiya Piloti Hall",
+        "rating": 3.8,
+        "address": "1 Chome-17-5 Morinomiyachuo, Chuo Ward, Osaka, 540-0003, Japan",
+        "latitude": 34.6808024,
+        "longitude": 135.53177979999998
+    },
+    {
+        "category": "theaters",
+        "title": "Yamamoto Noh Theatre",
+        "rating": 4.6,
+        "address": "1 Chome-3-6 Tokuicho, Chuo Ward, Osaka, 540-0025, Japan",
+        "latitude": 34.683942,
+        "longitude": 135.514986
+    },
+    {
+        "category": "theaters",
+        "title": "DAIHATSU Shinsaibashi Kadoza",
+        "rating": 4.1,
+        "address": "B1F, 1 Chome-19-11 Higashishinsaibashi, Chuo Ward, Osaka, 542-0083, Japan",
+        "latitude": 34.6744402,
+        "longitude": 135.5024723
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir JAPAN EAST EXPO 2025 STORE",
+        "rating": 4.7,
+        "address": "J9XQ+FC 内, 1 Chome-2025 Yumeshimanaka, Konohana Ward, Osaka, 554-0044, Japan",
+        "latitude": 34.648558699999995,
+        "longitude": 135.3885556
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Shinsekai Omiyiagemon Yokocho",
+        "rating": 3.6,
+        "address": "浪速, 2 Chome-7-2 Ebisuhigashi, Naniwa Ward, Osaka, 556-0002, Japan",
+        "latitude": 34.6522424,
+        "longitude": 135.506038
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Cuida Ore",
+        "rating": 4,
+        "address": "1 Chome-8-25 Dotonbori, Chuo Ward, Osaka, 542-0071, Japan",
+        "latitude": 34.6686402,
+        "longitude": 135.50201099999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "UMEDA SKY BLDG GALLERY SHOP",
+        "rating": 4.3,
+        "address": "空中庭園 39階, 1 Chome-1-88 Oyodonaka, Kita Ward, Osaka, 531-6039, Japan",
+        "latitude": 34.705467399999996,
+        "longitude": 135.49016849999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Little Osaka",
+        "rating": 3.4,
+        "address": "6 Chome-2-61 Shimaya, Konohana Ward, Osaka, 554-0024, Japan",
+        "latitude": 34.6682464,
+        "longitude": 135.4370844
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Osaka Takashimaya",
+        "rating": 4,
+        "address": "5 Chome-1-5 Namba, Chuo Ward, Osaka, 542-8510, Japan",
+        "latitude": 34.6646089,
+        "longitude": 135.5012633
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Yoshimotomiyagemonyokocho NGK Ten",
+        "rating": 3.9,
+        "address": "なんばグランド花月 2F, 11-6 Nanbasennichimae, Chuo Ward, Osaka, 542-0075, Japan",
+        "latitude": 34.665130399999995,
+        "longitude": 135.5036857
+    },
+    {
+        "category": "souvenir counters",
+        "title": "【Souvenirs】GOTO-CHI Namba",
+        "rating": 4.2,
+        "address": "4 Chome-1-17 Namba, Chuo Ward, Osaka, 542-0076, Japan",
+        "latitude": 34.6670827,
+        "longitude": 135.50011469999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Oranda Kan Gift Shop",
+        "rating": 4.3,
+        "address": "Japan, 〒552-0022 Osaka, Minato Ward, Kaigandori, 1 Chome−1−10, 天保山マーケットプレース2階",
+        "latitude": 34.655682299999995,
+        "longitude": 135.4298019
+    },
+    {
+        "category": "souvenir counters",
+        "title": "SHINOBIYA Osaka Castle",
+        "rating": 4.2,
+        "address": "Japan, 〒540-0002 Osaka, Chuo Ward, Osakajo, 1−1, ミライザ大阪城 1階",
+        "latitude": 34.685846399999996,
+        "longitude": 135.52661759999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gift Kiosk Shin-Osaka",
+        "rating": 3.8,
+        "address": "Japan, 〒532-0011 Osaka, Yodogawa Ward, Nishinakajima, 5 Chome−16−1 JR 新大阪駅 新幹線改札内, コンコース新幹線南口改札口向かい",
+        "latitude": 34.7336082,
+        "longitude": 135.5005746
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Ichibiri-an Dotonbori store",
+        "rating": 4,
+        "address": "中座くいだおれビル 1階, 1 Chome-7-21 Dotonbori, Chuo Ward, Osaka, 542-0071, Japan",
+        "latitude": 34.668638,
+        "longitude": 135.5025886
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Osaka Castle Honjin",
+        "rating": 4,
+        "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, Japan",
+        "latitude": 34.686082899999995,
+        "longitude": 135.52649789999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Naniwameibutsu Ichibirian Namba",
+        "rating": 4,
+        "address": "2 Chome-11-10 Sennichimae, Chuo Ward, Osaka, 542-0074, Japan",
+        "latitude": 34.665493999999995,
+        "longitude": 135.5032089
+    },
+    {
+        "category": "souvenir counters",
+        "title": "JAPANeid Osaka l Muslim-friendly/Halal Japanese Souvenir Shop",
+        "rating": 5,
+        "address": "9th Floor, 1 Chome-11-1 Minamihorie, Nishi Ward, Osaka, 550-0015, Japan",
+        "latitude": 34.6722312,
+        "longitude": 135.49627289999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir shop MiKi",
+        "rating": 3.6,
+        "address": "1 Chome-20-8 Nipponbashi, Chuo Ward, Osaka, 542-0073, Japan",
+        "latitude": 34.6654577,
+        "longitude": 135.5059169
+    },
+    {
+        "category": "souvenir counters",
+        "title": "EKI MARCHÉ ŌSAKA",
+        "rating": 3.9,
+        "address": "3 Chome-1-1 Umeda, Kita Ward, Osaka, 530-0001, Japan",
+        "latitude": 34.701936499999995,
+        "longitude": 135.4950795
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Bazar Osaka",
+        "rating": 5,
+        "address": "Japan, 〒552-0022 Osaka, Minato Ward, Kaigandori, 1 Chome−1−10 371号",
+        "latitude": 34.6563732,
+        "longitude": 135.4302962
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Entrée Marché",
+        "rating": 3.9,
+        "address": "Japan, 〒530-0001 Osaka, Kita Ward, Umeda, 3 Chome−1−1 アントレマルシェ大阪店, JR大阪駅中央改札外",
+        "latitude": 34.7024024,
+        "longitude": 135.4962386
+    },
+    {
+        "category": "souvenir counters",
+        "title": "食×エンターテイメント",
+        "rating": 4.5,
+        "address": "千日前セントラル第１ビル, 9-11 Nanbasennichimae, Chuo Ward, Osaka, 542-0075, Japan",
+        "latitude": 34.6641332,
+        "longitude": 135.5035135
+    }
+]

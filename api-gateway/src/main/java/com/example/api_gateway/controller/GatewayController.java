@@ -785,4 +785,362 @@ public class GatewayController {
                     "error", e.getMessage()));
         }
     }
+
+    // ==================== TRAVEL AGENT ENDPOINTS ====================
+
+    /**
+     * Forward GET /agent/status to plan-service
+     */
+    @GetMapping("/agent/status")
+    public ResponseEntity<Object> forwardAgentStatus() {
+        try {
+            var serviceInstance = loadBalancer.choose("PLAN-SERVICE");
+            if (serviceInstance == null) {
+                logger.warn("PLAN-SERVICE not available in load balancer, trying direct connection");
+                // Fallback to direct connection
+                String url = "http://localhost:8001/agent/status";
+                return restTemplate.getForEntity(url, Object.class);
+            }
+
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/agent/status";
+            return restTemplate.getForEntity(url, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            logger.error("Client error in agent status: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (HttpServerErrorException e) {
+            logger.error("Server error in agent status: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to plan service agent status: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Travel agent service temporarily unavailable",
+                    "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward POST /agent/chat to plan-service
+     */
+    @PostMapping("/agent/chat")
+    public ResponseEntity<Object> forwardAgentChat(@RequestBody Object body) {
+        try {
+            var serviceInstance = loadBalancer.choose("PLAN-SERVICE");
+            if (serviceInstance == null) {
+                logger.warn("PLAN-SERVICE not available in load balancer, trying direct connection");
+                // Fallback to direct connection
+                String url = "http://localhost:8001/agent/chat";
+                HttpHeaders headers = new HttpHeaders();
+                headers.setContentType(MediaType.APPLICATION_JSON);
+                HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+                return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+            }
+
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/agent/chat";
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            logger.error("Client error in agent chat: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (HttpServerErrorException e) {
+            logger.error("Server error in agent chat: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to plan service agent chat: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Travel agent chat service temporarily unavailable",
+                    "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward POST /agent/places to plan-service
+     */
+    @PostMapping("/agent/places")
+    public ResponseEntity<Object> forwardAgentPlaces(@RequestBody Object body) {
+        try {
+            var serviceInstance = loadBalancer.choose("PLAN-SERVICE");
+            if (serviceInstance == null) {
+                logger.warn("PLAN-SERVICE not available in load balancer, trying direct connection");
+                // Fallback to direct connection
+                String url = "http://localhost:8001/agent/places";
+                HttpHeaders headers = new HttpHeaders();
+                headers.setContentType(MediaType.APPLICATION_JSON);
+                HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+                return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+            }
+
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/agent/places";
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            logger.error("Client error in agent places: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (HttpServerErrorException e) {
+            logger.error("Server error in agent places: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to plan service agent places: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Travel agent places service temporarily unavailable",
+                    "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward POST /agent/itinerary to plan-service
+     */
+    @PostMapping("/agent/itinerary")
+    public ResponseEntity<Object> forwardAgentItinerary(@RequestBody Object body) {
+        try {
+            var serviceInstance = loadBalancer.choose("PLAN-SERVICE");
+            if (serviceInstance == null) {
+                logger.warn("PLAN-SERVICE not available in load balancer, trying direct connection");
+                // Fallback to direct connection
+                String url = "http://localhost:8001/agent/itinerary";
+                HttpHeaders headers = new HttpHeaders();
+                headers.setContentType(MediaType.APPLICATION_JSON);
+                HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+                return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+            }
+
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/agent/itinerary";
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            logger.error("Client error in agent itinerary: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (HttpServerErrorException e) {
+            logger.error("Server error in agent itinerary: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to plan service agent itinerary: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Travel agent itinerary service temporarily unavailable",
+                    "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward GET /cities/suggest to plan-service
+     */
+    @GetMapping("/cities/suggest")
+    public ResponseEntity<Object> forwardCitiesSuggest(@RequestParam(required = false) String q,
+            @RequestParam(defaultValue = "10") int limit) {
+        try {
+            var serviceInstance = loadBalancer.choose("PLAN-SERVICE");
+            if (serviceInstance == null) {
+                logger.warn("PLAN-SERVICE not available in load balancer, trying direct connection");
+                // Fallback to direct connection
+                String url = "http://localhost:8001/cities/suggest?q=" + (q != null ? q : "") + "&limit=" + limit;
+                return restTemplate.getForEntity(url, Object.class);
+            }
+
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/cities/suggest?q=" + (q != null ? q : "") + "&limit=" + limit;
+            return restTemplate.getForEntity(url, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            logger.error("Client error in cities suggest: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (HttpServerErrorException e) {
+            logger.error("Server error in cities suggest: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to plan service cities suggest: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Cities suggest service temporarily unavailable",
+                    "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward GET /cities/airports to plan-service
+     */
+    @GetMapping("/cities/airports")
+    public ResponseEntity<Object> forwardCitiesAirports(@RequestParam String city) {
+        try {
+            var serviceInstance = loadBalancer.choose("PLAN-SERVICE");
+            if (serviceInstance == null) {
+                logger.warn("PLAN-SERVICE not available in load balancer, trying direct connection");
+                // Fallback to direct connection
+                String url = "http://localhost:8001/cities/airports?city=" + city;
+                return restTemplate.getForEntity(url, Object.class);
+            }
+
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/cities/airports?city=" + city;
+            return restTemplate.getForEntity(url, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            logger.error("Client error in cities airports: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (HttpServerErrorException e) {
+            logger.error("Server error in cities airports: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to plan service cities airports: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Cities airports service temporarily unavailable",
+                    "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward POST /plans/save to plan-service
+     */
+    @PostMapping("/plans/save")
+    public ResponseEntity<Object> forwardPlansSave(@RequestBody Map<String, Object> requestBody) {
+        try {
+            var serviceInstance = loadBalancer.choose("PLAN-SERVICE");
+            if (serviceInstance == null) {
+                logger.warn("PLAN-SERVICE not available in load balancer, trying direct connection");
+                // Fallback to direct connection
+                String url = "http://localhost:8001/plans/save";
+                HttpHeaders headers = new HttpHeaders();
+                headers.setContentType(MediaType.APPLICATION_JSON);
+                HttpEntity<Map<String, Object>> entity = new HttpEntity<>(requestBody, headers);
+                return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+            }
+
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/plans/save";
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            HttpEntity<Map<String, Object>> entity = new HttpEntity<>(requestBody, headers);
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            logger.error("Client error in plans save: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (HttpServerErrorException e) {
+            logger.error("Server error in plans save: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to plan service plans save: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Plans save service temporarily unavailable",
+                    "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward GET /plans/{user_id}/{plan_id} to plan-service
+     */
+    @GetMapping("/plans/{user_id}/{plan_id}")
+    public ResponseEntity<Object> forwardGetPlan(@PathVariable String user_id, @PathVariable String plan_id) {
+        try {
+            var serviceInstance = loadBalancer.choose("PLAN-SERVICE");
+            if (serviceInstance == null) {
+                logger.warn("PLAN-SERVICE not available in load balancer, trying direct connection");
+                // Fallback to direct connection
+                String url = "http://localhost:8001/plans/" + user_id + "/" + plan_id;
+                return restTemplate.getForEntity(url, Object.class);
+            }
+
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/plans/" + user_id + "/" + plan_id;
+            return restTemplate.getForEntity(url, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            logger.error("Client error in get plan: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (HttpServerErrorException e) {
+            logger.error("Server error in get plan: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to plan service get plan: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Get plan service temporarily unavailable",
+                    "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward GET /plans/{user_id} to plan-service
+     */
+    @GetMapping("/plans/{user_id}")
+    public ResponseEntity<Object> forwardGetUserPlans(@PathVariable String user_id,
+            @RequestParam(defaultValue = "10") int limit) {
+        try {
+            var serviceInstance = loadBalancer.choose("PLAN-SERVICE");
+            if (serviceInstance == null) {
+                logger.warn("PLAN-SERVICE not available in load balancer, trying direct connection");
+                // Fallback to direct connection
+                String url = "http://localhost:8001/plans/" + user_id + "?limit=" + limit;
+                return restTemplate.getForEntity(url, Object.class);
+            }
+
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/plans/" + user_id + "?limit=" + limit;
+            return restTemplate.getForEntity(url, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            logger.error("Client error in get user plans: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (HttpServerErrorException e) {
+            logger.error("Server error in get user plans: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to plan service get user plans: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Get user plans service temporarily unavailable",
+                    "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward DELETE /plans/{user_id}/{plan_id} to plan-service
+     */
+    @org.springframework.web.bind.annotation.DeleteMapping("/plans/{user_id}/{plan_id}")
+    public ResponseEntity<Object> forwardDeletePlan(@PathVariable String user_id, @PathVariable String plan_id) {
+        try {
+            var serviceInstance = loadBalancer.choose("PLAN-SERVICE");
+            if (serviceInstance == null) {
+                logger.warn("PLAN-SERVICE not available in load balancer, trying direct connection");
+                // Fallback to direct connection
+                String url = "http://localhost:8001/plans/" + user_id + "/" + plan_id;
+                return restTemplate.exchange(url, HttpMethod.DELETE, null, Object.class);
+            }
+
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/plans/" + user_id + "/" + plan_id;
+            return restTemplate.exchange(url, HttpMethod.DELETE, null, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            logger.error("Client error in delete plan: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (HttpServerErrorException e) {
+            logger.error("Server error in delete plan: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to plan service delete plan: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Delete plan service temporarily unavailable",
+                    "error", e.getMessage()));
+        }
+    }
 }

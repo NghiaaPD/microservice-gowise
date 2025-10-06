@@ -1,0 +1,3602 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Supertree Grove",
+        "rating": 4.7,
+        "address": "18 Marina Gardens Dr, Singapore 018953",
+        "latitude": 1.2819616999999999,
+        "longitude": 103.86390569999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Gardens by the Bay",
+        "rating": 4.7,
+        "address": "18 Marina Gardens Dr, Singapore 018953",
+        "latitude": 1.2815683,
+        "longitude": 103.86361319999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Fort Canning Park",
+        "rating": 4.6,
+        "address": "Singapore",
+        "latitude": 1.2943875999999999,
+        "longitude": 103.8458033
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Singapore Flyer",
+        "rating": 4.6,
+        "address": "30 Raffles Ave., Singapore 039803",
+        "latitude": 1.2892987999999999,
+        "longitude": 103.86313679999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "The Helix Bridge",
+        "rating": 4.7,
+        "address": "Singapore",
+        "latitude": 1.2874774,
+        "longitude": 103.86063259999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "SkyPark Observation Deck",
+        "rating": 4.6,
+        "address": "10 Bayfront Avenue, Hotel, Tower 3, Level 56, Marina Bay Sands, Singapore 018956",
+        "latitude": 1.2852044,
+        "longitude": 103.8610313
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Merlion Park",
+        "rating": 4.6,
+        "address": "1 Fullerton Rd, Singapore 049213",
+        "latitude": 1.2867449,
+        "longitude": 103.85438719999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Clarke Quay",
+        "rating": 4.5,
+        "address": "3 River Valley Rd, Singapore 179024",
+        "latitude": 1.2906024,
+        "longitude": 103.84647419999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Fort Siloso",
+        "rating": 4.6,
+        "address": "Siloso Rd, Singapore 099981",
+        "latitude": 1.259363,
+        "longitude": 103.8086242
+    },
+    {
+        "category": "tourist attractions",
+        "title": "River Wonders",
+        "rating": 4.4,
+        "address": "80 Mandai Lake Rd, Singapore 729826",
+        "latitude": 1.4038498,
+        "longitude": 103.79066759999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Cloud Forest",
+        "rating": 4.8,
+        "address": "18 Marina Gardens Dr, Singapore 018953",
+        "latitude": 1.2838676999999998,
+        "longitude": 103.8660024
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Singapore Skyline View",
+        "rating": 4.8,
+        "address": "10 Bayfront Ave, Marina Bay Sands, Singapore 018956",
+        "latitude": 1.2842867,
+        "longitude": 103.85842749999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Marina Bay Waterfront Promenade",
+        "rating": 4.8,
+        "address": "Singapore",
+        "latitude": 1.2815207,
+        "longitude": 103.85728399999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Haw Par Villa",
+        "rating": 4.2,
+        "address": "262 Pasir Panjang Rd, Singapore 118628",
+        "latitude": 1.2841525999999999,
+        "longitude": 103.781892
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Singapore Botanic Gardens",
+        "rating": 4.7,
+        "address": "1 Cluny Rd, Singapore 259569",
+        "latitude": 1.3138397,
+        "longitude": 103.8159136
+    },
+    {
+        "category": "tourist attractions",
+        "title": "National Museum of Singapore",
+        "rating": 4.6,
+        "address": "93 Stamford Rd, Singapore 178897",
+        "latitude": 1.296613,
+        "longitude": 103.8485091
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Singapore DUCKtours",
+        "rating": 4.4,
+        "address": "3 Temasek Blvd, #01-K8, Suntec City Tower Two, Singapore 038983",
+        "latitude": 1.2960653,
+        "longitude": 103.85932369999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Night Safari",
+        "rating": 4.3,
+        "address": "80 Mandai Lake Rd, Singapore 729826",
+        "latitude": 1.4021872,
+        "longitude": 103.7880606
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Raffles' Landing Site",
+        "rating": 4.3,
+        "address": "179429, 1 Old Parliament Ln, Singapore 179429",
+        "latitude": 1.2877220999999999,
+        "longitude": 103.8507561
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Fort Canning Tree Tunnel",
+        "rating": 4.3,
+        "address": "51 Canning Rise, Singapore 179872",
+        "latitude": 1.2972839999999999,
+        "longitude": 103.846345
+    },
+    {
+        "category": "parks",
+        "title": "East Coast Park",
+        "rating": 4.6,
+        "address": "E Coast Park Service Rd, Singapore",
+        "latitude": 1.3007841999999998,
+        "longitude": 103.9121866
+    },
+    {
+        "category": "parks",
+        "title": "Sengkang Riverside Park",
+        "rating": 4.4,
+        "address": "Anchorvale Street, Singapore 544834",
+        "latitude": 1.3993143,
+        "longitude": 103.88487429999999
+    },
+    {
+        "category": "parks",
+        "title": "Bishan-Ang Mo Kio Park",
+        "rating": 4.5,
+        "address": "1384 Ang Mo Kio Ave 1, Singapore",
+        "latitude": 1.3634088,
+        "longitude": 103.8435614
+    },
+    {
+        "category": "parks",
+        "title": "Fort Canning Park",
+        "rating": 4.6,
+        "address": "Singapore",
+        "latitude": 1.2943875999999999,
+        "longitude": 103.8458033
+    },
+    {
+        "category": "parks",
+        "title": "Admiralty Park",
+        "rating": 4.5,
+        "address": "31 Riverside Rd, Singapore 730000",
+        "latitude": 1.4465534999999998,
+        "longitude": 103.78065649999999
+    },
+    {
+        "category": "parks",
+        "title": "Telok Blangah Hill Park",
+        "rating": 4.6,
+        "address": "10, Telok Blangah Green, Singapore 109178",
+        "latitude": 1.2788233999999998,
+        "longitude": 103.8106681
+    },
+    {
+        "category": "parks",
+        "title": "Kallang Riverside Park",
+        "rating": 4.5,
+        "address": "Cnr Kallang Road and, Crawford St, Singapore 397732",
+        "latitude": 1.3070353,
+        "longitude": 103.86828489999999
+    },
+    {
+        "category": "parks",
+        "title": "MacRitchie Reservoir Park",
+        "rating": 4.7,
+        "address": "Lornie Rd, Singapore 298735",
+        "latitude": 1.3418609,
+        "longitude": 103.8346383
+    },
+    {
+        "category": "parks",
+        "title": "Bukit Batok Nature Park",
+        "rating": 4.5,
+        "address": "Cnr Bukit Batok East Avenue 2, Bukit Batok East Ave 6, and, Singapore 659761",
+        "latitude": 1.3485421,
+        "longitude": 103.7641994
+    },
+    {
+        "category": "parks",
+        "title": "Woodlands Waterfront Park",
+        "rating": 4.5,
+        "address": "Admiralty Rd W, Singapore 759956",
+        "latitude": 1.4530528999999999,
+        "longitude": 103.78048009999999
+    },
+    {
+        "category": "parks",
+        "title": "HortPark",
+        "rating": 4.5,
+        "address": "33 Hyderabad Rd, Singapore 119578",
+        "latitude": 1.2791306999999998,
+        "longitude": 103.7998185
+    },
+    {
+        "category": "parks",
+        "title": "West Coast Park",
+        "rating": 4.4,
+        "address": "W Coast Ferry Rd, Singapore 126978",
+        "latitude": 1.2913603,
+        "longitude": 103.7666534
+    },
+    {
+        "category": "parks",
+        "title": "Rifle Range Nature Park",
+        "rating": 4.7,
+        "address": "Rifle Range Rd, Singapore 589322",
+        "latitude": 1.3434751999999999,
+        "longitude": 103.77940629999999
+    },
+    {
+        "category": "parks",
+        "title": "Hindhede Nature Park",
+        "rating": 4.6,
+        "address": "Hindhede Dr, Singapore",
+        "latitude": 1.3491092999999998,
+        "longitude": 103.7754308
+    },
+    {
+        "category": "parks",
+        "title": "Punggol Waterway Park",
+        "rating": 4.5,
+        "address": "Sentul Cres, Singapore 821313",
+        "latitude": 1.4111376999999998,
+        "longitude": 103.90446209999999
+    },
+    {
+        "category": "parks",
+        "title": "Bedok Reservoir Park",
+        "rating": 4.5,
+        "address": "760 Bedok Reservoir Rd, Singapore 479245",
+        "latitude": 1.3391412999999999,
+        "longitude": 103.92270599999999
+    },
+    {
+        "category": "parks",
+        "title": "Lower Seletar Reservoir Park",
+        "rating": 4.5,
+        "address": "Yishun Ave 1, Lower Seletar Reservoir Park, Singapore 769139",
+        "latitude": 1.4101641,
+        "longitude": 103.83243189999999
+    },
+    {
+        "category": "parks",
+        "title": "Tampines Eco Green",
+        "rating": 4.4,
+        "address": "Tampines Ave 9, Singapore 520491",
+        "latitude": 1.3639478,
+        "longitude": 103.9482922
+    },
+    {
+        "category": "parks",
+        "title": "Windsor Nature Park",
+        "rating": 4.6,
+        "address": "30 Venus Dr, Singapore 573858",
+        "latitude": 1.3566265,
+        "longitude": 103.8214319
+    },
+    {
+        "category": "parks",
+        "title": "Choa Chu Kang Park",
+        "rating": 4.3,
+        "address": "Choa Chu Kang Dr, Singapore 688845",
+        "latitude": 1.3874864,
+        "longitude": 103.7474293
+    },
+    {
+        "category": "restaurants",
+        "title": "Paulaner Bräuhaus Singapore",
+        "rating": 4.7,
+        "address": "9 Raffles Boulevard, #01-01, Millenia Walk, Singapore 039596",
+        "latitude": 1.2930766999999999,
+        "longitude": 103.8582873
+    },
+    {
+        "category": "restaurants",
+        "title": "Odette",
+        "rating": 4.7,
+        "address": "1 St Andrew's Rd, #01-04, National Gallery, Singapore 178957",
+        "latitude": 1.2897067,
+        "longitude": 103.8514433
+    },
+    {
+        "category": "restaurants",
+        "title": "Whitegrass Restaurant",
+        "rating": 4.7,
+        "address": "30 Victoria St, #01-26/27, CHIJMES, Singapore 187996",
+        "latitude": 1.2953948,
+        "longitude": 103.8521742
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant JAG",
+        "rating": 4.8,
+        "address": "41 Robertson Quay, #02-02, STPI Creative Workshop and Gallery, Singapore 238236",
+        "latitude": 1.2911017999999999,
+        "longitude": 103.8402617
+    },
+    {
+        "category": "restaurants",
+        "title": "Les Amis",
+        "rating": 4.6,
+        "address": "1 Scotts Rd, #01 - 16, Shaw Centre, Singapore 228208",
+        "latitude": 1.3066019,
+        "longitude": 103.83143609999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Osteria Mozza",
+        "rating": 4.6,
+        "address": "333 Orchard Rd, Level 5, Singapore 238867",
+        "latitude": 1.302036,
+        "longitude": 103.8358858
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Labyrinth",
+        "rating": 4.6,
+        "address": "8 Raffles Ave., #02 - 23, Singapore 039802",
+        "latitude": 1.2897489,
+        "longitude": 103.85629759999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Ibid",
+        "rating": 4.9,
+        "address": "18 N Canal Rd, Singapore 048830",
+        "latitude": 1.2864337,
+        "longitude": 103.8483365
+    },
+    {
+        "category": "restaurants",
+        "title": "NOX - Dine in the Dark",
+        "rating": 4.6,
+        "address": "83 Club St, Singapore 069451",
+        "latitude": 1.281828,
+        "longitude": 103.8458368
+    },
+    {
+        "category": "restaurants",
+        "title": "Eden Restaurant",
+        "rating": 4.5,
+        "address": "270 Orchard Rd, Singapore 238857",
+        "latitude": 1.3031693,
+        "longitude": 103.83627349999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Waterfall Ristorante Italiano",
+        "rating": 4.6,
+        "address": "22 Orange Grove Rd, Level One, Garden Wing, Singapore 258350",
+        "latitude": 1.3117794999999999,
+        "longitude": 103.8261646
+    },
+    {
+        "category": "restaurants",
+        "title": "The White Label",
+        "rating": 4.5,
+        "address": "101 Jln Sultan, #01-02, The Sultan, Singapore 199002",
+        "latitude": 1.3032162,
+        "longitude": 103.8610812
+    },
+    {
+        "category": "restaurants",
+        "title": "JAAN By Kirk Westaway",
+        "rating": 4.6,
+        "address": "2 Stamford Rd, Level 70, Singapore 178882",
+        "latitude": 1.2933447999999999,
+        "longitude": 103.85309
+    },
+    {
+        "category": "restaurants",
+        "title": "Nouri",
+        "rating": 4.6,
+        "address": "72 Amoy St, Singapore 069891",
+        "latitude": 1.2802746,
+        "longitude": 103.84660219999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Born",
+        "rating": 4.7,
+        "address": "1 Neil Rd, #01-01, Singapore 088804",
+        "latitude": 1.2803733,
+        "longitude": 103.8438899
+    },
+    {
+        "category": "restaurants",
+        "title": "Man Fu Yuan Restaurant",
+        "rating": 4.6,
+        "address": "80 Middle Road Level 2 InterContinental Singapore, Singapore 188966",
+        "latitude": 1.298505,
+        "longitude": 103.855053
+    },
+    {
+        "category": "restaurants",
+        "title": "Ayasofya Turkish Restaurant",
+        "rating": 4.7,
+        "address": "51 Bussorah St, Singapore 199467",
+        "latitude": 1.3018398,
+        "longitude": 103.8593332
+    },
+    {
+        "category": "restaurants",
+        "title": "Burnt Ends",
+        "rating": 4.5,
+        "address": "7 Dempsey Rd, #01-02, Singapore 249671",
+        "latitude": 1.304606,
+        "longitude": 103.8089925
+    },
+    {
+        "category": "restaurants",
+        "title": "Flutes",
+        "rating": 4.6,
+        "address": "120 Beach Rd, #01-02, Guoco Midtown House, Singapore 189769",
+        "latitude": 1.2973462999999998,
+        "longitude": 103.857383
+    },
+    {
+        "category": "restaurants",
+        "title": "Summer Pavilion",
+        "rating": 4.6,
+        "address": "7 Raffles Ave., Level 3, The Ritz-Carlton, Millenia, Singapore 039799",
+        "latitude": 1.2906012999999998,
+        "longitude": 103.8603033
+    },
+    {
+        "category": "cafes",
+        "title": "My Awesome Cafe",
+        "rating": 4.7,
+        "address": "202 Telok Ayer St, Singapore 068639",
+        "latitude": 1.2801094,
+        "longitude": 103.8472056
+    },
+    {
+        "category": "cafes",
+        "title": "Wildseed Café at The Summerhouse",
+        "rating": 4.3,
+        "address": "3 Park Ln, Level 1A, Seletar Aerospace Drive, Singapore 798387",
+        "latitude": 1.4079884999999999,
+        "longitude": 103.86830669999999
+    },
+    {
+        "category": "cafes",
+        "title": "Brunches Cafe",
+        "rating": 4.7,
+        "address": "96 Rangoon Rd, Singapore 218381",
+        "latitude": 1.3146643999999998,
+        "longitude": 103.8540603
+    },
+    {
+        "category": "cafes",
+        "title": "Wildseed Café at The Alkaff Mansion",
+        "rating": 4.5,
+        "address": "10 Telok Blangah Green, Level 2, Singapore 109178",
+        "latitude": 1.278877,
+        "longitude": 103.813289
+    },
+    {
+        "category": "cafes",
+        "title": "The Populus",
+        "rating": 4.3,
+        "address": "146 Neil Rd, Singapore 088875",
+        "latitude": 1.2782502999999998,
+        "longitude": 103.84063929999999
+    },
+    {
+        "category": "cafes",
+        "title": "Penny University",
+        "rating": 4.3,
+        "address": "17 Jln Klapa, Singapore 199329",
+        "latitude": 1.3042818999999999,
+        "longitude": 103.85963729999999
+    },
+    {
+        "category": "cafes",
+        "title": "The Wired Monkey SG (The Hole)",
+        "rating": 4.7,
+        "address": "5 Amoy St, Singapore 049948",
+        "latitude": 1.283236,
+        "longitude": 103.84859
+    },
+    {
+        "category": "cafes",
+        "title": "The Book Cafe",
+        "rating": 4.3,
+        "address": "20 Martin Rd, #01-02, Seng Kee Building, Singapore 239070",
+        "latitude": 1.2912086,
+        "longitude": 103.83895419999999
+    },
+    {
+        "category": "cafes",
+        "title": "PS.Cafe Palais Renaissance",
+        "rating": 4.4,
+        "address": "390 Orchard Rd, #02 - 09A, Singapore 238871",
+        "latitude": 1.3068807999999998,
+        "longitude": 103.82975959999999
+    },
+    {
+        "category": "cafes",
+        "title": "Glasshouse",
+        "rating": 4.3,
+        "address": "30 Victoria St, #01-03, CHIJMES, Singapore 187996",
+        "latitude": 1.2955796,
+        "longitude": 103.8523151
+    },
+    {
+        "category": "cafes",
+        "title": "Enchanted Cafe Rangoon Road",
+        "rating": 4.2,
+        "address": "88 Rangoon Rd, #01-04, Singapore 218374",
+        "latitude": 1.3142981999999999,
+        "longitude": 103.8542027
+    },
+    {
+        "category": "cafes",
+        "title": "Lola's Cafe",
+        "rating": 4.4,
+        "address": "5 Simon Rd, Singapore 545893",
+        "latitude": 1.3616352,
+        "longitude": 103.8859561
+    },
+    {
+        "category": "cafes",
+        "title": "Old Hen Kitchen",
+        "rating": 4.4,
+        "address": "127 Owen Rd, Singapore 218931",
+        "latitude": 1.3140338,
+        "longitude": 103.8526624
+    },
+    {
+        "category": "cafes",
+        "title": "Kurasu Singapore",
+        "rating": 4.4,
+        "address": "261 Waterloo St, #01-24, Singapore 180261",
+        "latitude": 1.2984136,
+        "longitude": 103.8519238
+    },
+    {
+        "category": "cafes",
+        "title": "Nylon Coffee",
+        "rating": 4.7,
+        "address": "4 Everton Park, #01-40, Singapore 080004",
+        "latitude": 1.2768523999999999,
+        "longitude": 103.8400279
+    },
+    {
+        "category": "cafes",
+        "title": "The Mind Cafe Mega Store",
+        "rating": 4.7,
+        "address": "30 Prinsep St, #01-01, Singapore 188647",
+        "latitude": 1.2991017,
+        "longitude": 103.8493093
+    },
+    {
+        "category": "cafes",
+        "title": "Common Man Coffee Roasters - Martin Road",
+        "rating": 4.4,
+        "address": "22 Martin Rd, #01-00, Singapore 239058",
+        "latitude": 1.2918600999999998,
+        "longitude": 103.8384226
+    },
+    {
+        "category": "cafes",
+        "title": "Toby's Estate Coffee Roasters Singapore",
+        "rating": 4.1,
+        "address": "8 Rodyk St, Singapore 238216",
+        "latitude": 1.2899494,
+        "longitude": 103.8373996
+    },
+    {
+        "category": "cafes",
+        "title": "PS.Cafe Harding Road",
+        "rating": 4.4,
+        "address": "28B Harding Rd, Singapore 249549",
+        "latitude": 1.3047585,
+        "longitude": 103.8110071
+    },
+    {
+        "category": "cafes",
+        "title": "Sarnies",
+        "rating": 4.1,
+        "address": "136 Telok Ayer St, Singapore 068601",
+        "latitude": 1.2816389,
+        "longitude": 103.8479694
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Timah Hill",
+        "rating": 4.5,
+        "address": "Singapore",
+        "latitude": 1.3548163,
+        "longitude": 103.7762985
+    },
+    {
+        "category": "mountains",
+        "title": "Mount Serapong",
+        "rating": 4.7,
+        "address": "Singapore",
+        "latitude": 1.2508333,
+        "longitude": 103.83388889999999
+    },
+    {
+        "category": "mountains",
+        "title": "Mount Faber Cau 4T",
+        "rating": 4.8,
+        "address": "Singapore",
+        "latitude": 1.2736110999999999,
+        "longitude": 103.8177778
+    },
+    {
+        "category": "mountains",
+        "title": "Mount Embiah",
+        "rating": 4.4,
+        "address": "Singapore",
+        "latitude": 1.2569443999999999,
+        "longitude": 103.81472219999999
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Brown",
+        "rating": 3,
+        "address": "Singapore",
+        "latitude": 1.3333332999999998,
+        "longitude": 103.83333329999999
+    },
+    {
+        "category": "mountains",
+        "title": "Benwi",
+        "rating": null,
+        "address": "Singapore",
+        "latitude": 1.3166666999999999,
+        "longitude": 103.6833333
+    },
+    {
+        "category": "mountains",
+        "title": "Mount Victoria",
+        "rating": null,
+        "address": "Singapore",
+        "latitude": 1.3152777999999998,
+        "longitude": 103.82777779999999
+    },
+    {
+        "category": "mountains",
+        "title": "Simpang",
+        "rating": 3.2,
+        "address": "Singapore 752106",
+        "latitude": 1.4372222,
+        "longitude": 103.8352778
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Kallang",
+        "rating": 4.3,
+        "address": "Singapore",
+        "latitude": 1.3613889,
+        "longitude": 103.80944439999999
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Timah Summit",
+        "rating": 4.6,
+        "address": "Bukit Timah Rd, Singapore",
+        "latitude": 1.3546686,
+        "longitude": 103.7764411
+    },
+    {
+        "category": "mountains",
+        "title": "Goodwood Hill",
+        "rating": null,
+        "address": "Singapore",
+        "latitude": 1.3183333,
+        "longitude": 103.84166669999999
+    },
+    {
+        "category": "mountains",
+        "title": "Grave Hill",
+        "rating": 5,
+        "address": "Singapore",
+        "latitude": 1.3361110999999999,
+        "longitude": 103.8388889
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Chermin",
+        "rating": 4.5,
+        "address": "Singapore",
+        "latitude": 1.2658333,
+        "longitude": 103.80916669999999
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Pasir Panjang",
+        "rating": 4.6,
+        "address": "Singapore",
+        "latitude": 1.2830556,
+        "longitude": 103.7911111
+    },
+    {
+        "category": "mountains",
+        "title": "Telok Blangah Hill Park",
+        "rating": 4.6,
+        "address": "10, Telok Blangah Green, Singapore 109178",
+        "latitude": 1.2788233999999998,
+        "longitude": 103.8106681
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Tinggi",
+        "rating": null,
+        "address": "Singapore",
+        "latitude": 1.4191667,
+        "longitude": 103.9380556
+    },
+    {
+        "category": "mountains",
+        "title": "Mount Elizabeth",
+        "rating": 4.5,
+        "address": "Singapore",
+        "latitude": 1.3058333,
+        "longitude": 103.83388889999999
+    },
+    {
+        "category": "mountains",
+        "title": "Mount Sophia",
+        "rating": 5,
+        "address": "Singapore",
+        "latitude": 1.3008332999999999,
+        "longitude": 103.8475
+    },
+    {
+        "category": "mountains",
+        "title": "Gold Hill",
+        "rating": 5,
+        "address": "Singapore",
+        "latitude": 1.3177778,
+        "longitude": 103.8422222
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Wayang Satu",
+        "rating": null,
+        "address": "Singapore",
+        "latitude": 1.3166666999999999,
+        "longitude": 103.83333329999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Jurong Falls",
+        "rating": 4.5,
+        "address": "Singapore",
+        "latitude": 1.3169918,
+        "longitude": 103.7064192
+    },
+    {
+        "category": "waterfalls",
+        "title": "Waterfall walkway at Punggol",
+        "rating": 4.4,
+        "address": "83 Punggol Central, Singapore 828761",
+        "latitude": 1.4074632999999999,
+        "longitude": 103.9028821
+    },
+    {
+        "category": "waterfalls",
+        "title": "Water Fall",
+        "rating": 4.3,
+        "address": "Singapore, 1 Cluny Rd, Singapore 259569",
+        "latitude": 1.3108573,
+        "longitude": 103.8152636
+    },
+    {
+        "category": "lakes",
+        "title": "Jurong Lake",
+        "rating": 4.6,
+        "address": "Singapore",
+        "latitude": 1.3418478999999999,
+        "longitude": 103.7281926
+    },
+    {
+        "category": "lakes",
+        "title": "Swan Lake",
+        "rating": 4.5,
+        "address": "Singapore",
+        "latitude": 1.3075706999999999,
+        "longitude": 103.8161451
+    },
+    {
+        "category": "lakes",
+        "title": "Symphony Lake",
+        "rating": 4.5,
+        "address": "Singapore",
+        "latitude": 1.3144325,
+        "longitude": 103.8146501
+    },
+    {
+        "category": "lakes",
+        "title": "MacRitchie Reservoir",
+        "rating": 4.7,
+        "address": "Singapore",
+        "latitude": 1.3447620999999998,
+        "longitude": 103.8223506
+    },
+    {
+        "category": "lakes",
+        "title": "Service reservoirs in Singapore",
+        "rating": 3.2,
+        "address": "Singapore",
+        "latitude": 1.3921919999999999,
+        "longitude": 103.98655889999999
+    },
+    {
+        "category": "lakes",
+        "title": "Bedok Reservoir",
+        "rating": 4.6,
+        "address": "Singapore",
+        "latitude": 1.3413024999999998,
+        "longitude": 103.9245499
+    },
+    {
+        "category": "lakes",
+        "title": "Lower Seletar Reservoir",
+        "rating": 4.4,
+        "address": "Singapore",
+        "latitude": 1.4050778,
+        "longitude": 103.8433641
+    },
+    {
+        "category": "lakes",
+        "title": "Dragonfly Lake",
+        "rating": 4.7,
+        "address": "Singapore",
+        "latitude": 1.2835724,
+        "longitude": 103.86311239999999
+    },
+    {
+        "category": "lakes",
+        "title": "Pandan Reservoir",
+        "rating": 4.4,
+        "address": "Singapore",
+        "latitude": 1.3154013999999998,
+        "longitude": 103.7433983
+    },
+    {
+        "category": "lakes",
+        "title": "Pearl's Hill Reservoir",
+        "rating": 2,
+        "address": "Singapore",
+        "latitude": 1.2844444,
+        "longitude": 103.83999999999999
+    },
+    {
+        "category": "lakes",
+        "title": "Fort Canning Reservoir",
+        "rating": 4.2,
+        "address": "Singapore",
+        "latitude": 1.2938889,
+        "longitude": 103.8463889
+    },
+    {
+        "category": "lakes",
+        "title": "Kranji Reservoir",
+        "rating": 4.1,
+        "address": "Singapore",
+        "latitude": 1.4244898,
+        "longitude": 103.7390537
+    },
+    {
+        "category": "lakes",
+        "title": "Lower Peirce Reservoir",
+        "rating": 4.7,
+        "address": "Singapore",
+        "latitude": 1.3700154,
+        "longitude": 103.82307519999999
+    },
+    {
+        "category": "lakes",
+        "title": "Punggol Serangoon Reservoir",
+        "rating": 4.3,
+        "address": "Singapore",
+        "latitude": 1.3896853,
+        "longitude": 103.9162116
+    },
+    {
+        "category": "lakes",
+        "title": "Sarimbun Reservoir",
+        "rating": 3.2,
+        "address": "Singapore",
+        "latitude": 1.4254151,
+        "longitude": 103.68330979999999
+    },
+    {
+        "category": "beaches",
+        "title": "Palawan Beach",
+        "rating": 4.5,
+        "address": "Singapore",
+        "latitude": 1.2482777,
+        "longitude": 103.8225374
+    },
+    {
+        "category": "beaches",
+        "title": "East Coast Beach",
+        "rating": 4.6,
+        "address": "ECP, Singapore",
+        "latitude": 1.2991945999999999,
+        "longitude": 103.91126969999999
+    },
+    {
+        "category": "beaches",
+        "title": "Tanjong Beach",
+        "rating": 4.4,
+        "address": "Singapore",
+        "latitude": 1.2417000999999999,
+        "longitude": 103.82938329999999
+    },
+    {
+        "category": "beaches",
+        "title": "Pasir Ris Beach",
+        "rating": 4.5,
+        "address": "Singapore",
+        "latitude": 1.385,
+        "longitude": 103.94555559999999
+    },
+    {
+        "category": "beaches",
+        "title": "Changi Beach",
+        "rating": 4.6,
+        "address": "Singapore",
+        "latitude": 1.3883333,
+        "longitude": 104.0013889
+    },
+    {
+        "category": "beaches",
+        "title": "Changi Beach Park",
+        "rating": 4.5,
+        "address": "Nicoll Dr, Singapore 498991",
+        "latitude": 1.3912863,
+        "longitude": 103.9905464
+    },
+    {
+        "category": "beaches",
+        "title": "Lazarus Beach",
+        "rating": 4.4,
+        "address": "Singapore",
+        "latitude": 1.2270788,
+        "longitude": 103.8533653
+    },
+    {
+        "category": "beaches",
+        "title": "Sentosa Siloso Beach",
+        "rating": 4.4,
+        "address": "Singapore",
+        "latitude": 1.2554915,
+        "longitude": 103.8123885
+    },
+    {
+        "category": "beaches",
+        "title": "Lazarus Island Beach",
+        "rating": 4.6,
+        "address": "Singapore",
+        "latitude": 1.2268611999999999,
+        "longitude": 103.8534191
+    },
+    {
+        "category": "beaches",
+        "title": "Siloso Beach Island",
+        "rating": 4.4,
+        "address": "Singapore",
+        "latitude": 1.2543446999999999,
+        "longitude": 103.8116414
+    },
+    {
+        "category": "beaches",
+        "title": "Sentosa Beach, Singapore",
+        "rating": 4.5,
+        "address": "120 Tanjong Beach Walk, Singapore 098942",
+        "latitude": 1.2429782999999999,
+        "longitude": 103.82866299999999
+    },
+    {
+        "category": "beaches",
+        "title": "Punggol Beach",
+        "rating": 3.9,
+        "address": "Punggol Road, Singapore",
+        "latitude": 1.4215007,
+        "longitude": 103.91134009999999
+    },
+    {
+        "category": "beaches",
+        "title": "East Coast Beach",
+        "rating": 4.6,
+        "address": "Singapore",
+        "latitude": 1.3062842,
+        "longitude": 103.9361089
+    },
+    {
+        "category": "beaches",
+        "title": "Siloso Beach",
+        "rating": 4.5,
+        "address": "10A Siloso Bch Walk, Singapore 099008",
+        "latitude": 1.2546131999999999,
+        "longitude": 103.8112999
+    },
+    {
+        "category": "beaches",
+        "title": "Tanah Merah Beach",
+        "rating": 2.2,
+        "address": "Singapore",
+        "latitude": 1.3783843999999998,
+        "longitude": 104.003965
+    },
+    {
+        "category": "beaches",
+        "title": "Sentosa",
+        "rating": 4.4,
+        "address": "Singapore",
+        "latitude": 1.2494041,
+        "longitude": 103.83032089999999
+    },
+    {
+        "category": "beaches",
+        "title": "Tanah Merah Beach",
+        "rating": 4.4,
+        "address": "Tanah Merah Coast Rd, Singapore",
+        "latitude": 1.3126157999999999,
+        "longitude": 103.9932182
+    },
+    {
+        "category": "beaches",
+        "title": "Pulau Ubi Beach",
+        "rating": 3.5,
+        "address": "Singapore",
+        "latitude": 1.4122222,
+        "longitude": 103.99305559999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Jurong West Swimming Complex",
+        "rating": 4.2,
+        "address": "20 Jurong West Street 93, Singapore 648965",
+        "latitude": 1.3378809999999999,
+        "longitude": 103.69374549999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Jalan Besar Swimming Complex",
+        "rating": 4.4,
+        "address": "100 Tyrwhitt Rd, Singapore 207542",
+        "latitude": 1.3102004,
+        "longitude": 103.8597046
+    },
+    {
+        "category": "swimming pools",
+        "title": "Heartbeat @ Bedok ActiveSG Swimming Complex",
+        "rating": 4.4,
+        "address": "11 Bedok North Street 1, Singapore 469662",
+        "latitude": 1.3271175,
+        "longitude": 103.9322493
+    },
+    {
+        "category": "swimming pools",
+        "title": "Pasir Ris ActiveSG Swimming Complex",
+        "rating": 4.2,
+        "address": "120 Pasir Ris Central, Singapore 519640",
+        "latitude": 1.3743382,
+        "longitude": 103.9521336
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sengkang ActiveSG Swimming Complex",
+        "rating": 4.3,
+        "address": "57 Anchorvale Rd, Singapore 544964",
+        "latitude": 1.3962952,
+        "longitude": 103.8863013
+    },
+    {
+        "category": "swimming pools",
+        "title": "Delta Swimming Complex",
+        "rating": 4,
+        "address": "900 Tiong Bahru Rd, Singapore 158790",
+        "latitude": 1.2897143,
+        "longitude": 103.82024659999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming Pool (SAFRA Yishun)",
+        "rating": 4.7,
+        "address": "60 Yishun Ave 4, Safra, Singapore 769027",
+        "latitude": 1.4243728,
+        "longitude": 103.8411453
+    },
+    {
+        "category": "swimming pools",
+        "title": "OCBC Aquatic Centre",
+        "rating": 4.5,
+        "address": "7 Stadium Dr, Singapore 397632",
+        "latitude": 1.3053455,
+        "longitude": 103.8727646
+    },
+    {
+        "category": "swimming pools",
+        "title": "Katong ActiveSG Swimming Complex",
+        "rating": 4.1,
+        "address": "111 Wilkinson Rd, Katong Swim Complex, Singapore 436752",
+        "latitude": 1.3021289999999999,
+        "longitude": 103.88616429999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Clementi ActiveSG Swimming Complex",
+        "rating": 4.2,
+        "address": "520 Clementi Ave 3, Singapore 129908",
+        "latitude": 1.3107809,
+        "longitude": 103.76565079999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bishan ActiveSG Swimming Complex",
+        "rating": 4.1,
+        "address": "1 Bishan St 14, Singapore 579778",
+        "latitude": 1.3542551,
+        "longitude": 103.8501525
+    },
+    {
+        "category": "swimming pools",
+        "title": "Yishun ActiveSG Swimming Complex",
+        "rating": 4,
+        "address": "351 Yishun Ave 3, YISHUN, Swimming Complex, Singapore 769057",
+        "latitude": 1.4232449,
+        "longitude": 103.833608
+    },
+    {
+        "category": "swimming pools",
+        "title": "Geylang East ActiveSG Swimming Complex",
+        "rating": 4.1,
+        "address": "601 Aljunied Ave 1, Singapore 389862",
+        "latitude": 1.3212974,
+        "longitude": 103.88784249999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bukit Batok Swimming Complex",
+        "rating": 4.2,
+        "address": "2 Bukit Batok Street 22, Singapore 659581",
+        "latitude": 1.3445539,
+        "longitude": 103.7481183
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming Pool @ Paradox Singapore",
+        "rating": 5,
+        "address": "20 Merchant Rd, Singapore 058281",
+        "latitude": 1.2887138,
+        "longitude": 103.84562869999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Serangoon ActiveSG Swimming Complex",
+        "rating": 4.1,
+        "address": "35A Yio Chu Kang Rd, Singapore 545552",
+        "latitude": 1.3572138,
+        "longitude": 103.8746754
+    },
+    {
+        "category": "swimming pools",
+        "title": "Yio Chu Kang ActiveSG Swimming Complex",
+        "rating": 4.1,
+        "address": "202 Ang Mo Kio Ave 9, Singapore 569771",
+        "latitude": 1.3816811999999998,
+        "longitude": 103.8465583
+    },
+    {
+        "category": "swimming pools",
+        "title": "Safra Jurong Swimming Pool",
+        "rating": 4.3,
+        "address": "333 Boon Lay Wy, Singapore 649848",
+        "latitude": 1.3352309999999998,
+        "longitude": 103.7068352
+    },
+    {
+        "category": "swimming pools",
+        "title": "Tampines ActiveSG Swimming Complex",
+        "rating": 4,
+        "address": "1 Tampines Walk, Singapore 528523",
+        "latitude": 1.3532165999999999,
+        "longitude": 103.9398473
+    },
+    {
+        "category": "swimming pools",
+        "title": "Splash-N-Surf",
+        "rating": 4.1,
+        "address": "Level 3 Kallang Wave Mall Near gate 21 of National, stadium, Singapore 397629",
+        "latitude": 1.3039558,
+        "longitude": 103.8727856
+    },
+    {
+        "category": "resorts",
+        "title": "Shangri-La Rasa Sentosa, Singapore",
+        "rating": 4.5,
+        "address": "101 Siloso Rd, Singapore 098970",
+        "latitude": 1.2577323,
+        "longitude": 103.8097962
+    },
+    {
+        "category": "resorts",
+        "title": "Sofitel Singapore Sentosa Resort & Spa",
+        "rating": 4.3,
+        "address": "2 Bukit Manis Rd, Sentosa, Singapore 099891",
+        "latitude": 1.2457019,
+        "longitude": 103.8277056
+    },
+    {
+        "category": "resorts",
+        "title": "Siloso Beach Resort - Mastercard Pitstop",
+        "rating": 4.1,
+        "address": "51 Imbiah Walk, Singapore 099538",
+        "latitude": 1.2549599,
+        "longitude": 103.81449169999999
+    },
+    {
+        "category": "resorts",
+        "title": "Dusit Thani Laguna Singapore",
+        "rating": 4.4,
+        "address": "11 Laguna Golf Green, Singapore 488047",
+        "latitude": 1.3231319,
+        "longitude": 103.96247509999999
+    },
+    {
+        "category": "resorts",
+        "title": "D'Resort @ Downtown East",
+        "rating": 4.2,
+        "address": "1 Pasir Ris Cl, Singapore 519599",
+        "latitude": 1.3798903999999999,
+        "longitude": 103.9549644
+    },
+    {
+        "category": "resorts",
+        "title": "Mandai Rainforest Resort by Banyan Tree",
+        "rating": 4.3,
+        "address": "60 Mandai Lake Rd, Singapore 729979",
+        "latitude": 1.4071031999999999,
+        "longitude": 103.79074759999999
+    },
+    {
+        "category": "resorts",
+        "title": "Capella Singapore",
+        "rating": 4.7,
+        "address": "1 The Knolls, Sentosa Island, Singapore 098297",
+        "latitude": 1.2497222,
+        "longitude": 103.82416669999999
+    },
+    {
+        "category": "resorts",
+        "title": "Amara Sanctuary Sentosa",
+        "rating": 4.2,
+        "address": "Sentosa Island, 1 Larkhill Rd, Singapore 099394",
+        "latitude": 1.2520799,
+        "longitude": 103.822159
+    },
+    {
+        "category": "resorts",
+        "title": "Grand Hyatt Singapore",
+        "rating": 4.5,
+        "address": "10 Scotts Rd, Singapore 228211",
+        "latitude": 1.3065837999999999,
+        "longitude": 103.8331003
+    },
+    {
+        "category": "resorts",
+        "title": "W Singapore - Sentosa Cove",
+        "rating": 4.5,
+        "address": "21 Ocean Way, Singapore 098374",
+        "latitude": 1.2461106,
+        "longitude": 103.8424732
+    },
+    {
+        "category": "resorts",
+        "title": "Equarius Villas",
+        "rating": 4.5,
+        "address": "20 Sentosa Gateway, Equarius, Villas, Singapore 098135",
+        "latitude": 1.2587059999999999,
+        "longitude": 103.8172767
+    },
+    {
+        "category": "resorts",
+        "title": "Raffles Sentosa Singapore",
+        "rating": 4.5,
+        "address": "4 Bukit Manis Rd, Sentosa, Singapore 099947",
+        "latitude": 1.2479824,
+        "longitude": 103.8276125
+    },
+    {
+        "category": "resorts",
+        "title": "The Fullerton Bay Hotel Singapore",
+        "rating": 4.6,
+        "address": "80 Collyer Quay, Singapore 049326",
+        "latitude": 1.2831721999999999,
+        "longitude": 103.85342159999999
+    },
+    {
+        "category": "resorts",
+        "title": "Shangri-La Singapore",
+        "rating": 4.6,
+        "address": "22 Orange Grove Rd, Singapore 258350",
+        "latitude": 1.310965,
+        "longitude": 103.8264894
+    },
+    {
+        "category": "resorts",
+        "title": "Equarius Ocean Suites",
+        "rating": 4.2,
+        "address": "20 Sentosa Gateway, Equarius Hotel, Singapore 098135",
+        "latitude": 1.2587059999999999,
+        "longitude": 103.8172767
+    },
+    {
+        "category": "resorts",
+        "title": "Village Hotel Sentosa",
+        "rating": 4.3,
+        "address": "10 Artillery Ave, #02-01 Palawan Ridge, Sentosa Island, Singapore 099951",
+        "latitude": 1.2523958,
+        "longitude": 103.8201982
+    },
+    {
+        "category": "resorts",
+        "title": "ONE°15 Marina Sentosa Cove Singapore - Mastercard Pitstop",
+        "rating": 4.5,
+        "address": "11 Cove Drive, #01-01, Sentosa Cove, Singapore 098497",
+        "latitude": 1.2455711,
+        "longitude": 103.83973979999999
+    },
+    {
+        "category": "resorts",
+        "title": "PARKROYAL COLLECTION Pickering",
+        "rating": 4.5,
+        "address": "3 Upper Pickering St, Singapore 058289",
+        "latitude": 1.2856438,
+        "longitude": 103.8464647
+    },
+    {
+        "category": "resorts",
+        "title": "Conrad Singapore Marina Bay",
+        "rating": 4.6,
+        "address": "2 Temasek Blvd, Singapore 038982",
+        "latitude": 1.2935889999999999,
+        "longitude": 103.85890169999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Outpost Hotel Sentosa",
+        "rating": 4.2,
+        "address": "10 Artillery Ave, #03-01, Sentosa island, Singapore 099951",
+        "latitude": 1.2521396,
+        "longitude": 103.8199556
+    },
+    {
+        "category": "camping sites",
+        "title": "East Coast Park Camping Site G",
+        "rating": 4.2,
+        "address": "ECP, Singapore 468965",
+        "latitude": 1.3126768,
+        "longitude": 103.9582192
+    },
+    {
+        "category": "camping sites",
+        "title": "Glamping City",
+        "rating": 4.6,
+        "address": "1500 East Coast Park, Singapore 468963",
+        "latitude": 1.3153169999999998,
+        "longitude": 103.96189
+    },
+    {
+        "category": "camping sites",
+        "title": "East Coast Park Camping D",
+        "rating": 4.5,
+        "address": "1206 ECP, #01-07/08, Singapore 449883",
+        "latitude": 1.3044873,
+        "longitude": 103.92874429999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Campsite 1 @ Pasir Ris Park",
+        "rating": 4.5,
+        "address": "159T Jln. Loyang Besar, Singapore 506927",
+        "latitude": 1.3803351,
+        "longitude": 103.9596105
+    },
+    {
+        "category": "camping sites",
+        "title": "Mamam Campsite",
+        "rating": 4.2,
+        "address": "Jln Mamam, Singapore",
+        "latitude": 1.4184090999999999,
+        "longitude": 103.9755891
+    },
+    {
+        "category": "camping sites",
+        "title": "Red Cross Campsite",
+        "rating": 4.4,
+        "address": "62 Jln. Khairuddin, Singapore 457524",
+        "latitude": 1.3214078999999999,
+        "longitude": 103.9229325
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Site Area 3",
+        "rating": 4.3,
+        "address": "169 Pasir Ris Rd, Singapore 519145",
+        "latitude": 1.3832248,
+        "longitude": 103.9482689
+    },
+    {
+        "category": "camping sites",
+        "title": "West Coast Campsite Area 3",
+        "rating": 4.3,
+        "address": "Singapore",
+        "latitude": 1.2961173,
+        "longitude": 103.7623945
+    },
+    {
+        "category": "camping sites",
+        "title": "Campsite Area D",
+        "rating": 4.6,
+        "address": "Opp Victoria JC, Singapore",
+        "latitude": 1.3026252999999999,
+        "longitude": 103.91986879999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Jelutong Campsite",
+        "rating": 4,
+        "address": "Jln Jelutong, Singapore",
+        "latitude": 1.4013775,
+        "longitude": 103.96790809999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Christine (Girl Guides Singapore)",
+        "rating": 3,
+        "address": "71 Jalan Bahtera, Singapore 719922",
+        "latitude": 1.4388381,
+        "longitude": 103.70052369999999
+    },
+    {
+        "category": "camping sites",
+        "title": "East Coast Park",
+        "rating": 4.6,
+        "address": "E Coast Park Service Rd, Singapore",
+        "latitude": 1.3007841999999998,
+        "longitude": 103.9121866
+    },
+    {
+        "category": "camping sites",
+        "title": "Terror Sea Scout campsite",
+        "rating": 3.8,
+        "address": "St Helena Rd, Singapore",
+        "latitude": 1.4558948,
+        "longitude": 103.83342309999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Endut Senin Campsite",
+        "rating": 4.3,
+        "address": "Jln Endut Senin, Singapore",
+        "latitude": 1.4077747999999999,
+        "longitude": 103.9542429
+    },
+    {
+        "category": "camping sites",
+        "title": "BB / GB Campsite",
+        "rating": 4,
+        "address": "1200 Sembawang Rd, Singapore 758526",
+        "latitude": 1.4615875999999999,
+        "longitude": 103.83818699999999
+    },
+    {
+        "category": "camping sites",
+        "title": "West Coast Park",
+        "rating": 4.4,
+        "address": "W Coast Ferry Rd, Singapore 126978",
+        "latitude": 1.2913603,
+        "longitude": 103.7666534
+    },
+    {
+        "category": "camping sites",
+        "title": "Pasir Ris Park Area 1",
+        "rating": 4.6,
+        "address": "Singapore 506927",
+        "latitude": 1.3803265,
+        "longitude": 103.95961249999999
+    },
+    {
+        "category": "camping sites",
+        "title": "MOE Labrador Outdoor Adventure Learning Centre",
+        "rating": 4.1,
+        "address": "45 Pasir Panjang Rd, Singapore 118505",
+        "latitude": 1.2734556,
+        "longitude": 103.7963163
+    },
+    {
+        "category": "camping sites",
+        "title": "Changi Beach Park",
+        "rating": 4.5,
+        "address": "Nicoll Dr, Singapore 498991",
+        "latitude": 1.3912863,
+        "longitude": 103.9905464
+    },
+    {
+        "category": "camping sites",
+        "title": "Pasir Ris Town Park",
+        "rating": 4.4,
+        "address": "Along, Pasir Ris Central, Opposite MRT Station, Singapore 519639",
+        "latitude": 1.3720588,
+        "longitude": 103.95268
+    },
+    {
+        "category": "hiking trails",
+        "title": "Macritchie Treetop Walk Trailhead",
+        "rating": 4.6,
+        "address": "Central Catchment Nature Reserve, 601 Island Club Rd (Located close to Singapore Island Country Club, Venus Dr, via, Singapore",
+        "latitude": 1.3594959,
+        "longitude": 103.8269665
+    },
+    {
+        "category": "hiking trails",
+        "title": "Central Catchment Park Connector",
+        "rating": 4.5,
+        "address": "Mandai Rd, Singapore",
+        "latitude": 1.4105866999999999,
+        "longitude": 103.7783568
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bukit Batok Nature Park",
+        "rating": 4.5,
+        "address": "Cnr Bukit Batok East Avenue 2, Bukit Batok East Ave 6, and, Singapore 659761",
+        "latitude": 1.3485421,
+        "longitude": 103.7641994
+    },
+    {
+        "category": "hiking trails",
+        "title": "Rifle Range Nature Park",
+        "rating": 4.7,
+        "address": "Rifle Range Rd, Singapore 589322",
+        "latitude": 1.3434751999999999,
+        "longitude": 103.77940629999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Chestnut Nature Park",
+        "rating": 4.5,
+        "address": "Chestnut Ave, Singapore 679514",
+        "latitude": 1.3760246,
+        "longitude": 103.7810719
+    },
+    {
+        "category": "hiking trails",
+        "title": "Thomson Nature Park",
+        "rating": 4.5,
+        "address": "Upper Thomson Rd, Singapore",
+        "latitude": 1.3833292,
+        "longitude": 103.8219469
+    },
+    {
+        "category": "hiking trails",
+        "title": "Kranji Nature Trail",
+        "rating": 4.8,
+        "address": "Singapore",
+        "latitude": 1.4433555,
+        "longitude": 103.7357918
+    },
+    {
+        "category": "hiking trails",
+        "title": "Windsor Nature Park",
+        "rating": 4.6,
+        "address": "30 Venus Dr, Singapore 573858",
+        "latitude": 1.3566265,
+        "longitude": 103.8214319
+    },
+    {
+        "category": "hiking trails",
+        "title": "Hindhede Nature Park",
+        "rating": 4.6,
+        "address": "Hindhede Dr, Singapore",
+        "latitude": 1.3491092999999998,
+        "longitude": 103.7754308
+    },
+    {
+        "category": "hiking trails",
+        "title": "Upper Peirce Reservoir Park",
+        "rating": 4.6,
+        "address": "Along Old Upper Thomson Road, Singapore",
+        "latitude": 1.3731053,
+        "longitude": 103.8119088
+    },
+    {
+        "category": "hiking trails",
+        "title": "Labrador Nature Reserve",
+        "rating": 4.6,
+        "address": "91 Labrador Villa Rd, Singapore 119190",
+        "latitude": 1.2665094,
+        "longitude": 103.80206489999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "MacRitchie Prunus Trail",
+        "rating": 4.7,
+        "address": "Singapore",
+        "latitude": 1.3457732,
+        "longitude": 103.8363445
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bukit Timah Nature Reserve",
+        "rating": 4.6,
+        "address": "Hindhede Dr, Singapore 589318",
+        "latitude": 1.3483882999999999,
+        "longitude": 103.77670099999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Lower Peirce Reservoir Park",
+        "rating": 4.6,
+        "address": "Singapore 573868",
+        "latitude": 1.3720142,
+        "longitude": 103.8257891
+    },
+    {
+        "category": "hiking trails",
+        "title": "Dairy Farm Nature Park",
+        "rating": 4.5,
+        "address": "100 Dairy Farm Rd, Singapore 679057",
+        "latitude": 1.3640181999999998,
+        "longitude": 103.7763968
+    },
+    {
+        "category": "hiking trails",
+        "title": "Rifle Range Link",
+        "rating": 4.6,
+        "address": "Central Catchment Nature Reserve, 601 Island Club Rd (Located close to Singapore Island Country Club, via Venus Drive, Singapore",
+        "latitude": 1.3562366,
+        "longitude": 103.80152009999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "TreeTop Walk",
+        "rating": 4.6,
+        "address": "601 Island Club Rd, Singapore 578775",
+        "latitude": 1.3607287,
+        "longitude": 103.81252149999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Sensory Trail",
+        "rating": 4.4,
+        "address": "Singapore",
+        "latitude": 1.4035669,
+        "longitude": 103.9717582
+    },
+    {
+        "category": "hiking trails",
+        "title": "MacRitchie Nature Trail",
+        "rating": 4.8,
+        "address": "MacRitchie Natural Trail, Singapore",
+        "latitude": 1.3457744999999999,
+        "longitude": 103.8365242
+    },
+    {
+        "category": "hiking trails",
+        "title": "Clementi Forest",
+        "rating": 4.6,
+        "address": "Singapore",
+        "latitude": 1.3293884,
+        "longitude": 103.78019239999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Kranji Marshes",
+        "rating": 4,
+        "address": "11 Neo Tiew Lane 2, Singapore 718814",
+        "latitude": 1.4196408,
+        "longitude": 103.72051839999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Central Catchment Nature Reserve",
+        "rating": 4.5,
+        "address": "park, Singapore 767993",
+        "latitude": 1.3569531,
+        "longitude": 103.8045143
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Bukit Timah Nature Reserve",
+        "rating": 4.6,
+        "address": "Hindhede Dr, Singapore 589318",
+        "latitude": 1.3483882999999999,
+        "longitude": 103.77670099999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Tampines Eco Green",
+        "rating": 4.4,
+        "address": "Tampines Ave 9, Singapore 520491",
+        "latitude": 1.3639478,
+        "longitude": 103.9482922
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Windsor Nature Park",
+        "rating": 4.6,
+        "address": "30 Venus Dr, Singapore 573858",
+        "latitude": 1.3566265,
+        "longitude": 103.8214319
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Supertree Grove",
+        "rating": 4.7,
+        "address": "18 Marina Gardens Dr, Singapore 018953",
+        "latitude": 1.2819616999999999,
+        "longitude": 103.86390569999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Singapore Botanic Gardens",
+        "rating": 4.7,
+        "address": "1 Cluny Rd, Singapore 259569",
+        "latitude": 1.3138397,
+        "longitude": 103.8159136
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Gardens by the Bay",
+        "rating": 4.7,
+        "address": "18 Marina Gardens Dr, Singapore 018953",
+        "latitude": 1.2815683,
+        "longitude": 103.86361319999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Sang Nila Utama Garden",
+        "rating": 4.7,
+        "address": "1 Canning Rise, Singapore 179868",
+        "latitude": 1.2932185,
+        "longitude": 103.8477697
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "MacRitchie Nature Trail",
+        "rating": 4.8,
+        "address": "MacRitchie Natural Trail, Singapore",
+        "latitude": 1.3457744999999999,
+        "longitude": 103.8365242
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Eco Tourism Kampung Sungai Melayu",
+        "rating": 4.5,
+        "address": "Beside Asam pedas (berdekatan klinik desa, Jalan Kampung Sungai Melayu, Kampung Sungai Melayu, 79503 Iskandar Puteri, Johor, Malaysia",
+        "latitude": 1.4547888,
+        "longitude": 103.6913393
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Flower Dome",
+        "rating": 4.7,
+        "address": "18 Marina Gardens Dr, Singapore 018953",
+        "latitude": 1.2846292,
+        "longitude": 103.86469749999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Let's Go Tour Singapore",
+        "rating": 5,
+        "address": "Block 462 Crawford Ln, #01-57, Singapore 190462",
+        "latitude": 1.3045213999999998,
+        "longitude": 103.8608823
+    },
+    {
+        "category": "temples",
+        "title": "Sri Thendayuthapani Temple",
+        "rating": 4.8,
+        "address": "15 Tank Rd, Singapore 238065",
+        "latitude": 1.2943221999999999,
+        "longitude": 103.843047
+    },
+    {
+        "category": "temples",
+        "title": "Sri Veeramakaliamman Temple",
+        "rating": 4.6,
+        "address": "141 Serangoon Rd, Singapore 218042",
+        "latitude": 1.3078878,
+        "longitude": 103.85248
+    },
+    {
+        "category": "temples",
+        "title": "Sri Srinivasa Perumal Temple",
+        "rating": 4.8,
+        "address": "397 Serangoon Rd, Singapore 218123",
+        "latitude": 1.3132705999999998,
+        "longitude": 103.8560729
+    },
+    {
+        "category": "temples",
+        "title": "Sri Krishnan Temple",
+        "rating": 4.7,
+        "address": "152 Waterloo St, Singapore 187961",
+        "latitude": 1.3004833999999998,
+        "longitude": 103.8527124
+    },
+    {
+        "category": "temples",
+        "title": "Sri Mariamman Temple",
+        "rating": 4.5,
+        "address": "244 South Bridge Rd, Singapore 058793",
+        "latitude": 1.2826867,
+        "longitude": 103.8451462
+    },
+    {
+        "category": "temples",
+        "title": "Kwan Im Thong Hood Cho Temple",
+        "rating": 4.7,
+        "address": "178 Waterloo St, Singapore 187964",
+        "latitude": 1.3008575999999998,
+        "longitude": 103.8529932
+    },
+    {
+        "category": "temples",
+        "title": "Sri Sivan Temple",
+        "rating": 4.7,
+        "address": "24 Geylang East Ave 2, Singapore 389752",
+        "latitude": 1.318443,
+        "longitude": 103.88873389999999
+    },
+    {
+        "category": "temples",
+        "title": "Sri Layan Sithi Vinayagar Temple",
+        "rating": 4.8,
+        "address": "73 Keong Saik Rd., Singapore 089167",
+        "latitude": 1.2812998,
+        "longitude": 103.8417539
+    },
+    {
+        "category": "temples",
+        "title": "Buddha Tooth Relic Temple",
+        "rating": 4.6,
+        "address": "288 South Bridge Rd, Singapore 058840",
+        "latitude": 1.2815155,
+        "longitude": 103.84423969999999
+    },
+    {
+        "category": "temples",
+        "title": "Sree Ramar Temple",
+        "rating": 4.8,
+        "address": "51 Changi Village Rd, Singapore 509908",
+        "latitude": 1.3873607,
+        "longitude": 103.98712789999999
+    },
+    {
+        "category": "temples",
+        "title": "Murugan Hill Temple",
+        "rating": 4.7,
+        "address": "931 Upper Bukit Timah Rd, Singapore 678207",
+        "latitude": 1.3770529,
+        "longitude": 103.76155999999999
+    },
+    {
+        "category": "temples",
+        "title": "Sri Senpaga Vinayagar Temple",
+        "rating": 4.8,
+        "address": "19 Ceylon Rd, Singapore 429613",
+        "latitude": 1.305617,
+        "longitude": 103.90248109999999
+    },
+    {
+        "category": "temples",
+        "title": "Sri Vadapathira Kaliamman Temple",
+        "rating": 4.8,
+        "address": "555 Serangoon Rd, Singapore 218174",
+        "latitude": 1.3153226999999998,
+        "longitude": 103.8579712
+    },
+    {
+        "category": "temples",
+        "title": "Sree Maha Mariamman Temple",
+        "rating": 4.7,
+        "address": "251 Yishun Ave 3, Singapore 769061",
+        "latitude": 1.4235178,
+        "longitude": 103.8310547
+    },
+    {
+        "category": "temples",
+        "title": "Thian Hock Keng Temple",
+        "rating": 4.4,
+        "address": "158 Telok Ayer St, Singapore 068613",
+        "latitude": 1.280939,
+        "longitude": 103.8476354
+    },
+    {
+        "category": "temples",
+        "title": "Sri Muneeswaran Temple",
+        "rating": 4.8,
+        "address": "3 Commonwealth Dr, Singapore 149594",
+        "latitude": 1.2957576,
+        "longitude": 103.79846579999999
+    },
+    {
+        "category": "temples",
+        "title": "Sri Manmatha Karuneshvarar Temple",
+        "rating": 4.7,
+        "address": "226 Kallang Rd, Singapore 339096",
+        "latitude": 1.3088788999999998,
+        "longitude": 103.86591899999999
+    },
+    {
+        "category": "temples",
+        "title": "Siddh Peeth Shree Lakshminarayan Temple",
+        "rating": 4.7,
+        "address": "5 Chander Rd, Singapore 219528",
+        "latitude": 1.3077621,
+        "longitude": 103.85090149999999
+    },
+    {
+        "category": "temples",
+        "title": "Lian Shan Shuang Lin Monastery",
+        "rating": 4.6,
+        "address": "184 Jalan Toa Payoh, Singapore 319944",
+        "latitude": 1.3298827,
+        "longitude": 103.85645679999999
+    },
+    {
+        "category": "temples",
+        "title": "Loyang Tua Pek Kong",
+        "rating": 4.7,
+        "address": "20 Loyang Way, Singapore 508774",
+        "latitude": 1.3710939,
+        "longitude": 103.96994029999999
+    },
+    {
+        "category": "museums",
+        "title": "National Museum of Singapore",
+        "rating": 4.6,
+        "address": "93 Stamford Rd, Singapore 178897",
+        "latitude": 1.296613,
+        "longitude": 103.8485091
+    },
+    {
+        "category": "museums",
+        "title": "National Gallery Singapore",
+        "rating": 4.6,
+        "address": "Singapore 178957",
+        "latitude": 1.2902217,
+        "longitude": 103.85151669999999
+    },
+    {
+        "category": "museums",
+        "title": "Asian Civilisations Museum",
+        "rating": 4.6,
+        "address": "1 Empress Pl, Singapore 179555",
+        "latitude": 1.2874968999999998,
+        "longitude": 103.8513861
+    },
+    {
+        "category": "museums",
+        "title": "ArtScience Museum",
+        "rating": 4.4,
+        "address": "6 Bayfront Ave, Singapore 018974",
+        "latitude": 1.2862738,
+        "longitude": 103.8592663
+    },
+    {
+        "category": "museums",
+        "title": "Peranakan Museum",
+        "rating": 4.5,
+        "address": "39 Armenian St, Singapore 179941",
+        "latitude": 1.2943669,
+        "longitude": 103.8490391
+    },
+    {
+        "category": "museums",
+        "title": "Singapore City Gallery",
+        "rating": 4.6,
+        "address": "45 Maxwell Road The URA Centre, Singapore 069118",
+        "latitude": 1.2798527,
+        "longitude": 103.845058
+    },
+    {
+        "category": "museums",
+        "title": "Science Centre Singapore",
+        "rating": 4.4,
+        "address": "15 Science Centre Rd, Singapore 609081",
+        "latitude": 1.3331686999999999,
+        "longitude": 103.73564429999999
+    },
+    {
+        "category": "museums",
+        "title": "Children's Museum Singapore",
+        "rating": 4.6,
+        "address": "23-B Coleman St, Singapore 179807",
+        "latitude": 1.2929268999999999,
+        "longitude": 103.8487246
+    },
+    {
+        "category": "museums",
+        "title": "Indian Heritage Centre",
+        "rating": 4.5,
+        "address": "5 Campbell Ln, Singapore 209924",
+        "latitude": 1.3056816,
+        "longitude": 103.8522606
+    },
+    {
+        "category": "museums",
+        "title": "Lee Kong Chian Natural History Museum, Singapore",
+        "rating": 4.6,
+        "address": "2 Conservatory Dr, Singapore 117377",
+        "latitude": 1.3014156,
+        "longitude": 103.7736549
+    },
+    {
+        "category": "museums",
+        "title": "Fort Siloso",
+        "rating": 4.6,
+        "address": "Siloso Rd, Singapore 099981",
+        "latitude": 1.259363,
+        "longitude": 103.8086242
+    },
+    {
+        "category": "museums",
+        "title": "Singapore Discovery Centre",
+        "rating": 4.7,
+        "address": "510 Upper Jurong Rd, Singapore 638365",
+        "latitude": 1.3326904,
+        "longitude": 103.67894319999999
+    },
+    {
+        "category": "museums",
+        "title": "Trickeye Singapore",
+        "rating": 4,
+        "address": "80 Siloso Road, Southside, Blk B, #01-04, Singapore 098969",
+        "latitude": 1.258697,
+        "longitude": 103.81193139999999
+    },
+    {
+        "category": "museums",
+        "title": "MUSEUM OF ICE CREAM SINGAPORE",
+        "rating": 4.4,
+        "address": "100 Loewen Rd, Singapore 248837",
+        "latitude": 1.30273,
+        "longitude": 103.812423
+    },
+    {
+        "category": "museums",
+        "title": "Madame Tussauds Singapore",
+        "rating": 4.4,
+        "address": "40 Imbiah Rd, Sentosa, Singapore 099700",
+        "latitude": 1.2540373,
+        "longitude": 103.8176215
+    },
+    {
+        "category": "museums",
+        "title": "Hell's Museum",
+        "rating": 4.8,
+        "address": "262 Pasir Panjang Rd, Singapore 118628",
+        "latitude": 1.2841013,
+        "longitude": 103.7816422
+    },
+    {
+        "category": "museums",
+        "title": "Chinatown Heritage Centre",
+        "rating": 4.5,
+        "address": "48 Pagoda St, Singapore 059207",
+        "latitude": 1.2834607,
+        "longitude": 103.844404
+    },
+    {
+        "category": "museums",
+        "title": "Former Ford Factory",
+        "rating": 4.5,
+        "address": "351 Upper Bukit Timah Rd, Singapore 588192",
+        "latitude": 1.3527255999999999,
+        "longitude": 103.7688464
+    },
+    {
+        "category": "museums",
+        "title": "Changi Chapel & Museum",
+        "rating": 4.4,
+        "address": "1000 Upper Changi Rd N, Singapore 507707",
+        "latitude": 1.362212,
+        "longitude": 103.974025
+    },
+    {
+        "category": "museums",
+        "title": "The Intan",
+        "rating": 4.7,
+        "address": "69 Joo Chiat Terrace, Singapore 427231",
+        "latitude": 1.3146307,
+        "longitude": 103.9009827
+    },
+    {
+        "category": "night markets",
+        "title": "Chinatown Street Market",
+        "rating": 4.4,
+        "address": "29 Smith St, Singapore 058943",
+        "latitude": 1.2821932,
+        "longitude": 103.8442544
+    },
+    {
+        "category": "night markets",
+        "title": "Pasar Malam @ Woodlands Square",
+        "rating": 4.4,
+        "address": "30 Woodlands Ave 2, Singapore 738343",
+        "latitude": 1.4364651,
+        "longitude": 103.78690569999999
+    },
+    {
+        "category": "night markets",
+        "title": "Bugis Street",
+        "rating": 4.4,
+        "address": "261 Victoria St, Singapore 189876",
+        "latitude": 1.3001991,
+        "longitude": 103.85520149999999
+    },
+    {
+        "category": "night markets",
+        "title": "Chinatown Singapore",
+        "rating": 4.4,
+        "address": "75 Pagoda St, Singapore 059234",
+        "latitude": 1.2834283,
+        "longitude": 103.8444521
+    },
+    {
+        "category": "night markets",
+        "title": "Bangkit Market",
+        "rating": 4.2,
+        "address": "257 Bangkit Rd, Singapore 670257",
+        "latitude": 1.3778953,
+        "longitude": 103.7732915
+    },
+    {
+        "category": "night markets",
+        "title": "Tekka Centre",
+        "rating": 4.2,
+        "address": "665 Buffalo Road Zhujiao Centre, Tekka, Market, Singapore 210665",
+        "latitude": 1.3063839,
+        "longitude": 103.85070139999999
+    },
+    {
+        "category": "night markets",
+        "title": "Pasar Karat • Bazar JB",
+        "rating": 4.1,
+        "address": "26, 20, Jalan Segget, Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",
+        "latitude": 1.4580613,
+        "longitude": 103.7641678
+    },
+    {
+        "category": "night markets",
+        "title": "Lau Pa Sat",
+        "rating": 4.4,
+        "address": "18 Raffles Quay, Singapore 048582",
+        "latitude": 1.2805121,
+        "longitude": 103.85038089999999
+    },
+    {
+        "category": "night markets",
+        "title": "Geylang Serai Market and Food Centre",
+        "rating": 4.3,
+        "address": "1 Geylang Serai, Singapore 402001",
+        "latitude": 1.3167284,
+        "longitude": 103.8982767
+    },
+    {
+        "category": "night markets",
+        "title": "409 AMK Market And Food Centre",
+        "rating": 4.1,
+        "address": "409 Ang Mo Kio Ave 10, Singapore 560409",
+        "latitude": 1.3626312,
+        "longitude": 103.85532819999999
+    },
+    {
+        "category": "night markets",
+        "title": "TaiWan Night Markets",
+        "rating": 4.4,
+        "address": "8 Grange Rd, #B1-01 Cathy Cineleisure Orchard, 8 Grange Rd, #B1-01, Singapore 239695",
+        "latitude": 1.3015269999999999,
+        "longitude": 103.83634409999999
+    },
+    {
+        "category": "night markets",
+        "title": "Hougang Central Market",
+        "rating": 4.1,
+        "address": "811 Hougang Central, Singapore 530811",
+        "latitude": 1.3715462999999999,
+        "longitude": 103.8933723
+    },
+    {
+        "category": "viewpoints",
+        "title": "Singapore Skyline View",
+        "rating": 4.8,
+        "address": "10 Bayfront Ave, Marina Bay Sands, Singapore 018956",
+        "latitude": 1.2842867,
+        "longitude": 103.85842749999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "SkyPark Observation Deck",
+        "rating": 4.6,
+        "address": "10 Bayfront Avenue, Hotel, Tower 3, Level 56, Marina Bay Sands, Singapore 018956",
+        "latitude": 1.2852044,
+        "longitude": 103.8610313
+    },
+    {
+        "category": "viewpoints",
+        "title": "ION Sky",
+        "rating": 4.6,
+        "address": "2 Orchard Turn, Singapore 238801",
+        "latitude": 1.304052,
+        "longitude": 103.831767
+    },
+    {
+        "category": "viewpoints",
+        "title": "Supertree Observatory",
+        "rating": 4.6,
+        "address": "18 Marina Gardens Dr, #03-01, Singapore 018953",
+        "latitude": 1.2820342,
+        "longitude": 103.8639213
+    },
+    {
+        "category": "viewpoints",
+        "title": "Marina Bay Overpass Viewing Point",
+        "rating": 4.8,
+        "address": "Marina Bay Overpass, Singapore",
+        "latitude": 1.2824860999999999,
+        "longitude": 103.8617392
+    },
+    {
+        "category": "viewpoints",
+        "title": "Supertree Grove Viewpoint",
+        "rating": 4.8,
+        "address": "18 Marina Gardens Dr, Singapore 018953",
+        "latitude": 1.281591,
+        "longitude": 103.8646819
+    },
+    {
+        "category": "viewpoints",
+        "title": "Esplanade Roof Terrace",
+        "rating": 4.6,
+        "address": "1 Esplanade Dr, Singapore 038981",
+        "latitude": 1.2898005,
+        "longitude": 103.85527549999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Gardens by the Bay East (Panoramic view)",
+        "rating": 4.8,
+        "address": "Singapore",
+        "latitude": 1.2881068999999998,
+        "longitude": 103.8690209
+    },
+    {
+        "category": "viewpoints",
+        "title": "MBS Viewpoint",
+        "rating": 4.9,
+        "address": "82 Collyer Quay, The Fullerton Pavilion, Singapore 049213",
+        "latitude": 1.2848112,
+        "longitude": 103.8538882
+    },
+    {
+        "category": "viewpoints",
+        "title": "Cloud Forest",
+        "rating": 4.8,
+        "address": "18 Marina Gardens Dr, Singapore 018953",
+        "latitude": 1.2838676999999998,
+        "longitude": 103.8660024
+    },
+    {
+        "category": "viewpoints",
+        "title": "Marina Bay Waterfront Promenade",
+        "rating": 4.8,
+        "address": "Singapore",
+        "latitude": 1.2815207,
+        "longitude": 103.85728399999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Marina Barrage Green Roof",
+        "rating": 4.8,
+        "address": "Unnamed Road, Marina Barrage, open space, Singapore",
+        "latitude": 1.2805251,
+        "longitude": 103.871281
+    },
+    {
+        "category": "viewpoints",
+        "title": "Gardens by the Bay",
+        "rating": 4.7,
+        "address": "18 Marina Gardens Dr, Singapore 018953",
+        "latitude": 1.2815683,
+        "longitude": 103.86361319999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Mount Faber Park",
+        "rating": 4.7,
+        "address": "Mount Faber Rd, Singapore",
+        "latitude": 1.2718741999999998,
+        "longitude": 103.81921249999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Mount Faber Top View Garden",
+        "rating": 4.5,
+        "address": "101 Mount Faber Lp., Singapore 099201",
+        "latitude": 1.2734516999999999,
+        "longitude": 103.81764299999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Colugo Deck",
+        "rating": 4.7,
+        "address": "Rifle Range Rd, Singapore 589322",
+        "latitude": 1.3448594999999999,
+        "longitude": 103.782071
+    },
+    {
+        "category": "viewpoints",
+        "title": "Jelutong Tower",
+        "rating": 4.4,
+        "address": "Singapore",
+        "latitude": 1.3513070999999999,
+        "longitude": 103.8064131
+    },
+    {
+        "category": "viewpoints",
+        "title": "Supertree Grove",
+        "rating": 4.7,
+        "address": "18 Marina Gardens Dr, Singapore 018953",
+        "latitude": 1.2819616999999999,
+        "longitude": 103.86390569999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "White House Viewpoint",
+        "rating": 5,
+        "address": "Singapore",
+        "latitude": 1.3172333,
+        "longitude": 103.8242583
+    },
+    {
+        "category": "viewpoints",
+        "title": "Henderson Waves",
+        "rating": 4.7,
+        "address": "Singapore",
+        "latitude": 1.275866,
+        "longitude": 103.8158303
+    },
+    {
+        "category": "gardens",
+        "title": "Gardens by the Bay",
+        "rating": 4.7,
+        "address": "18 Marina Gardens Dr, Singapore 018953",
+        "latitude": 1.2815683,
+        "longitude": 103.86361319999999
+    },
+    {
+        "category": "gardens",
+        "title": "Flower Dome",
+        "rating": 4.7,
+        "address": "18 Marina Gardens Dr, Singapore 018953",
+        "latitude": 1.2846292,
+        "longitude": 103.86469749999999
+    },
+    {
+        "category": "gardens",
+        "title": "Singapore Botanic Gardens",
+        "rating": 4.7,
+        "address": "1 Cluny Rd, Singapore 259569",
+        "latitude": 1.3138397,
+        "longitude": 103.8159136
+    },
+    {
+        "category": "gardens",
+        "title": "Cloud Forest",
+        "rating": 4.8,
+        "address": "18 Marina Gardens Dr, Singapore 018953",
+        "latitude": 1.2838676999999998,
+        "longitude": 103.8660024
+    },
+    {
+        "category": "gardens",
+        "title": "National Orchid Garden",
+        "rating": 4.8,
+        "address": "1 Cluny Rd, Singapore 259569",
+        "latitude": 1.3116238,
+        "longitude": 103.814859
+    },
+    {
+        "category": "gardens",
+        "title": "Supertree Grove",
+        "rating": 4.7,
+        "address": "18 Marina Gardens Dr, Singapore 018953",
+        "latitude": 1.2819616999999999,
+        "longitude": 103.86390569999999
+    },
+    {
+        "category": "gardens",
+        "title": "Floral Fantasy",
+        "rating": 4.5,
+        "address": "18 Marina Gardens Dr, Singapore 018953",
+        "latitude": 1.2817383999999998,
+        "longitude": 103.8611877
+    },
+    {
+        "category": "gardens",
+        "title": "Sang Nila Utama Garden",
+        "rating": 4.7,
+        "address": "1 Canning Rise, Singapore 179868",
+        "latitude": 1.2932185,
+        "longitude": 103.8477697
+    },
+    {
+        "category": "gardens",
+        "title": "Jurong Lake Gardens",
+        "rating": 4.6,
+        "address": "Yuan Ching Rd, Singapore",
+        "latitude": 1.3348491999999998,
+        "longitude": 103.72645569999999
+    },
+    {
+        "category": "gardens",
+        "title": "Chinese Garden",
+        "rating": 4.4,
+        "address": "Boon Lay Wy, Singapore 619795",
+        "latitude": 1.3385395999999998,
+        "longitude": 103.7303578
+    },
+    {
+        "category": "gardens",
+        "title": "National Parks Board",
+        "rating": 4.7,
+        "address": "1 Cluny Rd, Singapore Botanic Gardens, Singapore 259569",
+        "latitude": 1.3157058,
+        "longitude": 103.8161825
+    },
+    {
+        "category": "gardens",
+        "title": "Singapore Botanic Gardens Eco Lake",
+        "rating": 4.6,
+        "address": "469C Bukit Timah Rd, Singapore 259772",
+        "latitude": 1.3213419,
+        "longitude": 103.8165398
+    },
+    {
+        "category": "gardens",
+        "title": "Japanese Garden",
+        "rating": 4.4,
+        "address": "60 Yuan Ching Rd, Singapore 619672",
+        "latitude": 1.3356251,
+        "longitude": 103.7311955
+    },
+    {
+        "category": "gardens",
+        "title": "Jacob Ballas Children's Garden",
+        "rating": 4.5,
+        "address": "1H Cluny Rd, Singapore 259604",
+        "latitude": 1.3207012999999999,
+        "longitude": 103.8179261
+    },
+    {
+        "category": "gardens",
+        "title": "Golden Garden",
+        "rating": 4.6,
+        "address": "211 Marina Way, Singapore 018977",
+        "latitude": 1.2823959,
+        "longitude": 103.8657672
+    },
+    {
+        "category": "gardens",
+        "title": "Marina Bay Sands Garden Park",
+        "rating": 4.7,
+        "address": "Marina Bay Sands, Bayfront Avenue, Singapore",
+        "latitude": 1.285332,
+        "longitude": 103.859358
+    },
+    {
+        "category": "gardens",
+        "title": "Evolution Garden",
+        "rating": 4.7,
+        "address": "Singapore Botanic Gardens, Singapore",
+        "latitude": 1.3167343,
+        "longitude": 103.8165058
+    },
+    {
+        "category": "gardens",
+        "title": "Yunnan Garden",
+        "rating": 4.6,
+        "address": "12 Nanyang Dr, Singapore 637721",
+        "latitude": 1.3429098,
+        "longitude": 103.6848138
+    },
+    {
+        "category": "gardens",
+        "title": "Singapore Botanic Gardens Gallop Extension",
+        "rating": 4.7,
+        "address": "Opposite 1, Tyersall Ave, Singapore",
+        "latitude": 1.3119665,
+        "longitude": 103.8123031
+    },
+    {
+        "category": "gardens",
+        "title": "Garden Rhapsody",
+        "rating": 4.7,
+        "address": "211 Marina Way, Singapore 018977",
+        "latitude": 1.2818914,
+        "longitude": 103.8641627
+    },
+    {
+        "category": "zoo",
+        "title": "Singapore Zoo",
+        "rating": 4.6,
+        "address": "80 Mandai Lake Rd, Singapore 729826",
+        "latitude": 1.4043485,
+        "longitude": 103.79302299999999
+    },
+    {
+        "category": "zoo",
+        "title": "Night Safari",
+        "rating": 4.3,
+        "address": "80 Mandai Lake Rd, Singapore 729826",
+        "latitude": 1.4021872,
+        "longitude": 103.7880606
+    },
+    {
+        "category": "zoo",
+        "title": "River Wonders",
+        "rating": 4.4,
+        "address": "80 Mandai Lake Rd, Singapore 729826",
+        "latitude": 1.4038498,
+        "longitude": 103.79066759999999
+    },
+    {
+        "category": "zoo",
+        "title": "Bird Paradise",
+        "rating": 4.6,
+        "address": "20 Mandai Lake Rd, Singapore 729825",
+        "latitude": 1.4071539,
+        "longitude": 103.7812684
+    },
+    {
+        "category": "zoo",
+        "title": "Rainforest Wild ASIA",
+        "rating": 4.6,
+        "address": "20 Mandai Lake Rd, Singapore 729825",
+        "latitude": 1.4092358,
+        "longitude": 103.7809305
+    },
+    {
+        "category": "zoo",
+        "title": "Singapore Oceanarium",
+        "rating": 4.6,
+        "address": "24 Sentosa Gateway, Sentosa Island, Singapore 098137",
+        "latitude": 1.2583209,
+        "longitude": 103.82051469999999
+    },
+    {
+        "category": "zoo",
+        "title": "Jurong Bird Park",
+        "rating": 4.5,
+        "address": "2 Jurong Hill, Singapore 628925",
+        "latitude": 1.3187065,
+        "longitude": 103.7064417
+    },
+    {
+        "category": "adventure parks",
+        "title": "Mega Adventure - Singapore",
+        "rating": 4.8,
+        "address": "10A Siloso Bch Walk, Singapore 099008",
+        "latitude": 1.2559413,
+        "longitude": 103.81229669999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventure Cove Waterpark",
+        "rating": 4.4,
+        "address": "14 Sentosa Gateway, Sentosa Island, Singapore 098132",
+        "latitude": 1.2587643,
+        "longitude": 103.8196847
+    },
+    {
+        "category": "adventure parks",
+        "title": "Wild Wild Wet",
+        "rating": 4.3,
+        "address": "1 Pasir Ris Cl, Singapore 519599",
+        "latitude": 1.3775946,
+        "longitude": 103.9544243
+    },
+    {
+        "category": "adventure parks",
+        "title": "Jurassic World",
+        "rating": 4.5,
+        "address": "8 Sentosa Gateway, Singapore 098269",
+        "latitude": 1.2539178,
+        "longitude": 103.8240431
+    },
+    {
+        "category": "adventure parks",
+        "title": "Forest Adventure Pte Ltd",
+        "rating": 4.5,
+        "address": "Singapore",
+        "latitude": 1.3421508,
+        "longitude": 103.931175
+    },
+    {
+        "category": "adventure parks",
+        "title": "Universal Studios Singapore",
+        "rating": 4.6,
+        "address": "8 Sentosa Gateway, Singapore 098269",
+        "latitude": 1.2540421,
+        "longitude": 103.82380839999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "HomeTeamNS Aqua Adventure",
+        "rating": 4.9,
+        "address": "900 Bedok North Rd, Singapore 479994",
+        "latitude": 1.3417359,
+        "longitude": 103.91953889999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Slingshot Singapore",
+        "rating": 5,
+        "address": "3E River Valley Road, Clarke Quay, Block E, Singapore 179024",
+        "latitude": 1.2903569,
+        "longitude": 103.84706059999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Sentosa 4D AdventureLand",
+        "rating": 4,
+        "address": "51B Imbiah Rd, Singapore 099708",
+        "latitude": 1.2553976999999998,
+        "longitude": 103.8165183
+    },
+    {
+        "category": "adventure parks",
+        "title": "World Sentosa + Adventure Cove Waterpark",
+        "rating": 4.7,
+        "address": "Sentosa, Singapore",
+        "latitude": 1.2515692999999999,
+        "longitude": 103.8263338
+    },
+    {
+        "category": "adventure parks",
+        "title": "Jurassic Park Rapids Adventure",
+        "rating": 4.5,
+        "address": "8 Sentosa Gateway, Universal Studios, Singapore 098269",
+        "latitude": 1.2532744,
+        "longitude": 103.82384499999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Jurassic Park Sentosa Singapore",
+        "rating": 4.5,
+        "address": "15 Artillery Ave, Singapore 099949",
+        "latitude": 1.2531543,
+        "longitude": 103.82395869999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventure HQ",
+        "rating": 4.9,
+        "address": "2 Yishun Walk, Singapore 767944",
+        "latitude": 1.4142408,
+        "longitude": 103.8311947
+    },
+    {
+        "category": "adventure parks",
+        "title": "Far Far Away",
+        "rating": 4.8,
+        "address": "8 Sentosa Gateway, Singapore 098269",
+        "latitude": 1.2551039,
+        "longitude": 103.8238997
+    },
+    {
+        "category": "adventure parks",
+        "title": "HydroDash - Mastercard Pitstop",
+        "rating": 4.2,
+        "address": "54 Palawan Beach Walk, The Palawan @ Sentosa, Singapore 098233",
+        "latitude": 1.2500643999999999,
+        "longitude": 103.8210532
+    },
+    {
+        "category": "adventure parks",
+        "title": "Coastal Playgrove",
+        "rating": 4.5,
+        "address": "902 E Coast Park Service Rd, Singapore 449874",
+        "latitude": 1.2969058999999998,
+        "longitude": 103.89967419999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "COMO Adventure Grove",
+        "rating": 4.5,
+        "address": "5 Gallop Rd, Singapore 258960",
+        "latitude": 1.3136284999999999,
+        "longitude": 103.8101236
+    },
+    {
+        "category": "adventure parks",
+        "title": "SWP (Singapore Wake Park)",
+        "rating": 4.6,
+        "address": "1206A ECP, Singapore 449891",
+        "latitude": 1.3055949999999998,
+        "longitude": 103.93167899999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "G-Max Reverse Bungy",
+        "rating": 4.4,
+        "address": "3E River Valley Road, Clarke Quay, Block E, Singapore 179024",
+        "latitude": 1.2903543,
+        "longitude": 103.84711159999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Marine Cove Playground",
+        "rating": 4.6,
+        "address": "1000 ECP, Singapore 449876",
+        "latitude": 1.3013487,
+        "longitude": 103.9137646
+    },
+    {
+        "category": "hot springs",
+        "title": "Sembawang Hot Spring Park",
+        "rating": 4.3,
+        "address": "Along, Gambas Ave, Singapore 756952",
+        "latitude": 1.4343488,
+        "longitude": 103.82246909999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Sembawang Hot Spring",
+        "rating": 4.2,
+        "address": "Singapore",
+        "latitude": 1.4343593,
+        "longitude": 103.8235019
+    },
+    {
+        "category": "shopping malls",
+        "title": "City Square Mall",
+        "rating": 4.3,
+        "address": "180 Kitchener Rd, Singapore 208539",
+        "latitude": 1.3114516,
+        "longitude": 103.8561608
+    },
+    {
+        "category": "shopping malls",
+        "title": "Paragon Shopping Centre",
+        "rating": 4.4,
+        "address": "290 Orchard Rd, Singapore 238859",
+        "latitude": 1.3039633,
+        "longitude": 103.8360565
+    },
+    {
+        "category": "shopping malls",
+        "title": "VivoCity",
+        "rating": 4.5,
+        "address": "1 HarbourFront Walk, Singapore 098585",
+        "latitude": 1.2647138999999998,
+        "longitude": 103.8231658
+    },
+    {
+        "category": "shopping malls",
+        "title": "Plaza Singapura",
+        "rating": 4.4,
+        "address": "68 Orchard Rd, Singapore 238839",
+        "latitude": 1.3000677999999999,
+        "longitude": 103.8447831
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Shoppes at Marina Bay Sands",
+        "rating": 4.5,
+        "address": "10 Bayfront Ave, Singapore 018956",
+        "latitude": 1.2836889,
+        "longitude": 103.85918459999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "IMM Building",
+        "rating": 4.4,
+        "address": "2 Jurong East Street 21, Singapore 609601",
+        "latitude": 1.3359630999999998,
+        "longitude": 103.74703369999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Queensway Shopping Center",
+        "rating": 4.2,
+        "address": "1 Queensway, Shopping Centre, Singapore 149053",
+        "latitude": 1.2875231,
+        "longitude": 103.8031063
+    },
+    {
+        "category": "shopping malls",
+        "title": "Marina Bay Link Mall",
+        "rating": 4.3,
+        "address": "8A Marina Blvd, Singapore 018984",
+        "latitude": 1.2795303,
+        "longitude": 103.85433909999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Anchorpoint",
+        "rating": 3.9,
+        "address": "370 Alexandra Rd, Singapore 159953",
+        "latitude": 1.2887705999999999,
+        "longitude": 103.8050762
+    },
+    {
+        "category": "shopping malls",
+        "title": "Mandarin Gallery",
+        "rating": 4.4,
+        "address": "333A Orchard Rd, Singapore 238897",
+        "latitude": 1.3020878,
+        "longitude": 103.83634029999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Ngee Ann City",
+        "rating": 4.4,
+        "address": "391A Orchard Rd, Singapore 238873",
+        "latitude": 1.3025571999999999,
+        "longitude": 103.83456799999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Orchard Central",
+        "rating": 4.3,
+        "address": "181 Orchard Rd, Singapore 238896",
+        "latitude": 1.3007639,
+        "longitude": 103.8397236
+    },
+    {
+        "category": "shopping malls",
+        "title": "Clarke Quay Central",
+        "rating": 4.3,
+        "address": "6 Eu Tong Sen St, Singapore 059817",
+        "latitude": 1.2890252,
+        "longitude": 103.8466098
+    },
+    {
+        "category": "shopping malls",
+        "title": "Bugis Street",
+        "rating": 4.4,
+        "address": "261 Victoria St, Singapore 189876",
+        "latitude": 1.3001991,
+        "longitude": 103.85520149999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Changi City Point",
+        "rating": 4.3,
+        "address": "5 Changi Business Park Central 1, Singapore 486038",
+        "latitude": 1.3342732,
+        "longitude": 103.96273869999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Clarke Quay",
+        "rating": 4.5,
+        "address": "3 River Valley Rd, Singapore 179024",
+        "latitude": 1.2906024,
+        "longitude": 103.84647419999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Northpoint City",
+        "rating": 4.3,
+        "address": "930 Yishun Ave 2, Singapore 769098",
+        "latitude": 1.4293478,
+        "longitude": 103.8358671
+    },
+    {
+        "category": "shopping malls",
+        "title": "Tanglin Mall",
+        "rating": 4.2,
+        "address": "163 Tanglin Rd, Singapore 247933",
+        "latitude": 1.3048319,
+        "longitude": 103.8234545
+    },
+    {
+        "category": "shopping malls",
+        "title": "NEX",
+        "rating": 4.3,
+        "address": "Serangoon Central, 23, Singapore 556083",
+        "latitude": 1.3507155,
+        "longitude": 103.8720247
+    },
+    {
+        "category": "shopping malls",
+        "title": "Eastpoint Mall",
+        "rating": 4.1,
+        "address": "3 Simei Street 6, Singapore 528833",
+        "latitude": 1.3427145,
+        "longitude": 103.9530415
+    },
+    {
+        "category": "historical sites",
+        "title": "Former House of Tan Teng Niah",
+        "rating": 4.3,
+        "address": "37 Kerbau Rd, Singapore 219168",
+        "latitude": 1.3070541,
+        "longitude": 103.85096019999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Fort Gate",
+        "rating": 4.4,
+        "address": "20 Raffles Avenue, Singapore 039805",
+        "latitude": 1.2949457,
+        "longitude": 103.84592839999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Fort Siloso",
+        "rating": 4.6,
+        "address": "Siloso Rd, Singapore 099981",
+        "latitude": 1.259363,
+        "longitude": 103.8086242
+    },
+    {
+        "category": "historical sites",
+        "title": "Chinatown Heritage Centre",
+        "rating": 4.5,
+        "address": "48 Pagoda St, Singapore 059207",
+        "latitude": 1.2834607,
+        "longitude": 103.844404
+    },
+    {
+        "category": "historical sites",
+        "title": "Indian National Army Historic Marker",
+        "rating": 4.7,
+        "address": "1 Esplanade Dr, Singapore",
+        "latitude": 1.2893846,
+        "longitude": 103.853748
+    },
+    {
+        "category": "historical sites",
+        "title": "Singapore History Consultants",
+        "rating": 4.6,
+        "address": "2 Cox Terrace, Singapore 179622",
+        "latitude": 1.2961635,
+        "longitude": 103.84623549999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Ho Chi Minh Monument",
+        "rating": 4.8,
+        "address": "1 Empress Pl, Singapore 179555",
+        "latitude": 1.286665,
+        "longitude": 103.851862
+    },
+    {
+        "category": "historical sites",
+        "title": "Gothic Gate",
+        "rating": 4.3,
+        "address": "Singapore",
+        "latitude": 1.295957,
+        "longitude": 103.8477095
+    },
+    {
+        "category": "historical sites",
+        "title": "Civil Defence Heritage Gallery",
+        "rating": 4.6,
+        "address": "62 Hill St, Singapore 179367",
+        "latitude": 1.2919146,
+        "longitude": 103.84914599999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Kranji War Memorial",
+        "rating": 4.6,
+        "address": "9 Woodlands Rd, Singapore 738656",
+        "latitude": 1.4183459999999999,
+        "longitude": 103.7581967
+    },
+    {
+        "category": "historical sites",
+        "title": "Fort Canning Park",
+        "rating": 4.6,
+        "address": "Singapore",
+        "latitude": 1.2943875999999999,
+        "longitude": 103.8458033
+    },
+    {
+        "category": "historical sites",
+        "title": "Fort Canning Flagstaff",
+        "rating": 4.3,
+        "address": "River Valley Road, Fort Canning Park, Singapore 179037",
+        "latitude": 1.2918154,
+        "longitude": 103.84762819999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Old Married Soldiers Quarters",
+        "rating": 4.1,
+        "address": "70 River Valley Rd, Singapore 179037",
+        "latitude": 1.2946924,
+        "longitude": 103.84602939999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Statue of Sir Stamford Raffles",
+        "rating": 4.6,
+        "address": "North Bank, Singapore 179555",
+        "latitude": 1.2877220999999999,
+        "longitude": 103.8507546
+    },
+    {
+        "category": "historical sites",
+        "title": "Sri Mariamman Temple",
+        "rating": 4.5,
+        "address": "244 South Bridge Rd, Singapore 058793",
+        "latitude": 1.2826867,
+        "longitude": 103.8451462
+    },
+    {
+        "category": "historical sites",
+        "title": "Sri Veeramakaliamman Temple",
+        "rating": 4.6,
+        "address": "141 Serangoon Rd, Singapore 218042",
+        "latitude": 1.3078878,
+        "longitude": 103.85248
+    },
+    {
+        "category": "historical sites",
+        "title": "Istana Woodneuk",
+        "rating": 4.5,
+        "address": "766 Tyersall Ave, Singapore 257699",
+        "latitude": 1.3087106,
+        "longitude": 103.81225429999999
+    },
+    {
+        "category": "historical sites",
+        "title": "The Arts House at The Old Parliament",
+        "rating": 4.5,
+        "address": "1 Old Parliament Ln, Former Parliament House and Annex Building, Singapore 179429",
+        "latitude": 1.2886111,
+        "longitude": 103.8511111
+    },
+    {
+        "category": "historical sites",
+        "title": "Queen Elizabeth Walk",
+        "rating": 4.7,
+        "address": "Esplanade Dr, Singapore",
+        "latitude": 1.2888144,
+        "longitude": 103.8535311
+    },
+    {
+        "category": "historical sites",
+        "title": "Dalhousie Obelisk",
+        "rating": 4.3,
+        "address": "1 Empress Pl, Singapore 179555",
+        "latitude": 1.28747,
+        "longitude": 103.8522156
+    },
+    {
+        "category": "art galleries",
+        "title": "National Gallery Singapore",
+        "rating": 4.6,
+        "address": "Singapore 178957",
+        "latitude": 1.2902217,
+        "longitude": 103.85151669999999
+    },
+    {
+        "category": "art galleries",
+        "title": "REDSEA Gallery",
+        "rating": 4.5,
+        "address": "Block 9 Dempsey Rd, #01-10, Dempsey Hill, Singapore 247697",
+        "latitude": 1.3036447,
+        "longitude": 103.8098267
+    },
+    {
+        "category": "art galleries",
+        "title": "STPI Creative Workshop and Gallery",
+        "rating": 4.6,
+        "address": "41 Robertson Quay, Singapore 238236",
+        "latitude": 1.2909583,
+        "longitude": 103.8402186
+    },
+    {
+        "category": "art galleries",
+        "title": "The Cathay Gallery",
+        "rating": 3.8,
+        "address": "2 Handy Rd, #02-01, The Cathay, Singapore 229233",
+        "latitude": 1.2992541,
+        "longitude": 103.84768899999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Affordable Art Fair Singapore",
+        "rating": 4.1,
+        "address": "1 Republic Blvd, F1 Pit Building Marina Bay Street Circuit, Singapore 038975",
+        "latitude": 1.2913634,
+        "longitude": 103.8638916
+    },
+    {
+        "category": "art galleries",
+        "title": "ArtScience Museum",
+        "rating": 4.4,
+        "address": "6 Bayfront Ave, Singapore 018974",
+        "latitude": 1.2862738,
+        "longitude": 103.8592663
+    },
+    {
+        "category": "art galleries",
+        "title": "Asian Civilisations Museum",
+        "rating": 4.6,
+        "address": "1 Empress Pl, Singapore 179555",
+        "latitude": 1.2874968999999998,
+        "longitude": 103.8513861
+    },
+    {
+        "category": "art galleries",
+        "title": "Indian Heritage Centre",
+        "rating": 4.5,
+        "address": "5 Campbell Ln, Singapore 209924",
+        "latitude": 1.3056816,
+        "longitude": 103.8522606
+    },
+    {
+        "category": "art galleries",
+        "title": "Singapore Art Museum at Tanjong Pagar Distripark",
+        "rating": 4.4,
+        "address": "39 Keppel Rd, #01-02, Singapore 089065",
+        "latitude": 1.2719532999999998,
+        "longitude": 103.83675199999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Peranakan Museum",
+        "rating": 4.5,
+        "address": "39 Armenian St, Singapore 179941",
+        "latitude": 1.2943669,
+        "longitude": 103.8490391
+    },
+    {
+        "category": "art galleries",
+        "title": "The Private Museum",
+        "rating": 4.6,
+        "address": "11 Upper Wilkie Rd, Singapore 228120",
+        "latitude": 1.3030686999999999,
+        "longitude": 103.84839149999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Singapore Musical Box Museum",
+        "rating": 4.8,
+        "address": "37A Circular Rd, Singapore 049393",
+        "latitude": 1.2865077,
+        "longitude": 103.8492213
+    },
+    {
+        "category": "art galleries",
+        "title": "Children's Museum Singapore",
+        "rating": 4.6,
+        "address": "23-B Coleman St, Singapore 179807",
+        "latitude": 1.2929268999999999,
+        "longitude": 103.8487246
+    },
+    {
+        "category": "art galleries",
+        "title": "Trickeye Singapore",
+        "rating": 4,
+        "address": "80 Siloso Road, Southside, Blk B, #01-04, Singapore 098969",
+        "latitude": 1.258697,
+        "longitude": 103.81193139999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Red Dot Design Museum",
+        "rating": 4.4,
+        "address": "11 Marina Blvd, Red Dot Design, Singapore 018940",
+        "latitude": 1.2801289,
+        "longitude": 103.85621789999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Chinese Heritage Centre",
+        "rating": 4.4,
+        "address": "46 Nanyang Ave, Singapore 639817",
+        "latitude": 1.3438246999999999,
+        "longitude": 103.6840795
+    },
+    {
+        "category": "art galleries",
+        "title": "Lee Kong Chian Natural History Museum, Singapore",
+        "rating": 4.6,
+        "address": "2 Conservatory Dr, Singapore 117377",
+        "latitude": 1.3014156,
+        "longitude": 103.7736549
+    },
+    {
+        "category": "art galleries",
+        "title": "National Museum of Singapore",
+        "rating": 4.6,
+        "address": "93 Stamford Rd, Singapore 178897",
+        "latitude": 1.296613,
+        "longitude": 103.8485091
+    },
+    {
+        "category": "art galleries",
+        "title": "Vintage Camera Museum",
+        "rating": 4.1,
+        "address": "8C Jln Kledek, Singapore 199263",
+        "latitude": 1.3035014,
+        "longitude": 103.8590172
+    },
+    {
+        "category": "art galleries",
+        "title": "Changi Chapel & Museum",
+        "rating": 4.4,
+        "address": "1000 Upper Changi Rd N, Singapore 507707",
+        "latitude": 1.362212,
+        "longitude": 103.974025
+    },
+    {
+        "category": "theaters",
+        "title": "Golden Village City Square",
+        "rating": 4.4,
+        "address": "180 Kitchener Rd, #05 - 02 / 03, City Square, Singapore 208539",
+        "latitude": 1.3115828,
+        "longitude": 103.85669349999999
+    },
+    {
+        "category": "theaters",
+        "title": "Carnival Cinemas Singapore",
+        "rating": 4.1,
+        "address": "Beach Rd, #03/00, GOLDEN MILE TOWER, Singapore 199589",
+        "latitude": 1.3019182999999999,
+        "longitude": 103.86413239999999
+    },
+    {
+        "category": "theaters",
+        "title": "Golden Village",
+        "rating": 4.2,
+        "address": "1 Kim Seng Promenade, #03-125, Singapore 237994",
+        "latitude": 1.2937018,
+        "longitude": 103.83183439999999
+    },
+    {
+        "category": "theaters",
+        "title": "Golden Village",
+        "rating": 4.4,
+        "address": "3 Temasek Blvd, #03-373, Singapore 038983",
+        "latitude": 1.2947629,
+        "longitude": 103.8602291
+    },
+    {
+        "category": "theaters",
+        "title": "Golden Village Plaza",
+        "rating": 4.3,
+        "address": "68 Orchard Rd, #07-01, Singapore 238839",
+        "latitude": 1.3006954,
+        "longitude": 103.84474999999999
+    },
+    {
+        "category": "theaters",
+        "title": "Golden Village Paya Lebar",
+        "rating": 4.3,
+        "address": "10 Eunos Rd 8, #03-107, SingPost Centre, Singapore 408600",
+        "latitude": 1.3186234,
+        "longitude": 103.89400049999999
+    },
+    {
+        "category": "theaters",
+        "title": "Golden Village VivoCity",
+        "rating": 4.4,
+        "address": "1 HarbourFront Walk, #02-30, VivoCity, Singapore 098585",
+        "latitude": 1.2647884,
+        "longitude": 103.82289399999999
+    },
+    {
+        "category": "theaters",
+        "title": "Golden Village",
+        "rating": 4.2,
+        "address": "1 Jurong West Central 1, #03 - 26, 26A, Singapore 648886",
+        "latitude": 1.3400295,
+        "longitude": 103.7064166
+    },
+    {
+        "category": "theaters",
+        "title": "CozyPlace @ Jalan Besar",
+        "rating": 4.9,
+        "address": "316 Jln Besar, #03-01, Singapore 208974",
+        "latitude": 1.311582,
+        "longitude": 103.8596034
+    },
+    {
+        "category": "theaters",
+        "title": "Golden Village Tiong Bahru",
+        "rating": 4.2,
+        "address": "302 Tiong Bahru Rd, #04 - 105, Singapore 168732",
+        "latitude": 1.286355,
+        "longitude": 103.82686849999999
+    },
+    {
+        "category": "theaters",
+        "title": "Shaw Theatres Paya Lebar Quarter",
+        "rating": 4.5,
+        "address": "10 Paya Lebar Rd, #05-02, PLQ Mall, Singapore 409057",
+        "latitude": 1.3173198,
+        "longitude": 103.89244199999999
+    },
+    {
+        "category": "theaters",
+        "title": "Golden Theatre",
+        "rating": 4.4,
+        "address": "5002 Beach Rd, Singapore 199589",
+        "latitude": 1.3019186999999999,
+        "longitude": 103.8637979
+    },
+    {
+        "category": "theaters",
+        "title": "Golden Village Tampines",
+        "rating": 4.2,
+        "address": "4 Tampines Central 4, #04-17/18, Tampines Mall Shopping Centre, Singapore 529510",
+        "latitude": 1.3522477,
+        "longitude": 103.94442869999999
+    },
+    {
+        "category": "theaters",
+        "title": "Golden Village Yishun",
+        "rating": 4.2,
+        "address": "51 Yishun Central 1, Singapore 768794",
+        "latitude": 1.4298643,
+        "longitude": 103.83647429999999
+    },
+    {
+        "category": "theaters",
+        "title": "Golden Village Katong",
+        "rating": 4.4,
+        "address": "112, 05-01 E Coast Rd, Katong 112, Singapore 428802",
+        "latitude": 1.305324,
+        "longitude": 103.9050111
+    },
+    {
+        "category": "theaters",
+        "title": "Cathay Cineplex Causeway Point",
+        "rating": 4.2,
+        "address": "1 Woodlands Square, Level 7, CATHAY CINEPLEX CAUSEWAY POINT, Singapore 738099",
+        "latitude": 1.4361682,
+        "longitude": 103.7856245
+    },
+    {
+        "category": "theaters",
+        "title": "Sands Theatre",
+        "rating": 4.5,
+        "address": "10 Bayfront Ave, B1-69/70, The Shoppes, Marina bay sands, Singapore 018971",
+        "latitude": 1.2854511,
+        "longitude": 103.8597625
+    },
+    {
+        "category": "theaters",
+        "title": "CozyPlace @ Bencoolen",
+        "rating": 4.8,
+        "address": "171C Bencoolen St, #03-01, Singapore 189641",
+        "latitude": 1.3015482999999999,
+        "longitude": 103.8522673
+    },
+    {
+        "category": "theaters",
+        "title": "Esplanade - Theatres on the Bay, Singapore",
+        "rating": 4.6,
+        "address": "1 Esplanade Dr, Singapore 038981",
+        "latitude": 1.2897934,
+        "longitude": 103.8558166
+    },
+    {
+        "category": "theaters",
+        "title": "Cathay Cineplexes",
+        "rating": 4.3,
+        "address": "53 Ang Mo Kio Ave 3, Level 4, Singapore 569933",
+        "latitude": 1.3696302,
+        "longitude": 103.8482042
+    },
+    {
+        "category": "souvenir counters",
+        "title": "SG LOVE GIFTS (54 Pagoda Street)",
+        "rating": 4.9,
+        "address": "54 Pagoda St, Singapore 059219",
+        "latitude": 1.2836022,
+        "longitude": 103.8442113
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Bugis Souvenir Shop",
+        "rating": 4.5,
+        "address": "Singapore",
+        "latitude": 1.3005183,
+        "longitude": 103.85513069999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Joe Souvenir Shop",
+        "rating": 3.8,
+        "address": "7 Keppel Rd, #01-27, Singapore 089053",
+        "latitude": 1.2716717,
+        "longitude": 103.84274289999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Wheniwasfour",
+        "rating": 4.8,
+        "address": "231 Bain St, #04-41, Singapore 180231",
+        "latitude": 1.2968471,
+        "longitude": 103.85352809999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Singapore Souvenir Centre",
+        "rating": 3.9,
+        "address": "52 Queen St, Singapore 188539",
+        "latitude": 1.3003425,
+        "longitude": 103.8544003
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Raffles Boutique",
+        "rating": 4.5,
+        "address": "1 Seah St, Singapore 189673",
+        "latitude": 1.2958896,
+        "longitude": 103.8542895
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gift Master",
+        "rating": 4.6,
+        "address": "70 Pagoda St, Singapore 059229",
+        "latitude": 1.2838102,
+        "longitude": 103.84390529999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Ho Souvenirs and Gifts",
+        "rating": 4.8,
+        "address": "304 Orchard Rd, #01-83, Lucky Plaza, Singapore 238863",
+        "latitude": 1.3041842,
+        "longitude": 103.83439249999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "The Gift Shop",
+        "rating": 4.6,
+        "address": "218 Serangoon Rd, Singapore 218077",
+        "latitude": 1.3092119,
+        "longitude": 103.85375719999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Shwe Store (Singapore Souvenirs)",
+        "rating": 5,
+        "address": "60 Albert St, Singapore 189969",
+        "latitude": 1.3015624,
+        "longitude": 103.8542667
+    },
+    {
+        "category": "souvenir counters",
+        "title": "The gift shop",
+        "rating": 4.1,
+        "address": "29 Trengganu St, Singapore 058478",
+        "latitude": 1.282603,
+        "longitude": 103.8439405
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gift by Changi Airport",
+        "rating": 4.9,
+        "address": "78 Airport Blvd., #04 - 233, Singapore 819666",
+        "latitude": 1.3604452,
+        "longitude": 103.98934129999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Lion City Gift",
+        "rating": 5,
+        "address": "60 Pagoda St, Singapore 059219",
+        "latitude": 1.2836714999999999,
+        "longitude": 103.8441057
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Lucky Gift House",
+        "rating": 4.5,
+        "address": "304 Orchard Rd, B1-59, Lucky Plaza, Singapore 238863",
+        "latitude": 1.3045795,
+        "longitude": 103.8340621
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hock Gift Shop",
+        "rating": 4.3,
+        "address": "61 Kaki Bukit Avenue 1, #02-19 Shun Li Industrial Park, Singapore 417943",
+        "latitude": 1.3367337,
+        "longitude": 103.91074619999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "I Love Singapore (SG gift & Souvenirs Shop)",
+        "rating": 4,
+        "address": "181 New Bridge Rd, Singapore 059418",
+        "latitude": 1.2846127999999999,
+        "longitude": 103.8440059
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Corporate Gifts Singapore",
+        "rating": 3,
+        "address": "111 N Bridge Rd, Singapore 179098",
+        "latitude": 1.2923113,
+        "longitude": 103.8508075
+    },
+    {
+        "category": "souvenir counters",
+        "title": "St Ming Souvenir Store",
+        "rating": 3.7,
+        "address": "150 Orchard Road, #02-38 Orchard Plaza, Singapore 238841",
+        "latitude": 1.3006685,
+        "longitude": 103.84145319999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Independent Market",
+        "rating": 3.8,
+        "address": "211 Holland Avenue, Holland Rd, #03-01, Shopping Centre, Singapore 278967",
+        "latitude": 1.3104601,
+        "longitude": 103.7953936
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Eileen Town Gift Shop",
+        "rating": 4.9,
+        "address": "91 Bencoolen St, #01-42, Sunshine Plaza, Singapore 189652",
+        "latitude": 1.3003395,
+        "longitude": 103.8508688
+    }
+]

@@ -1,0 +1,3394 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Kinkaku-ji",
+        "rating": 4.5,
+        "address": "1 Kinkakujicho, Kita Ward, Kyoto, 603-8361, Japan",
+        "latitude": 35.03937,
+        "longitude": 135.7292431
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Fushimi Inari Taisha",
+        "rating": 4.6,
+        "address": "68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882, Japan",
+        "latitude": 34.9676945,
+        "longitude": 135.7791876
+    },
+    {
+        "category": "tourist attractions",
+        "title": "SAMURAI NINJA MUSEUM Kyoto",
+        "rating": 4.8,
+        "address": "109 Horinouecho, Nakagyo Ward, Kyoto, 604-8117, Japan",
+        "latitude": 35.0072167,
+        "longitude": 135.7635673
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Nijō Castle",
+        "rating": 4.4,
+        "address": "541 Nijojocho, Nakagyo Ward, Kyoto, 604-8301, Japan",
+        "latitude": 35.0140379,
+        "longitude": 135.7484258
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Nidec Kyoto Tower",
+        "rating": 4.2,
+        "address": "ニデック京都タワー 展望室 ３階, 721-1 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+        "latitude": 34.987520499999995,
+        "longitude": 135.7592518
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Otowa-no-taki Falls",
+        "rating": 4.3,
+        "address": "1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+        "latitude": 34.9944261,
+        "longitude": 135.7852489
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Kiyomizu-dera",
+        "rating": 4.5,
+        "address": "1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+        "latitude": 34.9946662,
+        "longitude": 135.784661
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ryōan-ji",
+        "rating": 4.5,
+        "address": "13 Ryoanji Goryonoshitacho, Ukyo Ward, Kyoto, 616-8001, Japan",
+        "latitude": 35.0344943,
+        "longitude": 135.71826339999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Arashiyama",
+        "rating": 4.5,
+        "address": "Ukyo Ward, Kyoto, Japan",
+        "latitude": 35.009449,
+        "longitude": 135.666773
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Yasaka Shrine",
+        "rating": 4.4,
+        "address": "625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073, Japan",
+        "latitude": 35.0036559,
+        "longitude": 135.7785534
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Arashiyama Bamboo Forest",
+        "rating": 4.4,
+        "address": "Sagaogurayama Tabuchiyamacho, Ukyo Ward, Kyoto, 616-8394, Japan",
+        "latitude": 35.0168187,
+        "longitude": 135.67130129999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ginkaku-ji",
+        "rating": 4.5,
+        "address": "2 Ginkakujicho, Sakyo Ward, Kyoto, 606-8402, Japan",
+        "latitude": 35.0270213,
+        "longitude": 135.7982058
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Shirakawa Canal",
+        "rating": 4.7,
+        "address": "白川筋, Motoyoshicho, Higashiyama Ward, Kyoto, 605-0087, Japan",
+        "latitude": 35.0054778,
+        "longitude": 135.7736473
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Kyoto Downtown Intersection (Shijo-Kawaramachi)",
+        "rating": 4.6,
+        "address": "Shijo-dori, Shincho, Shimogyo Ward, Kyoto, 600-8001, Japan",
+        "latitude": 35.0037958,
+        "longitude": 135.7693147
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Kyoto Gyoen National Garden",
+        "rating": 4.5,
+        "address": "3 Kyotogyoen, Kamigyo Ward, Kyoto, 602-0881, Japan",
+        "latitude": 35.0230617,
+        "longitude": 135.7634452
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Arashiyama Monkey Park Iwatayama",
+        "rating": 4.5,
+        "address": "６１ Arashiyama Nakaoshitacho, Nishikyo Ward, Kyoto, 616-0004, Japan",
+        "latitude": 35.011395,
+        "longitude": 135.6766245
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Kiyamachi Dori",
+        "rating": 4.4,
+        "address": "Nakagyo Ward, Kyoto, 604-8016, Japan",
+        "latitude": 35.0057719,
+        "longitude": 135.77053759999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Nishiki Market",
+        "rating": 4.3,
+        "address": "Nakagyo Ward, Kyoto, 604-8055, Japan",
+        "latitude": 35.0050258,
+        "longitude": 135.764723
+    },
+    {
+        "category": "tourist attractions",
+        "title": "God water (Rikisui) \"The Seven Wonders of Yasaka Shrine\"",
+        "rating": 4.5,
+        "address": "Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073, Japan",
+        "latitude": 35.0034444,
+        "longitude": 135.7790083
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ninenzaka",
+        "rating": 4.5,
+        "address": "清水-2丁目-363-12 Masuyacho, Higashiyama Ward, Kyoto, 605-0826, Japan",
+        "latitude": 34.998174399999996,
+        "longitude": 135.7808578
+    },
+    {
+        "category": "parks",
+        "title": "Kyoto Gyoen National Garden",
+        "rating": 4.5,
+        "address": "3 Kyotogyoen, Kamigyo Ward, Kyoto, 602-0881, Japan",
+        "latitude": 35.0230617,
+        "longitude": 135.7634452
+    },
+    {
+        "category": "parks",
+        "title": "Arashiyama Park Nakanoshima Area",
+        "rating": 4.4,
+        "address": "Saganakanoshimacho, Ukyo Ward, Kyoto, 616-8383, Japan",
+        "latitude": 35.012068299999996,
+        "longitude": 135.6785401
+    },
+    {
+        "category": "parks",
+        "title": "Umekōji Park",
+        "rating": 4.2,
+        "address": "56-3 Kankijicho, Shimogyo Ward, Kyoto, 600-8836, Japan",
+        "latitude": 34.9863414,
+        "longitude": 135.74635179999999
+    },
+    {
+        "category": "parks",
+        "title": "Maruyama Park",
+        "rating": 4.3,
+        "address": "Maruyamacho, Higashiyama Ward, Kyoto, 605-0071, Japan",
+        "latitude": 35.0035587,
+        "longitude": 135.78052689999998
+    },
+    {
+        "category": "parks",
+        "title": "Kamogawa Park",
+        "rating": 4.4,
+        "address": "Izumojimatsunoshitacho, Kita Ward, Kyoto, 603-8133, Japan",
+        "latitude": 35.0408244,
+        "longitude": 135.7641119
+    },
+    {
+        "category": "parks",
+        "title": "Kodaiji Park",
+        "rating": 4.3,
+        "address": "463-28 Shimokawaracho, Higashiyama Ward, Kyoto, 605-0825, Japan",
+        "latitude": 35.0001481,
+        "longitude": 135.78008739999999
+    },
+    {
+        "category": "parks",
+        "title": "Misayama Park",
+        "rating": 3.9,
+        "address": "282 Misayamacho, Nakagyo Ward, Kyoto, 604-8147, Japan",
+        "latitude": 35.006343699999995,
+        "longitude": 135.76139129999999
+    },
+    {
+        "category": "parks",
+        "title": "Funaokayama Park",
+        "rating": 4,
+        "address": "42 Murasakino Kitafunaokacho, Kita Ward, Kyoto, 603-8227, Japan",
+        "latitude": 35.0391759,
+        "longitude": 135.7425547
+    },
+    {
+        "category": "parks",
+        "title": "Pontocho Park",
+        "rating": 4.3,
+        "address": "先斗町通, １４５, Umenokicho, Nakagyo Ward, Kyoto, 604-8012, Japan",
+        "latitude": 35.006427699999996,
+        "longitude": 135.7712162
+    },
+    {
+        "category": "parks",
+        "title": "Arashiyama Park Kameyama Area",
+        "rating": 4.5,
+        "address": "６ Sagakamenoocho, Ukyo Ward, Kyoto, 616-8386, Japan",
+        "latitude": 35.0151776,
+        "longitude": 135.6713285
+    },
+    {
+        "category": "parks",
+        "title": "Nagura Park",
+        "rating": 4.1,
+        "address": "５-5 Nishishichijo Yawatacho, Shimogyo Ward, Kyoto, 600-8888, Japan",
+        "latitude": 34.993632399999996,
+        "longitude": 135.7291716
+    },
+    {
+        "category": "parks",
+        "title": "North Garden",
+        "rating": 4.1,
+        "address": "72-6 Iwakuraminami Osagicho, Sakyo Ward, Kyoto, 606-0001, Japan",
+        "latitude": 35.0606191,
+        "longitude": 135.7859643
+    },
+    {
+        "category": "parks",
+        "title": "Okazaki Park",
+        "rating": 4.2,
+        "address": "他 Okazaki Saishojicho, Sakyo Ward, Kyoto, 606-8342, Japan",
+        "latitude": 35.0143945,
+        "longitude": 135.7825372
+    },
+    {
+        "category": "parks",
+        "title": "Kyoto Botanic Garden",
+        "rating": 4.4,
+        "address": "Shimogamo Hangicho, Sakyo Ward, Kyoto, 606-0823, Japan",
+        "latitude": 35.048617199999995,
+        "longitude": 135.7630378
+    },
+    {
+        "category": "parks",
+        "title": "Nijō Park",
+        "rating": 4.1,
+        "address": "９１０−４０−９６４, ９１０-40-964 Shuzeicho, Kamigyo Ward, Kyoto, 602-8155, Japan",
+        "latitude": 35.0166386,
+        "longitude": 135.7459992
+    },
+    {
+        "category": "parks",
+        "title": "Arashiyama Monkey Park Iwatayama",
+        "rating": 4.5,
+        "address": "６１ Arashiyama Nakaoshitacho, Nishikyo Ward, Kyoto, 616-0004, Japan",
+        "latitude": 35.011395,
+        "longitude": 135.6766245
+    },
+    {
+        "category": "parks",
+        "title": "Takaragaike Park",
+        "rating": 4.2,
+        "address": "8他 Kamitakano Nagaredacho, Sakyo Ward, Kyoto, 606-0938, Japan",
+        "latitude": 35.0566101,
+        "longitude": 135.7843869
+    },
+    {
+        "category": "parks",
+        "title": "Uji Park",
+        "rating": 4.3,
+        "address": "Uji, Kyoto 611-0021, Japan",
+        "latitude": 34.8892094,
+        "longitude": 135.80947129999998
+    },
+    {
+        "category": "parks",
+        "title": "Shinkyōgoku Park",
+        "rating": 3.6,
+        "address": "538 Nakanocho, Nakagyo Ward, Kyoto, 604-8042, Japan",
+        "latitude": 35.0049711,
+        "longitude": 135.7676908
+    },
+    {
+        "category": "parks",
+        "title": "Toei Kyoto Studio Park",
+        "rating": 4,
+        "address": "10 Uzumasa Higashihachiokacho, Ukyo Ward, Kyoto, 616-8586, Japan",
+        "latitude": 35.016452099999995,
+        "longitude": 135.7080227
+    },
+    {
+        "category": "restaurants",
+        "title": "Kobe Beef Steak Mouriya Gion",
+        "rating": 4.8,
+        "address": "祇園モーリヤビル 1F, 7-1 Yamatocho, Higashiyama Ward, Kyoto, 605-0802, Japan",
+        "latitude": 35.0033503,
+        "longitude": 135.7727499
+    },
+    {
+        "category": "restaurants",
+        "title": "GYUKATSU Kyoto Katsugyu Teramachi Kyogoku",
+        "rating": 4.8,
+        "address": "529-2 Higashigawacho, Nakagyo Ward, Kyoto, 604-8046, Japan",
+        "latitude": 35.0054316,
+        "longitude": 135.7669232
+    },
+    {
+        "category": "restaurants",
+        "title": "Katsukura Tonkatsu Sanjo Main Store",
+        "rating": 4.5,
+        "address": "Japan, 〒604-8036 Kyoto, Nakagyo Ward, Ishibashicho, 16, 三条通寺町東入ル",
+        "latitude": 35.0088672,
+        "longitude": 135.7677105
+    },
+    {
+        "category": "restaurants",
+        "title": "Arash's Kitchen",
+        "rating": 4.6,
+        "address": "サンプラザ ２Ｆ, 16-4 Shogoin Sannocho, Sakyo Ward, Kyoto, 606-8392, Japan",
+        "latitude": 35.0176967,
+        "longitude": 135.7787966
+    },
+    {
+        "category": "restaurants",
+        "title": "Teppan Tavern Tenamonya",
+        "rating": 4.8,
+        "address": "B1F, 537-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074, Japan",
+        "latitude": 35.002978999999996,
+        "longitude": 135.7772848
+    },
+    {
+        "category": "restaurants",
+        "title": "Honolu Grande Kyoto Halal Restaurant",
+        "rating": 4.7,
+        "address": "118-3 Saitocho, Shimogyo Ward, Kyoto, 600-8012, Japan",
+        "latitude": 35.003380799999995,
+        "longitude": 135.7708245
+    },
+    {
+        "category": "restaurants",
+        "title": "Kyoto Dining",
+        "rating": 4.9,
+        "address": "32 Kinugasa Goshonouchicho, Kita Ward, Kyoto, 603-8378, Japan",
+        "latitude": 35.040087299999996,
+        "longitude": 135.7339442
+    },
+    {
+        "category": "restaurants",
+        "title": "KYOTO ENGINE RAMEN",
+        "rating": 4.5,
+        "address": "580-2 Nakanocho, Nakagyo Ward, Kyoto, 604-8042, Japan",
+        "latitude": 35.0045147,
+        "longitude": 135.767484
+    },
+    {
+        "category": "restaurants",
+        "title": "Kakyo",
+        "rating": 4.9,
+        "address": "Schilf神宮道 1F, 203 Nakanocho, Higashiyama Ward, Kyoto, 605-0034, Japan",
+        "latitude": 35.0093348,
+        "longitude": 135.7845364
+    },
+    {
+        "category": "restaurants",
+        "title": "Wagyu Volcano OAGARI, Gion",
+        "rating": 4.4,
+        "address": "サンシステム祇園ソーシャルビル 1階, 347-9 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073, Japan",
+        "latitude": 35.0049747,
+        "longitude": 135.7767965
+    },
+    {
+        "category": "restaurants",
+        "title": "Kyōto Hyōto Kyōto Ekimae Honten",
+        "rating": 4.7,
+        "address": "607-12 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+        "latitude": 34.988560299999996,
+        "longitude": 135.755304
+    },
+    {
+        "category": "restaurants",
+        "title": "A5 Wagyu Sukiyaki Kyoto Panga | Kyoto Halal restaurant",
+        "rating": 4.9,
+        "address": "ユニティー河原町ビル B1F, 410 Shimomaruyacho, Nakagyo Ward, Kyoto, 604-8006, Japan",
+        "latitude": 35.0097812,
+        "longitude": 135.76874139999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Itoh Dining",
+        "rating": 4.5,
+        "address": "80 Sueyoshicho, Higashiyama Ward, Kyoto, 605-0085, Japan",
+        "latitude": 35.0053814,
+        "longitude": 135.7739363
+    },
+    {
+        "category": "restaurants",
+        "title": "Kikunoi Roan",
+        "rating": 4.3,
+        "address": "Japan, 〒600-8012 Kyoto, Shimogyo Ward, 四条下る斎藤町118",
+        "latitude": 35.0034513,
+        "longitude": 135.7706684
+    },
+    {
+        "category": "restaurants",
+        "title": "Shaved Ice and Smoked Beef Sushi Entotsu Kyoto",
+        "rating": 4.9,
+        "address": "Japan, 〒604-8042 Kyoto, Nakagyo Ward, Nakanocho, 565番地23, ハレの日 花遊小路2階D",
+        "latitude": 35.004148,
+        "longitude": 135.76788969999998
+    },
+    {
+        "category": "restaurants",
+        "title": "New Delhi Indian Restaurant",
+        "rating": 4.8,
+        "address": "寿苑ビル 1F, 491 Nakatsukasacho, Kamigyo Ward, Kyoto, 602-8158, Japan",
+        "latitude": 35.0180587,
+        "longitude": 135.7434736
+    },
+    {
+        "category": "restaurants",
+        "title": "Tempura Sushi Seafood Komefuku Shijo Karasuma Main Branch",
+        "rating": 4.4,
+        "address": "1階, 658 Bantoyacho, Nakagyo Ward, Kyoto, 604-8143, Japan",
+        "latitude": 35.0046824,
+        "longitude": 135.7608648
+    },
+    {
+        "category": "restaurants",
+        "title": "SALMAN & SOHEL HALAL KITCHEN",
+        "rating": 4.8,
+        "address": "88-3 Miyagakicho, Kamigyo Ward, Kyoto, 602-0853, Japan",
+        "latitude": 35.0215714,
+        "longitude": 135.76957199999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Kikyo Sushi",
+        "rating": 4.7,
+        "address": "43 Daimonjicho, Nakagyo Ward, Kyoto, 604-0071, Japan",
+        "latitude": 35.017101,
+        "longitude": 135.7533528
+    },
+    {
+        "category": "restaurants",
+        "title": "MABRUR HALAL DINING Kyoto",
+        "rating": 4.9,
+        "address": "御所飴ビル 2階, 98 Nakajimacho, Nakagyo Ward, Kyoto, 604-8004, Japan",
+        "latitude": 35.0091523,
+        "longitude": 135.77068789999998
+    },
+    {
+        "category": "cafes",
+        "title": "Okaffe Kyoto",
+        "rating": 4.5,
+        "address": "235-2 Shinmeicho, Shimogyo Ward, Kyoto, 600-8092, Japan",
+        "latitude": 35.0023024,
+        "longitude": 135.7621503
+    },
+    {
+        "category": "cafes",
+        "title": "Walden Woods Kyoto",
+        "rating": 4.4,
+        "address": "508-1 Sakaecho, Shimogyo Ward, Kyoto, 600-8194, Japan",
+        "latitude": 34.9933458,
+        "longitude": 135.7631616
+    },
+    {
+        "category": "cafes",
+        "title": "Goodman Roaster Kyoto",
+        "rating": 4.8,
+        "address": "ベアフルートイイノ 一階, 115-2 Yadacho, Shimogyo Ward, Kyoto, 600-8442, Japan",
+        "latitude": 35.0023772,
+        "longitude": 135.755671
+    },
+    {
+        "category": "cafes",
+        "title": "Kurasu Kyoto Stand",
+        "rating": 4.7,
+        "address": "552 Higashiaburanokojicho, Shimogyo Ward, Kyoto, 600-8235, Japan",
+        "latitude": 34.9863776,
+        "longitude": 135.7538511
+    },
+    {
+        "category": "cafes",
+        "title": "WEEKENDERS COFFEE TOMINOKOJI",
+        "rating": 4.5,
+        "address": "Japan, 〒604-8064 Kyoto, Nakagyo Ward, Honeyanocho, 560, 離れ",
+        "latitude": 35.0067836,
+        "longitude": 135.7644831
+    },
+    {
+        "category": "cafes",
+        "title": "Blue Bottle Coffee - Kyoto Cafe",
+        "rating": 4.4,
+        "address": "64 Nanzenji Kusakawacho, Sakyo Ward, Kyoto, 606-8437, Japan",
+        "latitude": 35.0113797,
+        "longitude": 135.7894944
+    },
+    {
+        "category": "cafes",
+        "title": "Söt Coffee Kyoto Shichijo",
+        "rating": 4.8,
+        "address": "5 Chome-148-2 Honmachishin, Higashiyama Ward, Kyoto, 605-0989, Japan",
+        "latitude": 34.9916962,
+        "longitude": 135.7695191
+    },
+    {
+        "category": "cafes",
+        "title": "Vermillion Cafe",
+        "rating": 4.5,
+        "address": "5-31 Fukakusa Kaidoguchicho, Fushimi Ward, Kyoto, 612-0805, Japan",
+        "latitude": 34.9684193,
+        "longitude": 135.7741523
+    },
+    {
+        "category": "cafes",
+        "title": "Smart Coffee",
+        "rating": 4.3,
+        "address": "537 Tenshojimaecho, Nakagyo Ward, Kyoto, 604-8081, Japan",
+        "latitude": 35.0094531,
+        "longitude": 135.7670815
+    },
+    {
+        "category": "cafes",
+        "title": "2050 COFFEE",
+        "rating": 4.8,
+        "address": "402 Sakuranocho, Nakagyo Ward, Kyoto, 604-8035, Japan",
+        "latitude": 35.0083082,
+        "longitude": 135.7673402
+    },
+    {
+        "category": "cafes",
+        "title": "Mar Cafe",
+        "rating": 4.5,
+        "address": "京栄中央ビル 8F, 762 Nishihashizumecho, Shimogyo Ward, Kyoto, 600-8029, Japan",
+        "latitude": 34.997018,
+        "longitude": 135.7671782
+    },
+    {
+        "category": "cafes",
+        "title": "IMAYA Kyoto &COFFEE",
+        "rating": 4.9,
+        "address": "726-4 Shimomatsuyacho, Nakagyo Ward, Kyoto, 604-0034, Japan",
+        "latitude": 35.0114868,
+        "longitude": 135.7558071
+    },
+    {
+        "category": "cafes",
+        "title": "here Kyoto",
+        "rating": 4.1,
+        "address": "524 Anenishinotoincho, Nakagyo Ward, Kyoto, 604-8273, Japan",
+        "latitude": 35.0092212,
+        "longitude": 135.7552203
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Seberg",
+        "rating": 4.9,
+        "address": "Ｒｏｏｔｓ神泉苑 1F, ２０-12 Nishinokyo Ikenouchicho, Nakagyo Ward, Kyoto, 604-8375, Japan",
+        "latitude": 35.010580399999995,
+        "longitude": 135.7452374
+    },
+    {
+        "category": "cafes",
+        "title": "SCHOOL BUS COFFEE STOP KYOTO",
+        "rating": 4.3,
+        "address": "244 Daimonjicho, Nakagyo Ward, Kyoto, 604-0907, Japan",
+        "latitude": 35.0156273,
+        "longitude": 135.7690716
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee Base Kanondo",
+        "rating": 4.5,
+        "address": "みやこビル 3F, 466 Kannondocho, Nakagyo Ward, Kyoto, 604-8222, Japan",
+        "latitude": 35.0042007,
+        "longitude": 135.7575206
+    },
+    {
+        "category": "cafes",
+        "title": "master-piece coffee KYOTO",
+        "rating": 4.6,
+        "address": "26 Nakanocho, Nakagyo Ward, Kyoto, 604-8083, Japan",
+        "latitude": 35.008688299999996,
+        "longitude": 135.76515469999998
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Phalam",
+        "rating": 4.4,
+        "address": "24 Nishinokyo Hokuseicho, Nakagyo Ward, Kyoto, 604-8382, Japan",
+        "latitude": 35.011609199999995,
+        "longitude": 135.7428144
+    },
+    {
+        "category": "cafes",
+        "title": "Green Door",
+        "rating": 4.8,
+        "address": "448 Hachikencho, Higashiyama Ward, Kyoto, 605-0027, Japan",
+        "latitude": 35.009056,
+        "longitude": 135.779313
+    },
+    {
+        "category": "cafes",
+        "title": "Blue Bottle Coffee - Kyoto Kiyamachi Cafe",
+        "rating": 4.5,
+        "address": "Japan, 〒604-8023 Kyoto, Nakagyo Ward, Bizenjimacho, 310-2, 立誠ガーデン ヒューリック京都 1F",
+        "latitude": 35.005828199999996,
+        "longitude": 135.7704014
+    },
+    {
+        "category": "mountains",
+        "title": "Mount Atago",
+        "rating": 4.4,
+        "address": "Sagaatagocho, Ukyo Ward, Kyoto, 616-8458, Japan",
+        "latitude": 35.061551,
+        "longitude": 135.6323286
+    },
+    {
+        "category": "mountains",
+        "title": "Mount Hiei",
+        "rating": 4.4,
+        "address": "Ichijoji Idegadanichosenguchi, Sakyo Ward, Kyoto, 606-0000, Japan",
+        "latitude": 35.0622477,
+        "longitude": 135.8315317
+    },
+    {
+        "category": "mountains",
+        "title": "Mount Kurama",
+        "rating": 4.7,
+        "address": "Kuramahonmachi, Sakyo Ward, Kyoto, 601-1111, Japan",
+        "latitude": 35.123872,
+        "longitude": 135.7715748
+    },
+    {
+        "category": "mountains",
+        "title": "Arashiyama",
+        "rating": 4.4,
+        "address": "Arashiyama Genrokuzancho, Nishikyo Ward, Kyoto, 616-0007, Japan",
+        "latitude": 35.0095848,
+        "longitude": 135.66634009999999
+    },
+    {
+        "category": "mountains",
+        "title": "Inariyama",
+        "rating": 4.6,
+        "address": "Inariyamakanyuchi, Fushimi Ward, Kyoto, 612-0804, Japan",
+        "latitude": 34.967105,
+        "longitude": 135.7849262
+    },
+    {
+        "category": "mountains",
+        "title": "Mount Daimonji",
+        "rating": 4.6,
+        "address": "Japan, 〒606-8442 Kyoto, Sakyo Ward, Shishigatani Daikokudanicho, 大文字山",
+        "latitude": 35.0196263,
+        "longitude": 135.81169219999998
+    },
+    {
+        "category": "mountains",
+        "title": "Nyoigatake",
+        "rating": 4.5,
+        "address": "Shishigatani Shobudanicho, Sakyo Ward, Kyoto, 606-0000, Japan",
+        "latitude": 35.016667,
+        "longitude": 135.816667
+    },
+    {
+        "category": "mountains",
+        "title": "Daimonjiyama",
+        "rating": 4.5,
+        "address": "Shishigatani Daikokudanicho, Sakyo Ward, Kyoto, 606-8442, Japan",
+        "latitude": 35.0196263,
+        "longitude": 135.81169219999998
+    },
+    {
+        "category": "mountains",
+        "title": "Yokotakayama",
+        "rating": 3.4,
+        "address": "Yasehanajiricho, Sakyo Ward, Kyoto, 601-1251, Japan",
+        "latitude": 35.0912374,
+        "longitude": 135.8350944
+    },
+    {
+        "category": "mountains",
+        "title": "Mt. Higashiyama",
+        "rating": null,
+        "address": "Matsugasaki Kyogatani, Sakyo Ward, Kyoto, 606-0000, Japan",
+        "latitude": 35.0556073,
+        "longitude": 135.7869063
+    },
+    {
+        "category": "mountains",
+        "title": "Mt. Horai",
+        "rating": 4.4,
+        "address": "Katsuragawakidoguchicho, Otsu, Shiga 520-0477, Japan",
+        "latitude": 35.2095492,
+        "longitude": 135.8857722
+    },
+    {
+        "category": "mountains",
+        "title": "Mt. Minako",
+        "rating": 3.9,
+        "address": "Oharaogosecho, Sakyo Ward, Kyoto, 601-1231, Japan",
+        "latitude": 35.202480699999995,
+        "longitude": 135.8351915
+    },
+    {
+        "category": "mountains",
+        "title": "Shimizuyama",
+        "rating": 3.3,
+        "address": "Seikanji Kiyomizukamiyamacho, Higashiyama Ward, Kyoto, 605-0000, Japan",
+        "latitude": 34.993141099999995,
+        "longitude": 135.78860179999998
+    },
+    {
+        "category": "mountains",
+        "title": "Arashiyama",
+        "rating": 4.5,
+        "address": "Ukyo Ward, Kyoto, Japan",
+        "latitude": 35.009449,
+        "longitude": 135.666773
+    },
+    {
+        "category": "mountains",
+        "title": "Minetokoyama",
+        "rating": 4.4,
+        "address": "Hanaseharachicho, Sakyo Ward, Kyoto, 601-1102, Japan",
+        "latitude": 35.2375317,
+        "longitude": 135.82366869999998
+    },
+    {
+        "category": "mountains",
+        "title": "Mt.Ponpon",
+        "rating": 4,
+        "address": "Oharano Oshiocho, Nishikyo Ward, Kyoto, 610-1133, Japan",
+        "latitude": 34.9351705,
+        "longitude": 135.6238397
+    },
+    {
+        "category": "mountains",
+        "title": "Kinugasayama",
+        "rating": 3.9,
+        "address": "Kinugasa Kinugasa Yamacho, Kita Ward, Kyoto, 603-8485, Japan",
+        "latitude": 35.0359908,
+        "longitude": 135.7222639
+    },
+    {
+        "category": "mountains",
+        "title": "Yoshidayama",
+        "rating": 4.3,
+        "address": "Yoshidakaguraokacho, Sakyo Ward, Kyoto, 606-8311, Japan",
+        "latitude": 35.027056,
+        "longitude": 135.7873037
+    },
+    {
+        "category": "mountains",
+        "title": "Ōeyama",
+        "rating": 4.3,
+        "address": "Oekutsukakecho, Nishikyo Ward, Kyoto, 610-1106, Japan",
+        "latitude": 34.980278,
+        "longitude": 135.640556
+    },
+    {
+        "category": "mountains",
+        "title": "Daimonjiyama",
+        "rating": 4.4,
+        "address": "Okitayamatenjinokacho, Kita Ward, Kyoto, 603-8482, Japan",
+        "latitude": 35.0445839,
+        "longitude": 135.7298315
+    },
+    {
+        "category": "waterfalls",
+        "title": "Kuya Falls",
+        "rating": 4.4,
+        "address": "Sagakiyotaki Tsukinowacho, Ukyo Ward, Kyoto, 616-8456, Japan",
+        "latitude": 35.051308999999996,
+        "longitude": 135.648587
+    },
+    {
+        "category": "waterfalls",
+        "title": "Romon Falls",
+        "rating": 4.1,
+        "address": "Shishigatani Daikokudanicho, Sakyo Ward, Kyoto, 606-8442, Japan",
+        "latitude": 35.019097699999996,
+        "longitude": 135.8049541
+    },
+    {
+        "category": "waterfalls",
+        "title": "Koto Falls",
+        "rating": 4.2,
+        "address": "Ichimori, Kyotamba, Funai District, Kyoto 622-0212, Japan",
+        "latitude": 35.1388858,
+        "longitude": 135.4389845
+    },
+    {
+        "category": "waterfalls",
+        "title": "Bodai Falls",
+        "rating": 4.6,
+        "address": "Takagamine Nishibodai, Kita Ward, Kyoto, 603-0000, Japan",
+        "latitude": 35.0709259,
+        "longitude": 135.6960449
+    },
+    {
+        "category": "waterfalls",
+        "title": "Kanabiki Falls",
+        "rating": 4.3,
+        "address": "Takiba, Miyazu, Kyoto 626-0034, Japan",
+        "latitude": 35.5298795,
+        "longitude": 135.1834007
+    },
+    {
+        "category": "waterfalls",
+        "title": "Otowa-no-taki Falls",
+        "rating": 4.3,
+        "address": "1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+        "latitude": 34.9944261,
+        "longitude": 135.7852489
+    },
+    {
+        "category": "waterfalls",
+        "title": "Takimata Falls",
+        "rating": 4.3,
+        "address": "Kitatani-17 Keihokuhosonocho, Ukyo Ward, Kyoto, 601-0262, Japan",
+        "latitude": 35.13016,
+        "longitude": 135.65795699999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "Takimatano Falls",
+        "rating": 4.4,
+        "address": "Shishigatani Keihokuhosonocho, Ukyo Ward, Kyoto, 601-0262, Japan",
+        "latitude": 35.1309446,
+        "longitude": 135.659865
+    },
+    {
+        "category": "waterfalls",
+        "title": "Otonashi waterfall",
+        "rating": 4.1,
+        "address": "Oharashorinincho, Sakyo Ward, Kyoto, 601-1242, Japan",
+        "latitude": 35.1206062,
+        "longitude": 135.83980169999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "Ryuono Falls",
+        "rating": 3.5,
+        "address": "Taka, Ide, Tsuzuki District, Kyoto 610-0301, Japan",
+        "latitude": 34.8182615,
+        "longitude": 135.8244528
+    },
+    {
+        "category": "waterfalls",
+        "title": "Rennyo's Waterfall",
+        "rating": 3.2,
+        "address": "Miyamacho Uchikubo, Nantan, Kyoto 601-0724, Japan",
+        "latitude": 35.299734099999995,
+        "longitude": 135.608315
+    },
+    {
+        "category": "waterfalls",
+        "title": "Shiragiku Waterfall",
+        "rating": 3.8,
+        "address": "43 Fukakusa Gokurakuji Yamacho, Fushimi Ward, Kyoto, 612-0813, Japan",
+        "latitude": 34.9647161,
+        "longitude": 135.7873127
+    },
+    {
+        "category": "waterfalls",
+        "title": "Komaga Falls",
+        "rating": 4.9,
+        "address": "Japan, 〒606-0000 Kyoto, Sakyo Ward, Unnamed Road, 粟田口如意ケ嶽町",
+        "latitude": 35.0095995,
+        "longitude": 135.7976745
+    },
+    {
+        "category": "waterfalls",
+        "title": "Maboroshi Falls",
+        "rating": 3.5,
+        "address": "Jodoji Uchikoshicho, Sakyo Ward, Kyoto, 606-0000, Japan",
+        "latitude": 35.0235747,
+        "longitude": 135.8096769
+    },
+    {
+        "category": "waterfalls",
+        "title": "Medaki Waterfall",
+        "rating": 3.8,
+        "address": "右京区 Kyoto, 603-0000, Japan",
+        "latitude": 35.0715234,
+        "longitude": 135.6952772
+    },
+    {
+        "category": "lakes",
+        "title": "Biwa Lake",
+        "rating": 4.5,
+        "address": "Otsu, Shiga 520-0837, Japan",
+        "latitude": 34.991467,
+        "longitude": 135.8998847
+    },
+    {
+        "category": "lakes",
+        "title": "Biwa Lake",
+        "rating": 4.6,
+        "address": "Otsu, Shiga 520-0023, Japan",
+        "latitude": 35.0204585,
+        "longitude": 135.8694617
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Biwa",
+        "rating": 4.5,
+        "address": "Shiga, Japan",
+        "latitude": 35.345639399999996,
+        "longitude": 136.1709012
+    },
+    {
+        "category": "lakes",
+        "title": "Amawaka Lake",
+        "rating": 4.1,
+        "address": "Nantan, Kyoto, Japan",
+        "latitude": 35.1438746,
+        "longitude": 135.53345149999998
+    },
+    {
+        "category": "lakes",
+        "title": "Sawano Pond",
+        "rating": 3.9,
+        "address": "Ukyo Ward, Kyoto, 616-0000, Japan",
+        "latitude": 35.0525261,
+        "longitude": 135.6979338
+    },
+    {
+        "category": "lakes",
+        "title": "Takaraga Pond",
+        "rating": 4.3,
+        "address": "Matsugasaki Kitauracho, Sakyo Ward, Kyoto, 606-0937, Japan",
+        "latitude": 35.059151299999996,
+        "longitude": 135.78024109999998
+    },
+    {
+        "category": "lakes",
+        "title": "Mawaririta Pond",
+        "rating": 4,
+        "address": "Kyoto, Japan",
+        "latitude": 35.0944274,
+        "longitude": 135.6057296
+    },
+    {
+        "category": "lakes",
+        "title": "Biwa Lake",
+        "rating": 3,
+        "address": "Otsu, Shiga 520-0501, Japan",
+        "latitude": 35.259666599999996,
+        "longitude": 135.98542229999998
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Biwa First Canal",
+        "rating": 4.2,
+        "address": "7 Miideracho, Otsu, Shiga 520-0034, Japan",
+        "latitude": 35.012077399999995,
+        "longitude": 135.857419
+    },
+    {
+        "category": "lakes",
+        "title": "Tomiei Pond",
+        "rating": 3.5,
+        "address": "Yagicho Hidokoro, Nantan, Kyoto 629-0121, Japan",
+        "latitude": 35.094814,
+        "longitude": 135.55969489999998
+    },
+    {
+        "category": "beaches",
+        "title": "Stone Beach",
+        "rating": 4.4,
+        "address": "2QC8+58, Kyotogyoen, Kamigyo Ward, Kyoto, 602-0881, Japan",
+        "latitude": 35.020850599999996,
+        "longitude": 135.7662403
+    },
+    {
+        "category": "beaches",
+        "title": "Sunshine Beach",
+        "rating": 4,
+        "address": "Yumihama, Otsu, Shiga 520-0811, Japan",
+        "latitude": 35.001359799999996,
+        "longitude": 135.8924012
+    },
+    {
+        "category": "beaches",
+        "title": "Honjohama Beach",
+        "rating": 4,
+        "address": "Honjohama, Ine, Yoza District, Kyoto 626-0403, Japan",
+        "latitude": 35.7304189,
+        "longitude": 135.2739734
+    },
+    {
+        "category": "beaches",
+        "title": "Kotohikihama Beach",
+        "rating": 4.2,
+        "address": "Japan, 〒629-3112 Kyoto, Kyotango, 網野町, 掛津",
+        "latitude": 35.7023696,
+        "longitude": 135.04851019999998
+    },
+    {
+        "category": "beaches",
+        "title": "Kannon Island",
+        "rating": 4.1,
+        "address": "28 Sagatsuridonocho, Ukyo Ward, Kyoto, 616-8301, Japan",
+        "latitude": 35.026884599999995,
+        "longitude": 135.6885718
+    },
+    {
+        "category": "beaches",
+        "title": "Shotenkyo Beach",
+        "rating": 4.2,
+        "address": "431-3 Kumihamacho Omukai, Kyotango, Kyoto 629-3423, Japan",
+        "latitude": 35.6459841,
+        "longitude": 134.9046189
+    },
+    {
+        "category": "beaches",
+        "title": "Kezu Beach",
+        "rating": 3.8,
+        "address": "の3, 216 Daimotsu, Otsu, Shiga 520-0512, Japan",
+        "latitude": 35.2101445,
+        "longitude": 135.9367531
+    },
+    {
+        "category": "beaches",
+        "title": "Yuhigaura Beach",
+        "rating": 4.5,
+        "address": "浜詰 網野町, Kyotango, Kyoto 629-3245, Japan",
+        "latitude": 35.663860199999995,
+        "longitude": 134.96543169999998
+    },
+    {
+        "category": "beaches",
+        "title": "Omatsu-zaki",
+        "rating": 4.3,
+        "address": "南小松‎, Otsu, Shiga 520-0502, Japan",
+        "latitude": 35.2285602,
+        "longitude": 135.9636041
+    },
+    {
+        "category": "beaches",
+        "title": "Wakasa Wada beaches",
+        "rating": 4.4,
+        "address": "Wada, Takahama, Oi District, Fukui 919-2201, Japan",
+        "latitude": 35.4931372,
+        "longitude": 135.57531939999998
+    },
+    {
+        "category": "beaches",
+        "title": "Amanohashidate Beach",
+        "rating": 4.2,
+        "address": "Monju, Miyazu, Kyoto 626-0001, Japan",
+        "latitude": 35.5592488,
+        "longitude": 135.1875862
+    },
+    {
+        "category": "beaches",
+        "title": "Makino Sunny Beach",
+        "rating": 4.2,
+        "address": "Takashima, Shiga, Japan",
+        "latitude": 35.451854399999995,
+        "longitude": 136.0601213
+    },
+    {
+        "category": "beaches",
+        "title": "Biwako Omi-Maiko Nakahama Beach",
+        "rating": 4.3,
+        "address": "1095 Minamikomatsu, Otsu, Shiga 520-0502, Japan",
+        "latitude": 35.2303853,
+        "longitude": 135.9628717
+    },
+    {
+        "category": "beaches",
+        "title": "White Beach",
+        "rating": 3.9,
+        "address": "1091 Oroshimocho, Kusatsu, Shiga 525-0001, Japan",
+        "latitude": 35.075604999999996,
+        "longitude": 135.93337
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kyoto Aquarena",
+        "rating": 3.9,
+        "address": "64 Nishikyogoku Tokudaiji Dangodencho, Ukyo Ward, Kyoto, 615-0846, Japan",
+        "latitude": 34.9902108,
+        "longitude": 135.7166044
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kyoto YMCA Wellness Centre",
+        "rating": 4.1,
+        "address": "2 Nakanocho, Nakagyo Ward, Kyoto, 604-8083, Japan",
+        "latitude": 35.008583,
+        "longitude": 135.76417999999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Ilias",
+        "rating": 3.5,
+        "address": "10-2 Higashikujo Nishiiwamotocho, Minami Ward, Kyoto, 601-8005, Japan",
+        "latitude": 34.983309399999996,
+        "longitude": 135.76308459999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kumiyama Municipal town pool",
+        "rating": 3.9,
+        "address": "Shintamaki-333 Ichida, Kumiyama, Kuse District, Kyoto 613-0022, Japan",
+        "latitude": 34.8829646,
+        "longitude": 135.75823549999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Yamagoe Heated Pool",
+        "rating": 3.8,
+        "address": "27-1 Umegahata Mukonochicho, Ukyo Ward, Kyoto, 616-8262, Japan",
+        "latitude": 35.0321628,
+        "longitude": 135.6963332
+    },
+    {
+        "category": "swimming pools",
+        "title": "Taiyogaoka Family Swimming Pool",
+        "rating": 3.9,
+        "address": "Hachikenyadani-1 Hironocho, Uji, Kyoto 611-0031, Japan",
+        "latitude": 34.867927,
+        "longitude": 135.8050198
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kameoka Sports Park Swimming Pool",
+        "rating": 4,
+        "address": "Kamigawara-24 Yoshikawacho Yoshida, Kameoka, Kyoto 621-0015, Japan",
+        "latitude": 35.0153874,
+        "longitude": 135.5483745
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sports Plaza Ace",
+        "rating": 4.2,
+        "address": "23-2 Kisshoin Nishinosho Mukaidacho, Minami Ward, Kyoto, 601-8309, Japan",
+        "latitude": 34.985079,
+        "longitude": 135.722839
+    },
+    {
+        "category": "swimming pools",
+        "title": "Switopia",
+        "rating": 3.6,
+        "address": "18-18 Uzumasa Morigahigashicho, Ukyo Ward, Kyoto, 616-8102, Japan",
+        "latitude": 35.0164301,
+        "longitude": 135.7148547
+    },
+    {
+        "category": "swimming pools",
+        "title": "京都アクアリーナ 多目的広場",
+        "rating": 3.9,
+        "address": "Japan, 〒615-0846 Kyoto, Ukyo Ward, Nishikyogoku Tokudaiji Dangodencho, 64",
+        "latitude": 34.9893502,
+        "longitude": 135.71618229999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kyoto Tohsuikai Swimming School",
+        "rating": 3.9,
+        "address": "33-5 Shogoin Rengezocho, Sakyo Ward, Kyoto, 606-8393, Japan",
+        "latitude": 35.0168156,
+        "longitude": 135.7754854
+    },
+    {
+        "category": "swimming pools",
+        "title": "Yawata Shiritsu Satsuki City Swimming Pool",
+        "rating": 4,
+        "address": "１-1 Otokoyama, Yawata, Kyoto 614-8372, Japan",
+        "latitude": 34.8702122,
+        "longitude": 135.69502599999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Fitness Club Ko-Su-Pa Kyoto Research Park",
+        "rating": 3.6,
+        "address": "アーバネックス丹波口ビル 6F, 94 Chudoji Awatacho, Shimogyo Ward, Kyoto, 600-8815, Japan",
+        "latitude": 34.9940342,
+        "longitude": 135.73884759999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Fitness & Spa Heming Fushimi",
+        "rating": 3.9,
+        "address": "スポーツクラブヘミング, 9 Fukakusa Watamoricho, Fushimi Ward, Kyoto, 612-0022, Japan",
+        "latitude": 34.9627917,
+        "longitude": 135.7699792
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sport Centre for Disabled",
+        "rating": 3.9,
+        "address": "５-5 Takanotamaokacho, Sakyo Ward, Kyoto, 606-8106, Japan",
+        "latitude": 35.0456236,
+        "longitude": 135.7833722
+    },
+    {
+        "category": "swimming pools",
+        "title": "Gunze Sports Kyoto Karasuma Rokkaku",
+        "rating": 3.5,
+        "address": "WEST18ビル 9f, 254 Donomaecho, Nakagyo Ward, Kyoto, 604-8134, Japan",
+        "latitude": 35.007511699999995,
+        "longitude": 135.7598889
+    },
+    {
+        "category": "swimming pools",
+        "title": "Terrsa Fitness Club",
+        "rating": 3.7,
+        "address": "Japan, 〒601-8047 Kyoto, Minami Ward, 京都府民総合交流プラザ内 4F",
+        "latitude": 34.977463,
+        "longitude": 135.7559579
+    },
+    {
+        "category": "swimming pools",
+        "title": "Otsu Shiritsu Pool Ojigaoka Onsui Pool",
+        "rating": 4.1,
+        "address": "大津市 皇子が丘公園体育館, 1 Chome-1-1 Ojigaoka, Otsu, Shiga 520-0025, Japan",
+        "latitude": 35.0240337,
+        "longitude": 135.85299849999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kids Water Park",
+        "rating": 5,
+        "address": "Kankijicho, Shimogyo Ward, Kyoto, 600-8835, Japan",
+        "latitude": 34.9882961,
+        "longitude": 135.7440344
+    },
+    {
+        "category": "swimming pools",
+        "title": "Konami Sports Club Fushimi",
+        "rating": 3.3,
+        "address": "2 Chome-348-1 Ryogaemachi, Fushimi Ward, Kyoto, 612-8082, Japan",
+        "latitude": 34.930418599999996,
+        "longitude": 135.7636258
+    },
+    {
+        "category": "resorts",
+        "title": "ROKU KYOTO, LXR Hotels & Resorts",
+        "rating": 4.5,
+        "address": "44-1 Kinugasa Kagamiishicho, Kita Ward, Kyoto, 603-8451, Japan",
+        "latitude": 35.0476127,
+        "longitude": 135.7346805
+    },
+    {
+        "category": "resorts",
+        "title": "OMO3 Kyoto Toji by Hoshino Resorts",
+        "rating": 4.3,
+        "address": "11-6 Nishikujo Zaocho, Minami Ward, Kyoto, 601-8414, Japan",
+        "latitude": 34.980258899999995,
+        "longitude": 135.7535423
+    },
+    {
+        "category": "resorts",
+        "title": "The Ritz-Carlton, Kyoto",
+        "rating": 4.6,
+        "address": "鴨川二条大橋畔, 543 Hokodencho, Nakagyo Ward, Kyoto, 604-0902, Japan",
+        "latitude": 35.013917,
+        "longitude": 135.7708565
+    },
+    {
+        "category": "resorts",
+        "title": "OMO5 Kyoto Sanjo by Hoshino Resorts",
+        "rating": 4.3,
+        "address": "434-1 Ebisucho, Nakagyo Ward, Kyoto, 604-8005, Japan",
+        "latitude": 35.0092672,
+        "longitude": 135.7685167
+    },
+    {
+        "category": "resorts",
+        "title": "Shozan Resort Kyoto",
+        "rating": 4,
+        "address": "47 Kinugasa Kagamiishicho, Kita Ward, Kyoto, 603-8451, Japan",
+        "latitude": 35.0502263,
+        "longitude": 135.7331055
+    },
+    {
+        "category": "resorts",
+        "title": "OMO5 Kyoto Gion by Hoshino Resorts",
+        "rating": 4.5,
+        "address": "288 Gionmachi Kitagawa, Higashiyama Ward, Kyoto 605-0073, Japan",
+        "latitude": 35.0039361,
+        "longitude": 135.776841
+    },
+    {
+        "category": "resorts",
+        "title": "Four Seasons Hotel Kyoto",
+        "rating": 4.4,
+        "address": "445-3 Myohoin Maekawacho, Higashiyama Ward, Kyoto, 605-0932, Japan",
+        "latitude": 34.9906846,
+        "longitude": 135.77612299999998
+    },
+    {
+        "category": "resorts",
+        "title": "Mercure Kyoto Miyazu Resort & Spa",
+        "rating": 3.9,
+        "address": "Koaza Iwamoto, Aza, 58 Tai, Miyazu, Kyoto 626-0068, Japan",
+        "latitude": 35.5784939,
+        "longitude": 135.234229
+    },
+    {
+        "category": "resorts",
+        "title": "HOSHINOYA Kyoto",
+        "rating": 4.3,
+        "address": "11-2 Arashiyama Genrokuzancho, Nishikyo Ward, Kyoto, 616-0007, Japan",
+        "latitude": 35.0113079,
+        "longitude": 135.6769726
+    },
+    {
+        "category": "resorts",
+        "title": "Shijo Kawaramachi Onsen Sora Niwa Terrace Kyoto",
+        "rating": 4.4,
+        "address": "324番地 Inaricho, Shimogyo Ward, Kyoto, 600-8022, Japan",
+        "latitude": 35.002577599999995,
+        "longitude": 135.769592
+    },
+    {
+        "category": "resorts",
+        "title": "The Celestine Hotel Gion",
+        "rating": 4.6,
+        "address": "572 Komatsucho, Higashiyama Ward, Kyoto, 605-0811, Japan",
+        "latitude": 34.998546499999996,
+        "longitude": 135.7737429
+    },
+    {
+        "category": "resorts",
+        "title": "Luxury hotel SOWAKA",
+        "rating": 4.8,
+        "address": "480 Kiyoicho, Higashiyama Ward, Kyoto, 605-0821, Japan",
+        "latitude": 35.0017701,
+        "longitude": 135.7784897
+    },
+    {
+        "category": "resorts",
+        "title": "Park Hyatt Kyoto",
+        "rating": 4.6,
+        "address": "京都市東山区高台寺, 360 Masuyacho, Kyoto, 605-0826, Japan",
+        "latitude": 34.9991121,
+        "longitude": 135.78112679999998
+    },
+    {
+        "category": "resorts",
+        "title": "Aman Kyoto",
+        "rating": 4.3,
+        "address": "1 Okitayama Washimine-cho, Kita Ward, Kyoto, 603-8458, Japan",
+        "latitude": 35.050764099999995,
+        "longitude": 135.73058419999998
+    },
+    {
+        "category": "resorts",
+        "title": "XIV Kyoto Yase Rikyu",
+        "rating": 4.4,
+        "address": "74-1 Yasenosecho, Sakyo Ward, Kyoto, 601-1254, Japan",
+        "latitude": 35.0652955,
+        "longitude": 135.8062498
+    },
+    {
+        "category": "resorts",
+        "title": "Genji Kyoto 源氏京都",
+        "rating": 4.9,
+        "address": "362-3 Hashidonocho, Shimogyo Ward, Kyoto, 600-8113, Japan",
+        "latitude": 34.993347899999996,
+        "longitude": 135.7667443
+    },
+    {
+        "category": "resorts",
+        "title": "Onyado Nono Kyotoshichijo",
+        "rating": 4.5,
+        "address": "491番地 Zaimokucho, Shimogyo Ward, Kyoto, 600-8146, Japan",
+        "latitude": 34.989039399999996,
+        "longitude": 135.7623577
+    },
+    {
+        "category": "resorts",
+        "title": "Hyatt Regency Kyoto",
+        "rating": 4.3,
+        "address": "644-2 Sanjusangendomawari, Higashiyama Ward, Kyoto, 605-0941, Japan",
+        "latitude": 34.9886172,
+        "longitude": 135.7735468
+    },
+    {
+        "category": "resorts",
+        "title": "CHISUN PREMIUM Kyoto Kujo",
+        "rating": 4.3,
+        "address": "15-1 Higashikujo Kamigoryocho, Minami Ward, Kyoto, 601-8015, Japan",
+        "latitude": 34.980511899999996,
+        "longitude": 135.7639811
+    },
+    {
+        "category": "resorts",
+        "title": "The Thousand Kyoto",
+        "rating": 4.5,
+        "address": "570 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+        "latitude": 34.9864196,
+        "longitude": 135.7612921
+    },
+    {
+        "category": "camping sites",
+        "title": "Utsukyo Park Camping Ground",
+        "rating": 4.2,
+        "address": "向ヒ山-１-1 Keihokushimoutsucho, Ukyo Ward, Kyoto, 601-0266, Japan",
+        "latitude": 35.144577999999996,
+        "longitude": 135.573813
+    },
+    {
+        "category": "camping sites",
+        "title": "蛙の駅",
+        "rating": 4.2,
+        "address": "Japan, 〒601-0403 Kyoto, Ukyo Ward, Keihokuhaiyacho, Yurinoshita−6",
+        "latitude": 35.198938999999996,
+        "longitude": 135.7495813
+    },
+    {
+        "category": "camping sites",
+        "title": "Kasagi Camping Ground - kyoto",
+        "rating": 4,
+        "address": "Tsukuda Kasagi, Soraku District, Kyoto 619-1303, Japan",
+        "latitude": 34.7590663,
+        "longitude": 135.9361554
+    },
+    {
+        "category": "camping sites",
+        "title": "DOD CAMP PARK KYOTO（道の駅 スプリングスひよし）",
+        "rating": 3.9,
+        "address": "Japan, 〒629-0335 Kyoto, Nantan, 日吉町中宮ノ向 8番地",
+        "latitude": 35.1517702,
+        "longitude": 135.5172622
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Shizuhara, Kyoto Council, Scout Association of Japan",
+        "rating": 3.9,
+        "address": "Shizuichishizuharachō, Sakyo Ward, Kyoto, 601-1121, Japan",
+        "latitude": 35.1201673,
+        "longitude": 135.8013336
+    },
+    {
+        "category": "camping sites",
+        "title": "Omori Resort Camping Ground",
+        "rating": 4.2,
+        "address": "340-2 Omorihigashicho, Kita Ward, Kyoto, 601-0145, Japan",
+        "latitude": 35.146644099999996,
+        "longitude": 135.7001062
+    },
+    {
+        "category": "camping sites",
+        "title": "TOMOSHIBI CAMP",
+        "rating": 3.7,
+        "address": "Japan, 〒611-0031 Kyoto, Uji, Hironocho, Hachikenyadani−1, TOMOSHIBI CAMP",
+        "latitude": 34.8698457,
+        "longitude": 135.80096659999998
+    },
+    {
+        "category": "camping sites",
+        "title": "happa_camp_kyoto",
+        "rating": 4.7,
+        "address": "Japan, 〒601-0402 Kyoto, Ukyo Ward, Keihokukamikurodacho, Kuratani",
+        "latitude": 35.2075047,
+        "longitude": 135.7497328
+    },
+    {
+        "category": "camping sites",
+        "title": "リローカルタウン京都大原百井",
+        "rating": 3.9,
+        "address": "Japan, 〒601-1233 Kyoto, Sakyo Ward, Oharamomoicho, 356",
+        "latitude": 35.1618728,
+        "longitude": 135.8020023
+    },
+    {
+        "category": "camping sites",
+        "title": "Ikoinosatokuta Camping Ground",
+        "rating": 4.1,
+        "address": "６ Kutakawaicho, Sakyo Ward, Kyoto, 520-0461, Japan",
+        "latitude": 35.271365599999996,
+        "longitude": 135.8535997
+    },
+    {
+        "category": "camping sites",
+        "title": "Nagaokakyo Municipal Nishiyama Camping Ground",
+        "rating": 2.8,
+        "address": "Chōhōji, Nagaokakyo, Kyoto 617-0812, Japan",
+        "latitude": 34.932825199999996,
+        "longitude": 135.658348
+    },
+    {
+        "category": "camping sites",
+        "title": "Kyoto Prefectural Forest Hiyoshi",
+        "rating": 4.1,
+        "address": "上ノ所-25番地 Hiyoshicho Amawaka, Nantan, Kyoto 629-0334, Japan",
+        "latitude": 35.1374779,
+        "longitude": 135.52968959999998
+    },
+    {
+        "category": "camping sites",
+        "title": "キャンプ Outdoor Life Campground・アウトドアライフ・キャンプ場",
+        "rating": 4.4,
+        "address": "Hiyoshicho Amawaka, Nantan, Kyoto 629-0334, Japan",
+        "latitude": 35.1303128,
+        "longitude": 135.5375456
+    },
+    {
+        "category": "camping sites",
+        "title": "Kuta Nature Utilization Village Daikokudani Camping Ground",
+        "rating": 3.3,
+        "address": "27 Kutashimonocho, Sakyo Ward, Kyoto, 520-0461, Japan",
+        "latitude": 35.2644593,
+        "longitude": 135.8348885
+    },
+    {
+        "category": "camping sites",
+        "title": "京都ＹＭＣＡリトリートセンター",
+        "rating": 3.8,
+        "address": "Japan, 〒601-1393 Kyoto, Uji, Nio, Ukawa−18",
+        "latitude": 34.91307,
+        "longitude": 135.86269
+    },
+    {
+        "category": "camping sites",
+        "title": "Springs Hiyoshi - Camp Field",
+        "rating": 4,
+        "address": "８, Hiyoshichonaka, Nantan, Kyoto 629-0335, Japan",
+        "latitude": 35.1520104,
+        "longitude": 135.5172481
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Hirogawara, Kyoto Council, Scout Association of Japan",
+        "rating": 4.3,
+        "address": "163 Hirogawaraobanacho, Sakyo Ward, Kyoto, 601-1101, Japan",
+        "latitude": 35.268795,
+        "longitude": 135.74431529999998
+    },
+    {
+        "category": "camping sites",
+        "title": "芦見谷 芸術の森",
+        "rating": 3.9,
+        "address": "Japan, 〒601-0262 Kyoto, Ukyo Ward, Keihokuhosonocho, Ashimioku−13−1",
+        "latitude": 35.1102506,
+        "longitude": 135.6329293
+    },
+    {
+        "category": "camping sites",
+        "title": "Eff Camping Ground",
+        "rating": null,
+        "address": "Yanohara-24 Keihokuhosonocho, Ukyo Ward, Kyoto, 601-0262, Japan",
+        "latitude": 35.1128879,
+        "longitude": 135.6320397
+    },
+    {
+        "category": "camping sites",
+        "title": "Miyama Town Nature and Culture Village Camping Ground",
+        "rating": 4.3,
+        "address": "下向-56 Miyamachonaka, Nantan, Kyoto 601-0713, Japan",
+        "latitude": 35.310645099999995,
+        "longitude": 135.63941029999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Kyoto Trail Station 4 Higashiyama",
+        "rating": 4.1,
+        "address": "20-37 Fukakusa Kurumazakacho, Fushimi Ward, Kyoto, 612-0804, Japan",
+        "latitude": 34.974557,
+        "longitude": 135.7791643
+    },
+    {
+        "category": "hiking trails",
+        "title": "Mount Daimonji",
+        "rating": 4.6,
+        "address": "Japan, 〒606-8442 Kyoto, Sakyo Ward, Shishigatani Daikokudanicho, 大文字山",
+        "latitude": 35.0196263,
+        "longitude": 135.81169219999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Mt. Ogura",
+        "rating": 4.2,
+        "address": "Sagakameyamacho, Ukyo Ward, Kyoto, 616-8387, Japan",
+        "latitude": 35.023481,
+        "longitude": 135.659136
+    },
+    {
+        "category": "hiking trails",
+        "title": "Kyoto Trail - Nishiyama 26",
+        "rating": 4.4,
+        "address": "30 Arashiyama Nakaoshitacho, Nishikyo Ward, Kyoto, 616-0004, Japan",
+        "latitude": 35.0092565,
+        "longitude": 135.6799179
+    },
+    {
+        "category": "hiking trails",
+        "title": "Mount Otowa",
+        "rating": 4.2,
+        "address": "Koyamanagao, Yamashina Ward, Kyoto, 607-0000, Japan",
+        "latitude": 34.976941499999995,
+        "longitude": 135.85314879999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Kyoto Trail Station 6 Higashiyama",
+        "rating": 4,
+        "address": "4-6 Imakumano Minamidanicho, Higashiyama Ward, Kyoto, 605-0000, Japan",
+        "latitude": 34.9768155,
+        "longitude": 135.7788354
+    },
+    {
+        "category": "hiking trails",
+        "title": "Mount Zenki",
+        "rating": 4.8,
+        "address": "30 Shishigatani Goshonodancho, Sakyo Ward, Kyoto, 606-8422, Japan",
+        "latitude": 35.023784,
+        "longitude": 135.802034
+    },
+    {
+        "category": "hiking trails",
+        "title": "Kyoto Trail Higashiyama 26",
+        "rating": 4,
+        "address": "1-4 Awadaguchi Sanjobocho, Higashiyama Ward, Kyoto, 605-0062, Japan",
+        "latitude": 35.006631,
+        "longitude": 135.7867607
+    },
+    {
+        "category": "hiking trails",
+        "title": "Mount Uryu",
+        "rating": 3.8,
+        "address": "6 Ichijoji Matsubaracho, Sakyo Ward, Kyoto, 606-8156, Japan",
+        "latitude": 35.039721,
+        "longitude": 135.80297199999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Mount Atago",
+        "rating": 4.4,
+        "address": "Sagaatagocho, Ukyo Ward, Kyoto, 616-8458, Japan",
+        "latitude": 35.061551,
+        "longitude": 135.6323286
+    },
+    {
+        "category": "hiking trails",
+        "title": "Mount Hiei",
+        "rating": 4.4,
+        "address": "Ichijoji Idegadanichosenguchi, Sakyo Ward, Kyoto, 606-0000, Japan",
+        "latitude": 35.0622477,
+        "longitude": 135.8315317
+    },
+    {
+        "category": "hiking trails",
+        "title": "Kyoto Trail Higashiyama 39",
+        "rating": 4.3,
+        "address": "京都一周トレイル, 東山37, Misasagikuroiwa, Yamashina Ward, Kyoto, 607-8402, Japan",
+        "latitude": 35.0069377,
+        "longitude": 135.7985032
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Kyoto Gyoen National Garden",
+        "rating": 4.5,
+        "address": "3 Kyotogyoen, Kamigyo Ward, Kyoto, 602-0881, Japan",
+        "latitude": 35.0230617,
+        "longitude": 135.7634452
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Arashiyama",
+        "rating": 4.5,
+        "address": "Ukyo Ward, Kyoto, Japan",
+        "latitude": 35.009449,
+        "longitude": 135.666773
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Arashiyama Bamboo Forest",
+        "rating": 4.4,
+        "address": "Sagaogurayama Tabuchiyamacho, Ukyo Ward, Kyoto, 616-8394, Japan",
+        "latitude": 35.0168187,
+        "longitude": 135.67130129999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Mount Daimonji",
+        "rating": 4.6,
+        "address": "Japan, 〒606-8442 Kyoto, Sakyo Ward, Shishigatani Daikokudanicho, 大文字山",
+        "latitude": 35.0196263,
+        "longitude": 135.81169219999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Arashiyama Monkey Park Iwatayama",
+        "rating": 4.5,
+        "address": "６１ Arashiyama Nakaoshitacho, Nishikyo Ward, Kyoto, 616-0004, Japan",
+        "latitude": 35.011395,
+        "longitude": 135.6766245
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Kyoto Botanic Garden",
+        "rating": 4.4,
+        "address": "Shimogamo Hangicho, Sakyo Ward, Kyoto, 606-0823, Japan",
+        "latitude": 35.048617199999995,
+        "longitude": 135.7630378
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Fushimi Inari Taisha",
+        "rating": 4.6,
+        "address": "68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882, Japan",
+        "latitude": 34.9676945,
+        "longitude": 135.7791876
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ginkaku-ji",
+        "rating": 4.5,
+        "address": "2 Ginkakujicho, Sakyo Ward, Kyoto, 606-8402, Japan",
+        "latitude": 35.0270213,
+        "longitude": 135.7982058
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Tenryu-ji",
+        "rating": 4.4,
+        "address": "６８ Sagatenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8385, Japan",
+        "latitude": 35.0158379,
+        "longitude": 135.6737654
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Otagi Nenbutsuji Temple",
+        "rating": 4.7,
+        "address": "2-5 Sagatoriimoto Fukatanicho, Ukyo Ward, Kyoto, 616-8439, Japan",
+        "latitude": 35.0311428,
+        "longitude": 135.6615546
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Saga Toriimoto Preserved Street",
+        "rating": 4.4,
+        "address": "嵯峨鳥居本, Ukyo Ward, Kyoto, 616-8435, Japan",
+        "latitude": 35.0257661,
+        "longitude": 135.66777589999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Kimono Forest",
+        "rating": 4.2,
+        "address": "20-2 Sagatenryuji Tsukurimichicho, Ukyo Ward, Kyoto, 616-8384, Japan",
+        "latitude": 35.0152682,
+        "longitude": 135.6783695
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Giōji Temple",
+        "rating": 4.5,
+        "address": "32 Sagatoriimoto Kozakacho, Ukyo Ward, Kyoto, 616-8435, Japan",
+        "latitude": 35.0234963,
+        "longitude": 135.6668196
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Maruyama Park",
+        "rating": 4.3,
+        "address": "Maruyamacho, Higashiyama Ward, Kyoto, 605-0071, Japan",
+        "latitude": 35.0035587,
+        "longitude": 135.78052689999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "JTB Kansai Tourist Information Center Kyoto",
+        "rating": 4.5,
+        "address": "Japan, 〒600-8216 Kyoto, Shimogyo Ward, Higashishiokojicho, 721-1, 京都タワービル 3階",
+        "latitude": 34.9875441,
+        "longitude": 135.75921639999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "TOURS IN KYOTO",
+        "rating": 4.9,
+        "address": "132 Oi-cho, Tanaka, Sakyo Ward, Kyoto, 606-8202, Japan",
+        "latitude": 35.0302799,
+        "longitude": 135.7773755
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Kyoto City Tourism Association (DMO KYOTO)",
+        "rating": 3.4,
+        "address": "ヤサカ河原町ビル 8階, 384 Ichinofunairicho, Nakagyo Ward, Kyoto, 604-0924, Japan",
+        "latitude": 35.0122131,
+        "longitude": 135.7692463
+    },
+    {
+        "category": "temples",
+        "title": "Kiyomizu-dera",
+        "rating": 4.5,
+        "address": "1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+        "latitude": 34.9946662,
+        "longitude": 135.784661
+    },
+    {
+        "category": "temples",
+        "title": "Kinkaku-ji",
+        "rating": 4.5,
+        "address": "1 Kinkakujicho, Kita Ward, Kyoto, 603-8361, Japan",
+        "latitude": 35.03937,
+        "longitude": 135.7292431
+    },
+    {
+        "category": "temples",
+        "title": "Ginkaku-ji",
+        "rating": 4.5,
+        "address": "2 Ginkakujicho, Sakyo Ward, Kyoto, 606-8402, Japan",
+        "latitude": 35.0270213,
+        "longitude": 135.7982058
+    },
+    {
+        "category": "temples",
+        "title": "Nanzen-ji",
+        "rating": 4.5,
+        "address": "Nanzenji Fukuchicho, Sakyo Ward, Kyoto, 606-8435, Japan",
+        "latitude": 35.0114138,
+        "longitude": 135.7944841
+    },
+    {
+        "category": "temples",
+        "title": "Tenryu-ji",
+        "rating": 4.4,
+        "address": "６８ Sagatenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8385, Japan",
+        "latitude": 35.0158379,
+        "longitude": 135.6737654
+    },
+    {
+        "category": "temples",
+        "title": "Ryōan-ji",
+        "rating": 4.5,
+        "address": "13 Ryoanji Goryonoshitacho, Ukyo Ward, Kyoto, 616-8001, Japan",
+        "latitude": 35.0344943,
+        "longitude": 135.71826339999998
+    },
+    {
+        "category": "temples",
+        "title": "Sanjūsangendō Temple",
+        "rating": 4.6,
+        "address": "657 Sanjusangendomawari, Higashiyama Ward, Kyoto, 605-0941, Japan",
+        "latitude": 34.9878845,
+        "longitude": 135.7717126
+    },
+    {
+        "category": "temples",
+        "title": "Saihōji (Kokedera) Temple",
+        "rating": 4.5,
+        "address": "56 Matsuojingatanicho, Nishikyo Ward, Kyoto, 615-8286, Japan",
+        "latitude": 34.9921777,
+        "longitude": 135.6837103
+    },
+    {
+        "category": "temples",
+        "title": "Daitoku-ji Temple",
+        "rating": 4.3,
+        "address": "53 Murasakino Daitokujicho, Kita Ward, Kyoto, 603-8231, Japan",
+        "latitude": 35.043890999999995,
+        "longitude": 135.74603
+    },
+    {
+        "category": "temples",
+        "title": "To-ji Temple",
+        "rating": 4.5,
+        "address": "1 Kujocho, Minami Ward, Kyoto, 601-8473, Japan",
+        "latitude": 34.9803395,
+        "longitude": 135.7476935
+    },
+    {
+        "category": "temples",
+        "title": "Enryaku-ji Temple",
+        "rating": 4.4,
+        "address": "4220 Sakamotohonmachi, Otsu, Shiga 520-0116, Japan",
+        "latitude": 35.0704634,
+        "longitude": 135.8411275
+    },
+    {
+        "category": "temples",
+        "title": "Chionin Temple",
+        "rating": 4.5,
+        "address": "400 Rinkacho, Higashiyama Ward, Kyoto, 605-8686, Japan",
+        "latitude": 35.005198799999995,
+        "longitude": 135.7833827
+    },
+    {
+        "category": "temples",
+        "title": "Byōdo-in Temple",
+        "rating": 4.5,
+        "address": "Renge-116 Uji, Kyoto 611-0021, Japan",
+        "latitude": 34.8892908,
+        "longitude": 135.8076783
+    },
+    {
+        "category": "temples",
+        "title": "Nishi Hongan-ji Temple",
+        "rating": 4.4,
+        "address": "Honganji Monzencho, Shimogyo Ward, Kyoto, 600-8501, Japan",
+        "latitude": 34.991777,
+        "longitude": 135.7516549
+    },
+    {
+        "category": "temples",
+        "title": "Ninna-ji Temple",
+        "rating": 4.4,
+        "address": "33 Omuroouchi, Ukyo Ward, Kyoto, 616-8092, Japan",
+        "latitude": 35.0310937,
+        "longitude": 135.71381979999998
+    },
+    {
+        "category": "museums",
+        "title": "The Museum of Kyoto",
+        "rating": 4.1,
+        "address": "623-1 Higashikatamachi, Nakagyo Ward, Kyoto, 604-8183, Japan",
+        "latitude": 35.0092144,
+        "longitude": 135.7624127
+    },
+    {
+        "category": "museums",
+        "title": "Kyoto National Museum",
+        "rating": 4.3,
+        "address": "527 Chayacho, Higashiyama Ward, Kyoto, 605-0931, Japan",
+        "latitude": 34.9899887,
+        "longitude": 135.773116
+    },
+    {
+        "category": "museums",
+        "title": "Kyoto City KYOCERA Museum of Art",
+        "rating": 4.4,
+        "address": "124 Okazaki Enshojicho, Sakyo Ward, Kyoto, 606-8344, Japan",
+        "latitude": 35.0128613,
+        "longitude": 135.78355439999999
+    },
+    {
+        "category": "museums",
+        "title": "The National Museum of Modern Art, Kyoto",
+        "rating": 4.1,
+        "address": "26-1 Okazaki Enshojicho, Sakyo Ward, Kyoto, 606-8344, Japan",
+        "latitude": 35.0124077,
+        "longitude": 135.7821571
+    },
+    {
+        "category": "museums",
+        "title": "Kyoto International Manga Museum",
+        "rating": 4.2,
+        "address": "452 Kinbukicho, Nakagyo Ward, Kyoto, 604-0846, Japan",
+        "latitude": 35.0118576,
+        "longitude": 135.7594192
+    },
+    {
+        "category": "museums",
+        "title": "Raku Museum",
+        "rating": 4.3,
+        "address": "87-1 Aburahashizumecho, Kamigyo Ward, Kyoto, 602-0923, Japan",
+        "latitude": 35.025548199999996,
+        "longitude": 135.7534752
+    },
+    {
+        "category": "museums",
+        "title": "Gekkeikan Ōkura Sake Museum",
+        "rating": 4.2,
+        "address": "247 Minamihamacho, Fushimi Ward, Kyoto, 612-8660, Japan",
+        "latitude": 34.929136,
+        "longitude": 135.76161
+    },
+    {
+        "category": "museums",
+        "title": "Kyoto Railway Museum",
+        "rating": 4.5,
+        "address": "Kankijicho, Shimogyo Ward, Kyoto, 600-8835, Japan",
+        "latitude": 34.987098599999996,
+        "longitude": 135.7422732
+    },
+    {
+        "category": "museums",
+        "title": "Kyoto Museum of Crafts and Design",
+        "rating": 4.2,
+        "address": "みやこめっせ B1F, 9-1 Okazaki Seishojicho, Sakyo Ward, Kyoto, 606-8343, Japan",
+        "latitude": 35.0132124,
+        "longitude": 135.7812074
+    },
+    {
+        "category": "museums",
+        "title": "Heisei Chishinkan Wing, Kyoto National Museum",
+        "rating": 4.3,
+        "address": "527 Chayacho, Higashiyama Ward, Kyoto, 605-0931, Japan",
+        "latitude": 34.9905995,
+        "longitude": 135.7726236
+    },
+    {
+        "category": "museums",
+        "title": "Kyoto Shibori Museum",
+        "rating": 4.7,
+        "address": "135-5 Shikiamicho, Nakagyo Ward, Kyoto, 604-8261, Japan",
+        "latitude": 35.0101022,
+        "longitude": 135.7537074
+    },
+    {
+        "category": "museums",
+        "title": "Kyoto Seishu Netsuke Art Museum",
+        "rating": 4.5,
+        "address": "46-1 Mibukayogoshocho, Nakagyo Ward, Kyoto, 604-8811, Japan",
+        "latitude": 35.0014124,
+        "longitude": 135.744645
+    },
+    {
+        "category": "museums",
+        "title": "Hosomi Museum",
+        "rating": 4,
+        "address": "細見美術館 3F, 6-3 Okazaki Saishojicho, Sakyo Ward, Kyoto, 606-8342, Japan",
+        "latitude": 35.0138617,
+        "longitude": 135.7796699
+    },
+    {
+        "category": "museums",
+        "title": "SAMURAI NINJA MUSEUM Kyoto",
+        "rating": 4.8,
+        "address": "109 Horinouecho, Nakagyo Ward, Kyoto, 604-8117, Japan",
+        "latitude": 35.0072167,
+        "longitude": 135.7635673
+    },
+    {
+        "category": "museums",
+        "title": "Fukuda Art Museum",
+        "rating": 4.3,
+        "address": "3-16 Sagatenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8385, Japan",
+        "latitude": 35.0137976,
+        "longitude": 135.6763619
+    },
+    {
+        "category": "museums",
+        "title": "Garden of Fine Arts Kyoto",
+        "rating": 4.3,
+        "address": "Shimogamo Hangicho, Sakyo Ward, Kyoto, 606-0823, Japan",
+        "latitude": 35.0506555,
+        "longitude": 135.7654428
+    },
+    {
+        "category": "museums",
+        "title": "Gallery of Kyoto Traditional Arts & Crafts",
+        "rating": 4,
+        "address": "606 Banocho, Nakagyo Ward, Kyoto, 604-8172, Japan",
+        "latitude": 35.009023899999995,
+        "longitude": 135.7594061
+    },
+    {
+        "category": "museums",
+        "title": "Sumiya Cultural Art Museum",
+        "rating": 4.3,
+        "address": "32 Nishishinyashiki Ageyacho, Shimogyo Ward, Kyoto, 600-8828, Japan",
+        "latitude": 34.9923044,
+        "longitude": 135.7432151
+    },
+    {
+        "category": "museums",
+        "title": "Ryukoku Museum",
+        "rating": 4.1,
+        "address": "西本願寺前, 117 Maruyacho, Shimogyo Ward, Kyoto, 600-8399, Japan",
+        "latitude": 34.9910354,
+        "longitude": 135.7535201
+    },
+    {
+        "category": "museums",
+        "title": "Japan Kanji Museum & Library",
+        "rating": 4.1,
+        "address": "551 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074, Japan",
+        "latitude": 35.0034139,
+        "longitude": 135.7766148
+    },
+    {
+        "category": "night markets",
+        "title": "Nishiki Market",
+        "rating": 4.3,
+        "address": "Nakagyo Ward, Kyoto, 604-8055, Japan",
+        "latitude": 35.0050258,
+        "longitude": 135.764723
+    },
+    {
+        "category": "night markets",
+        "title": "Impassioned Night Market Ayanokoji",
+        "rating": 4,
+        "address": "207番地1 Ayazaimokucho, Shimogyo Ward, Kyoto, 600-8072, Japan",
+        "latitude": 35.0024926,
+        "longitude": 135.7636913
+    },
+    {
+        "category": "viewpoints",
+        "title": "Arashiyama Park viewpoint",
+        "rating": 4.6,
+        "address": "6 Sagakamenoocho, Ukyo Ward, Kyoto, 616-8386, Japan",
+        "latitude": 35.0153429,
+        "longitude": 135.66985929999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Kojingamine Observation Deck",
+        "rating": 4.7,
+        "address": "Inariyamakanyuchi, Fushimi Ward, Kyoto, 612-0804, Japan",
+        "latitude": 34.969997,
+        "longitude": 135.78134889999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Hozukyo Observatory",
+        "rating": 4.2,
+        "address": "Ukyo Ward, Kyoto, 616-8454, Japan",
+        "latitude": 35.031946399999995,
+        "longitude": 135.6542213
+    },
+    {
+        "category": "viewpoints",
+        "title": "Higashiyama Mount Peak Park Observatory",
+        "rating": 4.2,
+        "address": "Awadaguchi Kodaiji Yamacho, Higashiyama Ward, Kyoto, 605-0000, Japan",
+        "latitude": 35.0001527,
+        "longitude": 135.7876686
+    },
+    {
+        "category": "viewpoints",
+        "title": "Yasaka Pagoda Photo Spot",
+        "rating": 4.7,
+        "address": "3 Chome-347 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+        "latitude": 34.9981052,
+        "longitude": 135.780259
+    },
+    {
+        "category": "viewpoints",
+        "title": "Nidec Kyoto Tower",
+        "rating": 4.2,
+        "address": "ニデック京都タワー 展望室 ３階, 721-1 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+        "latitude": 34.987520499999995,
+        "longitude": 135.7592518
+    },
+    {
+        "category": "viewpoints",
+        "title": "Nijō Castle",
+        "rating": 4.4,
+        "address": "541 Nijojocho, Nakagyo Ward, Kyoto, 604-8301, Japan",
+        "latitude": 35.0140379,
+        "longitude": 135.7484258
+    },
+    {
+        "category": "viewpoints",
+        "title": "Mount Daimonji",
+        "rating": 4.6,
+        "address": "Japan, 〒606-8442 Kyoto, Sakyo Ward, Shishigatani Daikokudanicho, 大文字山",
+        "latitude": 35.0196263,
+        "longitude": 135.81169219999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ginkaku-ji",
+        "rating": 4.5,
+        "address": "2 Ginkakujicho, Sakyo Ward, Kyoto, 606-8402, Japan",
+        "latitude": 35.0270213,
+        "longitude": 135.7982058
+    },
+    {
+        "category": "viewpoints",
+        "title": "Shirakawa Canal",
+        "rating": 4.7,
+        "address": "白川筋, Motoyoshicho, Higashiyama Ward, Kyoto, 605-0087, Japan",
+        "latitude": 35.0054778,
+        "longitude": 135.7736473
+    },
+    {
+        "category": "viewpoints",
+        "title": "Fushimi Inari Taisha",
+        "rating": 4.6,
+        "address": "68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882, Japan",
+        "latitude": 34.9676945,
+        "longitude": 135.7791876
+    },
+    {
+        "category": "viewpoints",
+        "title": "Kiyomizu-dera",
+        "rating": 4.5,
+        "address": "1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+        "latitude": 34.9946662,
+        "longitude": 135.784661
+    },
+    {
+        "category": "viewpoints",
+        "title": "Kinkaku-ji",
+        "rating": 4.5,
+        "address": "1 Kinkakujicho, Kita Ward, Kyoto, 603-8361, Japan",
+        "latitude": 35.03937,
+        "longitude": 135.7292431
+    },
+    {
+        "category": "viewpoints",
+        "title": "Arashiyama",
+        "rating": 4.5,
+        "address": "Ukyo Ward, Kyoto, Japan",
+        "latitude": 35.009449,
+        "longitude": 135.666773
+    },
+    {
+        "category": "viewpoints",
+        "title": "Kyoto Station Skyway",
+        "rating": 4.4,
+        "address": "Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+        "latitude": 34.9861083,
+        "longitude": 135.7592254
+    },
+    {
+        "category": "viewpoints",
+        "title": "Okochi Sanso Gorge Observation Deck",
+        "rating": 4.7,
+        "address": "8-6 Sagaogurayama Tabuchiyamacho, Ukyo Ward, Kyoto, 616-8386, Japan",
+        "latitude": 35.0164413,
+        "longitude": 135.6690222
+    },
+    {
+        "category": "viewpoints",
+        "title": "To-ji Temple",
+        "rating": 4.5,
+        "address": "1 Kujocho, Minami Ward, Kyoto, 601-8473, Japan",
+        "latitude": 34.9803395,
+        "longitude": 135.7476935
+    },
+    {
+        "category": "viewpoints",
+        "title": "Nakaragi Cherry Blossom Path",
+        "rating": 4.6,
+        "address": "10-4 Kamoimaicho, Sakyo Ward, Kyoto, 606-0821, Japan",
+        "latitude": 35.0502343,
+        "longitude": 135.7587907
+    },
+    {
+        "category": "viewpoints",
+        "title": "Sannenzaka",
+        "rating": 4.4,
+        "address": "2 Chome-211 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+        "latitude": 34.9966644,
+        "longitude": 135.78100799999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Hōkan-ji Temple (Yasaka Pagoda)",
+        "rating": 4.6,
+        "address": "388 清水八坂上町, Higashiyama Ward, Kyoto, 605-0862, Japan",
+        "latitude": 34.998557999999996,
+        "longitude": 135.77923579999998
+    },
+    {
+        "category": "gardens",
+        "title": "Kyoto Gyoen National Garden",
+        "rating": 4.5,
+        "address": "3 Kyotogyoen, Kamigyo Ward, Kyoto, 602-0881, Japan",
+        "latitude": 35.0230617,
+        "longitude": 135.7634452
+    },
+    {
+        "category": "gardens",
+        "title": "Kyoto Botanic Garden",
+        "rating": 4.4,
+        "address": "Shimogamo Hangicho, Sakyo Ward, Kyoto, 606-0823, Japan",
+        "latitude": 35.048617199999995,
+        "longitude": 135.7630378
+    },
+    {
+        "category": "gardens",
+        "title": "Shōseien Garden",
+        "rating": 4.2,
+        "address": "Japan, 〒600-8190 Kyoto, Shimogyo Ward, 下珠数屋町通間之町東入東玉水町",
+        "latitude": 34.9913391,
+        "longitude": 135.7631395
+    },
+    {
+        "category": "gardens",
+        "title": "Hojo Garden （南禅寺方丈庭院）",
+        "rating": 4.5,
+        "address": "Nanzenji Fukuchicho, Sakyo Ward, Kyoto, 606-8435, Japan",
+        "latitude": 35.0112287,
+        "longitude": 135.79445189999998
+    },
+    {
+        "category": "gardens",
+        "title": "Maruyama Park Japanese Gardens",
+        "rating": 4.4,
+        "address": "Maruyamacho, Higashiyama Ward, Kyoto, 605-0071, Japan",
+        "latitude": 35.0034615,
+        "longitude": 135.7815441
+    },
+    {
+        "category": "gardens",
+        "title": "Hakuryū-en Garden",
+        "rating": 4.5,
+        "address": "106 Kuramaninosecho, Sakyo Ward, Kyoto, 601-1113, Japan",
+        "latitude": 35.096766099999996,
+        "longitude": 135.76444039999998
+    },
+    {
+        "category": "gardens",
+        "title": "Garden",
+        "rating": 4.3,
+        "address": "526 Shimokawaracho, Higashiyama Ward, Kyoto, 605-0825, Japan",
+        "latitude": 35.000827099999995,
+        "longitude": 135.78152799999998
+    },
+    {
+        "category": "gardens",
+        "title": "Murin-an Garden",
+        "rating": 4.4,
+        "address": "３１番地, 31 Nanzenji Kusakawacho, Sakyo Ward, Kyoto, 606-8437, Japan",
+        "latitude": 35.0115712,
+        "longitude": 135.78727519999998
+    },
+    {
+        "category": "gardens",
+        "title": "Heian Shrine Garden East",
+        "rating": 4.5,
+        "address": "９７ Okazaki Nishitennocho, Sakyo Ward, Kyoto, 606-8341, Japan",
+        "latitude": 35.0160954,
+        "longitude": 135.78405329999998
+    },
+    {
+        "category": "gardens",
+        "title": "Chishakuin Temple Garden",
+        "rating": 4.5,
+        "address": "451 Myohoin Maekawacho, Higashiyama Ward, Kyoto, 605-0932, Japan",
+        "latitude": 34.9888956,
+        "longitude": 135.77573289999998
+    },
+    {
+        "category": "gardens",
+        "title": "Chion-in Hojo Teien (Garden of Abbot's Quarters)",
+        "rating": 4.3,
+        "address": "Rinkacho, Higashiyama Ward, Kyoto, 605-0062, Japan",
+        "latitude": 35.0056802,
+        "longitude": 135.784429
+    },
+    {
+        "category": "gardens",
+        "title": "Ryoan-ji Hojo Teien (Rock Garden)",
+        "rating": 4.5,
+        "address": "13-1 Ryoanji Goryonoshitacho, Ukyo Ward, Kyoto, 616-8001, Japan",
+        "latitude": 35.0343993,
+        "longitude": 135.71817919999998
+    },
+    {
+        "category": "gardens",
+        "title": "Okochi Sanso Garden",
+        "rating": 4.6,
+        "address": "8 Sagaogurayama Tabuchiyamacho, Ukyo Ward, Kyoto, 616-8394, Japan",
+        "latitude": 35.0167147,
+        "longitude": 135.6699227
+    },
+    {
+        "category": "gardens",
+        "title": "Hashin-tei Garden",
+        "rating": 4.4,
+        "address": "526 Shimokawaracho, Higashiyama Ward, Kyoto, 605-0825, Japan",
+        "latitude": 35.000599,
+        "longitude": 135.7812601
+    },
+    {
+        "category": "gardens",
+        "title": "Oike-niwa (Pond Garden)",
+        "rating": 4.5,
+        "address": "Kyotogyoen, Kamigyo Ward, Kyoto, 602-0881, Japan",
+        "latitude": 35.0247291,
+        "longitude": 135.7632554
+    },
+    {
+        "category": "gardens",
+        "title": "Garden of Fine Arts Kyoto",
+        "rating": 4.3,
+        "address": "Shimogamo Hangicho, Sakyo Ward, Kyoto, 606-0823, Japan",
+        "latitude": 35.0506555,
+        "longitude": 135.7654428
+    },
+    {
+        "category": "gardens",
+        "title": "Garden of Hundred Flowers",
+        "rating": 4.5,
+        "address": "８ Saganonomiyacho, Ukyo Ward, Kyoto, 616-8385, Japan",
+        "latitude": 35.016967,
+        "longitude": 135.672588
+    },
+    {
+        "category": "gardens",
+        "title": "Japanese Gardens",
+        "rating": 4.2,
+        "address": "124 Okazaki Enshojicho, Sakyo Ward, Kyoto, 606-8343, Japan",
+        "latitude": 35.0125879,
+        "longitude": 135.7842858
+    },
+    {
+        "category": "gardens",
+        "title": "Sogenchi Teien",
+        "rating": 4.6,
+        "address": "68 Sagatenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8385, Japan",
+        "latitude": 35.0156747,
+        "longitude": 135.6734447
+    },
+    {
+        "category": "gardens",
+        "title": "Cherry Garden",
+        "rating": 4.2,
+        "address": "Japan, 〒604-8301 Kyoto, Nakagyo Ward, Nijojocho, 押小路通り",
+        "latitude": 35.0126954,
+        "longitude": 135.748405
+    },
+    {
+        "category": "adventure parks",
+        "title": "Toei Kyoto Studio Park",
+        "rating": 4,
+        "address": "10 Uzumasa Higashihachiokacho, Ukyo Ward, Kyoto, 616-8586, Japan",
+        "latitude": 35.016452099999995,
+        "longitude": 135.7080227
+    },
+    {
+        "category": "adventure parks",
+        "title": "Arashiyama Monkey Park Iwatayama",
+        "rating": 4.5,
+        "address": "６１ Arashiyama Nakaoshitacho, Nishikyo Ward, Kyoto, 616-0004, Japan",
+        "latitude": 35.011395,
+        "longitude": 135.6766245
+    },
+    {
+        "category": "adventure parks",
+        "title": "ショベルカーランド京都",
+        "rating": 4.4,
+        "address": "Japan, 〒610-1106 Kyoto, Nishikyo Ward, Oekutsukakecho, 26-279 ショベルカーランド",
+        "latitude": 34.9749413,
+        "longitude": 135.6490724
+    },
+    {
+        "category": "adventure parks",
+        "title": "PADIOS",
+        "rating": 4.4,
+        "address": "Padios, １０ Uzumasa Higashihachiokacho, Ukyo Ward, Kyoto, 616-8161, Japan",
+        "latitude": 35.016820599999996,
+        "longitude": 135.7087322
+    },
+    {
+        "category": "adventure parks",
+        "title": "Kankudai Amusement Park",
+        "rating": 3.7,
+        "address": "Umegahata Shōbudani, Ukyo Ward, Kyoto, 616-8278, Japan",
+        "latitude": 35.0465374,
+        "longitude": 135.668896
+    },
+    {
+        "category": "adventure parks",
+        "title": "Shobudani Pond Amusement Park",
+        "rating": 4.3,
+        "address": "Ukyo Ward, Kyoto, 616-8278, Japan",
+        "latitude": 35.0419693,
+        "longitude": 135.67337089999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Diorama Kyoto JAPAN",
+        "rating": 3.8,
+        "address": "Sagatenryuji Kurumamichicho, Ukyo Ward, Kyoto, 616-8373, Japan",
+        "latitude": 35.018627599999995,
+        "longitude": 135.68021059999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "VS PARK Aeon Mall Kyoto Store",
+        "rating": 4.6,
+        "address": "AEON MALL KYOTO, Kaede Building, 4階, 1 Nishikujo Toriiguchicho, Minami Ward, Kyoto, 601-8417, Japan",
+        "latitude": 34.9826773,
+        "longitude": 135.7558116
+    },
+    {
+        "category": "adventure parks",
+        "title": "Amanohashidate Viewland",
+        "rating": 4.4,
+        "address": "437 Monju, Miyazu, Kyoto 626-0001, Japan",
+        "latitude": 35.5519555,
+        "longitude": 135.1813454
+    },
+    {
+        "category": "adventure parks",
+        "title": "遊園地",
+        "rating": 3.7,
+        "address": "Japan, 〒606-8333 Kyoto, Sakyo Ward, Okazaki Hoshojicho",
+        "latitude": 35.0126829,
+        "longitude": 135.7862353
+    },
+    {
+        "category": "adventure parks",
+        "title": "SAMURAI NINJA MUSEUM Kyoto",
+        "rating": 4.8,
+        "address": "109 Horinouecho, Nakagyo Ward, Kyoto, 604-8117, Japan",
+        "latitude": 35.0072167,
+        "longitude": 135.7635673
+    },
+    {
+        "category": "adventure parks",
+        "title": "Round Fountains",
+        "rating": 4.6,
+        "address": "Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+        "latitude": 34.9955463,
+        "longitude": 135.7811534
+    },
+    {
+        "category": "adventure parks",
+        "title": "Logos Land",
+        "rating": 3.9,
+        "address": "Okawara-24-4 Terada, Joyo, Kyoto 610-0121, Japan",
+        "latitude": 34.8549682,
+        "longitude": 135.7975799
+    },
+    {
+        "category": "adventure parks",
+        "title": "Rurikeionsen Potepote Park",
+        "rating": 4,
+        "address": "Sonobecho Okawachi, Nantan, Kyoto 622-0065, Japan",
+        "latitude": 35.0296516,
+        "longitude": 135.39860529999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Kyoto Samurai",
+        "rating": 5,
+        "address": "Japan, 〒604-8035 Kyoto, Nakagyo Ward, Sakuranocho, 438-1",
+        "latitude": 35.0071037,
+        "longitude": 135.76715579999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Toei Uzumasa Eigamura Studio Park's 2nd entrance",
+        "rating": 4.2,
+        "address": "Uzumasa Nishihachiokacho, Ukyo Ward, Kyoto, 616-8163, Japan",
+        "latitude": 35.0156467,
+        "longitude": 135.7041887
+    },
+    {
+        "category": "adventure parks",
+        "title": "Real Samurai Experience In Kyoto 京都サムライ体験",
+        "rating": null,
+        "address": "Japan, 〒616-8586 Kyoto, Ukyo Ward, Uzumasa Higashihachiokacho, 10",
+        "latitude": 35.0163009,
+        "longitude": 135.7086582
+    },
+    {
+        "category": "adventure parks",
+        "title": "Misayama Park",
+        "rating": 3.9,
+        "address": "282 Misayamacho, Nakagyo Ward, Kyoto, 604-8147, Japan",
+        "latitude": 35.006343699999995,
+        "longitude": 135.76139129999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "太陽が丘 アウトドアパーク【水上アスレチック】",
+        "rating": 4.7,
+        "address": "Japan, 〒611-0031 Kyoto, Uji, Hironocho, Hachikenyadani−1",
+        "latitude": 34.8701116,
+        "longitude": 135.80292269999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventure Forest",
+        "rating": 4,
+        "address": "Hachikenyadani-１ Hironocho, Uji, Kyoto 611-0021, Japan",
+        "latitude": 34.873829799999996,
+        "longitude": 135.80222659999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Kurama Hot Spring",
+        "rating": 4.3,
+        "address": "520 Kuramahonmachi, Sakyo Ward, Kyoto, 601-1111, Japan",
+        "latitude": 35.119211,
+        "longitude": 135.7765613
+    },
+    {
+        "category": "hot springs",
+        "title": "Tenzan no Yu",
+        "rating": 4.2,
+        "address": "７, 55-4 Saganomiyanomotocho, Ukyo Ward, Kyoto, 616-8315, Japan",
+        "latitude": 35.0139695,
+        "longitude": 135.6932823
+    },
+    {
+        "category": "hot springs",
+        "title": "Kyōto Katsura-Onsen Nizaemon no Yu",
+        "rating": 3.9,
+        "address": "5 Katagiharabonyama, Nishikyo Ward, Kyoto, 615-8165, Japan",
+        "latitude": 34.9759574,
+        "longitude": 135.68783639999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Fu Fu No Yu Onsen",
+        "rating": 4.1,
+        "address": "1 Arashiyama Kamikawaracho, Nishikyo Ward, Kyoto, 616-0001, Japan",
+        "latitude": 35.0115907,
+        "longitude": 135.6799981
+    },
+    {
+        "category": "hot springs",
+        "title": "Funaoka Onsen",
+        "rating": 4.3,
+        "address": "82-1 Murasakino Minamifunaokacho, Kita Ward, Kyoto, 603-8225, Japan",
+        "latitude": 35.0370342,
+        "longitude": 135.744651
+    },
+    {
+        "category": "hot springs",
+        "title": "Hanano Yu",
+        "rating": 3.9,
+        "address": "15-3 Mibumatsubaracho, Nakagyo Ward, Kyoto, 604-8823, Japan",
+        "latitude": 34.999617199999996,
+        "longitude": 135.7425486
+    },
+    {
+        "category": "hot springs",
+        "title": "Thoron Onsen Inari",
+        "rating": 4.4,
+        "address": "4 Imashinzaikenishicho, Nakagyo Ward, Kyoto, 604-8801, Japan",
+        "latitude": 35.0082075,
+        "longitude": 135.74663859999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Kyoto Takenosato Onsen Man-yo no Yu",
+        "rating": 3.8,
+        "address": "2 Chome-4 Oharano Higashisakaidanicho, Nishikyo Ward, Kyoto, 610-1143, Japan",
+        "latitude": 34.9640507,
+        "longitude": 135.6761134
+    },
+    {
+        "category": "hot springs",
+        "title": "Hatoya Zuihokaku（kyoto onsen）",
+        "rating": 4.1,
+        "address": "802番地 Minamifudodocho, Shimogyo Ward, Kyoto, 600-8234, Japan",
+        "latitude": 34.9867546,
+        "longitude": 135.7551265
+    },
+    {
+        "category": "hot springs",
+        "title": "Onyado Nono Kyotoshichijo",
+        "rating": 4.5,
+        "address": "491番地 Zaimokucho, Shimogyo Ward, Kyoto, 600-8146, Japan",
+        "latitude": 34.989039399999996,
+        "longitude": 135.7623577
+    },
+    {
+        "category": "hot springs",
+        "title": "Fudo Hot Spring",
+        "rating": 4.2,
+        "address": "1-244 Kitashirakawa Jizodanicho, 京都市左京区 Kyoto 606-8294, Japan",
+        "latitude": 35.03815,
+        "longitude": 135.809116
+    },
+    {
+        "category": "hot springs",
+        "title": "Kyoto Kitashirakawa Natural Radium Hot Spring Eisen Kyo",
+        "rating": 4.3,
+        "address": "１-125 Kitashirakawa Jizodanicho, Sakyo Ward, Kyoto, 606-8294, Japan",
+        "latitude": 35.037794999999996,
+        "longitude": 135.809078
+    },
+    {
+        "category": "hot springs",
+        "title": "Dormy Inn Premium Kyoto Ekimae",
+        "rating": 4.3,
+        "address": "558-8 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+        "latitude": 34.9874424,
+        "longitude": 135.7619008
+    },
+    {
+        "category": "hot springs",
+        "title": "Shijo Kawaramachi Onsen Sora Niwa Terrace Kyoto",
+        "rating": 4.4,
+        "address": "324番地 Inaricho, Shimogyo Ward, Kyoto, 600-8022, Japan",
+        "latitude": 35.002577599999995,
+        "longitude": 135.769592
+    },
+    {
+        "category": "hot springs",
+        "title": "Goko-yu",
+        "rating": 4.3,
+        "address": "590-12 Kakimotocho, Shimogyo Ward, Kyoto, 600-8357, Japan",
+        "latitude": 34.996932,
+        "longitude": 135.74978199999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Kyoto Arashiyama Onsen Kadensho",
+        "rating": 4,
+        "address": "5-4 Arashiyama Nishiichikawacho, Nishikyo Ward, Kyoto, 616-0003, Japan",
+        "latitude": 35.0106897,
+        "longitude": 135.680376
+    },
+    {
+        "category": "hot springs",
+        "title": "Yumoto Onsen OharaSansou",
+        "rating": 4.3,
+        "address": "17 Oharakusaocho, Sakyo Ward, Kyoto, 601-1248, Japan",
+        "latitude": 35.1238357,
+        "longitude": 135.8219643
+    },
+    {
+        "category": "hot springs",
+        "title": "Yamashiro Onsen",
+        "rating": 4.2,
+        "address": "218 Shimoyokocho, Kamigyo Ward, Kyoto, 602-8373, Japan",
+        "latitude": 35.0240298,
+        "longitude": 135.7347145
+    },
+    {
+        "category": "hot springs",
+        "title": "Makoto-no-yu",
+        "rating": 4.1,
+        "address": "81-6 Nishishinyashiki Tayucho, Shimogyo Ward, Kyoto, 600-8827, Japan",
+        "latitude": 34.992368299999995,
+        "longitude": 135.7443492
+    },
+    {
+        "category": "hot springs",
+        "title": "Ryugu Onsen",
+        "rating": 3.8,
+        "address": "1054 Shuzeicho, Kamigyo Ward, Kyoto, 602-8155, Japan",
+        "latitude": 35.017565999999995,
+        "longitude": 135.744427
+    },
+    {
+        "category": "shopping malls",
+        "title": "Kyoto Station Building",
+        "rating": 4.1,
+        "address": "901 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+        "latitude": 34.986035799999996,
+        "longitude": 135.75899809999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "AEON MALL KYOTO",
+        "rating": 4,
+        "address": "1 Nishikujo Toriiguchicho, Minami Ward, Kyoto, 601-8417, Japan",
+        "latitude": 34.9827278,
+        "longitude": 135.75445539999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Kyoto Tower Sando",
+        "rating": 4,
+        "address": "京都タワービル 地下1階～2階, 721-1 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+        "latitude": 34.9875514,
+        "longitude": 135.7592807
+    },
+    {
+        "category": "shopping malls",
+        "title": "Kyoto BAL",
+        "rating": 4.1,
+        "address": "251 Yamazakicho, Nakagyo Ward, Kyoto, 604-8032, Japan",
+        "latitude": 35.0069369,
+        "longitude": 135.76952939999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Kyoto Avanti",
+        "rating": 3.8,
+        "address": "31 Higashikujo Nishisannocho, Minami Ward, Kyoto, 601-8003, Japan",
+        "latitude": 34.9835478,
+        "longitude": 135.7601589
+    },
+    {
+        "category": "shopping malls",
+        "title": "Kawaramachi OPA",
+        "rating": 3.7,
+        "address": "385番地 Komeyacho, Nakagyo Ward, Kyoto, 604-8505, Japan",
+        "latitude": 35.004541599999996,
+        "longitude": 135.7689273
+    },
+    {
+        "category": "shopping malls",
+        "title": "Kyoto Porta",
+        "rating": 3.9,
+        "address": "902 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+        "latitude": 34.986711899999996,
+        "longitude": 135.7597486
+    },
+    {
+        "category": "shopping malls",
+        "title": "ASTY Kyoto",
+        "rating": 3.8,
+        "address": "8-3 Higashishiokoji Takakuracho, Shimogyo Ward, Kyoto, 600-8214, Japan",
+        "latitude": 34.9847035,
+        "longitude": 135.7600905
+    },
+    {
+        "category": "shopping malls",
+        "title": "Kyoto Kawaramachi Garden",
+        "rating": 3.7,
+        "address": "68 Shincho, Shimogyo Ward, Kyoto, 600-8001, Japan",
+        "latitude": 35.003462,
+        "longitude": 135.769735
+    },
+    {
+        "category": "shopping malls",
+        "title": "mina Kyoto",
+        "rating": 3.9,
+        "address": "58 Daikokucho, Nakagyo Ward, Kyoto, 604-8031, Japan",
+        "latitude": 35.0078713,
+        "longitude": 135.76874139999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "ShinPuhKan",
+        "rating": 4.1,
+        "address": "586-2 Banocho, Nakagyo Ward, Kyoto, 604-8185, Japan",
+        "latitude": 35.009582699999996,
+        "longitude": 135.7598315
+    },
+    {
+        "category": "shopping malls",
+        "title": "AEON MALL Kyoto Gojo",
+        "rating": 3.8,
+        "address": "25-1 Saiinoiwakecho, Ukyo Ward, Kyoto, 615-0035, Japan",
+        "latitude": 34.997203999999996,
+        "longitude": 135.72705829999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Aeon Mall Kyoto Katsuragawa",
+        "rating": 3.9,
+        "address": "376-1 Kuzetakadacho, Minami Ward, Kyoto, 601-8601, Japan",
+        "latitude": 34.9634382,
+        "longitude": 135.70785519999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Zest Oike",
+        "rating": 3.6,
+        "address": "492-1 Shimohonnojimaecho, Nakagyo Ward, Kyoto, 604-8091, Japan",
+        "latitude": 35.010875299999995,
+        "longitude": 135.7678516
+    },
+    {
+        "category": "shopping malls",
+        "title": "Kyoto ZERO GATE",
+        "rating": 4.3,
+        "address": "83-1 Tachiuri Nakanocho, Shimogyo Ward, Kyoto, 600-8006, Japan",
+        "latitude": 35.0039446,
+        "longitude": 135.76273989999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "AEON MALL Kitaoji",
+        "rating": 3.7,
+        "address": "49-1 Koyamakitakamifusacho, Kita Ward, Kyoto, 603-8142, Japan",
+        "latitude": 35.044975,
+        "longitude": 135.75823309999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "RACTO Yamashina Shopping Center",
+        "rating": 3.5,
+        "address": "91 Takehanatakenokaidocho, Yamashina Ward, Kyoto, 607-8080, Japan",
+        "latitude": 34.9908414,
+        "longitude": 135.8168419
+    },
+    {
+        "category": "shopping malls",
+        "title": "Teramachi Shopping Street",
+        "rating": 4.1,
+        "address": "Nakagyo Ward, Kyoto, 600-8003, Japan",
+        "latitude": 35.0037877,
+        "longitude": 135.7668754
+    },
+    {
+        "category": "shopping malls",
+        "title": "Kyoto Shinkyogoku Shopping Street",
+        "rating": 4.3,
+        "address": "438-1 Sakuranocho, Nakagyo Ward, Kyoto, 604-8035, Japan",
+        "latitude": 35.0071037,
+        "longitude": 135.76715579999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Nishiki Market",
+        "rating": 4.3,
+        "address": "Nakagyo Ward, Kyoto, 604-8055, Japan",
+        "latitude": 35.0050258,
+        "longitude": 135.764723
+    },
+    {
+        "category": "historical sites",
+        "title": "Nijō Castle",
+        "rating": 4.4,
+        "address": "541 Nijojocho, Nakagyo Ward, Kyoto, 604-8301, Japan",
+        "latitude": 35.0140379,
+        "longitude": 135.7484258
+    },
+    {
+        "category": "historical sites",
+        "title": "Kinkaku-ji",
+        "rating": 4.5,
+        "address": "1 Kinkakujicho, Kita Ward, Kyoto, 603-8361, Japan",
+        "latitude": 35.03937,
+        "longitude": 135.7292431
+    },
+    {
+        "category": "historical sites",
+        "title": "Kiyomizu-dera",
+        "rating": 4.5,
+        "address": "1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+        "latitude": 34.9946662,
+        "longitude": 135.784661
+    },
+    {
+        "category": "historical sites",
+        "title": "Kyoto Imperial Palace",
+        "rating": 4.5,
+        "address": "内 Kyotogyoen, Kamigyo Ward, Kyoto, 602-0811, Japan",
+        "latitude": 35.0240977,
+        "longitude": 135.7621436
+    },
+    {
+        "category": "historical sites",
+        "title": "Fushimi Inari Taisha",
+        "rating": 4.6,
+        "address": "68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882, Japan",
+        "latitude": 34.9676945,
+        "longitude": 135.7791876
+    },
+    {
+        "category": "historical sites",
+        "title": "Kyoto Sento Imperial Palace (not main palace)",
+        "rating": 4.4,
+        "address": "Kyotogyoen, Kamigyo Ward, Kyoto, 602-0881, Japan",
+        "latitude": 35.0223399,
+        "longitude": 135.7651343
+    },
+    {
+        "category": "historical sites",
+        "title": "Kyoto Prefectural Office - Former Main Building",
+        "rating": 4.1,
+        "address": "薮ノ内町, Kamigyo Ward, Kyoto, 602-8570, Japan",
+        "latitude": 35.0207125,
+        "longitude": 135.7556047
+    },
+    {
+        "category": "historical sites",
+        "title": "Ginkaku-ji",
+        "rating": 4.5,
+        "address": "2 Ginkakujicho, Sakyo Ward, Kyoto, 606-8402, Japan",
+        "latitude": 35.0270213,
+        "longitude": 135.7982058
+    },
+    {
+        "category": "historical sites",
+        "title": "To-ji Temple",
+        "rating": 4.5,
+        "address": "1 Kujocho, Minami Ward, Kyoto, 601-8473, Japan",
+        "latitude": 34.9803395,
+        "longitude": 135.7476935
+    },
+    {
+        "category": "historical sites",
+        "title": "Sannenzaka",
+        "rating": 4.4,
+        "address": "2 Chome-211 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+        "latitude": 34.9966644,
+        "longitude": 135.78100799999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Shugakuin Imperial Villa",
+        "rating": 4.5,
+        "address": "Shugakuin Yabusoe, Sakyo Ward, Kyoto, 606-8052, Japan",
+        "latitude": 35.053756799999995,
+        "longitude": 135.8003498
+    },
+    {
+        "category": "historical sites",
+        "title": "SAMURAI NINJA MUSEUM Kyoto",
+        "rating": 4.8,
+        "address": "109 Horinouecho, Nakagyo Ward, Kyoto, 604-8117, Japan",
+        "latitude": 35.0072167,
+        "longitude": 135.7635673
+    },
+    {
+        "category": "historical sites",
+        "title": "Kyoto Samurai & Kyoto Swords (Annex of Kyoto Samurai Museum)",
+        "rating": 4.9,
+        "address": "JP 604-8043, 4 Higashidaimonjicho, Nakagyo Ward, Kyoto, 292, Japan",
+        "latitude": 35.0048501,
+        "longitude": 135.766638
+    },
+    {
+        "category": "historical sites",
+        "title": "Site of Former Nijō-jō Castle",
+        "rating": 3.6,
+        "address": "室町館, 221 Bueijincho, Kamigyo Ward, Kyoto, 602-8029, Japan",
+        "latitude": 35.0198676,
+        "longitude": 135.7579155
+    },
+    {
+        "category": "historical sites",
+        "title": "Ryōan-ji",
+        "rating": 4.5,
+        "address": "13 Ryoanji Goryonoshitacho, Ukyo Ward, Kyoto, 616-8001, Japan",
+        "latitude": 35.0344943,
+        "longitude": 135.71826339999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Ninomaru-goten Palace",
+        "rating": 4.5,
+        "address": "541番地 Nijojocho, Nakagyo Ward, Kyoto, 604-8301, Japan",
+        "latitude": 35.0133402,
+        "longitude": 135.7501834
+    },
+    {
+        "category": "historical sites",
+        "title": "Ninenzaka",
+        "rating": 4.5,
+        "address": "清水-2丁目-363-12 Masuyacho, Higashiyama Ward, Kyoto, 605-0826, Japan",
+        "latitude": 34.998174399999996,
+        "longitude": 135.7808578
+    },
+    {
+        "category": "historical sites",
+        "title": "Heian Jingu Shrine",
+        "rating": 4.4,
+        "address": "97 Okazaki Nishitennocho, Sakyo Ward, Kyoto, 606-8341, Japan",
+        "latitude": 35.0159823,
+        "longitude": 135.7824263
+    },
+    {
+        "category": "historical sites",
+        "title": "Byōdo-in Temple",
+        "rating": 4.5,
+        "address": "Renge-116 Uji, Kyoto 611-0021, Japan",
+        "latitude": 34.8892908,
+        "longitude": 135.8076783
+    },
+    {
+        "category": "historical sites",
+        "title": "Site of Kyoto New Castle",
+        "rating": 3.9,
+        "address": "５５ Higashisakuracho, Kamigyo Ward, Kyoto, 602-0881, Japan",
+        "latitude": 35.0214582,
+        "longitude": 135.7643468
+    },
+    {
+        "category": "art galleries",
+        "title": "The National Museum of Modern Art, Kyoto",
+        "rating": 4.1,
+        "address": "26-1 Okazaki Enshojicho, Sakyo Ward, Kyoto, 606-8344, Japan",
+        "latitude": 35.0124077,
+        "longitude": 135.7821571
+    },
+    {
+        "category": "art galleries",
+        "title": "Kyoto City KYOCERA Museum of Art",
+        "rating": 4.4,
+        "address": "124 Okazaki Enshojicho, Sakyo Ward, Kyoto, 606-8344, Japan",
+        "latitude": 35.0128613,
+        "longitude": 135.78355439999999
+    },
+    {
+        "category": "art galleries",
+        "title": "The Museum of Kyoto",
+        "rating": 4.1,
+        "address": "623-1 Higashikatamachi, Nakagyo Ward, Kyoto, 604-8183, Japan",
+        "latitude": 35.0092144,
+        "longitude": 135.7624127
+    },
+    {
+        "category": "art galleries",
+        "title": "Kahitsukan – Kyoto Museum of Contemporary Art",
+        "rating": 4.1,
+        "address": "271 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073, Japan",
+        "latitude": 35.0039756,
+        "longitude": 135.7754404
+    },
+    {
+        "category": "art galleries",
+        "title": "Kyoto National Museum",
+        "rating": 4.3,
+        "address": "527 Chayacho, Higashiyama Ward, Kyoto, 605-0931, Japan",
+        "latitude": 34.9899887,
+        "longitude": 135.773116
+    },
+    {
+        "category": "art galleries",
+        "title": "Kyoto Museum of Photography",
+        "rating": 4.2,
+        "address": "374-2 Horiikecho, Higashiyama Ward, Kyoto, 605-0038, Japan",
+        "latitude": 35.0099406,
+        "longitude": 135.7826809
+    },
+    {
+        "category": "art galleries",
+        "title": "Gallery of Kyoto Traditional Arts & Crafts",
+        "rating": 4,
+        "address": "606 Banocho, Nakagyo Ward, Kyoto, 604-8172, Japan",
+        "latitude": 35.009023899999995,
+        "longitude": 135.7594061
+    },
+    {
+        "category": "art galleries",
+        "title": "Hosomi Museum",
+        "rating": 4,
+        "address": "細見美術館 3F, 6-3 Okazaki Saishojicho, Sakyo Ward, Kyoto, 606-8342, Japan",
+        "latitude": 35.0138617,
+        "longitude": 135.7796699
+    },
+    {
+        "category": "art galleries",
+        "title": "Kyoto International Manga Museum",
+        "rating": 4.2,
+        "address": "452 Kinbukicho, Nakagyo Ward, Kyoto, 604-0846, Japan",
+        "latitude": 35.0118576,
+        "longitude": 135.7594192
+    },
+    {
+        "category": "art galleries",
+        "title": "Fukuda Art Museum",
+        "rating": 4.3,
+        "address": "3-16 Sagatenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8385, Japan",
+        "latitude": 35.0137976,
+        "longitude": 135.6763619
+    },
+    {
+        "category": "art galleries",
+        "title": "Asahi Beer Ōyamazaki Villa Museum of Art",
+        "rating": 4.4,
+        "address": "Zenihara-５-3, Oyamazaki, Otokuni District, Kyoto 618-0071, Japan",
+        "latitude": 34.8955629,
+        "longitude": 135.67966719999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Gion Kagai Art Museum",
+        "rating": 4.3,
+        "address": "Yasaka club, 570-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074, Japan",
+        "latitude": 35.0012042,
+        "longitude": 135.7754608
+    },
+    {
+        "category": "art galleries",
+        "title": "Nomura Art Museum",
+        "rating": 4.2,
+        "address": "61 Nanzenji Shimokawaracho, Sakyo Ward, Kyoto, 606-8434, Japan",
+        "latitude": 35.0129452,
+        "longitude": 135.79331829999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum of Oribe Furuta",
+        "rating": 3.7,
+        "address": "107-2 Kamigamo Sakuraicho, Kita Ward, Kyoto, 603-8054, Japan",
+        "latitude": 35.0510966,
+        "longitude": 135.7622332
+    },
+    {
+        "category": "art galleries",
+        "title": "Kyoto Prefectural Insho-Domoto Museum of Fine Arts",
+        "rating": 4.2,
+        "address": "26-3 Hirano Kamiyanagicho, Kita Ward, Kyoto, 603-8355, Japan",
+        "latitude": 35.0351389,
+        "longitude": 135.7260629
+    },
+    {
+        "category": "art galleries",
+        "title": "Raku Museum",
+        "rating": 4.3,
+        "address": "87-1 Aburahashizumecho, Kamigyo Ward, Kyoto, 602-0923, Japan",
+        "latitude": 35.025548199999996,
+        "longitude": 135.7534752
+    },
+    {
+        "category": "art galleries",
+        "title": "Kyoto Museum of Crafts and Design",
+        "rating": 4.2,
+        "address": "みやこめっせ B1F, 9-1 Okazaki Seishojicho, Sakyo Ward, Kyoto, 606-8343, Japan",
+        "latitude": 35.0132124,
+        "longitude": 135.7812074
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum EKI Kyoto",
+        "rating": 4.2,
+        "address": "ジェイアール京都伊勢丹 7階隣接, Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8555, Japan",
+        "latitude": 34.985717099999995,
+        "longitude": 135.7579427
+    },
+    {
+        "category": "art galleries",
+        "title": "Heisei Chishinkan Wing, Kyoto National Museum",
+        "rating": 4.3,
+        "address": "527 Chayacho, Higashiyama Ward, Kyoto, 605-0931, Japan",
+        "latitude": 34.9905995,
+        "longitude": 135.7726236
+    },
+    {
+        "category": "art galleries",
+        "title": "ZENBI-鍵善良房-KAGIZEN ART MUSEUM",
+        "rating": 4.2,
+        "address": "Japan, 〒605-0074 Kyoto, Higashiyama Ward, Gionmachi Minamigawa, 570-107",
+        "latitude": 35.0030741,
+        "longitude": 135.77342009999998
+    },
+    {
+        "category": "theaters",
+        "title": "Minamiza Theater",
+        "rating": 4.4,
+        "address": "京都市東山区四条大橋東詰, Kyoto 605-0075, Japan",
+        "latitude": 35.0034444,
+        "longitude": 135.7724632
+    },
+    {
+        "category": "theaters",
+        "title": "Kyoto Theater",
+        "rating": 4.2,
+        "address": "Kyoto Station Building, 901 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+        "latitude": 34.9860277,
+        "longitude": 135.7606567
+    },
+    {
+        "category": "theaters",
+        "title": "Gion Kōbu Kaburenjō",
+        "rating": 4.4,
+        "address": "570-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074, Japan",
+        "latitude": 35.001463199999996,
+        "longitude": 135.7758397
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Kyo no Furusato",
+        "rating": 4.8,
+        "address": "439 Sakuranocho, Nakagyo Ward, Kyoto, 604-8035, Japan",
+        "latitude": 35.0070738,
+        "longitude": 135.7671915
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Kyoto Benrido Main Branch",
+        "rating": 4.4,
+        "address": "302番地 Benzaitencho, Nakagyo Ward, Kyoto, 604-0093, Japan",
+        "latitude": 35.0152749,
+        "longitude": 135.7562868
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Omiyage Kaido",
+        "rating": 3.8,
+        "address": "JR京都駅 中央口改札外, Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8215, Japan",
+        "latitude": 34.985971299999996,
+        "longitude": 135.7585952
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Shijo Center - O tabi Kyoto",
+        "rating": 3.8,
+        "address": "624 Teianmaenocho, Shimogyo Ward, Kyoto, 600-8031, Japan",
+        "latitude": 35.0036169,
+        "longitude": 135.76726
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Kyo no Miyage",
+        "rating": 3.9,
+        "address": "アスティ京都 ホーム2, 8-3 Higashishiokoji Takakuracho, Shimogyo Ward, Kyoto, 600-8215, Japan",
+        "latitude": 34.984459799999996,
+        "longitude": 135.7589309
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Kyoto Komamehan",
+        "rating": 4.9,
+        "address": "550 Nakanocho, Nakagyo Ward, Kyoto, 604-8042, Japan",
+        "latitude": 35.004265499999995,
+        "longitude": 135.7670911
+    },
+    {
+        "category": "souvenir counters",
+        "title": "GIFT KIOSK",
+        "rating": 3.9,
+        "address": "京都駅構内, SHINKANSEN East Transfer, ８-3 Higashishiokoji Takakuracho, Shimogyo Ward, Kyoto, 600-8214, Japan",
+        "latitude": 34.9845469,
+        "longitude": 135.7590354
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Kyoto Souzen - Kyoto Station",
+        "rating": 5,
+        "address": "京都駅前地下街ポルタ 「きょうこのみ」 内, 902 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216, Japan",
+        "latitude": 34.986516699999996,
+        "longitude": 135.7602262
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir Kyoto",
+        "rating": 4,
+        "address": "577-1 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074, Japan",
+        "latitude": 35.003699,
+        "longitude": 135.7740714
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Grand Kiosk Kyoto",
+        "rating": 3.7,
+        "address": "ＪＲ京都 駅, ８-3 Higashishiokoji Takakuracho, Shimogyo Ward, Kyoto, 600-8214, Japan",
+        "latitude": 34.9848134,
+        "longitude": 135.7598188
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Kazari Nishiki",
+        "rating": 4.8,
+        "address": "Japan, 〒604-8055 Kyoto, Nakagyo Ward, 十文字町458−1",
+        "latitude": 35.0050715,
+        "longitude": 135.76403879999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Natural Cocoon Souvenir Shop",
+        "rating": 5,
+        "address": "19-5 Sagatenryuji Tsukurimichicho, Ukyo Ward, Kyoto, 616-8384, Japan",
+        "latitude": 35.0156316,
+        "longitude": 135.6774274
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hanamizuki",
+        "rating": 5,
+        "address": "155-1 Ebisucho, Higashiyama Ward, Kyoto, 605-0033, Japan",
+        "latitude": 35.0094419,
+        "longitude": 135.7829071
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Nani Souvenir Shop",
+        "rating": 5,
+        "address": "kyoto.naniya@gmail.com, 523 Izumicho, Shimogyo Ward, Kyoto, 600-8188, Japan",
+        "latitude": 34.995101399999996,
+        "longitude": 135.76117779999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Kyoto Memory",
+        "rating": 3.3,
+        "address": "京みやげ京都メモリー, 東側町-523 Higashigawacho, Nakagyo Ward, Kyoto, 604-8046, Japan",
+        "latitude": 35.0054607,
+        "longitude": 135.7672591
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Saracens",
+        "rating": 4.6,
+        "address": "16 Ishibashicho, Nakagyo Ward, Kyoto, 604-8036, Japan",
+        "latitude": 35.008797099999995,
+        "longitude": 135.76789929999998
+    }
+]

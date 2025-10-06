@@ -1,0 +1,1322 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "N Seoul Tower",
+        "rating": 4.5,
+        "address": "105 Namsangongwon-gil, Yongsan District, Seoul, South Korea",
+        "latitude": 37.5511694,
+        "longitude": 126.98822659999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Bukchon Hanok Village",
+        "rating": 4.4,
+        "address": "Gyedong-gil, Jongno District, Seoul, South Korea",
+        "latitude": 37.5814696,
+        "longitude": 126.9849519
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Cheonggyecheon",
+        "rating": 4.5,
+        "address": "Jongno District, Seoul, South Korea",
+        "latitude": 37.569101499999995,
+        "longitude": 126.9786692
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Namsangol Hanok Village",
+        "rating": 4.4,
+        "address": "28 Toegye-ro 34-gil, Jung District, Seoul, South Korea",
+        "latitude": 37.559315,
+        "longitude": 126.99447699999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "National Museum of Korea",
+        "rating": 4.7,
+        "address": "137 Seobinggo-ro, Yongsan District, Seoul, South Korea",
+        "latitude": 37.523850599999996,
+        "longitude": 126.9804702
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Lotte World",
+        "rating": 4.3,
+        "address": "240 Olympic-ro, Songpa District, Seoul, South Korea",
+        "latitude": 37.5111158,
+        "longitude": 127.09816699999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Insa-dong Culture Street",
+        "rating": 4.3,
+        "address": "Insa-dong, Jongno District, Seoul, South Korea",
+        "latitude": 37.5721517,
+        "longitude": 126.9867517
+    },
+    {
+        "category": "tourist attractions",
+        "title": "트릭아이뮤지엄",
+        "rating": 4.2,
+        "address": "20 B2 Hongik-ro 3-gil, Mapo-gu, Seoul, South Korea",
+        "latitude": 37.5537926,
+        "longitude": 126.92191539999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Seoulland",
+        "rating": 4.3,
+        "address": "181 Gwangmyeong-ro, Gwacheon-si, Gyeonggi-do, South Korea",
+        "latitude": 37.4341563,
+        "longitude": 127.02012669999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Love Lock of Seoul Tower",
+        "rating": 4.6,
+        "address": "Yejang-dong, Jung District, Seoul, South Korea",
+        "latitude": 37.5520809,
+        "longitude": 126.9875684
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Gyeongbokgung Palace",
+        "rating": 4.6,
+        "address": "161 Sajik-ro, Jongno District, Seoul, South Korea",
+        "latitude": 37.579617,
+        "longitude": 126.977041
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Gwanghwamun Square",
+        "rating": 4.5,
+        "address": "172 Sejong-daero, Jongno District, Seoul, South Korea",
+        "latitude": 37.572389,
+        "longitude": 126.97691169999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Myeongdong Shopping Street",
+        "rating": 4.3,
+        "address": "Myeong-dong 2(i)-ga, Jung District, Seoul, South Korea",
+        "latitude": 37.5637699,
+        "longitude": 126.9844765
+    },
+    {
+        "category": "tourist attractions",
+        "title": "National Palace Museum of Korea",
+        "rating": 4.6,
+        "address": "12 Hyoja-ro, Jongno District, Seoul, South Korea",
+        "latitude": 37.5766084,
+        "longitude": 126.97495099999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Central Asia Road",
+        "rating": 4.6,
+        "address": "Eulji-ro 42-gil, Gwanghui-dong, Jung District, Seoul, South Korea",
+        "latitude": 37.565506,
+        "longitude": 127.0054629
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Gwanghwamun Gate",
+        "rating": 4.7,
+        "address": "161 Sajik-ro, Jongno District, Seoul, South Korea",
+        "latitude": 37.576011099999995,
+        "longitude": 126.9768611
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Lotte World Tower",
+        "rating": 4.4,
+        "address": "300 Olympic-ro, Songpa District, Seoul, South Korea",
+        "latitude": 37.512464099999995,
+        "longitude": 127.102543
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Seoullo 7017",
+        "rating": 4.2,
+        "address": "432 Cheongpa-ro, Jung District, Seoul, South Korea",
+        "latitude": 37.556713699999996,
+        "longitude": 126.96957529999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Namsan Mountain Park",
+        "rating": 4.6,
+        "address": "231 Samil-daero, Jung District, Seoul, South Korea",
+        "latitude": 37.5509895,
+        "longitude": 126.9908991
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ihwa-dong Mural Village",
+        "rating": 4.1,
+        "address": "49 Naksan 4-gil, Jongno District, Seoul, South Korea",
+        "latitude": 37.5779788,
+        "longitude": 127.00719149999999
+    },
+    {
+        "category": "parks",
+        "title": "Namsan Mountain Park",
+        "rating": 4.6,
+        "address": "231 Samil-daero, Jung District, Seoul, South Korea",
+        "latitude": 37.5509895,
+        "longitude": 126.9908991
+    },
+    {
+        "category": "parks",
+        "title": "Seoul Forest Park",
+        "rating": 4.6,
+        "address": "273 Ttukseom-ro, Seongdong-gu, Seoul, South Korea",
+        "latitude": 37.544387799999996,
+        "longitude": 127.03744239999999
+    },
+    {
+        "category": "parks",
+        "title": "Yongsan Family Park",
+        "rating": 4.6,
+        "address": "185 Seobinggo-ro, Yongsan District, Seoul, South Korea",
+        "latitude": 37.5211389,
+        "longitude": 126.98393779999999
+    },
+    {
+        "category": "parks",
+        "title": "Yeouido Hangang Park",
+        "rating": 4.5,
+        "address": "330 Yeouidong-ro, Yeongdeungpo District, Seoul, South Korea",
+        "latitude": 37.5267106,
+        "longitude": 126.9347112
+    },
+    {
+        "category": "parks",
+        "title": "Haneul Park",
+        "rating": 4.5,
+        "address": "95 Haneulgongwon-ro, Mapo-gu, Seoul, South Korea",
+        "latitude": 37.5674533,
+        "longitude": 126.8854782
+    },
+    {
+        "category": "parks",
+        "title": "Gyeongui Line Forest Park",
+        "rating": 4.5,
+        "address": "133 Donggyo-ro 51-gil, Mapo-gu, Seoul, South Korea",
+        "latitude": 37.558886799999996,
+        "longitude": 126.92542739999999
+    },
+    {
+        "category": "parks",
+        "title": "Yeouido Park",
+        "rating": 4.4,
+        "address": "68 Yeouigongwon-ro, Yeongdeungpo District, Seoul, South Korea",
+        "latitude": 37.5262751,
+        "longitude": 126.9228132
+    },
+    {
+        "category": "parks",
+        "title": "선유도공원",
+        "rating": 4.5,
+        "address": "343 Seonyu-ro, Yeongdeungpo District, Seoul, South Korea",
+        "latitude": 37.543569,
+        "longitude": 126.8997156
+    },
+    {
+        "category": "parks",
+        "title": "Dream Forest",
+        "rating": 4.5,
+        "address": "173 Wolgye-ro, Gangbuk-gu, Seoul, South Korea",
+        "latitude": 37.6214313,
+        "longitude": 127.0406246
+    },
+    {
+        "category": "parks",
+        "title": "Olympic Park",
+        "rating": 4.6,
+        "address": "424 Olympic-ro, Songpa District, Seoul, South Korea",
+        "latitude": 37.5206868,
+        "longitude": 127.12149409999999
+    },
+    {
+        "category": "parks",
+        "title": "Namsan Park",
+        "rating": 4.5,
+        "address": "South Korea, Seoul, Jung District, Hoehyeon-dong 1(il)-ga, 100-166, -ga,",
+        "latitude": 37.553782,
+        "longitude": 126.98089449999999
+    },
+    {
+        "category": "parks",
+        "title": "Naksan Park",
+        "rating": 4.5,
+        "address": "41 Naksan-gil, Jongno District, Seoul, South Korea",
+        "latitude": 37.580657099999996,
+        "longitude": 127.00748349999999
+    },
+    {
+        "category": "parks",
+        "title": "Seoul Children's Grand Park",
+        "rating": 4.5,
+        "address": "216 Neungdong-ro, Gwangjin District, Seoul, South Korea",
+        "latitude": 37.549363,
+        "longitude": 127.08181259999999
+    },
+    {
+        "category": "parks",
+        "title": "Mangwon Hangang Park",
+        "rating": 4.5,
+        "address": "467 Maponaru-gil, 망원제1동, Mapo-gu, Seoul, South Korea",
+        "latitude": 37.552791899999995,
+        "longitude": 126.8985613
+    },
+    {
+        "category": "parks",
+        "title": "World Cup Park",
+        "rating": 4.5,
+        "address": "243-60 World Cup-ro, Mapo-gu, Seoul, South Korea",
+        "latitude": 37.5638735,
+        "longitude": 126.89350069999999
+    },
+    {
+        "category": "parks",
+        "title": "Marronnier Park",
+        "rating": 4.3,
+        "address": "1 Daehak-ro 8-gil, Jongno District, Seoul, South Korea",
+        "latitude": 37.5805009,
+        "longitude": 127.00282449999999
+    },
+    {
+        "category": "parks",
+        "title": "Boramae Park",
+        "rating": 4.5,
+        "address": "33 Yeouidaebang-ro 20-gil, Dongjak District, Seoul, South Korea",
+        "latitude": 37.493234199999996,
+        "longitude": 126.91971149999999
+    },
+    {
+        "category": "parks",
+        "title": "Bukhansan National Park",
+        "rating": 4.6,
+        "address": "262 Bogungmun-ro, Seongbuk District, Seoul, South Korea",
+        "latitude": 37.6190261,
+        "longitude": 126.9969584
+    },
+    {
+        "category": "parks",
+        "title": "노을공원",
+        "rating": 4.6,
+        "address": "486-6 상암동, Mapo-gu, Seoul, South Korea",
+        "latitude": 37.5735764,
+        "longitude": 126.87528449999999
+    },
+    {
+        "category": "parks",
+        "title": "서서울호수공원",
+        "rating": 4.5,
+        "address": "20 Nambusunhwan-ro 64-gil, Yangcheon District, Seoul, South Korea",
+        "latitude": 37.527671999999995,
+        "longitude": 126.82985199999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Jungsik Seoul",
+        "rating": 4.4,
+        "address": "11 Seolleung-ro 158-gil, Gangnam District, Seoul, South Korea",
+        "latitude": 37.525673399999995,
+        "longitude": 127.04108459999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Myeongdong Restaurant The Sic-ddang",
+        "rating": 4.6,
+        "address": "2층, 36 10길, Jung District, Seoul, South Korea",
+        "latitude": 37.56228,
+        "longitude": 126.98556479999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Braai Republic",
+        "rating": 4.5,
+        "address": "19 Itaewon-ro 14-gil, Yongsan District, Seoul, South Korea",
+        "latitude": 37.5334505,
+        "longitude": 126.9907633
+    },
+    {
+        "category": "restaurants",
+        "title": "Mingles",
+        "rating": 4.5,
+        "address": "2층, 힐탑빌딩, 19 Dosan-daero 67-gil, Gangnam District, Seoul, South Korea",
+        "latitude": 37.5253386,
+        "longitude": 127.04414519999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Myeongdong Kyoja Main Restaurant",
+        "rating": 4.2,
+        "address": "29 Myeongdong 10-gil, Jung District, Seoul, South Korea",
+        "latitude": 37.5625266,
+        "longitude": 126.985609
+    },
+    {
+        "category": "restaurants",
+        "title": "Vegan Kitchen",
+        "rating": 4.9,
+        "address": "21 Toegye-ro 20-gil, Jung District, Seoul, South Korea",
+        "latitude": 37.5592554,
+        "longitude": 126.9859855
+    },
+    {
+        "category": "restaurants",
+        "title": "MOSU Seoul",
+        "rating": 4.6,
+        "address": "4 Hoenamu-ro 41-gil, Yongsan District, Seoul, South Korea",
+        "latitude": 37.5411532,
+        "longitude": 126.9961548
+    },
+    {
+        "category": "restaurants",
+        "title": "Wangbijib Myeongdong Central",
+        "rating": 4.8,
+        "address": "45 Myeongdong 8na-gil, Jung District, Seoul, South Korea",
+        "latitude": 37.5610364,
+        "longitude": 126.9823871
+    },
+    {
+        "category": "restaurants",
+        "title": "Flavors",
+        "rating": 4.5,
+        "address": "2F, 176 Sinbanpo-ro, Seocho District, Seoul, South Korea",
+        "latitude": 37.503895799999995,
+        "longitude": 127.0047429
+    },
+    {
+        "category": "restaurants",
+        "title": "Petra",
+        "rating": 4.6,
+        "address": "33 Noksapyeong-daero 40-gil, Yongsan District, Seoul, South Korea",
+        "latitude": 37.5346319,
+        "longitude": 126.9876838
+    },
+    {
+        "category": "restaurants",
+        "title": "Seoul Dining",
+        "rating": 4.5,
+        "address": "272 Dongho-ro, Jung District, Seoul, South Korea",
+        "latitude": 37.5592198,
+        "longitude": 127.0036135
+    },
+    {
+        "category": "restaurants",
+        "title": "Jyoti Indian Restaurant",
+        "rating": 4.4,
+        "address": "3층, 6 Sinchon-ro 20-gil, Mapo-gu, Seoul, South Korea",
+        "latitude": 37.5549159,
+        "longitude": 126.93790059999999
+    },
+    {
+        "category": "restaurants",
+        "title": "La Yeon",
+        "rating": 4.5,
+        "address": "23층, 서울신라호텔, 249 Dongho-ro, Jangchung-dong, Jung District, Seoul, South Korea",
+        "latitude": 37.559032699999996,
+        "longitude": 127.0117243
+    },
+    {
+        "category": "restaurants",
+        "title": "COW&PIG2 Myeongdong Korean bbq Restaurants | COW & PIG | kbbq buffet All you can eat | 明洞 サムギョプサル 明洞美食 明洞烤肉 明洞牛肉",
+        "rating": 4.9,
+        "address": "South Korea, Seoul, Jung District, Myeongdong 4-gil, 26",
+        "latitude": 37.5625401,
+        "longitude": 126.9838164
+    },
+    {
+        "category": "restaurants",
+        "title": "L’Amant Secret",
+        "rating": 4.7,
+        "address": "67 Toegye-ro, Jung District, Seoul, South Korea",
+        "latitude": 37.5598403,
+        "longitude": 126.97951339999999
+    },
+    {
+        "category": "restaurants",
+        "title": "The Margaux Grill",
+        "rating": 4.5,
+        "address": "176 Sinbanpo-ro, Seocho District, Seoul, South Korea",
+        "latitude": 37.5038949,
+        "longitude": 127.00475189999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Halal Korean Restaurant (Home Cooked Meal Gim Soensaeng",
+        "rating": 4.9,
+        "address": "1~2층, 집밥김선생, 34-19 Itaewon-dong, Yongsan District, Seoul, South Korea",
+        "latitude": 37.5336795,
+        "longitude": 126.98902179999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Born and Bred",
+        "rating": 4.4,
+        "address": "1 Majang-ro 42-gil, Seongdong-gu, Seoul, South Korea",
+        "latitude": 37.5667249,
+        "longitude": 127.0445221
+    },
+    {
+        "category": "restaurants",
+        "title": "Kampungku Restaurant",
+        "rating": 4.5,
+        "address": "16-4 Namsan-dong 2(i)-ga, Jung District, Seoul, South Korea",
+        "latitude": 37.559020499999995,
+        "longitude": 126.98602059999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Jyoti Indian Restaurant Chungmuro",
+        "rating": 4.5,
+        "address": "12-4 Seoae-ro, Jung District, Seoul, South Korea",
+        "latitude": 37.5612681,
+        "longitude": 126.99792649999999
+    },
+    {
+        "category": "cafes",
+        "title": "Thanks Nature Cafe",
+        "rating": 4.5,
+        "address": "10 Hongik-ro, Mapo-gu, Seoul, South Korea",
+        "latitude": 37.5533849,
+        "longitude": 126.9237895
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee Hanyakbang",
+        "rating": 4.5,
+        "address": "16-6 Samil-daero 12-gil, Jung District, Seoul, South Korea",
+        "latitude": 37.5665301,
+        "longitude": 126.98859359999999
+    },
+    {
+        "category": "cafes",
+        "title": "Mouse Rabbit Coffee",
+        "rating": 4.6,
+        "address": "1 Neungdong-ro 11-gil, Gwangjin District, Seoul, South Korea",
+        "latitude": 37.5419628,
+        "longitude": 127.0708885
+    },
+    {
+        "category": "cafes",
+        "title": "KOTTON.SEOUL",
+        "rating": 4.7,
+        "address": "17 Insadong 12-gil, Jongno District, Seoul, South Korea",
+        "latitude": 37.5747261,
+        "longitude": 126.9849436
+    },
+    {
+        "category": "cafes",
+        "title": "Café Kitsuné Seoul",
+        "rating": 4.2,
+        "address": "23 Dosan-daero 13-gil, Gangnam District, Seoul, South Korea",
+        "latitude": 37.519593,
+        "longitude": 127.02275829999999
+    },
+    {
+        "category": "cafes",
+        "title": "The Spot Fabulous",
+        "rating": 4.1,
+        "address": "22 Myeongdong 2-gil, Jung District, Seoul, South Korea",
+        "latitude": 37.5623122,
+        "longitude": 126.98257819999999
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee Nap Roasters Yeonnam",
+        "rating": 4.5,
+        "address": "70 Seongmisan-ro 27-gil, Mapo-gu, Seoul, South Korea",
+        "latitude": 37.5664441,
+        "longitude": 126.9202076
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Knotted Anguk",
+        "rating": 4.4,
+        "address": "6-3 Bukchon-ro, Jongno District, Seoul, South Korea",
+        "latitude": 37.577461299999996,
+        "longitude": 126.9860468
+    },
+    {
+        "category": "cafes",
+        "title": "Namusairo Coffee",
+        "rating": 4.4,
+        "address": "21 Sajik-ro 8-gil, Jongno District, Seoul, South Korea",
+        "latitude": 37.5746756,
+        "longitude": 126.9709374
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Onion Anguk",
+        "rating": 4.2,
+        "address": "5 Gyedong-gil, Jongno District, Seoul, South Korea",
+        "latitude": 37.5776235,
+        "longitude": 126.98655409999999
+    },
+    {
+        "category": "cafes",
+        "title": "Seoul Coffee Ikseon Main",
+        "rating": 4.1,
+        "address": "166-31 Ikseon-dong, Jongno District, Seoul, South Korea",
+        "latitude": 37.573251899999995,
+        "longitude": 126.99007169999999
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Le Sens",
+        "rating": 4.9,
+        "address": "35 Daesagwan-ro, Yongsan District, Seoul, South Korea",
+        "latitude": 37.5337671,
+        "longitude": 127.00206659999999
+    },
+    {
+        "category": "cafes",
+        "title": "Perception",
+        "rating": 4.5,
+        "address": "16 Eoulmadang-ro 1-gil, Hapdžong-dong, Mapo-gu, Seoul, South Korea",
+        "latitude": 37.5466607,
+        "longitude": 126.91847399999999
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Gong Myoung",
+        "rating": 4.4,
+        "address": "32-4 Dosan-daero 15-gil, Gangnam District, Seoul, South Korea",
+        "latitude": 37.5205992,
+        "longitude": 127.02388029999999
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee Libre",
+        "rating": 4.5,
+        "address": "74 Myeongdong-gil, Jung District, Seoul, South Korea",
+        "latitude": 37.563992299999995,
+        "longitude": 126.9869877
+    },
+    {
+        "category": "cafes",
+        "title": "Layered Yeonnam",
+        "rating": 4.1,
+        "address": "161-4 Seongmisan-ro, Mapo-gu, Seoul, South Korea",
+        "latitude": 37.5649754,
+        "longitude": 126.92418219999999
+    },
+    {
+        "category": "cafes",
+        "title": "Bird The Cafe",
+        "rating": 4.4,
+        "address": "46 Toegye-ro 18-gil, Jung District, Seoul, South Korea",
+        "latitude": 37.559222399999996,
+        "longitude": 126.98448619999999
+    },
+    {
+        "category": "cafes",
+        "title": "Café DIOR Seoul",
+        "rating": 4.2,
+        "address": "464 Apgujeong-ro, Gangnam District, Seoul, South Korea",
+        "latitude": 37.524847199999996,
+        "longitude": 127.0466488
+    },
+    {
+        "category": "cafes",
+        "title": "Le Cafe",
+        "rating": 4.6,
+        "address": "44-8 용산2가동, Yongsan District, Seoul, South Korea",
+        "latitude": 37.5415001,
+        "longitude": 126.98709579999999
+    },
+    {
+        "category": "cafes",
+        "title": "Hell Cafe",
+        "rating": 4.3,
+        "address": "238-43 Bogwang-dong, Yongsan District, Seoul, South Korea",
+        "latitude": 37.5302778,
+        "longitude": 126.99694439999999
+    },
+    {
+        "category": "mountains",
+        "title": "Bukhansan",
+        "rating": 4.6,
+        "address": "Seoul, South Korea",
+        "latitude": 37.660833,
+        "longitude": 126.99333299999999
+    },
+    {
+        "category": "mountains",
+        "title": "Dobongsan",
+        "rating": 4.6,
+        "address": "Seoul, South Korea",
+        "latitude": 37.7004635,
+        "longitude": 127.01568429999999
+    },
+    {
+        "category": "mountains",
+        "title": "Gwanaksan",
+        "rating": 4.6,
+        "address": "Seoul, South Korea",
+        "latitude": 37.4429385,
+        "longitude": 126.9610024
+    },
+    {
+        "category": "mountains",
+        "title": "Eungbongsan (Seoul)",
+        "rating": 4.4,
+        "address": "Seoul, South Korea",
+        "latitude": 37.5481769,
+        "longitude": 127.0298261
+    },
+    {
+        "category": "mountains",
+        "title": "Suraksan",
+        "rating": 4.4,
+        "address": "Namyangju-si, South Korea",
+        "latitude": 37.696493,
+        "longitude": 127.08223339999999
+    },
+    {
+        "category": "mountains",
+        "title": "Namsan",
+        "rating": 4.7,
+        "address": "Seoul, South Korea",
+        "latitude": 37.553758599999995,
+        "longitude": 126.9809696
+    },
+    {
+        "category": "mountains",
+        "title": "Inwangsan Mountain",
+        "rating": 4.7,
+        "address": "산2-1 Muak-dong, Jongno District, Seoul, South Korea",
+        "latitude": 37.5848564,
+        "longitude": 126.957871
+    },
+    {
+        "category": "mountains",
+        "title": "Inwangsan",
+        "rating": 4.7,
+        "address": "Seoul, South Korea",
+        "latitude": 37.5849489,
+        "longitude": 126.95930419999999
+    },
+    {
+        "category": "mountains",
+        "title": "Achasan",
+        "rating": 4.4,
+        "address": "Seoul, South Korea",
+        "latitude": 37.571508699999995,
+        "longitude": 127.10376269999999
+    },
+    {
+        "category": "mountains",
+        "title": "개화산",
+        "rating": 4.3,
+        "address": "South Korea, Seoul",
+        "latitude": 37.582777799999995,
+        "longitude": 126.80388889999999
+    },
+    {
+        "category": "mountains",
+        "title": "우면산",
+        "rating": 4.2,
+        "address": "Seoul, South Korea",
+        "latitude": 37.470833299999995,
+        "longitude": 127.00944439999999
+    },
+    {
+        "category": "mountains",
+        "title": "Nogo-san",
+        "rating": 3.8,
+        "address": "Seoul, South Korea",
+        "latitude": 37.55,
+        "longitude": 126.94999999999999
+    },
+    {
+        "category": "mountains",
+        "title": "Ansan Mountain",
+        "rating": 4.6,
+        "address": "Yeonhui-dong, Seodaemun-gu, Seoul, South Korea",
+        "latitude": 37.576808299999996,
+        "longitude": 126.94455549999999
+    },
+    {
+        "category": "mountains",
+        "title": "Samseongsan",
+        "rating": 4.1,
+        "address": "Seoul, South Korea",
+        "latitude": 37.4361111,
+        "longitude": 126.9391667
+    },
+    {
+        "category": "mountains",
+        "title": "Maebong Mountain Park",
+        "rating": 4.5,
+        "address": "산51 Sindang-dong, Jung District, Seoul, South Korea",
+        "latitude": 37.5442275,
+        "longitude": 127.0088236
+    },
+    {
+        "category": "mountains",
+        "title": "Sonyu-bong",
+        "rating": 3,
+        "address": "South Korea, Seoul",
+        "latitude": 37.533333299999995,
+        "longitude": 126.89999999999999
+    },
+    {
+        "category": "mountains",
+        "title": "봉화산",
+        "rating": 4.5,
+        "address": "Seoul, South Korea",
+        "latitude": 37.6083333,
+        "longitude": 127.0869444
+    },
+    {
+        "category": "mountains",
+        "title": "Wau-san",
+        "rating": 4.5,
+        "address": "Seoul, South Korea",
+        "latitude": 37.55,
+        "longitude": 126.9333333
+    },
+    {
+        "category": "mountains",
+        "title": "Baengnyeonsan",
+        "rating": 4.3,
+        "address": "Seoul, South Korea",
+        "latitude": 37.5894444,
+        "longitude": 126.9269444
+    },
+    {
+        "category": "mountains",
+        "title": "대모산",
+        "rating": 4.4,
+        "address": "Seoul, South Korea",
+        "latitude": 37.475,
+        "longitude": 127.0783333
+    },
+    {
+        "category": "waterfalls",
+        "title": "Yongma Waterfall Park",
+        "rating": 4.4,
+        "address": "250-12 Yongmasan-ro, 면목제4동, Jungnang-gu, Seoul, South Korea",
+        "latitude": 37.5728192,
+        "longitude": 127.0911912
+    },
+    {
+        "category": "waterfalls",
+        "title": "Hongjecheon Artificial Waterfall",
+        "rating": 4.6,
+        "address": "Moraenae-ro, Seodaemun-gu, Seoul, South Korea",
+        "latitude": 37.5813482,
+        "longitude": 126.93781919999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Hongjecheon Stream",
+        "rating": 4.4,
+        "address": "275-36 홍은제2동, Seodaemun-gu, Seoul, South Korea",
+        "latitude": 37.5796559,
+        "longitude": 126.93486089999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Gupabal Falls",
+        "rating": 3.8,
+        "address": "South Korea, 서울 은평구 진관동 393",
+        "latitude": 37.636858,
+        "longitude": 126.91936199999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Yongma Falls",
+        "rating": 4.3,
+        "address": "Myeonmok-dong, Jungnang-gu, Seoul, South Korea",
+        "latitude": 37.572483,
+        "longitude": 127.0918239
+    },
+    {
+        "category": "waterfalls",
+        "title": "Hoamsan Artificial Waterfalls",
+        "rating": 4.1,
+        "address": "산91-12 Siheung-dong, Geumcheon District, Seoul, South Korea",
+        "latitude": 37.4459588,
+        "longitude": 126.9186017
+    },
+    {
+        "category": "lakes",
+        "title": "석촌호수(서호)",
+        "rating": 4.7,
+        "address": "Seoul",
+        "latitude": 37.5080556,
+        "longitude": 127.10055559999999
+    },
+    {
+        "category": "lakes",
+        "title": "몽촌호",
+        "rating": 5,
+        "address": "Seoul",
+        "latitude": 37.5194444,
+        "longitude": 127.1177778
+    },
+    {
+        "category": "lakes",
+        "title": "석촌호",
+        "rating": 3.5,
+        "address": "Seoul",
+        "latitude": 37.508611099999996,
+        "longitude": 127.1002778
+    },
+    {
+        "category": "lakes",
+        "title": "유수지",
+        "rating": 3.3,
+        "address": "Seoul",
+        "latitude": 37.5536111,
+        "longitude": 127.05555559999999
+    },
+    {
+        "category": "lakes",
+        "title": "서서울호수공원",
+        "rating": 4.5,
+        "address": "20 Nambusunhwan-ro 64-gil, Yangcheon District, Seoul, South Korea",
+        "latitude": 37.527671999999995,
+        "longitude": 126.82985199999999
+    },
+    {
+        "category": "lakes",
+        "title": "Sokch'on-hosu",
+        "rating": 4.6,
+        "address": "Seoul",
+        "latitude": 37.5079608,
+        "longitude": 127.1006814
+    },
+    {
+        "category": "lakes",
+        "title": "유수지",
+        "rating": 2.7,
+        "address": "Seoul",
+        "latitude": 37.544722199999995,
+        "longitude": 127.1222222
+    },
+    {
+        "category": "beaches",
+        "title": "Hanagae Beach",
+        "rating": 4.1,
+        "address": "산187-8 Muui-dong, Jung-gu, Incheon, South Korea",
+        "latitude": 37.3854408,
+        "longitude": 126.4087632
+    },
+    {
+        "category": "beaches",
+        "title": "Dongmak Beach",
+        "rating": 4.3,
+        "address": "7-3 Dongmak-ri, Hwado-myeon, Ganghwa-gun, Incheon, South Korea",
+        "latitude": 37.592700799999996,
+        "longitude": 126.4584129
+    },
+    {
+        "category": "beaches",
+        "title": "여의도 샛강생태공원백사장",
+        "rating": 4.5,
+        "address": "70 Yeouido-dong, Yeongdeungpo District, Seoul, South Korea",
+        "latitude": 37.5184272,
+        "longitude": 126.9450014
+    },
+    {
+        "category": "hiking trails",
+        "title": "Namsan Dulle-gil Trail",
+        "rating": 4.7,
+        "address": "yongsan-dong 2(i)-ga, Yongsan District, Seoul, South Korea",
+        "latitude": 37.5532916,
+        "longitude": 126.9845912
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bukhansan National Park",
+        "rating": 4.6,
+        "address": "262 Bogungmun-ro, Seongbuk District, Seoul, South Korea",
+        "latitude": 37.6190261,
+        "longitude": 126.9969584
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ansan Jarak-gil Trail",
+        "rating": 4.7,
+        "address": "279-22 Tongil-ro, Seodaemun-gu, Seoul, South Korea",
+        "latitude": 37.579311,
+        "longitude": 126.941769
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bukhansan hiking trail",
+        "rating": 4.7,
+        "address": "Bukhansan-ro, Eunpyeong-gu, Seoul, South Korea",
+        "latitude": 37.6642941,
+        "longitude": 127.01165999999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Seoul City Wall Trail",
+        "rating": 4.6,
+        "address": "622-83 Changsin-dong, Jongno District, Seoul, South Korea",
+        "latitude": 37.5779633,
+        "longitude": 127.0084459
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ansan Mountain",
+        "rating": 4.6,
+        "address": "Yeonhui-dong, Seodaemun-gu, Seoul, South Korea",
+        "latitude": 37.576808299999996,
+        "longitude": 126.94455549999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Inwangsan Mountain",
+        "rating": 4.7,
+        "address": "산2-1 Muak-dong, Jongno District, Seoul, South Korea",
+        "latitude": 37.5848564,
+        "longitude": 126.957871
+    },
+    {
+        "category": "hiking trails",
+        "title": "인왕산 등산로 입구",
+        "rating": 4.7,
+        "address": "40-27 홍제제2동, Seodaemun-gu, Seoul, South Korea",
+        "latitude": 37.5812412,
+        "longitude": 126.9545483
+    },
+    {
+        "category": "hiking trails",
+        "title": "Inwangsan Mountain Park",
+        "rating": 4.5,
+        "address": "Ogin-dong, Jongno District, Seoul, South Korea",
+        "latitude": 37.5825651,
+        "longitude": 126.96020449999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Samobawi Rock",
+        "rating": 4.6,
+        "address": "Gugi-dong, Jongno District, Seoul, South Korea",
+        "latitude": 37.6282383,
+        "longitude": 126.9596248
+    },
+    {
+        "category": "hiking trails",
+        "title": "Inwangsan (Hanyangdoseong Fortress) Walking Trail Entrance",
+        "rating": 4.7,
+        "address": "산1-6 Sajik-dong, Jongno District, Seoul, South Korea",
+        "latitude": 37.573800399999996,
+        "longitude": 126.9639831
+    },
+    {
+        "category": "hiking trails",
+        "title": "Namsan Dulle-gil Entrance",
+        "rating": 4.6,
+        "address": "8-177 Yejang-dong, Jung District, Seoul, South Korea",
+        "latitude": 37.5564886,
+        "longitude": 126.98509809999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Jokduribong Peak",
+        "rating": 4.4,
+        "address": "37°37'04.5\"N 126°56'35., 7 불광제1동, Eunpyeong District, Seoul, South Korea",
+        "latitude": 37.617914,
+        "longitude": 126.94324399999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "북한산 비봉",
+        "rating": 4.6,
+        "address": "Gugi-dong, Jongno District, Seoul, South Korea",
+        "latitude": 37.625543799999996,
+        "longitude": 126.9561932
+    },
+    {
+        "category": "hiking trails",
+        "title": "Seoul Hiking Tourism Center (Bukhansan)",
+        "rating": 4.8,
+        "address": "5층, 52 Samyang-ro 173-gil, Gangbuk-gu, Seoul, South Korea",
+        "latitude": 37.6623859,
+        "longitude": 127.0096883
+    },
+    {
+        "category": "hiking trails",
+        "title": "Hoamsan",
+        "rating": 4.5,
+        "address": "South Korea, Seoul, Gwanak-gu, Sillim-dong, 산 57-13, 닫기",
+        "latitude": 37.4510783,
+        "longitude": 126.92718119999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Malbawi Hiking Trail Entrance (to Bugaksan)",
+        "rating": 4.8,
+        "address": "말바위 진입로 남서 계단 쉼터, Waryonggongwon-gil, 삼청동, Jongno District, Seoul, South Korea",
+        "latitude": 37.589627,
+        "longitude": 126.984276
+    },
+    {
+        "category": "hiking trails",
+        "title": "Namsan",
+        "rating": 4.7,
+        "address": "South Korea, 서울특별시 남산",
+        "latitude": 37.5515453,
+        "longitude": 126.9881595
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bukhansan",
+        "rating": 4.6,
+        "address": "Seoul, South Korea",
+        "latitude": 37.660833,
+        "longitude": 126.99333299999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Baegundae, Bukhansan Mountain Peak",
+        "rating": 4.8,
+        "address": "South Korea, Gyeonggi-do, Goyang-si, Deogyang-gu, 북한동",
+        "latitude": 37.6586607,
+        "longitude": 126.9780658
+    },
+    {
+        "category": "night markets",
+        "title": "Myeongdong Night Market",
+        "rating": 4.4,
+        "address": "8-3 Chungmuro 2(i)-ga, Jung District, Seoul, South Korea",
+        "latitude": 37.561668499999996,
+        "longitude": 126.9858438
+    },
+    {
+        "category": "night markets",
+        "title": "Myeongdong Shopping Street",
+        "rating": 4.3,
+        "address": "Myeong-dong 2(i)-ga, Jung District, Seoul, South Korea",
+        "latitude": 37.5637699,
+        "longitude": 126.9844765
+    },
+    {
+        "category": "night markets",
+        "title": "Myeongdong Night Market",
+        "rating": 4.6,
+        "address": "66-13 Chungmuro 2(i)-ga, Jung District, Seoul, South Korea",
+        "latitude": 37.5615178,
+        "longitude": 126.9848906
+    },
+    {
+        "category": "night markets",
+        "title": "Namdaemun Market",
+        "rating": 4.2,
+        "address": "21 Namdaemunsijang 4-gil, Jung District, Seoul, South Korea",
+        "latitude": 37.559277,
+        "longitude": 126.9777029
+    },
+    {
+        "category": "night markets",
+        "title": "DDP Youth Runway Market",
+        "rating": 4,
+        "address": "8-4 Euljiro 7(chil)-ga, Jung District, Seoul, South Korea",
+        "latitude": 37.5658023,
+        "longitude": 127.00912
+    },
+    {
+        "category": "night markets",
+        "title": "Cheonggyecheon Time Tour Market",
+        "rating": 3.5,
+        "address": "14-1 Seorin-dong, Jongno District, Seoul, South Korea",
+        "latitude": 37.568919699999995,
+        "longitude": 126.9809762
+    },
+    {
+        "category": "night markets",
+        "title": "Banpo Moonlight Market",
+        "rating": 3.8,
+        "address": "South Korea, Seoul, Seocho District, Sinbanpo-ro 11-gil, 40, 한강공원 내 달빛광장",
+        "latitude": 37.51132,
+        "longitude": 126.99756199999999
+    },
+    {
+        "category": "night markets",
+        "title": "Hangang Moonlight Market Banpo Area",
+        "rating": 4.1,
+        "address": "한강공원.세빛섬, Banpo-dong, Seoul, South Korea",
+        "latitude": 37.511674,
+        "longitude": 126.9983456
+    },
+    {
+        "category": "night markets",
+        "title": "Night market",
+        "rating": 4,
+        "address": "Yeouidong-ro, Yeouido-dong, Yeongdeungpo District, Seoul, South Korea",
+        "latitude": 37.530791199999996,
+        "longitude": 126.92834389999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "N Seoul Tower",
+        "rating": 4.5,
+        "address": "105 Namsangongwon-gil, Yongsan District, Seoul, South Korea",
+        "latitude": 37.5511694,
+        "longitude": 126.98822659999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Namsan Photo Island (South Point)",
+        "rating": 4.5,
+        "address": "산1-7 이태원제2동, Yongsan District, Seoul, South Korea",
+        "latitude": 37.5463224,
+        "longitude": 126.9931821
+    },
+    {
+        "category": "viewpoints",
+        "title": "Seoul Sky",
+        "rating": 4.6,
+        "address": "300 Olympic-ro, Songpa District, Seoul, South Korea",
+        "latitude": 37.5125295,
+        "longitude": 127.102305
+    },
+    {
+        "category": "viewpoints",
+        "title": "Jamdubong Photo Island",
+        "rating": 4.5,
+        "address": "52-1 Yejang-dong, Jung District, Seoul, South Korea",
+        "latitude": 37.5543463,
+        "longitude": 126.98531639999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Seoul Station Rooftop Garden",
+        "rating": 4.4,
+        "address": "Bongnae-dong 2(i)-ga, Jung District, Seoul, South Korea",
+        "latitude": 37.555884,
+        "longitude": 126.9698938
+    },
+    {
+        "category": "viewpoints",
+        "title": "Eungbongsan Palgakjeong Pavilion",
+        "rating": 4.6,
+        "address": "267-1 Eungbong-dong, Seongdong-gu, Seoul, South Korea",
+        "latitude": 37.547797599999996,
+        "longitude": 127.0298873
+    },
+    {
+        "category": "viewpoints",
+        "title": "Seoullo 7017",
+        "rating": 4.2,
+        "address": "432 Cheongpa-ro, Jung District, Seoul, South Korea",
+        "latitude": 37.556713699999996,
+        "longitude": 126.96957529999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Namsan",
+        "rating": 4.7,
+        "address": "South Korea, 서울특별시 남산",
+        "latitude": 37.5515453,
+        "longitude": 126.9881595
+    },
+    {
+        "category": "viewpoints",
+        "title": "Love Lock of Seoul Tower",
+        "rating": 4.6,
+        "address": "Yejang-dong, Jung District, Seoul, South Korea",
+        "latitude": 37.5520809,
+        "longitude": 126.9875684
+    },
+    {
+        "category": "viewpoints",
+        "title": "Naksan Park",
+        "rating": 4.5,
+        "address": "41 Naksan-gil, Jongno District, Seoul, South Korea",
+        "latitude": 37.580657099999996,
+        "longitude": 127.00748349999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Jeongdong Observatory",
+        "rating": 4.6,
+        "address": "15 Deoksugung-gil, Jung District, Seoul, South Korea",
+        "latitude": 37.5646759,
+        "longitude": 126.9757868
+    },
+    {
+        "category": "viewpoints",
+        "title": "Namsan Octagonal Pavilion Park Observatory",
+        "rating": 4.7,
+        "address": "Yejang-dong, Jung District, Seoul, South Korea",
+        "latitude": 37.5520941,
+        "longitude": 126.98824339999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Hanyangdoseong Sunseonggil Observatory",
+        "rating": 4.9,
+        "address": "Yejang-dong, Jung District, Seoul, South Korea",
+        "latitude": 37.549434399999996,
+        "longitude": 126.99551079999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Naksan Fortress Wall Trail",
+        "rating": 4.7,
+        "address": "23-3 Changsin 7-gil, Changsin-dong, Jongno District, Seoul, South Korea",
+        "latitude": 37.5760794,
+        "longitude": 127.0089876
+    },
+    {
+        "category": "viewpoints",
+        "title": "Namsan Palgakjeong (Octagonal Pavilion)",
+        "rating": 4.5,
+        "address": "1-3 Yejang-dong, Jung District, Seoul, South Korea",
+        "latitude": 37.5516327,
+        "longitude": 126.9876338
+    },
+    {
+        "category": "viewpoints",
+        "title": "Namsan Mountain Park",
+        "rating": 4.6,
+        "address": "231 Samil-daero, Jung District, Seoul, South Korea",
+        "latitude": 37.5509895,
+        "longitude": 126.9908991
+    },
+    {
+        "category": "viewpoints",
+        "title": "남산전망대 명동",
+        "rating": 4.8,
+        "address": "10 Sopa-ro 2-gil, Jung District, Seoul, South Korea",
+        "latitude": 37.5558164,
+        "longitude": 126.9867168
+    },
+    {
+        "category": "viewpoints",
+        "title": "Namsan Dulle-gil Trail",
+        "rating": 4.7,
+        "address": "yongsan-dong 2(i)-ga, Yongsan District, Seoul, South Korea",
+        "latitude": 37.5532916,
+        "longitude": 126.9845912
+    },
+    {
+        "category": "viewpoints",
+        "title": "Bugak Palgakjeong",
+        "rating": 4.3,
+        "address": "267 Bugaksan-ro, Pyeongchang-dong, Jongno District, Seoul, South Korea",
+        "latitude": 37.6015529,
+        "longitude": 126.9806646
+    },
+    {
+        "category": "viewpoints",
+        "title": "Lotte World Tower",
+        "rating": 4.4,
+        "address": "300 Olympic-ro, Songpa District, Seoul, South Korea",
+        "latitude": 37.512464099999995,
+        "longitude": 127.102543
+    }
+]
