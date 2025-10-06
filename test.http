@@ -54,6 +54,16 @@ Content-Type: application/json
   "password": "123"
 }
 
+### Test change password via API Gateway
+POST http://192.168.1.21:8081/auth/change-password
+Content-Type: application/json
+
+{
+  "email": "test@example.com",
+  "oldPassword": "password123",
+  "newPassword": "newpassword123"
+}
+
 # Plan Service Tests
 ## Flight Search
 ### Test flight search from Tokyo to Seoul

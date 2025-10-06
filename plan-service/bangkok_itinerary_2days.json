@@ -1,0 +1,110 @@
+{
+    "trip_info": {
+        "destination": "bangkok",
+        "duration": "2 days (requested: 2 days)",
+        "group_size": 1,
+        "budget": "high",
+        "interests": "culture"
+    },
+    "itinerary": {
+        "day_1": {
+            "morning": {
+                "activity": "Visit Wat Suthat Thep Wararam Ratchaworamahawihan",
+                "location": "146 Bamrung Mueang Rd, Wat Ratchabophit, Phra Nakhon, Bangkok 10200, Thailand",
+                "coordinates": {
+                    "latitude": 13.7510446,
+                    "longitude": 100.5010927
+                },
+                "rating": 4.8,
+                "category": "tourist attractions",
+                "time": "09:00-12:00"
+            },
+            "lunch": {
+                "activity": "Lunch at Indian Express",
+                "location": "70, 55-56 Phetchaburi 31 Alley, Makkasan, Ratchathewi, Bangkok 10400, Thailand",
+                "coordinates": {
+                    "latitude": 13.7526566,
+                    "longitude": 100.545842
+                },
+                "rating": 4.9,
+                "category": "restaurants",
+                "time": "12:00-13:30"
+            },
+            "afternoon": {
+                "activity": "Visit Bangkok City Pillar Shrine",
+                "location": "Lak Muang Rd, Khwaeng Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200, Thailand",
+                "coordinates": {
+                    "latitude": 13.7525651,
+                    "longitude": 100.4940402
+                },
+                "rating": 4.8,
+                "category": "tourist attractions",
+                "time": "14:00-17:00"
+            },
+            "dinner": {
+                "activity": "Dinner at Suda - Thai & Vegetarian Restaurant",
+                "location": "Unit 14, Number, 360 Samsen 4 Alley, Ban Phan Thom, Phra Nakhon, Bangkok 10200, Thailand",
+                "coordinates": {
+                    "latitude": 13.7633111,
+                    "longitude": 100.50057609999999
+                },
+                "rating": 4.9,
+                "category": "restaurants",
+                "time": "18:00-20:00"
+            }
+        },
+        "day_2": {
+            "morning": {
+                "activity": "Visit The Temple of the Emerald Buddha",
+                "location": "Na Phra Lan Rd, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200, Thailand",
+                "coordinates": {
+                    "latitude": 13.7516435,
+                    "longitude": 100.4927041
+                },
+                "rating": 4.7,
+                "category": "tourist attractions",
+                "time": "09:00-12:00"
+            },
+            "lunch": {
+                "activity": "Lunch at May Kaidee Tanao Vegetarian & Vegan Restaurant",
+                "location": "54/1 Soi Samsen 5, Wat Sam Phraya, Phra Nakhon, Bangkok 10200, Thailand",
+                "coordinates": {
+                    "latitude": 13.766276,
+                    "longitude": 100.4994861
+                },
+                "rating": 4.8,
+                "category": "restaurants",
+                "time": "12:00-13:30"
+            },
+            "afternoon": {
+                "activity": "Visit Na Phra Lan Tunnel Gate 1",
+                "location": "QF3R+7P8, Na Phra Lan Rd, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200, Thailand",
+                "coordinates": {
+                    "latitude": 13.753162699999999,
+                    "longitude": 100.49181759999999
+                },
+                "rating": 4.7,
+                "category": "tourist attractions",
+                "time": "14:00-17:00"
+            },
+            "dinner": {
+                "activity": "Dinner at SOI Bangkok Restaurant",
+                "location": "195 N Sathon Rd, Si Lom, Bang Rak, Bangkok 10500, Thailand",
+                "coordinates": {
+                    "latitude": 13.721710199999999,
+                    "longitude": 100.5262374
+                },
+                "rating": 4.7,
+                "category": "restaurants",
+                "time": "18:00-20:00"
+            }
+        }
+    },
+    "notes": [
+        "Itinerary optimized for 1 people",
+        "Only create itinerary for days with sufficient place data",
+        "Places within same day are grouped nearby to save travel time",
+        "Recommend booking reservations for high-end restaurants",
+        "Bring offline maps and cash"
+    ]
+}

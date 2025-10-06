@@ -333,4 +333,31 @@ public class AuthService {
         logger.info("OTP validated successfully for: {}", email);
         return true;
     }
+
+    /**
+     * Change password for a user by email
+     */
+    public boolean changePassword(String email, String oldPassword, String newPassword) {
+        Optional<User> userOpt = userRepository.findByEmail(email);
+
+        if (userOpt.isEmpty()) {
+            logger.warn("User not found for password change: {}", email);
+            return false;
+        }
+
+        User user = userOpt.get();
+
+        // Validate old password
+        if (!passwordEncoder.matches(oldPassword, user.getPassword())) {
+            logger.warn("Invalid old password for user: {}", email);
+            return false;
+        }
+
+        // Update password
+        user.setPassword(passwordEncoder.encode(newPassword));
+        userRepository.save(user);
+
+        logger.info("Password changed successfully for user: {}", email);
+        return true;
+    }
 }

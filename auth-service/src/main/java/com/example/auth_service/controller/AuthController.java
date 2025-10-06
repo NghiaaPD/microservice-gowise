@@ -331,4 +331,38 @@ public class AuthController {
                     .body(Map.of("success", false, "message", "Service temporarily unavailable"));
         }
     }
+
+    /**
+     * API Change Password
+     */
+    @PostMapping("/change-password")
+    public ResponseEntity<?> changePassword(@RequestBody Map<String, String> request) {
+        try {
+            String email = request.get("email");
+            String oldPassword = request.get("oldPassword");
+            String newPassword = request.get("newPassword");
+
+            if (email == null || oldPassword == null || newPassword == null) {
+                return ResponseEntity.badRequest()
+                        .body(Map.of("success", false, "message", "email, oldPassword, and newPassword are required"));
+            }
+
+            boolean success = authService.changePassword(email, oldPassword, newPassword);
+
+            if (success) {
+                logger.info("Password changed successfully for user: {}", email);
+                return ResponseEntity.ok(Map.of(
+                        "success", true,
+                        "message", "Password changed successfully"));
+            } else {
+                return ResponseEntity.badRequest()
+                        .body(Map.of("success", false, "message", "Failed to change password. Please check your email or old password."));
+            }
+
+        } catch (Exception e) {
+            logger.error("Change password error: {}", e.getMessage(), e);
+            return ResponseEntity.status(500)
+                    .body(Map.of("success", false, "message", "Service temporarily unavailable"));
+        }
+    }
 }

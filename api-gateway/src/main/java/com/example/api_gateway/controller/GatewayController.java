@@ -344,6 +344,39 @@ public class GatewayController {
     }
 
     /**
+     * Forward change password request to auth service.
+     */
+    @PostMapping("/auth/change-password")
+    public ResponseEntity<Object> forwardToAuthServiceChangePassword(@RequestBody Map<String, String> request) {
+        try {
+            String serviceUrl = loadBalancer.choose("auth-service").getUri().toString();
+            String url = serviceUrl + "/auth/change-password";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            headers.setAccept(Arrays.asList(MediaType.APPLICATION_JSON));
+
+            HttpEntity<Map<String, String>> entity = new HttpEntity<>(request, headers);
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            try {
+                Object responseBody = objectMapper.readValue(e.getResponseBodyAsString(), Object.class);
+                return ResponseEntity.status(e.getStatusCode()).body(responseBody);
+            } catch (Exception parseException) {
+                return ResponseEntity.status(e.getStatusCode()).body(Map.of(
+                        "success", false,
+                        "message", "Password change failed"));
+            }
+        } catch (Exception e) {
+            logger.error("Error connecting to auth service change-password: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
      * Forward refresh token request to auth service.
      */
     @PostMapping("/auth/refresh")
