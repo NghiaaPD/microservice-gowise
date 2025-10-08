@@ -356,7 +356,8 @@ public class AuthController {
                         "message", "Password changed successfully"));
             } else {
                 return ResponseEntity.badRequest()
-                        .body(Map.of("success", false, "message", "Failed to change password. Please check your email or old password."));
+                        .body(Map.of("success", false, "message",
+                                "Failed to change password. Please check your email or old password."));
             }
 
         } catch (Exception e) {

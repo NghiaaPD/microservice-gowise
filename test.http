@@ -452,3 +452,50 @@ GET http://192.168.1.21:8081/cities/suggest?q=Ban&limit=5
 
 ### Test get airports for city via Gateway
 GET http://192.168.1.21:8081/cities/airports?city=Bangkok
+
+# Chatbot Service Tests
+## Direct Chatbot Service Access
+### Test chatbot service root endpoint
+GET http://192.168.1.21:8002/
+
+### Test chatbot service health check
+GET http://192.168.1.21:8002/health
+
+### Test chatbot service hello endpoint
+GET http://192.168.1.21:8002/hello
+
+## Chatbot Service via API Gateway
+### Test chatbot hello via API Gateway
+GET http://192.168.1.21:8081/chatbot/hello
+
+### Test chatbot chat endpoint directly
+POST http://192.168.1.21:8002/chat
+Content-Type: application/json
+
+{
+  "message": "Hello, how are you?"
+}
+
+### Test chatbot chat endpoint via API Gateway
+POST http://192.168.1.21:8081/chatbot/chat
+Content-Type: application/json
+
+{
+  "message": "Tell me a joke"
+}
+
+### Test chatbot with travel question
+POST http://192.168.1.21:8081/chatbot/chat
+Content-Type: application/json
+
+{
+  "message": "Tôi muốn đi du lịch Đà Nẵng, bạn có lời khuyên gì?"
+}
+
+### Test chatbot with travel plan summary
+POST http://192.168.1.21:8081/chatbot/chat
+Content-Type: application/json
+
+{
+  "message": "Here are the details of my travel plan. Please review and assist me. {\"destination\": \"Bangkok\", \"duration\": \"3 days\", \"interests\": [\"shopping\", \"food\", \"temples\"], \"budget\": \"moderate\", \"group_size\": 2, \"activities\": [\"visit temples\", \"street food\", \"shopping malls\"]}"
+}

@@ -9,6 +9,7 @@ import org.springframework.http.HttpMethod;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -1147,7 +1148,7 @@ public class GatewayController {
     /**
      * Forward DELETE /plans/{user_id}/{plan_id} to plan-service
      */
-    @org.springframework.web.bind.annotation.DeleteMapping("/plans/{user_id}/{plan_id}")
+    @DeleteMapping("/plans/{user_id}/{plan_id}")
     public ResponseEntity<Object> forwardDeletePlan(@PathVariable String user_id, @PathVariable String plan_id) {
         try {
             var serviceInstance = loadBalancer.choose("PLAN-SERVICE");
@@ -1173,6 +1174,80 @@ public class GatewayController {
             return ResponseEntity.status(500).body(Map.of(
                     "success", false,
                     "message", "Delete plan service temporarily unavailable",
+                    "error", e.getMessage()));
+        }
+    }
+
+    // ==================== CHATBOT SERVICE ENDPOINTS ====================
+
+    /**
+     * Forward GET /chatbot/hello to chatbot-service
+     */
+    @GetMapping("/chatbot/hello")
+    public ResponseEntity<Object> forwardChatbotHello() {
+        try {
+            var serviceInstance = loadBalancer.choose("CHATBOT-SERVICE");
+            if (serviceInstance == null) {
+                logger.warn("CHATBOT-SERVICE not available in load balancer, trying direct connection");
+                // Fallback to direct connection
+                String url = "http://localhost:8002/hello";
+                return restTemplate.getForEntity(url, Object.class);
+            }
+
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/hello";
+            return restTemplate.getForEntity(url, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            logger.error("Client error in chatbot hello: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (HttpServerErrorException e) {
+            logger.error("Server error in chatbot hello: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to chatbot service hello: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Chatbot service temporarily unavailable",
+                    "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward POST /chatbot/chat to chatbot-service
+     */
+    @PostMapping("/chatbot/chat")
+    public ResponseEntity<Object> forwardChatbotChat(@RequestBody Object body) {
+        try {
+            var serviceInstance = loadBalancer.choose("CHATBOT-SERVICE");
+            if (serviceInstance == null) {
+                logger.warn("CHATBOT-SERVICE not available in load balancer, trying direct connection");
+                // Fallback to direct connection
+                String url = "http://localhost:8002/chat";
+                HttpHeaders headers = new HttpHeaders();
+                headers.setContentType(MediaType.APPLICATION_JSON);
+                HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+                return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+            }
+
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/chat";
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+            HttpEntity<Object> entity = new HttpEntity<>(body, headers);
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            logger.error("Client error in chatbot chat: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (HttpServerErrorException e) {
+            logger.error("Server error in chatbot chat: {}", e.getResponseBodyAsString());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to chatbot service chat: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Chatbot chat service temporarily unavailable",
                     "error", e.getMessage()));
         }
     }

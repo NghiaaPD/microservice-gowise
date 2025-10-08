@@ -13,5 +13,6 @@ nohup mvn spring-boot:run -f user-service/pom.xml > .logs/user-service.log 2>&1 
 
 # Run service Python (FastAPI) on dev mode
 (cd plan-service && source .venv/bin/activate && nohup uvicorn server:app --host 0.0.0.0 --port 8001 > ../.logs/plan-service.log 2>&1 &)
+(cd chatbot-service && source .venv/bin/activate && nohup python main.py > ../.logs/chatbot-service.log 2>&1 &)
 
 echo "Tất cả các service đã được khởi động ở chế độ dev."
