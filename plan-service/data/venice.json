@@ -1,0 +1,3242 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Saint Mark's Basilica",
+        "rating": 4.7,
+        "address": "P.za San Marco, 328, 30100 Venezia VE, Italy",
+        "latitude": 45.4345606,
+        "longitude": 12.3397124
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Doge's Palace",
+        "rating": 4.7,
+        "address": "P.za San Marco, 1, 30124 Venezia VE, Italy",
+        "latitude": 45.4337035,
+        "longitude": 12.3403894
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ponte di Rialto",
+        "rating": 4.7,
+        "address": "30125 Venezia VE, Italy",
+        "latitude": 45.437984199999995,
+        "longitude": 12.335898
+    },
+    {
+        "category": "tourist attractions",
+        "title": "St Mark's Campanile",
+        "rating": 4.7,
+        "address": "P.za San Marco, 30124 Venezia VE, Italy",
+        "latitude": 45.4340359,
+        "longitude": 12.3390331
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Bridge of Sighs",
+        "rating": 4.6,
+        "address": "30124 Venezia VE, Italy",
+        "latitude": 45.434049599999994,
+        "longitude": 12.3408544
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Clock Tower",
+        "rating": 4.7,
+        "address": "P.za San Marco, 30124 Venezia VE, Italy",
+        "latitude": 45.434758699999996,
+        "longitude": 12.3389668
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Piazza San Marco",
+        "rating": 4.7,
+        "address": "P.za San Marco, 30100 Venezia VE, Italy",
+        "latitude": 45.4341668,
+        "longitude": 12.3384717
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Carta Gate",
+        "rating": 4.7,
+        "address": "P.za San Marco, 1, 30124 Venezia VE, Italy",
+        "latitude": 45.4342465,
+        "longitude": 12.339820099999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Campo Santo Stefano",
+        "rating": 4.4,
+        "address": "30124 Venezia VE, Italy",
+        "latitude": 45.433329199999996,
+        "longitude": 12.3305391
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Squero Vecio",
+        "rating": 4.5,
+        "address": "Calle del Squero, 6304, 30121 Venezia VE, Italy",
+        "latitude": 45.4414527,
+        "longitude": 12.342033299999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Campo San Maurizio",
+        "rating": 4.5,
+        "address": "Campo S. Maurizio, 30124 Venezia VE, Italy",
+        "latitude": 45.4327322,
+        "longitude": 12.331586
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Gondola Bacino Orseolo",
+        "rating": 4.4,
+        "address": "Bacino Orseolo, 30124 Venezia VE, Italy",
+        "latitude": 45.4341359,
+        "longitude": 12.336917999999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Campo San Geremia",
+        "rating": 4.6,
+        "address": "30100 Venezia VE, Italy",
+        "latitude": 45.4430234,
+        "longitude": 12.324939899999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Campo San Salvador",
+        "rating": 4.4,
+        "address": "Campo S. Salvador, 4805, 30124 Venezia VE, Italy",
+        "latitude": 45.4369227,
+        "longitude": 12.3362181
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Grand Canal",
+        "rating": 4.8,
+        "address": "30100 Venezia VE, Italy",
+        "latitude": 45.4363568,
+        "longitude": 12.3322494
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Giorno x mista bench",
+        "rating": null,
+        "address": "Via Parco Ferroviario, 142, 30175 Venezia VE, Italy",
+        "latitude": 45.443332,
+        "longitude": 12.316001
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Campo San Stin",
+        "rating": 4.5,
+        "address": "Calle de Ca' Donà, 2503, 30125 Venezia VE, Italy",
+        "latitude": 45.437997499999994,
+        "longitude": 12.3268917
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Lo's places",
+        "rating": 4.8,
+        "address": "Ponte de S. Paterniàn, 4231, 30124 Venezia VE, Italy",
+        "latitude": 45.4351304,
+        "longitude": 12.3339918
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Giardini Papadopoli",
+        "rating": 4.4,
+        "address": "30135 Sestriere Santa Croce, Venezia VE, Italy",
+        "latitude": 45.4382983,
+        "longitude": 12.3206545
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Venice Tours - San Marco Basilica",
+        "rating": 4.3,
+        "address": "S. Marco, 4557, 30124 Venezia VE, Italy",
+        "latitude": 45.4358146,
+        "longitude": 12.3355602
+    },
+    {
+        "category": "parks",
+        "title": "Giardini Papadopoli",
+        "rating": 4.4,
+        "address": "30135 Sestriere Santa Croce, Venezia VE, Italy",
+        "latitude": 45.4382983,
+        "longitude": 12.3206545
+    },
+    {
+        "category": "parks",
+        "title": "Giardini della Marinaressa",
+        "rating": 4.6,
+        "address": "Riva dei Sette Martiri, 30122 Venezia VE, Italy",
+        "latitude": 45.4314603,
+        "longitude": 12.352596799999999
+    },
+    {
+        "category": "parks",
+        "title": "Parco San Giuliano",
+        "rating": 4.4,
+        "address": "Via Orlanda, 30173 Venezia VE, Italy",
+        "latitude": 45.4743271,
+        "longitude": 12.276037599999999
+    },
+    {
+        "category": "parks",
+        "title": "Giardini di Ca' Rezzonico",
+        "rating": 4.5,
+        "address": "Fondamenta Rezzonico, 30123 Venezia VE, Italy",
+        "latitude": 45.4335868,
+        "longitude": 12.325755899999999
+    },
+    {
+        "category": "parks",
+        "title": "Giardini Reali",
+        "rating": 4.5,
+        "address": "P.za San Marco, 30124 Venezia VE, Italy",
+        "latitude": 45.432983899999996,
+        "longitude": 12.338291499999999
+    },
+    {
+        "category": "parks",
+        "title": "Giardini della Biennale",
+        "rating": 4.5,
+        "address": "Calle Giazzo, 30122 Venezia VE, Italy",
+        "latitude": 45.4287722,
+        "longitude": 12.3580806
+    },
+    {
+        "category": "parks",
+        "title": "Campo San Piero de Casteo",
+        "rating": 4.7,
+        "address": "30122 Venezia VE, Italy",
+        "latitude": 45.4347133,
+        "longitude": 12.359084399999999
+    },
+    {
+        "category": "parks",
+        "title": "Giardino Mistico",
+        "rating": 4.3,
+        "address": "Cannaregio, A Carmelitani Scalzi, 54, 30121 Venezia VE, Italy",
+        "latitude": 45.442256,
+        "longitude": 12.32073
+    },
+    {
+        "category": "parks",
+        "title": "Tropicarium Park",
+        "rating": 4.2,
+        "address": "Via Aquileia, 123, 30016 Lido di Jesolo VE, Italy",
+        "latitude": 45.502120999999995,
+        "longitude": 12.630733
+    },
+    {
+        "category": "parks",
+        "title": "Campiello delle Erbe",
+        "rating": 4.1,
+        "address": "30100 Venezia VE, Italy",
+        "latitude": 45.43676,
+        "longitude": 12.330411
+    },
+    {
+        "category": "parks",
+        "title": "Andrea Zanzotto Park",
+        "rating": 3.7,
+        "address": "Via Circonvallazione, 30171 Venezia VE, Italy",
+        "latitude": 45.4940187,
+        "longitude": 12.2350783
+    },
+    {
+        "category": "parks",
+        "title": "Parco Piraghetto",
+        "rating": 4.1,
+        "address": "Via Alfredo Catalani, 9, 30171 Venezia VE, Italy",
+        "latitude": 45.4887155,
+        "longitude": 12.226528799999999
+    },
+    {
+        "category": "parks",
+        "title": "Giardini Napoleonici",
+        "rating": 4.4,
+        "address": "Viale Trento, 30122 Venezia VE, Italy",
+        "latitude": 45.430082999999996,
+        "longitude": 12.3553239
+    },
+    {
+        "category": "parks",
+        "title": "Parco di Villa Groggia",
+        "rating": 4.5,
+        "address": "Cannaregio, 30100 Venezia VE, Italy",
+        "latitude": 45.4480358,
+        "longitude": 12.3277307
+    },
+    {
+        "category": "parks",
+        "title": "Giardino Ordine di Malta",
+        "rating": 5,
+        "address": "2, 30122 Venezia VE, Italy",
+        "latitude": 45.43658,
+        "longitude": 12.3469901
+    },
+    {
+        "category": "parks",
+        "title": "Oasi WWF Dune degli Alberoni",
+        "rating": 4.6,
+        "address": "30126 Venezia VE, Italy",
+        "latitude": 45.341647599999995,
+        "longitude": 12.3242921
+    },
+    {
+        "category": "parks",
+        "title": "Piazza San Marco",
+        "rating": 4.7,
+        "address": "P.za San Marco, 30100 Venezia VE, Italy",
+        "latitude": 45.4341668,
+        "longitude": 12.3384717
+    },
+    {
+        "category": "parks",
+        "title": "Park in Fondamenta de la Pescaria",
+        "rating": 4,
+        "address": "Fondamenta de la Pescheria, 30123 Venezia VE, Italy",
+        "latitude": 45.4324259,
+        "longitude": 12.317680099999999
+    },
+    {
+        "category": "parks",
+        "title": "Aquaestate - Noale, Venezia",
+        "rating": 4.4,
+        "address": "Via Aurelio De Pol, 5, 30033 Noale VE, Italy",
+        "latitude": 45.5584555,
+        "longitude": 12.075130699999999
+    },
+    {
+        "category": "parks",
+        "title": "Caribe Bay",
+        "rating": 4.3,
+        "address": "Via Michelangelo Buonarroti, 15/A, 30016 Lido di Jesolo VE, Italy",
+        "latitude": 45.4949181,
+        "longitude": 12.6032184
+    },
+    {
+        "category": "restaurants",
+        "title": "La Piazza",
+        "rating": 4.7,
+        "address": "S. Marco, 615, 30124 Venezia VE, Italy",
+        "latitude": 45.4357572,
+        "longitude": 12.338830699999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Rio Novo",
+        "rating": 4.6,
+        "address": "Fondamenta, C. de ca' Bernardo, 30135 Venezia VE, Italy",
+        "latitude": 45.436607099999996,
+        "longitude": 12.320011
+    },
+    {
+        "category": "restaurants",
+        "title": "Impronta Restaurant Venice",
+        "rating": 4.8,
+        "address": "Sestiere Dorsoduro, 3815, 30123 Venezia VE, Italy",
+        "latitude": 45.435856,
+        "longitude": 12.325377999999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Hostaria Castello",
+        "rating": 4.8,
+        "address": "Salizada S. Antonin, 3476, 30122 Venezia VE, Italy",
+        "latitude": 45.4353762,
+        "longitude": 12.3463651
+    },
+    {
+        "category": "restaurants",
+        "title": "Hostaria Osottoosopra",
+        "rating": 4.8,
+        "address": "Santa Croce, 164, 30135 Venezia VE, Italy",
+        "latitude": 45.4370449,
+        "longitude": 12.3213074
+    },
+    {
+        "category": "restaurants",
+        "title": "La Zucca",
+        "rating": 4.5,
+        "address": "C. del Tentor, 1762, 30135 Venezia VE, Italy",
+        "latitude": 45.4408611,
+        "longitude": 12.3285
+    },
+    {
+        "category": "restaurants",
+        "title": "Osteria Al Squero",
+        "rating": 4.7,
+        "address": "Dorsoduro, 943, 30123 Venezia VE, Italy",
+        "latitude": 45.4300965,
+        "longitude": 12.326150199999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Ai Mercanti",
+        "rating": 4.7,
+        "address": "Corte Coppo, 4346/a, 30124 Venezia VE, Italy",
+        "latitude": 45.4350434,
+        "longitude": 12.3350803
+    },
+    {
+        "category": "restaurants",
+        "title": "Bistrot de Venise",
+        "rating": 4.6,
+        "address": "Calle dei Fabbri, 4685, 30124 Venezia VE, Italy",
+        "latitude": 45.4355689,
+        "longitude": 12.3364874
+    },
+    {
+        "category": "restaurants",
+        "title": "Trattoria ai Cugnai dal 1911",
+        "rating": 4.6,
+        "address": "Calle Nuova Sant'Agnese, 857, 30123 Venezia VE, Italy",
+        "latitude": 45.4306632,
+        "longitude": 12.3293962
+    },
+    {
+        "category": "restaurants",
+        "title": "La Nuova Perla",
+        "rating": 4.8,
+        "address": "Via Giuseppe Garibaldi, 1645, 30122 Venezia VE, Italy",
+        "latitude": 45.432031099999996,
+        "longitude": 12.3508061
+    },
+    {
+        "category": "restaurants",
+        "title": "L’Osteria di Santa Marina",
+        "rating": 4.6,
+        "address": "Campo Santa Marina, 5911, 30122 Venezia VE, Italy",
+        "latitude": 45.4383438,
+        "longitude": 12.339052299999999
+    },
+    {
+        "category": "restaurants",
+        "title": "La Lanterna Da Gas",
+        "rating": 4.7,
+        "address": "Campiello Mosca, 22, 30135 Venezia VE, Italy",
+        "latitude": 45.436065,
+        "longitude": 12.323837699999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Ristorante Riviera",
+        "rating": 4.6,
+        "address": "Fondamenta Zattere Al Ponte Lungo, 1473, 30123 Venezia VE, Italy",
+        "latitude": 45.430699399999995,
+        "longitude": 12.322013
+    },
+    {
+        "category": "restaurants",
+        "title": "Osteria Da Bubi",
+        "rating": 4.7,
+        "address": "Sestiere di Castello, 5306, 30122 Venezia VE, Italy",
+        "latitude": 45.4360839,
+        "longitude": 12.3398883
+    },
+    {
+        "category": "restaurants",
+        "title": "Trattoria Al Gazzettino",
+        "rating": 4.4,
+        "address": "C. de Mezzo, 4997, 30124 Venezia VE, Italy",
+        "latitude": 45.4364218,
+        "longitude": 12.3377494
+    },
+    {
+        "category": "restaurants",
+        "title": "Hostaria Sant'Aponal",
+        "rating": 4.7,
+        "address": "Calle del Scaleter, 1251, 30125 Venezia VE, Italy",
+        "latitude": 45.4377827,
+        "longitude": 12.3322101
+    },
+    {
+        "category": "restaurants",
+        "title": "Ristorante San Silvestro",
+        "rating": 4.7,
+        "address": "Rio Terà S. Silvestro, 1022B, 30125 Venezia VE, Italy",
+        "latitude": 45.4377657,
+        "longitude": 12.3332093
+    },
+    {
+        "category": "restaurants",
+        "title": "Al Grill",
+        "rating": 4.8,
+        "address": "S. Marco, 1659B, 30124 Venezia VE, Italy",
+        "latitude": 45.433907999999995,
+        "longitude": 12.3350341
+    },
+    {
+        "category": "restaurants",
+        "title": "Osteria Enoteca Ai Artisti",
+        "rating": 4.6,
+        "address": "Fondamenta Toletta, 1169 abc, 30123 Venezia VE, Italy",
+        "latitude": 45.4321415,
+        "longitude": 12.3253091
+    },
+    {
+        "category": "cafes",
+        "title": "Dolce Vita Venezia",
+        "rating": 4.7,
+        "address": "Sestiere Dorsoduro, 3956A, 30123 Venezia VE, Italy",
+        "latitude": 45.4359037,
+        "longitude": 12.325444099999999
+    },
+    {
+        "category": "cafes",
+        "title": "Caffè Florian",
+        "rating": 3.9,
+        "address": "P.za San Marco, 57, 30124 Venezia VE, Italy",
+        "latitude": 45.433609399999995,
+        "longitude": 12.338223
+    },
+    {
+        "category": "cafes",
+        "title": "Caffè La Serra",
+        "rating": 4.2,
+        "address": "Via Giuseppe Garibaldi, 1254, 30122 Venezia VE, Italy",
+        "latitude": 45.4307856,
+        "longitude": 12.355386
+    },
+    {
+        "category": "cafes",
+        "title": "Caffè del Doge",
+        "rating": 4.3,
+        "address": "Rialto, Calle dei Cinque, 609, 30125 Venezia VE, Italy",
+        "latitude": 45.438314899999995,
+        "longitude": 12.3342826
+    },
+    {
+        "category": "cafes",
+        "title": "Caffe Brasilia",
+        "rating": 4.1,
+        "address": "Rio Terrà dei Assassini, 30124 Venezia VE, Italy",
+        "latitude": 45.434654699999996,
+        "longitude": 12.333089099999999
+    },
+    {
+        "category": "cafes",
+        "title": "Brunch Cafe",
+        "rating": 4.6,
+        "address": "Calle de la Madoneta, 1457, 30125 Venezia VE, Italy",
+        "latitude": 45.437255,
+        "longitude": 12.331149
+    },
+    {
+        "category": "cafes",
+        "title": "Impronta Restaurant Venice",
+        "rating": 4.8,
+        "address": "Sestiere Dorsoduro, 3815, 30123 Venezia VE, Italy",
+        "latitude": 45.435856,
+        "longitude": 12.325377999999999
+    },
+    {
+        "category": "cafes",
+        "title": "IMAGINA Café",
+        "rating": 4.4,
+        "address": "Rio Terà Canal, 3126, 30123 Venezia VE, Italy",
+        "latitude": 45.4333929,
+        "longitude": 12.324415799999999
+    },
+    {
+        "category": "cafes",
+        "title": "The Caffe Rosso",
+        "rating": 4.2,
+        "address": "Sestiere Dorsoduro, 2963, 30123 Venezia VE, Italy",
+        "latitude": 45.4345049,
+        "longitude": 12.323559099999999
+    },
+    {
+        "category": "cafes",
+        "title": "Bar all'Angolo",
+        "rating": 4.3,
+        "address": "Fondamenta Narisi, 3464, 30124 Venezia VE, Italy",
+        "latitude": 45.433806,
+        "longitude": 12.330651999999999
+    },
+    {
+        "category": "cafes",
+        "title": "Café Venezia",
+        "rating": 2,
+        "address": "C. Fiubera, 943, 30124 Venezia VE, Italy",
+        "latitude": 45.4350534,
+        "longitude": 12.3375234
+    },
+    {
+        "category": "cafes",
+        "title": "Boresso",
+        "rating": 4.8,
+        "address": "Salizada San Stae, 1908, 30135 Venezia VE, Italy",
+        "latitude": 45.4404691,
+        "longitude": 12.329588999999999
+    },
+    {
+        "category": "cafes",
+        "title": "Adagio",
+        "rating": 4.9,
+        "address": "Calle Stretta Lipoli, 3027, 30125 Venezia VE, Italy",
+        "latitude": 45.4363939,
+        "longitude": 12.3263465
+    },
+    {
+        "category": "cafes",
+        "title": "Bar Ai Artisti",
+        "rating": 4.4,
+        "address": "Campo S. Barnaba, 2771, 30123 Venezia VE, Italy",
+        "latitude": 45.4329052,
+        "longitude": 12.3252116
+    },
+    {
+        "category": "cafes",
+        "title": "Bar Rialto da Lollo",
+        "rating": 4.4,
+        "address": "Ruga dei Spezieri, 234, 30125 Venezia VE, Italy",
+        "latitude": 45.4391129,
+        "longitude": 12.334411099999999
+    },
+    {
+        "category": "cafes",
+        "title": "Caffè Poggi dal 1919",
+        "rating": 4.3,
+        "address": "Calle Nuova Sant'Agnese, 30123 Venezia VE, Italy",
+        "latitude": 45.4306598,
+        "longitude": 12.3293217
+    },
+    {
+        "category": "cafes",
+        "title": "Caffe Dei Frari",
+        "rating": 4.6,
+        "address": "Calle del Scaleter, 2564, 30100 Venezia VE, Italy",
+        "latitude": 45.4373345,
+        "longitude": 12.3272515
+    },
+    {
+        "category": "cafes",
+        "title": "Hard Rock Cafe",
+        "rating": 4.5,
+        "address": "Bacino Orseolo , San Marco 1192, 30124 Venezia VE, Italy",
+        "latitude": 45.4341059,
+        "longitude": 12.3368577
+    },
+    {
+        "category": "cafes",
+        "title": "Soul Kitchen Café",
+        "rating": 4,
+        "address": "Viale Stazione, 38, 30171 Venezia VE, Italy",
+        "latitude": 45.4828063,
+        "longitude": 12.2324849
+    },
+    {
+        "category": "cafes",
+        "title": "Caffè Vergnano 1882",
+        "rating": 3.5,
+        "address": "San Polo, 129, 30125 Venezia VE, Italy",
+        "latitude": 45.438690099999995,
+        "longitude": 12.335533999999999
+    },
+    {
+        "category": "mountains",
+        "title": "rio della Tana",
+        "rating": 4.6,
+        "address": "30100 Venice, Metropolitan City of Venice, Italy",
+        "latitude": 45.4330965,
+        "longitude": 12.3528858
+    },
+    {
+        "category": "mountains",
+        "title": "Mountain Wilderness",
+        "rating": 3.4,
+        "address": "Viale Venezia, 7, 30171 Venezia VE, Italy",
+        "latitude": 45.483394,
+        "longitude": 12.2307653
+    },
+    {
+        "category": "mountains",
+        "title": "Giudecca",
+        "rating": 4.7,
+        "address": "30100 Venice, Metropolitan City of Venice, Italy",
+        "latitude": 45.4244638,
+        "longitude": 12.329498599999999
+    },
+    {
+        "category": "mountains",
+        "title": "Venice Marco Polo Airport",
+        "rating": 3.8,
+        "address": "Viale Galileo Galilei, 30, 30173 Venezia VE, Italy",
+        "latitude": 45.504684399999995,
+        "longitude": 12.346629499999999
+    },
+    {
+        "category": "mountains",
+        "title": "Foresta di Punta Sabbioni",
+        "rating": 4.4,
+        "address": "Via Montello, 30013 Cavallino-Treporti VE, Italy",
+        "latitude": 45.4305093,
+        "longitude": 12.432914199999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Soffia Waterfall",
+        "rating": 4.6,
+        "address": "32037 Gena BL, Italy",
+        "latitude": 46.1857709,
+        "longitude": 12.0478341
+    },
+    {
+        "category": "waterfalls",
+        "title": "Parco delle Cascate di Molina",
+        "rating": 4.6,
+        "address": "37022 Fumane VR, Italy",
+        "latitude": 45.611964,
+        "longitude": 10.9087935
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascate del Varone",
+        "rating": 4.6,
+        "address": "Località Le Foci, 3, 38060 Tenno TN, Italy",
+        "latitude": 45.911429,
+        "longitude": 10.834537
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascate del Mulino",
+        "rating": 4.6,
+        "address": "Strada Vicinale Molino del Bagno, 9/a, 58014 Manciano GR, Italy",
+        "latitude": 42.648285699999995,
+        "longitude": 11.5126785
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascata del Toce",
+        "rating": 4.7,
+        "address": "28863 Formazza VB, Italy",
+        "latitude": 46.4084408,
+        "longitude": 8.4130594
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascate di Saent",
+        "rating": 4.8,
+        "address": "38020 Rabbi TN, Italy",
+        "latitude": 46.4367478,
+        "longitude": 10.7688761
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascate di Riva",
+        "rating": 4.8,
+        "address": "Via Acereto, 89, 39032 Campo Tures BZ, Italy",
+        "latitude": 46.916396299999995,
+        "longitude": 11.978947999999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascata dei Papalini",
+        "rating": 4.6,
+        "address": "36070 Crespadoro VI, Italy",
+        "latitude": 45.6402545,
+        "longitude": 11.2015545
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascate del Pisciadù",
+        "rating": 4.5,
+        "address": "39033 Colfosco BZ, Italy",
+        "latitude": 46.5433567,
+        "longitude": 11.8321007
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascate di Fanes",
+        "rating": 4.8,
+        "address": "32043 Cortina d'Ampezzo BL, Italy",
+        "latitude": 46.594362,
+        "longitude": 12.0840108
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascata delle Pile",
+        "rating": 4.6,
+        "address": "32042 Calalzo di Cadore BL, Italy",
+        "latitude": 46.4800848,
+        "longitude": 12.2854916
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascata Ru de Rialt - Alleghe",
+        "rating": 4.5,
+        "address": "32022 Alleghe BL, Italy",
+        "latitude": 46.3931329,
+        "longitude": 12.016468
+    },
+    {
+        "category": "lakes",
+        "title": "Venetian Lagoon",
+        "rating": 4.8,
+        "address": "Metropolitan City of Venice, Italy",
+        "latitude": 45.336784699999995,
+        "longitude": 12.2750422
+    },
+    {
+        "category": "lakes",
+        "title": "Parco Laghetti Martellago",
+        "rating": 4.5,
+        "address": "Via Ca' Bembo, 30030 Maerne,Martellago VE, Italy",
+        "latitude": 45.5334826,
+        "longitude": 12.1672696
+    },
+    {
+        "category": "lakes",
+        "title": "Parco Alfredo Albanese",
+        "rating": 4,
+        "address": "Via Gori, 8, 30172 Mestre VE, Italy",
+        "latitude": 45.499357499999995,
+        "longitude": 12.2609032
+    },
+    {
+        "category": "lakes",
+        "title": "Lago Sherwood",
+        "rating": 4.3,
+        "address": "Via Frusta, 42, 30030 Salzano VE, Italy",
+        "latitude": 45.5345716,
+        "longitude": 12.1016388
+    },
+    {
+        "category": "beaches",
+        "title": "Spiaggia Lungomare d'Annunzio",
+        "rating": 4.3,
+        "address": "Lungomare Gabriele D' Annunzio, 30126 Lido VE, Italy",
+        "latitude": 45.4111086,
+        "longitude": 12.374321
+    },
+    {
+        "category": "beaches",
+        "title": "Murazzi Spiaggia libera",
+        "rating": 4.4,
+        "address": "Strada vicinale Malamocco, 8, 30126 Lido VE, Italy",
+        "latitude": 45.3962007,
+        "longitude": 12.3600443
+    },
+    {
+        "category": "beaches",
+        "title": "Litorale Sant Erasmo",
+        "rating": 3.9,
+        "address": "30141 Venice, Metropolitan City of Venice, Italy",
+        "latitude": 45.4555556,
+        "longitude": 12.4163889
+    },
+    {
+        "category": "beaches",
+        "title": "Venezia Spiaggia Blue Moon",
+        "rating": 4.1,
+        "address": "Italy",
+        "latitude": 45.410018199999996,
+        "longitude": 12.3742235
+    },
+    {
+        "category": "beaches",
+        "title": "Spiaggia degli Alberoni",
+        "rating": 4.4,
+        "address": "30126 Lido VE, Italy",
+        "latitude": 45.342846699999996,
+        "longitude": 12.327985199999999
+    },
+    {
+        "category": "beaches",
+        "title": "beach San Pietro",
+        "rating": 4.5,
+        "address": "30126 Venice, Metropolitan City of Venice, Italy",
+        "latitude": 45.3220076,
+        "longitude": 12.3201786
+    },
+    {
+        "category": "beaches",
+        "title": "Spiaggia degli Alberoni",
+        "rating": 4.3,
+        "address": "30126 Lido, Metropolitan City of Venice, Italy",
+        "latitude": 45.3484506,
+        "longitude": 12.3292465
+    },
+    {
+        "category": "beaches",
+        "title": "Litorale di Lido",
+        "rating": 3.7,
+        "address": "30100 Lido, Metropolitan City of Venice, Italy",
+        "latitude": 45.376388899999995,
+        "longitude": 12.3413889
+    },
+    {
+        "category": "beaches",
+        "title": "Spiaggia di Ca' Roman",
+        "rating": 4.5,
+        "address": "Pellestrina,Lido, Lido VE, Italy",
+        "latitude": 45.240701,
+        "longitude": 12.2980088
+    },
+    {
+        "category": "beaches",
+        "title": "Lido di Venezia",
+        "rating": 4.7,
+        "address": "Italy",
+        "latitude": 45.3893139,
+        "longitude": 12.353088099999999
+    },
+    {
+        "category": "beaches",
+        "title": "Venezia Spiagge (S.P.A.)",
+        "rating": 4,
+        "address": "Piazzale Rava', 30126 Venezia VE, Italy",
+        "latitude": 45.423021,
+        "longitude": 12.3851313
+    },
+    {
+        "category": "beaches",
+        "title": "Litorale del Cavallino",
+        "rating": 4.5,
+        "address": "30013 Cavallino-Treporti, Metropolitan City of Venice, Italy",
+        "latitude": 45.4572222,
+        "longitude": 12.4969444
+    },
+    {
+        "category": "beaches",
+        "title": "beach Marconi",
+        "rating": 4.2,
+        "address": "Lido, Metropolitan City of Venice, Italy",
+        "latitude": 45.3992784,
+        "longitude": 12.363274899999999
+    },
+    {
+        "category": "beaches",
+        "title": "Bluemoon Spiaggia Lido di Venezia",
+        "rating": 4.1,
+        "address": "di, P.za Bucintoro, 1, 30126 Lido VE, Italy",
+        "latitude": 45.4142393,
+        "longitude": 12.3773051
+    },
+    {
+        "category": "beaches",
+        "title": "Spiaggia del Bacan",
+        "rating": 4.3,
+        "address": "Via dei Forti, 26, 30141 Venezia VE, Italy",
+        "latitude": 45.4447328,
+        "longitude": 12.3939802
+    },
+    {
+        "category": "beaches",
+        "title": "Venice Beaches (SPA)",
+        "rating": 4,
+        "address": "Lungomare Gabriele D' Annunzio, 2, 30126 Venezia VE, Italy",
+        "latitude": 45.417508299999994,
+        "longitude": 12.3798969
+    },
+    {
+        "category": "beaches",
+        "title": "Lighthouse Beach",
+        "rating": 4.3,
+        "address": "30016 Jesolo, Metropolitan City of Venice, Italy",
+        "latitude": 45.4800446,
+        "longitude": 12.584627
+    },
+    {
+        "category": "beaches",
+        "title": "Spiaggia Zona \"A\" Lido di Venezia",
+        "rating": 4.1,
+        "address": "Lungomare Gabriele D' Annunzio, 6, 30126 Lido VE, Italy",
+        "latitude": 45.4177533,
+        "longitude": 12.3796789
+    },
+    {
+        "category": "beaches",
+        "title": "Strand Punta Sabbioni",
+        "rating": 4.6,
+        "address": "Benetke, 30013 Punta Sabbioni VE, Italy",
+        "latitude": 45.4252167,
+        "longitude": 12.434421299999999
+    },
+    {
+        "category": "beaches",
+        "title": "Alberoni Sand Dune Oasis",
+        "rating": 4.3,
+        "address": "30100 Lido, Metropolitan City of Venice, Italy",
+        "latitude": 45.347743,
+        "longitude": 12.3258304
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sacca Fisola Swimming Pool",
+        "rating": 4.3,
+        "address": "Piscina Comunale di Sacca Fisola, 1, 30133 Venezia VE, Italy",
+        "latitude": 45.4259444,
+        "longitude": 12.314041099999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina estiva La Grotta",
+        "rating": 4,
+        "address": "Via E. Scaramuzza, 42, 30174 Venezia VE, Italy",
+        "latitude": 45.5210478,
+        "longitude": 12.2150287
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina Sant'Alvise",
+        "rating": 4.4,
+        "address": "Cannaregio, 3163, 30121 Venezia VE, Italy",
+        "latitude": 45.448461699999996,
+        "longitude": 12.3280888
+    },
+    {
+        "category": "swimming pools",
+        "title": "Nuoto Venezia - Piscine e Palestre del Centro",
+        "rating": 4,
+        "address": "Via Circonvallazione, 53, 30173 Venezia VE, Italy",
+        "latitude": 45.4957474,
+        "longitude": 12.2357181
+    },
+    {
+        "category": "swimming pools",
+        "title": "BluePool",
+        "rating": 4.1,
+        "address": "30126 Lido VE, Italy",
+        "latitude": 45.415096299999995,
+        "longitude": 12.3776576
+    },
+    {
+        "category": "swimming pools",
+        "title": "JW Marriott Venice Rooftop Pool",
+        "rating": 5,
+        "address": "S. Marco, 30133 Venezia VE, Italy",
+        "latitude": 45.406690499999996,
+        "longitude": 12.32198
+    },
+    {
+        "category": "resorts",
+        "title": "JW Marriott Venice Resort & Spa",
+        "rating": 4.5,
+        "address": "Isola Delle Rose Laguna Di San Marco, 30133 Venezia VE, Italy",
+        "latitude": 45.4052158,
+        "longitude": 12.3196096
+    },
+    {
+        "category": "resorts",
+        "title": "Hilton Molino Stucky Venice",
+        "rating": 4.4,
+        "address": "Giudecca, 810, 30133 Venezia VE, Italy",
+        "latitude": 45.4282189,
+        "longitude": 12.320293099999999
+    },
+    {
+        "category": "resorts",
+        "title": "Aman Venice",
+        "rating": 4.8,
+        "address": "Palazzo Papadopoli, Calle Tiepolo, 1364, 30215 Venezia VE, Italy",
+        "latitude": 45.4366573,
+        "longitude": 12.3316542
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Venice Resort",
+        "rating": 3.9,
+        "address": "Via Triestina, 153, 30173 Venezia VE, Italy",
+        "latitude": 45.5040408,
+        "longitude": 12.322953199999999
+    },
+    {
+        "category": "resorts",
+        "title": "Baglioni Hotel Luna",
+        "rating": 4.6,
+        "address": "P.za San Marco, 1243, 30124 Venezia VE, Italy",
+        "latitude": 45.433063499999996,
+        "longitude": 12.3372383
+    },
+    {
+        "category": "resorts",
+        "title": "NH Collection Venezia Grand Hotel Palazzo dei Dogi",
+        "rating": 4.5,
+        "address": "Fondamenta Madona de l'Orto, 3500, 30121 Venezia VE, Italy",
+        "latitude": 45.446729,
+        "longitude": 12.331021999999999
+    },
+    {
+        "category": "resorts",
+        "title": "Splendid Venice - Starhotels Collezione",
+        "rating": 4.6,
+        "address": "Mercerie, 760, 30124 Venezia VE, Italy",
+        "latitude": 45.4359608,
+        "longitude": 12.3375659
+    },
+    {
+        "category": "resorts",
+        "title": "Palazzo Veneziano - Venice Collection",
+        "rating": 4.7,
+        "address": "Fondamenta Zattere Al Ponte Lungo, 1413, 30123 Venezia VE, Italy",
+        "latitude": 45.4304627,
+        "longitude": 12.3228707
+    },
+    {
+        "category": "resorts",
+        "title": "Ca 'Nigra Lagoon Resort - Venice",
+        "rating": 4.7,
+        "address": "Campiello S. Simeone Grande, 927, 30135 Venezia VE, Italy",
+        "latitude": 45.4409536,
+        "longitude": 12.3241476
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Ai Reali",
+        "rating": 4.7,
+        "address": "Calle Seconda de la Fava, 5527, 30122 Venezia VE, Italy",
+        "latitude": 45.4370793,
+        "longitude": 12.337786399999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Gritti Palace, a Luxury Collection Hotel, Venice",
+        "rating": 4.6,
+        "address": "Campo Santa Maria Del Giglio, 2467, 30124 Venezia VE, Italy",
+        "latitude": 45.4317807,
+        "longitude": 12.3333017
+    },
+    {
+        "category": "resorts",
+        "title": "Palace Bonvecchiati",
+        "rating": 4.5,
+        "address": "S. Marco, 4680, 30124 Venezia VE, Italy",
+        "latitude": 45.4356085,
+        "longitude": 12.3363275
+    },
+    {
+        "category": "camping sites",
+        "title": "CAMPING VENEZIA VILLAGE",
+        "rating": 4.5,
+        "address": "Via Orlanda, 8/C, 30173 Venezia VE, Italy",
+        "latitude": 45.480719699999995,
+        "longitude": 12.274923699999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Fusina",
+        "rating": 4.1,
+        "address": "Via Moranzani, 93, 30176 Venezia VE, Italy",
+        "latitude": 45.420802699999996,
+        "longitude": 12.258218
+    },
+    {
+        "category": "camping sites",
+        "title": "Village Camping Marina di Venezia",
+        "rating": 4.6,
+        "address": "Via Montello, 6, 30013 Cavallino-Treporti VE, Italy",
+        "latitude": 45.4372895,
+        "longitude": 12.4380055
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Village Dei Fiori",
+        "rating": 4.6,
+        "address": "Via Vettor Pisani, 52, 30013 Cavallino-Treporti VE, Italy",
+        "latitude": 45.4486492,
+        "longitude": 12.4725405
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Rialto",
+        "rating": 3.8,
+        "address": "Via Orlanda, 16, 30173 Venezia VE, Italy",
+        "latitude": 45.484303999999995,
+        "longitude": 12.2832894
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Serenissima",
+        "rating": 4.4,
+        "address": "Via Padana, 30176 Venezia VE, Italy",
+        "latitude": 45.452476,
+        "longitude": 12.183311999999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Village Mediterraneo",
+        "rating": 4.5,
+        "address": "Via delle Batterie, 38, 30013 Cavallino-Treporti VE, Italy",
+        "latitude": 45.454173499999996,
+        "longitude": 12.4819971
+    },
+    {
+        "category": "camping sites",
+        "title": "Campeggio Ca' Pasquali",
+        "rating": 4.5,
+        "address": "Via A. Poerio, 33, 30013 Cavallino-Treporti VE, Italy",
+        "latitude": 45.452721,
+        "longitude": 12.490096099999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Ca 'Savio",
+        "rating": 4.3,
+        "address": "Via di Ca' Savio, 77, 30013 Cavallino-Treporti VE, Italy",
+        "latitude": 45.4457665,
+        "longitude": 12.4610386
+    },
+    {
+        "category": "camping sites",
+        "title": "San Giuliano Venice",
+        "rating": 4.1,
+        "address": "Via S. Giuliano, 19, 30173 Venezia VE, Italy",
+        "latitude": 45.4678726,
+        "longitude": 12.279055399999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Village Garden Paradiso",
+        "rating": 4.4,
+        "address": "Via F. Baracca, 55, 30013 Cavallino-Treporti VE, Italy",
+        "latitude": 45.477436999999995,
+        "longitude": 12.5638627
+    },
+    {
+        "category": "camping sites",
+        "title": "hu Venezia camping in town",
+        "rating": 4.1,
+        "address": "Via Giuseppe de Marchi, 7, 30175 Marghera VE, Italy",
+        "latitude": 45.472142399999996,
+        "longitude": 12.2122634
+    },
+    {
+        "category": "camping sites",
+        "title": "Vela Blu Camping Village",
+        "rating": 4.4,
+        "address": "Via Carlo Alberto Radaelli, 10, 30013 Cavallino-Treporti VE, Italy",
+        "latitude": 45.4577976,
+        "longitude": 12.506397
+    },
+    {
+        "category": "camping sites",
+        "title": "Residence Village",
+        "rating": 4.1,
+        "address": "Via F. Baracca, 47, 30013 Cavallino-Treporti VE, Italy",
+        "latitude": 45.480339099999995,
+        "longitude": 12.5737022
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Enzo Stella Maris",
+        "rating": 4.7,
+        "address": "Via delle Batterie, 100, 30013 Venezia VE, Italy",
+        "latitude": 45.456601,
+        "longitude": 12.495671
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Laguna Village Spa",
+        "rating": 4.3,
+        "address": "Viale dei Cacciatori, 28, 30021 Caorle VE, Italy",
+        "latitude": 45.616571,
+        "longitude": 12.906882999999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Ecogarden Venice Camping",
+        "rating": 3.6,
+        "address": "Via Giulio Cesare Parolari, 88, 30174 Venezia VE, Italy",
+        "latitude": 45.5275155,
+        "longitude": 12.2107569
+    },
+    {
+        "category": "camping sites",
+        "title": "Italy Camping Village",
+        "rating": 4.5,
+        "address": "Via Fausta, 272, 30013 Cavallino-Treporti VE, Italy",
+        "latitude": 45.468274699999995,
+        "longitude": 12.533148299999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Europa Village Camping Sandaya Cavallino Treporti",
+        "rating": 4.4,
+        "address": "Via Fausta, 332, 30013 Cavallino-Treporti VE, Italy",
+        "latitude": 45.473886,
+        "longitude": 12.548919999999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Al Porto - Sottomarina di Chioggia",
+        "rating": 4.2,
+        "address": "Via S. Felice, 10g, 30015 Chioggia VE, Italy",
+        "latitude": 45.2250625,
+        "longitude": 12.2965869
+    },
+    {
+        "category": "hiking trails",
+        "title": "Carpenedo Woods",
+        "rating": 4.1,
+        "address": "Via del Boschetto, 30174 Venezia VE, Italy",
+        "latitude": 45.512241599999996,
+        "longitude": 12.2472668
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bosco dell'Osellino",
+        "rating": 3.9,
+        "address": "Via Amerigo Vespucci, 223, 30173 Venezia VE, Italy",
+        "latitude": 45.4836272,
+        "longitude": 12.2645456
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Carpenedo Woods",
+        "rating": 4.1,
+        "address": "Via del Boschetto, 30174 Venezia VE, Italy",
+        "latitude": 45.512241599999996,
+        "longitude": 12.2472668
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Parco San Giuliano",
+        "rating": 4.4,
+        "address": "Via Orlanda, 30173 Venezia VE, Italy",
+        "latitude": 45.4743271,
+        "longitude": 12.276037599999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Valle Averto WWF",
+        "rating": 4.4,
+        "address": "SS 309 Romea, Km. 112,800, 30010 Campagna Lupia VE, Italy",
+        "latitude": 45.3657657,
+        "longitude": 12.1382759
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "See Venice Guided Tours Luisella Romeo",
+        "rating": 5,
+        "address": "30121 Venezia VE, Italy",
+        "latitude": 45.4431626,
+        "longitude": 12.338475599999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Doge's Palace",
+        "rating": 4.7,
+        "address": "P.za San Marco, 1, 30124 Venezia VE, Italy",
+        "latitude": 45.4337035,
+        "longitude": 12.3403894
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Venezia e il suo Lido",
+        "rating": 4.8,
+        "address": "Via Corfù, 8, 30126 Lido VE, Italy",
+        "latitude": 45.4172595,
+        "longitude": 12.370334
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "illuminem HQ",
+        "rating": 4.9,
+        "address": "C. S. Cosmo, 624, 30133 Venezia VE, Italy",
+        "latitude": 45.4251424,
+        "longitude": 12.3227549
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Bluemoon Spiaggia Lido di Venezia",
+        "rating": 4.1,
+        "address": "di, P.za Bucintoro, 1, 30126 Lido VE, Italy",
+        "latitude": 45.4142393,
+        "longitude": 12.3773051
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Casa Museo Andrich",
+        "rating": 4.7,
+        "address": "Fondamenta dei Borgognoni, 4/L, 30142 Venezia VE, Italy",
+        "latitude": 45.4983309,
+        "longitude": 12.4115825
+    },
+    {
+        "category": "temples",
+        "title": "Chabad di Venezia",
+        "rating": 4.8,
+        "address": "Sestiere Cannaregio, 2915, 30121 Venezia VE, Italy",
+        "latitude": 45.4453554,
+        "longitude": 12.3273394
+    },
+    {
+        "category": "temples",
+        "title": "Sinagoga Spagnola",
+        "rating": 4.6,
+        "address": "Cl. Ghetto Vecchio, 1147, 30121 Venezia VE, Italy",
+        "latitude": 45.4446462,
+        "longitude": 12.3255608
+    },
+    {
+        "category": "temples",
+        "title": "Italian Synagogue",
+        "rating": 4.4,
+        "address": "Cl. Ghetto Vecchio, 2887, 30121 Venezia VE, Italy",
+        "latitude": 45.445155299999996,
+        "longitude": 12.326709899999999
+    },
+    {
+        "category": "temples",
+        "title": "Saint Mark's Basilica",
+        "rating": 4.7,
+        "address": "P.za San Marco, 328, 30100 Venezia VE, Italy",
+        "latitude": 45.4345606,
+        "longitude": 12.3397124
+    },
+    {
+        "category": "temples",
+        "title": "Basilica Santa Maria della Salute",
+        "rating": 4.7,
+        "address": "Dorsoduro, 1, 30123 Venezia VE, Italy",
+        "latitude": 45.430675,
+        "longitude": 12.3347626
+    },
+    {
+        "category": "temples",
+        "title": "Basilica S.Maria Gloriosa dei Frari",
+        "rating": 4.7,
+        "address": "San Polo, 3072, 30125 Venezia VE, Italy",
+        "latitude": 45.436986399999995,
+        "longitude": 12.3266004
+    },
+    {
+        "category": "temples",
+        "title": "Sinagoghe e Museo Ebraico di Venezia",
+        "rating": 4.3,
+        "address": "Campo di Ghetto Nuovo, 2902, 30121 Venezia VE, Italy",
+        "latitude": 45.4450297,
+        "longitude": 12.326944099999999
+    },
+    {
+        "category": "temples",
+        "title": "Jewish Community of Venice",
+        "rating": 4.5,
+        "address": "Cannaregio, 1189, 30121 Venezia VE, Italy",
+        "latitude": 45.445279899999996,
+        "longitude": 12.3261515
+    },
+    {
+        "category": "temples",
+        "title": "Basilica dei Santi Giovanni e Paolo",
+        "rating": 4.7,
+        "address": "Campo S.S. Giovanni e Paolo, 6363, 30122 Venezia VE, Italy",
+        "latitude": 45.4393794,
+        "longitude": 12.341712699999999
+    },
+    {
+        "category": "temples",
+        "title": "Armenian Monastery Mechitarist",
+        "rating": 4.8,
+        "address": "Isola Di San Lazzaro, 30126 Venezia Lido VE, Italy",
+        "latitude": 45.412331599999995,
+        "longitude": 12.3608718
+    },
+    {
+        "category": "temples",
+        "title": "Church of Saint Mary of Miracles",
+        "rating": 4.6,
+        "address": "Campiello dei Miracoli, 30121 Venezia VE, Italy",
+        "latitude": 45.4394001,
+        "longitude": 12.3391512
+    },
+    {
+        "category": "temples",
+        "title": "Tempio Votivo della Pace",
+        "rating": 4.3,
+        "address": "Riviera Santa Maria Elisabetta, 2, 30126 Lido VE, Italy",
+        "latitude": 45.4177531,
+        "longitude": 12.370744799999999
+    },
+    {
+        "category": "temples",
+        "title": "Torcello Basilica S.M. Assunta",
+        "rating": 4.4,
+        "address": "Via isola, Campiello Lazzari, di, 30142 campello VE, Italy",
+        "latitude": 45.4983316,
+        "longitude": 12.4191009
+    },
+    {
+        "category": "temples",
+        "title": "Chiesa di Santa Maria Assunta detta I Gesuiti",
+        "rating": 4.7,
+        "address": "Salizada dei Spechieri, 4877, 30121 Venezia VE, Italy",
+        "latitude": 45.4433644,
+        "longitude": 12.3391345
+    },
+    {
+        "category": "temples",
+        "title": "Piazza San Marco",
+        "rating": 4.7,
+        "address": "P.za San Marco, 30100 Venezia VE, Italy",
+        "latitude": 45.4341668,
+        "longitude": 12.3384717
+    },
+    {
+        "category": "temples",
+        "title": "Church of Saint Sebastian",
+        "rating": 4.6,
+        "address": "Campazzo S. Sebastian, 30123 Venezia VE, Italy",
+        "latitude": 45.432004899999995,
+        "longitude": 12.3199577
+    },
+    {
+        "category": "temples",
+        "title": "Diocese of Venice",
+        "rating": 4.7,
+        "address": "S. Marco, 318, 30124 Venezia VE, Italy",
+        "latitude": 45.4349865,
+        "longitude": 12.339830099999999
+    },
+    {
+        "category": "temples",
+        "title": "Santa Maria di Nazareth Church",
+        "rating": 4.7,
+        "address": "Cannaregio, 54, 30121 Venezia VE, Italy",
+        "latitude": 45.441327199999996,
+        "longitude": 12.322146199999999
+    },
+    {
+        "category": "temples",
+        "title": "Parrocchia di Santa Maria Formosa",
+        "rating": 4.6,
+        "address": "Calle Seconda de la Fava, 5263, 30122 Venezia VE, Italy",
+        "latitude": 45.4371241,
+        "longitude": 12.340785799999999
+    },
+    {
+        "category": "temples",
+        "title": "Doge's Palace",
+        "rating": 4.7,
+        "address": "P.za San Marco, 1, 30124 Venezia VE, Italy",
+        "latitude": 45.4337035,
+        "longitude": 12.3403894
+    },
+    {
+        "category": "museums",
+        "title": "Peggy Guggenheim Collection",
+        "rating": 4.6,
+        "address": "Dorsoduro, 701, 30123 Venezia VE, Italy",
+        "latitude": 45.4308209,
+        "longitude": 12.3315374
+    },
+    {
+        "category": "museums",
+        "title": "Ca' Rezzonico",
+        "rating": 4.5,
+        "address": "Sestiere Dorsoduro, 3136, 30123 Venezia VE, Italy",
+        "latitude": 45.4335405,
+        "longitude": 12.3268258
+    },
+    {
+        "category": "museums",
+        "title": "Ca' Pesaro International Gallery of Modern Art",
+        "rating": 4.5,
+        "address": "C. del Tentor, 2076, 30135 Venezia VE, Italy",
+        "latitude": 45.441063,
+        "longitude": 12.331631699999999
+    },
+    {
+        "category": "museums",
+        "title": "Museo Correr",
+        "rating": 4.3,
+        "address": "P.za San Marco, 52, 30124 Venezia VE, Italy",
+        "latitude": 45.4335634,
+        "longitude": 12.3372551
+    },
+    {
+        "category": "museums",
+        "title": "Doge's Palace",
+        "rating": 4.7,
+        "address": "P.za San Marco, 1, 30124 Venezia VE, Italy",
+        "latitude": 45.4337035,
+        "longitude": 12.3403894
+    },
+    {
+        "category": "museums",
+        "title": "Gallerie dell'Accademia",
+        "rating": 4.6,
+        "address": "Calle della Carità, 1050, 30123 Venezia VE, Italy",
+        "latitude": 45.4310784,
+        "longitude": 12.3281394
+    },
+    {
+        "category": "museums",
+        "title": "Grassi Palace",
+        "rating": 4.5,
+        "address": "Campo San Samuele, 3231, 30124 Venezia VE, Italy",
+        "latitude": 45.4338015,
+        "longitude": 12.327946299999999
+    },
+    {
+        "category": "museums",
+        "title": "National Archeological Museum",
+        "rating": 4.2,
+        "address": "P.za San Marco, 17, 30100 Venezia VE, Italy",
+        "latitude": 45.4337425,
+        "longitude": 12.3392242
+    },
+    {
+        "category": "museums",
+        "title": "Punta della Dogana - Pinault Collection",
+        "rating": 4.6,
+        "address": "Dorsoduro, 2, 30123 Venezia VE, Italy",
+        "latitude": 45.430947599999996,
+        "longitude": 12.3368328
+    },
+    {
+        "category": "museums",
+        "title": "Museo della Musica di Venezia",
+        "rating": 4.4,
+        "address": "Fondamenta Narisi, 2603, 30124 Venezia VE, Italy",
+        "latitude": 45.4330272,
+        "longitude": 12.3316225
+    },
+    {
+        "category": "museums",
+        "title": "Galleria Giorgio Franchetti alla Ca' d'Oro",
+        "rating": 4.5,
+        "address": "Calle Ca' d'Oro, 3934, 30121 Venezia VE, Italy",
+        "latitude": 45.441011599999996,
+        "longitude": 12.3341663
+    },
+    {
+        "category": "museums",
+        "title": "Mocenigo Palace-Museum",
+        "rating": 4.2,
+        "address": "C. del Tentor, 1992, 30135 Venezia VE, Italy",
+        "latitude": 45.440655199999995,
+        "longitude": 12.329857599999999
+    },
+    {
+        "category": "museums",
+        "title": "Sinagoghe e Museo Ebraico di Venezia",
+        "rating": 4.3,
+        "address": "Campo di Ghetto Nuovo, 2902, 30121 Venezia VE, Italy",
+        "latitude": 45.4450297,
+        "longitude": 12.326944099999999
+    },
+    {
+        "category": "museums",
+        "title": "Glass Museum (Murano)",
+        "rating": 4.1,
+        "address": "Fondamenta Marco Giustinian, 8, 30141 Venezia VE, Italy",
+        "latitude": 45.4565644,
+        "longitude": 12.3568711
+    },
+    {
+        "category": "museums",
+        "title": "Museo Fortuny",
+        "rating": 4.7,
+        "address": "Fondamenta Narisi, 3958, 30124 Venezia VE, Italy",
+        "latitude": 45.435407999999995,
+        "longitude": 12.332265999999999
+    },
+    {
+        "category": "museums",
+        "title": "Museo di Palazzo Grimani",
+        "rating": 4.6,
+        "address": "Rugagiuffa, 4858, 30122 Venezia VE, Italy",
+        "latitude": 45.4370076,
+        "longitude": 12.3422213
+    },
+    {
+        "category": "museums",
+        "title": "Le Stanze del Vetro",
+        "rating": 4.8,
+        "address": "Isola di San Giorgio Maggiore, 8, 30124 Venezia VE, Italy",
+        "latitude": 45.429009699999995,
+        "longitude": 12.344811199999999
+    },
+    {
+        "category": "museums",
+        "title": "Scuola Grande di San Rocco",
+        "rating": 4.8,
+        "address": "Campo S. Rocco, 3052, 30125 Venezia VE, Italy",
+        "latitude": 45.4366549,
+        "longitude": 12.3254746
+    },
+    {
+        "category": "museums",
+        "title": "Leonardo da Vinci: The Exhibition in Venice",
+        "rating": 4.4,
+        "address": "Sestiere Dorsoduro, 2771, 30123 Venezia VE, Italy",
+        "latitude": 45.4330334,
+        "longitude": 12.3252359
+    },
+    {
+        "category": "museums",
+        "title": "Museo Storico Navale di Venezia",
+        "rating": 4.3,
+        "address": "Riva S. Biasio, 2148, 30122 Venezia VE, Italy",
+        "latitude": 45.432756499999996,
+        "longitude": 12.34987
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato di Rialto",
+        "rating": 4.6,
+        "address": "Calle Prima de la Donzella, 306, 30125 Venezia VE, Italy",
+        "latitude": 45.439657399999994,
+        "longitude": 12.3337524
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato Sacca Fisola",
+        "rating": 4,
+        "address": "Calle del Vaporetto, 30133 Venezia VE, Italy",
+        "latitude": 45.427430699999995,
+        "longitude": 12.3145031
+    },
+    {
+        "category": "night markets",
+        "title": "Market",
+        "rating": 3.4,
+        "address": "Calle Larga, 2869, 30125 Venezia VE, Italy",
+        "latitude": 45.4358977,
+        "longitude": 12.3274692
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato Municipale",
+        "rating": 4.3,
+        "address": "Via Francesco Scipione Fapanni, 48, 30174 Venezia VE, Italy",
+        "latitude": 45.493671299999995,
+        "longitude": 12.2440605
+    },
+    {
+        "category": "night markets",
+        "title": "Rialto Mercato",
+        "rating": 4.6,
+        "address": "Fon. del Vin, 30125 Venezia VE, Italy",
+        "latitude": 45.439453,
+        "longitude": 12.335298
+    },
+    {
+        "category": "night markets",
+        "title": "Mercatino dell'Antiquariato Campo San Maurizio",
+        "rating": 4,
+        "address": "Campo San Maurizio, 30124, 30124 Venezia VE, Italy",
+        "latitude": 45.4328249,
+        "longitude": 12.3315108
+    },
+    {
+        "category": "night markets",
+        "title": "mercato serale Cavallino",
+        "rating": 3.8,
+        "address": "Via Equilia, 30013 Cavallino VE, Italy",
+        "latitude": 45.483311699999994,
+        "longitude": 12.5518611
+    },
+    {
+        "category": "night markets",
+        "title": "Mercatino di San Martino",
+        "rating": 3.8,
+        "address": "Fondamenta del Piovan o Erizzo, 2294, 30122 Venezia VE, Italy",
+        "latitude": 45.434745799999995,
+        "longitude": 12.348810199999999
+    },
+    {
+        "category": "night markets",
+        "title": "Campo della Pescaria",
+        "rating": 4.5,
+        "address": "Calle de la Donzella, 257, 30125 Venezia VE, Italy",
+        "latitude": 45.4397264,
+        "longitude": 12.3344443
+    },
+    {
+        "category": "night markets",
+        "title": "Mercatino di San Giobbe",
+        "rating": 3.1,
+        "address": "Fondamenta S. Giobbe, 618, 30121 Venezia VE, Italy",
+        "latitude": 45.4453093,
+        "longitude": 12.3207659
+    },
+    {
+        "category": "night markets",
+        "title": "Piazza San Marco",
+        "rating": 4.7,
+        "address": "P.za San Marco, 30100 Venezia VE, Italy",
+        "latitude": 45.4341668,
+        "longitude": 12.3384717
+    },
+    {
+        "category": "night markets",
+        "title": "Al Mercà",
+        "rating": 4.7,
+        "address": "Campo Bella Vienna, 213, 30125 Venezia VE, Italy",
+        "latitude": 45.438988699999996,
+        "longitude": 12.335006499999999
+    },
+    {
+        "category": "night markets",
+        "title": "venice cruise port",
+        "rating": 3.8,
+        "address": "Isola Nova del Tronchetto, 311, 30135 Venezia VE, Italy",
+        "latitude": 45.437162699999995,
+        "longitude": 12.3092361
+    },
+    {
+        "category": "night markets",
+        "title": "SMALL GROCERY SHOP",
+        "rating": 4.6,
+        "address": "Calle Crosera, 3925, 30122 Venezia VE, Italy",
+        "latitude": 45.434369499999995,
+        "longitude": 12.3476967
+    },
+    {
+        "category": "night markets",
+        "title": "Stop Flixbus Venice",
+        "rating": 3.4,
+        "address": "Isola Nova del Tronchetto, 500, 30135 Venezia VE, Italy",
+        "latitude": 45.4419556,
+        "longitude": 12.3079018
+    },
+    {
+        "category": "night markets",
+        "title": "Saint Mark's Basilica",
+        "rating": 4.7,
+        "address": "P.za San Marco, 328, 30100 Venezia VE, Italy",
+        "latitude": 45.4345606,
+        "longitude": 12.3397124
+    },
+    {
+        "category": "night markets",
+        "title": "mini super market",
+        "rating": 3.4,
+        "address": "Campo S. Luca, 4577, 30124 Venezia VE, Italy",
+        "latitude": 45.4361496,
+        "longitude": 12.335579099999999
+    },
+    {
+        "category": "night markets",
+        "title": "Casino of Venice (Vendramin Calergi Palace)",
+        "rating": 3.9,
+        "address": "C. Seconda del Cristo, 2040, 30121 Venezia VE, Italy",
+        "latitude": 45.4426801,
+        "longitude": 12.329788299999999
+    },
+    {
+        "category": "night markets",
+        "title": "Combo, Venezia",
+        "rating": 4.6,
+        "address": "Campo dei Gesuiti, 4878, 30121 Venezia VE, Italy",
+        "latitude": 45.4431534,
+        "longitude": 12.338754
+    },
+    {
+        "category": "night markets",
+        "title": "ATVO Bus Ticket Office - Venice",
+        "rating": 3.6,
+        "address": "Piazzale Roma, 497/g, 30135 Venezia VE, Italy",
+        "latitude": 45.4381677,
+        "longitude": 12.3179973
+    },
+    {
+        "category": "viewpoints",
+        "title": "Views on Venice Apartments",
+        "rating": 4.9,
+        "address": "Palazzo Querini alla, Calle della Carità, 1051, 30123 Venezia VE, Italy",
+        "latitude": 45.431638299999996,
+        "longitude": 12.3279974
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ponte de la Pietà viewpoint",
+        "rating": 4.6,
+        "address": "Ponte de la Pietà, 30100 Venezia VE, Italy",
+        "latitude": 45.4339988,
+        "longitude": 12.3443966
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ponte di Rialto",
+        "rating": 4.7,
+        "address": "30125 Venezia VE, Italy",
+        "latitude": 45.437984199999995,
+        "longitude": 12.335898
+    },
+    {
+        "category": "viewpoints",
+        "title": "Fondamenta Cannaregio sea view point",
+        "rating": 5,
+        "address": "Cannaregio, 888, 30121 Venezia VE, Italy",
+        "latitude": 45.4468983,
+        "longitude": 12.318619199999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Bridge of Sighs",
+        "rating": 4.6,
+        "address": "30124 Venezia VE, Italy",
+        "latitude": 45.434049599999994,
+        "longitude": 12.3408544
+    },
+    {
+        "category": "viewpoints",
+        "title": "St Mark's Campanile",
+        "rating": 4.7,
+        "address": "P.za San Marco, 30124 Venezia VE, Italy",
+        "latitude": 45.4340359,
+        "longitude": 12.3390331
+    },
+    {
+        "category": "viewpoints",
+        "title": "Piazza San Marco",
+        "rating": 4.7,
+        "address": "P.za San Marco, 30100 Venezia VE, Italy",
+        "latitude": 45.4341668,
+        "longitude": 12.3384717
+    },
+    {
+        "category": "viewpoints",
+        "title": "Fondamenta San Giobbe sea view point",
+        "rating": 5,
+        "address": "Fondamenta S. Giobbe, 873, 30121 Venezia VE, Italy",
+        "latitude": 45.4463721,
+        "longitude": 12.3176721
+    },
+    {
+        "category": "viewpoints",
+        "title": "Constitution Bridge",
+        "rating": 4.2,
+        "address": "Ponte de la Constituzione, 30135 Venezia VE, Italy",
+        "latitude": 45.4388095,
+        "longitude": 12.3194111
+    },
+    {
+        "category": "viewpoints",
+        "title": "Clock Tower",
+        "rating": 4.7,
+        "address": "P.za San Marco, 30124 Venezia VE, Italy",
+        "latitude": 45.434758699999996,
+        "longitude": 12.3389668
+    },
+    {
+        "category": "viewpoints",
+        "title": "Sant'Alvise sea view point",
+        "rating": 4,
+        "address": "Fon. Generale Giuseppe Giuriati, 3192, 30121 Venezia VE, Italy",
+        "latitude": 45.4485709,
+        "longitude": 12.3292364
+    },
+    {
+        "category": "viewpoints",
+        "title": "Giardini della Biennale",
+        "rating": 4.5,
+        "address": "Calle Giazzo, 30122 Venezia VE, Italy",
+        "latitude": 45.4287722,
+        "longitude": 12.3580806
+    },
+    {
+        "category": "viewpoints",
+        "title": "Punta San Giuliano",
+        "rating": 4.4,
+        "address": "Via S. Giuliano, 13, 30173 Venezia VE, Italy",
+        "latitude": 45.466631199999995,
+        "longitude": 12.2807555
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ponte degli Scalzi",
+        "rating": 4.6,
+        "address": "30135 Venezia VE, Italy",
+        "latitude": 45.4411516,
+        "longitude": 12.3227414
+    },
+    {
+        "category": "viewpoints",
+        "title": "Arsenale di Venezia",
+        "rating": 4.6,
+        "address": "Campo de la Tana, 2169, 30122 Venezia VE, Italy",
+        "latitude": 45.4348502,
+        "longitude": 12.3499009
+    },
+    {
+        "category": "viewpoints",
+        "title": "Grand Canal",
+        "rating": 4.8,
+        "address": "30100 Venezia VE, Italy",
+        "latitude": 45.4363568,
+        "longitude": 12.3322494
+    },
+    {
+        "category": "viewpoints",
+        "title": "Rio dei Mendicanti view point",
+        "rating": 4,
+        "address": "Calle de la Testa, 6359, 30121 Venezia VE, Italy",
+        "latitude": 45.440104,
+        "longitude": 12.341397599999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Palazzo Contarini del Bovolo",
+        "rating": 4.5,
+        "address": "S. Marco, 4303, 30124 Venezia VE, Italy",
+        "latitude": 45.4348579,
+        "longitude": 12.3345337
+    },
+    {
+        "category": "viewpoints",
+        "title": "Faro di Murano",
+        "rating": 4.5,
+        "address": "Fondamenta Piave F. M., 30141 Venezia VE, Italy",
+        "latitude": 45.4528615,
+        "longitude": 12.3545991
+    },
+    {
+        "category": "viewpoints",
+        "title": "Saint Mark's Basilica",
+        "rating": 4.7,
+        "address": "P.za San Marco, 328, 30100 Venezia VE, Italy",
+        "latitude": 45.4345606,
+        "longitude": 12.3397124
+    },
+    {
+        "category": "gardens",
+        "title": "Giardini della Biennale",
+        "rating": 4.5,
+        "address": "Calle Giazzo, 30122 Venezia VE, Italy",
+        "latitude": 45.4287722,
+        "longitude": 12.3580806
+    },
+    {
+        "category": "gardens",
+        "title": "Giardini della Marinaressa",
+        "rating": 4.6,
+        "address": "Riva dei Sette Martiri, 30122 Venezia VE, Italy",
+        "latitude": 45.4314603,
+        "longitude": 12.352596799999999
+    },
+    {
+        "category": "gardens",
+        "title": "Giardini Papadopoli",
+        "rating": 4.4,
+        "address": "30135 Sestriere Santa Croce, Venezia VE, Italy",
+        "latitude": 45.4382983,
+        "longitude": 12.3206545
+    },
+    {
+        "category": "gardens",
+        "title": "Giardini Reali",
+        "rating": 4.5,
+        "address": "P.za San Marco, 30124 Venezia VE, Italy",
+        "latitude": 45.432983899999996,
+        "longitude": 12.338291499999999
+    },
+    {
+        "category": "gardens",
+        "title": "Giardini di Ca' Rezzonico",
+        "rating": 4.5,
+        "address": "Fondamenta Rezzonico, 30123 Venezia VE, Italy",
+        "latitude": 45.4335868,
+        "longitude": 12.325755899999999
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino Mistico",
+        "rating": 4.3,
+        "address": "Cannaregio, A Carmelitani Scalzi, 54, 30121 Venezia VE, Italy",
+        "latitude": 45.442256,
+        "longitude": 12.32073
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino Ordine di Malta",
+        "rating": 5,
+        "address": "2, 30122 Venezia VE, Italy",
+        "latitude": 45.43658,
+        "longitude": 12.3469901
+    },
+    {
+        "category": "gardens",
+        "title": "Serra dei Giardini",
+        "rating": 4.1,
+        "address": "Via Giuseppe Garibaldi, 1254, 30122 loc. Castello VE, Italy",
+        "latitude": 45.430831999999995,
+        "longitude": 12.3552936
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino di Ca’ Dolfin",
+        "rating": 4.5,
+        "address": "Sestiere Dorsoduro, 3825, E, 30123 Venezia VE, Italy",
+        "latitude": 45.434934399999996,
+        "longitude": 12.325874299999999
+    },
+    {
+        "category": "gardens",
+        "title": "Giardini Napoleonici",
+        "rating": 4.4,
+        "address": "Viale Trento, 30122 Venezia VE, Italy",
+        "latitude": 45.430082999999996,
+        "longitude": 12.3553239
+    },
+    {
+        "category": "gardens",
+        "title": "Station Garden",
+        "rating": 4.9,
+        "address": "Santa Croce, 500, 30135 Venezia VE, Italy",
+        "latitude": 45.4407919,
+        "longitude": 12.318652799999999
+    },
+    {
+        "category": "gardens",
+        "title": "Royal Garden",
+        "rating": 4.5,
+        "address": "30100 Venezia VE, Italy",
+        "latitude": 45.4329859,
+        "longitude": 12.3382939
+    },
+    {
+        "category": "gardens",
+        "title": "Park Giardini Marinaressa",
+        "rating": 4.6,
+        "address": "Riva dei Sette Martiri, 1364, 30122 Venezia VE, Italy",
+        "latitude": 45.4309018,
+        "longitude": 12.3540526
+    },
+    {
+        "category": "gardens",
+        "title": "Rose garden",
+        "rating": 4.8,
+        "address": "F7X6+GR, 30100 Venezia VE, Italy",
+        "latitude": 45.4988017,
+        "longitude": 12.2621196
+    },
+    {
+        "category": "gardens",
+        "title": "Fortuny gardens",
+        "rating": null,
+        "address": "Fondamenta S. Biagio, 800o, 30133 Venezia VE, Italy",
+        "latitude": 45.4270083,
+        "longitude": 12.320387799999999
+    },
+    {
+        "category": "gardens",
+        "title": "Casa Vacanze - Garden Houses Venezia",
+        "rating": 4.6,
+        "address": "Rio Terà dei Pensieri, 343, 30135 Venezia VE, Italy",
+        "latitude": 45.4359988,
+        "longitude": 12.3192214
+    },
+    {
+        "category": "gardens",
+        "title": "Palazzo Nani Bernardo",
+        "rating": 4.4,
+        "address": "Sestiere Dorsoduro, 3197, 30123 Venezia VE, Italy",
+        "latitude": 45.43381,
+        "longitude": 12.326801999999999
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino di Via Torre Belfredo",
+        "rating": 4.2,
+        "address": "Via S. Rocco, 30174 Venezia VE, Italy",
+        "latitude": 45.496560699999996,
+        "longitude": 12.242268099999999
+    },
+    {
+        "category": "zoo",
+        "title": "Tropicarium Park",
+        "rating": 4.2,
+        "address": "Via Aquileia, 123, 30016 Lido di Jesolo VE, Italy",
+        "latitude": 45.502120999999995,
+        "longitude": 12.630733
+    },
+    {
+        "category": "zoo",
+        "title": "Punta Lunga",
+        "rating": 4.4,
+        "address": "Via Bazzera, 30173 Venezia VE, Italy",
+        "latitude": 45.4912279,
+        "longitude": 12.3219234
+    },
+    {
+        "category": "zoo",
+        "title": "Animal Park Valcorba",
+        "rating": 4.3,
+        "address": "Via Val Corba, 18, 35020 Stroppare PD, Italy",
+        "latitude": 45.1465776,
+        "longitude": 11.8361244
+    },
+    {
+        "category": "zoo",
+        "title": "Animal Park Cappeller",
+        "rating": 4.5,
+        "address": "Via Kimle, 12, 36050 Cartigliano VI, Italy",
+        "latitude": 45.720372399999995,
+        "longitude": 11.6991984
+    },
+    {
+        "category": "zoo",
+        "title": "Parco Zoo Punta Verde",
+        "rating": 4.5,
+        "address": "Via Giorgio Scerbanenco, 19, 33054 Lignano Sabbiadoro UD, Italy",
+        "latitude": 45.6593697,
+        "longitude": 13.0662579
+    },
+    {
+        "category": "zoo",
+        "title": "Parco Natura Viva",
+        "rating": 4.5,
+        "address": "Località Quercia, 37012 Bussolengo VR, Italy",
+        "latitude": 45.480092299999995,
+        "longitude": 10.797992299999999
+    },
+    {
+        "category": "zoo",
+        "title": "Oasis Lipu Ca 'Roman",
+        "rating": 4.6,
+        "address": "Pellestrina,Lido, Lido VE, Italy",
+        "latitude": 45.239909499999996,
+        "longitude": 12.2926913
+    },
+    {
+        "category": "zoo",
+        "title": "Faunistic Park Le Cornelle",
+        "rating": 4.6,
+        "address": "Via Cornelle, 16, 24030 Valbrembo BG, Italy",
+        "latitude": 45.716904199999995,
+        "longitude": 9.5969523
+    },
+    {
+        "category": "zoo",
+        "title": "Safari Ravenna",
+        "rating": 4.4,
+        "address": "Via dei Tre Lati, 2/X, 48125 Ravenna RA, Italy",
+        "latitude": 44.33029,
+        "longitude": 12.2721663
+    },
+    {
+        "category": "zoo",
+        "title": "Zoo of Pistoia",
+        "rating": 4.4,
+        "address": "Via Pieve a Celle Nuova, Via Pieve a Celle, 160/160/A, 51100 Pistoia PT, Italy",
+        "latitude": 43.9289823,
+        "longitude": 10.8674444
+    },
+    {
+        "category": "zoo",
+        "title": "Saint Mark's Basilica",
+        "rating": 4.7,
+        "address": "P.za San Marco, 328, 30100 Venezia VE, Italy",
+        "latitude": 45.4345606,
+        "longitude": 12.3397124
+    },
+    {
+        "category": "zoo",
+        "title": "Valle Figheri 2 (S.R.L.)",
+        "rating": 4.6,
+        "address": "Via Romea, 21, 30010 Campagna Lupia VE, Italy",
+        "latitude": 45.32937,
+        "longitude": 12.134139999999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "ACTION PARK Venezia",
+        "rating": 5,
+        "address": "Via Forte Cosenz, 4, 30173 Venezia VE, Italy",
+        "latitude": 45.524440899999995,
+        "longitude": 12.2852015
+    },
+    {
+        "category": "adventure parks",
+        "title": "Parco Divertimenti New Jesolandia",
+        "rating": 4,
+        "address": "Via Lucio Battisti, 30016 Jesolo VE, Italy",
+        "latitude": 45.507391299999995,
+        "longitude": 12.629412499999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Children's playground",
+        "rating": 4.2,
+        "address": "Via Alfredo Catalani, 9, 30171 Venezia VE, Italy",
+        "latitude": 45.4885144,
+        "longitude": 12.226188299999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Magu Playground",
+        "rating": 3.9,
+        "address": "Via Parco Ferroviario, 200, 30175 Venezia VE, Italy",
+        "latitude": 45.4819867,
+        "longitude": 12.219704199999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Tropicarium Park",
+        "rating": 4.2,
+        "address": "Via Aquileia, 123, 30016 Lido di Jesolo VE, Italy",
+        "latitude": 45.502120999999995,
+        "longitude": 12.630733
+    },
+    {
+        "category": "adventure parks",
+        "title": "Aqua Park Laguna @Union Lido Mare",
+        "rating": 4.6,
+        "address": "Via Fausta, 258, 30013 Cavallino-Treporti VE, Italy",
+        "latitude": 45.465402499999996,
+        "longitude": 12.522332299999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Giardini Papadopoli",
+        "rating": 4.4,
+        "address": "30135 Sestriere Santa Croce, Venezia VE, Italy",
+        "latitude": 45.4382983,
+        "longitude": 12.3206545
+    },
+    {
+        "category": "adventure parks",
+        "title": "Camping Union Lido Aquapark Marino",
+        "rating": 4.6,
+        "address": "Via Fausta, 258, 30013 Cavallino-Treporti VE, Italy",
+        "latitude": 45.4637312,
+        "longitude": 12.528390199999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Aquamarina Park",
+        "rating": 4.6,
+        "address": "Via Montello, 6, 30013 Punta Sabbioni VE, Italy",
+        "latitude": 45.4359752,
+        "longitude": 12.442266
+    },
+    {
+        "category": "adventure parks",
+        "title": "Gommapiuma",
+        "rating": 3.9,
+        "address": "Via Firenze, 16, 30016 Lido di Jesolo, Jesolo VE, Italy",
+        "latitude": 45.5071003,
+        "longitude": 12.6396977
+    },
+    {
+        "category": "adventure parks",
+        "title": "Astoria Village",
+        "rating": 4.2,
+        "address": "Lungomare Adriatico, 29, 30015 Chioggia VE, Italy",
+        "latitude": 45.2141479,
+        "longitude": 12.295672999999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Aquaestate - Noale, Venezia",
+        "rating": 4.4,
+        "address": "Via Aurelio De Pol, 5, 30033 Noale VE, Italy",
+        "latitude": 45.5584555,
+        "longitude": 12.075130699999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Caribe Bay",
+        "rating": 4.3,
+        "address": "Via Michelangelo Buonarroti, 15/A, 30016 Lido di Jesolo VE, Italy",
+        "latitude": 45.4949181,
+        "longitude": 12.6032184
+    },
+    {
+        "category": "adventure parks",
+        "title": "Aquafollie",
+        "rating": 4.3,
+        "address": "V. Aldo Moro, 1, 30021 Caorle VE, Italy",
+        "latitude": 45.604935399999995,
+        "longitude": 12.883871099999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Luna Park Adriatico",
+        "rating": 4.3,
+        "address": "Via del Sagittario, 30020 Bibione VE, Italy",
+        "latitude": 45.639065099999996,
+        "longitude": 13.050682499999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Joy Zone - Jump Park",
+        "rating": null,
+        "address": "Via Don Federico Tosatto, 22, 30174 Venezia VE, Italy",
+        "latitude": 45.5107919,
+        "longitude": 12.2278471
+    },
+    {
+        "category": "hot springs",
+        "title": "Palatine Terme in Salzano",
+        "rating": 4.4,
+        "address": "Via Roma, 222, 30030 Salzano VE, Italy",
+        "latitude": 45.5256833,
+        "longitude": 12.0888951
+    },
+    {
+        "category": "hot springs",
+        "title": "eforea Spa",
+        "rating": 4.6,
+        "address": "Giudecca, 810, 30133 Venezia VE, Italy",
+        "latitude": 45.428176,
+        "longitude": 12.319145299999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Cascate del Mulino",
+        "rating": 4.6,
+        "address": "Strada Vicinale Molino del Bagno, 9/a, 58014 Manciano GR, Italy",
+        "latitude": 42.648285699999995,
+        "longitude": 11.5126785
+    },
+    {
+        "category": "hot springs",
+        "title": "Terme Euganee",
+        "rating": 4.5,
+        "address": "Via P. d'Abano, 13, 35031 Abano Terme PD, Italy",
+        "latitude": 45.351968299999996,
+        "longitude": 11.776897799999999
+    },
+    {
+        "category": "hot springs",
+        "title": "San Clemente Palace Venice",
+        "rating": 4.5,
+        "address": "isola San clemente, 1/1, 30124 Venezia VE, Italy",
+        "latitude": 45.4113766,
+        "longitude": 12.3355371
+    },
+    {
+        "category": "hot springs",
+        "title": "Spiaggia 4 Fontane",
+        "rating": 3.8,
+        "address": "Lungomare Guglielmo Marconi, 30126 Lido VE, Italy",
+        "latitude": 45.4080456,
+        "longitude": 12.370807899999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Terme Merano",
+        "rating": 4.3,
+        "address": "Piazza Terme, 9, 39012 Merano BZ, Italy",
+        "latitude": 46.669463,
+        "longitude": 11.159838899999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Bluemoon Spiaggia Lido di Venezia",
+        "rating": 4.1,
+        "address": "di, P.za Bucintoro, 1, 30126 Lido VE, Italy",
+        "latitude": 45.4142393,
+        "longitude": 12.3773051
+    },
+    {
+        "category": "hot springs",
+        "title": "Thermal spring of Bulicame",
+        "rating": 4.1,
+        "address": "Strada Bulicame, 01100 Viterbo VT, Italy",
+        "latitude": 42.420405599999995,
+        "longitude": 12.0729664
+    },
+    {
+        "category": "hot springs",
+        "title": "Terme San Filippo",
+        "rating": 4.4,
+        "address": "Via S. Filippo, 23, 53023 Bagni San Filippo SI, Italy",
+        "latitude": 42.9291777,
+        "longitude": 11.701890899999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Hotel Terme Venezia",
+        "rating": 4.4,
+        "address": "Via Valerio Flacco, 42, 35031 Abano Terme PD, Italy",
+        "latitude": 45.351747599999996,
+        "longitude": 11.7862139
+    },
+    {
+        "category": "hot springs",
+        "title": "Ai Mori d'Oriente Hotel",
+        "rating": 4.7,
+        "address": "Fondamenta de la Sensa, 3319, 30121 Venezia VE, Italy",
+        "latitude": 45.4458981,
+        "longitude": 12.3303096
+    },
+    {
+        "category": "hot springs",
+        "title": "Spiaggia Lungomare d'Annunzio",
+        "rating": 4.3,
+        "address": "Lungomare Gabriele D' Annunzio, 30126 Lido VE, Italy",
+        "latitude": 45.4111086,
+        "longitude": 12.374321
+    },
+    {
+        "category": "hot springs",
+        "title": "Ecogarden Venice Camping",
+        "rating": 3.6,
+        "address": "Via Giulio Cesare Parolari, 88, 30174 Venezia VE, Italy",
+        "latitude": 45.5275155,
+        "longitude": 12.2107569
+    },
+    {
+        "category": "hot springs",
+        "title": "Parco dei Mulini",
+        "rating": 4.5,
+        "address": "53027 Bagno Vignoni SI, Italy",
+        "latitude": 43.027051199999995,
+        "longitude": 11.6187431
+    },
+    {
+        "category": "hot springs",
+        "title": "Hilton Garden Inn Venice Mestre San Giuliano",
+        "rating": 4.4,
+        "address": "Via Orlanda, 1, 30173 Venezia VE, Italy",
+        "latitude": 45.480001,
+        "longitude": 12.270112399999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Venice Maggiore Consiglio Hotel",
+        "rating": 4.2,
+        "address": "74, Cannaregio 73, Calle Priuli dei Cavaletti, 30121 Venezia VE, Italy",
+        "latitude": 45.4422102,
+        "longitude": 12.3213755
+    },
+    {
+        "category": "hot springs",
+        "title": "Crowne Plaza Venice East - Quarto D'Altino by IHG",
+        "rating": null,
+        "address": "Viale della Resistenza, 18/20, 30020 Quarto d'Altino VE, Italy",
+        "latitude": 45.5738823,
+        "longitude": 12.3650372
+    },
+    {
+        "category": "hot springs",
+        "title": "Antiche Terme Romane di Cavascura",
+        "rating": 4.1,
+        "address": "Via Cavascura, 1, 80081 Serrara Fontana NA, Italy",
+        "latitude": 40.7039471,
+        "longitude": 13.904600799999999
+    },
+    {
+        "category": "hot springs",
+        "title": "DEEP BLUE Experience Venice - Boat Tours & more",
+        "rating": 4.9,
+        "address": null,
+        "latitude": 45.4045432,
+        "longitude": 12.3873328
+    },
+    {
+        "category": "shopping malls",
+        "title": "Nave de Vero",
+        "rating": 4.3,
+        "address": "Via Pietro Arduino, 20, 30175 Marghera VE, Italy",
+        "latitude": 45.4586928,
+        "longitude": 12.2132623
+    },
+    {
+        "category": "shopping malls",
+        "title": "Ca' Mestre",
+        "rating": 4,
+        "address": "P.za XXVII Ottobre, 1, 30172 Venezia VE, Italy",
+        "latitude": 45.492839499999995,
+        "longitude": 12.2434848
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale Porte di Mestre",
+        "rating": 4.1,
+        "address": "Via Don Federico Tosatto, 22, 30174 Venezia VE, Italy",
+        "latitude": 45.51132,
+        "longitude": 12.2272924
+    },
+    {
+        "category": "shopping malls",
+        "title": "Galleria Barcella",
+        "rating": 4.2,
+        "address": "Via Bonaventura Barcella, 30174 VE, Italy",
+        "latitude": 45.493752,
+        "longitude": 12.2408273
+    },
+    {
+        "category": "shopping malls",
+        "title": "Designer Outlet Noventa di Piave",
+        "rating": 4.4,
+        "address": "Via Marco Polo, 1, 30020 Noventa di Piave VE, Italy",
+        "latitude": 45.671445899999995,
+        "longitude": 12.5354406
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale La Piazza",
+        "rating": 3.4,
+        "address": "Via Triestina, 52, 30173 Venezia VE, Italy",
+        "latitude": 45.505041,
+        "longitude": 12.2865266
+    },
+    {
+        "category": "shopping malls",
+        "title": "bags shop",
+        "rating": 5,
+        "address": "Strada Nova, 4302, 30121 Venezia VE, Italy",
+        "latitude": 45.440729,
+        "longitude": 12.3354491
+    },
+    {
+        "category": "shopping malls",
+        "title": "Outlet",
+        "rating": 4.1,
+        "address": "Strada Statale 309 Romea, 756, 30034 Romea VE, Italy",
+        "latitude": 45.423229199999994,
+        "longitude": 12.1731676
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale Valecenter",
+        "rating": 4.1,
+        "address": "Via Enrico Mattei, 1 / C, 30020 Marcon VE, Italy",
+        "latitude": 45.5453513,
+        "longitude": 12.3039691
+    },
+    {
+        "category": "shopping malls",
+        "title": "Parco Commerciale Clodì",
+        "rating": 4,
+        "address": "Strada Statale Romea, 510/B, 30015 Chioggia VE, Italy",
+        "latitude": 45.1892989,
+        "longitude": 12.2782596
+    },
+    {
+        "category": "shopping malls",
+        "title": "Laguna Shopping",
+        "rating": 4,
+        "address": "Piazza Venezia, 28, 30016 Jesolo VE, Italy",
+        "latitude": 45.507308699999996,
+        "longitude": 12.6355705
+    },
+    {
+        "category": "shopping malls",
+        "title": "Bag Store",
+        "rating": null,
+        "address": "C. del Cappeller, 1575, 30125 Venezia VE, Italy",
+        "latitude": 45.4394231,
+        "longitude": 12.3328834
+    },
+    {
+        "category": "shopping malls",
+        "title": "Super",
+        "rating": 5,
+        "address": "Calle Seconda de la Fava, 5413, 30122 Venezia VE, Italy",
+        "latitude": 45.4369855,
+        "longitude": 12.3395823
+    },
+    {
+        "category": "shopping malls",
+        "title": "Galleria Teatro Vecchio",
+        "rating": 4.5,
+        "address": "10, 30172 Venezia VE, Italy",
+        "latitude": 45.492034,
+        "longitude": 12.242686599999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Tela",
+        "rating": 4,
+        "address": "Calle Minelli, 1267B, 30124 Venezia VE, Italy",
+        "latitude": 45.4356641,
+        "longitude": 12.3350729
+    },
+    {
+        "category": "shopping malls",
+        "title": "Venice",
+        "rating": 3.7,
+        "address": "30124, Italy, Città Metropolitana di Venezia, Venezia, Sestiere di S. Marco",
+        "latitude": 45.4320743,
+        "longitude": 12.3354672
+    },
+    {
+        "category": "shopping malls",
+        "title": "panorama Venezia",
+        "rating": 3.8,
+        "address": "Italy, Città Metropolitana di Venezia, Venezia, 邮政编码: 30100",
+        "latitude": 45.4408141,
+        "longitude": 12.315413099999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "vinyl",
+        "rating": null,
+        "address": "Calle dei Fabbri, 4738/4741, 30124 Venezia VE, Italy",
+        "latitude": 45.4361909,
+        "longitude": 12.3357111
+    },
+    {
+        "category": "shopping malls",
+        "title": "Models",
+        "rating": 3,
+        "address": "Rio Terà dei Nomboli, 2700, 30125 Venezia VE, Italy",
+        "latitude": 45.436587599999996,
+        "longitude": 12.3283281
+    },
+    {
+        "category": "shopping malls",
+        "title": "Piazza Mazzini",
+        "rating": 4.3,
+        "address": "Piazza Giuseppe Mazzini, 30016 Lido di Jesolo VE, Italy",
+        "latitude": 45.4967931,
+        "longitude": 12.618435499999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Arsenale di Venezia",
+        "rating": 4.6,
+        "address": "Campo de la Tana, 2169, 30122 Venezia VE, Italy",
+        "latitude": 45.4348502,
+        "longitude": 12.3499009
+    },
+    {
+        "category": "historical sites",
+        "title": "St Mark's Campanile",
+        "rating": 4.7,
+        "address": "P.za San Marco, 30124 Venezia VE, Italy",
+        "latitude": 45.4340359,
+        "longitude": 12.3390331
+    },
+    {
+        "category": "historical sites",
+        "title": "Palazzo Contarini del Bovolo",
+        "rating": 4.5,
+        "address": "S. Marco, 4303, 30124 Venezia VE, Italy",
+        "latitude": 45.4348579,
+        "longitude": 12.3345337
+    },
+    {
+        "category": "historical sites",
+        "title": "Monument to Victor Emmanuel II",
+        "rating": 4.6,
+        "address": "Riva degli Schiavoni, 30100 Venezia VE, Italy",
+        "latitude": 45.4338948,
+        "longitude": 12.343349199999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Doge's Palace",
+        "rating": 4.7,
+        "address": "P.za San Marco, 1, 30124 Venezia VE, Italy",
+        "latitude": 45.4337035,
+        "longitude": 12.3403894
+    },
+    {
+        "category": "historical sites",
+        "title": "Bridge of Sighs",
+        "rating": 4.6,
+        "address": "30124 Venezia VE, Italy",
+        "latitude": 45.434049599999994,
+        "longitude": 12.3408544
+    },
+    {
+        "category": "historical sites",
+        "title": "Campo Santa Margherita",
+        "rating": 4.7,
+        "address": "30100 Venezia VE, Italy",
+        "latitude": 45.4343162,
+        "longitude": 12.3235342
+    },
+    {
+        "category": "historical sites",
+        "title": "Ponte di Rialto",
+        "rating": 4.7,
+        "address": "30125 Venezia VE, Italy",
+        "latitude": 45.437984199999995,
+        "longitude": 12.335898
+    },
+    {
+        "category": "historical sites",
+        "title": "Ghetto Ebraico",
+        "rating": 4.5,
+        "address": "Campo del Ghetto Nuovo, C. del Magazzen, 2882, 30121 Venezia VE, Italy",
+        "latitude": 45.4453337,
+        "longitude": 12.3263657
+    },
+    {
+        "category": "historical sites",
+        "title": "Saint Mark's Basilica",
+        "rating": 4.7,
+        "address": "P.za San Marco, 328, 30100 Venezia VE, Italy",
+        "latitude": 45.4345606,
+        "longitude": 12.3397124
+    },
+    {
+        "category": "historical sites",
+        "title": "Campo Bandiera e Moro",
+        "rating": 4.5,
+        "address": "Calle de la Pietà, 3723, 30122 Venezia VE, Italy",
+        "latitude": 45.4347062,
+        "longitude": 12.346704599999999
+    },
+    {
+        "category": "historical sites",
+        "title": "port",
+        "rating": 4.8,
+        "address": "30100 Venezia VE, Italy",
+        "latitude": 45.440847399999996,
+        "longitude": 12.315515099999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Campo Santi Giovanni e Paolo",
+        "rating": 4.7,
+        "address": "Campo Santi Giovanni e Paolo, 30122, VE, Italy",
+        "latitude": 45.4392207,
+        "longitude": 12.341271899999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Campo Manin",
+        "rating": 4.4,
+        "address": "Via L. Manin, 30100 Venezia VE, Italy",
+        "latitude": 45.4353443,
+        "longitude": 12.334233399999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Porta del ghetto",
+        "rating": 4.7,
+        "address": "Cl. Ghetto Vecchio, 1122, 30121 Venezia VE, Italy",
+        "latitude": 45.444100899999995,
+        "longitude": 12.325073
+    },
+    {
+        "category": "historical sites",
+        "title": "Piazza San Marco",
+        "rating": 4.7,
+        "address": "P.za San Marco, 30100 Venezia VE, Italy",
+        "latitude": 45.4341668,
+        "longitude": 12.3384717
+    },
+    {
+        "category": "historical sites",
+        "title": "Carta Gate",
+        "rating": 4.7,
+        "address": "P.za San Marco, 1, 30124 Venezia VE, Italy",
+        "latitude": 45.4342465,
+        "longitude": 12.339820099999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Campo San Polo",
+        "rating": 4.5,
+        "address": "S. Polo, 30100 Venezia VE, Italy",
+        "latitude": 45.4376241,
+        "longitude": 12.329934699999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Colonna di San Marco",
+        "rating": 4.8,
+        "address": "P.zt San Marco, 30100 Venezia VE, Italy",
+        "latitude": 45.4333543,
+        "longitude": 12.3399146
+    },
+    {
+        "category": "historical sites",
+        "title": "Ponte di Quintavale",
+        "rating": 4.9,
+        "address": "Calle Sant'Anna, 239, 30122 Venezia VE, Italy",
+        "latitude": 45.4327908,
+        "longitude": 12.3585168
+    },
+    {
+        "category": "art galleries",
+        "title": "Peggy Guggenheim Collection",
+        "rating": 4.6,
+        "address": "Dorsoduro, 701, 30123 Venezia VE, Italy",
+        "latitude": 45.4308209,
+        "longitude": 12.3315374
+    },
+    {
+        "category": "art galleries",
+        "title": "Ca' Pesaro International Gallery of Modern Art",
+        "rating": 4.5,
+        "address": "C. del Tentor, 2076, 30135 Venezia VE, Italy",
+        "latitude": 45.441063,
+        "longitude": 12.331631699999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Grassi Palace",
+        "rating": 4.5,
+        "address": "Campo San Samuele, 3231, 30124 Venezia VE, Italy",
+        "latitude": 45.4338015,
+        "longitude": 12.327946299999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Gallerie dell'Accademia",
+        "rating": 4.6,
+        "address": "Calle della Carità, 1050, 30123 Venezia VE, Italy",
+        "latitude": 45.4310784,
+        "longitude": 12.3281394
+    },
+    {
+        "category": "art galleries",
+        "title": "Museo Fortuny",
+        "rating": 4.7,
+        "address": "Fondamenta Narisi, 3958, 30124 Venezia VE, Italy",
+        "latitude": 45.435407999999995,
+        "longitude": 12.332265999999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Fondazione Querini Stampalia",
+        "rating": 4.4,
+        "address": "Campo Santa Maria Formosa, 5252, 30122 Venezia VE, Italy",
+        "latitude": 45.4367187,
+        "longitude": 12.341381799999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Le Stanze del Vetro",
+        "rating": 4.8,
+        "address": "Isola di San Giorgio Maggiore, 8, 30124 Venezia VE, Italy",
+        "latitude": 45.429009699999995,
+        "longitude": 12.344811199999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Ca' Rezzonico",
+        "rating": 4.5,
+        "address": "Sestiere Dorsoduro, 3136, 30123 Venezia VE, Italy",
+        "latitude": 45.4335405,
+        "longitude": 12.3268258
+    },
+    {
+        "category": "art galleries",
+        "title": "Museo Correr",
+        "rating": 4.3,
+        "address": "P.za San Marco, 52, 30124 Venezia VE, Italy",
+        "latitude": 45.4335634,
+        "longitude": 12.3372551
+    },
+    {
+        "category": "art galleries",
+        "title": "Galleria Giorgio Franchetti alla Ca' d'Oro",
+        "rating": 4.5,
+        "address": "Calle Ca' d'Oro, 3934, 30121 Venezia VE, Italy",
+        "latitude": 45.441011599999996,
+        "longitude": 12.3341663
+    },
+    {
+        "category": "art galleries",
+        "title": "Punta della Dogana - Pinault Collection",
+        "rating": 4.6,
+        "address": "Dorsoduro, 2, 30123 Venezia VE, Italy",
+        "latitude": 45.430947599999996,
+        "longitude": 12.3368328
+    },
+    {
+        "category": "art galleries",
+        "title": "Palazzo Cini",
+        "rating": 4.2,
+        "address": "Campo San Vio, 864, 30123 Venezia VE, Italy",
+        "latitude": 45.430833299999996,
+        "longitude": 12.33
+    },
+    {
+        "category": "art galleries",
+        "title": "Pinacoteca Manfrediniana e Museo diocesano del Patriarcato di Venezia",
+        "rating": 4.3,
+        "address": "Dorsoduro, 1, 30123 Venezia VE, Italy",
+        "latitude": 45.4307217,
+        "longitude": 12.335457799999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Le Stanze della Fotografia",
+        "rating": 4.7,
+        "address": "30133 Venezia VE, Italy",
+        "latitude": 45.4291699,
+        "longitude": 12.3457295
+    },
+    {
+        "category": "art galleries",
+        "title": "Oriental Art Museum in Venice",
+        "rating": 4.5,
+        "address": "Santa Croce, 2076, 30135 Venezia VE, Italy",
+        "latitude": 45.4410393,
+        "longitude": 12.331609199999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Nordic Pavilion of the Venice Biennale",
+        "rating": 4.3,
+        "address": "30100 Venezia VE, Italy",
+        "latitude": 45.4285432,
+        "longitude": 12.3582413
+    },
+    {
+        "category": "art galleries",
+        "title": "Museo delle Icone",
+        "rating": 4.4,
+        "address": "Ponte dei Greci, 30122 Venezia VE, Italy",
+        "latitude": 45.4356012,
+        "longitude": 12.344576199999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Mocenigo Palace-Museum",
+        "rating": 4.2,
+        "address": "C. del Tentor, 1992, 30135 Venezia VE, Italy",
+        "latitude": 45.440655199999995,
+        "longitude": 12.329857599999999
+    },
+    {
+        "category": "art galleries",
+        "title": "European Cultural Centre (ECC) - Palazzo Mora",
+        "rating": 4.7,
+        "address": "Strada Nova, 3659, 30121 Venezia VE, Italy",
+        "latitude": 45.442032499999996,
+        "longitude": 12.333354799999999
+    },
+    {
+        "category": "art galleries",
+        "title": "National Archeological Museum",
+        "rating": 4.2,
+        "address": "P.za San Marco, 17, 30100 Venezia VE, Italy",
+        "latitude": 45.4337425,
+        "longitude": 12.3392242
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro La Fenice",
+        "rating": 4.7,
+        "address": "Campo S. Fantin, 1965, 30124 Venezia VE, Italy",
+        "latitude": 45.4336376,
+        "longitude": 12.3337579
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Malibran",
+        "rating": 4.6,
+        "address": "Campiello del Teatro, 5873, 30133 Venezia VE, Italy",
+        "latitude": 45.439029399999995,
+        "longitude": 12.337876099999999
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Goldoni",
+        "rating": 4.7,
+        "address": "S. Marco, 4650/B, 30124 Venezia VE, Italy",
+        "latitude": 45.436314499999995,
+        "longitude": 12.3353079
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro a l'Avogaria",
+        "rating": 4.4,
+        "address": "Corte Zappa, Dorsoduro, 1617, 30123 Venezia VE, Italy",
+        "latitude": 45.432427999999994,
+        "longitude": 12.3214014
+    },
+    {
+        "category": "theaters",
+        "title": "Venice Biennale - Alle Tese Theatre",
+        "rating": 4.6,
+        "address": "Calle Larga Rosa, 77, 30122 Venezia VE, Italy",
+        "latitude": 45.4358364,
+        "longitude": 12.3558294
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Toniolo",
+        "rating": 4.3,
+        "address": "Piazzetta Gian Francesco Malipiero, 1, 30174 Venezia VE, Italy",
+        "latitude": 45.493364,
+        "longitude": 12.239775999999999
+    },
+    {
+        "category": "theaters",
+        "title": "Venice Biennale - Piccolo Theatre Arsenale",
+        "rating": 4.5,
+        "address": "Campo de la Tana, 2161, 30122 Venezia VE, Italy",
+        "latitude": 45.4333155,
+        "longitude": 12.350357599999999
+    },
+    {
+        "category": "theaters",
+        "title": "Venice Theatre",
+        "rating": 4.7,
+        "address": "140 Tampa Ave W, Venice, FL 34285",
+        "latitude": 27.100975599999998,
+        "longitude": -82.4451374
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro San Gallo",
+        "rating": 4.2,
+        "address": "S. Marco, 1097, 30124 Venezia VE, Italy",
+        "latitude": 45.4347213,
+        "longitude": 12.3368611
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Feelin' Venice",
+        "rating": 4.9,
+        "address": "Strada Nova, 4194, 30121 Venezia VE, Italy",
+        "latitude": 45.4408853,
+        "longitude": 12.3349981
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Venice Art",
+        "rating": 5,
+        "address": "Calle Frezzaria, 1770, 30100 Venezia VE, Italy",
+        "latitude": 45.434491,
+        "longitude": 12.335903
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Negozi di souvenir",
+        "rating": 4.4,
+        "address": "Fondamenta Cossetti, 30135 Venezia VE, Italy",
+        "latitude": 45.4376743,
+        "longitude": 12.3195876
+    },
+    {
+        "category": "souvenir counters",
+        "title": "San Marco 801",
+        "rating": 4.9,
+        "address": "C. Fiubera, 30124 Venezia VE, Italy",
+        "latitude": 45.435247,
+        "longitude": 12.337983999999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "souvenir shop",
+        "rating": 5,
+        "address": "Sestiere di S. Marco, 4718, 30124 Venezia VE, Italy",
+        "latitude": 45.4375473,
+        "longitude": 12.336691499999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir Shop - New Venice -",
+        "rating": 5,
+        "address": "Isola Nova del Tronchetto, 30100 Venezia VE, Italy",
+        "latitude": 45.4422974,
+        "longitude": 12.3087015
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Venice Glass",
+        "rating": 5,
+        "address": "Strada Nova, 4192, 30121 Venezia VE, Italy",
+        "latitude": 45.4409351,
+        "longitude": 12.3349212
+    },
+    {
+        "category": "souvenir counters",
+        "title": "bottega degli zanni",
+        "rating": 5,
+        "address": "Calle della Madonnetta, 1459, 30125 Venezia VE, Italy",
+        "latitude": 45.4371996,
+        "longitude": 12.3310667
+    },
+    {
+        "category": "souvenir counters",
+        "title": "World of Venice",
+        "rating": 3.9,
+        "address": "Viale Galileo Galilei, 30, 30030 Venezia VE, Italy",
+        "latitude": 45.5045036,
+        "longitude": 12.340988099999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Paradiso Souvenir",
+        "rating": 4,
+        "address": "Calle dei Boteri, 1697, 30125 Venezia VE, Italy",
+        "latitude": 45.4395112,
+        "longitude": 12.3327654
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Sarder Souvenir",
+        "rating": 5,
+        "address": "Calle del Mandolin, 3740, 30100 Venezia VE, Italy",
+        "latitude": 45.4347686,
+        "longitude": 12.3327672
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir",
+        "rating": 5,
+        "address": "C. de la Rizza, 632, 30124 Venezia VE, Italy",
+        "latitude": 45.435617799999996,
+        "longitude": 12.338996999999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Armonie Venezia",
+        "rating": 4.9,
+        "address": "C. Longa Santa Maria Formosa, 6133, 30122 Venezia VE, Italy",
+        "latitude": 45.4374983,
+        "longitude": 12.3413044
+    },
+    {
+        "category": "souvenir counters",
+        "title": "S&J Glass of Venice",
+        "rating": 2,
+        "address": "Calle dei Saoneri, 2740, 30125 Venezia VE, Italy",
+        "latitude": 45.4368686,
+        "longitude": 12.3289113
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Signor Blum - Bottega artigiana Venezia",
+        "rating": 4.7,
+        "address": "Campo San Barnaba, Sestiere Dorsoduro, 2840, 30123 Venezia VE, Italy",
+        "latitude": 45.433135799999995,
+        "longitude": 12.324731499999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir Guetta Sas Di G. Guetta E C.",
+        "rating": 4,
+        "address": "P.za San Marco, 30124 Venezia VE, Italy",
+        "latitude": 45.433222,
+        "longitude": 12.336820099999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Discount Gift Shop",
+        "rating": 4.5,
+        "address": "Calle Bergami S. Croce, 30100 Venezia VE, Italy",
+        "latitude": 45.440562,
+        "longitude": 12.3241838
+    },
+    {
+        "category": "souvenir counters",
+        "title": "la maschera",
+        "rating": 4.7,
+        "address": "Rio Terà Lista di Spagna, 170/12, 30121 Venezia VE, Italy",
+        "latitude": 45.442200299999996,
+        "longitude": 12.323706699999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gift Shop",
+        "rating": 3.6,
+        "address": "Calle Larga S. Marco, 658, 30124 Venezia VE, Italy",
+        "latitude": 45.435142899999995,
+        "longitude": 12.339161299999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Wave Murano Glass Srl - Factory, Experiences & Curated Tours",
+        "rating": 5,
+        "address": "Fondamenta da Mula, 152, 30141 Venezia VE, Italy",
+        "latitude": 45.4559133,
+        "longitude": 12.3519508
+    }
+]

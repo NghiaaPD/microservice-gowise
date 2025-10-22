@@ -1,0 +1,3042 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Lisbon Cathedral",
+        "rating": 4.4,
+        "address": "Largo da Sé 1, 1100-585 Lisboa, Portugal",
+        "latitude": 38.7098339,
+        "longitude": -9.1329535
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Belém Tower",
+        "rating": 4.5,
+        "address": "Av. Brasília, 1400-038 Lisboa, Portugal",
+        "latitude": 38.691583699999995,
+        "longitude": -9.215977299999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Castelo de São Jorge",
+        "rating": 4.4,
+        "address": "R. de Santa Cruz do Castelo, 1100-129 Lisboa, Portugal",
+        "latitude": 38.713909199999996,
+        "longitude": -9.133476199999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Jerónimos Monastery",
+        "rating": 4.5,
+        "address": "Praça do Império 1400-206 Lisboa, Portugal",
+        "latitude": 38.6978909,
+        "longitude": -9.206703899999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Aqueduto das Águas Livres - view point",
+        "rating": 4.4,
+        "address": "CC da Quintinha 6, 1070-225 Lisboa, Portugal",
+        "latitude": 38.7293054,
+        "longitude": -9.1694785
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Praça Dom Pedro IV",
+        "rating": 4.6,
+        "address": "1100-193 Lisboa, Portugal",
+        "latitude": 38.7138036,
+        "longitude": -9.1393681
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Carmo Archaeological Museum",
+        "rating": 4.5,
+        "address": "Largo do Carmo, 1200-092 Lisboa, Portugal",
+        "latitude": 38.712038299999996,
+        "longitude": -9.140612899999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Palácio Nacional da Ajuda",
+        "rating": 4.7,
+        "address": "Largo da Ajuda, 1349-021 Lisboa, Portugal",
+        "latitude": 38.7076247,
+        "longitude": -9.1979777
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Basilica of Estrela",
+        "rating": 4.6,
+        "address": "Basílica da Estrela, Praça da Estrela 12, 1200-667 Lisboa, Portugal",
+        "latitude": 38.713121799999996,
+        "longitude": -9.1608626
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Botanical Garden of Lisbon",
+        "rating": 4,
+        "address": "R. da Escola Politécnica 58, 1250-102 Lisboa, Portugal",
+        "latitude": 38.7184392,
+        "longitude": -9.1487544
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Arco da Rua Augusta",
+        "rating": 4.7,
+        "address": "R. Augusta 2, 1100-053 Lisboa, Portugal",
+        "latitude": 38.7084447,
+        "longitude": -9.136824299999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "National Pantheon",
+        "rating": 4.5,
+        "address": "Campo de Santa Clara, 1100-471 Lisboa, Portugal",
+        "latitude": 38.714994399999995,
+        "longitude": -9.1246835
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Praça do Comércio",
+        "rating": 4.7,
+        "address": "1100-148 Lisboa, Portugal",
+        "latitude": 38.7072828,
+        "longitude": -9.136361299999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Miradouro de Santa Luzia",
+        "rating": 4.7,
+        "address": "Largo de Santa Luzia, 1100-487 Lisboa, Portugal",
+        "latitude": 38.7116956,
+        "longitude": -9.1301972
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Miradouro da Senhora do Monte",
+        "rating": 4.8,
+        "address": "Largo Monte, 1170-107 Lisboa, Portugal",
+        "latitude": 38.7192133,
+        "longitude": -9.1328298
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Pilar 7 - Bridge Experience",
+        "rating": 3.6,
+        "address": "Av. da Índia 52, 1300-299 Lisboa, Portugal",
+        "latitude": 38.700403099999996,
+        "longitude": -9.1788387
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hop on hop off",
+        "rating": 2.7,
+        "address": "Pç do Marquês de Pombal, 1070-051 Lisboa, Portugal",
+        "latitude": 38.7261148,
+        "longitude": -9.150152
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Santa Justa Lift",
+        "rating": 4.1,
+        "address": "R. de Santa Justa, 1150-060 Lisboa, Portugal",
+        "latitude": 38.712130099999996,
+        "longitude": -9.139429699999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Old Alfama Square",
+        "rating": 4.5,
+        "address": "Largo do Chafariz de Dentro, 1100-139 Lisboa, Portugal",
+        "latitude": 38.711243599999996,
+        "longitude": -9.1280511
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Funicular Lavra",
+        "rating": 4.3,
+        "address": "Calçada do Lavra 1150, 1150-122 Lisboa, Portugal",
+        "latitude": 38.7186668,
+        "longitude": -9.1401492
+    },
+    {
+        "category": "parks",
+        "title": "Eduardo VII Park",
+        "rating": 4.6,
+        "address": "1070-051 Lisboa, Portugal",
+        "latitude": 38.7283001,
+        "longitude": -9.1526828
+    },
+    {
+        "category": "parks",
+        "title": "Principe Real Garden",
+        "rating": 4.5,
+        "address": "Praça do Príncipe Real, 1250-184 Lisboa, Portugal",
+        "latitude": 38.7162998,
+        "longitude": -9.148717099999999
+    },
+    {
+        "category": "parks",
+        "title": "Parque da Quintas das Conchas e dos Lilases",
+        "rating": 4.5,
+        "address": "Alameda das Linhas de Torres, Lisboa, Portugal",
+        "latitude": 38.7695915,
+        "longitude": -9.1550707
+    },
+    {
+        "category": "parks",
+        "title": "Parque da Bela Vista",
+        "rating": 4.4,
+        "address": "Av. Alm. Gago Coutinho, 1950-037 Lisboa, Portugal",
+        "latitude": 38.750839,
+        "longitude": -9.1267636
+    },
+    {
+        "category": "parks",
+        "title": "Garden of the Calouste Gulbenkian Foundation",
+        "rating": 4.7,
+        "address": "Av. de Berna 45 A, 1067-001 Lisboa, Portugal",
+        "latitude": 38.7374065,
+        "longitude": -9.154188
+    },
+    {
+        "category": "parks",
+        "title": "Parque Florestal de Monsanto",
+        "rating": 4.7,
+        "address": "Lisboa, Portugal",
+        "latitude": 38.7235491,
+        "longitude": -9.1917632
+    },
+    {
+        "category": "parks",
+        "title": "Jardim da Estrela",
+        "rating": 4.6,
+        "address": "Praça da Estrela, 1200-667 Lisboa, Portugal",
+        "latitude": 38.714765,
+        "longitude": -9.159257499999999
+    },
+    {
+        "category": "parks",
+        "title": "Park Necessidades",
+        "rating": 4.3,
+        "address": "Calçada Necessidades, Lisboa, Portugal",
+        "latitude": 38.7090051,
+        "longitude": -9.169833299999999
+    },
+    {
+        "category": "parks",
+        "title": "Jardim Amália Rodrigues",
+        "rating": 4.6,
+        "address": "Alameda Cardeal Cerejeira, 1070-051 Lisboa, Portugal",
+        "latitude": 38.7309493,
+        "longitude": -9.1549497
+    },
+    {
+        "category": "parks",
+        "title": "Campo dos Mártires da Pátria",
+        "rating": 4.4,
+        "address": "48, 1150-343 Lisboa, Portugal",
+        "latitude": 38.7218398,
+        "longitude": -9.139831599999999
+    },
+    {
+        "category": "parks",
+        "title": "Water Gardens",
+        "rating": 4.5,
+        "address": "Passeio Ulisses, 1990-005 Lisboa, Portugal",
+        "latitude": 38.761512599999996,
+        "longitude": -9.0943351
+    },
+    {
+        "category": "parks",
+        "title": "Empire Square Garden",
+        "rating": 4.6,
+        "address": "Praça do Império, 1400-206 Lisboa, Portugal",
+        "latitude": 38.6959948,
+        "longitude": -9.2059935
+    },
+    {
+        "category": "parks",
+        "title": "Jardim da Cerca da Graça",
+        "rating": 4.4,
+        "address": "Calçada do Monte 46, 1100-362 Lisboa, Portugal",
+        "latitude": 38.7174635,
+        "longitude": -9.132069399999999
+    },
+    {
+        "category": "parks",
+        "title": "Parque do Vale do Silêncio",
+        "rating": 4.4,
+        "address": "Av. Cidade de Lourenço Marques, Cidade da Nova, Lisboa, Portugal",
+        "latitude": 38.7659217,
+        "longitude": -9.1187136
+    },
+    {
+        "category": "parks",
+        "title": "Belém Tower Garden",
+        "rating": 4.6,
+        "address": "Av. Brasília, 1400-038 Lisboa, Portugal",
+        "latitude": 38.6928695,
+        "longitude": -9.215891599999999
+    },
+    {
+        "category": "parks",
+        "title": "Garden of Afonso de Albuquerque",
+        "rating": 4.4,
+        "address": "Praça Afonso de Albuquerque, 1300-004 Lisboa, Portugal",
+        "latitude": 38.696565199999995,
+        "longitude": -9.200222499999999
+    },
+    {
+        "category": "parks",
+        "title": "Parque dos Moinhos de Santana",
+        "rating": 4.4,
+        "address": "R. Tristão Vaz 22, Restelo, 1400-353 Lisboa, Portugal",
+        "latitude": 38.709403,
+        "longitude": -9.206021999999999
+    },
+    {
+        "category": "parks",
+        "title": "Park José Gomes Ferreira",
+        "rating": 4.4,
+        "address": "R. Alferes Malheiro 1, 1700-111 Lisboa, Portugal",
+        "latitude": 38.7591879,
+        "longitude": -9.135044299999999
+    },
+    {
+        "category": "parks",
+        "title": "Garcia de Orta",
+        "rating": 4.5,
+        "address": "Passeio das Tágides, 1990-280 Lisboa, Portugal",
+        "latitude": 38.7700199,
+        "longitude": -9.092066599999999
+    },
+    {
+        "category": "parks",
+        "title": "Alvito Recreational Park",
+        "rating": 4.6,
+        "address": "Estr. Alvito, Lisboa, Portugal",
+        "latitude": 38.7197069,
+        "longitude": -9.186433899999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Frade dos Mares",
+        "rating": 4.7,
+        "address": "Av. Dom Carlos I 55A, 1200-647 Lisboa, Portugal",
+        "latitude": 38.708465,
+        "longitude": -9.153227
+    },
+    {
+        "category": "restaurants",
+        "title": "Taberna Sal Grosso",
+        "rating": 4.7,
+        "address": "Calçada do Forte 22, 1100-256 Lisboa, Portugal",
+        "latitude": 38.713698699999995,
+        "longitude": -9.1244447
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant - Cervejaria Ramiro",
+        "rating": 4.4,
+        "address": "Av. Alm. Reis 1 H, 1150-007 Lisboa, Portugal",
+        "latitude": 38.720257,
+        "longitude": -9.1357429
+    },
+    {
+        "category": "restaurants",
+        "title": "Augusto Lisboa",
+        "rating": 4.8,
+        "address": "R. de Santa M.nha 26, 1100-491 Lisboa, Portugal",
+        "latitude": 38.714425299999995,
+        "longitude": -9.1302073
+    },
+    {
+        "category": "restaurants",
+        "title": "A Nossa Casa",
+        "rating": 4.8,
+        "address": "R. da Atalaia 31, 1200-037 Lisboa, Portugal",
+        "latitude": 38.7118452,
+        "longitude": -9.1449444
+    },
+    {
+        "category": "restaurants",
+        "title": "Floresta das Escadinhas",
+        "rating": 4.7,
+        "address": "R. de Santa Justa 3, 1100-483 Lisboa, Portugal",
+        "latitude": 38.712682,
+        "longitude": -9.13642
+    },
+    {
+        "category": "restaurants",
+        "title": "Lisbon Tu e Eu",
+        "rating": 4.5,
+        "address": "R da Adiça 58, 1100-116 Lisboa, Portugal",
+        "latitude": 38.710951099999996,
+        "longitude": -9.1300522
+    },
+    {
+        "category": "restaurants",
+        "title": "Alma",
+        "rating": 4.7,
+        "address": "R. Anchieta 15, 1200-023 Lisboa, Portugal",
+        "latitude": 38.7101511,
+        "longitude": -9.1411185
+    },
+    {
+        "category": "restaurants",
+        "title": "Belcanto",
+        "rating": 4.6,
+        "address": "R. Serpa Pinto 10A, 1200-026 Lisboa, Portugal",
+        "latitude": 38.7100994,
+        "longitude": -9.1414656
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurante Pastanaga",
+        "rating": 4.8,
+        "address": "Tv. dos Pescadores 27, 1200-328 Lisboa, Portugal",
+        "latitude": 38.7089856,
+        "longitude": -9.1527157
+    },
+    {
+        "category": "restaurants",
+        "title": "Solar dos Presuntos",
+        "rating": 4.5,
+        "address": "Junto ao Elevador do Lavra, R. das Portas de Santo Antão 150, 1150-269 Lisboa, Portugal",
+        "latitude": 38.7178208,
+        "longitude": -9.141697899999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Gunpowder Lisboa",
+        "rating": 4.7,
+        "address": "R. Nova da Trindade 13, 1200-303 Lisboa, Portugal",
+        "latitude": 38.712523,
+        "longitude": -9.1426676
+    },
+    {
+        "category": "restaurants",
+        "title": "JNcQUOI Avenida",
+        "rating": 4.6,
+        "address": "Av. da Liberdade 182 184, 1250-146 Lisboa, Portugal",
+        "latitude": 38.720279999999995,
+        "longitude": -9.1449959
+    },
+    {
+        "category": "restaurants",
+        "title": "Feitoria",
+        "rating": 4.8,
+        "address": "Altis Belem Hotel & Spa, Doca do Bom Sucesso, 1400-038 Lisboa, Portugal",
+        "latitude": 38.6934397,
+        "longitude": -9.210497799999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Estaminé art food drink",
+        "rating": 4.9,
+        "address": "Calçada do Monte 86A, 1170-112 Lisboa, Portugal",
+        "latitude": 38.718641,
+        "longitude": -9.1317813
+    },
+    {
+        "category": "restaurants",
+        "title": "Stō Restaurante & Mercearia",
+        "rating": 4.8,
+        "address": "R. dos Fanqueiros 83 85, 1100-227 Lisboa, Portugal",
+        "latitude": 38.710127799999995,
+        "longitude": -9.135851599999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurante da Sé",
+        "rating": 4.5,
+        "address": "Cruzes da Sé 31A, 1100-192 Lisboa, Portugal",
+        "latitude": 38.709525899999996,
+        "longitude": -9.1330113
+    },
+    {
+        "category": "restaurants",
+        "title": "Lisboa Tu e Eu 2",
+        "rating": 4.6,
+        "address": "Escadinhas das Portas do Mar 4, 1100-410 Lisboa, Portugal",
+        "latitude": 38.7094415,
+        "longitude": -9.1330448
+    },
+    {
+        "category": "restaurants",
+        "title": "Casa Nepalesa",
+        "rating": 4.7,
+        "address": "Av. Elias Garcia 172A, 1050-103 Lisboa, Portugal",
+        "latitude": 38.7386001,
+        "longitude": -9.1515041
+    },
+    {
+        "category": "restaurants",
+        "title": "Taberna do Bairro alto",
+        "rating": 4.6,
+        "address": "Tv. da Boa Hora 27, 1200-063 Lisboa, Portugal",
+        "latitude": 38.7138036,
+        "longitude": -9.1447981
+    },
+    {
+        "category": "cafes",
+        "title": "Quase Café",
+        "rating": 4.7,
+        "address": "Rua do Salvador 32, 1100-465 Lisboa, Portugal",
+        "latitude": 38.7138059,
+        "longitude": -9.130393699999999
+    },
+    {
+        "category": "cafes",
+        "title": "The Folks Sé - Specialty Coffee, Breakfast & Brunch",
+        "rating": 4.7,
+        "address": "R. das Pedras Negras 7, 1100-534 Lisboa, Portugal",
+        "latitude": 38.7104984,
+        "longitude": -9.1343326
+    },
+    {
+        "category": "cafes",
+        "title": "The Folks Blue Street - Specialty Coffee, Breakfast & Brunch",
+        "rating": 4.8,
+        "address": "R. dos Bacalhoeiros 113, 1100-389 Lisboa, Portugal",
+        "latitude": 38.7091065,
+        "longitude": -9.1340214
+    },
+    {
+        "category": "cafes",
+        "title": "The Coffee",
+        "rating": 4.8,
+        "address": "Rua de S. Paulo 81, 1200-058 Lisboa, Portugal",
+        "latitude": 38.7082589,
+        "longitude": -9.1461078
+    },
+    {
+        "category": "cafes",
+        "title": "the mill",
+        "rating": 4.5,
+        "address": "R. do Poço dos Negros 1, 1200-335 Lisboa, Portugal",
+        "latitude": 38.710764999999995,
+        "longitude": -9.149788
+    },
+    {
+        "category": "cafes",
+        "title": "Café Social Eatery",
+        "rating": 4.8,
+        "address": "R. Pinto Ferreira 32B, 1300-464 Lisboa, Portugal",
+        "latitude": 38.699619,
+        "longitude": -9.1924152
+    },
+    {
+        "category": "cafes",
+        "title": "Brick Cafe Lisboa",
+        "rating": 4.5,
+        "address": "Rua de Moçambique 2, 1170-245 Lisboa, Portugal",
+        "latitude": 38.724846299999996,
+        "longitude": -9.1329652
+    },
+    {
+        "category": "cafes",
+        "title": "FÁBRICA COFFEE ROASTERS",
+        "rating": 4.5,
+        "address": "Rua das Flores 63, 1200-193 Lisboa, Portugal",
+        "latitude": 38.7094216,
+        "longitude": -9.1436251
+    },
+    {
+        "category": "cafes",
+        "title": "The Coffee",
+        "rating": 4.6,
+        "address": "R. dos Douradores 96, 1100-619 Lisboa, Portugal",
+        "latitude": 38.7113517,
+        "longitude": -9.136578799999999
+    },
+    {
+        "category": "cafes",
+        "title": "Fábrica Coffee Roasters",
+        "rating": 4.4,
+        "address": "R. das Portas de Santo Antão 136, 1150-269 Lisboa, Portugal",
+        "latitude": 38.717588299999996,
+        "longitude": -9.1416577
+    },
+    {
+        "category": "cafes",
+        "title": "Copenhagen Coffee Lab & Bakery",
+        "rating": 4.2,
+        "address": "R. Nova da Piedade 10, 1200-192 Lisboa, Portugal",
+        "latitude": 38.7147619,
+        "longitude": -9.1519371
+    },
+    {
+        "category": "cafes",
+        "title": "Baobá Café Bica",
+        "rating": 4.8,
+        "address": "Rua de S. Paulo 256 a 258, 1200-430 Lisboa, Portugal",
+        "latitude": 38.7087777,
+        "longitude": -9.1471837
+    },
+    {
+        "category": "cafes",
+        "title": "Kossies Cafe",
+        "rating": 4.9,
+        "address": "Largo do Terreirinho 21, 1100-595 Lisboa, Portugal",
+        "latitude": 38.7163337,
+        "longitude": -9.1334049
+    },
+    {
+        "category": "cafes",
+        "title": "Café Dias",
+        "rating": 4.7,
+        "address": "R. Pedro Calmon 3B, 1300-516 Lisboa, Portugal",
+        "latitude": 38.7029274,
+        "longitude": -9.1843819
+    },
+    {
+        "category": "cafes",
+        "title": "How about Coffee",
+        "rating": 4.8,
+        "address": "Alameda Dom Afonso Henriques 41B, 1000-123 Lisboa, Portugal",
+        "latitude": 38.736435799999995,
+        "longitude": -9.1351576
+    },
+    {
+        "category": "cafes",
+        "title": "Milkees - Specialty Coffee & Cookies",
+        "rating": 4.7,
+        "address": "R. Filipe Folque 7B, 1050-110 Lisboa, Portugal",
+        "latitude": 38.731565599999996,
+        "longitude": -9.150146399999999
+    },
+    {
+        "category": "cafes",
+        "title": "Tanoa Café",
+        "rating": 4.9,
+        "address": "R. da Rosa 27, 1200-381 Lisboa, Portugal",
+        "latitude": 38.7116379,
+        "longitude": -9.1455032
+    },
+    {
+        "category": "cafes",
+        "title": "Liberty: brunch, coffee & books",
+        "rating": 4.9,
+        "address": "Rua da Esperança 21, 1200-815 Lisboa, Portugal",
+        "latitude": 38.7086216,
+        "longitude": -9.1536754
+    },
+    {
+        "category": "cafes",
+        "title": "Malabarista Café",
+        "rating": 4.8,
+        "address": "R. Maria 66B, 1170-213 Lisboa, Portugal",
+        "latitude": 38.724455899999995,
+        "longitude": -9.133028399999999
+    },
+    {
+        "category": "cafes",
+        "title": "Neighbourhood Lisbon",
+        "rating": 4.6,
+        "address": "Largo Conde-Barão 25, 1200-163 Lisboa, Portugal",
+        "latitude": 38.7085842,
+        "longitude": -9.1516842
+    },
+    {
+        "category": "waterfalls",
+        "title": "Fervença waterfall",
+        "rating": 3.8,
+        "address": "2715-311 Terrugem, Portugal",
+        "latitude": 38.8402247,
+        "longitude": -9.353991599999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Pisoes Waterfall",
+        "rating": 4.3,
+        "address": "Ac. Particular 5, 2710-567 Sintra, Portugal",
+        "latitude": 38.794956899999995,
+        "longitude": -9.3942084
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascata de Mourão",
+        "rating": 4.2,
+        "address": "R. da Laranjeira, 2715-719 Montelavar, Portugal",
+        "latitude": 38.8755433,
+        "longitude": -9.3129362
+    },
+    {
+        "category": "lakes",
+        "title": "Lagos da Avenida da Liberdade",
+        "rating": 4.7,
+        "address": "1250-001 Lisboa, Portugal",
+        "latitude": 38.718832,
+        "longitude": -9.1446699
+    },
+    {
+        "category": "lakes",
+        "title": "Estufa Fria",
+        "rating": 4.6,
+        "address": "Parque Eduardo VII, 1070-051 Lisboa, Portugal",
+        "latitude": 38.728707799999995,
+        "longitude": -9.155125
+    },
+    {
+        "category": "lakes",
+        "title": "Parque Botânico do Monteiro-Mor",
+        "rating": 4.5,
+        "address": "Largo Júlio Castilho, 1600-483 Lisboa, Portugal",
+        "latitude": 38.7754051,
+        "longitude": -9.1647787
+    },
+    {
+        "category": "lakes",
+        "title": "Valley of the Lakes",
+        "rating": 5,
+        "address": "QJP4+MG, São Martinho, Portugal",
+        "latitude": 38.786712,
+        "longitude": -9.393721
+    },
+    {
+        "category": "lakes",
+        "title": "Parque da Quintas das Conchas e dos Lilases",
+        "rating": 4.5,
+        "address": "Alameda das Linhas de Torres, Lisboa, Portugal",
+        "latitude": 38.7695915,
+        "longitude": -9.1550707
+    },
+    {
+        "category": "lakes",
+        "title": "Park Necessidades",
+        "rating": 4.3,
+        "address": "Calçada Necessidades, Lisboa, Portugal",
+        "latitude": 38.7090051,
+        "longitude": -9.169833299999999
+    },
+    {
+        "category": "lakes",
+        "title": "Jardim Mário Soares",
+        "rating": 4.4,
+        "address": "1700-162 Lisboa, Portugal",
+        "latitude": 38.756547999999995,
+        "longitude": -9.153319
+    },
+    {
+        "category": "lakes",
+        "title": "Campo dos Mártires da Pátria",
+        "rating": 4.4,
+        "address": "48, 1150-343 Lisboa, Portugal",
+        "latitude": 38.7218398,
+        "longitude": -9.139831599999999
+    },
+    {
+        "category": "lakes",
+        "title": "Garden of the Calouste Gulbenkian Foundation",
+        "rating": 4.7,
+        "address": "Av. de Berna 45 A, 1067-001 Lisboa, Portugal",
+        "latitude": 38.7374065,
+        "longitude": -9.154188
+    },
+    {
+        "category": "lakes",
+        "title": "Parque Oeste",
+        "rating": 4.4,
+        "address": "Av. Nuno Krus Abecassis, Lisboa, Portugal",
+        "latitude": 38.7783012,
+        "longitude": -9.1511639
+    },
+    {
+        "category": "lakes",
+        "title": "Jardim da Estrela",
+        "rating": 4.6,
+        "address": "Praça da Estrela, 1200-667 Lisboa, Portugal",
+        "latitude": 38.714765,
+        "longitude": -9.159257499999999
+    },
+    {
+        "category": "lakes",
+        "title": "River beach Olhos de Água",
+        "rating": 4.4,
+        "address": "2380-450 Alcanena, Portugal",
+        "latitude": 39.4440868,
+        "longitude": -8.7107118
+    },
+    {
+        "category": "lakes",
+        "title": "Barragem do Rio da Mula",
+        "rating": 4.6,
+        "address": "Alcabideche, Portugal",
+        "latitude": 38.7638325,
+        "longitude": -9.4224903
+    },
+    {
+        "category": "lakes",
+        "title": "Praia Fluvial de Alburrica",
+        "rating": 4.4,
+        "address": "Alburrica, Barreiro, Portugal",
+        "latitude": 38.6563933,
+        "longitude": -9.0871032
+    },
+    {
+        "category": "lakes",
+        "title": "Parque de Merendas do Moinho do Penedo",
+        "rating": 4.3,
+        "address": "Lisboa, Portugal",
+        "latitude": 38.7212928,
+        "longitude": -9.1967078
+    },
+    {
+        "category": "lakes",
+        "title": "Miradouro da Luneta dos Quartéis",
+        "rating": 3.6,
+        "address": "Estr. do Forte de Monsanto 15, Lisboa, Portugal",
+        "latitude": 38.7306536,
+        "longitude": -9.2006487
+    },
+    {
+        "category": "lakes",
+        "title": "Garden Beau-Sejour Palace",
+        "rating": 4.3,
+        "address": "Estr. de Benfica 368, 1500-100 Lisboa, Portugal",
+        "latitude": 38.7463757,
+        "longitude": -9.1827442
+    },
+    {
+        "category": "beaches",
+        "title": "Praia Velha",
+        "rating": 4.1,
+        "address": "Av. Marginal I0, Lisboa, Portugal",
+        "latitude": 38.692934099999995,
+        "longitude": -9.2916552
+    },
+    {
+        "category": "beaches",
+        "title": "Cruz Quebrada beach",
+        "rating": 3.6,
+        "address": "Algés, Portugal",
+        "latitude": 38.6994417,
+        "longitude": -9.2517097
+    },
+    {
+        "category": "beaches",
+        "title": "Beach Dafundo",
+        "rating": 3.7,
+        "address": "Portugal",
+        "latitude": 38.6982128,
+        "longitude": -9.2401774
+    },
+    {
+        "category": "beaches",
+        "title": "Algés Beach",
+        "rating": 4,
+        "address": "Av. Dr. Alfredo Magalhães Ramalho 1, 1495-165 Algés, Portugal",
+        "latitude": 38.6957891,
+        "longitude": -9.2309115
+    },
+    {
+        "category": "beaches",
+        "title": "Praia das Avencas",
+        "rating": 4.4,
+        "address": "Av. Marginal 3366, Lisboa, Portugal",
+        "latitude": 38.6881912,
+        "longitude": -9.360393799999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming pool Avenidas Novas",
+        "rating": 4.3,
+        "address": "R. Cardeal Mercier, 1600-136 Lisboa, Portugal",
+        "latitude": 38.7416458,
+        "longitude": -9.1598092
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina Municipal de Santa Clara",
+        "rating": 4.5,
+        "address": "R. Prof. Adelino da Palma Carlos, Lisboa, Portugal",
+        "latitude": 38.785682699999995,
+        "longitude": -9.160040799999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming pool Campo de Ourique",
+        "rating": 4.3,
+        "address": "R. Correia Teles 103, 1350-104 Lisboa, Portugal",
+        "latitude": 38.7182738,
+        "longitude": -9.170884899999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina Municipal do Restelo",
+        "rating": 4.3,
+        "address": "R. Antão Gonçalves 2A, 1400-015 Lisboa, Portugal",
+        "latitude": 38.7096045,
+        "longitude": -9.2120274
+    },
+    {
+        "category": "swimming pools",
+        "title": "Alvito Municipal Swimming Pool",
+        "rating": 4.4,
+        "address": "R. Prof. Vieira Natividade, 1300-604 Lisboa, Portugal",
+        "latitude": 38.7106317,
+        "longitude": -9.1811509
+    },
+    {
+        "category": "swimming pools",
+        "title": "Complexo de Piscinas do EUL",
+        "rating": 4.4,
+        "address": "Av. Prof. Gama Pinto, 1600-192 Lisboa, Portugal",
+        "latitude": 38.7556564,
+        "longitude": -9.161246499999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Penha de Franca swimming pool",
+        "rating": 4.1,
+        "address": "Calçada Poço dos Mouros 2, 1170-298 Lisboa, Portugal",
+        "latitude": 38.7301875,
+        "longitude": -9.130284
+    },
+    {
+        "category": "swimming pools",
+        "title": "National Club Of Swimming",
+        "rating": 4.4,
+        "address": "R. de São Bento 209, 1250-219 Lisboa, Portugal",
+        "latitude": 38.7160268,
+        "longitude": -9.1560075
+    },
+    {
+        "category": "swimming pools",
+        "title": "Municipal swimming pool Valley Fundão",
+        "rating": 4.3,
+        "address": "R. Félix Bermudes, Lisboa, Portugal",
+        "latitude": 38.751363,
+        "longitude": -9.105952799999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina do Oriente",
+        "rating": 4.3,
+        "address": "R. Câmara Reis, 1800-046 Lisboa, Portugal",
+        "latitude": 38.7713013,
+        "longitude": -9.0997317
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina de Arroios",
+        "rating": 3.8,
+        "address": "R. Maria da Fonte, 1170-221 Lisboa, Portugal",
+        "latitude": 38.7210034,
+        "longitude": -9.1323378
+    },
+    {
+        "category": "swimming pools",
+        "title": "Complexo de Piscinas Sport Lisboa e Benfica",
+        "rating": 4.6,
+        "address": "Estádio do Sport Lisboa e Benfica, Avenida Machado Santos, 1500-313 Lisboa, Portugal",
+        "latitude": 38.7510094,
+        "longitude": -9.182653199999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Casal Vistoso Sports Complex",
+        "rating": 4.2,
+        "address": "R. João da Silva 20, 1900-271 Lisboa, Portugal",
+        "latitude": 38.7428676,
+        "longitude": -9.128757499999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscinas Estádio Universitario",
+        "rating": 4.5,
+        "address": "Av. Prof. Gama Pinto, 1600-192 Lisboa, Portugal",
+        "latitude": 38.7555133,
+        "longitude": -9.1612067
+    },
+    {
+        "category": "swimming pools",
+        "title": "Panoramic Pool - Benfica Stadium",
+        "rating": 4.6,
+        "address": "R. António Alçada Baptista 3, 1500-313 Lisboa, Portugal",
+        "latitude": 38.7541954,
+        "longitude": -9.1819042
+    },
+    {
+        "category": "swimming pools",
+        "title": "Municipal pool Caparica",
+        "rating": 4.3,
+        "address": "Rua do Moinho ao Raposo, 2825-016 Caparica, Portugal",
+        "latitude": 38.6698796,
+        "longitude": -9.1911296
+    },
+    {
+        "category": "swimming pools",
+        "title": "GesLoures: Piscinas Municipais da Portela",
+        "rating": 4.2,
+        "address": "Rotunda Nuno Rodrigues dos Santos, 2685-233 Portela, Portugal",
+        "latitude": 38.7836111,
+        "longitude": -9.1109485
+    },
+    {
+        "category": "swimming pools",
+        "title": "Lisbon Gymnastics Club",
+        "rating": 4.5,
+        "address": "Rua dos Anjos 63, 1150-035 Lisboa, Portugal",
+        "latitude": 38.7249403,
+        "longitude": -9.1362654
+    },
+    {
+        "category": "swimming pools",
+        "title": "Municipal pool Outurela / Portela",
+        "rating": 4.2,
+        "address": "Estr. São Marçal 44B, 2795-618 Carnaxide, Portugal",
+        "latitude": 38.7230896,
+        "longitude": -9.2242527
+    },
+    {
+        "category": "swimming pools",
+        "title": "Portuguese Gym Club",
+        "rating": 4.6,
+        "address": "Praça Ginásio Clube Português 1, 1250-111 Lisboa, Portugal",
+        "latitude": 38.7214962,
+        "longitude": -9.156805199999999
+    },
+    {
+        "category": "resorts",
+        "title": "Hapimag Resort Lisbon",
+        "rating": 4.8,
+        "address": "R. São José 41, 1150-321 Lisboa, Portugal",
+        "latitude": 38.7186102,
+        "longitude": -9.142612399999999
+    },
+    {
+        "category": "resorts",
+        "title": "Olissippo Lapa Palace Hotel",
+        "rating": 4.8,
+        "address": "Rua do Pau de Bandeira 4, 1249-021 Lisboa, Portugal",
+        "latitude": 38.7068315,
+        "longitude": -9.1638428
+    },
+    {
+        "category": "resorts",
+        "title": "The Lumiares Hotel & Spa",
+        "rating": 4.6,
+        "address": "R. do Diário de Notícias 142, 1200-146 Lisboa, Portugal",
+        "latitude": 38.7139646,
+        "longitude": -9.1444525
+    },
+    {
+        "category": "resorts",
+        "title": "Pestana Palace Lisboa, The Leading Hotels of the World",
+        "rating": 4.7,
+        "address": "R. Jau 54, 1300-314 Lisboa, Portugal",
+        "latitude": 38.7035568,
+        "longitude": -9.186454
+    },
+    {
+        "category": "resorts",
+        "title": "Iberostar Selection Lisboa",
+        "rating": 4.7,
+        "address": "R. Castilho 64, 1250-071 Lisboa, Portugal",
+        "latitude": 38.72409,
+        "longitude": -9.152458099999999
+    },
+    {
+        "category": "resorts",
+        "title": "Four Seasons Ritz",
+        "rating": 4.7,
+        "address": "R. Rodrigo da Fonseca 88, 1099-039 Lisboa, Portugal",
+        "latitude": 38.7255223,
+        "longitude": -9.1553051
+    },
+    {
+        "category": "resorts",
+        "title": "Altis Belém Hotel & Spa",
+        "rating": 4.6,
+        "address": "Doca do Bom Sucesso, 1400-038 Lisboa, Portugal",
+        "latitude": 38.693548299999996,
+        "longitude": -9.210629299999999
+    },
+    {
+        "category": "resorts",
+        "title": "The One Palácio da Anunciada",
+        "rating": 4.8,
+        "address": "R. das Portas de Santo Antão 112 134, 1150-268 Lisboa, Portugal",
+        "latitude": 38.717307399999996,
+        "longitude": -9.1411617
+    },
+    {
+        "category": "resorts",
+        "title": "Lisboa Pessoa Hotel",
+        "rating": 4.7,
+        "address": "R. da Oliveira ao Carmo 8, 1200-309 Lisboa, Portugal",
+        "latitude": 38.7125123,
+        "longitude": -9.1414479
+    },
+    {
+        "category": "resorts",
+        "title": "Corpo Santo Lisbon Historical Hotel",
+        "rating": 4.8,
+        "address": "Largo Corpo Santo 25, 1200-129 Lisboa, Portugal",
+        "latitude": 38.707447599999995,
+        "longitude": -9.141832299999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Vintage Lisbon, an SLH Hotel",
+        "rating": 4.5,
+        "address": "R. Rodrigo da Fonseca 2, 1250-191 Lisboa, Portugal",
+        "latitude": 38.720002199999996,
+        "longitude": -9.1505303
+    },
+    {
+        "category": "resorts",
+        "title": "Myriad",
+        "rating": 4.8,
+        "address": "Lote 2.21.01, Parque das Nações, R. Cais das Naus Lote 2.21.01, 1990-173 Lisboa, Portugal",
+        "latitude": 38.7747436,
+        "longitude": -9.091590799999999
+    },
+    {
+        "category": "resorts",
+        "title": "Martinhal Lisbon Chiado Luxury Hotel & Apartments",
+        "rating": 4.7,
+        "address": "Rua das Flores 44, 1200-195 Lisboa, Portugal",
+        "latitude": 38.7087432,
+        "longitude": -9.1435593
+    },
+    {
+        "category": "resorts",
+        "title": "LX Boutique Hotel",
+        "rating": 4.4,
+        "address": "R. do Alecrim 12, 1200-017 Lisboa, Portugal",
+        "latitude": 38.7070308,
+        "longitude": -9.1433719
+    },
+    {
+        "category": "resorts",
+        "title": "Pousada de Lisboa, Small Luxury Hotels",
+        "rating": 4.6,
+        "address": "Praça do Comércio 31 34, 1100-148 Lisboa, Portugal",
+        "latitude": 38.708285,
+        "longitude": -9.137668999999999
+    },
+    {
+        "category": "resorts",
+        "title": "Upon Lisbon Prime Residences",
+        "rating": 4.5,
+        "address": "R. Luciana Stegagno Picchio 12, 1549-023 Lisboa, Portugal",
+        "latitude": 38.7540111,
+        "longitude": -9.1813063
+    },
+    {
+        "category": "resorts",
+        "title": "InterContinental Lisbon",
+        "rating": 4.6,
+        "address": "R. Castilho 149, 1070-050 Lisboa, Portugal",
+        "latitude": 38.726817,
+        "longitude": -9.1552236
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel da Baixa",
+        "rating": 4.8,
+        "address": "Rua da Prata 231, 1100-417 Lisboa, Portugal",
+        "latitude": 38.7121542,
+        "longitude": -9.137547
+    },
+    {
+        "category": "resorts",
+        "title": "Solar do Castelo",
+        "rating": 4.7,
+        "address": "R. das Cozinhas 2, 1100-181 Lisboa, Portugal",
+        "latitude": 38.7131044,
+        "longitude": -9.1334675
+    },
+    {
+        "category": "resorts",
+        "title": "Jupiter Lisboa Hotel - Rooftop & Spa",
+        "rating": 4.5,
+        "address": "Av. da República 46, 1050-195 Lisboa, Portugal",
+        "latitude": 38.7397385,
+        "longitude": -9.145917899999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Lisboa Camping",
+        "rating": 3.5,
+        "address": "Estr. da Circunvalação, 1400-061 Lisboa, Portugal",
+        "latitude": 38.72477,
+        "longitude": -9.207230299999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Clube de Campismo de Lisboa (CCL)",
+        "rating": 4.1,
+        "address": "Av. Afonso de Albuquerque 201, 2825-450 Costa da Caparica, Portugal",
+        "latitude": 38.6549428,
+        "longitude": -9.2390165
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Club Almada Municipality",
+        "rating": 4.2,
+        "address": "2825-412 Costa da Caparica, Portugal",
+        "latitude": 38.6330364,
+        "longitude": -9.227523
+    },
+    {
+        "category": "camping sites",
+        "title": "Kampaoh Lisboa",
+        "rating": 4.8,
+        "address": "Estr. da Circunvalação, 1400-061 Lisboa, Portugal",
+        "latitude": 38.7247343,
+        "longitude": -9.207239
+    },
+    {
+        "category": "hiking trails",
+        "title": "Fátima and Santiago of Compostela Trail",
+        "rating": 4.6,
+        "address": "Passeio do Tejo 1990, Lisboa, Portugal",
+        "latitude": 38.7851789,
+        "longitude": -9.0921682
+    },
+    {
+        "category": "hiking trails",
+        "title": "Pista Keil do Amaral",
+        "rating": 4.6,
+        "address": "Alameda Keil do Amaral 651 1300, Lisboa, Portugal",
+        "latitude": 38.722257299999995,
+        "longitude": -9.1927564
+    },
+    {
+        "category": "hiking trails",
+        "title": "Parque Florestal de Monsanto",
+        "rating": 4.7,
+        "address": "Lisboa, Portugal",
+        "latitude": 38.7235491,
+        "longitude": -9.1917632
+    },
+    {
+        "category": "hiking trails",
+        "title": "Percurso dos Moinhos do Mocho (Verde)",
+        "rating": 4.6,
+        "address": "Cruz das Oliveiras 1500, Lisboa, Portugal",
+        "latitude": 38.727472999999996,
+        "longitude": -9.1942715
+    },
+    {
+        "category": "hiking trails",
+        "title": "Percurso Vila Pouca - Bela Vista (início)",
+        "rating": 5,
+        "address": "PRMC+3F, 1500 Lisboa, Portugal",
+        "latitude": 38.732748,
+        "longitude": -9.179253
+    },
+    {
+        "category": "hiking trails",
+        "title": "Percurso Encosta da Pimenteira - Alcântara (início)",
+        "rating": null,
+        "address": "Pq. Infantil Alvito 1300, Lisboa, Portugal",
+        "latitude": 38.719364999999996,
+        "longitude": -9.185678
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Parque Florestal de Monsanto",
+        "rating": 4.7,
+        "address": "Lisboa, Portugal",
+        "latitude": 38.7235491,
+        "longitude": -9.1917632
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Tagus Estuary Nature Reserve",
+        "rating": 4.5,
+        "address": "Av. dos Combatentes da Grande Guerra 1, Alcochete, Portugal",
+        "latitude": 38.8339676,
+        "longitude": -8.985487899999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Parque Natural da Arrábida",
+        "rating": 4.8,
+        "address": "Portugal",
+        "latitude": 38.4693714,
+        "longitude": -9.064341899999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Cape Roca",
+        "rating": 4.7,
+        "address": "Estrada do Cabo da Roca s/n, 2705-001 Colares, Portugal",
+        "latitude": 38.7804003,
+        "longitude": -9.499111599999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Lisbon Eco Tours",
+        "rating": 4.7,
+        "address": null,
+        "latitude": 38.7440794,
+        "longitude": -9.1597358
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Castelo de São Jorge",
+        "rating": 4.4,
+        "address": "R. de Santa Cruz do Castelo, 1100-129 Lisboa, Portugal",
+        "latitude": 38.713909199999996,
+        "longitude": -9.133476199999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "We Hate Tourism Tours",
+        "rating": 4.9,
+        "address": "R. Rodrigues de Faria 103, 1300-501 Lisboa, Portugal",
+        "latitude": 38.7034813,
+        "longitude": -9.1788461
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Activities In Portugal",
+        "rating": 3,
+        "address": "R. Neves Ferreira 1170, 1170-298 Lisboa, Portugal",
+        "latitude": 38.7308285,
+        "longitude": -9.130642
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "National Palace of Pena",
+        "rating": 4.4,
+        "address": "Estrada da Pena, 2710-609 Sintra, Portugal",
+        "latitude": 38.7875851,
+        "longitude": -9.3906089
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ulisseia Tours- Eco tuk tours Lisboa",
+        "rating": 3,
+        "address": null,
+        "latitude": 35.9915752,
+        "longitude": -18.826979599999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Oceanário de Lisboa",
+        "rating": 4.7,
+        "address": "Esplanada Dom Carlos I s/nº, 1990-005 Lisboa, Portugal",
+        "latitude": 38.7635435,
+        "longitude": -9.0937415
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Reserva Natural do Estuário do Sado",
+        "rating": 4.6,
+        "address": "Setúbal, Portugal",
+        "latitude": 38.5284823,
+        "longitude": -8.8048565
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Hop on hop off",
+        "rating": 2.7,
+        "address": "Pç do Marquês de Pombal, 1070-051 Lisboa, Portugal",
+        "latitude": 38.7261148,
+        "longitude": -9.150152
+    },
+    {
+        "category": "temples",
+        "title": "Templo Radha Krishna",
+        "rating": 4.6,
+        "address": "Alameda Mahatma Gandhi 1, 1600-500 Lisboa, Portugal",
+        "latitude": 38.7697546,
+        "longitude": -9.1755021
+    },
+    {
+        "category": "temples",
+        "title": "BAPS Shri Swaminarayan Mandir, Lisboa",
+        "rating": 4.8,
+        "address": "1700-033, Av. Alm. Gago Coutinho 120, Lisboa, Portugal",
+        "latitude": 38.755760599999995,
+        "longitude": -9.129977199999999
+    },
+    {
+        "category": "temples",
+        "title": "Hare Krishna Lisbon - ISKCON International Society for Krishna Consciousness",
+        "rating": 4.6,
+        "address": "R. Casimiro Freire 4A, 1900-144 Lisboa, Portugal",
+        "latitude": 38.7392938,
+        "longitude": -9.129964
+    },
+    {
+        "category": "temples",
+        "title": "Hindu Community of Portugal",
+        "rating": 4.4,
+        "address": "Alameda Mahatma Gandhi, 1600-500 Lisboa, Portugal",
+        "latitude": 38.7699085,
+        "longitude": -9.1753007
+    },
+    {
+        "category": "temples",
+        "title": "Shaare Tikvah Synagogue",
+        "rating": 4.2,
+        "address": "R. Alexandre Herculano 59, 1250-010 Lisboa, Portugal",
+        "latitude": 38.7203483,
+        "longitude": -9.153334
+    },
+    {
+        "category": "temples",
+        "title": "Jai Ambe Mandir",
+        "rating": 4.6,
+        "address": "Estrada da Circunvalação, 1800-413 Lisboa, Portugal",
+        "latitude": 38.7810369,
+        "longitude": -9.1162209
+    },
+    {
+        "category": "temples",
+        "title": "Bhakti Marga Sri Vigna Haram Lakshmi Narayana Temple",
+        "rating": 4.3,
+        "address": "R. Cidade de Tomar 22B, 1600-265 Lisboa, Portugal",
+        "latitude": 38.784070899999996,
+        "longitude": -9.1661445
+    },
+    {
+        "category": "temples",
+        "title": "Jerónimos Monastery",
+        "rating": 4.5,
+        "address": "Praça do Império 1400-206 Lisboa, Portugal",
+        "latitude": 38.6978909,
+        "longitude": -9.206703899999999
+    },
+    {
+        "category": "temples",
+        "title": "Templo de Shiva",
+        "rating": 4.9,
+        "address": "R. Herbert Matzinger 3, Santo António dos Cavaleiros, Portugal",
+        "latitude": 38.8117117,
+        "longitude": -9.1808192
+    },
+    {
+        "category": "temples",
+        "title": "Associação Hehaver - Sinagoga Ohel Jacob",
+        "rating": 4.8,
+        "address": "R. Filipe da Mata, 1600-070 Lisboa, Portugal",
+        "latitude": 38.7411853,
+        "longitude": -9.1601357
+    },
+    {
+        "category": "temples",
+        "title": "Fo Guang Shan Portugal Temple",
+        "rating": 4.9,
+        "address": "R. Centieira 35, 1800-056 Lisboa, Portugal",
+        "latitude": 38.761839099999996,
+        "longitude": -9.1015599
+    },
+    {
+        "category": "temples",
+        "title": "Carmo Archaeological Museum",
+        "rating": 4.5,
+        "address": "Largo do Carmo, 1200-092 Lisboa, Portugal",
+        "latitude": 38.712038299999996,
+        "longitude": -9.140612899999999
+    },
+    {
+        "category": "temples",
+        "title": "Lisbon Cathedral",
+        "rating": 4.4,
+        "address": "Largo da Sé 1, 1100-585 Lisboa, Portugal",
+        "latitude": 38.7098339,
+        "longitude": -9.1329535
+    },
+    {
+        "category": "temples",
+        "title": "Templo Shani Dev",
+        "rating": 5,
+        "address": "Av. São José 16, 2685-108 Sacavém, Portugal",
+        "latitude": 38.7938579,
+        "longitude": -9.1055266
+    },
+    {
+        "category": "temples",
+        "title": "Tripura Temple",
+        "rating": 5,
+        "address": "Rua da, R. Tabaqueira B lote A andar 5 H, 1950-256 Lisboa, Portugal",
+        "latitude": 38.746842,
+        "longitude": -9.0985246
+    },
+    {
+        "category": "temples",
+        "title": "Lisbon Portugal Temple",
+        "rating": 4.8,
+        "address": "Av. Dom João II 4 73.01, 1990-364 Lisboa, Portugal",
+        "latitude": 38.7800443,
+        "longitude": -9.0990065
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Contemporary Art – MAC/CCB",
+        "rating": 4.5,
+        "address": "Praça do Império, 1449-003 Lisboa, Portugal",
+        "latitude": 38.6958741,
+        "longitude": -9.2090914
+    },
+    {
+        "category": "museums",
+        "title": "Museum of the Orient",
+        "rating": 4.5,
+        "address": "Doca de Alcantara Norte, Av. Brasília 352, 1350-352 Lisboa, Portugal",
+        "latitude": 38.7028828,
+        "longitude": -9.1705943
+    },
+    {
+        "category": "museums",
+        "title": "National Coach Museum",
+        "rating": 4.6,
+        "address": "Av. da Índia 136, 1300-300 Lisboa, Portugal",
+        "latitude": 38.6965545,
+        "longitude": -9.197485
+    },
+    {
+        "category": "museums",
+        "title": "Fado Museum",
+        "rating": 4.4,
+        "address": "Alfama, Largo do Chafariz de Dentro 1, 1100-139 Lisboa, Portugal",
+        "latitude": 38.7111258,
+        "longitude": -9.127616
+    },
+    {
+        "category": "museums",
+        "title": "National Tile Museum",
+        "rating": 4.6,
+        "address": "R. Me. Deus 4, 1900-312 Lisboa, Portugal",
+        "latitude": 38.7250559,
+        "longitude": -9.113539
+    },
+    {
+        "category": "museums",
+        "title": "MAAT - Museum of Art, Architecture and Technology",
+        "rating": 4.3,
+        "address": "Av. Brasília, 1300-598 Lisboa, Portugal",
+        "latitude": 38.6958561,
+        "longitude": -9.193311999999999
+    },
+    {
+        "category": "museums",
+        "title": "Puppet Museum",
+        "rating": 4.5,
+        "address": "Rua da Esperança 146, 1200-660 Lisboa, Portugal",
+        "latitude": 38.707972,
+        "longitude": -9.155776
+    },
+    {
+        "category": "museums",
+        "title": "Medeiros & Almeida Museum",
+        "rating": 4.7,
+        "address": "R. Mouzinho da Silveira 4, 1250-194 Lisboa, Portugal",
+        "latitude": 38.7215679,
+        "longitude": -9.1490289
+    },
+    {
+        "category": "museums",
+        "title": "Museu Banksy - Lisbon",
+        "rating": 4.6,
+        "address": "R. Viriato 25B, 1050-234 Lisboa, Portugal",
+        "latitude": 38.73169,
+        "longitude": -9.1476267
+    },
+    {
+        "category": "museums",
+        "title": "Centro de Arte Moderna Gulbenkian (CAM)",
+        "rating": 4.5,
+        "address": "Rua Marquês de Fronteira 2, 1050-078 Lisboa, Portugal",
+        "latitude": 38.7357516,
+        "longitude": -9.153741499999999
+    },
+    {
+        "category": "museums",
+        "title": "B-MAD",
+        "rating": 4.7,
+        "address": "R. 1º de Maio 24, 1300-474 Lisboa, Portugal",
+        "latitude": 38.7040635,
+        "longitude": -9.179065399999999
+    },
+    {
+        "category": "museums",
+        "title": "Carmo Archaeological Museum",
+        "rating": 4.5,
+        "address": "Largo do Carmo, 1200-092 Lisboa, Portugal",
+        "latitude": 38.712038299999996,
+        "longitude": -9.140612899999999
+    },
+    {
+        "category": "museums",
+        "title": "Museum Aljube Resistência e Liberdade",
+        "rating": 4.7,
+        "address": "R. Augusto Rosa 42, 1100-059 Lisboa, Portugal",
+        "latitude": 38.710211799999996,
+        "longitude": -9.1325235
+    },
+    {
+        "category": "museums",
+        "title": "Museu de Marinha",
+        "rating": 4.5,
+        "address": "Praça do Império, Santa Maria de Belém, 1400-206 Lisboa, Portugal",
+        "latitude": 38.6969438,
+        "longitude": -9.2091554
+    },
+    {
+        "category": "museums",
+        "title": "Lisbon Military Museum",
+        "rating": 4.6,
+        "address": "R. do Museu de Artilharia 51, 1100-366 Lisboa, Portugal",
+        "latitude": 38.712697299999995,
+        "longitude": -9.1246317
+    },
+    {
+        "category": "museums",
+        "title": "Museu da Carris",
+        "rating": 4.5,
+        "address": "R. 1º de Maio 101 103, 1300-472 Lisboa, Portugal",
+        "latitude": 38.702066099999996,
+        "longitude": -9.180535299999999
+    },
+    {
+        "category": "museums",
+        "title": "Money Museum",
+        "rating": 4.6,
+        "address": "Largo de São Julião, 1100-150 Lisboa, Portugal",
+        "latitude": 38.7086044,
+        "longitude": -9.138915599999999
+    },
+    {
+        "category": "museums",
+        "title": "Lisbon Earthquake 1755",
+        "rating": 4.6,
+        "address": "Rua do Cais da Alfândega Velha 39, 1300-598 Lisboa, Portugal",
+        "latitude": 38.697036,
+        "longitude": -9.1970676
+    },
+    {
+        "category": "museums",
+        "title": "Pavilhão do Conhecimento - Ciência Viva",
+        "rating": 4.7,
+        "address": "Largo José Mariano Gago nº1, 1990-073 Lisboa, Portugal",
+        "latitude": 38.7622587,
+        "longitude": -9.095872
+    },
+    {
+        "category": "museums",
+        "title": "Marine Planetarium",
+        "rating": 3.9,
+        "address": "Empire Square, Praça do Império, Santa Maria de Belém, 1400-206 Lisboa, Portugal",
+        "latitude": 38.6980874,
+        "longitude": -9.2089003
+    },
+    {
+        "category": "night markets",
+        "title": "Mini market & night shop",
+        "rating": 3.7,
+        "address": "R. da Condessa 27, 1200-235 Lisboa, Portugal",
+        "latitude": 38.7128514,
+        "longitude": -9.1416372
+    },
+    {
+        "category": "night markets",
+        "title": "Time Out Market",
+        "rating": 4.4,
+        "address": "Mercado da Ribeira, Av. 24 de Julho, 1200-479 Lisboa, Portugal",
+        "latitude": 38.7070608,
+        "longitude": -9.1456691
+    },
+    {
+        "category": "night markets",
+        "title": "Mercado de Santa Clara",
+        "rating": 4.3,
+        "address": "Campo de Santa Clara, 1100-472 Lisboa, Portugal",
+        "latitude": 38.715592099999995,
+        "longitude": -9.1254624
+    },
+    {
+        "category": "night markets",
+        "title": "Baixa Market",
+        "rating": 4.3,
+        "address": "Praça da Figueira, 1100-240 Lisboa, Portugal",
+        "latitude": 38.7135787,
+        "longitude": -9.1376907
+    },
+    {
+        "category": "night markets",
+        "title": "Feira da Ladra",
+        "rating": 4.3,
+        "address": "Campo de Santa Clara, 1100-472 Lisboa, Portugal",
+        "latitude": 38.715247999999995,
+        "longitude": -9.1262075
+    },
+    {
+        "category": "night markets",
+        "title": "LxMarket",
+        "rating": 4.4,
+        "address": "R. Rodrigues de Faria 103, 1300-501 Lisboa, Portugal",
+        "latitude": 38.7030692,
+        "longitude": -9.178860199999999
+    },
+    {
+        "category": "night markets",
+        "title": "Late night shop & store",
+        "rating": 4.4,
+        "address": "R. Passos Manuel 100 C, 1150-260 Lisboa, Portugal",
+        "latitude": 38.729770699999996,
+        "longitude": -9.136774899999999
+    },
+    {
+        "category": "night markets",
+        "title": "Market Tuesday and saturday",
+        "rating": 4.6,
+        "address": "Largo Dr. Bernardino António Gomes (Pai), 1100-105 Lisboa, Portugal",
+        "latitude": 38.715587,
+        "longitude": -9.1233053
+    },
+    {
+        "category": "night markets",
+        "title": "Mini market/Grocery store/ Night Shop",
+        "rating": 3,
+        "address": "R. da Condessa 49, 1200-156 Lisboa, Portugal",
+        "latitude": 38.7131749,
+        "longitude": -9.1419854
+    },
+    {
+        "category": "night markets",
+        "title": "Mercado de Campo de Ourique",
+        "rating": 4.4,
+        "address": "R. Coelho da Rocha 104, 1350-075 Lisboa, Portugal",
+        "latitude": 38.7161743,
+        "longitude": -9.1667946
+    },
+    {
+        "category": "night markets",
+        "title": "Mercado 31 de Janeiro",
+        "rating": 4.3,
+        "address": "Rua Engenheiro Vieira da Silva, Praça Duque de Saldanha, 1050-094 Lisboa, Portugal",
+        "latitude": 38.731186699999995,
+        "longitude": -9.1444292
+    },
+    {
+        "category": "night markets",
+        "title": "Alvalade Norte Market",
+        "rating": 4.3,
+        "address": "Av. Rio de Janeiro, 1700-330 Lisboa, Portugal",
+        "latitude": 38.7556724,
+        "longitude": -9.1399402
+    },
+    {
+        "category": "night markets",
+        "title": "Mercado Municipal de Benfica",
+        "rating": 4.3,
+        "address": "R. João Frederico Ludovice 354, 1500-354 Lisboa, Portugal",
+        "latitude": 38.7508037,
+        "longitude": -9.2060988
+    },
+    {
+        "category": "night markets",
+        "title": "Eurozone Mercado and night shop",
+        "rating": 4.1,
+        "address": "R. Carvalho Araújo 2B, 1900-140 Lisboa, Portugal",
+        "latitude": 38.7333037,
+        "longitude": -9.1310446
+    },
+    {
+        "category": "viewpoints",
+        "title": "Miradouro da Senhora do Monte",
+        "rating": 4.8,
+        "address": "Largo Monte, 1170-107 Lisboa, Portugal",
+        "latitude": 38.7192133,
+        "longitude": -9.1328298
+    },
+    {
+        "category": "viewpoints",
+        "title": "Miradouro da Graça",
+        "rating": 4.7,
+        "address": "Calçada da Graça, 1100-265 Lisboa, Portugal",
+        "latitude": 38.7164509,
+        "longitude": -9.1315937
+    },
+    {
+        "category": "viewpoints",
+        "title": "Miradouro de São Pedro de Alcântara",
+        "rating": 4.6,
+        "address": "R. de São Pedro de Alcântara, 1250-238 Lisboa, Portugal",
+        "latitude": 38.7153042,
+        "longitude": -9.1441702
+    },
+    {
+        "category": "viewpoints",
+        "title": "Miradouro de Santa Luzia",
+        "rating": 4.7,
+        "address": "Largo de Santa Luzia, 1100-487 Lisboa, Portugal",
+        "latitude": 38.7116956,
+        "longitude": -9.1301972
+    },
+    {
+        "category": "viewpoints",
+        "title": "Viewpoint of Monte Agudo",
+        "rating": 4.5,
+        "address": "R. Heliodoro Salgado, 1170-175 Lisboa, Portugal",
+        "latitude": 38.7261506,
+        "longitude": -9.1315064
+    },
+    {
+        "category": "viewpoints",
+        "title": "Miradouro das Portas do Sol",
+        "rating": 4.7,
+        "address": "Largo Portas do Sol, 1100-411 Lisboa, Portugal",
+        "latitude": 38.7119253,
+        "longitude": -9.1299568
+    },
+    {
+        "category": "viewpoints",
+        "title": "Observation Deck Park Eduardo VII",
+        "rating": 4.7,
+        "address": "Alameda Cardeal Cerejeira, 1070-051 Lisboa, Portugal",
+        "latitude": 38.7302994,
+        "longitude": -9.154429799999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Count of Óbidos Rock Viewpoint",
+        "rating": 4.5,
+        "address": "R. Pres. Arriaga, 1200-771 Lisboa, Portugal",
+        "latitude": 38.7041688,
+        "longitude": -9.1628519
+    },
+    {
+        "category": "viewpoints",
+        "title": "Santo Estêvão Belvedere",
+        "rating": 4.5,
+        "address": "Lgo de Santo Estêvão, 1100-505 Lisboa, Portugal",
+        "latitude": 38.712032799999996,
+        "longitude": -9.1278966
+    },
+    {
+        "category": "viewpoints",
+        "title": "Amoreiras 360º Panoramic View",
+        "rating": 4.5,
+        "address": "Amoreiras, Av. Eng. Duarte Pacheco 1070 n° 2037, 1070-103 Lisboa, Portugal",
+        "latitude": 38.723757,
+        "longitude": -9.161325
+    },
+    {
+        "category": "viewpoints",
+        "title": "Viewpoint Montes Claros",
+        "rating": 4.5,
+        "address": "PQ8X+X47, Lisboa, Portugal",
+        "latitude": 38.7174125,
+        "longitude": -9.2022031
+    },
+    {
+        "category": "viewpoints",
+        "title": "Viewpoint",
+        "rating": 4.9,
+        "address": "Beco de Santa Helena 21, 1100-126 Lisboa, Portugal",
+        "latitude": 38.7119815,
+        "longitude": -9.129996199999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Keil do Amaral viewpoint",
+        "rating": 4.5,
+        "address": "Alameda Keil do Amaral 651, Lisboa, Portugal",
+        "latitude": 38.7211593,
+        "longitude": -9.1933901
+    },
+    {
+        "category": "viewpoints",
+        "title": "Miradouro da Penha de França",
+        "rating": 4.5,
+        "address": "R. Marques da Silva, 1170-318 Lisboa, Portugal",
+        "latitude": 38.7308798,
+        "longitude": -9.1316265
+    },
+    {
+        "category": "viewpoints",
+        "title": "Miradouro do Recolhimento",
+        "rating": 4.6,
+        "address": "R. do Recolhimento, 1100-430 Lisboa, Portugal",
+        "latitude": 38.712826,
+        "longitude": -9.1316641
+    },
+    {
+        "category": "viewpoints",
+        "title": "Miradouro do Jardim do Torel",
+        "rating": 4.6,
+        "address": "Tv. Torel 21, 1150-122 Lisboa, Portugal",
+        "latitude": 38.7191492,
+        "longitude": -9.141274899999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Miradouro do Largo das Necessidades",
+        "rating": 4.4,
+        "address": "Largo Necessidades, 1350-215 Lisboa, Portugal",
+        "latitude": 38.706506399999995,
+        "longitude": -9.1717932
+    },
+    {
+        "category": "viewpoints",
+        "title": "Miradouro do Chão do Loureiro",
+        "rating": 4.6,
+        "address": "Calçada do Marquês de Tancos, 1100-006 Lisboa, Portugal",
+        "latitude": 38.712231599999996,
+        "longitude": -9.1351962
+    },
+    {
+        "category": "viewpoints",
+        "title": "Miradouro de São Vicente",
+        "rating": 4.6,
+        "address": "Rua do Salvador 2B, 1100-465 Lisboa, Portugal",
+        "latitude": 38.7126699,
+        "longitude": -9.1302237
+    },
+    {
+        "category": "viewpoints",
+        "title": "Miradouro de Santo Amaro",
+        "rating": 4.7,
+        "address": "R. Academia Recreativa de Santo Amaro 13, 1300-515 Lisboa, Portugal",
+        "latitude": 38.7019855,
+        "longitude": -9.1822906
+    },
+    {
+        "category": "gardens",
+        "title": "Botanical Garden of Lisbon",
+        "rating": 4,
+        "address": "R. da Escola Politécnica 58, 1250-102 Lisboa, Portugal",
+        "latitude": 38.7184392,
+        "longitude": -9.1487544
+    },
+    {
+        "category": "gardens",
+        "title": "Principe Real Garden",
+        "rating": 4.5,
+        "address": "Praça do Príncipe Real, 1250-184 Lisboa, Portugal",
+        "latitude": 38.7162998,
+        "longitude": -9.148717099999999
+    },
+    {
+        "category": "gardens",
+        "title": "Belém Tower Garden",
+        "rating": 4.6,
+        "address": "Av. Brasília, 1400-038 Lisboa, Portugal",
+        "latitude": 38.6928695,
+        "longitude": -9.215891599999999
+    },
+    {
+        "category": "gardens",
+        "title": "Tropical Botanical Garden",
+        "rating": 4.3,
+        "address": "Largo dos Jerónimos, 1400-209 Lisboa, Portugal",
+        "latitude": 38.698609399999995,
+        "longitude": -9.2026642
+    },
+    {
+        "category": "gardens",
+        "title": "Estufa Fria",
+        "rating": 4.6,
+        "address": "Parque Eduardo VII, 1070-051 Lisboa, Portugal",
+        "latitude": 38.728707799999995,
+        "longitude": -9.155125
+    },
+    {
+        "category": "gardens",
+        "title": "Garcia de Orta",
+        "rating": 4.5,
+        "address": "Passeio das Tágides, 1990-280 Lisboa, Portugal",
+        "latitude": 38.7700199,
+        "longitude": -9.092066599999999
+    },
+    {
+        "category": "gardens",
+        "title": "Jardim Botânico da Ajuda",
+        "rating": 4.4,
+        "address": "Calçada da Ajuda, 1300-011 Lisboa, Portugal",
+        "latitude": 38.7062026,
+        "longitude": -9.200909
+    },
+    {
+        "category": "gardens",
+        "title": "Garden of the Calouste Gulbenkian Foundation",
+        "rating": 4.7,
+        "address": "Av. de Berna 45 A, 1067-001 Lisboa, Portugal",
+        "latitude": 38.7374065,
+        "longitude": -9.154188
+    },
+    {
+        "category": "gardens",
+        "title": "Jardim Amália Rodrigues",
+        "rating": 4.6,
+        "address": "Alameda Cardeal Cerejeira, 1070-051 Lisboa, Portugal",
+        "latitude": 38.7309493,
+        "longitude": -9.1549497
+    },
+    {
+        "category": "gardens",
+        "title": "Water Gardens",
+        "rating": 4.5,
+        "address": "Passeio Ulisses, 1990-005 Lisboa, Portugal",
+        "latitude": 38.761512599999996,
+        "longitude": -9.0943351
+    },
+    {
+        "category": "gardens",
+        "title": "Garden of Afonso de Albuquerque",
+        "rating": 4.4,
+        "address": "Praça Afonso de Albuquerque, 1300-004 Lisboa, Portugal",
+        "latitude": 38.696565199999995,
+        "longitude": -9.200222499999999
+    },
+    {
+        "category": "gardens",
+        "title": "Parque Botânico do Monteiro-Mor",
+        "rating": 4.5,
+        "address": "Largo Júlio Castilho, 1600-483 Lisboa, Portugal",
+        "latitude": 38.7754051,
+        "longitude": -9.1647787
+    },
+    {
+        "category": "gardens",
+        "title": "Empire Square Garden",
+        "rating": 4.6,
+        "address": "Praça do Império, 1400-206 Lisboa, Portugal",
+        "latitude": 38.6959948,
+        "longitude": -9.2059935
+    },
+    {
+        "category": "gardens",
+        "title": "Jardim do Torel",
+        "rating": 4.5,
+        "address": "R. Júlio de Andrade, 1150-122 Lisboa, Portugal",
+        "latitude": 38.7191743,
+        "longitude": -9.1411617
+    },
+    {
+        "category": "gardens",
+        "title": "Garden Vasco da Gama",
+        "rating": 4.6,
+        "address": "R. Vieira Portuense, 1300-571 Lisboa, Portugal",
+        "latitude": 38.696312999999996,
+        "longitude": -9.2026639
+    },
+    {
+        "category": "gardens",
+        "title": "Jardim da Estrela",
+        "rating": 4.6,
+        "address": "Praça da Estrela, 1200-667 Lisboa, Portugal",
+        "latitude": 38.714765,
+        "longitude": -9.159257499999999
+    },
+    {
+        "category": "gardens",
+        "title": "Jardim Mário Soares",
+        "rating": 4.4,
+        "address": "1700-162 Lisboa, Portugal",
+        "latitude": 38.756547999999995,
+        "longitude": -9.153319
+    },
+    {
+        "category": "gardens",
+        "title": "Jardim da Alameda Dom Afonso Henriques",
+        "rating": 4.5,
+        "address": "R. Cidade da Beira, 1900-181 Lisboa, Portugal",
+        "latitude": 38.737227499999996,
+        "longitude": -9.1315407
+    },
+    {
+        "category": "gardens",
+        "title": "Botto Machado Garden",
+        "rating": 4.5,
+        "address": "Campo de Santa Clara, 1100-475 Lisboa, Portugal",
+        "latitude": 38.7158851,
+        "longitude": -9.1241319
+    },
+    {
+        "category": "gardens",
+        "title": "Jardim da Cerca da Graça",
+        "rating": 4.4,
+        "address": "Calçada do Monte 46, 1100-362 Lisboa, Portugal",
+        "latitude": 38.7174635,
+        "longitude": -9.132069399999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventure Park",
+        "rating": 4.5,
+        "address": "Centro Desportivo Nacional do Jamor, 1495-751 Cruz Quebrada, Portugal",
+        "latitude": 38.708386399999995,
+        "longitude": -9.247154799999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Quantum Park Lisboa - Trampolins, Escalada e Laser Tag",
+        "rating": 4.5,
+        "address": "Estr. Ligeiras 18 20, 2735-337 Agualva-Cacém, Portugal",
+        "latitude": 38.7624595,
+        "longitude": -9.308656899999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Another World - Lisboa",
+        "rating": 4.8,
+        "address": "Av. Infante Dom Henrique 286, 1950-421 Lisboa, Portugal",
+        "latitude": 38.750913499999996,
+        "longitude": -9.104175099999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Acqua Lisboa City SPA",
+        "rating": 4.5,
+        "address": "Rua Dom Jorge da Costa 10 B, 1400-414 Lisboa, Portugal",
+        "latitude": 38.7104548,
+        "longitude": -9.2084915
+    },
+    {
+        "category": "hot springs",
+        "title": "THE ReTREAT - SPA & WELLNESS",
+        "rating": 4.9,
+        "address": "R. de Santa Marta 48, 1150-297 Lisboa, Portugal",
+        "latitude": 38.7231757,
+        "longitude": -9.1456112
+    },
+    {
+        "category": "hot springs",
+        "title": "G Spa by Altis Grand Hotel",
+        "rating": 4.5,
+        "address": "R. Barata Salgueiro 50A, 1250-096 Lisboa, Portugal",
+        "latitude": 38.7204376,
+        "longitude": -9.1503354
+    },
+    {
+        "category": "hot springs",
+        "title": "Poça da Dona Beija",
+        "rating": 4.6,
+        "address": "Lomba Das Barracas s/n, 9675-044 Furnas, Portugal",
+        "latitude": 37.7692714,
+        "longitude": -25.3193111
+    },
+    {
+        "category": "hot springs",
+        "title": "Float Spa in Lisbon Picoas",
+        "rating": 4.7,
+        "address": "R. Pedro Nunes 14B, 1050-170 Lisboa, Portugal",
+        "latitude": 38.7320121,
+        "longitude": -9.1482721
+    },
+    {
+        "category": "hot springs",
+        "title": "CitySpa - The DaySpa Lisbon.",
+        "rating": 4.8,
+        "address": "R. Gonçalves Zarco 19, 1400-033 Lisboa, Portugal",
+        "latitude": 38.7030027,
+        "longitude": -9.2063781
+    },
+    {
+        "category": "hot springs",
+        "title": "Mandalay Spa - Liberdade",
+        "rating": 4.5,
+        "address": "R. Rosa Araújo 8, 1250-195 Lisboa, Portugal",
+        "latitude": 38.722206199999995,
+        "longitude": -9.1488946
+    },
+    {
+        "category": "hot springs",
+        "title": "Termas de São Pedro do Sul",
+        "rating": 4.6,
+        "address": "Praça Dr. António José de Almeida Termas de, 3660-692 São Pedro do Sul, Portugal",
+        "latitude": 40.7393418,
+        "longitude": -8.0928189
+    },
+    {
+        "category": "hot springs",
+        "title": "TERMAS DE LUSO",
+        "rating": 4.4,
+        "address": "R. Álvaro Castelões, 3050-230 Luso, Portugal",
+        "latitude": 40.3839475,
+        "longitude": -8.3771985
+    },
+    {
+        "category": "hot springs",
+        "title": "Villa Termal das Caldas de Monchique",
+        "rating": 4.1,
+        "address": "R. de Caldas de Monchique, 8550-232, Portugal",
+        "latitude": 37.2852451,
+        "longitude": -8.553687499999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Termas das Caldeiras da Ribeira Grande",
+        "rating": 4.3,
+        "address": "Caldeiras, Ribeira Grande, Portugal",
+        "latitude": 37.7980142,
+        "longitude": -25.4874618
+    },
+    {
+        "category": "hot springs",
+        "title": "Longroiva spa",
+        "rating": 4.5,
+        "address": "R. da Corredoura, Mêda, Portugal",
+        "latitude": 40.965036999999995,
+        "longitude": -7.2098184
+    },
+    {
+        "category": "hot springs",
+        "title": "Hospital Termal Rainha D. Leonor",
+        "rating": 4.4,
+        "address": "Largo Rainha Dona Leonor, 2500-174 Caldas da Rainha, Portugal",
+        "latitude": 39.4032656,
+        "longitude": -9.1322985
+    },
+    {
+        "category": "hot springs",
+        "title": "Alcafache Thermal Spa",
+        "rating": 4.2,
+        "address": "R. Balneário, 3530-026 Viseu, Portugal",
+        "latitude": 40.606029,
+        "longitude": -7.8696854
+    },
+    {
+        "category": "hot springs",
+        "title": "SAYANNA Wellness & Spa - EPIC SANA Lisboa",
+        "rating": 4.3,
+        "address": "Av. Eng. Duarte Pacheco 15, 1070-100 Lisboa, Portugal",
+        "latitude": 38.724541599999995,
+        "longitude": -9.158487
+    },
+    {
+        "category": "hot springs",
+        "title": "Ritz Spa at Four Seasons Hotel Ritz Lisbon",
+        "rating": 4.8,
+        "address": "R. Rodrigo da Fonseca 88, 1099-039 Lisboa, Portugal",
+        "latitude": 38.7263757,
+        "longitude": -9.1550794
+    },
+    {
+        "category": "hot springs",
+        "title": "Elohim Spa",
+        "rating": 4.7,
+        "address": "Lgo do Rato 3, 1250-012 Lisboa, Portugal",
+        "latitude": 38.7204474,
+        "longitude": -9.154366699999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Tesal Thermal Monção",
+        "rating": 3.5,
+        "address": "Av. das Caldas s/n, 4950-405 Monção, Portugal",
+        "latitude": 42.0791525,
+        "longitude": -8.4732528
+    },
+    {
+        "category": "hot springs",
+        "title": "Termas da Ferraria",
+        "rating": 4.3,
+        "address": "Ginetes, Portugal",
+        "latitude": 37.8608255,
+        "longitude": -25.8525276
+    },
+    {
+        "category": "hot springs",
+        "title": "BSpa by Karin Herzog",
+        "rating": 4.7,
+        "address": "Doca do Bom Sucesso, 1400-038 Lisboa, Portugal",
+        "latitude": 38.693244899999996,
+        "longitude": -9.2105979
+    },
+    {
+        "category": "shopping malls",
+        "title": "Colombo Shopping Centre",
+        "rating": 4.4,
+        "address": "Av. Lusíada, 1500-392 Lisboa, Portugal",
+        "latitude": 38.7534607,
+        "longitude": -9.1880056
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Vasco da Gama",
+        "rating": 4.4,
+        "address": "Av. Dom João II 40, 1990-094 Lisboa, Portugal",
+        "latitude": 38.7677295,
+        "longitude": -9.0971405
+    },
+    {
+        "category": "shopping malls",
+        "title": "Amoreiras",
+        "rating": 4.3,
+        "address": "Av. Eng. Duarte Pacheco, 1070-103 Lisboa, Portugal",
+        "latitude": 38.723601599999995,
+        "longitude": -9.1614515
+    },
+    {
+        "category": "shopping malls",
+        "title": "Campo Pequeno Shopping Mall",
+        "rating": 4,
+        "address": "Av. República, 1000-082 Lisboa, Portugal",
+        "latitude": 38.742588999999995,
+        "longitude": -9.1451841
+    },
+    {
+        "category": "shopping malls",
+        "title": "Armazéns do Chiado",
+        "rating": 4.4,
+        "address": "R. do Carmo, 1200-094 Lisboa, Portugal",
+        "latitude": 38.7110173,
+        "longitude": -9.1395917
+    },
+    {
+        "category": "shopping malls",
+        "title": "Atrium Saldanha",
+        "rating": 4.2,
+        "address": "Praça Duque de Saldanha 1, 1050-094 Lisboa, Portugal",
+        "latitude": 38.7328549,
+        "longitude": -9.1447072
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Comercial Fonte Nova",
+        "rating": 4.2,
+        "address": "Estr. de Benfica 503, 1500-083 Lisboa, Portugal",
+        "latitude": 38.7484687,
+        "longitude": -9.190506
+    },
+    {
+        "category": "shopping malls",
+        "title": "Freeport Fashion Outlet",
+        "rating": 4.3,
+        "address": "Avenida Euro 2004, 2890-154 Alcochete, Portugal",
+        "latitude": 38.7519377,
+        "longitude": -8.9391295
+    },
+    {
+        "category": "shopping malls",
+        "title": "Spacio Shopping",
+        "rating": 4.2,
+        "address": "R. Cidade de Bolama 4, 1800-079 Lisboa, Portugal",
+        "latitude": 38.7622849,
+        "longitude": -9.114090599999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shopping",
+        "rating": 4.4,
+        "address": "R. do Carmo 118, 1100-062 Lisboa, Portugal",
+        "latitude": 38.711102499999996,
+        "longitude": -9.1395964
+    },
+    {
+        "category": "shopping malls",
+        "title": "Picoas Plaza",
+        "rating": 3.8,
+        "address": "R. Tomás Ribeiro 65, 1050-227 Lisboa, Portugal",
+        "latitude": 38.7310756,
+        "longitude": -9.1481839
+    },
+    {
+        "category": "shopping malls",
+        "title": "Bela Vista Shoppingcenter",
+        "rating": 3.9,
+        "address": "Av. Francisco Salgado Zenha, 1950-442 Lisboa, Portugal",
+        "latitude": 38.750266499999995,
+        "longitude": -9.1170115
+    },
+    {
+        "category": "shopping malls",
+        "title": "Tivoli Forum",
+        "rating": 4.2,
+        "address": "Av. da Liberdade 180, 1250-146 Lisboa, Portugal",
+        "latitude": 38.720215499999995,
+        "longitude": -9.1448261
+    },
+    {
+        "category": "shopping malls",
+        "title": "Strada Outlet",
+        "rating": 4.2,
+        "address": "Casal do Troca, Estr. da Paiã, 2675-626 Odivelas, Portugal",
+        "latitude": 38.7822701,
+        "longitude": -9.192486599999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Portela Shopping Center",
+        "rating": 4.1,
+        "address": "Rotunda Nuno Rodrigues dos Santos 2, 2685-223 Portela, Portugal",
+        "latitude": 38.7825731,
+        "longitude": -9.111203699999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Comercial Alvalade",
+        "rating": 4,
+        "address": "Praça Alvalade 6B, 1700-036 Lisboa, Portugal",
+        "latitude": 38.7533189,
+        "longitude": -9.1449514
+    },
+    {
+        "category": "shopping malls",
+        "title": "UBBO",
+        "rating": 4.4,
+        "address": "Av. Cruzeiro Seixas 5 e 7, 2650-505 Amadora, Portugal",
+        "latitude": 38.776803199999996,
+        "longitude": -9.219492599999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Amoreiras Plaza",
+        "rating": 4.3,
+        "address": "R. Carlos Alberto da Mota Pinto 9, 1250-252 Lisboa, Portugal",
+        "latitude": 38.722759499999995,
+        "longitude": -9.1609421
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Comercial Sol Lisboa",
+        "rating": 4.3,
+        "address": "Av. Duque de Loulé 45A Loja 5, 1050-086 Lisboa, Portugal",
+        "latitude": 38.7278659,
+        "longitude": -9.1452005
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Comercial Bela Vista",
+        "rating": 4,
+        "address": "Av. Francisco Salgado Zenha 1950, 1950-444 Lisboa, Portugal",
+        "latitude": 38.7480265,
+        "longitude": -9.118362399999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Carmo Archaeological Museum",
+        "rating": 4.5,
+        "address": "Largo do Carmo, 1200-092 Lisboa, Portugal",
+        "latitude": 38.712038299999996,
+        "longitude": -9.140612899999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Castelo de São Jorge",
+        "rating": 4.4,
+        "address": "R. de Santa Cruz do Castelo, 1100-129 Lisboa, Portugal",
+        "latitude": 38.713909199999996,
+        "longitude": -9.133476199999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Monument to the Discoveries",
+        "rating": 4.6,
+        "address": "Av. Brasília, 1400-038 Lisboa, Portugal",
+        "latitude": 38.6935973,
+        "longitude": -9.2057115
+    },
+    {
+        "category": "historical sites",
+        "title": "National Pantheon",
+        "rating": 4.5,
+        "address": "Campo de Santa Clara, 1100-471 Lisboa, Portugal",
+        "latitude": 38.714994399999995,
+        "longitude": -9.1246835
+    },
+    {
+        "category": "historical sites",
+        "title": "Cais das Colunas",
+        "rating": 4.7,
+        "address": "Praça do Comércio, 1100-148 Lisboa, Portugal",
+        "latitude": 38.7066677,
+        "longitude": -9.1361186
+    },
+    {
+        "category": "historical sites",
+        "title": "Centro Histórico Lisboa, Portugal",
+        "rating": 4.6,
+        "address": "1150-343 Lisboa, Portugal",
+        "latitude": 38.722252399999995,
+        "longitude": -9.1393366
+    },
+    {
+        "category": "historical sites",
+        "title": "Arco da Rua Augusta",
+        "rating": 4.7,
+        "address": "R. Augusta 2, 1100-053 Lisboa, Portugal",
+        "latitude": 38.7084447,
+        "longitude": -9.136824299999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Arco Triunfal das Amoreiras",
+        "rating": 4.5,
+        "address": "1250-020 Lisboa, Portugal",
+        "latitude": 38.7222126,
+        "longitude": -9.1571797
+    },
+    {
+        "category": "historical sites",
+        "title": "Lisbon Cathedral",
+        "rating": 4.4,
+        "address": "Largo da Sé 1, 1100-585 Lisboa, Portugal",
+        "latitude": 38.7098339,
+        "longitude": -9.1329535
+    },
+    {
+        "category": "historical sites",
+        "title": "Castelo de São Jorge",
+        "rating": 4.9,
+        "address": "R. de Santa Cruz do Castelo, 1100-129 Lisboa, Portugal",
+        "latitude": 38.7139476,
+        "longitude": -9.1334675
+    },
+    {
+        "category": "historical sites",
+        "title": "Belém Tower",
+        "rating": 4.5,
+        "address": "Av. Brasília, 1400-038 Lisboa, Portugal",
+        "latitude": 38.691583699999995,
+        "longitude": -9.215977299999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Pelourinho de Lisboa",
+        "rating": 4.6,
+        "address": "Praça do Município, 1100-365 Lisboa, Portugal",
+        "latitude": 38.708036199999995,
+        "longitude": -9.1392013
+    },
+    {
+        "category": "historical sites",
+        "title": "Equestrian Statue of King José I",
+        "rating": 4.7,
+        "address": "Praça do Comércio MB, 1100-148 Lisboa, Portugal",
+        "latitude": 38.7075512,
+        "longitude": -9.1364592
+    },
+    {
+        "category": "historical sites",
+        "title": "Monument Deads of Great War",
+        "rating": 4.5,
+        "address": "Av. da Liberdade, 1250-140 Lisboa, Portugal",
+        "latitude": 38.719507199999995,
+        "longitude": -9.145265799999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Arco do Castelo",
+        "rating": 4.3,
+        "address": "R. de Santa Cruz do Castelo 10, 1100-223 Lisboa, Portugal",
+        "latitude": 38.712192,
+        "longitude": -9.1328514
+    },
+    {
+        "category": "historical sites",
+        "title": "Jerónimos Monastery",
+        "rating": 4.5,
+        "address": "Praça do Império 1400-206 Lisboa, Portugal",
+        "latitude": 38.6978909,
+        "longitude": -9.206703899999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Praça Dom Pedro IV",
+        "rating": 4.6,
+        "address": "1100-193 Lisboa, Portugal",
+        "latitude": 38.7138036,
+        "longitude": -9.1393681
+    },
+    {
+        "category": "historical sites",
+        "title": "Praça do Comércio",
+        "rating": 4.7,
+        "address": "1100-148 Lisboa, Portugal",
+        "latitude": 38.7072828,
+        "longitude": -9.136361299999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Praça Luís de Camões",
+        "rating": 4.5,
+        "address": "Largo Luís de Camões, 1200-243 Lisboa, Portugal",
+        "latitude": 38.7105849,
+        "longitude": -9.143476399999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Cais das Pombas",
+        "rating": 4.7,
+        "address": "Lisboa, Portugal",
+        "latitude": 38.7050534,
+        "longitude": -9.1436655
+    },
+    {
+        "category": "art galleries",
+        "title": "Centro de Arte Moderna Gulbenkian (CAM)",
+        "rating": 4.5,
+        "address": "Rua Marquês de Fronteira 2, 1050-078 Lisboa, Portugal",
+        "latitude": 38.7357516,
+        "longitude": -9.153741499999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Sociedade Nacional de Belas Artes",
+        "rating": 4.6,
+        "address": "R. Barata Salgueiro 36, 1250-044 Lisboa, Portugal",
+        "latitude": 38.7209679,
+        "longitude": -9.1493975
+    },
+    {
+        "category": "art galleries",
+        "title": "Arpad Szenes - Vieira da Silva Foundation",
+        "rating": 4.6,
+        "address": "Praça das Amoreiras nº56/58, 1250-020 Lisboa, Portugal",
+        "latitude": 38.722183699999995,
+        "longitude": -9.155835399999999
+    },
+    {
+        "category": "art galleries",
+        "title": "The National Museum of Contemporary Art",
+        "rating": 4,
+        "address": "R. Serpa Pinto 4, 1200-444 Lisboa, Portugal",
+        "latitude": 38.708329299999995,
+        "longitude": -9.1410103
+    },
+    {
+        "category": "art galleries",
+        "title": "Cordoaria Nacional",
+        "rating": 4.3,
+        "address": "Av. da Índia, 1300-598 Lisboa, Portugal",
+        "latitude": 38.697510099999995,
+        "longitude": -9.1901873
+    },
+    {
+        "category": "art galleries",
+        "title": "MAAT - Museum of Art, Architecture and Technology",
+        "rating": 4.3,
+        "address": "Av. Brasília, 1300-598 Lisboa, Portugal",
+        "latitude": 38.6958561,
+        "longitude": -9.193311999999999
+    },
+    {
+        "category": "art galleries",
+        "title": "National Coach Museum",
+        "rating": 4.6,
+        "address": "Av. da Índia 136, 1300-300 Lisboa, Portugal",
+        "latitude": 38.6965545,
+        "longitude": -9.197485
+    },
+    {
+        "category": "art galleries",
+        "title": "MACAM - Museu de Arte Contemporânea Armando Martins",
+        "rating": 4.7,
+        "address": "R. da Junqueira 66, 1300-343 Lisboa, Portugal",
+        "latitude": 38.700449,
+        "longitude": -9.1833449
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum of Contemporary Art – MAC/CCB",
+        "rating": 4.5,
+        "address": "Praça do Império, 1449-003 Lisboa, Portugal",
+        "latitude": 38.6958741,
+        "longitude": -9.2090914
+    },
+    {
+        "category": "art galleries",
+        "title": "National Tile Museum",
+        "rating": 4.6,
+        "address": "R. Me. Deus 4, 1900-312 Lisboa, Portugal",
+        "latitude": 38.7250559,
+        "longitude": -9.113539
+    },
+    {
+        "category": "art galleries",
+        "title": "B-MAD",
+        "rating": 4.7,
+        "address": "R. 1º de Maio 24, 1300-474 Lisboa, Portugal",
+        "latitude": 38.7040635,
+        "longitude": -9.179065399999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Casa da Liberdade - Mário Cesariny",
+        "rating": 4.6,
+        "address": "Junto à Igreja de Stº Estêvão, R. das Escolas Gerais 13, 1100-218 Lisboa, Portugal",
+        "latitude": 38.712699,
+        "longitude": -9.127918
+    },
+    {
+        "category": "art galleries",
+        "title": "Atelier Museu Júlio Pomar",
+        "rating": 4.3,
+        "address": "R. Vale 7, 1200-472 Lisboa, Portugal",
+        "latitude": 38.7113588,
+        "longitude": -9.1504256
+    },
+    {
+        "category": "art galleries",
+        "title": "Museu de Artes Decorativas",
+        "rating": 3.9,
+        "address": "Largo Portas do Sol 2, 1100-411 Lisboa, Portugal",
+        "latitude": 38.712094199999996,
+        "longitude": -9.1304509
+    },
+    {
+        "category": "art galleries",
+        "title": "Museu Banksy - Lisbon",
+        "rating": 4.6,
+        "address": "R. Viriato 25B, 1050-234 Lisboa, Portugal",
+        "latitude": 38.73169,
+        "longitude": -9.1476267
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum of Illusions Lisbon",
+        "rating": 4.4,
+        "address": "R. Ivens 62, 1200-227 Lisboa, Portugal",
+        "latitude": 38.710515,
+        "longitude": -9.140484599999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Medeiros & Almeida Museum",
+        "rating": 4.7,
+        "address": "R. Mouzinho da Silveira 4, 1250-194 Lisboa, Portugal",
+        "latitude": 38.7215679,
+        "longitude": -9.1490289
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum of Saint Anthony",
+        "rating": 4.3,
+        "address": "Largo Santo António da Sé 22, 1100-499 Lisboa, Portugal",
+        "latitude": 38.710146699999996,
+        "longitude": -9.1339299
+    },
+    {
+        "category": "art galleries",
+        "title": "Popular Art Museum",
+        "rating": 4.2,
+        "address": "Av. Brasília 202, 1400-038 Lisboa, Portugal",
+        "latitude": 38.6936404,
+        "longitude": -9.208185
+    },
+    {
+        "category": "art galleries",
+        "title": "Casa das Histórias Paula Rego",
+        "rating": 4.4,
+        "address": "Av. da República 300, 2750-475 Cascais, Portugal",
+        "latitude": 38.6950163,
+        "longitude": -9.4242764
+    },
+    {
+        "category": "theaters",
+        "title": "Capitólio",
+        "rating": 4.5,
+        "address": "Parque Mayer, 1250-164 Lisboa, Portugal",
+        "latitude": 38.7188762,
+        "longitude": -9.146637
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Politeama",
+        "rating": 4.6,
+        "address": "R. das Portas de Santo Antão 109, 1150-266 Lisboa, Portugal",
+        "latitude": 38.7165874,
+        "longitude": -9.140918
+    },
+    {
+        "category": "theaters",
+        "title": "Tivoli",
+        "rating": 4.6,
+        "address": "Av. da Liberdade 182 188, 1250-146 Lisboa, Portugal",
+        "latitude": 38.7203845,
+        "longitude": -9.1450896
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Nacional de São Carlos",
+        "rating": 4.7,
+        "address": "R. Serpa Pinto 9, 1200-442 Lisboa, Portugal",
+        "latitude": 38.709527699999995,
+        "longitude": -9.141758
+    },
+    {
+        "category": "theaters",
+        "title": "São Luiz Teatro Municipal",
+        "rating": 4.7,
+        "address": "R. António Maria Cardoso 38, 1200-027 Lisboa, Portugal",
+        "latitude": 38.7093062,
+        "longitude": -9.1424164
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro da Trindade INATEL",
+        "rating": 4.6,
+        "address": "R. Nova da Trindade 9, 1200-301 Lisboa, Portugal",
+        "latitude": 38.7119117,
+        "longitude": -9.142510999999999
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Nacional Dona Maria II",
+        "rating": 4.7,
+        "address": "Praça Dom Pedro IV, 1100-201 Lisboa, Portugal",
+        "latitude": 38.714800499999996,
+        "longitude": -9.139787499999999
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Maria Matos",
+        "rating": 4.6,
+        "address": "Av. Frei Miguel Contreiras 52, 1700-213 Lisboa, Portugal",
+        "latitude": 38.74595,
+        "longitude": -9.138745
+    },
+    {
+        "category": "theaters",
+        "title": "Maria Vitória Theater",
+        "rating": 4.4,
+        "address": "Parque Mayer, 1250-164 Lisboa, Portugal",
+        "latitude": 38.7190181,
+        "longitude": -9.1456407
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Camões",
+        "rating": 4.5,
+        "address": "Passeio Neptuno, 1990-193 Lisboa, Portugal",
+        "latitude": 38.7609408,
+        "longitude": -9.093347099999999
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Thalia",
+        "rating": 4.6,
+        "address": "Estrada das Laranjeiras 205, 1600-139 Lisboa, Portugal",
+        "latitude": 38.7448136,
+        "longitude": -9.1690984
+    },
+    {
+        "category": "theaters",
+        "title": "Comuna Theatre",
+        "rating": 4.4,
+        "address": "1070-060 Lisboa, Portugal",
+        "latitude": 38.7366333,
+        "longitude": -9.160588299999999
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Ibérico",
+        "rating": 4.4,
+        "address": "Rua de Xabregas 54, 1900-440 Lisboa, Portugal",
+        "latitude": 38.7265194,
+        "longitude": -9.1117472
+    },
+    {
+        "category": "theaters",
+        "title": "Theater A Barraca",
+        "rating": 4.3,
+        "address": "Largo Santos 2A, 1200-656 Lisboa, Portugal",
+        "latitude": 38.7070961,
+        "longitude": -9.1552809
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Aberto",
+        "rating": 4.6,
+        "address": "Rua Armando Cortez, Pç. de Espanha, 1070-375 Lisboa, Portugal",
+        "latitude": 38.7361322,
+        "longitude": -9.1587671
+    },
+    {
+        "category": "theaters",
+        "title": "Parque Mayer",
+        "rating": 4.2,
+        "address": "1250-096 Lisboa, Portugal",
+        "latitude": 38.7189591,
+        "longitude": -9.146185899999999
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Variedades",
+        "rating": 4.3,
+        "address": "Parque Mayer, 1250-164 Lisboa, Portugal",
+        "latitude": 38.7189593,
+        "longitude": -9.1459499
+    },
+    {
+        "category": "theaters",
+        "title": "Coliseu dos Recreios",
+        "rating": 4.5,
+        "address": "R. das Portas de Santo Antão 96, 1150-269 Lisboa, Portugal",
+        "latitude": 38.716743799999996,
+        "longitude": -9.140177699999999
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Abc",
+        "rating": 4.3,
+        "address": "Via Pietro Mascagni, 94, 95129 Catania CT, Italy",
+        "latitude": 37.5115797,
+        "longitude": 15.099057799999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir de Lisboa",
+        "rating": 4.6,
+        "address": "R. das Portas de Santo Antão 20, 1150-268 Lisboa, Portugal",
+        "latitude": 38.7154135,
+        "longitude": -9.139726699999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Alfama souvenirs",
+        "rating": 4.8,
+        "address": "R. das Escolas Gerais 126, 1100-221 Lisboa, Portugal",
+        "latitude": 38.7132967,
+        "longitude": -9.1301135
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs shop (부산아저씨 기념품가게)",
+        "rating": 4.8,
+        "address": "R. Barros Queirós 14, 1150-169 Lisboa, Portugal",
+        "latitude": 38.7148781,
+        "longitude": -9.1378647
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Lisbon Shop",
+        "rating": 4,
+        "address": "Rua do Arsenal 7, 1100-037 Lisboa, Portugal",
+        "latitude": 38.7079197,
+        "longitude": -9.1381965
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Amar Lisboa",
+        "rating": 4.9,
+        "address": "Campo das Cebolas 44, 1100-135 Lisboa, Portugal",
+        "latitude": 38.7089254,
+        "longitude": -9.1318299
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Lisboa Souvenir loja",
+        "rating": 5,
+        "address": "R da Adiça 2, 1100-118 Lisboa, Portugal",
+        "latitude": 38.7105338,
+        "longitude": -9.129575599999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Alfama Cork Gallery & Luggage Store",
+        "rating": 4.9,
+        "address": "R. das Escolas Gerais 90A, 1100-383 Lisboa, Portugal",
+        "latitude": 38.712908,
+        "longitude": -9.129272499999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs Santa Luzia",
+        "rating": 5,
+        "address": "R. de Santiago, 1100-538 Lisboa, Portugal",
+        "latitude": 38.7109678,
+        "longitude": -9.1308023
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Alfama Souvenir",
+        "rating": 4.9,
+        "address": "Calçadinha de Santo Estêvão 15, 1100-502 Lisboa, Portugal",
+        "latitude": 38.7117912,
+        "longitude": -9.1278747
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Por Ti Gal",
+        "rating": 4.6,
+        "address": "Av. Alm. Reis 79E, 1150-028 Lisboa, Portugal",
+        "latitude": 38.727513099999996,
+        "longitude": -9.1350284
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Shah souvenirs shop",
+        "rating": 4,
+        "address": "R. São Tomé, 1100-561 Lisboa, Portugal",
+        "latitude": 38.7134425,
+        "longitude": -9.1305395
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs Shop 부산아저씨 기념품가게 🇰🇷",
+        "rating": 5,
+        "address": "R. Barros Queirós No 32-36, 1100-076 Lisboa, Portugal",
+        "latitude": 38.7150111,
+        "longitude": -9.1381896
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Artesanato de Portugal",
+        "rating": 4.2,
+        "address": "Largo São Martinho 4, 1100-537 Lisboa, Portugal",
+        "latitude": 38.7105441,
+        "longitude": -9.131379599999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Alfama Shop - O Passeio da D. Sardinha e do Sr. Bacalhau",
+        "rating": 4.6,
+        "address": "R. dos Remédios 169, 1100-446 Lisboa, Portugal",
+        "latitude": 38.7132954,
+        "longitude": -9.1255378
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Carmo Gifts",
+        "rating": 5,
+        "address": "Calçada do Carmo 63, 1200-090 Lisboa, Portugal",
+        "latitude": 38.713090199999996,
+        "longitude": -9.140882099999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs Shop Of Lisbon",
+        "rating": 4,
+        "address": "R. do Norte 48, 1200-141 Lisboa, Portugal",
+        "latitude": 38.7115661,
+        "longitude": -9.1436985
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Porta Azul 85",
+        "rating": 4.9,
+        "address": "Rua de S. Paulo n.º 85 Loja, 1200-427 Lisboa, Portugal",
+        "latitude": 38.708333599999996,
+        "longitude": -9.1463041
+    },
+    {
+        "category": "souvenir counters",
+        "title": "SOMA IDEAS - Lisboa",
+        "rating": 4.6,
+        "address": "R. dos Fanqueiros 98, 1100-232 Lisboa, Portugal",
+        "latitude": 38.7103105,
+        "longitude": -9.1357135
+    },
+    {
+        "category": "souvenir counters",
+        "title": "The Fantastic World Of Portuguese Sardines",
+        "rating": 4.3,
+        "address": "Praça Dom Pedro IV 39, 1100-200 Lisboa, Portugal",
+        "latitude": 38.7135807,
+        "longitude": -9.1399169
+    },
+    {
+        "category": "souvenir counters",
+        "title": "SOUVENIR STORE",
+        "rating": 4.7,
+        "address": "Av. Alm. Reis 31F, 1150-009 Lisboa, Portugal",
+        "latitude": 38.7231281,
+        "longitude": -9.1354188
+    }
+]

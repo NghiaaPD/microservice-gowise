@@ -8,6 +8,7 @@ pkill -f 'discovery-server'
 pkill -f 'demo'
 pkill -f 'auth-service'
 pkill -f 'user-service'
+pkill -f 'gallery-service'
 
 lsof -ti :8001-8003,8085 | xargs -r kill -9
 

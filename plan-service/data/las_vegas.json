@@ -1,0 +1,3890 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "STRAT SkyPod",
+        "rating": 4.5,
+        "address": "2000 S Las Vegas Blvd, Las Vegas, NV 89104",
+        "latitude": 36.147483799999996,
+        "longitude": -115.1559753
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Madame Tussauds Las Vegas",
+        "rating": 4.5,
+        "address": "3377 S Las Vegas Blvd Ste. 2001, Las Vegas, NV 89109",
+        "latitude": 36.12123,
+        "longitude": -115.1714421
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Welcome to Fabulous Las Vegas Sign",
+        "rating": 4.6,
+        "address": "5100 Las Vegas Blvd S, Las Vegas, NV 89119",
+        "latitude": 36.0820727,
+        "longitude": -115.17277899999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Gondola Rides",
+        "rating": 4.4,
+        "address": "3355 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1225125,
+        "longitude": -115.1705971
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Old Las Vegas Mormon Fort State Historic Park",
+        "rating": 4.6,
+        "address": "500 E Washington Ave, Las Vegas, NV 89101",
+        "latitude": 36.1806609,
+        "longitude": -115.133551
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Shark Reef Aquarium at Mandalay Bay",
+        "rating": 4.4,
+        "address": "3950 S Las Vegas Blvd, Las Vegas, NV 89119",
+        "latitude": 36.0887734,
+        "longitude": -115.1764706
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Bellagio Conservatory & Botanical Gardens",
+        "rating": 4.8,
+        "address": "Bellagio Hotel & Casino, 3600 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1119912,
+        "longitude": -115.1765648
+    },
+    {
+        "category": "tourist attractions",
+        "title": "The Mob Museum",
+        "rating": 4.6,
+        "address": "300 Stewart Ave, Las Vegas, NV 89101",
+        "latitude": 36.1728198,
+        "longitude": -115.1412395
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Fountains of Bellagio",
+        "rating": 4.8,
+        "address": "3600 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.112718699999995,
+        "longitude": -115.1739109
+    },
+    {
+        "category": "tourist attractions",
+        "title": "The Las Vegas Strip",
+        "rating": 4.6,
+        "address": "S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1152985,
+        "longitude": -115.1731755
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Las Vegas Science & Natural History Museum",
+        "rating": 4.5,
+        "address": "900 Las Vegas Blvd N, Las Vegas, NV 89101",
+        "latitude": 36.1798749,
+        "longitude": -115.13382059999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Historic Downtown Las Vegas",
+        "rating": 4.6,
+        "address": "50 Las Vegas Blvd N, Las Vegas, NV 89101",
+        "latitude": 36.1694752,
+        "longitude": -115.1412235
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Vegas Vic - Famous Neon Cowboy Sign",
+        "rating": 4.6,
+        "address": "25 Fremont St, Las Vegas, NV 89101",
+        "latitude": 36.171123699999995,
+        "longitude": -115.1453502
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Las Vegas Boulevard Gateway Arches",
+        "rating": 4.6,
+        "address": "1998 S Las Vegas Blvd, Las Vegas, NV 89104",
+        "latitude": 36.1468597,
+        "longitude": -115.15535179999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Fremont Street Experience",
+        "rating": 4.6,
+        "address": "Fremont St, Las Vegas, NV 89101",
+        "latitude": 36.1707275,
+        "longitude": -115.14382289999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Eiffel Tower Viewing Deck",
+        "rating": 4.6,
+        "address": "3655 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "latitude": 36.1124833,
+        "longitude": -115.17251019999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "SkyJump",
+        "rating": 4.3,
+        "address": "2000 Las Vegas Blvd S, Las Vegas, NV 89104",
+        "latitude": 36.1476134,
+        "longitude": -115.1563965
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Las Vegas Skyline View",
+        "rating": 4.6,
+        "address": "7589-7599, NV-147, Las Vegas, NV 89156",
+        "latitude": 36.1989022,
+        "longitude": -115.0076172
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Magical Forest and HallOVeen at Opportunity Village",
+        "rating": 4.4,
+        "address": "6300 W Oakey Blvd, Las Vegas, NV 89146",
+        "latitude": 36.152772899999995,
+        "longitude": -115.2325843
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Lake of Dreams",
+        "rating": 4.7,
+        "address": "3131 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "latitude": 36.126304399999995,
+        "longitude": -115.1670561
+    },
+    {
+        "category": "parks",
+        "title": "Floyd Lamb Park",
+        "rating": 4.7,
+        "address": "9200 Tule Springs Rd, Las Vegas, NV 89131",
+        "latitude": 36.3215465,
+        "longitude": -115.2685145
+    },
+    {
+        "category": "parks",
+        "title": "Lorenzi Park",
+        "rating": 4.3,
+        "address": "3333 W Washington Ave, Las Vegas, NV 89107",
+        "latitude": 36.179476699999995,
+        "longitude": -115.1852145
+    },
+    {
+        "category": "parks",
+        "title": "Sunset Park",
+        "rating": 4.6,
+        "address": "2601 E Sunset Rd, Las Vegas, NV 89120",
+        "latitude": 36.065649,
+        "longitude": -115.111595
+    },
+    {
+        "category": "parks",
+        "title": "Centennial Hills Park",
+        "rating": 4.6,
+        "address": "7101 N Buffalo Dr, Las Vegas, NV 89131",
+        "latitude": 36.288882099999995,
+        "longitude": -115.26097209999999
+    },
+    {
+        "category": "parks",
+        "title": "Clark County Wetlands Park",
+        "rating": 4.7,
+        "address": "7050 Wetlands Park Ln, Las Vegas, NV 89122",
+        "latitude": 36.101116399999995,
+        "longitude": -115.0231015
+    },
+    {
+        "category": "parks",
+        "title": "Lone Mountain Park",
+        "rating": 4.8,
+        "address": "4445 N Jensen St, Las Vegas, NV 89129",
+        "latitude": 36.2416315,
+        "longitude": -115.3101825
+    },
+    {
+        "category": "parks",
+        "title": "Exploration Peak Park",
+        "rating": 4.8,
+        "address": "9275 S Buffalo Dr, Las Vegas, NV 89178",
+        "latitude": 36.014114899999996,
+        "longitude": -115.2609305
+    },
+    {
+        "category": "parks",
+        "title": "Bob Baskin Park",
+        "rating": 4.5,
+        "address": "2801 W Oakey Blvd, Las Vegas, NV 89102",
+        "latitude": 36.1509834,
+        "longitude": -115.1803935
+    },
+    {
+        "category": "parks",
+        "title": "Rainbow Family Park",
+        "rating": 4.5,
+        "address": "7151 W Oakey Blvd, Las Vegas, NV 89117",
+        "latitude": 36.1498269,
+        "longitude": -115.2478639
+    },
+    {
+        "category": "parks",
+        "title": "Craig Ranch Regional Park",
+        "rating": 4.6,
+        "address": "628 W Craig Rd, North Las Vegas, NV 89032",
+        "latitude": 36.2434428,
+        "longitude": -115.1500008
+    },
+    {
+        "category": "parks",
+        "title": "Charlie Frias Park",
+        "rating": 4.2,
+        "address": "5250 W Tropicana Ave, Las Vegas, NV 89103",
+        "latitude": 36.1007178,
+        "longitude": -115.21308069999999
+    },
+    {
+        "category": "parks",
+        "title": "East Las Vegas Family Park",
+        "rating": 4.4,
+        "address": "4480 E Washington Ave, Las Vegas, NV 89110",
+        "latitude": 36.181768,
+        "longitude": -115.077309
+    },
+    {
+        "category": "parks",
+        "title": "Gardens Park",
+        "rating": 4.8,
+        "address": "10401 Garden Park Dr, Las Vegas, NV 89135",
+        "latitude": 36.126190099999995,
+        "longitude": -115.3219096
+    },
+    {
+        "category": "parks",
+        "title": "Lone Mountain Regional Park",
+        "rating": 4.7,
+        "address": "9825 W Lone Mountain Rd, Las Vegas, NV 89129",
+        "latitude": 36.2470977,
+        "longitude": -115.31161999999999
+    },
+    {
+        "category": "parks",
+        "title": "Polly Gonzalez Park",
+        "rating": 4.5,
+        "address": "5425 Corbett St, Las Vegas, NV 89130",
+        "latitude": 36.2659064,
+        "longitude": -115.2171003
+    },
+    {
+        "category": "parks",
+        "title": "Gary Reese Freedom Park",
+        "rating": 4.4,
+        "address": "850 N Mojave Rd, Las Vegas, NV 89101",
+        "latitude": 36.178688199999996,
+        "longitude": -115.10094009999999
+    },
+    {
+        "category": "parks",
+        "title": "Majestic Park",
+        "rating": 4.5,
+        "address": "3997 N Hualapai Way, Las Vegas, NV 89129",
+        "latitude": 36.2311111,
+        "longitude": -115.3130556
+    },
+    {
+        "category": "parks",
+        "title": "Desert Breeze Park",
+        "rating": 4.5,
+        "address": "8275 W Spring Mountain Rd, Las Vegas, NV 89117",
+        "latitude": 36.1255691,
+        "longitude": -115.2732515
+    },
+    {
+        "category": "parks",
+        "title": "Mountain's Edge Regional Park",
+        "rating": 4.7,
+        "address": "8101 W Mountains Edge Pkwy, Las Vegas, NV 89178",
+        "latitude": 36.004019,
+        "longitude": -115.2679833
+    },
+    {
+        "category": "parks",
+        "title": "Barkin Basin Park",
+        "rating": 4.6,
+        "address": "7351 W Alexander Rd, Las Vegas, NV 89129",
+        "latitude": 36.2306625,
+        "longitude": -115.25303889999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Mon Ami Gabi",
+        "rating": 4.7,
+        "address": "3655 S Las Vegas Blvd South, Las Vegas, NV 89109",
+        "latitude": 36.1128631,
+        "longitude": -115.17248459999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Gordon Ramsay Hell's Kitchen",
+        "rating": 4.4,
+        "address": "3570 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "latitude": 36.1157296,
+        "longitude": -115.17323209999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Sparrow + Wolf",
+        "rating": 4.7,
+        "address": "4480 Spring Mountain Rd #100, Las Vegas, NV 89102",
+        "latitude": 36.1265479,
+        "longitude": -115.2012681
+    },
+    {
+        "category": "restaurants",
+        "title": "The Original Lindo Michoacan",
+        "rating": 4.6,
+        "address": "2655 E Desert Inn Rd, Las Vegas, NV 89121",
+        "latitude": 36.1294204,
+        "longitude": -115.11352029999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Esther's Kitchen",
+        "rating": 4.6,
+        "address": "1131 S Main St, Las Vegas, NV 89104",
+        "latitude": 36.1576619,
+        "longitude": -115.15338249999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Nacho Daddy - Downtown",
+        "rating": 4.4,
+        "address": "121 N 4th St, Las Vegas, NV 89101",
+        "latitude": 36.1704723,
+        "longitude": -115.1414959
+    },
+    {
+        "category": "restaurants",
+        "title": "Chin Chin Las Vegas",
+        "rating": 4.4,
+        "address": "3790 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.102463,
+        "longitude": -115.17465399999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Top of the World",
+        "rating": 4.3,
+        "address": "2000 Las Vegas Blvd S, Las Vegas, NV 89104",
+        "latitude": 36.1474451,
+        "longitude": -115.15568859999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Carson Kitchen",
+        "rating": 4.6,
+        "address": "124 S 6th St #100, Las Vegas, NV 89101",
+        "latitude": 36.1679008,
+        "longitude": -115.1407072
+    },
+    {
+        "category": "restaurants",
+        "title": "Main St. Provisions",
+        "rating": 4.8,
+        "address": "1214 S Main St, Las Vegas, NV 89104",
+        "latitude": 36.1568043,
+        "longitude": -115.1538393
+    },
+    {
+        "category": "restaurants",
+        "title": "Omelet House",
+        "rating": 4.7,
+        "address": "2160 W Charleston Blvd A, Las Vegas, NV 89102",
+        "latitude": 36.1597728,
+        "longitude": -115.1712443
+    },
+    {
+        "category": "restaurants",
+        "title": "Ocean Prime Las Vegas",
+        "rating": 4.7,
+        "address": "3716 S Las Vegas Blvd #401, Las Vegas, NV 89158",
+        "latitude": 36.1088557,
+        "longitude": -115.1744853
+    },
+    {
+        "category": "restaurants",
+        "title": "Alexxa's",
+        "rating": 4.3,
+        "address": "3655 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1120228,
+        "longitude": -115.1725027
+    },
+    {
+        "category": "restaurants",
+        "title": "EGGscellent breakfast and Lunch",
+        "rating": 4.8,
+        "address": "2534 E Desert Inn Rd, Las Vegas, NV 89121",
+        "latitude": 36.1308692,
+        "longitude": -115.1153332
+    },
+    {
+        "category": "restaurants",
+        "title": "Golden Steer Steakhouse Las Vegas",
+        "rating": 4.6,
+        "address": "308 W Sahara Ave, Las Vegas, NV 89102",
+        "latitude": 36.1441637,
+        "longitude": -115.16119619999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Herbs and Rye",
+        "rating": 4.7,
+        "address": "3713 W Sahara Ave, Las Vegas, NV 89102",
+        "latitude": 36.1440401,
+        "longitude": -115.19178769999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Hash House A Go Go",
+        "rating": 4.5,
+        "address": "1 S Main St, Las Vegas, NV 89101",
+        "latitude": 36.171906,
+        "longitude": -115.14688029999999
+    },
+    {
+        "category": "restaurants",
+        "title": "7th & Carson",
+        "rating": 4.6,
+        "address": "616 E Carson Ave #110, Las Vegas, NV 89101",
+        "latitude": 36.1672888,
+        "longitude": -115.1392712
+    },
+    {
+        "category": "restaurants",
+        "title": "Triple George Grill",
+        "rating": 4.5,
+        "address": "201 N 3rd St, Las Vegas, NV 89101",
+        "latitude": 36.171884,
+        "longitude": -115.1421969
+    },
+    {
+        "category": "restaurants",
+        "title": "Evel Pie",
+        "rating": 4.6,
+        "address": "508 Fremont St, Las Vegas, NV 89101",
+        "latitude": 36.1692398,
+        "longitude": -115.14007889999999
+    },
+    {
+        "category": "cafes",
+        "title": "Bungalow Coffee Co",
+        "rating": 4.7,
+        "address": "201 E Charleston Blvd Suite 180, Las Vegas, NV 89104",
+        "latitude": 36.1590093,
+        "longitude": -115.1513533
+    },
+    {
+        "category": "cafes",
+        "title": "Makers & Finders",
+        "rating": 4.4,
+        "address": "1120 S Main St Suite 110, Las Vegas, NV 89104",
+        "latitude": 36.1578972,
+        "longitude": -115.15394479999999
+    },
+    {
+        "category": "cafes",
+        "title": "Mothership Coffee Roasters",
+        "rating": 4.7,
+        "address": "1028 E Fremont St STE B122, Las Vegas, NV 89101",
+        "latitude": 36.1670072,
+        "longitude": -115.13387519999999
+    },
+    {
+        "category": "cafes",
+        "title": "Alchemy Coffee",
+        "rating": 4.8,
+        "address": "5660 S Hualapai Wy Suite 104, Las Vegas, NV 89148",
+        "latitude": 36.0858671,
+        "longitude": -115.31487449999999
+    },
+    {
+        "category": "cafes",
+        "title": "Vesta Coffee Roasters",
+        "rating": 4.7,
+        "address": "1114 S Casino Center Blvd #1, Las Vegas, NV 89104",
+        "latitude": 36.1581356,
+        "longitude": -115.1524405
+    },
+    {
+        "category": "cafes",
+        "title": "PublicUs",
+        "rating": 4.6,
+        "address": "1126 E Fremont St, Las Vegas, NV 89101",
+        "latitude": 36.1657782,
+        "longitude": -115.13296199999999
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee Pub",
+        "rating": 4.7,
+        "address": "2800 W Sahara Ave #2a, Las Vegas, NV 89102",
+        "latitude": 36.1450424,
+        "longitude": -115.17904659999999
+    },
+    {
+        "category": "cafes",
+        "title": "Gäbi Coffee & Bakery",
+        "rating": 4.5,
+        "address": "5808 Spring Mountain Rd #104, Las Vegas, NV 89146",
+        "latitude": 36.1260036,
+        "longitude": -115.22180639999999
+    },
+    {
+        "category": "cafes",
+        "title": "Daily Dose Cafe",
+        "rating": 4.8,
+        "address": "365 Lewis Ave, Las Vegas, NV 89101",
+        "latitude": 36.1662907,
+        "longitude": -115.144508
+    },
+    {
+        "category": "cafes",
+        "title": "Parlour Coffee and Cooking",
+        "rating": 4.7,
+        "address": "616 E Carson Ave Suite #140, Las Vegas, NV 89101",
+        "latitude": 36.1674152,
+        "longitude": -115.13948459999999
+    },
+    {
+        "category": "cafes",
+        "title": "Baguette Cafe",
+        "rating": 4.9,
+        "address": "211 Las Vegas Blvd S ste 110, Las Vegas, NV 89101",
+        "latitude": 36.1673569,
+        "longitude": -115.14061509999999
+    },
+    {
+        "category": "cafes",
+        "title": "Sambalatte",
+        "rating": 4.4,
+        "address": "750 S Rampart Blvd, Las Vegas, NV 89145",
+        "latitude": 36.1641915,
+        "longitude": -115.2896895
+    },
+    {
+        "category": "cafes",
+        "title": "Dig It! Coffee Co.",
+        "rating": 4.8,
+        "address": "1300 S Casino Center Blvd Unit 110, Las Vegas, NV 89104",
+        "latitude": 36.155895,
+        "longitude": -115.152824
+    },
+    {
+        "category": "cafes",
+        "title": "Leone Café",
+        "rating": 4.4,
+        "address": "400 S Rampart Blvd #10165, Las Vegas, NV 89145",
+        "latitude": 36.1671,
+        "longitude": -115.2867667
+    },
+    {
+        "category": "cafes",
+        "title": "Iwana Specialty Coffee Roasters",
+        "rating": 4.8,
+        "address": "61 W Utah Ave #101, Las Vegas, NV 89102",
+        "latitude": 36.153397999999996,
+        "longitude": -115.1547622
+    },
+    {
+        "category": "cafes",
+        "title": "Broken Coffee",
+        "rating": 4.9,
+        "address": "8610 W Spring Mountain Rd, Las Vegas, NV 89117",
+        "latitude": 36.1265685,
+        "longitude": -115.27990729999999
+    },
+    {
+        "category": "cafes",
+        "title": "Desert Wind Coffee Roasters",
+        "rating": 4.8,
+        "address": "7772 W Sahara Ave, Las Vegas, NV 89117",
+        "latitude": 36.1446537,
+        "longitude": -115.26005909999999
+    },
+    {
+        "category": "cafes",
+        "title": "Yaw Farm Coffee Roaster",
+        "rating": 4.9,
+        "address": "7034 W Charleston Blvd, Las Vegas, NV 89117",
+        "latitude": 36.159337799999996,
+        "longitude": -115.2517178
+    },
+    {
+        "category": "cafes",
+        "title": "AmeriBrunch Cafe",
+        "rating": 4.8,
+        "address": "316 E Bridger Ave, Las Vegas, NV 89101",
+        "latitude": 36.1677517,
+        "longitude": -115.1436612
+    },
+    {
+        "category": "cafes",
+        "title": "Aware Coffee",
+        "rating": 4.7,
+        "address": "5590 Painted Mirage Rd #130, Las Vegas, NV 89149",
+        "latitude": 36.2626527,
+        "longitude": -115.2561145
+    },
+    {
+        "category": "mountains",
+        "title": "Red Rock Canyon",
+        "rating": 4.8,
+        "address": "Nevada 89161",
+        "latitude": 36.1326065,
+        "longitude": -115.4243374
+    },
+    {
+        "category": "mountains",
+        "title": "Frenchman Mountain",
+        "rating": 4.7,
+        "address": "Sunrise Manor, NV 89156",
+        "latitude": 36.179166599999995,
+        "longitude": -114.9977777
+    },
+    {
+        "category": "mountains",
+        "title": "Black Mountain",
+        "rating": 4.7,
+        "address": "Nevada 89052",
+        "latitude": 35.9308116,
+        "longitude": -115.04276829999999
+    },
+    {
+        "category": "mountains",
+        "title": "La Madre Mountains Wilderness",
+        "rating": 4.5,
+        "address": "Nevada 89161",
+        "latitude": 36.212744,
+        "longitude": -115.4597323
+    },
+    {
+        "category": "mountains",
+        "title": "Charleston Peak",
+        "rating": 4.7,
+        "address": "Mt Charleston, NV 89124",
+        "latitude": 36.2721848,
+        "longitude": -115.6950191
+    },
+    {
+        "category": "mountains",
+        "title": "Lone Mountain",
+        "rating": 4.8,
+        "address": "Las Vegas, NV 89129",
+        "latitude": 36.2382996,
+        "longitude": -115.31639609999999
+    },
+    {
+        "category": "mountains",
+        "title": "Gass Peak",
+        "rating": 4.7,
+        "address": "Nevada 89025",
+        "latitude": 36.4005222,
+        "longitude": -115.1802852
+    },
+    {
+        "category": "mountains",
+        "title": "Spring Mountains",
+        "rating": 4.9,
+        "address": "Nevada 89124",
+        "latitude": 36.2099636,
+        "longitude": -115.70557369999999
+    },
+    {
+        "category": "mountains",
+        "title": "Red Rock Canyon National Conservation Area",
+        "rating": 4.8,
+        "address": "Mountain Springs, NV 89161",
+        "latitude": 36.1944273,
+        "longitude": -115.4382967
+    },
+    {
+        "category": "mountains",
+        "title": "Lone Mountain Peak",
+        "rating": 4.8,
+        "address": "Las Vegas, NV 89129",
+        "latitude": 36.2382677,
+        "longitude": -115.31515089999999
+    },
+    {
+        "category": "mountains",
+        "title": "Spring Mountain Ranch State Park",
+        "rating": 4.6,
+        "address": "6375 NV-159, Blue Diamond, NV 89004",
+        "latitude": 36.0735706,
+        "longitude": -115.4443859
+    },
+    {
+        "category": "mountains",
+        "title": "Turtlehead Mountain",
+        "rating": 4.8,
+        "address": "Nevada 89161",
+        "latitude": 36.1802449,
+        "longitude": -115.44639769999999
+    },
+    {
+        "category": "mountains",
+        "title": "Kraft Mountain",
+        "rating": 4,
+        "address": "Nevada 89161",
+        "latitude": 36.1650202,
+        "longitude": -115.4215244
+    },
+    {
+        "category": "mountains",
+        "title": "Red Rock Canyon Overlook",
+        "rating": 4.8,
+        "address": "3205 NV-159, Las Vegas, NV 89161",
+        "latitude": 36.1171083,
+        "longitude": -115.4447558
+    },
+    {
+        "category": "mountains",
+        "title": "Lone Mountain Park",
+        "rating": 4.8,
+        "address": "4445 N Jensen St, Las Vegas, NV 89129",
+        "latitude": 36.2416315,
+        "longitude": -115.3101825
+    },
+    {
+        "category": "mountains",
+        "title": "Kraft Mountain Loop Trail",
+        "rating": 4.9,
+        "address": "1375 Sandstone Dr, Las Vegas, NV 89161",
+        "latitude": 36.1571159,
+        "longitude": -115.4201367
+    },
+    {
+        "category": "mountains",
+        "title": "Mt. Charleston Wilderness",
+        "rating": 4.9,
+        "address": "Mt Charleston, NV 89124",
+        "latitude": 36.2571855,
+        "longitude": -115.6427949
+    },
+    {
+        "category": "mountains",
+        "title": "Lava Butte",
+        "rating": 5,
+        "address": "Nevada 89011",
+        "latitude": 36.1485859,
+        "longitude": -114.93721649999999
+    },
+    {
+        "category": "mountains",
+        "title": "Lone Mountain Trailhead",
+        "rating": 4.8,
+        "address": "Las Vegas, NV 89129",
+        "latitude": 36.2402155,
+        "longitude": -115.3198381
+    },
+    {
+        "category": "mountains",
+        "title": "Pink Goblin Pass",
+        "rating": 4.6,
+        "address": "Hell Hill Trail, Las Vegas, NV 89161",
+        "latitude": 36.1662915,
+        "longitude": -115.4267239
+    },
+    {
+        "category": "waterfalls",
+        "title": "Big Falls",
+        "rating": 4.9,
+        "address": "Mt Charleston, NV 89124",
+        "latitude": 36.2688517,
+        "longitude": -115.6772407
+    },
+    {
+        "category": "waterfalls",
+        "title": "Mary Jane Falls",
+        "rating": 4.8,
+        "address": "Mt Charleston, NV 89124",
+        "latitude": 36.279356899999996,
+        "longitude": -115.67115059999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Mystic Falls Park",
+        "rating": 4.6,
+        "address": "5111 Boulder Hwy, Las Vegas, NV 89122",
+        "latitude": 36.112998399999995,
+        "longitude": -115.0625156
+    },
+    {
+        "category": "waterfalls",
+        "title": "Little Falls",
+        "rating": 4.7,
+        "address": "Mt Charleston, NV 89124",
+        "latitude": 36.2549632,
+        "longitude": -115.65585089999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Lost Creek Canyon",
+        "rating": 4.8,
+        "address": "Children's Discovery Trail, Las Vegas, NV 89161",
+        "latitude": 36.157233999999995,
+        "longitude": -115.497205
+    },
+    {
+        "category": "waterfalls",
+        "title": "Waterfall Community",
+        "rating": 4.1,
+        "address": "4021 Lower Saxon Ave, North Las Vegas, NV 89085",
+        "latitude": 36.3118293,
+        "longitude": -115.19435809999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Red Rock Canyon National Conservation Area",
+        "rating": 4.8,
+        "address": "Mountain Springs, NV 89161",
+        "latitude": 36.1944273,
+        "longitude": -115.4382967
+    },
+    {
+        "category": "waterfalls",
+        "title": "First Creek Trail",
+        "rating": 4.7,
+        "address": "First Creek, Las Vegas, NV 89161",
+        "latitude": 36.080149399999996,
+        "longitude": -115.4617569
+    },
+    {
+        "category": "waterfalls",
+        "title": "First Creek Waterfall",
+        "rating": 4.8,
+        "address": "3GJM+5Q, Blue Diamond, NV 89161",
+        "latitude": 36.080597399999995,
+        "longitude": -115.46490779999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Mountain Falls",
+        "rating": null,
+        "address": "10161 W Park Run Dr, Las Vegas, NV 89145",
+        "latitude": 36.1609115,
+        "longitude": -115.31696149999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Calico Tanks Trail",
+        "rating": 4.9,
+        "address": "Calico Tanks, Las Vegas, NV 89161",
+        "latitude": 36.1644186,
+        "longitude": -115.444572
+    },
+    {
+        "category": "waterfalls",
+        "title": "Kings Canyon Waterfalls",
+        "rating": 4.7,
+        "address": "Kings Canyon Rd, Carson City, NV 89703",
+        "latitude": 39.1551562,
+        "longitude": -119.81790249999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Clark County Wetlands Park",
+        "rating": 4.7,
+        "address": "7050 Wetlands Park Ln, Las Vegas, NV 89122",
+        "latitude": 36.101116399999995,
+        "longitude": -115.0231015
+    },
+    {
+        "category": "waterfalls",
+        "title": "Bellagio Conservatory & Botanical Gardens",
+        "rating": 4.8,
+        "address": "Bellagio Hotel & Casino, 3600 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1119912,
+        "longitude": -115.1765648
+    },
+    {
+        "category": "waterfalls",
+        "title": "First Creek Trailhead",
+        "rating": 4.8,
+        "address": "NV-159, Las Vegas, NV 89161",
+        "latitude": 36.081198799999996,
+        "longitude": -115.44816879999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Exploration Peak Park",
+        "rating": 4.8,
+        "address": "9275 S Buffalo Dr, Las Vegas, NV 89178",
+        "latitude": 36.014114899999996,
+        "longitude": -115.2609305
+    },
+    {
+        "category": "waterfalls",
+        "title": "Valley of Fire State Park",
+        "rating": 4.8,
+        "address": "Moapa Valley, NV 89040",
+        "latitude": 36.4756593,
+        "longitude": -114.5383925
+    },
+    {
+        "category": "waterfalls",
+        "title": "Lake Las Vegas Overlook",
+        "rating": 4.6,
+        "address": "Las Vegas, NV 89011",
+        "latitude": 36.112312599999996,
+        "longitude": -114.94820589999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Mary Jane Falls Trailhead",
+        "rating": 4.8,
+        "address": "6-34 Kyle Canyon Rd, Mt Charleston, NV 89124",
+        "latitude": 36.2672458,
+        "longitude": -115.6624257
+    },
+    {
+        "category": "waterfalls",
+        "title": "Mooney Falls",
+        "rating": 4.9,
+        "address": "Supai, AZ 86435",
+        "latitude": 36.263153599999995,
+        "longitude": -112.70840229999999
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Las Vegas",
+        "rating": 4.6,
+        "address": "Henderson, NV 89011",
+        "latitude": 36.1174726,
+        "longitude": -114.91757129999999
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Mead",
+        "rating": 4.6,
+        "address": null,
+        "latitude": 36.143523099999996,
+        "longitude": -114.4144415
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Jacqueline",
+        "rating": 4.8,
+        "address": "Las Vegas, NV 89128",
+        "latitude": 36.2099093,
+        "longitude": -115.26838559999999
+    },
+    {
+        "category": "lakes",
+        "title": "Tule Springs Lake",
+        "rating": 4.3,
+        "address": "Las Vegas, NV 89131",
+        "latitude": 36.323012,
+        "longitude": -115.2680151
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Sahara",
+        "rating": 4.7,
+        "address": "Las Vegas, NV 89117",
+        "latitude": 36.136103899999995,
+        "longitude": -115.2863514
+    },
+    {
+        "category": "lakes",
+        "title": "Mulberry Lake",
+        "rating": 4.5,
+        "address": "Las Vegas, NV 89131",
+        "latitude": 36.3246312,
+        "longitude": -115.26505159999999
+    },
+    {
+        "category": "lakes",
+        "title": "Eagle Valley Reservoir",
+        "rating": 4.6,
+        "address": "Nevada 89043",
+        "latitude": 38.022591899999995,
+        "longitude": -114.194839
+    },
+    {
+        "category": "lakes",
+        "title": "Sunset Park Pond",
+        "rating": 4.2,
+        "address": "Paradise, NV 89120",
+        "latitude": 36.0659442,
+        "longitude": -115.1136885
+    },
+    {
+        "category": "beaches",
+        "title": "Boulder Beach",
+        "rating": 4.4,
+        "address": "Boulder City, NV 89005",
+        "latitude": 36.046551699999995,
+        "longitude": -114.7962156
+    },
+    {
+        "category": "beaches",
+        "title": "Swim Beach",
+        "rating": 4.2,
+        "address": "Nevada 89005",
+        "latitude": 36.042757099999996,
+        "longitude": -114.7999856
+    },
+    {
+        "category": "beaches",
+        "title": "South Beach",
+        "rating": 5,
+        "address": "Nevada 89005",
+        "latitude": 36.035812899999996,
+        "longitude": -114.7877626
+    },
+    {
+        "category": "beaches",
+        "title": "Mandalay Bay Beach",
+        "rating": 4.5,
+        "address": "3950 S Las Vegas Blvd, Las Vegas, NV 89119",
+        "latitude": 36.0921847,
+        "longitude": -115.1748583
+    },
+    {
+        "category": "beaches",
+        "title": "Moorea Beach Club",
+        "rating": 4.5,
+        "address": "3950 S Las Vegas Blvd, Mandalay Bay Rd, Las Vegas, NV 89119",
+        "latitude": 36.0900667,
+        "longitude": -115.17525839999999
+    },
+    {
+        "category": "beaches",
+        "title": "Lake Jacqueline",
+        "rating": 4.5,
+        "address": "2509-2501 Mariner Dr, Las Vegas, NV 89128",
+        "latitude": 36.2048498,
+        "longitude": -115.2648633
+    },
+    {
+        "category": "beaches",
+        "title": "Delano Beach Club",
+        "rating": 4.4,
+        "address": "3940 S Las Vegas Blvd Delano, Las Vegas, NV 89119",
+        "latitude": 36.090934499999996,
+        "longitude": -115.17503649999999
+    },
+    {
+        "category": "beaches",
+        "title": "Daylight Beach Club",
+        "rating": 4,
+        "address": "3950 S Las Vegas Blvd, Mandalay Bay Rd, Las Vegas, NV 89119",
+        "latitude": 36.089431499999996,
+        "longitude": -115.17491299999999
+    },
+    {
+        "category": "beaches",
+        "title": "LIV Beach Las Vegas",
+        "rating": 3.3,
+        "address": "2777 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.136992,
+        "longitude": -115.1608583
+    },
+    {
+        "category": "beaches",
+        "title": "Boulder Beach",
+        "rating": 4,
+        "address": "Nevada 89005",
+        "latitude": 36.0385906,
+        "longitude": -114.79137399999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Municipal Pool - City of Las Vegas Parks, Recreational & Cultural",
+        "rating": 4.4,
+        "address": "431 E Bonanza Rd, Las Vegas, NV 89101",
+        "latitude": 36.1748775,
+        "longitude": -115.1393531
+    },
+    {
+        "category": "swimming pools",
+        "title": "Desert Breeze Aquatic Center",
+        "rating": 4.3,
+        "address": "8275 Spring Mountain Rd, Las Vegas, NV 89117",
+        "latitude": 36.1249523,
+        "longitude": -115.2716324
+    },
+    {
+        "category": "swimming pools",
+        "title": "Mandalay Bay Beach",
+        "rating": 4.5,
+        "address": "3950 S Las Vegas Blvd, Las Vegas, NV 89119",
+        "latitude": 36.0921847,
+        "longitude": -115.1748583
+    },
+    {
+        "category": "swimming pools",
+        "title": "Pavilion Center Pool",
+        "rating": 4.4,
+        "address": "101 S Pavilion Center Dr, Las Vegas, NV 89144",
+        "latitude": 36.172837,
+        "longitude": -115.3340697
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hollywood Aquatic Center",
+        "rating": 4.5,
+        "address": "1550 S Hollywood Blvd, Las Vegas, NV 89142",
+        "latitude": 36.1548958,
+        "longitude": -115.0254745
+    },
+    {
+        "category": "swimming pools",
+        "title": "Stadium Swim",
+        "rating": 4.2,
+        "address": "8 Fremont St, Las Vegas, NV 89101",
+        "latitude": 36.1722749,
+        "longitude": -115.1456448
+    },
+    {
+        "category": "swimming pools",
+        "title": "Garside Pool",
+        "rating": 4.3,
+        "address": "250 S Torrey Pines Dr, Las Vegas, NV 89107",
+        "latitude": 36.170242,
+        "longitude": -115.23339539999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Blu Pool at Horseshoe Las Vegas",
+        "rating": 4.2,
+        "address": "3645 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "latitude": 36.1131761,
+        "longitude": -115.1671942
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bellagio Pool",
+        "rating": 4.6,
+        "address": "Bellagio Hotel & Casino, 3600 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.113316,
+        "longitude": -115.17679419999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Aquatic Springs",
+        "rating": 4.5,
+        "address": "7025 S Fort Apache Rd, Las Vegas, NV 89148",
+        "latitude": 36.060488899999996,
+        "longitude": -115.29991509999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Flamingo Pool at Flamingo Las Vegas",
+        "rating": 3.9,
+        "address": "Hotel, 3555 Las Vegas Blvd S Inside Flamingo, Las Vegas, NV 89109",
+        "latitude": 36.116092699999996,
+        "longitude": -115.1699718
+    },
+    {
+        "category": "swimming pools",
+        "title": "The Pool at Green Valley Ranch",
+        "rating": 4.6,
+        "address": "2300 Paseo Verde Pkwy, Henderson, NV 89052",
+        "latitude": 36.0218705,
+        "longitude": -115.09119229999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Treasure Island Pool and Cabanas",
+        "rating": 4.1,
+        "address": "3300 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.124075399999995,
+        "longitude": -115.1723928
+    },
+    {
+        "category": "swimming pools",
+        "title": "MGM Grand Pool Complex",
+        "rating": 4.5,
+        "address": "3799 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1047218,
+        "longitude": -115.1664028
+    },
+    {
+        "category": "swimming pools",
+        "title": "The Oasis Pool",
+        "rating": 3.8,
+        "address": "3900 S Las Vegas Blvd Luxor, Las Vegas, NV 89119",
+        "latitude": 36.09551,
+        "longitude": -115.17606719999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Heritage Park Aquatic Complex",
+        "rating": 4.6,
+        "address": "310 S Racetrack Rd, Henderson, NV 89015",
+        "latitude": 36.0321946,
+        "longitude": -114.95129419999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Red Rock Pool",
+        "rating": 4.3,
+        "address": "11011 W Charleston Blvd, Las Vegas, NV 89135",
+        "latitude": 36.155496299999996,
+        "longitude": -115.33361699999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bill and Lillie Heinrich YMCA",
+        "rating": 4.3,
+        "address": "Meadows Ln, Las Vegas, NV 89107",
+        "latitude": 36.1689169,
+        "longitude": -115.196523
+    },
+    {
+        "category": "swimming pools",
+        "title": "Martinez Hall Family Pool",
+        "rating": 4,
+        "address": "889 N Pecos Rd, Las Vegas, NV 89101",
+        "latitude": 36.180168099999996,
+        "longitude": -115.0987112
+    },
+    {
+        "category": "swimming pools",
+        "title": "Doolittle Pool",
+        "rating": 4.5,
+        "address": "1950 N J St, Las Vegas, NV 89106",
+        "latitude": 36.1951508,
+        "longitude": -115.1556073
+    },
+    {
+        "category": "resorts",
+        "title": "Caesars Palace",
+        "rating": 4.5,
+        "address": "3570 S Las Vegas Blvd, Paradise, NV 89109",
+        "latitude": 36.1172612,
+        "longitude": -115.176141
+    },
+    {
+        "category": "resorts",
+        "title": "Resorts World Las Vegas",
+        "rating": 4.3,
+        "address": "3000 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.134107,
+        "longitude": -115.1676586
+    },
+    {
+        "category": "resorts",
+        "title": "The Venetian Las Vegas",
+        "rating": 4.6,
+        "address": "3355 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.121173999999996,
+        "longitude": -115.16965259999999
+    },
+    {
+        "category": "resorts",
+        "title": "Tahiti Village Resort & Spa",
+        "rating": 4.2,
+        "address": "7200 S Las Vegas Blvd, Las Vegas, NV 89119",
+        "latitude": 36.0597184,
+        "longitude": -115.17176819999999
+    },
+    {
+        "category": "resorts",
+        "title": "Bellagio Hotel & Casino",
+        "rating": 4.7,
+        "address": "3600 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.112945499999995,
+        "longitude": -115.17650669999999
+    },
+    {
+        "category": "resorts",
+        "title": "Green Valley Ranch Resort Spa and Casino",
+        "rating": 4.4,
+        "address": "2300 Paseo Verde Pkwy, Henderson, NV 89052",
+        "latitude": 36.0202484,
+        "longitude": -115.08996789999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Cliffs At Peace Canyon",
+        "rating": 4.4,
+        "address": "4550 S Grand Canyon Dr, Las Vegas, NV 89147",
+        "latitude": 36.1069526,
+        "longitude": -115.3058441
+    },
+    {
+        "category": "resorts",
+        "title": "The Westin Lake Las Vegas Resort & Spa",
+        "rating": 4.2,
+        "address": "101 Montelago Blvd, Henderson, NV 89011",
+        "latitude": 36.1139717,
+        "longitude": -114.9231295
+    },
+    {
+        "category": "resorts",
+        "title": "JW Marriott Las Vegas Resort & Spa",
+        "rating": 4.4,
+        "address": "221 N Rampart Blvd, Las Vegas, NV 89145",
+        "latitude": 36.1758508,
+        "longitude": -115.2911168
+    },
+    {
+        "category": "resorts",
+        "title": "Hilton Vacation Club Cancun Resort Las Vegas",
+        "rating": 4.1,
+        "address": "8335 Las Vegas Blvd S, Las Vegas, NV 89123",
+        "latitude": 36.0379668,
+        "longitude": -115.1734755
+    },
+    {
+        "category": "resorts",
+        "title": "The Grandview at Las Vegas",
+        "rating": 4.3,
+        "address": "9940 S Las Vegas Blvd, Las Vegas, NV 89183",
+        "latitude": 36.008995,
+        "longitude": -115.17603899999999
+    },
+    {
+        "category": "resorts",
+        "title": "Hilton Lake Las Vegas Resort & Spa",
+        "rating": 4.2,
+        "address": "1610 Lake Las Vegas Pkwy, Henderson, NV 89011",
+        "latitude": 36.102263799999996,
+        "longitude": -114.93175769999999
+    },
+    {
+        "category": "resorts",
+        "title": "Rio Hotel & Casino",
+        "rating": 3.8,
+        "address": "3700 W Flamingo Rd, Las Vegas, NV 89103",
+        "latitude": 36.1187296,
+        "longitude": -115.18666839999999
+    },
+    {
+        "category": "resorts",
+        "title": "Mandalay Bay Beach",
+        "rating": 4.5,
+        "address": "3950 S Las Vegas Blvd, Las Vegas, NV 89119",
+        "latitude": 36.0921847,
+        "longitude": -115.1748583
+    },
+    {
+        "category": "resorts",
+        "title": "The Cosmopolitan of Las Vegas",
+        "rating": 4.6,
+        "address": "3708 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "latitude": 36.10996,
+        "longitude": -115.17541589999999
+    },
+    {
+        "category": "resorts",
+        "title": "Las Vegas Hilton at Resorts World",
+        "rating": 4.1,
+        "address": "999 Resorts World Ave, Las Vegas, NV 89109",
+        "latitude": 36.1352744,
+        "longitude": -115.166924
+    },
+    {
+        "category": "resorts",
+        "title": "Hilton Vacation Club Desert Retreat Las Vegas",
+        "rating": 4.5,
+        "address": "5165 S Decatur Blvd, Las Vegas, NV 89118",
+        "latitude": 36.096240099999996,
+        "longitude": -115.2092696
+    },
+    {
+        "category": "resorts",
+        "title": "Westgate Flamingo Bay Resort",
+        "rating": 4.1,
+        "address": "5625 W Flamingo Rd, Las Vegas, NV 89103",
+        "latitude": 36.1140474,
+        "longitude": -115.2186364
+    },
+    {
+        "category": "resorts",
+        "title": "Hilton Grand Vacations Club on the Las Vegas Strip",
+        "rating": 4.4,
+        "address": "2650 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "latitude": 36.1398788,
+        "longitude": -115.1608993
+    },
+    {
+        "category": "resorts",
+        "title": "M Resort Spa Casino",
+        "rating": 4.5,
+        "address": "12300 Las Vegas Blvd S, Henderson, NV 89044",
+        "latitude": 35.9652245,
+        "longitude": -115.1696664
+    },
+    {
+        "category": "camping sites",
+        "title": "Red Rock Campground",
+        "rating": 4.4,
+        "address": "3293 Moenkopi Rd, Las Vegas, NV 89161",
+        "latitude": 36.130584,
+        "longitude": -115.3820599
+    },
+    {
+        "category": "camping sites",
+        "title": "Las Vegas KOA Journey at Sam's Town Journey",
+        "rating": 4.3,
+        "address": "5225 Boulder Hwy, Las Vegas, NV 89122",
+        "latitude": 36.1107162,
+        "longitude": -115.06008399999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Boulder Beach Campground",
+        "rating": 4.4,
+        "address": "268 Lakeshore Rd, Boulder City, NV 89005",
+        "latitude": 36.0371075,
+        "longitude": -114.80193659999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Las Vegas Bay Campground",
+        "rating": 4.3,
+        "address": "Boulder City, NV 89005",
+        "latitude": 36.1279445,
+        "longitude": -114.87236299999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Thousand Trails Las Vegas",
+        "rating": 3.6,
+        "address": "4295 Boulder Hwy, Las Vegas, NV 89121",
+        "latitude": 36.1275537,
+        "longitude": -115.0806324
+    },
+    {
+        "category": "camping sites",
+        "title": "Las Vegas RV Resort",
+        "rating": 4.4,
+        "address": "3890 S Nellis Blvd, Las Vegas, NV 89121",
+        "latitude": 36.1187071,
+        "longitude": -115.06439569999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Fletcher View Campground",
+        "rating": 4.6,
+        "address": "Forest Rd, Mt Charleston, NV 89124",
+        "latitude": 36.262395,
+        "longitude": -115.6165535
+    },
+    {
+        "category": "camping sites",
+        "title": "Hilltop Campground",
+        "rating": 4.4,
+        "address": "Las Vegas, NV 89166",
+        "latitude": 36.309857199999996,
+        "longitude": -115.6081901
+    },
+    {
+        "category": "camping sites",
+        "title": "Oasis Las Vegas RV Resort",
+        "rating": 4.4,
+        "address": "2711 W Windmill Ln, Las Vegas, NV 89123",
+        "latitude": 36.0410235,
+        "longitude": -115.17856769999999
+    },
+    {
+        "category": "camping sites",
+        "title": "McWilliams Campground",
+        "rating": 4.6,
+        "address": "Las Vegas, NV 89124",
+        "latitude": 36.3105191,
+        "longitude": -115.6778494
+    },
+    {
+        "category": "camping sites",
+        "title": "KOA",
+        "rating": 4.2,
+        "address": "4040 S Nellis Blvd, Las Vegas, NV 89121",
+        "latitude": 36.117038,
+        "longitude": -115.06385999999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Hitchin' Post RV Park & Motel",
+        "rating": 4.1,
+        "address": "3640 Las Vegas Blvd N, Las Vegas, NV 89115, 3650 Las Vegas Blvd N, Las Vegas, NV 89115",
+        "latitude": 36.2226561,
+        "longitude": -115.0844722
+    },
+    {
+        "category": "camping sites",
+        "title": "Atlatl Rock Campground",
+        "rating": 4.8,
+        "address": "Moapa Valley, NV 89040",
+        "latitude": 36.417607499999995,
+        "longitude": -114.55156699999999
+    },
+    {
+        "category": "camping sites",
+        "title": "The RV Park at Circus Circus Las Vegas",
+        "rating": 3.4,
+        "address": "2880 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1401053,
+        "longitude": -115.16450599999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Main Street Station RV Park",
+        "rating": 3.7,
+        "address": "425 N Main St, Las Vegas, NV 89101",
+        "latitude": 36.1759949,
+        "longitude": -115.14271009999999
+    },
+    {
+        "category": "camping sites",
+        "title": "King's Row RV Park",
+        "rating": 3.8,
+        "address": "3660 Boulder Hwy, Las Vegas, NV 89121",
+        "latitude": 36.1398928,
+        "longitude": -115.0957852
+    },
+    {
+        "category": "camping sites",
+        "title": "Las Vegas Motorcoach Resort",
+        "rating": 4.6,
+        "address": "8175 Arville St, Las Vegas, NV 89139",
+        "latitude": 36.041136,
+        "longitude": -115.2015484
+    },
+    {
+        "category": "camping sites",
+        "title": "Desert Eagle RV Park on Nellis AFB",
+        "rating": 4.7,
+        "address": "4907 Fam Camp Dr bldg 2889, Las Vegas, NV 89115",
+        "latitude": 36.2499197,
+        "longitude": -115.0533044
+    },
+    {
+        "category": "camping sites",
+        "title": "Lake Mead RV Village",
+        "rating": 4.4,
+        "address": "268 Lakeshore Rd #2, Boulder City, NV 89005",
+        "latitude": 36.0350193,
+        "longitude": -114.8003952
+    },
+    {
+        "category": "camping sites",
+        "title": "Riviera RV Resort",
+        "rating": 3.8,
+        "address": "2200 Palm St, Las Vegas, NV 89104",
+        "latitude": 36.1477127,
+        "longitude": -115.0999374
+    },
+    {
+        "category": "hiking trails",
+        "title": "Calico Basin Trail",
+        "rating": 4.8,
+        "address": "Calico Basin Rd, Las Vegas, NV 89161",
+        "latitude": 36.1472003,
+        "longitude": -115.4189097
+    },
+    {
+        "category": "hiking trails",
+        "title": "Lone Mountain Trailhead",
+        "rating": 4.8,
+        "address": "Las Vegas, NV 89129",
+        "latitude": 36.2402155,
+        "longitude": -115.3198381
+    },
+    {
+        "category": "hiking trails",
+        "title": "Lone Mountain Park",
+        "rating": 4.8,
+        "address": "4445 N Jensen St, Las Vegas, NV 89129",
+        "latitude": 36.2416315,
+        "longitude": -115.3101825
+    },
+    {
+        "category": "hiking trails",
+        "title": "Calico Tanks Trail",
+        "rating": 4.9,
+        "address": "Calico Tanks, Las Vegas, NV 89161",
+        "latitude": 36.1644186,
+        "longitude": -115.444572
+    },
+    {
+        "category": "hiking trails",
+        "title": "Buckskin Cliff Shadows Trailhead",
+        "rating": 4.7,
+        "address": "3355 Cliff Shadows Pkwy, Las Vegas, NV 89129",
+        "latitude": 36.2209472,
+        "longitude": -115.3330194
+    },
+    {
+        "category": "hiking trails",
+        "title": "Red Rock Canyon National Conservation Area",
+        "rating": 4.8,
+        "address": "Mountain Springs, NV 89161",
+        "latitude": 36.1944273,
+        "longitude": -115.4382967
+    },
+    {
+        "category": "hiking trails",
+        "title": "Hualapai Canyon",
+        "rating": 4.7,
+        "address": "Las Vegas, NV 89144",
+        "latitude": 36.1728114,
+        "longitude": -115.31542549999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Peccole Ranch Trail",
+        "rating": 4.8,
+        "address": "Las Vegas, NV 89117",
+        "latitude": 36.156723,
+        "longitude": -115.30704259999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Clark County Wetlands Park",
+        "rating": 4.7,
+        "address": "7050 Wetlands Park Ln, Las Vegas, NV 89122",
+        "latitude": 36.101116399999995,
+        "longitude": -115.0231015
+    },
+    {
+        "category": "hiking trails",
+        "title": "Pecos-McLeod Trailhead",
+        "rating": 3.3,
+        "address": "3050 Emerson Ave, Las Vegas, NV 89121",
+        "latitude": 36.1257637,
+        "longitude": -115.1082497
+    },
+    {
+        "category": "hiking trails",
+        "title": "Lone Mountain Peak",
+        "rating": 4.8,
+        "address": "Las Vegas, NV 89129",
+        "latitude": 36.2382677,
+        "longitude": -115.31515089999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Cliff Shadows Open Desert Park",
+        "rating": 4.7,
+        "address": "10769 Hunter Mountain Ave, Las Vegas, NV 89129",
+        "latitude": 36.231949,
+        "longitude": -115.33379529999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Late Night Trailhead",
+        "rating": 4.7,
+        "address": "Parking lot, Unnamed Rd, Las Vegas, NV 89161",
+        "latitude": 36.0112757,
+        "longitude": -115.4317676
+    },
+    {
+        "category": "hiking trails",
+        "title": "Cottonwood Canyon",
+        "rating": 4.6,
+        "address": "915 Canyon Bluff Ct, Las Vegas, NV 89144",
+        "latitude": 36.1630302,
+        "longitude": -115.32487259999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Frenchman Mountain Trailhead",
+        "rating": 4.6,
+        "address": "Las Vegas, NV 89156",
+        "latitude": 36.202067,
+        "longitude": -114.98923579999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Kraft Mountain Loop Trail",
+        "rating": 4.9,
+        "address": "1375 Sandstone Dr, Las Vegas, NV 89161",
+        "latitude": 36.1571159,
+        "longitude": -115.4201367
+    },
+    {
+        "category": "hiking trails",
+        "title": "Old Spanish Trail Park",
+        "rating": 4.6,
+        "address": "8150 Tara Ave, Las Vegas, NV 89117",
+        "latitude": 36.1394668,
+        "longitude": -115.26857079999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Lost Creek Canyon",
+        "rating": 4.8,
+        "address": "Children's Discovery Trail, Las Vegas, NV 89161",
+        "latitude": 36.157233999999995,
+        "longitude": -115.497205
+    },
+    {
+        "category": "hiking trails",
+        "title": "Las Vegas Upper Wash Trail Head",
+        "rating": 4.4,
+        "address": "North Las Vegas, NV 89086",
+        "latitude": 36.2834308,
+        "longitude": -115.12835059999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Duck Creek Trailhead",
+        "rating": 4.5,
+        "address": "5347 S Broadbent Blvd, Las Vegas, NV 89122",
+        "latitude": 36.093482,
+        "longitude": -115.0239587
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Red Rock Canyon National Conservation Area",
+        "rating": 4.8,
+        "address": "Mountain Springs, NV 89161",
+        "latitude": 36.1944273,
+        "longitude": -115.4382967
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Springs Preserve",
+        "rating": 4.7,
+        "address": "333 S Valley View Blvd, Las Vegas, NV 89107",
+        "latitude": 36.1693608,
+        "longitude": -115.1906908
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Clark County Wetlands Park",
+        "rating": 4.7,
+        "address": "7050 Wetlands Park Ln, Las Vegas, NV 89122",
+        "latitude": 36.101116399999995,
+        "longitude": -115.0231015
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Exploration Peak Park",
+        "rating": 4.8,
+        "address": "9275 S Buffalo Dr, Las Vegas, NV 89178",
+        "latitude": 36.014114899999996,
+        "longitude": -115.2609305
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Gilcrease Nature Sanctuary",
+        "rating": 4.7,
+        "address": "8103 Racel St, Las Vegas, NV 89131",
+        "latitude": 36.3092834,
+        "longitude": -115.2730601
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Spring Mountain Ranch State Park",
+        "rating": 4.6,
+        "address": "6375 NV-159, Blue Diamond, NV 89004",
+        "latitude": 36.0735706,
+        "longitude": -115.4443859
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Lake Mead National Recreation Area",
+        "rating": 4.6,
+        "address": "10 Lakeshore Rd, Boulder City, NV 89005",
+        "latitude": 36.1550863,
+        "longitude": -114.45593029999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Valley of Fire State Park",
+        "rating": 4.8,
+        "address": "Moapa Valley, NV 89040",
+        "latitude": 36.4756593,
+        "longitude": -114.5383925
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Evolution Expeditions Kayaking Tours",
+        "rating": 4.9,
+        "address": "1055 E Flamingo Rd, Las Vegas, NV 89119",
+        "latitude": 36.1136631,
+        "longitude": -115.1407933
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Historic Railroad Hiking Trail",
+        "rating": 4.8,
+        "address": "Boulder City, NV 89005",
+        "latitude": 36.011731399999995,
+        "longitude": -114.7932036
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Las Vegas Area Trails",
+        "rating": 5,
+        "address": null,
+        "latitude": 36.2655174,
+        "longitude": -115.2343695
+    },
+    {
+        "category": "temples",
+        "title": "Hindu and Jain Temple of Las Vegas",
+        "rating": 4.9,
+        "address": "1701 Sageberry Dr, Las Vegas, NV 89144",
+        "latitude": 36.1887851,
+        "longitude": -115.3348262
+    },
+    {
+        "category": "temples",
+        "title": "Thai Buddhist Temple-Las Vegas",
+        "rating": 4.8,
+        "address": "2959 W Gowan Rd, North Las Vegas, NV 89032",
+        "latitude": 36.2241751,
+        "longitude": -115.180297
+    },
+    {
+        "category": "temples",
+        "title": "Kannon Temple of Las Vegas",
+        "rating": 4.5,
+        "address": "1600 E Sahara Ave, Las Vegas, NV 89104",
+        "latitude": 36.144646,
+        "longitude": -115.12989309999999
+    },
+    {
+        "category": "temples",
+        "title": "Radha Govinda Mandir - ISKCON of Las Vegas",
+        "rating": 4.8,
+        "address": "8825 Escondido St, Las Vegas, NV 89123",
+        "latitude": 36.0294142,
+        "longitude": -115.1342851
+    },
+    {
+        "category": "temples",
+        "title": "Temple Sinai Las Vegas",
+        "rating": 4.8,
+        "address": "9001 Hillpointe Rd, Las Vegas, NV 89134",
+        "latitude": 36.198765,
+        "longitude": -115.292856
+    },
+    {
+        "category": "temples",
+        "title": "Nevada Buddhist Temple",
+        "rating": 4.6,
+        "address": "2040 Abels Ln, Las Vegas, NV 89115",
+        "latitude": 36.1966987,
+        "longitude": -115.077439
+    },
+    {
+        "category": "temples",
+        "title": "Wat Lamp",
+        "rating": 4.6,
+        "address": "4243 Judson Ave, Las Vegas, NV 89115",
+        "latitude": 36.1990755,
+        "longitude": -115.0815468
+    },
+    {
+        "category": "temples",
+        "title": "Lohan Temple",
+        "rating": 4.8,
+        "address": "4255 W Spring Mountain Rd C200A, Las Vegas, NV 89102",
+        "latitude": 36.1254731,
+        "longitude": -115.1970125
+    },
+    {
+        "category": "temples",
+        "title": "The Shrine Of Four-Faced Brahma - Caesars Palace",
+        "rating": 4.8,
+        "address": "3570 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.11575,
+        "longitude": -115.1736243
+    },
+    {
+        "category": "temples",
+        "title": "Watsricharoendham",
+        "rating": 4.7,
+        "address": "5929 W Duncan Dr, Las Vegas, NV 89108",
+        "latitude": 36.22553,
+        "longitude": -115.22449569999999
+    },
+    {
+        "category": "temples",
+        "title": "Buddhaya Nandharam Temple",
+        "rating": 4.2,
+        "address": "5320 Kell Ln, Las Vegas, NV 89156",
+        "latitude": 36.193199899999996,
+        "longitude": -115.0569718
+    },
+    {
+        "category": "temples",
+        "title": "Gurdwara Baba Deep Singh Ji",
+        "rating": 4.9,
+        "address": "6341 W Lone Mountain Rd, Las Vegas, NV 89130",
+        "latitude": 36.2462166,
+        "longitude": -115.233052
+    },
+    {
+        "category": "temples",
+        "title": "Wat Buddhica Khmer",
+        "rating": 4.6,
+        "address": "1820 Marlin Ave, Las Vegas, NV 89101",
+        "latitude": 36.1672106,
+        "longitude": -115.12309259999999
+    },
+    {
+        "category": "temples",
+        "title": "Immanuel's Temple",
+        "rating": 4.8,
+        "address": "2610 Fire Mesa St, Las Vegas, NV 89128",
+        "latitude": 36.208304,
+        "longitude": -115.25569569999999
+    },
+    {
+        "category": "temples",
+        "title": "Binh An Buddha House",
+        "rating": 5,
+        "address": "3411 Ballarat St, Las Vegas, NV 89115",
+        "latitude": 36.2216589,
+        "longitude": -115.07913099999999
+    },
+    {
+        "category": "temples",
+        "title": "Wat Buddha Pavana",
+        "rating": 5,
+        "address": "2959 W Gowan Rd, North Las Vegas, NV 89032",
+        "latitude": 36.224101499999996,
+        "longitude": -115.1802561
+    },
+    {
+        "category": "temples",
+        "title": "Shri Shirdi Saibaba temple",
+        "rating": 4.8,
+        "address": "4092 Meadow Grove Ave, Las Vegas, NV 89120",
+        "latitude": 36.0976007,
+        "longitude": -115.0847324
+    },
+    {
+        "category": "temples",
+        "title": "Las Vegas Buddhist Sangha",
+        "rating": 4.7,
+        "address": "4110 N M.L.K. Blvd, North Las Vegas, NV 89032",
+        "latitude": 36.234155799999996,
+        "longitude": -115.1611166
+    },
+    {
+        "category": "temples",
+        "title": "Las Vegas Nevada Temple",
+        "rating": 4.9,
+        "address": "827 Temple View Dr, Las Vegas, NV 89110",
+        "latitude": 36.1746137,
+        "longitude": -115.0196904
+    },
+    {
+        "category": "temples",
+        "title": "Guru Nanak Gurdwara - ਗੁਰੂ ਨਾਨਕ ਗੁਰਦੁਆਰਾ",
+        "rating": 4.8,
+        "address": "4487 E Russell Rd, Las Vegas, NV 89120",
+        "latitude": 36.0852895,
+        "longitude": -115.0756692
+    },
+    {
+        "category": "museums",
+        "title": "The Neon Museum Las Vegas",
+        "rating": 4.4,
+        "address": "770 Las Vegas Blvd N, Las Vegas, NV 89101",
+        "latitude": 36.1769882,
+        "longitude": -115.1353374
+    },
+    {
+        "category": "museums",
+        "title": "The Mob Museum",
+        "rating": 4.6,
+        "address": "300 Stewart Ave, Las Vegas, NV 89101",
+        "latitude": 36.1728198,
+        "longitude": -115.1412395
+    },
+    {
+        "category": "museums",
+        "title": "Las Vegas Science & Natural History Museum",
+        "rating": 4.5,
+        "address": "900 Las Vegas Blvd N, Las Vegas, NV 89101",
+        "latitude": 36.1798749,
+        "longitude": -115.13382059999999
+    },
+    {
+        "category": "museums",
+        "title": "Nevada State Museum, Las Vegas",
+        "rating": 4.7,
+        "address": "309 S Valley View Blvd, Las Vegas, NV 89107",
+        "latitude": 36.1722031,
+        "longitude": -115.19023399999999
+    },
+    {
+        "category": "museums",
+        "title": "Springs Preserve",
+        "rating": 4.7,
+        "address": "333 S Valley View Blvd, Las Vegas, NV 89107",
+        "latitude": 36.1693608,
+        "longitude": -115.1906908
+    },
+    {
+        "category": "museums",
+        "title": "Discovery Children's Museum",
+        "rating": 4.7,
+        "address": "360 Promenade Pl, Las Vegas, NV 89106",
+        "latitude": 36.1687965,
+        "longitude": -115.1527217
+    },
+    {
+        "category": "museums",
+        "title": "Zak Bagans' The Haunted Museum",
+        "rating": 4.5,
+        "address": "600 E Charleston Blvd, Las Vegas, NV 89104",
+        "latitude": 36.1584152,
+        "longitude": -115.146097
+    },
+    {
+        "category": "museums",
+        "title": "The Punk Rock Museum",
+        "rating": 4.8,
+        "address": "1422 Western Ave, Las Vegas, NV 89102",
+        "latitude": 36.1542822,
+        "longitude": -115.160637
+    },
+    {
+        "category": "museums",
+        "title": "Meow Wolf Las Vegas' Omega Mart",
+        "rating": 4.4,
+        "address": "3215 Rancho Dr #100, Las Vegas, NV 89102",
+        "latitude": 36.1324617,
+        "longitude": -115.18185229999999
+    },
+    {
+        "category": "museums",
+        "title": "Arte Museum Las Vegas",
+        "rating": 4.8,
+        "address": "3716 S Las Vegas Blvd 2nd Floor, Suite 208, Las Vegas, NV 89158",
+        "latitude": 36.108801299999996,
+        "longitude": -115.17420469999999
+    },
+    {
+        "category": "museums",
+        "title": "Pinball Hall of Fame",
+        "rating": 4.5,
+        "address": "4925 Las Vegas Blvd S, Las Vegas, NV 89119",
+        "latitude": 36.084789,
+        "longitude": -115.1711127
+    },
+    {
+        "category": "museums",
+        "title": "Count's Kustoms",
+        "rating": 4.7,
+        "address": "2714 S Highland Dr, Las Vegas, NV 89109",
+        "latitude": 36.1402639,
+        "longitude": -115.1695171
+    },
+    {
+        "category": "museums",
+        "title": "Bodies | The Exhibition",
+        "rating": 4.2,
+        "address": "3900 S Las Vegas Blvd, Las Vegas, NV 89119",
+        "latitude": 36.09551,
+        "longitude": -115.17606719999999
+    },
+    {
+        "category": "museums",
+        "title": "The Neon Museum Neon Boneyard",
+        "rating": 4.6,
+        "address": "770 Las Vegas Blvd N, Las Vegas, NV 89101",
+        "latitude": 36.1768789,
+        "longitude": -115.1352622
+    },
+    {
+        "category": "museums",
+        "title": "Atomic Museum",
+        "rating": 4.6,
+        "address": "755 E Flamingo Rd, Las Vegas, NV 89119",
+        "latitude": 36.1141247,
+        "longitude": -115.1483743
+    },
+    {
+        "category": "museums",
+        "title": "Museo del neón",
+        "rating": null,
+        "address": "770 Las Vegas Blvd N, Las Vegas, NV 89101",
+        "latitude": 36.177,
+        "longitude": -115.1353333
+    },
+    {
+        "category": "museums",
+        "title": "Madame Tussauds Las Vegas",
+        "rating": 4.5,
+        "address": "3377 S Las Vegas Blvd Ste. 2001, Las Vegas, NV 89109",
+        "latitude": 36.12123,
+        "longitude": -115.1714421
+    },
+    {
+        "category": "museums",
+        "title": "Erotic Heritage Museum",
+        "rating": 4,
+        "address": "3275 S Sammy Davis Jr Dr, Las Vegas, NV 89109",
+        "latitude": 36.1299776,
+        "longitude": -115.1745976
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Illusions - Las Vegas",
+        "rating": 4.8,
+        "address": "3716 S Las Vegas Blvd Suite 102, Las Vegas, NV 89109",
+        "latitude": 36.1088439,
+        "longitude": -115.17409509999999
+    },
+    {
+        "category": "museums",
+        "title": "Titanic: The Artifact Exhibition",
+        "rating": 4.6,
+        "address": "3900 S Las Vegas Blvd, Las Vegas, NV 89119",
+        "latitude": 36.09551,
+        "longitude": -115.17606719999999
+    },
+    {
+        "category": "night markets",
+        "title": "Market In the Alley",
+        "rating": 4.8,
+        "address": "1325 S Commerce St, Las Vegas, NV 89102",
+        "latitude": 36.1551244,
+        "longitude": -115.1549639
+    },
+    {
+        "category": "night markets",
+        "title": "Tivoli Village",
+        "rating": 4.6,
+        "address": "400 S Rampart Blvd, Las Vegas, NV 89145",
+        "latitude": 36.1676389,
+        "longitude": -115.2865764
+    },
+    {
+        "category": "night markets",
+        "title": "Broadacres Marketplace",
+        "rating": 4.4,
+        "address": "2930 Las Vegas Blvd N, North Las Vegas, NV 89030",
+        "latitude": 36.2113334,
+        "longitude": -115.1010872
+    },
+    {
+        "category": "night markets",
+        "title": "Farmers Market Las Vegas - California Produce",
+        "rating": 5,
+        "address": "2930 Las Vegas Blvd N Space#5008, North Las Vegas, NV 89030",
+        "latitude": 36.2116276,
+        "longitude": -115.1005012
+    },
+    {
+        "category": "night markets",
+        "title": "Fremont Street Experience",
+        "rating": 4.6,
+        "address": "Fremont St, Las Vegas, NV 89101",
+        "latitude": 36.1707275,
+        "longitude": -115.14382289999999
+    },
+    {
+        "category": "night markets",
+        "title": "Neonopolis",
+        "rating": 4.3,
+        "address": "450 Fremont St, Las Vegas, NV 89101",
+        "latitude": 36.1701768,
+        "longitude": -115.1404661
+    },
+    {
+        "category": "night markets",
+        "title": "Meow Wolf Las Vegas' Omega Mart",
+        "rating": 4.4,
+        "address": "3215 Rancho Dr #100, Las Vegas, NV 89102",
+        "latitude": 36.1324617,
+        "longitude": -115.18185229999999
+    },
+    {
+        "category": "night markets",
+        "title": "Downtown Container Park",
+        "rating": 4.5,
+        "address": "707 E Fremont St, Las Vegas, NV 89101",
+        "latitude": 36.167560099999996,
+        "longitude": -115.1384837
+    },
+    {
+        "category": "night markets",
+        "title": "Fantastic Indoor Swap Meet Las Vegas",
+        "rating": 4.2,
+        "address": "1717 S Decatur Blvd, Las Vegas, NV 89102",
+        "latitude": 36.1507438,
+        "longitude": -115.2057734
+    },
+    {
+        "category": "night markets",
+        "title": "Vegas Market",
+        "rating": 3.9,
+        "address": "777 E Twain Ave, Las Vegas, NV 89169",
+        "latitude": 36.1212965,
+        "longitude": -115.1464747
+    },
+    {
+        "category": "night markets",
+        "title": "Westland Fair",
+        "rating": 4.2,
+        "address": "W Charleston Blvd &, S Decatur Blvd, Las Vegas, NV 89102",
+        "latitude": 36.1576188,
+        "longitude": -115.20259999999999
+    },
+    {
+        "category": "night markets",
+        "title": "Las Vegas North Premium Outlets",
+        "rating": 4.4,
+        "address": "875 S Grand Central Pkwy, Las Vegas, NV 89106",
+        "latitude": 36.1636508,
+        "longitude": -115.1577492
+    },
+    {
+        "category": "night markets",
+        "title": "Downtown Summerlin Farmers Market",
+        "rating": 4.6,
+        "address": "1980 Festival Plaza Dr, Las Vegas, NV 89135",
+        "latitude": 36.1512826,
+        "longitude": -115.3334819
+    },
+    {
+        "category": "night markets",
+        "title": "La Favorita Market",
+        "rating": 4.3,
+        "address": "573 E Twain Ave, Las Vegas, NV 89169",
+        "latitude": 36.1205547,
+        "longitude": -115.1508181
+    },
+    {
+        "category": "night markets",
+        "title": "DG Market",
+        "rating": 4,
+        "address": "1631 W Lake Mead Blvd, Las Vegas, NV 89106",
+        "latitude": 36.1947342,
+        "longitude": -115.1628848
+    },
+    {
+        "category": "night markets",
+        "title": "Charleston Indoor Swap Meet",
+        "rating": 4,
+        "address": "4530 E Charleston Blvd, Las Vegas, NV 89104",
+        "latitude": 36.160199999999996,
+        "longitude": -115.07629999999999
+    },
+    {
+        "category": "night markets",
+        "title": "Laos Asia Market",
+        "rating": 4.5,
+        "address": "Pecos McLeod Plaza, 3050 E Desert Inn Rd # 108, Las Vegas, NV 89121",
+        "latitude": 36.1305549,
+        "longitude": -115.1089804
+    },
+    {
+        "category": "night markets",
+        "title": "El Super",
+        "rating": 4.1,
+        "address": "2021 E Lake Mead Blvd, Las Vegas, NV 89106",
+        "latitude": 36.194617799999996,
+        "longitude": -115.1193402
+    },
+    {
+        "category": "night markets",
+        "title": "DG Market",
+        "rating": 4.1,
+        "address": "2905 S Maryland Pkwy, Las Vegas, NV 89109",
+        "latitude": 36.1366053,
+        "longitude": -115.1377148
+    },
+    {
+        "category": "night markets",
+        "title": "DG Market",
+        "rating": 4.1,
+        "address": "3485 E Lake Mead Blvd, North Las Vegas, NV 89030",
+        "latitude": 36.195228199999995,
+        "longitude": -115.0995397
+    },
+    {
+        "category": "viewpoints",
+        "title": "Las Vegas Skyline View",
+        "rating": 4.6,
+        "address": "7589-7599, NV-147, Las Vegas, NV 89156",
+        "latitude": 36.1989022,
+        "longitude": -115.0076172
+    },
+    {
+        "category": "viewpoints",
+        "title": "Desert View Overlook",
+        "rating": 4.8,
+        "address": "Las Vegas, NV 89166",
+        "latitude": 36.3365886,
+        "longitude": -115.6288467
+    },
+    {
+        "category": "viewpoints",
+        "title": "Red Rock Canyon Overlook",
+        "rating": 4.8,
+        "address": "3205 NV-159, Las Vegas, NV 89161",
+        "latitude": 36.1171083,
+        "longitude": -115.4447558
+    },
+    {
+        "category": "viewpoints",
+        "title": "High Point Overlook",
+        "rating": 4.8,
+        "address": "Las Vegas, NV 89161",
+        "latitude": 36.170759499999996,
+        "longitude": -115.46613529999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Exploration Peak Park",
+        "rating": 4.8,
+        "address": "9275 S Buffalo Dr, Las Vegas, NV 89178",
+        "latitude": 36.014114899999996,
+        "longitude": -115.2609305
+    },
+    {
+        "category": "viewpoints",
+        "title": "The View",
+        "rating": 4.9,
+        "address": "7473 E Lake Mead Blvd, Las Vegas, NV 89156",
+        "latitude": 36.198805199999995,
+        "longitude": -115.00942979999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Eiffel Tower Viewing Deck",
+        "rating": 4.6,
+        "address": "3655 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "latitude": 36.1124833,
+        "longitude": -115.17251019999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Sphere Vista Point (Bridge)",
+        "rating": 4.7,
+        "address": "Las Vegas, NV 89109",
+        "latitude": 36.125503699999996,
+        "longitude": -115.1683702
+    },
+    {
+        "category": "viewpoints",
+        "title": "Lone Mountain Park",
+        "rating": 4.8,
+        "address": "4445 N Jensen St, Las Vegas, NV 89129",
+        "latitude": 36.2416315,
+        "longitude": -115.3101825
+    },
+    {
+        "category": "viewpoints",
+        "title": "Springs Preserve",
+        "rating": 4.7,
+        "address": "333 S Valley View Blvd, Las Vegas, NV 89107",
+        "latitude": 36.1693608,
+        "longitude": -115.1906908
+    },
+    {
+        "category": "viewpoints",
+        "title": "Bellagio Conservatory & Botanical Gardens",
+        "rating": 4.8,
+        "address": "Bellagio Hotel & Casino, 3600 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1119912,
+        "longitude": -115.1765648
+    },
+    {
+        "category": "viewpoints",
+        "title": "Buckskin Cliff Shadows Trailhead",
+        "rating": 4.7,
+        "address": "3355 Cliff Shadows Pkwy, Las Vegas, NV 89129",
+        "latitude": 36.2209472,
+        "longitude": -115.3330194
+    },
+    {
+        "category": "viewpoints",
+        "title": "Red Rock Canyon National Conservation Area",
+        "rating": 4.8,
+        "address": "Mountain Springs, NV 89161",
+        "latitude": 36.1944273,
+        "longitude": -115.4382967
+    },
+    {
+        "category": "viewpoints",
+        "title": "Sphere viewing spot",
+        "rating": 5,
+        "address": "451 E Twain Ave, Las Vegas, NV 89169",
+        "latitude": 36.1212471,
+        "longitude": -115.1535368
+    },
+    {
+        "category": "viewpoints",
+        "title": "Welcome to Fabulous Las Vegas Sign",
+        "rating": 4.6,
+        "address": "5100 Las Vegas Blvd S, Las Vegas, NV 89119",
+        "latitude": 36.0820727,
+        "longitude": -115.17277899999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Lake Las Vegas Overlook",
+        "rating": 4.6,
+        "address": "Las Vegas, NV 89011",
+        "latitude": 36.112312599999996,
+        "longitude": -114.94820589999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Sphere",
+        "rating": 4.4,
+        "address": "255 Sands Ave, Las Vegas, NV 89169",
+        "latitude": 36.121217,
+        "longitude": -115.1620404
+    },
+    {
+        "category": "viewpoints",
+        "title": "The STRAT Observation Deck",
+        "rating": 4.5,
+        "address": "2000 Las Vegas Blvd S, Las Vegas, NV 89104",
+        "latitude": 36.1476622,
+        "longitude": -115.15561129999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Botanical Garden at the Springs Preserve",
+        "rating": 4.7,
+        "address": "333 S Valley View Blvd, Las Vegas, NV 89107",
+        "latitude": 36.1686798,
+        "longitude": -115.190135
+    },
+    {
+        "category": "gardens",
+        "title": "Bellagio Conservatory & Botanical Gardens",
+        "rating": 4.8,
+        "address": "Bellagio Hotel & Casino, 3600 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1119912,
+        "longitude": -115.1765648
+    },
+    {
+        "category": "gardens",
+        "title": "Las Vegas Community Healing Garden",
+        "rating": 4.8,
+        "address": "1015 S Casino Center Blvd, Las Vegas, NV 89101",
+        "latitude": 36.1596672,
+        "longitude": -115.1509437
+    },
+    {
+        "category": "gardens",
+        "title": "Botanical Garden at the Springs Preserve",
+        "rating": 4.7,
+        "address": "333 S Valley View Blvd, Las Vegas, NV 89107",
+        "latitude": 36.1686798,
+        "longitude": -115.190135
+    },
+    {
+        "category": "gardens",
+        "title": "Springs Preserve",
+        "rating": 4.7,
+        "address": "333 S Valley View Blvd, Las Vegas, NV 89107",
+        "latitude": 36.1693608,
+        "longitude": -115.1906908
+    },
+    {
+        "category": "gardens",
+        "title": "Baepler Xeric Garden",
+        "rating": 4.4,
+        "address": "4505 S Maryland Pkwy, Las Vegas, NV 89119",
+        "latitude": 36.1070454,
+        "longitude": -115.1404903
+    },
+    {
+        "category": "gardens",
+        "title": "Gardens Park",
+        "rating": 4.8,
+        "address": "10401 Garden Park Dr, Las Vegas, NV 89135",
+        "latitude": 36.126190099999995,
+        "longitude": -115.3219096
+    },
+    {
+        "category": "gardens",
+        "title": "Garden Farms of Nevada, Las Vegas | Garden Farms Foundation",
+        "rating": 4.5,
+        "address": "36 2465540, -115 #1515319, North Las Vegas, NV 89032",
+        "latitude": 36.2465647,
+        "longitude": -115.1513514
+    },
+    {
+        "category": "gardens",
+        "title": "Rainbow Gardens",
+        "rating": 4.7,
+        "address": "4125 W Charleston Blvd, Las Vegas, NV 89102",
+        "latitude": 36.1584243,
+        "longitude": -115.19622799999999
+    },
+    {
+        "category": "gardens",
+        "title": "City of Las Vegas Community Garden",
+        "rating": 4,
+        "address": "1200 Blankenship Ave, Las Vegas, NV 89106",
+        "latitude": 36.2019326,
+        "longitude": -115.15743119999999
+    },
+    {
+        "category": "gardens",
+        "title": "Route 91 Memorial Rock Garden",
+        "rating": 5,
+        "address": "1007 S Casino Center Blvd, Las Vegas, NV 89101",
+        "latitude": 36.1598015,
+        "longitude": -115.15093879999999
+    },
+    {
+        "category": "gardens",
+        "title": "Doctor Harry B. Johnson Rose Garden",
+        "rating": 4.6,
+        "address": "5330 Somerset Hills Ave, Las Vegas, NV 89141",
+        "latitude": 35.995204099999995,
+        "longitude": -115.21369179999999
+    },
+    {
+        "category": "gardens",
+        "title": "Butterfly Habitat",
+        "rating": 4.7,
+        "address": "333 S Valley View Blvd, Las Vegas, NV 89107",
+        "latitude": 36.1680367,
+        "longitude": -115.18924779999999
+    },
+    {
+        "category": "gardens",
+        "title": "Juno Garden at Caesars Palace",
+        "rating": 4.5,
+        "address": "3570 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.115450599999996,
+        "longitude": -115.1777638
+    },
+    {
+        "category": "gardens",
+        "title": "Mystic Falls Park",
+        "rating": 4.6,
+        "address": "5111 Boulder Hwy, Las Vegas, NV 89122",
+        "latitude": 36.112998399999995,
+        "longitude": -115.0625156
+    },
+    {
+        "category": "gardens",
+        "title": "Free Bench at Springs Preserve",
+        "rating": 5,
+        "address": "309 S Valley View Blvd, Las Vegas, NV 89107",
+        "latitude": 36.171413,
+        "longitude": -115.19064499999999
+    },
+    {
+        "category": "gardens",
+        "title": "Lee Pascal Memorial Rose Garden",
+        "rating": 3.3,
+        "address": "851 E Tropicana Ave, Las Vegas, NV 89119",
+        "latitude": 36.1094023,
+        "longitude": -115.13921409999999
+    },
+    {
+        "category": "gardens",
+        "title": "Chapel of the Flowers",
+        "rating": 4.7,
+        "address": "1717 Las Vegas Blvd S, Las Vegas, NV 89104",
+        "latitude": 36.1506329,
+        "longitude": -115.15258469999999
+    },
+    {
+        "category": "gardens",
+        "title": "Fountains of Bellagio",
+        "rating": 4.8,
+        "address": "3600 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.112718699999995,
+        "longitude": -115.1739109
+    },
+    {
+        "category": "gardens",
+        "title": "Nevada State Garden Clubs Inc",
+        "rating": 4.4,
+        "address": "800 Twin Lakes Dr, Las Vegas, NV 89107",
+        "latitude": 36.1801393,
+        "longitude": -115.1873181
+    },
+    {
+        "category": "gardens",
+        "title": "Cactus Joe's Blue Diamond Nursery",
+        "rating": 4.8,
+        "address": "12740 Blue Diamond Rd, Las Vegas, NV 89161",
+        "latitude": 36.0393646,
+        "longitude": -115.36733579999999
+    },
+    {
+        "category": "zoo",
+        "title": "One World Interactive Aquarium",
+        "rating": 4.7,
+        "address": "3528 S Maryland Pkwy Suite#340, Las Vegas, NV 89169",
+        "latitude": 36.1241882,
+        "longitude": -115.1351839
+    },
+    {
+        "category": "zoo",
+        "title": "Flamingo Wildlife Habitat",
+        "rating": 4.5,
+        "address": "3555 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1164027,
+        "longitude": -115.1710313
+    },
+    {
+        "category": "zoo",
+        "title": "Shark Reef Aquarium at Mandalay Bay",
+        "rating": 4.4,
+        "address": "3950 S Las Vegas Blvd, Las Vegas, NV 89119",
+        "latitude": 36.0887734,
+        "longitude": -115.1764706
+    },
+    {
+        "category": "zoo",
+        "title": "Gilcrease Nature Sanctuary",
+        "rating": 4.7,
+        "address": "8103 Racel St, Las Vegas, NV 89131",
+        "latitude": 36.3092834,
+        "longitude": -115.2730601
+    },
+    {
+        "category": "zoo",
+        "title": "Lion Habitat Ranch inc",
+        "rating": 4.6,
+        "address": "382 Bruner Ave, Henderson, NV 89044",
+        "latitude": 35.970133499999996,
+        "longitude": -115.15546889999999
+    },
+    {
+        "category": "zoo",
+        "title": "The Aquarium at Silverton Casino",
+        "rating": 4.6,
+        "address": "3333 Blue Diamond Rd, Las Vegas, NV 89139",
+        "latitude": 36.0412021,
+        "longitude": -115.1835474
+    },
+    {
+        "category": "zoo",
+        "title": "Nellis Petting Zoo",
+        "rating": 4.9,
+        "address": "6WFR+J7, Sunrise Manor, NV 89191",
+        "latitude": 36.2240167,
+        "longitude": -115.05925819999999
+    },
+    {
+        "category": "zoo",
+        "title": "BBR @ The Las Vegas Farm and The Farm Experience(weddings)",
+        "rating": 4.6,
+        "address": "7222 W Grand Teton Dr, Las Vegas, NV 89131",
+        "latitude": 36.3055115,
+        "longitude": -115.25144189999999
+    },
+    {
+        "category": "zoo",
+        "title": "Nature Health Farms Petting Zoo, Airbnb, Alpaca Farm & Wedding Chapel in Pahrump",
+        "rating": 4.7,
+        "address": "351 Bunarch Rd, Pahrump, NV 89060",
+        "latitude": 36.268378999999996,
+        "longitude": -116.02149299999999
+    },
+    {
+        "category": "zoo",
+        "title": "Party Animals of Las vegas",
+        "rating": null,
+        "address": "6099 W Verde Way, Las Vegas, NV 89130",
+        "latitude": 36.2477096,
+        "longitude": -115.2245432
+    },
+    {
+        "category": "zoo",
+        "title": "Roos-N-More Zoo",
+        "rating": 4.8,
+        "address": "746 Snowden Ranch Road, Moapa, NV 89025",
+        "latitude": 36.6952043,
+        "longitude": -114.5907568
+    },
+    {
+        "category": "zoo",
+        "title": "Camel Safari Las Vegas",
+        "rating": 4.8,
+        "address": "2725 River Cliff Rd, Bunkerville, NV 89007",
+        "latitude": 36.7281214,
+        "longitude": -114.22960739999999
+    },
+    {
+        "category": "zoo",
+        "title": "Billy and yaya’s petting zoo",
+        "rating": 5,
+        "address": "4620 Andrews St, North Las Vegas, NV 89081",
+        "latitude": 36.2452197,
+        "longitude": -115.089457
+    },
+    {
+        "category": "zoo",
+        "title": "GUM CORNER",
+        "rating": 3.7,
+        "address": "East Flamingo Road Overpass, Las Vegas, NV 89109",
+        "latitude": 36.114878999999995,
+        "longitude": -115.1723284
+    },
+    {
+        "category": "zoo",
+        "title": "Wild West Horseback Adventures",
+        "rating": 4.8,
+        "address": "2470 Chandler Ave # 11, Las Vegas, NV 89120",
+        "latitude": 36.074808,
+        "longitude": -115.11685
+    },
+    {
+        "category": "zoo",
+        "title": "Botanical Garden at the Springs Preserve",
+        "rating": 4.7,
+        "address": "333 S Valley View Blvd, Las Vegas, NV 89107",
+        "latitude": 36.1686798,
+        "longitude": -115.190135
+    },
+    {
+        "category": "zoo",
+        "title": "Wetlands Park Friends",
+        "rating": 4.8,
+        "address": "7050 Wetlands Park Ln, Las Vegas, NV 89122",
+        "latitude": 36.1011053,
+        "longitude": -115.0230955
+    },
+    {
+        "category": "zoo",
+        "title": "Flamingo Las Vegas",
+        "rating": 4,
+        "address": "3555 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "latitude": 36.1166377,
+        "longitude": -115.1703905
+    },
+    {
+        "category": "zoo",
+        "title": "Pets Farm DS",
+        "rating": 3.9,
+        "address": "4620 Meadows Ln #140, Las Vegas, NV 89107",
+        "latitude": 36.171597399999996,
+        "longitude": -115.20424369999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "The Adventuredome Indoor Theme Park",
+        "rating": 4.4,
+        "address": "2880 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.138019299999996,
+        "longitude": -115.1666589
+    },
+    {
+        "category": "adventure parks",
+        "title": "Spy Ninjas HQ",
+        "rating": 4.7,
+        "address": "7980 W Sahara Ave, Las Vegas, NV 89117",
+        "latitude": 36.1444038,
+        "longitude": -115.26526899999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Dig This - Las Vegas",
+        "rating": 4.9,
+        "address": "800 W Roban Ave, Las Vegas, NV 89044",
+        "latitude": 35.9480152,
+        "longitude": -115.17586589999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Cowabunga Bay Water Park",
+        "rating": 4.3,
+        "address": "900 Galleria Dr, Henderson, NV 89011",
+        "latitude": 36.0721665,
+        "longitude": -115.0252184
+    },
+    {
+        "category": "adventure parks",
+        "title": "Ninja Kidz Action Park - Las Vegas",
+        "rating": 4.8,
+        "address": "2640 S Decatur Blvd, Las Vegas, NV 89102",
+        "latitude": 36.1418835,
+        "longitude": -115.20716429999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Fright Dome",
+        "rating": 4.3,
+        "address": "2880 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.137997,
+        "longitude": -115.16626199999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Thrill Rides",
+        "rating": 4.4,
+        "address": "2000 Las Vegas Blvd S, Las Vegas, NV 89104",
+        "latitude": 36.1476136,
+        "longitude": -115.1555872
+    },
+    {
+        "category": "adventure parks",
+        "title": "X World 360 at Grand Bazaar Shops - Virtual Reality Rides",
+        "rating": 4.2,
+        "address": "3635 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.114136599999995,
+        "longitude": -115.1719593
+    },
+    {
+        "category": "adventure parks",
+        "title": "Las Vegas Mini Grand Prix Family Fun Center",
+        "rating": 4.4,
+        "address": "1401 N Rainbow Blvd, Las Vegas, NV 89108",
+        "latitude": 36.18756,
+        "longitude": -115.243241
+    },
+    {
+        "category": "adventure parks",
+        "title": "K1 Speed - Indoor Go Karts, Corporate Event Venue, Team Building Activities",
+        "rating": 4.4,
+        "address": "4175 S Arville St, Las Vegas, NV 89103",
+        "latitude": 36.114247999999996,
+        "longitude": -115.199811
+    },
+    {
+        "category": "adventure parks",
+        "title": "UPTOWN JUNGLE FUN PARK | North Las Vegas, NV",
+        "rating": 3.8,
+        "address": "1631 W Craig Rd, North Las Vegas, NV 89032",
+        "latitude": 36.2379069,
+        "longitude": -115.1650945
+    },
+    {
+        "category": "adventure parks",
+        "title": "El Loco",
+        "rating": 4,
+        "address": "2880 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.138053899999996,
+        "longitude": -115.1667071
+    },
+    {
+        "category": "adventure parks",
+        "title": "Cowabunga Canyon Waterpark",
+        "rating": 4,
+        "address": "7055 S Fort Apache Rd, Las Vegas, NV 89148",
+        "latitude": 36.0598896,
+        "longitude": -115.3004193
+    },
+    {
+        "category": "adventure parks",
+        "title": "Electric Playhouse",
+        "rating": 4.5,
+        "address": "3500 S Las Vegas Blvd Suite T-01A, Las Vegas, NV 89109",
+        "latitude": 36.1195332,
+        "longitude": -115.1730439
+    },
+    {
+        "category": "adventure parks",
+        "title": "The Park",
+        "rating": 4.6,
+        "address": "The Park Vegas, 3782 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1034489,
+        "longitude": -115.1739788
+    },
+    {
+        "category": "adventure parks",
+        "title": "One World Interactive Aquarium",
+        "rating": 4.7,
+        "address": "3528 S Maryland Pkwy Suite#340, Las Vegas, NV 89169",
+        "latitude": 36.1241882,
+        "longitude": -115.1351839
+    },
+    {
+        "category": "adventure parks",
+        "title": "Aliante Nature Discovery Park",
+        "rating": 4.5,
+        "address": "2627 Nature Park Dr, North Las Vegas, NV 89084",
+        "latitude": 36.286863,
+        "longitude": -115.1759568
+    },
+    {
+        "category": "adventure parks",
+        "title": "VR Adventures",
+        "rating": 4.6,
+        "address": "3545 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.117690599999996,
+        "longitude": -115.1694491
+    },
+    {
+        "category": "adventure parks",
+        "title": "Red Ridge Park and Splash Pad",
+        "rating": 4.2,
+        "address": "7027 S El Capitan Way, Las Vegas, NV 89148",
+        "latitude": 36.0615108,
+        "longitude": -115.2889907
+    },
+    {
+        "category": "adventure parks",
+        "title": "Magical Forest and HallOVeen at Opportunity Village",
+        "rating": 4.4,
+        "address": "6300 W Oakey Blvd, Las Vegas, NV 89146",
+        "latitude": 36.152772899999995,
+        "longitude": -115.2325843
+    },
+    {
+        "category": "hot springs",
+        "title": "Goldstrike Hot Spring",
+        "rating": 4.6,
+        "address": "Gold Strike Hot Springs Trail, Boulder City, NV 89005",
+        "latitude": 35.9999274,
+        "longitude": -114.743231
+    },
+    {
+        "category": "hot springs",
+        "title": "Hot Springs",
+        "rating": 4.2,
+        "address": "Nevada 89005",
+        "latitude": 35.9833145,
+        "longitude": -114.74887109999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Arizona Hot Springs Trailhead",
+        "rating": 4.7,
+        "address": "Willow Beach, AZ 86445",
+        "latitude": 35.9801709,
+        "longitude": -114.69731809999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Hot Spring",
+        "rating": 4.3,
+        "address": "Nevada 89005",
+        "latitude": 35.9447044,
+        "longitude": -114.73220309999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Kyle Spring",
+        "rating": 4.6,
+        "address": "North Las Vegas, NV 89030",
+        "latitude": 36.2052474,
+        "longitude": -115.1419464
+    },
+    {
+        "category": "hot springs",
+        "title": "Nevada Hot Spring",
+        "rating": null,
+        "address": "Arizona 86443",
+        "latitude": 36.000537099999995,
+        "longitude": -114.69553619999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Arizona Hot Springs",
+        "rating": 4.7,
+        "address": "Willow Beach, AZ 86445",
+        "latitude": 35.9605169,
+        "longitude": -114.7254634
+    },
+    {
+        "category": "hot springs",
+        "title": "Whitehead Springs",
+        "rating": 4,
+        "address": "Las Vegas, NV 89145",
+        "latitude": 36.1596909,
+        "longitude": -115.2597251
+    },
+    {
+        "category": "hot springs",
+        "title": "Calico Spring",
+        "rating": 5,
+        "address": "Nevada 89161",
+        "latitude": 36.1502457,
+        "longitude": -115.4236184
+    },
+    {
+        "category": "hot springs",
+        "title": "Stillwell Spring",
+        "rating": null,
+        "address": "Las Vegas, NV 89131",
+        "latitude": 36.3196882,
+        "longitude": -115.26806309999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Hot Springs",
+        "rating": 1.5,
+        "address": "Beatty, NV 89003",
+        "latitude": 36.9768891,
+        "longitude": -116.72228279999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Red Spring",
+        "rating": 5,
+        "address": "Nevada 89161",
+        "latitude": 36.1444125,
+        "longitude": -115.4202847
+    },
+    {
+        "category": "hot springs",
+        "title": "Cottonwood Spring",
+        "rating": 5,
+        "address": "Blue Diamond, NV 89004",
+        "latitude": 36.0455262,
+        "longitude": -115.4063925
+    },
+    {
+        "category": "hot springs",
+        "title": "Mormon Green Springs",
+        "rating": 5,
+        "address": "Blue Diamond, NV 89004",
+        "latitude": 36.0549702,
+        "longitude": -115.43667149999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Carson Hot Springs",
+        "rating": 4.4,
+        "address": "1500 Old Hot Springs Rd, Carson City, NV 89706",
+        "latitude": 39.193482599999996,
+        "longitude": -119.752028
+    },
+    {
+        "category": "hot springs",
+        "title": "Ash Creek Spring",
+        "rating": 4,
+        "address": "Nevada 89161",
+        "latitude": 36.1588566,
+        "longitude": -115.4313966
+    },
+    {
+        "category": "hot springs",
+        "title": "Death Valley Hot Springs",
+        "rating": 4.3,
+        "address": "368 Tecopa Hot Springs Rd, Tecopa, CA 92389",
+        "latitude": 35.8758626,
+        "longitude": -116.2277371
+    },
+    {
+        "category": "hot springs",
+        "title": "Trego Hot Springs",
+        "rating": 3.9,
+        "address": "Jungo Rd, Nevada",
+        "latitude": 40.7716229,
+        "longitude": -119.1167418
+    },
+    {
+        "category": "hot springs",
+        "title": "Cow Spring",
+        "rating": 5,
+        "address": "Paradise, NV 89121",
+        "latitude": 36.1221951,
+        "longitude": -115.0761088
+    },
+    {
+        "category": "hot springs",
+        "title": "Tecopa Hot Springs Resort",
+        "rating": 4.2,
+        "address": "860 Tecopa Hot Springs Rd, Tecopa, CA 92389",
+        "latitude": 35.869675699999995,
+        "longitude": -116.2326648
+    },
+    {
+        "category": "shopping malls",
+        "title": "Las Vegas North Premium Outlets",
+        "rating": 4.4,
+        "address": "875 S Grand Central Pkwy, Las Vegas, NV 89106",
+        "latitude": 36.1636508,
+        "longitude": -115.1577492
+    },
+    {
+        "category": "shopping malls",
+        "title": "Miracle Mile Shops",
+        "rating": 4.5,
+        "address": "3663 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "latitude": 36.1093404,
+        "longitude": -115.1725728
+    },
+    {
+        "category": "shopping malls",
+        "title": "Town Square Las Vegas",
+        "rating": 4.6,
+        "address": "6605 S Las Vegas Blvd, Las Vegas, NV 89119",
+        "latitude": 36.067796799999996,
+        "longitude": -115.1762255
+    },
+    {
+        "category": "shopping malls",
+        "title": "Fashion Show Las Vegas",
+        "rating": 4.5,
+        "address": "3200 Las Vegas Blvd S Ste. 600, Las Vegas, NV 89109",
+        "latitude": 36.1274776,
+        "longitude": -115.17119699999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Las Vegas South Premium Outlets",
+        "rating": 4.4,
+        "address": "7400 Las Vegas Blvd S, Las Vegas, NV 89123",
+        "latitude": 36.0539333,
+        "longitude": -115.16892829999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Grand Canal Shoppes at The Venetian Resort Las Vegas",
+        "rating": 4.6,
+        "address": "3377 Las Vegas Blvd S Suite 2600, Las Vegas, NV 89109",
+        "latitude": 36.1223898,
+        "longitude": -115.1674242
+    },
+    {
+        "category": "shopping malls",
+        "title": "Wynn Plaza",
+        "rating": 4.7,
+        "address": "3131 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.128169799999995,
+        "longitude": -115.1670482
+    },
+    {
+        "category": "shopping malls",
+        "title": "Meadows Mall",
+        "rating": 4.3,
+        "address": "4300 Meadows Ln, Las Vegas, NV 89107",
+        "latitude": 36.172508199999996,
+        "longitude": -115.1964086
+    },
+    {
+        "category": "shopping malls",
+        "title": "Boulevard Mall",
+        "rating": 4,
+        "address": "3528 S Maryland Pkwy, Las Vegas, NV 89169",
+        "latitude": 36.1244912,
+        "longitude": -115.13632009999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Forum Shops at Caesars",
+        "rating": 4.6,
+        "address": "3500 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "latitude": 36.119001,
+        "longitude": -115.1761257
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Shoppes At Mandalay Place",
+        "rating": 4.4,
+        "address": "The shoppes at Mandalay Place, 3950 S Las Vegas Blvd, Las Vegas, NV 89119",
+        "latitude": 36.093086,
+        "longitude": -115.17618209999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Fremont Street Experience",
+        "rating": 4.6,
+        "address": "Fremont St, Las Vegas, NV 89101",
+        "latitude": 36.1707275,
+        "longitude": -115.14382289999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Grand Bazaar Shops",
+        "rating": 4.3,
+        "address": "3635 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1141946,
+        "longitude": -115.17214109999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Historic Commercial Center District",
+        "rating": 4.1,
+        "address": "953 E Sahara Ave, Las Vegas, NV 89104",
+        "latitude": 36.142244,
+        "longitude": -115.1423178
+    },
+    {
+        "category": "shopping malls",
+        "title": "Le Boulevard at Paris",
+        "rating": 4.5,
+        "address": "3645 Las Vegas Monorail, Las Vegas, NV 89109",
+        "latitude": 36.1123993,
+        "longitude": -115.1708278
+    },
+    {
+        "category": "shopping malls",
+        "title": "Charleston Commons Shopping Center",
+        "rating": 4.2,
+        "address": "15 N Nellis Blvd, Las Vegas, NV 89110",
+        "latitude": 36.1594135,
+        "longitude": -115.06404459999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westland Fair",
+        "rating": 4.2,
+        "address": "W Charleston Blvd &, S Decatur Blvd, Las Vegas, NV 89102",
+        "latitude": 36.1576188,
+        "longitude": -115.20259999999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Outlet Premium",
+        "rating": 4.5,
+        "address": "725-929 S Grand Central Pkwy, Las Vegas, NV 89106",
+        "latitude": 36.1625265,
+        "longitude": -115.1578435
+    },
+    {
+        "category": "shopping malls",
+        "title": "Sahara Towne Square",
+        "rating": 4.1,
+        "address": "2650 S Maryland Pkwy, Las Vegas, NV 89109",
+        "latitude": 36.142883,
+        "longitude": -115.1352991
+    },
+    {
+        "category": "shopping malls",
+        "title": "Neonopolis",
+        "rating": 4.3,
+        "address": "450 Fremont St, Las Vegas, NV 89101",
+        "latitude": 36.1701768,
+        "longitude": -115.1404661
+    },
+    {
+        "category": "historical sites",
+        "title": "Jungle Palace",
+        "rating": 4.7,
+        "address": "1653 Valley Dr, Las Vegas, NV 89108",
+        "latitude": 36.1891372,
+        "longitude": -115.19655809999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Las Vegas Blvd",
+        "rating": 5,
+        "address": "Las Vegas, NV 89101",
+        "latitude": 36.171563,
+        "longitude": -115.13910089999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Nevada State Museum, Las Vegas",
+        "rating": 4.7,
+        "address": "309 S Valley View Blvd, Las Vegas, NV 89107",
+        "latitude": 36.1722031,
+        "longitude": -115.19023399999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Springs Preserve",
+        "rating": 4.7,
+        "address": "333 S Valley View Blvd, Las Vegas, NV 89107",
+        "latitude": 36.1693608,
+        "longitude": -115.1906908
+    },
+    {
+        "category": "historical sites",
+        "title": "The Rat Pack Memorial Plaque",
+        "rating": 4,
+        "address": "3377 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "latitude": 36.1218436,
+        "longitude": -115.1712716
+    },
+    {
+        "category": "historical sites",
+        "title": "The Neon Museum Las Vegas",
+        "rating": 4.4,
+        "address": "770 Las Vegas Blvd N, Las Vegas, NV 89101",
+        "latitude": 36.1769882,
+        "longitude": -115.1353374
+    },
+    {
+        "category": "historical sites",
+        "title": "The Punk Rock Museum",
+        "rating": 4.8,
+        "address": "1422 Western Ave, Las Vegas, NV 89102",
+        "latitude": 36.1542822,
+        "longitude": -115.160637
+    },
+    {
+        "category": "historical sites",
+        "title": "Old Las Vegas Mormon Fort State Historic Park",
+        "rating": 4.6,
+        "address": "500 E Washington Ave, Las Vegas, NV 89101",
+        "latitude": 36.1806609,
+        "longitude": -115.133551
+    },
+    {
+        "category": "historical sites",
+        "title": "The Mob Museum",
+        "rating": 4.6,
+        "address": "300 Stewart Ave, Las Vegas, NV 89101",
+        "latitude": 36.1728198,
+        "longitude": -115.1412395
+    },
+    {
+        "category": "historical sites",
+        "title": "Las Vegas Science & Natural History Museum",
+        "rating": 4.5,
+        "address": "900 Las Vegas Blvd N, Las Vegas, NV 89101",
+        "latitude": 36.1798749,
+        "longitude": -115.13382059999999
+    },
+    {
+        "category": "historical sites",
+        "title": "The Liberace Mansion",
+        "rating": 4.5,
+        "address": "4982 Shirley St, Las Vegas, NV 89119",
+        "latitude": 36.099466,
+        "longitude": -115.142178
+    },
+    {
+        "category": "historical sites",
+        "title": "Welcome to Fabulous Las Vegas Sign",
+        "rating": 4.6,
+        "address": "5100 Las Vegas Blvd S, Las Vegas, NV 89119",
+        "latitude": 36.0820727,
+        "longitude": -115.17277899999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Floyd Lamb Park",
+        "rating": 4.7,
+        "address": "9200 Tule Springs Rd, Las Vegas, NV 89131",
+        "latitude": 36.3215465,
+        "longitude": -115.2685145
+    },
+    {
+        "category": "historical sites",
+        "title": "Historic Downtown Las Vegas",
+        "rating": 4.6,
+        "address": "50 Las Vegas Blvd N, Las Vegas, NV 89101",
+        "latitude": 36.1694752,
+        "longitude": -115.1412235
+    },
+    {
+        "category": "historical sites",
+        "title": "Kiel Ranch Historic Site",
+        "rating": 4.4,
+        "address": "2465 Kiel Way, North Las Vegas, NV 89030",
+        "latitude": 36.2032787,
+        "longitude": -115.1404553
+    },
+    {
+        "category": "historical sites",
+        "title": "Underground House aka Las Vegas Underground Mansion",
+        "rating": 4.7,
+        "address": "3970 Spencer St, Las Vegas, NV 89119",
+        "latitude": 36.116808899999995,
+        "longitude": -115.12736659999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Zak Bagans' The Haunted Museum",
+        "rating": 4.5,
+        "address": "600 E Charleston Blvd, Las Vegas, NV 89104",
+        "latitude": 36.1584152,
+        "longitude": -115.146097
+    },
+    {
+        "category": "historical sites",
+        "title": "Vegas Afterlife - Ghost Tours & Paranormal Investigations",
+        "rating": 4.9,
+        "address": "600 Fremont St, Las Vegas, NV 89101",
+        "latitude": 36.168642,
+        "longitude": -115.1389057
+    },
+    {
+        "category": "historical sites",
+        "title": "Red Rock Canyon National Conservation Area",
+        "rating": 4.8,
+        "address": "Mountain Springs, NV 89161",
+        "latitude": 36.1944273,
+        "longitude": -115.4382967
+    },
+    {
+        "category": "historical sites",
+        "title": "Historic Circus Circus Sign",
+        "rating": 4.5,
+        "address": "Las Vegas, NV 89109",
+        "latitude": 36.1368515,
+        "longitude": -115.1623412
+    },
+    {
+        "category": "art galleries",
+        "title": "The Arts Factory",
+        "rating": 4.6,
+        "address": "107 E Charleston Blvd, Las Vegas, NV 89104",
+        "latitude": 36.158998,
+        "longitude": -115.15289899999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Park West Fine Art Museum & Gallery Las Vegas",
+        "rating": 4.1,
+        "address": "3500 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "latitude": 36.119392399999995,
+        "longitude": -115.1734381
+    },
+    {
+        "category": "art galleries",
+        "title": "Spencer Couture Art Gallery",
+        "rating": 5,
+        "address": "3930 Las Vegas Blvd S #105, Las Vegas, NV 89119",
+        "latitude": 36.0942477,
+        "longitude": -115.17629439999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Donna Beam Fine Art Gallery",
+        "rating": 4.6,
+        "address": "4505 S Maryland Pkwy, Las Vegas, NV 89154",
+        "latitude": 36.1093988,
+        "longitude": -115.1384396
+    },
+    {
+        "category": "art galleries",
+        "title": "Martin Lawrence Galleries",
+        "rating": 4.4,
+        "address": "3500 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "latitude": 36.1195579,
+        "longitude": -115.1780187
+    },
+    {
+        "category": "art galleries",
+        "title": "Bellagio Gallery of Fine Art",
+        "rating": 4,
+        "address": "Bellagio Hotel & Casino, 3600 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "latitude": 36.112991699999995,
+        "longitude": -115.17756879999999
+    },
+    {
+        "category": "art galleries",
+        "title": "City of the World Art Gallery",
+        "rating": 4.8,
+        "address": "4300 Meadows Ln Suite 2270, Las Vegas, NV 89107",
+        "latitude": 36.1726548,
+        "longitude": -115.1965118
+    },
+    {
+        "category": "art galleries",
+        "title": "Left of Center Gallery",
+        "rating": 4.9,
+        "address": "2207 W Gowan Rd, North Las Vegas, NV 89032",
+        "latitude": 36.2245299,
+        "longitude": -115.1732691
+    },
+    {
+        "category": "art galleries",
+        "title": "William Carr Gallery",
+        "rating": 4.7,
+        "address": "3645 Las Vegas Blvd S Suite 323, Las Vegas, NV 89109",
+        "latitude": 36.114346499999996,
+        "longitude": -115.16952889999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Portnoy Gallery LLC",
+        "rating": 5,
+        "address": "1537 W Oakey Blvd, Las Vegas, NV 89102",
+        "latitude": 36.151645599999995,
+        "longitude": -115.162307
+    },
+    {
+        "category": "art galleries",
+        "title": "LIK Fine Art",
+        "rating": 4.6,
+        "address": "The Grand Canal Shoppes, 3377 S Las Vegas Blvd Suite 2071, Las Vegas, NV 89109",
+        "latitude": 36.122338299999996,
+        "longitude": -115.16967299999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Centaur Art Galleries- \"The Oldest Fine Art Gallery in Las Vegas\"",
+        "rating": 4.5,
+        "address": "4305 Dean Martin Dr STE 165, Las Vegas, NV 89103",
+        "latitude": 36.1115694,
+        "longitude": -115.181817
+    },
+    {
+        "category": "art galleries",
+        "title": "Priscilla Fowler Fine Art",
+        "rating": 4.9,
+        "address": "1308 S Main St, Las Vegas, NV 89104",
+        "latitude": 36.155728599999996,
+        "longitude": -115.15415859999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Animazing Gallery",
+        "rating": 4.6,
+        "address": "3377 S Las Vegas Blvd #2245, Las Vegas, NV 89109",
+        "latitude": 36.1226997,
+        "longitude": -115.169197
+    },
+    {
+        "category": "art galleries",
+        "title": "Signature Galleries",
+        "rating": 4.1,
+        "address": "3377 S Las Vegas Blvd #2310, Las Vegas, NV 89109",
+        "latitude": 36.122053,
+        "longitude": -115.16847399999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Vladimir Kush - Kush Fine Art Las Vegas",
+        "rating": 4.7,
+        "address": "3500 Las Vegas Blvd S Suite 30 A, Las Vegas, NV 89109",
+        "latitude": 36.1195743,
+        "longitude": -115.1731751
+    },
+    {
+        "category": "art galleries",
+        "title": "National Gallery of Fine Art Las Vegas",
+        "rating": 4.8,
+        "address": "3500 South Las Vegas Blvd Ste E11A, Las Vegas, NV 89109",
+        "latitude": 36.1191556,
+        "longitude": -115.1762133
+    },
+    {
+        "category": "art galleries",
+        "title": "Elena Bulatova Fine Art",
+        "rating": 4.3,
+        "address": "3720 S Las Vegas Blvd Unit 266, Las Vegas, NV 89158",
+        "latitude": 36.107511599999995,
+        "longitude": -115.17474709999999
+    },
+    {
+        "category": "art galleries",
+        "title": "The Conrad West Gallery",
+        "rating": 4.9,
+        "address": "1201 S Commerce St, Las Vegas, NV 89102",
+        "latitude": 36.157297799999995,
+        "longitude": -115.1546386
+    },
+    {
+        "category": "art galleries",
+        "title": "Arte Museum Las Vegas",
+        "rating": 4.8,
+        "address": "3716 S Las Vegas Blvd 2nd Floor, Suite 208, Las Vegas, NV 89158",
+        "latitude": 36.108801299999996,
+        "longitude": -115.17420469999999
+    },
+    {
+        "category": "theaters",
+        "title": "AMC Rainbow Promenade 10",
+        "rating": 4.4,
+        "address": "2321 N Rainbow Blvd, Las Vegas, NV 89108",
+        "latitude": 36.2025694,
+        "longitude": -115.24343999999999
+    },
+    {
+        "category": "theaters",
+        "title": "AMC Town Square 18",
+        "rating": 4.1,
+        "address": "6587 Las Vegas Blvd S, Las Vegas, NV 89119",
+        "latitude": 36.0682817,
+        "longitude": -115.1785129
+    },
+    {
+        "category": "theaters",
+        "title": "Downtown Cinemas",
+        "rating": 4.4,
+        "address": "814 S 3rd St 2nd Floor, Las Vegas, NV 89101",
+        "latitude": 36.1617908,
+        "longitude": -115.148803
+    },
+    {
+        "category": "theaters",
+        "title": "Regal Red Rock",
+        "rating": 4.3,
+        "address": "11011 W Charleston Blvd, Las Vegas, NV 89135",
+        "latitude": 36.154694,
+        "longitude": -115.33501
+    },
+    {
+        "category": "theaters",
+        "title": "Galaxy Theatres Cannery",
+        "rating": 4.6,
+        "address": "2121 E Craig Rd, North Las Vegas, NV 89030",
+        "latitude": 36.2379865,
+        "longitude": -115.1201182
+    },
+    {
+        "category": "theaters",
+        "title": "Cinemark Century Suncoast 16 and XD",
+        "rating": 4.5,
+        "address": "9090 Alta Dr, Las Vegas, NV 89144",
+        "latitude": 36.169182299999996,
+        "longitude": -115.2910469
+    },
+    {
+        "category": "theaters",
+        "title": "Regal Boulder Station",
+        "rating": 4.2,
+        "address": "4111 Boulder Hwy, Las Vegas, NV 89121",
+        "latitude": 36.1344554,
+        "longitude": -115.08461059999999
+    },
+    {
+        "category": "theaters",
+        "title": "Brenden Theatres",
+        "rating": 4.4,
+        "address": "4321 W Flamingo Rd, Las Vegas, NV 89103",
+        "latitude": 36.1139885,
+        "longitude": -115.1958693
+    },
+    {
+        "category": "theaters",
+        "title": "The Beverly Theater",
+        "rating": 4.8,
+        "address": "515 S 6th St, Las Vegas, NV 89101",
+        "latitude": 36.163488799999996,
+        "longitude": -115.1426206
+    },
+    {
+        "category": "theaters",
+        "title": "Cinemark Century Orleans 18 and XD",
+        "rating": 4.5,
+        "address": "4500 W Tropicana Ave, Las Vegas, NV 89103",
+        "latitude": 36.1026495,
+        "longitude": -115.20180119999999
+    },
+    {
+        "category": "theaters",
+        "title": "Galaxy Theatres Boulevard Mall",
+        "rating": 4.6,
+        "address": "3680 S Maryland Pkwy Suite 182, Las Vegas, NV 89169",
+        "latitude": 36.1237329,
+        "longitude": -115.1348331
+    },
+    {
+        "category": "theaters",
+        "title": "Regal Summerlin Luxury",
+        "rating": 4.6,
+        "address": "2070 Park Centre Dr, Las Vegas, NV 89135",
+        "latitude": 36.149097,
+        "longitude": -115.33202999999999
+    },
+    {
+        "category": "theaters",
+        "title": "West Wind Las Vegas Drive-In",
+        "rating": 4.6,
+        "address": "4150 W Carey Ave, North Las Vegas, NV 89032",
+        "latitude": 36.205292199999995,
+        "longitude": -115.19622509999999
+    },
+    {
+        "category": "theaters",
+        "title": "Maya Cinemas North Las Vegas",
+        "rating": 4.5,
+        "address": "2195 Las Vegas Blvd N, North Las Vegas, NV 89030",
+        "latitude": 36.2010357,
+        "longitude": -115.12630229999999
+    },
+    {
+        "category": "theaters",
+        "title": "Cinemark Century Santa Fe Station 16 and XD",
+        "rating": 4.5,
+        "address": "4949 N Rancho Dr, Las Vegas, NV 89130",
+        "latitude": 36.2485728,
+        "longitude": -115.24586559999999
+    },
+    {
+        "category": "theaters",
+        "title": "Regal Aliante",
+        "rating": 4.3,
+        "address": "7300 N Aliante Pkwy, North Las Vegas, NV 89084",
+        "latitude": 36.292843,
+        "longitude": -115.17884
+    },
+    {
+        "category": "theaters",
+        "title": "TROPICANA CINEMAS",
+        "rating": 4.4,
+        "address": "3330 E Tropicana Ave, Las Vegas, NV 89121",
+        "latitude": 36.1013959,
+        "longitude": -115.10266539999999
+    },
+    {
+        "category": "theaters",
+        "title": "Regal Cinebarre Palace Station",
+        "rating": 4.2,
+        "address": "2411 W Sahara Ave, Las Vegas, NV 89102",
+        "latitude": 36.143174,
+        "longitude": -115.1741916
+    },
+    {
+        "category": "theaters",
+        "title": "Cinemark Century Sam's Town 18",
+        "rating": 4.4,
+        "address": "5111 Boulder Hwy, Las Vegas, NV 89122",
+        "latitude": 36.1119883,
+        "longitude": -115.061297
+    },
+    {
+        "category": "theaters",
+        "title": "Galaxy Theatres Green Valley",
+        "rating": 4.6,
+        "address": "4500 E Sunset Rd #10, Henderson, NV 89014",
+        "latitude": 36.0721661,
+        "longitude": -115.07673229999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir Supermart",
+        "rating": 4.3,
+        "address": "322 Fremont St #108, Las Vegas, NV 89101",
+        "latitude": 36.170085,
+        "longitude": -115.14209199999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Las Vegas Souvenirs & Gifts",
+        "rating": 4.6,
+        "address": "4130 Koval Ln, Las Vegas, NV 89109",
+        "latitude": 36.1137861,
+        "longitude": -115.1637638
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Fun Gifts",
+        "rating": 4.6,
+        "address": "3041 Las Vegas Blvd S # 1, Las Vegas, NV 89109",
+        "latitude": 36.1321576,
+        "longitude": -115.16445089999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir Outlet",
+        "rating": 4.2,
+        "address": "3961 S Las Vegas Blvd, Las Vegas, NV 89119",
+        "latitude": 36.0917397,
+        "longitude": -115.1723935
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Welcome to Las Vegas",
+        "rating": 4.3,
+        "address": "3545 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1176849,
+        "longitude": -115.1709217
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Welcome To Las Vegas",
+        "rating": 4.4,
+        "address": "3799 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "latitude": 36.1024163,
+        "longitude": -115.1703282
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Bonanza Gift Shop",
+        "rating": 4.1,
+        "address": "2400 S Las Vegas Blvd, Las Vegas, NV 89104",
+        "latitude": 36.1444439,
+        "longitude": -115.1573217
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Official Las Vegas Welcome",
+        "rating": 4,
+        "address": "3055 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1314339,
+        "longitude": -115.1648666
+    },
+    {
+        "category": "souvenir counters",
+        "title": "One Stop Western Village",
+        "rating": 3.7,
+        "address": "321 Fremont St, Las Vegas, NV 89101",
+        "latitude": 36.169548,
+        "longitude": -115.14215399999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Magnet Max",
+        "rating": 4.4,
+        "address": "3663 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.110285399999995,
+        "longitude": -115.1690703
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Fabulous Las Vegas Jewelry and Gifts LLC",
+        "rating": 3.7,
+        "address": "300 Fremont St, Las Vegas, NV 89101",
+        "latitude": 36.1702959,
+        "longitude": -115.14264039999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "TI Gift Shop",
+        "rating": 4.1,
+        "address": "3300 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1246589,
+        "longitude": -115.1705923
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Viva Vegas F2",
+        "rating": 3.4,
+        "address": "317 Fremont St, Las Vegas, NV 89101",
+        "latitude": 36.169552599999996,
+        "longitude": -115.1423641
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Welcome to Las vegas",
+        "rating": 4.4,
+        "address": "5757 Wayne Newton Blvd, Las Vegas, NV 89119",
+        "latitude": 36.0812222,
+        "longitude": -115.1390854
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Viva Vegas Gifts - Miracle Mile",
+        "rating": 3.7,
+        "address": "3717 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "latitude": 36.1087932,
+        "longitude": -115.1723222
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Welcome To Las Vegas",
+        "rating": 3.5,
+        "address": "2000 Las Vegas Blvd S, Las Vegas, NV 89104",
+        "latitude": 36.1473845,
+        "longitude": -115.1566778
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Tower Gift Shop",
+        "rating": 4.6,
+        "address": "2000 S Las Vegas Blvd, Las Vegas, NV 89102",
+        "latitude": 36.1472468,
+        "longitude": -115.15603109999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Viva Vegas",
+        "rating": 3.5,
+        "address": "855 S Grand Central Pkwy #1863, Las Vegas, NV 89106",
+        "latitude": 36.1629035,
+        "longitude": -115.15813689999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gifts & Tees",
+        "rating": 3.1,
+        "address": "23 Fremont St, Las Vegas, NV 89101",
+        "latitude": 36.171119,
+        "longitude": -115.14577299999999
+    }
+]

@@ -1,0 +1,3402 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Fisherman's Bastion",
+        "rating": 4.8,
+        "address": "Budapest, 1014, Hungary",
+        "latitude": 47.5021827,
+        "longitude": 19.034781199999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Buda Castle",
+        "rating": 4.7,
+        "address": "Budapest, Szent György tér, 1014, Hungary",
+        "latitude": 47.4962048,
+        "longitude": 19.0395666
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hungarian Parliament Building",
+        "rating": 4.8,
+        "address": "Budapest, Kossuth Lajos tér 1-3, 1055, Hungary",
+        "latitude": 47.507121,
+        "longitude": 19.045669
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Gatehouse Tower",
+        "rating": 4.7,
+        "address": "Budapest, Vajdahunyad stny., 1146, Hungary",
+        "latitude": 47.515745599999995,
+        "longitude": 19.082054
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Vajdahunyad Castle",
+        "rating": 4.7,
+        "address": "Budapest, Vajdahunyad stny., 1146, Hungary",
+        "latitude": 47.5148896,
+        "longitude": 19.0830593
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Vörösmarty Square",
+        "rating": 4.6,
+        "address": "Budapest, Vörösmarty tér 3, 1051, Hungary",
+        "latitude": 47.4964835,
+        "longitude": 19.0507033
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Millennium Monument",
+        "rating": 4.7,
+        "address": "Budapest, Hősök tere, 1146, Hungary",
+        "latitude": 47.515192,
+        "longitude": 19.0781554
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Heroes' Square",
+        "rating": 4.7,
+        "address": "Budapest, Hősök tere, 1146, Hungary",
+        "latitude": 47.5149429,
+        "longitude": 19.0778626
+    },
+    {
+        "category": "tourist attractions",
+        "title": "St. Stephen's Basilica",
+        "rating": 4.7,
+        "address": "Budapest, Szent István tér 1, 1051, Hungary",
+        "latitude": 47.5008902,
+        "longitude": 19.053988699999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "The Church of Our Lady of Buda Castle",
+        "rating": 4.8,
+        "address": "Budapest, Szentháromság tér 2, 1014, Hungary",
+        "latitude": 47.5019537,
+        "longitude": 19.0341617
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Széchenyi Chain Bridge",
+        "rating": 4.7,
+        "address": "Budapest, Széchenyi Lánchíd, 1051, Hungary",
+        "latitude": 47.498992799999996,
+        "longitude": 19.043699399999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Budapest Sign",
+        "rating": 4.1,
+        "address": "Budapest, 1138, Hungary",
+        "latitude": 47.5198411,
+        "longitude": 19.046290799999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Budai Castle Tunnel",
+        "rating": 4.6,
+        "address": "Budapest, Alagút, 1012, Hungary",
+        "latitude": 47.498124999999995,
+        "longitude": 19.0394872
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Fővám Square",
+        "rating": 4.6,
+        "address": "Budapest, Fővám tér, 1056, Hungary",
+        "latitude": 47.4872471,
+        "longitude": 19.0570678
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Oroszlános udvar",
+        "rating": 4.7,
+        "address": "Budapest, Szent György tér 2, 1014, Hungary",
+        "latitude": 47.4955755,
+        "longitude": 19.039882199999997
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Little Princess Statue",
+        "rating": 4.6,
+        "address": "Budapest, Belgrád rkp., 1051, Hungary",
+        "latitude": 47.4959269,
+        "longitude": 19.0481593
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Fountain of King Matthias",
+        "rating": 4.8,
+        "address": "Budapest, Szent György u., 1013, Hungary",
+        "latitude": 47.496189699999995,
+        "longitude": 19.0391028
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hungarian National Museum",
+        "rating": 4.5,
+        "address": "Budapest, Múzeum krt. 14-16, 1088, Hungary",
+        "latitude": 47.4911983,
+        "longitude": 19.0624765
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Parliament Viewpoint",
+        "rating": 4.8,
+        "address": "Budapest, Batthyány tér M+H, Bem rkp., 1011, Hungary",
+        "latitude": 47.5077498,
+        "longitude": 19.0397486
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Statue Of The Independence War",
+        "rating": 4.4,
+        "address": "Budapest, I. kerület, 1014, Hungary",
+        "latitude": 47.4995974,
+        "longitude": 19.035187099999998
+    },
+    {
+        "category": "parks",
+        "title": "City Park",
+        "rating": 4.7,
+        "address": "Budapest, Kós Károly stny., 1146, Hungary",
+        "latitude": 47.514292,
+        "longitude": 19.085244
+    },
+    {
+        "category": "parks",
+        "title": "Orczy Garden",
+        "rating": 4.7,
+        "address": "Budapest, Orczy út 1, 1089, Hungary",
+        "latitude": 47.4818577,
+        "longitude": 19.0879941
+    },
+    {
+        "category": "parks",
+        "title": "Óhegy park",
+        "rating": 4.7,
+        "address": "Budapest, Óhegy u., 1103, Hungary",
+        "latitude": 47.4798073,
+        "longitude": 19.1446508
+    },
+    {
+        "category": "parks",
+        "title": "Millenáris Park",
+        "rating": 4.7,
+        "address": "Budapest, Kis Rókus u. 16-20, 1024, Hungary",
+        "latitude": 47.5111341,
+        "longitude": 19.024893199999998
+    },
+    {
+        "category": "parks",
+        "title": "Március 15. tér",
+        "rating": 4.4,
+        "address": "Budapest, 1052, Hungary",
+        "latitude": 47.4923186,
+        "longitude": 19.0513333
+    },
+    {
+        "category": "parks",
+        "title": "Park Népliget",
+        "rating": 4,
+        "address": "Budapest, 1101, Hungary",
+        "latitude": 47.4791338,
+        "longitude": 19.108722
+    },
+    {
+        "category": "parks",
+        "title": "Danube-Ipoly National Park",
+        "rating": 4.8,
+        "address": "Budapest, Költő utca 21, 1121, Hungary",
+        "latitude": 47.7264415,
+        "longitude": 18.9081573
+    },
+    {
+        "category": "parks",
+        "title": "Szent István park",
+        "rating": 4.5,
+        "address": "Budapest, 1137, Hungary",
+        "latitude": 47.518484799999996,
+        "longitude": 19.050819
+    },
+    {
+        "category": "parks",
+        "title": "Károlyi Garden",
+        "rating": 4.7,
+        "address": "Budapest, Károlyi kert 25, 1053, Hungary",
+        "latitude": 47.4920944,
+        "longitude": 19.059775
+    },
+    {
+        "category": "parks",
+        "title": "Kopaszi-gát",
+        "rating": 4.6,
+        "address": "Budapest, Andalgó u. 15, 1117, Hungary",
+        "latitude": 47.46742,
+        "longitude": 19.0639365
+    },
+    {
+        "category": "parks",
+        "title": "Mansfeld Péter Park",
+        "rating": 4.7,
+        "address": "Budapest, Veronika u. 6, 1023, Hungary",
+        "latitude": 47.5167462,
+        "longitude": 19.0326283
+    },
+    {
+        "category": "parks",
+        "title": "Main Playground in Városliget",
+        "rating": 4.8,
+        "address": "Budapest, Ajtósi Dürer sor 15, 1146, Hungary",
+        "latitude": 47.5097695,
+        "longitude": 19.0860535
+    },
+    {
+        "category": "parks",
+        "title": "Elizabeth Square",
+        "rating": 4.5,
+        "address": "Budapest, Deák Ferenc tér 2, 1052, Hungary",
+        "latitude": 47.4982313,
+        "longitude": 19.0526651
+    },
+    {
+        "category": "parks",
+        "title": "Liberty Square",
+        "rating": 4.5,
+        "address": "Budapest, Szabadság tér, 1054, Hungary",
+        "latitude": 47.503974899999996,
+        "longitude": 19.050609599999998
+    },
+    {
+        "category": "parks",
+        "title": "Közösségi Park",
+        "rating": 4.6,
+        "address": "Budapest, Ferenc tér 1, 1094, Hungary",
+        "latitude": 47.481226299999996,
+        "longitude": 19.073704199999998
+    },
+    {
+        "category": "parks",
+        "title": "Bikás park",
+        "rating": 4.6,
+        "address": "Budapest, 1119, Hungary",
+        "latitude": 47.4651272,
+        "longitude": 19.0332525
+    },
+    {
+        "category": "parks",
+        "title": "Tarzan Park",
+        "rating": 4.6,
+        "address": "Budapest, Tábor u. 26-28, 1046, Hungary",
+        "latitude": 47.572242599999996,
+        "longitude": 19.111910599999998
+    },
+    {
+        "category": "parks",
+        "title": "Városmajor park",
+        "rating": 4.5,
+        "address": "Budapest, Szilágyi Erzsébet fasor, 1122, Hungary",
+        "latitude": 47.5078094,
+        "longitude": 19.0175658
+    },
+    {
+        "category": "parks",
+        "title": "Budapest Park",
+        "rating": 4.6,
+        "address": "Budapest, Fábián Juli tér 1, 1095, Hungary",
+        "latitude": 47.467605899999995,
+        "longitude": 19.0770184
+    },
+    {
+        "category": "parks",
+        "title": "Pünkösdfürdő Park",
+        "rating": 4.7,
+        "address": "Budapest, Kossuth Lajos üdülőpart 136, 1039, Hungary",
+        "latitude": 47.603998999999995,
+        "longitude": 19.072281399999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Hungarikum Bisztró",
+        "rating": 4.7,
+        "address": "Budapest, Steindl Imre u. 13, 1051, Hungary",
+        "latitude": 47.503483499999994,
+        "longitude": 19.0479192
+    },
+    {
+        "category": "restaurants",
+        "title": "Parisi 6",
+        "rating": 4.8,
+        "address": "Budapest, Párizsi u. 6b, 1052, Hungary",
+        "latitude": 47.4941428,
+        "longitude": 19.0536826
+    },
+    {
+        "category": "restaurants",
+        "title": "Fat Mama",
+        "rating": 4.7,
+        "address": "Budapest, Kazinczy u. 24, 1075, Hungary",
+        "latitude": 47.497883599999994,
+        "longitude": 19.062777
+    },
+    {
+        "category": "restaurants",
+        "title": "Comme Chez Soi",
+        "rating": 4.7,
+        "address": "Budapest, Aranykéz u. 2, 1051, Hungary",
+        "latitude": 47.494507299999995,
+        "longitude": 19.051353
+    },
+    {
+        "category": "restaurants",
+        "title": "Mazel Tov",
+        "rating": 4.6,
+        "address": "Budapest, Akácfa u. 47, 1073, Hungary",
+        "latitude": 47.5002778,
+        "longitude": 19.0655242
+    },
+    {
+        "category": "restaurants",
+        "title": "Goulash & Langosh Bar",
+        "rating": 4.6,
+        "address": "Budapest, Duna u. 3, 1056, Hungary",
+        "latitude": 47.4918218,
+        "longitude": 19.0537728
+    },
+    {
+        "category": "restaurants",
+        "title": "Menza Étterem és Kávéház",
+        "rating": 4.4,
+        "address": "Budapest, Liszt Ferenc tér 2, 1061, Hungary",
+        "latitude": 47.503963899999995,
+        "longitude": 19.0628165
+    },
+    {
+        "category": "restaurants",
+        "title": "Aranybástya",
+        "rating": 4.8,
+        "address": "Budapest, Buda Castle, Csónak u. 1, 1015 Hungary",
+        "latitude": 47.4998218,
+        "longitude": 19.0367736
+    },
+    {
+        "category": "restaurants",
+        "title": "Babel Budapest",
+        "rating": 4.6,
+        "address": "Budapest, Piarista köz 2, 1052, Hungary",
+        "latitude": 47.4927006,
+        "longitude": 19.052201699999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Bors Gastro Bar",
+        "rating": 4.8,
+        "address": "Budapest, Kazinczy u. 10, 1075, Hungary",
+        "latitude": 47.496726699999996,
+        "longitude": 19.0635487
+    },
+    {
+        "category": "restaurants",
+        "title": "Meshuga",
+        "rating": 4.8,
+        "address": "Budapest, Holló u. 12-14, 1075, Hungary",
+        "latitude": 47.4987821,
+        "longitude": 19.0593286
+    },
+    {
+        "category": "restaurants",
+        "title": "Trattoria Pomo D'Oro",
+        "rating": 4.7,
+        "address": "Budapest, Arany János u. 9, 1051, Hungary",
+        "latitude": 47.5018806,
+        "longitude": 19.048272
+    },
+    {
+        "category": "restaurants",
+        "title": "Costes Downtown",
+        "rating": 4.8,
+        "address": "Budapest, Vigyázó Ferenc u. 5, 1051, Hungary",
+        "latitude": 47.500990699999996,
+        "longitude": 19.048497599999997
+    },
+    {
+        "category": "restaurants",
+        "title": "Parasztkonyha Restaurant",
+        "rating": 4.8,
+        "address": "Budapest, Október 6. u. 3, 1051, Hungary",
+        "latitude": 47.4995428,
+        "longitude": 19.0513501
+    },
+    {
+        "category": "restaurants",
+        "title": "Dobrumba",
+        "rating": 4.5,
+        "address": "Budapest, Dob u. 5, 1074, Hungary",
+        "latitude": 47.496905299999995,
+        "longitude": 19.059951899999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Bob's Kitchen Budapest",
+        "rating": 4.8,
+        "address": "Budapest, Paulay Ede u. 16, 1061, Hungary",
+        "latitude": 47.5004978,
+        "longitude": 19.057408
+    },
+    {
+        "category": "restaurants",
+        "title": "Gettó Gulyás",
+        "rating": 4.6,
+        "address": "Budapest, Wesselényi utca 18, 1077, Hungary",
+        "latitude": 47.4973807,
+        "longitude": 19.062396
+    },
+    {
+        "category": "restaurants",
+        "title": "HILDA Budapest",
+        "rating": 4.5,
+        "address": "Budapest, Nádor u. 5, 1051, Hungary",
+        "latitude": 47.499656699999996,
+        "longitude": 19.0497078
+    },
+    {
+        "category": "restaurants",
+        "title": "Mozata",
+        "rating": 4.7,
+        "address": "Budapest, Párizsi u. 3, 1052, Hungary",
+        "latitude": 47.494014199999995,
+        "longitude": 19.0537317
+    },
+    {
+        "category": "restaurants",
+        "title": "Levante Budapest",
+        "rating": 4.7,
+        "address": "Budapest, Wesselényi utca 4, 1077, Hungary",
+        "latitude": 47.4965087,
+        "longitude": 19.0603999
+    },
+    {
+        "category": "cafes",
+        "title": "Madal Cafe",
+        "rating": 4.6,
+        "address": "Budapest, Ferenciek tere 3, 1053, Hungary",
+        "latitude": 47.4925548,
+        "longitude": 19.0561834
+    },
+    {
+        "category": "cafes",
+        "title": "Művész Coffee House (Artist Cafe)",
+        "rating": 4.4,
+        "address": "Budapest, Andrássy út 29, 1061, Hungary",
+        "latitude": 47.502638,
+        "longitude": 19.060017
+    },
+    {
+        "category": "cafes",
+        "title": "Budapest Baristas",
+        "rating": 4.6,
+        "address": "Budapest, Múzeum krt. 15, 1053, Hungary",
+        "latitude": 47.4925375,
+        "longitude": 19.0606983
+    },
+    {
+        "category": "cafes",
+        "title": "New York Café",
+        "rating": 4.1,
+        "address": "Budapest, Erzsébet krt. 9-11, 1073, Hungary",
+        "latitude": 47.4987259,
+        "longitude": 19.0704556
+    },
+    {
+        "category": "cafes",
+        "title": "Selah Coffee House - Specialty Coffee",
+        "rating": 4.7,
+        "address": "Budapest, Paulay Ede u. 15, 1061, Hungary",
+        "latitude": 47.5001119,
+        "longitude": 19.057277799999998
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Frei",
+        "rating": 4.6,
+        "address": "Budapest, Váci u 74, 1056, Hungary",
+        "latitude": 47.488715,
+        "longitude": 19.056829
+    },
+    {
+        "category": "cafes",
+        "title": "Kelet Kávézó és Galéria",
+        "rating": 4.7,
+        "address": "Budapest, Bartók Béla út 29, 1114, Hungary",
+        "latitude": 47.479772399999995,
+        "longitude": 19.0508635
+    },
+    {
+        "category": "cafes",
+        "title": "The Goat Herder - István utca",
+        "rating": 4.7,
+        "address": "Budapest, István u. 5, 1078, Hungary",
+        "latitude": 47.5029806,
+        "longitude": 19.0777361
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Muse",
+        "rating": 4.6,
+        "address": "Budapest, Petőfi Sándor u. 8, 1052, Hungary",
+        "latitude": 47.493795999999996,
+        "longitude": 19.0546596
+    },
+    {
+        "category": "cafes",
+        "title": "VINYL & WOOD - Get Lost in Wonderland",
+        "rating": 4.8,
+        "address": "Budapest, Wesselényi utca 23, 1077, Hungary",
+        "latitude": 47.4980458,
+        "longitude": 19.064734299999998
+    },
+    {
+        "category": "cafes",
+        "title": "Blue Bird Cafe",
+        "rating": 4.2,
+        "address": "Budapest, Dob u. 16, 1074, Hungary",
+        "latitude": 47.4975807,
+        "longitude": 19.0586175
+    },
+    {
+        "category": "cafes",
+        "title": "Magvető Café",
+        "rating": 4.6,
+        "address": "Budapest, Dohány u. 13, 1074, Hungary",
+        "latitude": 47.495700799999995,
+        "longitude": 19.0638522
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Muse",
+        "rating": 4.7,
+        "address": "Budapest, Sütő u. 2, 1052, Hungary",
+        "latitude": 47.496739399999996,
+        "longitude": 19.0539474
+    },
+    {
+        "category": "cafes",
+        "title": "Mantra Specialty Coffee Minibar",
+        "rating": 4.8,
+        "address": "Budapest, Veres Pálné u. 17, 1053, Hungary",
+        "latitude": 47.490061999999995,
+        "longitude": 19.0568764
+    },
+    {
+        "category": "cafes",
+        "title": "Madal Cafe",
+        "rating": 4.7,
+        "address": "Budapest, Hollán Ernő u. 3, 1136, Hungary",
+        "latitude": 47.5135188,
+        "longitude": 19.049623999999998
+    },
+    {
+        "category": "cafes",
+        "title": "Centrál Grand Cafe & Bar",
+        "rating": 4.7,
+        "address": "Budapest, Károlyi utca 9, 1053, Hungary",
+        "latitude": 47.491985,
+        "longitude": 19.056884
+    },
+    {
+        "category": "cafes",
+        "title": "Cube Coffee Bar - specialty coffee shop",
+        "rating": 4.6,
+        "address": "Budapest, Hunyadi tér 8, 1067, Hungary",
+        "latitude": 47.505963099999995,
+        "longitude": 19.067765299999998
+    },
+    {
+        "category": "cafes",
+        "title": "Zoo Café",
+        "rating": 4.4,
+        "address": "Budapest, Fejér György u. 3, 1053, Hungary",
+        "latitude": 47.489513699999996,
+        "longitude": 19.0584725
+    },
+    {
+        "category": "cafes",
+        "title": "London Coffee Society",
+        "rating": 4.7,
+        "address": "Budapest, Dohány u. 27, 1074, Hungary",
+        "latitude": 47.496525999999996,
+        "longitude": 19.066485
+    },
+    {
+        "category": "cafes",
+        "title": "Pantry Brunch & Coffee",
+        "rating": 4.6,
+        "address": "Budapest, Dohány u. 5/B, 1074, Hungary",
+        "latitude": 47.4953608,
+        "longitude": 19.0617072
+    },
+    {
+        "category": "mountains",
+        "title": "Gellért Hill",
+        "rating": 4.7,
+        "address": "Budapest, 1016, Hungary",
+        "latitude": 47.486388899999994,
+        "longitude": 19.0411111
+    },
+    {
+        "category": "mountains",
+        "title": "Varosmajor",
+        "rating": 4.5,
+        "address": "Budapest, 1022, Hungary",
+        "latitude": 47.516666699999995,
+        "longitude": 19.0166667
+    },
+    {
+        "category": "mountains",
+        "title": "Hármashatárhegy",
+        "rating": 4.8,
+        "address": "Budapest, 1037, Hungary",
+        "latitude": 47.555833299999996,
+        "longitude": 18.9983333
+    },
+    {
+        "category": "mountains",
+        "title": "János-hegy",
+        "rating": 4.7,
+        "address": "Budapest, 1121, Hungary",
+        "latitude": 47.5186111,
+        "longitude": 18.9591667
+    },
+    {
+        "category": "mountains",
+        "title": "Tetenyi-fennsik",
+        "rating": 4.8,
+        "address": "Törökbálint, 2045, Hungary",
+        "latitude": 47.4213889,
+        "longitude": 18.9566667
+    },
+    {
+        "category": "mountains",
+        "title": "Várhegy",
+        "rating": 4.6,
+        "address": "Budapest, 1013, Hungary",
+        "latitude": 47.497222,
+        "longitude": 19.038332999999998
+    },
+    {
+        "category": "mountains",
+        "title": "ゲッレールトの丘",
+        "rating": 3.7,
+        "address": "Hungary, Budapest",
+        "latitude": 47.4866575,
+        "longitude": 19.046258899999998
+    },
+    {
+        "category": "mountains",
+        "title": "Ferenc-hegy",
+        "rating": 4,
+        "address": "Budapest, 1025, Hungary",
+        "latitude": 47.5265,
+        "longitude": 19.012999999999998
+    },
+    {
+        "category": "mountains",
+        "title": "Szechenyi-hegy",
+        "rating": 4.6,
+        "address": "Budapest, 1121, Hungary",
+        "latitude": 47.4911111,
+        "longitude": 18.9736111
+    },
+    {
+        "category": "mountains",
+        "title": "Szemlő-hegyi Cave",
+        "rating": 4.8,
+        "address": "Budapest, Pusztaszeri út 35, 1025, Hungary",
+        "latitude": 47.5283741,
+        "longitude": 19.0256816
+    },
+    {
+        "category": "mountains",
+        "title": "Lo-hegy",
+        "rating": 5,
+        "address": "Budaörs, 2040, Hungary",
+        "latitude": 47.468888899999996,
+        "longitude": 18.9233333
+    },
+    {
+        "category": "mountains",
+        "title": "Buda Hills",
+        "rating": 4.6,
+        "address": "Nagykovácsi, 2094, Hungary",
+        "latitude": 47.55,
+        "longitude": 18.8833333
+    },
+    {
+        "category": "mountains",
+        "title": "Sashegy",
+        "rating": 4.1,
+        "address": "Budapest, 1112, Hungary",
+        "latitude": 47.481944399999996,
+        "longitude": 19.0188889
+    },
+    {
+        "category": "mountains",
+        "title": "Sas-hegy",
+        "rating": null,
+        "address": "Budapest, 1221, Hungary",
+        "latitude": 47.4333333,
+        "longitude": 19.0333333
+    },
+    {
+        "category": "mountains",
+        "title": "Var-hegy",
+        "rating": 4,
+        "address": "Budapest, 1028, Hungary",
+        "latitude": 47.55,
+        "longitude": 18.966666699999998
+    },
+    {
+        "category": "mountains",
+        "title": "Sziklafal",
+        "rating": 4,
+        "address": "Budakeszi, 2092, Hungary",
+        "latitude": 47.533333299999995,
+        "longitude": 18.9
+    },
+    {
+        "category": "mountains",
+        "title": "Budaorsi-hegy",
+        "rating": 5,
+        "address": "Budapest, 1121, Hungary",
+        "latitude": 47.4836111,
+        "longitude": 18.9638889
+    },
+    {
+        "category": "mountains",
+        "title": "Csille-berc",
+        "rating": 4.5,
+        "address": "Budaörs, 2040, Hungary",
+        "latitude": 47.4833333,
+        "longitude": 18.95
+    },
+    {
+        "category": "mountains",
+        "title": "Peter-hegy",
+        "rating": 5,
+        "address": "Budapest, 1112, Hungary",
+        "latitude": 47.4491667,
+        "longitude": 19.0102778
+    },
+    {
+        "category": "mountains",
+        "title": "Kecske-hegy",
+        "rating": 4.3,
+        "address": "Budapest, 1025, Hungary",
+        "latitude": 47.5432,
+        "longitude": 18.991667
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Naplás",
+        "rating": 4.6,
+        "address": "Budapest, 1164, Hungary",
+        "latitude": 47.5091435,
+        "longitude": 19.2469225
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Gőtés",
+        "rating": 4.3,
+        "address": "Budapest, 1038, Hungary",
+        "latitude": 47.5955654,
+        "longitude": 19.0414295
+    },
+    {
+        "category": "lakes",
+        "title": "Nagytó",
+        "rating": 5,
+        "address": "Budapest, 1146, Hungary",
+        "latitude": 47.5177233,
+        "longitude": 19.0755727
+    },
+    {
+        "category": "lakes",
+        "title": "Városligeti-tó",
+        "rating": 4.6,
+        "address": "Budapest, 1146, Hungary",
+        "latitude": 47.5152149,
+        "longitude": 19.0804413
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Feneketlen",
+        "rating": 4.6,
+        "address": "Budapest, 1114, Hungary",
+        "latitude": 47.4764568,
+        "longitude": 19.0415054
+    },
+    {
+        "category": "lakes",
+        "title": "Kőérberki-tó",
+        "rating": 4.4,
+        "address": "Budapest, 1112, Hungary",
+        "latitude": 47.445585,
+        "longitude": 18.9974709
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Lupa Premium Beach",
+        "rating": 3.9,
+        "address": "Budakalász, Tó u. 1, 2011, Hungary",
+        "latitude": 47.623641799999994,
+        "longitude": 19.071351999999997
+    },
+    {
+        "category": "lakes",
+        "title": "Cinkotai bányató",
+        "rating": 4.2,
+        "address": "Budapest, 1164, Hungary",
+        "latitude": 47.5265729,
+        "longitude": 19.2157527
+    },
+    {
+        "category": "lakes",
+        "title": "Omszki-tó",
+        "rating": 4.5,
+        "address": "Budakalász, 2011, Hungary",
+        "latitude": 47.6175405,
+        "longitude": 19.062073299999998
+    },
+    {
+        "category": "lakes",
+        "title": "Lupa-tó",
+        "rating": 3.9,
+        "address": "Hungary",
+        "latitude": 47.6284955,
+        "longitude": 19.076190699999998
+    },
+    {
+        "category": "lakes",
+        "title": "Kőbányai Bányató",
+        "rating": 4.7,
+        "address": "Budapest, 1108, Hungary",
+        "latitude": 47.467262899999994,
+        "longitude": 19.1644096
+    },
+    {
+        "category": "beaches",
+        "title": "Lake Lupa Premium Beach",
+        "rating": 3.9,
+        "address": "Budakalász, Tó u. 1, 2011, Hungary",
+        "latitude": 47.623641799999994,
+        "longitude": 19.071351999999997
+    },
+    {
+        "category": "beaches",
+        "title": "Sziget Beach",
+        "rating": 4.7,
+        "address": "Budapest, 1031, Hungary",
+        "latitude": 47.5603421,
+        "longitude": 19.060703399999998
+    },
+    {
+        "category": "beaches",
+        "title": "Római-part",
+        "rating": 4.6,
+        "address": "Budapest, Római part 30, 1031, Hungary",
+        "latitude": 47.5714413,
+        "longitude": 19.0652552
+    },
+    {
+        "category": "beaches",
+        "title": "Palatinus Strand Baths",
+        "rating": 4.4,
+        "address": "Budapest, Soó Rezső stny. 1, 1007, Hungary",
+        "latitude": 47.527952,
+        "longitude": 19.0469677
+    },
+    {
+        "category": "beaches",
+        "title": "Postman's Beach",
+        "rating": 4.3,
+        "address": "Szentendre, Strand u., 2000, Hungary",
+        "latitude": 47.660885699999994,
+        "longitude": 19.0814021
+    },
+    {
+        "category": "beaches",
+        "title": "Rakpart Chill Beach",
+        "rating": 4.6,
+        "address": "Budapest, Népfürdő u. 1, 1138, Hungary",
+        "latitude": 47.5271052,
+        "longitude": 19.0551176
+    },
+    {
+        "category": "beaches",
+        "title": "Kopaszi-gát",
+        "rating": 4.6,
+        "address": "Budapest, Andalgó u. 15, 1117, Hungary",
+        "latitude": 47.46742,
+        "longitude": 19.0639365
+    },
+    {
+        "category": "beaches",
+        "title": "D-Beach",
+        "rating": 4.3,
+        "address": "Domony, Akác u. 145, 2182, Hungary",
+        "latitude": 47.6327737,
+        "longitude": 19.4056708
+    },
+    {
+        "category": "beaches",
+        "title": "Széchenyi Thermal Bath",
+        "rating": 4.2,
+        "address": "Budapest, Állatkerti krt. 9-11, 1146, Hungary",
+        "latitude": 47.518656799999995,
+        "longitude": 19.0823791
+    },
+    {
+        "category": "beaches",
+        "title": "Romai beach",
+        "rating": 4.5,
+        "address": "Budapest, Római part, 1031, Hungary",
+        "latitude": 47.573588099999995,
+        "longitude": 19.0654668
+    },
+    {
+        "category": "beaches",
+        "title": "Széchenyi Chain Bridge",
+        "rating": 4.7,
+        "address": "Budapest, Széchenyi Lánchíd, 1051, Hungary",
+        "latitude": 47.498992799999996,
+        "longitude": 19.043699399999998
+    },
+    {
+        "category": "beaches",
+        "title": "Cinkota Beach Gardens",
+        "rating": 4.2,
+        "address": "Budapest, 1164, Hungary",
+        "latitude": 47.520862,
+        "longitude": 19.2199122
+    },
+    {
+        "category": "beaches",
+        "title": "Municipal Beach",
+        "rating": 4.5,
+        "address": "Keszthely, 8360, Hungary",
+        "latitude": 46.758034099999996,
+        "longitude": 17.251511
+    },
+    {
+        "category": "beaches",
+        "title": "Vigadó tér",
+        "rating": 4.6,
+        "address": "Budapest, Vigadó tér 2, 1051, Hungary",
+        "latitude": 47.4956417,
+        "longitude": 19.048866699999998
+    },
+    {
+        "category": "beaches",
+        "title": "Beach Club",
+        "rating": 4.6,
+        "address": "Budapest, Piroska u. 5, 1039, Hungary",
+        "latitude": 47.5878036,
+        "longitude": 19.0660599
+    },
+    {
+        "category": "beaches",
+        "title": "Gellért Thermal Bath",
+        "rating": 4.2,
+        "address": "Budapest, Kelenhegyi út 4, 1118, Hungary",
+        "latitude": 47.4837444,
+        "longitude": 19.0516211
+    },
+    {
+        "category": "swimming pools",
+        "title": "Palatinus Strand Baths",
+        "rating": 4.4,
+        "address": "Budapest, Soó Rezső stny. 1, 1007, Hungary",
+        "latitude": 47.527952,
+        "longitude": 19.0469677
+    },
+    {
+        "category": "swimming pools",
+        "title": "Széchenyi Thermal Bath",
+        "rating": 4.2,
+        "address": "Budapest, Állatkerti krt. 9-11, 1146, Hungary",
+        "latitude": 47.518656799999995,
+        "longitude": 19.0823791
+    },
+    {
+        "category": "swimming pools",
+        "title": "Alfred Hajos National Aquatics Complex",
+        "rating": 4.6,
+        "address": "Budapest, Margitsziget 23800, 1138, Hungary",
+        "latitude": 47.5203749,
+        "longitude": 19.042559699999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Lukacs Baths",
+        "rating": 4.3,
+        "address": "Budapest, Frankel Leó út 25-29, 1023, Hungary",
+        "latitude": 47.5177775,
+        "longitude": 19.0368998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Paskál Spa and Swimming Pool",
+        "rating": 4.3,
+        "address": "Budapest, Egressy út 178/F, 1141, Hungary",
+        "latitude": 47.520959999999995,
+        "longitude": 19.128207
+    },
+    {
+        "category": "swimming pools",
+        "title": "Royal Spa",
+        "rating": 4.5,
+        "address": "Budapest, Erzsébet krt. 43-49, 1073, Hungary",
+        "latitude": 47.5029427,
+        "longitude": 19.0664914
+    },
+    {
+        "category": "swimming pools",
+        "title": "Rudas Thermal Bath",
+        "rating": 4.3,
+        "address": "Budapest, Döbrentei tér 9, 1013, Hungary",
+        "latitude": 47.4890919,
+        "longitude": 19.047836099999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Park Swimming pool",
+        "rating": 3.8,
+        "address": "Budapest, Városház u. 40, 1181, Hungary",
+        "latitude": 47.4369756,
+        "longitude": 19.176588799999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "BVSC Laky Karoly Swimming Pool",
+        "rating": 4.5,
+        "address": "Budapest, Szőnyi út 2, 1142, Hungary",
+        "latitude": 47.522695399999996,
+        "longitude": 19.0924932
+    },
+    {
+        "category": "swimming pools",
+        "title": "Irgalmasok Veli Bej Bath",
+        "rating": 4.6,
+        "address": "Budapest, Árpád fejedelem útja 7, 1023, Hungary",
+        "latitude": 47.5191896,
+        "longitude": 19.0371186
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kispest Swimming Pool",
+        "rating": 4.1,
+        "address": "Budapest, Simonyi Zsigmond u 31, 1191, Hungary",
+        "latitude": 47.4603575,
+        "longitude": 19.1513208
+    },
+    {
+        "category": "swimming pools",
+        "title": "Erzsébet Ligeti swimming pool",
+        "rating": 4.4,
+        "address": "Budapest, Újszász u. 106-108, 1165, Hungary",
+        "latitude": 47.5080503,
+        "longitude": 19.2062775
+    },
+    {
+        "category": "swimming pools",
+        "title": "Tüskecsarnok",
+        "rating": 4.5,
+        "address": "Budapest, Magyar Tudósok Körútja 7, 1117, Hungary",
+        "latitude": 47.472524199999995,
+        "longitude": 19.058278899999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kempinski The Spa - Budapest",
+        "rating": 4.6,
+        "address": "Budapest, Erzsébet tér 7-8, 1051, Hungary",
+        "latitude": 47.4973801,
+        "longitude": 19.0523171
+    },
+    {
+        "category": "swimming pools",
+        "title": "Danube Arena",
+        "rating": 4.6,
+        "address": "Budapest, Népfürdő u. 36, 1138, Hungary",
+        "latitude": 47.541156799999996,
+        "longitude": 19.062083599999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Csillaghegyi Strandfürdő",
+        "rating": 4.4,
+        "address": "Budapest, Pusztakúti út 2-6, 1038, Hungary",
+        "latitude": 47.5845871,
+        "longitude": 19.0415889
+    },
+    {
+        "category": "swimming pools",
+        "title": "Dagály Termálfürdő, Strandfürdő és Uszoda",
+        "rating": 4.2,
+        "address": "Budapest, Népfürdő u. 28-30, 1138, Hungary",
+        "latitude": 47.5394095,
+        "longitude": 19.0613951
+    },
+    {
+        "category": "swimming pools",
+        "title": "Helia Fitness Center",
+        "rating": 4.7,
+        "address": "Budapest, Kárpát u. 62-64, 1133, Hungary",
+        "latitude": 47.5252014,
+        "longitude": 19.0556752
+    },
+    {
+        "category": "swimming pools",
+        "title": "Nyéki Imre Swimmingpool",
+        "rating": 4,
+        "address": "Budapest, Kondorosi út 14, 1116, Hungary",
+        "latitude": 47.4508277,
+        "longitude": 19.0363374
+    },
+    {
+        "category": "swimming pools",
+        "title": "NKE Swimming pool Ludovika",
+        "rating": 4.4,
+        "address": "Budapest, Diószegi Sámuel utca 23, 1089, Hungary",
+        "latitude": 47.4818831,
+        "longitude": 19.092238
+    },
+    {
+        "category": "resorts",
+        "title": "Aquaworld Resort Budapest",
+        "rating": 4.5,
+        "address": "Budapest, Íves út 16, 1044, Hungary",
+        "latitude": 47.601086099999996,
+        "longitude": 19.112265
+    },
+    {
+        "category": "resorts",
+        "title": "Anantara New York Palace Budapest Hotel",
+        "rating": 4.7,
+        "address": "Budapest, Erzsébet krt. 9, 1073, Hungary",
+        "latitude": 47.498532,
+        "longitude": 19.070432
+    },
+    {
+        "category": "resorts",
+        "title": "Ensana Thermal Margaret Island",
+        "rating": 4.6,
+        "address": "Budapest, 1007, Hungary",
+        "latitude": 47.5340594,
+        "longitude": 19.0530358
+    },
+    {
+        "category": "resorts",
+        "title": "Prestige Hotel Budapest",
+        "rating": 4.8,
+        "address": "Budapest, Vigyázó Ferenc u. 5, 1051, Hungary",
+        "latitude": 47.5009832,
+        "longitude": 19.0484919
+    },
+    {
+        "category": "resorts",
+        "title": "Four Seasons Hotel Gresham Palace Budapest",
+        "rating": 4.8,
+        "address": "Budapest, Széchenyi István tér 5-6, 1051, Hungary",
+        "latitude": 47.4996722,
+        "longitude": 19.0480417
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Clark Budapest",
+        "rating": 4.7,
+        "address": "Budapest, Clark Ádám tér 1, 1013, Hungary",
+        "latitude": 47.4987342,
+        "longitude": 19.0399153
+    },
+    {
+        "category": "resorts",
+        "title": "W Budapest",
+        "rating": 4.7,
+        "address": "Budapest, Andrássy út 25, 1061, Hungary",
+        "latitude": 47.502032199999995,
+        "longitude": 19.059148399999998
+    },
+    {
+        "category": "resorts",
+        "title": "Ensana Grand Margaret Island Health Spa Hotel",
+        "rating": 4.4,
+        "address": "Budapest, Zielinski Szilárd stny., 1007, Hungary",
+        "latitude": 47.532446,
+        "longitude": 19.052954
+    },
+    {
+        "category": "resorts",
+        "title": "Matild Palace, a Luxury Collection Hotel, Budapest",
+        "rating": 4.8,
+        "address": "Budapest, Váci u 36, 1056, Hungary",
+        "latitude": 47.492532499999996,
+        "longitude": 19.0542363
+    },
+    {
+        "category": "resorts",
+        "title": "Kempinski Hotel Corvinus Budapest",
+        "rating": 4.7,
+        "address": "Budapest, Erzsébet tér 7-8, 1051, Hungary",
+        "latitude": 47.4974274,
+        "longitude": 19.0522268
+    },
+    {
+        "category": "resorts",
+        "title": "Budapest Marriott Hotel",
+        "rating": 4.6,
+        "address": "Budapest, Apáczai Csere János u. 4, 1052, Hungary",
+        "latitude": 47.494823,
+        "longitude": 19.049701199999998
+    },
+    {
+        "category": "resorts",
+        "title": "Hapimag Resort Budapest",
+        "rating": 4.7,
+        "address": "Budapest, Fortuna u. 18, 1014, Hungary",
+        "latitude": 47.5041467,
+        "longitude": 19.0306568
+    },
+    {
+        "category": "resorts",
+        "title": "The Aquincum Hotel Budapest",
+        "rating": 4.1,
+        "address": "Budapest, Árpád fejedelem útja 94, 1036, Hungary",
+        "latitude": 47.537712299999995,
+        "longitude": 19.046337899999997
+    },
+    {
+        "category": "resorts",
+        "title": "Barceló Budapest",
+        "rating": 4.7,
+        "address": "Budapest, Király u. 16, 1061, Hungary",
+        "latitude": 47.499023099999995,
+        "longitude": 19.0575205
+    },
+    {
+        "category": "resorts",
+        "title": "Párisi Udvar Hotel Budapest - The Unbound Collection by Hyatt",
+        "rating": 4.7,
+        "address": "Budapest, Petőfi Sándor u. 2-4, 1052, Hungary",
+        "latitude": 47.4935912,
+        "longitude": 19.0549967
+    },
+    {
+        "category": "resorts",
+        "title": "Onyx****Luxury Hotel Budapest",
+        "rating": 4.6,
+        "address": "Budapest, Marek József u. 12, 1078, Hungary",
+        "latitude": 47.505437699999995,
+        "longitude": 19.0802025
+    },
+    {
+        "category": "resorts",
+        "title": "Cortile Hotel - Adults Only",
+        "rating": 4.8,
+        "address": "Budapest, Dessewffy u. 14, 1066, Hungary",
+        "latitude": 47.5049602,
+        "longitude": 19.0565027
+    },
+    {
+        "category": "resorts",
+        "title": "Mystery Hotel Budapest",
+        "rating": 4.7,
+        "address": "Budapest, Podmaniczky u. 45, 1064, Hungary",
+        "latitude": 47.5107967,
+        "longitude": 19.061629099999998
+    },
+    {
+        "category": "resorts",
+        "title": "Dorothea Hotel, Budapest, Autograph Collection",
+        "rating": 4.5,
+        "address": "Budapest, Dorottya u. 2, 1051, Hungary",
+        "latitude": 47.497059799999995,
+        "longitude": 19.0494626
+    },
+    {
+        "category": "resorts",
+        "title": "Duna Garden Hotel",
+        "rating": 4.5,
+        "address": "Budapest, Vízisport u. 12, 1203, Hungary",
+        "latitude": 47.433368099999996,
+        "longitude": 19.0905231
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Arena Budapest",
+        "rating": 4.7,
+        "address": "Budapest, Pilisi u. 7/a, 1106, Hungary",
+        "latitude": 47.504162,
+        "longitude": 19.158383999999998
+    },
+    {
+        "category": "camping sites",
+        "title": "Haller Camping",
+        "rating": 4.1,
+        "address": "Budapest, Óbester u. 2, 1097, Hungary",
+        "latitude": 47.4758244,
+        "longitude": 19.0828977
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Budapest Flamingo",
+        "rating": 4.4,
+        "address": "Érd, Fürdő u. 4, 2030, Hungary",
+        "latitude": 47.394461799999995,
+        "longitude": 18.9361165
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Pap Island",
+        "rating": 4.4,
+        "address": "Szentendre, Papsziget, 2000, Hungary",
+        "latitude": 47.681835,
+        "longitude": 19.082756099999997
+    },
+    {
+        "category": "camping sites",
+        "title": "Royal PRing Camping",
+        "rating": 4.4,
+        "address": "Kerepes, Bajcsy-Zsilinszky u. 130, 2145, Hungary",
+        "latitude": 47.577245,
+        "longitude": 19.260145599999998
+    },
+    {
+        "category": "camping sites",
+        "title": "Ave Natura Camping",
+        "rating": 4.6,
+        "address": "Budapest, Csermely út 3, 1121, Hungary",
+        "latitude": 47.514297899999995,
+        "longitude": 18.9730028
+    },
+    {
+        "category": "camping sites",
+        "title": "Donauradweg Radstation Budapest",
+        "rating": 4.6,
+        "address": "Budapest, oázis in the city center, Benyovszky Móric u. 40, 1089 Hungary",
+        "latitude": 47.480159099999995,
+        "longitude": 19.098608199999997
+    },
+    {
+        "category": "hiking trails",
+        "title": "Apathy Rock Lookout",
+        "rating": 4.8,
+        "address": "Budapest, Nagybányai út 62b, 1025, Hungary",
+        "latitude": 47.5316335,
+        "longitude": 18.9862009
+    },
+    {
+        "category": "hiking trails",
+        "title": "Trails of Budapest - Hiking Tours",
+        "rating": 5,
+        "address": null,
+        "latitude": 47.526491,
+        "longitude": 18.9572115
+    },
+    {
+        "category": "hiking trails",
+        "title": "Normafa",
+        "rating": 4.8,
+        "address": "Budapest, Eötvös út 59, 1121, Hungary",
+        "latitude": 47.502373299999995,
+        "longitude": 18.9682075
+    },
+    {
+        "category": "hiking trails",
+        "title": "'Zöld' keresztes turista útvonal bejàrata",
+        "rating": 4.6,
+        "address": "Budapest, 1037, Hungary",
+        "latitude": 47.555583899999995,
+        "longitude": 19.0081404
+    },
+    {
+        "category": "hiking trails",
+        "title": "Danube-Ipoly National Park",
+        "rating": 4.8,
+        "address": "Budapest, Költő utca 21, 1121, Hungary",
+        "latitude": 47.7264415,
+        "longitude": 18.9081573
+    },
+    {
+        "category": "hiking trails",
+        "title": "Normafa Park",
+        "rating": 4.8,
+        "address": "Budapest, Jánoshegyi út 105039, 1121, Hungary",
+        "latitude": 47.5033162,
+        "longitude": 18.965809999999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Fütyülős trail",
+        "rating": 4.7,
+        "address": "Budapest, Saroglya u. 81, 1031, Hungary",
+        "latitude": 47.586503099999995,
+        "longitude": 19.020267999999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Buda Landscape Protection Area",
+        "rating": 4.8,
+        "address": "Budapest 2071 Solymár köz, 1037, Hungary",
+        "latitude": 47.564903699999995,
+        "longitude": 18.844903199999997
+    },
+    {
+        "category": "hiking trails",
+        "title": "Kamaraerdei tanösvény, Budapest",
+        "rating": 4.7,
+        "address": "Budapest, Susulyka utca, 1112, Hungary",
+        "latitude": 47.439139499999996,
+        "longitude": 18.9798954
+    },
+    {
+        "category": "hiking trails",
+        "title": "Szent József szobor",
+        "rating": 5,
+        "address": "Budapest, Templomkert, Máriaremetei út, 1029 Hungary",
+        "latitude": 47.5608862,
+        "longitude": 18.946265699999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Cinkotai-kiserdő",
+        "rating": 4.6,
+        "address": "Budapest, G64Q+X9, 1164, Hungary",
+        "latitude": 47.507498,
+        "longitude": 19.238376
+    },
+    {
+        "category": "hiking trails",
+        "title": "Keresztúri erdő",
+        "rating": 4.8,
+        "address": "Budapest, Unnamed Road, 1174, Hungary",
+        "latitude": 47.4672519,
+        "longitude": 19.2083506
+    },
+    {
+        "category": "hiking trails",
+        "title": "Nature Reserve of Rupp-hegy",
+        "rating": 4.7,
+        "address": "Budapest, Rupphegyi út 12, 1112, Hungary",
+        "latitude": 47.474138499999995,
+        "longitude": 18.9794274
+    },
+    {
+        "category": "hiking trails",
+        "title": "Nagy-Farkas-torok völgy",
+        "rating": 5,
+        "address": "Budapest, H233+GV, 1037, Hungary",
+        "latitude": 47.5537922,
+        "longitude": 19.004696799999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Péterhalmi forest",
+        "rating": 4.6,
+        "address": "Budapest, 1188, Hungary",
+        "latitude": 47.4193776,
+        "longitude": 19.191233399999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Látó-hegy",
+        "rating": 4.9,
+        "address": "Budapest, GXPW+C5, 1025, Hungary",
+        "latitude": 47.5360867,
+        "longitude": 18.9954787
+    },
+    {
+        "category": "hiking trails",
+        "title": "Tűzrakóhely",
+        "rating": 4.3,
+        "address": "Budapest, 1021, Hungary",
+        "latitude": 47.5400747,
+        "longitude": 18.971379
+    },
+    {
+        "category": "hiking trails",
+        "title": "City Park",
+        "rating": 4.7,
+        "address": "Budapest, Kós Károly stny., 1146, Hungary",
+        "latitude": 47.514292,
+        "longitude": 19.085244
+    },
+    {
+        "category": "hiking trails",
+        "title": "Árpád lookout",
+        "rating": 4.6,
+        "address": "Budapest, Glück Frigyes út, 1025, Hungary",
+        "latitude": 47.5351803,
+        "longitude": 18.999806799999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Kolonics György sétány",
+        "rating": 4.7,
+        "address": "Budapest, 1212, Hungary",
+        "latitude": 47.4308621,
+        "longitude": 19.0891877
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Budapest Zoo & Botanical Garden",
+        "rating": 4.5,
+        "address": "Budapest, Állatkerti krt. 6-12, 1146, Hungary",
+        "latitude": 47.5189977,
+        "longitude": 19.0776433
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Orczy Garden",
+        "rating": 4.7,
+        "address": "Budapest, Orczy út 1, 1089, Hungary",
+        "latitude": 47.4818577,
+        "longitude": 19.0879941
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Botanical Garden, Soroksár",
+        "rating": 4.5,
+        "address": "Budapest, M51 2760, 1239, Hungary",
+        "latitude": 47.400340799999995,
+        "longitude": 19.154326599999997
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Károlyi Garden",
+        "rating": 4.7,
+        "address": "Budapest, Károlyi kert 25, 1053, Hungary",
+        "latitude": 47.4920944,
+        "longitude": 19.059775
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Buda Castle",
+        "rating": 4.7,
+        "address": "Budapest, Szent György tér, 1014, Hungary",
+        "latitude": 47.4962048,
+        "longitude": 19.0395666
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Széchenyi Thermal Bath",
+        "rating": 4.2,
+        "address": "Budapest, Állatkerti krt. 9-11, 1146, Hungary",
+        "latitude": 47.518656799999995,
+        "longitude": 19.0823791
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Shoes on the Danube Bank",
+        "rating": 4.7,
+        "address": "Budapest, 1054, Hungary",
+        "latitude": 47.503927399999995,
+        "longitude": 19.0448015
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Medieval Dominican Convent and Royal Mansion",
+        "rating": 4.6,
+        "address": "Budapest, 4731, Hungary",
+        "latitude": 47.5292002,
+        "longitude": 19.0506051
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Labyrinth",
+        "rating": 3.8,
+        "address": "Budapest, Úri u. 9, 1014, Hungary",
+        "latitude": 47.5001434,
+        "longitude": 19.034198399999998
+    },
+    {
+        "category": "temples",
+        "title": "ISKCON",
+        "rating": 4.8,
+        "address": "Budapest, Lehel u. 15-17, 1039, Hungary",
+        "latitude": 47.5842773,
+        "longitude": 19.048171399999998
+    },
+    {
+        "category": "temples",
+        "title": "Budapesti Hare Krisna Templom és Kulturális Központ",
+        "rating": 4.8,
+        "address": "Budapest, Lehel u. 15-17, 1039, Hungary",
+        "latitude": 47.584640199999996,
+        "longitude": 19.0482275
+    },
+    {
+        "category": "temples",
+        "title": "Dohány Street Synagogue",
+        "rating": 4.4,
+        "address": "Budapest, Dohány u. 2, 1074, Hungary",
+        "latitude": 47.4959071,
+        "longitude": 19.0606139
+    },
+    {
+        "category": "temples",
+        "title": "Wat Thai Rattanaprateep",
+        "rating": 4.9,
+        "address": "Budapest, Batthyány u. 51, 1161, Hungary",
+        "latitude": 47.520059499999995,
+        "longitude": 19.159326
+    },
+    {
+        "category": "temples",
+        "title": "Mantra Buddhist Temple",
+        "rating": 4.8,
+        "address": "Budapest, Vak Bottyán u. 6, 1111, Hungary",
+        "latitude": 47.4769521,
+        "longitude": 19.0525058
+    },
+    {
+        "category": "temples",
+        "title": "Az Utolsó Napi Szentek Jézus Krisztus Egyháza",
+        "rating": 4.8,
+        "address": "Budapest, Hajnóczy József u. 14, 1122, Hungary",
+        "latitude": 47.5046828,
+        "longitude": 19.022959
+    },
+    {
+        "category": "temples",
+        "title": "Bharata Ashram",
+        "rating": 4.9,
+        "address": "Budapest, Kresz Géza u 25, 1132, Hungary",
+        "latitude": 47.5141284,
+        "longitude": 19.0568979
+    },
+    {
+        "category": "temples",
+        "title": "OM Vishwa Guru Deep Hindu Mandir",
+        "rating": 4.5,
+        "address": "Bokréta u. 29 Fsz/2. az udvarban - GF/2 in the yard, 1094, Hungary",
+        "latitude": 47.482659,
+        "longitude": 19.075395
+    },
+    {
+        "category": "temples",
+        "title": "Rumbach Street Synagogue",
+        "rating": 4.5,
+        "address": "Budapest, Rumbach Sebestyén u. 13, 1074, Hungary",
+        "latitude": 47.4977215,
+        "longitude": 19.058648599999998
+    },
+    {
+        "category": "temples",
+        "title": "synagogue",
+        "rating": 3.9,
+        "address": "Budapest, Dob u. 35, 1074, Hungary",
+        "latitude": 47.4989791,
+        "longitude": 19.0625
+    },
+    {
+        "category": "temples",
+        "title": "Gül Baba’s Tomb & Rosegarden",
+        "rating": 4.8,
+        "address": "Budapest, Mecset u. 14, 1023, Hungary",
+        "latitude": 47.5159689,
+        "longitude": 19.0349263
+    },
+    {
+        "category": "temples",
+        "title": "Sunila",
+        "rating": null,
+        "address": "Budapest, Mátka u. 1, 1172, Hungary",
+        "latitude": 47.4895384,
+        "longitude": 19.2442895
+    },
+    {
+        "category": "temples",
+        "title": "St. Stephen's Basilica",
+        "rating": 4.7,
+        "address": "Budapest, Szent István tér 1, 1051, Hungary",
+        "latitude": 47.5008902,
+        "longitude": 19.053988699999998
+    },
+    {
+        "category": "temples",
+        "title": "Szilágyi Dezső Square Reformed Church",
+        "rating": 4.6,
+        "address": "Budapest, Szilágyi Dezső tér 3, 1011, Hungary",
+        "latitude": 47.503869099999996,
+        "longitude": 19.038975699999998
+    },
+    {
+        "category": "temples",
+        "title": "The Church of Our Lady of Buda Castle",
+        "rating": 4.8,
+        "address": "Budapest, Szentháromság tér 2, 1014, Hungary",
+        "latitude": 47.5019537,
+        "longitude": 19.0341617
+    },
+    {
+        "category": "temples",
+        "title": "Bevett Keleti Egyházak Tanácsa",
+        "rating": null,
+        "address": "Budapest, Lehel u., 1039, Hungary",
+        "latitude": 47.584446199999995,
+        "longitude": 19.048213099999998
+    },
+    {
+        "category": "temples",
+        "title": "Murkoff Corporation",
+        "rating": 5,
+        "address": "Gyál, mátyás utca 69, 2360, Hungary",
+        "latitude": 47.396463,
+        "longitude": 19.2126836
+    },
+    {
+        "category": "temples",
+        "title": "Heroes' Temple",
+        "rating": 3.7,
+        "address": "Budapest Wesselényi utca 5 Dohány utcai zsinagóga, 1077, Hungary",
+        "latitude": 47.4964158,
+        "longitude": 19.0606661
+    },
+    {
+        "category": "temples",
+        "title": "Pu Ji Templom",
+        "rating": 4.7,
+        "address": "Budapest, Rádió u. 12/a, 1164, Hungary",
+        "latitude": 47.5207098,
+        "longitude": 19.223077399999998
+    },
+    {
+        "category": "temples",
+        "title": "Lutheran Church of Ferenc Deák Square",
+        "rating": 4.6,
+        "address": "Budapest, Deák Ferenc tér 4, 1052, Hungary",
+        "latitude": 47.4972417,
+        "longitude": 19.0545732
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Fine Arts",
+        "rating": 4.7,
+        "address": "Budapest, Szépművészeti Múzeum, Dózsa György út 41, 1146 Hungary",
+        "latitude": 47.5158038,
+        "longitude": 19.0768998
+    },
+    {
+        "category": "museums",
+        "title": "Hungarian National Gallery",
+        "rating": 4.7,
+        "address": "Budapest, Szent György tér 2, 1014, Hungary",
+        "latitude": 47.496269299999994,
+        "longitude": 19.0398156
+    },
+    {
+        "category": "museums",
+        "title": "Hungarian National Museum",
+        "rating": 4.5,
+        "address": "Budapest, Múzeum krt. 14-16, 1088, Hungary",
+        "latitude": 47.4911983,
+        "longitude": 19.0624765
+    },
+    {
+        "category": "museums",
+        "title": "House of Terror Museum",
+        "rating": 4.1,
+        "address": "Budapest, Andrássy út 60, 1062, Hungary",
+        "latitude": 47.5068935,
+        "longitude": 19.0651261
+    },
+    {
+        "category": "museums",
+        "title": "Ludwig Museum",
+        "rating": 4.5,
+        "address": "Budapest, Komor Marcell u. 1, 1095, Hungary",
+        "latitude": 47.4696514,
+        "longitude": 19.0709855
+    },
+    {
+        "category": "museums",
+        "title": "Budapest History Museum / Castle Museum",
+        "rating": 4.4,
+        "address": "Budapest, Szent György tér 2, 1014, Hungary",
+        "latitude": 47.495155399999994,
+        "longitude": 19.0402842
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Ethnography",
+        "rating": 4.3,
+        "address": "Budapest, Dózsa György út 35, 1146, Hungary",
+        "latitude": 47.5115051,
+        "longitude": 19.081371
+    },
+    {
+        "category": "museums",
+        "title": "Franz Liszt Memorial Museum",
+        "rating": 4.5,
+        "address": "Budapest, Vörösmarty u. 35, 1064, Hungary",
+        "latitude": 47.506913399999995,
+        "longitude": 19.066522
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Hungarian Agriculture",
+        "rating": 4.5,
+        "address": "Budapest, Vajdahunyad stny., 1146, Hungary",
+        "latitude": 47.5150303,
+        "longitude": 19.083067
+    },
+    {
+        "category": "museums",
+        "title": "Zwack Unicum Museum",
+        "rating": 4.8,
+        "address": "Budapest, Dandár u. 1, 1095, Hungary",
+        "latitude": 47.475926,
+        "longitude": 19.0697071
+    },
+    {
+        "category": "museums",
+        "title": "Holocaust Memorial Center",
+        "rating": 4.5,
+        "address": "Budapest, Páva u. 39, 1094, Hungary",
+        "latitude": 47.4835705,
+        "longitude": 19.0734528
+    },
+    {
+        "category": "museums",
+        "title": "Hospital in the Rock",
+        "rating": 4.6,
+        "address": "Budapest, Lovas út 4/c, 1012, Hungary",
+        "latitude": 47.5008483,
+        "longitude": 19.0313593
+    },
+    {
+        "category": "museums",
+        "title": "Hungarian Railway Museum",
+        "rating": 4.7,
+        "address": "Budapest, Tatai u. 95, 1142, Hungary",
+        "latitude": 47.542452399999995,
+        "longitude": 19.0956518
+    },
+    {
+        "category": "museums",
+        "title": "Hungarian Jewish Museum and Archives",
+        "rating": 4.3,
+        "address": "Budapest, Dohány u. 2, 1077, Hungary",
+        "latitude": 47.4959875,
+        "longitude": 19.0600283
+    },
+    {
+        "category": "museums",
+        "title": "IKONO Budapest",
+        "rating": 4.7,
+        "address": "Budapest, Váci u 27, 1052, Hungary",
+        "latitude": 47.4929552,
+        "longitude": 19.052906099999998
+    },
+    {
+        "category": "museums",
+        "title": "Cinema Mystica Budapest",
+        "rating": 4.3,
+        "address": "Budapest, Ferenciek tere 10, 1052, Hungary",
+        "latitude": 47.493317399999995,
+        "longitude": 19.055239999999998
+    },
+    {
+        "category": "museums",
+        "title": "Vasarely Museum, Budapest",
+        "rating": 4.6,
+        "address": "Budapest, Szentlélek tér 6, 1033, Hungary",
+        "latitude": 47.540273299999996,
+        "longitude": 19.046509099999998
+    },
+    {
+        "category": "museums",
+        "title": "Memento Park",
+        "rating": 4.1,
+        "address": "Budapest, Balatoni út - Szabadkai utca sarok, 1222, Hungary",
+        "latitude": 47.4263652,
+        "longitude": 18.9989299
+    },
+    {
+        "category": "museums",
+        "title": "Labyrinth",
+        "rating": 3.8,
+        "address": "Budapest, Úri u. 9, 1014, Hungary",
+        "latitude": 47.5001434,
+        "longitude": 19.034198399999998
+    },
+    {
+        "category": "museums",
+        "title": "Kiscelli Museum",
+        "rating": 4.7,
+        "address": "Budapest, Kiscelli u. 108, 1037, Hungary",
+        "latitude": 47.5381438,
+        "longitude": 19.0280463
+    },
+    {
+        "category": "night markets",
+        "title": "Central Market Hall",
+        "rating": 4.3,
+        "address": "Budapest, 1093, Hungary",
+        "latitude": 47.4870848,
+        "longitude": 19.058493
+    },
+    {
+        "category": "night markets",
+        "title": "Gozsdu Weekend Market",
+        "rating": 4.1,
+        "address": "Budapest, Király u. 13, 1075, Hungary",
+        "latitude": 47.4981763,
+        "longitude": 19.0599009
+    },
+    {
+        "category": "night markets",
+        "title": "Market Hall",
+        "rating": 4.4,
+        "address": "Budapest, Vámház krt. 3, 1093, Hungary",
+        "latitude": 47.4871142,
+        "longitude": 19.0583842
+    },
+    {
+        "category": "night markets",
+        "title": "Szimpla Sunday Farmers' Market",
+        "rating": 4.5,
+        "address": "Budapest, Kazinczy u. 14, 1075, Hungary",
+        "latitude": 47.496955899999996,
+        "longitude": 19.0632843
+    },
+    {
+        "category": "night markets",
+        "title": "Hunyadi Square Market",
+        "rating": 4.1,
+        "address": "Budapest, Hunyadi tér 4, 1067, Hungary",
+        "latitude": 47.5053105,
+        "longitude": 19.0666591
+    },
+    {
+        "category": "night markets",
+        "title": "Vörösmarty Square",
+        "rating": 4.6,
+        "address": "Budapest, Vörösmarty tér 3, 1051, Hungary",
+        "latitude": 47.4964835,
+        "longitude": 19.0507033
+    },
+    {
+        "category": "night markets",
+        "title": "Ecseri Flea Market",
+        "rating": 3.8,
+        "address": "Budapest, Nagykőrösi út 156, 1194, Hungary",
+        "latitude": 47.4359252,
+        "longitude": 19.1452423
+    },
+    {
+        "category": "night markets",
+        "title": "Fény Street Market",
+        "rating": 4.3,
+        "address": "Budapest, Lövőház u. 12, 1024, Hungary",
+        "latitude": 47.5086138,
+        "longitude": 19.0243988
+    },
+    {
+        "category": "night markets",
+        "title": "Klauzál Market Hall",
+        "rating": 4.2,
+        "address": "Budapest, Akácfa u. 42-48, 1072, Hungary",
+        "latitude": 47.500354599999994,
+        "longitude": 19.065217099999998
+    },
+    {
+        "category": "night markets",
+        "title": "Castle Garden Bazaar",
+        "rating": 4.6,
+        "address": "Budapest, Ybl Miklós tér 2-6, 1013, Hungary",
+        "latitude": 47.4953569,
+        "longitude": 19.042428599999997
+    },
+    {
+        "category": "night markets",
+        "title": "Gozsdu Court",
+        "rating": 4.4,
+        "address": "Budapest, Gozsdu Udvar, 1075, Hungary",
+        "latitude": 47.498467,
+        "longitude": 19.0594862
+    },
+    {
+        "category": "night markets",
+        "title": "Kínai Piac (China Market)",
+        "rating": 3.9,
+        "address": "Budapest, Kőbányai út 25, 1087, Hungary",
+        "latitude": 47.4882497,
+        "longitude": 19.098379599999998
+    },
+    {
+        "category": "night markets",
+        "title": "Roman Beach Market",
+        "rating": 4.6,
+        "address": "Budapest, Nánási út 47-49, 1031, Hungary",
+        "latitude": 47.570942599999995,
+        "longitude": 19.0620071
+    },
+    {
+        "category": "night markets",
+        "title": "Chinatown Terasz: Street Food Night Market (May01-Sep15)",
+        "rating": 4.5,
+        "address": "Budapest, Jegenye u. 30, 1107, Hungary",
+        "latitude": 47.481612899999995,
+        "longitude": 19.124408
+    },
+    {
+        "category": "night markets",
+        "title": "Szimpla Kert",
+        "rating": 4.6,
+        "address": "Budapest, Kazinczy u. 14, 1075, Hungary",
+        "latitude": 47.4969648,
+        "longitude": 19.063345899999998
+    },
+    {
+        "category": "night markets",
+        "title": "Central market Hall of Budapest",
+        "rating": 4.3,
+        "address": "Budapest, Fővám tér 8, 1093, Hungary",
+        "latitude": 47.4866926,
+        "longitude": 19.0588063
+    },
+    {
+        "category": "night markets",
+        "title": "Asian Street Food Budapest",
+        "rating": 4.6,
+        "address": "Budapest, Thököly út 18, 1076, Hungary",
+        "latitude": 47.502133099999995,
+        "longitude": 19.084639
+    },
+    {
+        "category": "night markets",
+        "title": "Pancs-Gasztroplacc",
+        "rating": 4.7,
+        "address": "Budapest, Tűzoltó u. 22, 1094, Hungary",
+        "latitude": 47.483579899999995,
+        "longitude": 19.072624599999997
+    },
+    {
+        "category": "night markets",
+        "title": "Tomzol Fruit Hungary KFT",
+        "rating": 4,
+        "address": "Budapest, Nagykőrösi út 353, 1239, Hungary",
+        "latitude": 47.4171865,
+        "longitude": 19.1681654
+    },
+    {
+        "category": "night markets",
+        "title": "Monori Center Wholesale Market",
+        "rating": 4.4,
+        "address": "Budapest, Jegenye u. 36-40-27-29, Y-18, 1107, Hungary",
+        "latitude": 47.4821011,
+        "longitude": 19.122583499999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Elizabeth Lookout",
+        "rating": 4.8,
+        "address": "Budapest, 1121, Hungary",
+        "latitude": 47.5181968,
+        "longitude": 18.9593825
+    },
+    {
+        "category": "viewpoints",
+        "title": "Fisherman's Bastion",
+        "rating": 4.8,
+        "address": "Budapest, 1014, Hungary",
+        "latitude": 47.5021827,
+        "longitude": 19.034781199999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Citadel Lookout",
+        "rating": 4.6,
+        "address": "Budapest, Citadella stny., 1118, Hungary",
+        "latitude": 47.487708,
+        "longitude": 19.043764
+    },
+    {
+        "category": "viewpoints",
+        "title": "Parliament Viewpoint",
+        "rating": 4.8,
+        "address": "Budapest, Batthyány tér M+H, Bem rkp., 1011, Hungary",
+        "latitude": 47.5077498,
+        "longitude": 19.0397486
+    },
+    {
+        "category": "viewpoints",
+        "title": "Széchenyi Chain Bridge",
+        "rating": 4.7,
+        "address": "Budapest, Széchenyi Lánchíd, 1051, Hungary",
+        "latitude": 47.498992799999996,
+        "longitude": 19.043699399999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Lookout on József-hegy",
+        "rating": 4.5,
+        "address": "Budapest, Józsefhegyi u., 1025, Hungary",
+        "latitude": 47.5237858,
+        "longitude": 19.0273854
+    },
+    {
+        "category": "viewpoints",
+        "title": "Árpád lookout",
+        "rating": 4.6,
+        "address": "Budapest, Glück Frigyes út, 1025, Hungary",
+        "latitude": 47.5351803,
+        "longitude": 18.999806799999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "St. Stephen's Basilica",
+        "rating": 4.7,
+        "address": "Budapest, Szent István tér 1, 1051, Hungary",
+        "latitude": 47.5008902,
+        "longitude": 19.053988699999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Buda Castle Pointview",
+        "rating": 4.9,
+        "address": "Budapest, Öntőház u. 18, 1013, Hungary",
+        "latitude": 47.4961868,
+        "longitude": 19.041564299999997
+    },
+    {
+        "category": "viewpoints",
+        "title": "Gellért Hill Vista Point",
+        "rating": 4.7,
+        "address": "Budapest, Szabó Dezső stny., 1118, Hungary",
+        "latitude": 47.4865182,
+        "longitude": 19.0496831
+    },
+    {
+        "category": "viewpoints",
+        "title": "Erzsébet Bridge",
+        "rating": 4.6,
+        "address": "Budapest, Erzsébet híd, 1013, Hungary",
+        "latitude": 47.4908824,
+        "longitude": 19.049197799999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Margaret Bridge Panoramic View",
+        "rating": 4.7,
+        "address": "Budapest, Margaret Bridge, 1055, Hungary",
+        "latitude": 47.5146277,
+        "longitude": 19.0434503
+    },
+    {
+        "category": "viewpoints",
+        "title": "Buda castle viewpoint",
+        "rating": 5,
+        "address": "Budapest, Ybl Miklós tér 4, 1013, Hungary",
+        "latitude": 47.495540899999995,
+        "longitude": 19.0416007
+    },
+    {
+        "category": "viewpoints",
+        "title": "Liberty Square",
+        "rating": 4.5,
+        "address": "Budapest, Szabadság tér, 1054, Hungary",
+        "latitude": 47.503974899999996,
+        "longitude": 19.050609599999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Heroes' Square",
+        "rating": 4.7,
+        "address": "Budapest, Hősök tere, 1146, Hungary",
+        "latitude": 47.5149429,
+        "longitude": 19.0778626
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ferris Wheel of Budapest",
+        "rating": 4.5,
+        "address": "Budapest, Erzsébet tér, 1051, Hungary",
+        "latitude": 47.4981503,
+        "longitude": 19.0520441
+    },
+    {
+        "category": "viewpoints",
+        "title": "The Church of Our Lady of Buda Castle",
+        "rating": 4.8,
+        "address": "Budapest, Szentháromság tér 2, 1014, Hungary",
+        "latitude": 47.5019537,
+        "longitude": 19.0341617
+    },
+    {
+        "category": "viewpoints",
+        "title": "Castle observation deck - Buda side",
+        "rating": 4.5,
+        "address": "Budapest, Szent György u. 1, 1014, Hungary",
+        "latitude": 47.4967091,
+        "longitude": 19.0373178
+    },
+    {
+        "category": "viewpoints",
+        "title": "Panoramic view",
+        "rating": 4.7,
+        "address": "Budapest, Fátra tér 3, 1112, Hungary",
+        "latitude": 47.4836946,
+        "longitude": 19.010555699999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Tündér-szikla viewpoint",
+        "rating": 4.8,
+        "address": "Budapest, Remete út 5, 1121, Hungary",
+        "latitude": 47.5156412,
+        "longitude": 18.9689774
+    },
+    {
+        "category": "gardens",
+        "title": "ELTE Füvészkert",
+        "rating": 4.7,
+        "address": "Budapest, Illés u. 25, 1083, Hungary",
+        "latitude": 47.4838617,
+        "longitude": 19.0852632
+    },
+    {
+        "category": "gardens",
+        "title": "Budapest Zoo & Botanical Garden",
+        "rating": 4.5,
+        "address": "Budapest, Állatkerti krt. 6-12, 1146, Hungary",
+        "latitude": 47.5189977,
+        "longitude": 19.0776433
+    },
+    {
+        "category": "gardens",
+        "title": "Orczy Garden",
+        "rating": 4.7,
+        "address": "Budapest, Orczy út 1, 1089, Hungary",
+        "latitude": 47.4818577,
+        "longitude": 19.0879941
+    },
+    {
+        "category": "gardens",
+        "title": "Japanese Garden",
+        "rating": 4.6,
+        "address": "Budapest, Hajós Alfréd stny., 1138, Hungary",
+        "latitude": 47.534504,
+        "longitude": 19.051382999999998
+    },
+    {
+        "category": "gardens",
+        "title": "Károlyi Garden",
+        "rating": 4.7,
+        "address": "Budapest, Károlyi kert 25, 1053, Hungary",
+        "latitude": 47.4920944,
+        "longitude": 19.059775
+    },
+    {
+        "category": "gardens",
+        "title": "Museum Garden",
+        "rating": 4.7,
+        "address": "Budapest, Múzeum u. 9, 1088, Hungary",
+        "latitude": 47.4907178,
+        "longitude": 19.06232
+    },
+    {
+        "category": "gardens",
+        "title": "Rose Garden",
+        "rating": 4.7,
+        "address": "Budapest, 1138, Hungary",
+        "latitude": 47.527676299999996,
+        "longitude": 19.0495621
+    },
+    {
+        "category": "gardens",
+        "title": "Mőcsényi Mihály botanikus kert",
+        "rating": 4.8,
+        "address": "Budapest, 1146, Hungary",
+        "latitude": 47.510906999999996,
+        "longitude": 19.089873
+    },
+    {
+        "category": "gardens",
+        "title": "City Park",
+        "rating": 4.7,
+        "address": "Budapest, Kós Károly stny., 1146, Hungary",
+        "latitude": 47.514292,
+        "longitude": 19.085244
+    },
+    {
+        "category": "gardens",
+        "title": "CENTAR",
+        "rating": 4.6,
+        "address": "Budapest, Danubius Fountain, Erzsébet tér 4, 1051 Hungary",
+        "latitude": 47.498375499999995,
+        "longitude": 19.0525558
+    },
+    {
+        "category": "gardens",
+        "title": "Budapest Garden",
+        "rating": 4.4,
+        "address": "Budapest, Árpád fejedelem útja 125, 1036, Hungary",
+        "latitude": 47.5315357,
+        "longitude": 19.0431657
+    },
+    {
+        "category": "gardens",
+        "title": "Jászai Mari tér",
+        "rating": 4.3,
+        "address": "Budapest, Jászai Mari tér, 1137, Hungary",
+        "latitude": 47.5135801,
+        "longitude": 19.047829399999998
+    },
+    {
+        "category": "gardens",
+        "title": "Castle Garden Bazaar",
+        "rating": 4.6,
+        "address": "Budapest, Ybl Miklós tér 2-6, 1013, Hungary",
+        "latitude": 47.4953569,
+        "longitude": 19.042428599999997
+    },
+    {
+        "category": "gardens",
+        "title": "Buda Arboretum",
+        "rating": 4.6,
+        "address": "Budapest, Villányi út 29-43, 1114, Hungary",
+        "latitude": 47.482243999999994,
+        "longitude": 19.0401894
+    },
+    {
+        "category": "gardens",
+        "title": "Japanese garden",
+        "rating": 4.5,
+        "address": "Budapest, Kövér Lajos u. 1, 1149, Hungary",
+        "latitude": 47.510553699999996,
+        "longitude": 19.120180599999998
+    },
+    {
+        "category": "gardens",
+        "title": "Millenáris Park",
+        "rating": 4.7,
+        "address": "Budapest, Kis Rókus u. 16-20, 1024, Hungary",
+        "latitude": 47.5111341,
+        "longitude": 19.024893199999998
+    },
+    {
+        "category": "gardens",
+        "title": "Liberty Square",
+        "rating": 4.5,
+        "address": "Budapest, Szabadság tér, 1054, Hungary",
+        "latitude": 47.503974899999996,
+        "longitude": 19.050609599999998
+    },
+    {
+        "category": "gardens",
+        "title": "Chestnut Garden",
+        "rating": 4.5,
+        "address": "Budapest, Jagelló út, 1124, Hungary",
+        "latitude": 47.4894512,
+        "longitude": 19.0205928
+    },
+    {
+        "category": "gardens",
+        "title": "Elizabeth Square",
+        "rating": 4.5,
+        "address": "Budapest, Deák Ferenc tér 2, 1052, Hungary",
+        "latitude": 47.4982313,
+        "longitude": 19.0526651
+    },
+    {
+        "category": "gardens",
+        "title": "Garden of Philosophers",
+        "rating": 4.7,
+        "address": "Budapest, 1016, Hungary",
+        "latitude": 47.4892772,
+        "longitude": 19.039401899999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Tarzan Park",
+        "rating": 4.6,
+        "address": "Budapest, Tábor u. 26-28, 1046, Hungary",
+        "latitude": 47.572242599999996,
+        "longitude": 19.111910599999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Skyward INDOOR skydiving BUDAPEST",
+        "rating": 4.9,
+        "address": "Budapest, Szérűraktár u. 53, 1212, Hungary",
+        "latitude": 47.4323279,
+        "longitude": 19.055754699999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Körhinta (Budapest)",
+        "rating": 4.6,
+        "address": "Budapest, Állatkerti krt. 16, 1146, Hungary",
+        "latitude": 47.5196452,
+        "longitude": 19.0826483
+    },
+    {
+        "category": "adventure parks",
+        "title": "Orczy Adventure Park",
+        "rating": 4.6,
+        "address": "Budapest, Orczy Kert, 1089, Hungary",
+        "latitude": 47.4824239,
+        "longitude": 19.090076399999997
+    },
+    {
+        "category": "adventure parks",
+        "title": "PlayVR - Virtuális Valóság Élményközpont",
+        "rating": 4.9,
+        "address": "Budapest, Róbert Károly körút 67, 1134, Hungary",
+        "latitude": 47.525683,
+        "longitude": 19.0770519
+    },
+    {
+        "category": "adventure parks",
+        "title": "Aquaworld Aquapark",
+        "rating": 4.4,
+        "address": "Budapest, Íves út, 1044, Hungary",
+        "latitude": 47.600431699999994,
+        "longitude": 19.1112344
+    },
+    {
+        "category": "adventure parks",
+        "title": "Kincsem Honvédelmi Park",
+        "rating": 4.7,
+        "address": "Budapest, Fehér út 7, 1106, Hungary",
+        "latitude": 47.4970955,
+        "longitude": 19.1373276
+    },
+    {
+        "category": "adventure parks",
+        "title": "Garden of Lights - Pán Péter Budapest",
+        "rating": 4.7,
+        "address": "Budapest, Illés u. 25, 1083, Hungary",
+        "latitude": 47.4837476,
+        "longitude": 19.0855469
+    },
+    {
+        "category": "adventure parks",
+        "title": "Aquaworld Resort Budapest",
+        "rating": 4.5,
+        "address": "Budapest, Íves út 16, 1044, Hungary",
+        "latitude": 47.601086099999996,
+        "longitude": 19.112265
+    },
+    {
+        "category": "adventure parks",
+        "title": "City Park",
+        "rating": 4.7,
+        "address": "Budapest, Kós Károly stny., 1146, Hungary",
+        "latitude": 47.514292,
+        "longitude": 19.085244
+    },
+    {
+        "category": "adventure parks",
+        "title": "BRICKPARK (LEGO)",
+        "rating": 4.6,
+        "address": "Budapest, Nagytétényi út 37-43, 1222, Hungary",
+        "latitude": 47.4057708,
+        "longitude": 19.0155395
+    },
+    {
+        "category": "adventure parks",
+        "title": "VR Park",
+        "rating": 4.5,
+        "address": "Budapest, Teréz krt. 62, 1066, Hungary",
+        "latitude": 47.5094357,
+        "longitude": 19.0570253
+    },
+    {
+        "category": "adventure parks",
+        "title": "DinoPark KÖKI Budapest",
+        "rating": 4.5,
+        "address": "Budapest, Vak Bottyán u. 75, 1191, Hungary",
+        "latitude": 47.462999499999995,
+        "longitude": 19.145621
+    },
+    {
+        "category": "adventure parks",
+        "title": "Aktív Park Élménypark Budapest",
+        "rating": 4.7,
+        "address": "Budapest, Pesti út 474, 1173, Hungary",
+        "latitude": 47.466238,
+        "longitude": 19.3224168
+    },
+    {
+        "category": "adventure parks",
+        "title": "VR Evolution VR budapest, VR szabaduló, VR élmény terem",
+        "rating": 4.9,
+        "address": "Budapest, Róbert Károly körút 67, 1134, Hungary",
+        "latitude": 47.525683,
+        "longitude": 19.0770519
+    },
+    {
+        "category": "adventure parks",
+        "title": "Bikás park",
+        "rating": 4.6,
+        "address": "Budapest, 1119, Hungary",
+        "latitude": 47.4651272,
+        "longitude": 19.0332525
+    },
+    {
+        "category": "adventure parks",
+        "title": "Orczy Garden",
+        "rating": 4.7,
+        "address": "Budapest, Orczy út 1, 1089, Hungary",
+        "latitude": 47.4818577,
+        "longitude": 19.0879941
+    },
+    {
+        "category": "adventure parks",
+        "title": "Main Playground in Városliget",
+        "rating": 4.8,
+        "address": "Budapest, Ajtósi Dürer sor 15, 1146, Hungary",
+        "latitude": 47.5097695,
+        "longitude": 19.0860535
+    },
+    {
+        "category": "adventure parks",
+        "title": "Csúszdapark",
+        "rating": 4.7,
+        "address": "Budapest, Szabó Dezső lejtő, 1118, Hungary",
+        "latitude": 47.485070099999994,
+        "longitude": 19.049943
+    },
+    {
+        "category": "adventure parks",
+        "title": "Ferris Wheel of Budapest",
+        "rating": 4.5,
+        "address": "Budapest, Erzsébet tér, 1051, Hungary",
+        "latitude": 47.4981503,
+        "longitude": 19.0520441
+    },
+    {
+        "category": "hot springs",
+        "title": "Széchenyi Thermal Bath",
+        "rating": 4.2,
+        "address": "Budapest, Állatkerti krt. 9-11, 1146, Hungary",
+        "latitude": 47.518656799999995,
+        "longitude": 19.0823791
+    },
+    {
+        "category": "hot springs",
+        "title": "Rudas Thermal Bath",
+        "rating": 4.3,
+        "address": "Budapest, Döbrentei tér 9, 1013, Hungary",
+        "latitude": 47.4890919,
+        "longitude": 19.047836099999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Lukacs Baths",
+        "rating": 4.3,
+        "address": "Budapest, Frankel Leó út 25-29, 1023, Hungary",
+        "latitude": 47.5177775,
+        "longitude": 19.0368998
+    },
+    {
+        "category": "hot springs",
+        "title": "Irgalmasok Veli Bej Bath",
+        "rating": 4.6,
+        "address": "Budapest, Árpád fejedelem útja 7, 1023, Hungary",
+        "latitude": 47.5191896,
+        "longitude": 19.0371186
+    },
+    {
+        "category": "hot springs",
+        "title": "Thermal Beer Spa",
+        "rating": 4.6,
+        "address": "Koós, Budapest, Széchenyi Spa Main Entrance /Gate 1, Kós Károly stny. 1, 1146 Hungary",
+        "latitude": 47.5179945,
+        "longitude": 19.0826235
+    },
+    {
+        "category": "hot springs",
+        "title": "Palatinus Strand Baths",
+        "rating": 4.4,
+        "address": "Budapest, Soó Rezső stny. 1, 1007, Hungary",
+        "latitude": 47.527952,
+        "longitude": 19.0469677
+    },
+    {
+        "category": "hot springs",
+        "title": "Dandár Thermal Baths",
+        "rating": 4.3,
+        "address": "Budapest, Dandár u. 3, 1095, Hungary",
+        "latitude": 47.47641,
+        "longitude": 19.070943
+    },
+    {
+        "category": "hot springs",
+        "title": "Thermal Beerspa Budapest inside Lukács Bath",
+        "rating": 4.6,
+        "address": "Budapest, Frankel Leó út 25-29, 1023, Hungary",
+        "latitude": 47.5172848,
+        "longitude": 19.036553299999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Ensana Thermal Margaret Island",
+        "rating": 4.6,
+        "address": "Budapest, 1007, Hungary",
+        "latitude": 47.5340594,
+        "longitude": 19.0530358
+    },
+    {
+        "category": "hot springs",
+        "title": "Széchenyi Thermal Bath Park",
+        "rating": 4.1,
+        "address": "Budapest, 1146, Hungary",
+        "latitude": 47.5177371,
+        "longitude": 19.082941899999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Gellért Thermal Bath",
+        "rating": 4.2,
+        "address": "Budapest, Kelenhegyi út 4, 1118, Hungary",
+        "latitude": 47.4837444,
+        "longitude": 19.0516211
+    },
+    {
+        "category": "hot springs",
+        "title": "Király Thermal Bath",
+        "rating": 4.4,
+        "address": "Budapest, Fő u. 84, 1027, Hungary",
+        "latitude": 47.510555599999996,
+        "longitude": 19.0380556
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westend",
+        "rating": 4.2,
+        "address": "Budapest, Váci út 1-3, 1062, Hungary",
+        "latitude": 47.5138536,
+        "longitude": 19.059258099999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "ÁRKÁD Budapest",
+        "rating": 4.4,
+        "address": "Budapest, Örs vezér tere 25/A, 1106, Hungary",
+        "latitude": 47.5026465,
+        "longitude": 19.1375024
+    },
+    {
+        "category": "shopping malls",
+        "title": "Arena Mall",
+        "rating": 4.4,
+        "address": "Budapest, Kerepesi út 9, 1087, Hungary",
+        "latitude": 47.4983663,
+        "longitude": 19.0923013
+    },
+    {
+        "category": "shopping malls",
+        "title": "Corvin Plaza Shopping Mall",
+        "rating": 4.2,
+        "address": "Budapest, Futó u. 37, 1083, Hungary",
+        "latitude": 47.4858605,
+        "longitude": 19.0743257
+    },
+    {
+        "category": "shopping malls",
+        "title": "Allee Mall",
+        "rating": 4.5,
+        "address": "Budapest, Október huszonharmadika u. 8-10, 1117, Hungary",
+        "latitude": 47.4751068,
+        "longitude": 19.0491343
+    },
+    {
+        "category": "shopping malls",
+        "title": "Central Passage",
+        "rating": 4.3,
+        "address": "Budapest, Király u. 8-10, 1061, Hungary",
+        "latitude": 47.498656999999994,
+        "longitude": 19.0563501
+    },
+    {
+        "category": "shopping malls",
+        "title": "Récsei Center",
+        "rating": 4.2,
+        "address": "Budapest, Istvánmezei út 6, 1146, Hungary",
+        "latitude": 47.5049049,
+        "longitude": 19.092849599999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "Sugár Shopping Center",
+        "rating": 4.2,
+        "address": "Budapest, Örs vezér tere 24, 1148, Hungary",
+        "latitude": 47.5042818,
+        "longitude": 19.138267799999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Mammut",
+        "rating": 4.2,
+        "address": "Budapest, Lövőház u. 2-6, 1024, Hungary",
+        "latitude": 47.5083919,
+        "longitude": 19.0261295
+    },
+    {
+        "category": "shopping malls",
+        "title": "Campona",
+        "rating": 4.4,
+        "address": "Budapest, Nagytétényi út 37, 1222, Hungary",
+        "latitude": 47.406734,
+        "longitude": 19.0168028
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shopmark",
+        "rating": 4.3,
+        "address": "Budapest, Üllői út 201, 1191, Hungary",
+        "latitude": 47.463003799999996,
+        "longitude": 19.129698599999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "MOM Park",
+        "rating": 4.3,
+        "address": "Budapest, Alkotás u. 53, 1123, Hungary",
+        "latitude": 47.4908138,
+        "longitude": 19.0231471
+    },
+    {
+        "category": "shopping malls",
+        "title": "World Mall",
+        "rating": 4.2,
+        "address": "Budapest, Szentmihályi út 167-169, 1152, Hungary",
+        "latitude": 47.549081199999996,
+        "longitude": 19.1478198
+    },
+    {
+        "category": "shopping malls",
+        "title": "Duna Plaza",
+        "rating": 4.2,
+        "address": "Budapest, Váci út 178, 1138, Hungary",
+        "latitude": 47.550078899999995,
+        "longitude": 19.0726756
+    },
+    {
+        "category": "shopping malls",
+        "title": "Premier Outlet",
+        "rating": 4.3,
+        "address": "Biatorbágy, Budaörsi út 4, 2051, Hungary",
+        "latitude": 47.464712399999996,
+        "longitude": 18.888913499999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shopping center",
+        "rating": 4.5,
+        "address": "Budapest, Váci út. ( West End City Center Office), 1-3 A. ép, 1062, Hungary",
+        "latitude": 47.5147529,
+        "longitude": 19.0596639
+    },
+    {
+        "category": "shopping malls",
+        "title": "Budagyöngye Shopping Center",
+        "rating": 4,
+        "address": "Budapest, Szilágyi Erzsébet fasor 121, 1026, Hungary",
+        "latitude": 47.5163994,
+        "longitude": 19.000022899999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Dunaház Shopping Mall",
+        "rating": 4,
+        "address": "Budapest, Boráros tér 7, 1095, Hungary",
+        "latitude": 47.4786229,
+        "longitude": 19.0674638
+    },
+    {
+        "category": "shopping malls",
+        "title": "Garay Center",
+        "rating": 4.1,
+        "address": "Budapest, Garay tér 20, 1076, Hungary",
+        "latitude": 47.503746299999996,
+        "longitude": 19.0857878
+    },
+    {
+        "category": "shopping malls",
+        "title": "VI. Market Hall",
+        "rating": 4.2,
+        "address": "Budapest, Batthyány tér 6, 1011, Hungary",
+        "latitude": 47.5061223,
+        "longitude": 19.0377065
+    },
+    {
+        "category": "historical sites",
+        "title": "Fisherman's Bastion",
+        "rating": 4.8,
+        "address": "Budapest, 1014, Hungary",
+        "latitude": 47.5021827,
+        "longitude": 19.034781199999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Castle District",
+        "rating": 4.7,
+        "address": "Budapest, Országház u. 2, 1014, Hungary",
+        "latitude": 47.5018283,
+        "longitude": 19.0333458
+    },
+    {
+        "category": "historical sites",
+        "title": "Buda Castle",
+        "rating": 4.7,
+        "address": "Budapest, Szent György tér, 1014, Hungary",
+        "latitude": 47.4962048,
+        "longitude": 19.0395666
+    },
+    {
+        "category": "historical sites",
+        "title": "Vajdahunyad Castle",
+        "rating": 4.7,
+        "address": "Budapest, Vajdahunyad stny., 1146, Hungary",
+        "latitude": 47.5148896,
+        "longitude": 19.0830593
+    },
+    {
+        "category": "historical sites",
+        "title": "Millennium Monument",
+        "rating": 4.7,
+        "address": "Budapest, Hősök tere, 1146, Hungary",
+        "latitude": 47.515192,
+        "longitude": 19.0781554
+    },
+    {
+        "category": "historical sites",
+        "title": "Hungarian Parliament Building",
+        "rating": 4.8,
+        "address": "Budapest, Kossuth Lajos tér 1-3, 1055, Hungary",
+        "latitude": 47.507121,
+        "longitude": 19.045669
+    },
+    {
+        "category": "historical sites",
+        "title": "Kossuth Lajos Square",
+        "rating": 4.7,
+        "address": "Budapest, Kossuth Lajos tér, 1055, Hungary",
+        "latitude": 47.507040499999995,
+        "longitude": 19.047631499999998
+    },
+    {
+        "category": "historical sites",
+        "title": "The Church of Our Lady of Buda Castle",
+        "rating": 4.8,
+        "address": "Budapest, Szentháromság tér 2, 1014, Hungary",
+        "latitude": 47.5019537,
+        "longitude": 19.0341617
+    },
+    {
+        "category": "historical sites",
+        "title": "Heroes' Square",
+        "rating": 4.7,
+        "address": "Budapest, Hősök tere, 1146, Hungary",
+        "latitude": 47.5149429,
+        "longitude": 19.0778626
+    },
+    {
+        "category": "historical sites",
+        "title": "Széchenyi Chain Bridge",
+        "rating": 4.7,
+        "address": "Budapest, Széchenyi Lánchíd, 1051, Hungary",
+        "latitude": 47.498992799999996,
+        "longitude": 19.043699399999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Labyrinth",
+        "rating": 3.8,
+        "address": "Budapest, Úri u. 9, 1014, Hungary",
+        "latitude": 47.5001434,
+        "longitude": 19.034198399999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Shoes on the Danube Bank",
+        "rating": 4.7,
+        "address": "Budapest, 1054, Hungary",
+        "latitude": 47.503927399999995,
+        "longitude": 19.0448015
+    },
+    {
+        "category": "historical sites",
+        "title": "Holy Trinity Statue",
+        "rating": 4.7,
+        "address": "Budapest, Szentháromság u., 1014, Hungary",
+        "latitude": 47.501700299999996,
+        "longitude": 19.0335188
+    },
+    {
+        "category": "historical sites",
+        "title": "Budapest Parliament",
+        "rating": 4.8,
+        "address": "Budapest, Kossuth Lajos tér 8, 1055, Hungary",
+        "latitude": 47.505421999999996,
+        "longitude": 19.046629
+    },
+    {
+        "category": "historical sites",
+        "title": "Castle Garden Bazaar",
+        "rating": 4.6,
+        "address": "Budapest, Ybl Miklós tér 2-6, 1013, Hungary",
+        "latitude": 47.4953569,
+        "longitude": 19.042428599999997
+    },
+    {
+        "category": "historical sites",
+        "title": "Vörösmarty Square",
+        "rating": 4.6,
+        "address": "Budapest, Vörösmarty tér 3, 1051, Hungary",
+        "latitude": 47.4964835,
+        "longitude": 19.0507033
+    },
+    {
+        "category": "historical sites",
+        "title": "Soviet War Memorial",
+        "rating": 4,
+        "address": "Budapest, Szabadság tér 14, 1054, Hungary",
+        "latitude": 47.504629,
+        "longitude": 19.0503258
+    },
+    {
+        "category": "historical sites",
+        "title": "Budapest History Museum / Castle Museum",
+        "rating": 4.4,
+        "address": "Budapest, Szent György tér 2, 1014, Hungary",
+        "latitude": 47.495155399999994,
+        "longitude": 19.0402842
+    },
+    {
+        "category": "historical sites",
+        "title": "Vienna Gate",
+        "rating": 4.6,
+        "address": "Budapest, Bécsikapu tér, 1014, Hungary",
+        "latitude": 47.505058299999995,
+        "longitude": 19.030612299999998
+    },
+    {
+        "category": "historical sites",
+        "title": "St. Stephen's Basilica",
+        "rating": 4.7,
+        "address": "Budapest, Szent István tér 1, 1051, Hungary",
+        "latitude": 47.5008902,
+        "longitude": 19.053988699999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Hungarian National Gallery",
+        "rating": 4.7,
+        "address": "Budapest, Szent György tér 2, 1014, Hungary",
+        "latitude": 47.496269299999994,
+        "longitude": 19.0398156
+    },
+    {
+        "category": "art galleries",
+        "title": "IKONO Budapest",
+        "rating": 4.7,
+        "address": "Budapest, Váci u 27, 1052, Hungary",
+        "latitude": 47.4929552,
+        "longitude": 19.052906099999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Ráth György-villa",
+        "rating": 4.7,
+        "address": "Budapest, Városligeti fasor 12, 1068, Hungary",
+        "latitude": 47.508998999999996,
+        "longitude": 19.0740932
+    },
+    {
+        "category": "art galleries",
+        "title": "Koller Gallery",
+        "rating": 4.9,
+        "address": "Budapest, Táncsics Mihály u. 5, 1014, Hungary",
+        "latitude": 47.5036479,
+        "longitude": 19.0327406
+    },
+    {
+        "category": "art galleries",
+        "title": "Cat Museum Budapest",
+        "rating": 4.3,
+        "address": "Budapest, Vadász u. 26, 1054, Hungary",
+        "latitude": 47.505142299999996,
+        "longitude": 19.053445399999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Titok Galéria - Secret Gallery",
+        "rating": 4.7,
+        "address": "Budapest, Ó u. 12, 1066, Hungary",
+        "latitude": 47.5033745,
+        "longitude": 19.0568158
+    },
+    {
+        "category": "art galleries",
+        "title": "Love Art Budapest Gallery - Handmade Design Gift Shop",
+        "rating": 5,
+        "address": "Budapest, Kecskeméti u. 19, 1053, Hungary",
+        "latitude": 47.4897844,
+        "longitude": 19.061151
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum of Fine Arts",
+        "rating": 4.7,
+        "address": "Budapest, Szépművészeti Múzeum, Dózsa György út 41, 1146 Hungary",
+        "latitude": 47.5158038,
+        "longitude": 19.0768998
+    },
+    {
+        "category": "art galleries",
+        "title": "Ludwig Museum",
+        "rating": 4.5,
+        "address": "Budapest, Komor Marcell u. 1, 1095, Hungary",
+        "latitude": 47.4696514,
+        "longitude": 19.0709855
+    },
+    {
+        "category": "art galleries",
+        "title": "FKSE Studio of Young Artists’ Association",
+        "rating": 4.7,
+        "address": "Budapest, Rottenbiller u. 35, 1077, Hungary",
+        "latitude": 47.505755699999995,
+        "longitude": 19.074370599999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Vasarely Museum, Budapest",
+        "rating": 4.6,
+        "address": "Budapest, Szentlélek tér 6, 1033, Hungary",
+        "latitude": 47.540273299999996,
+        "longitude": 19.046509099999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Kunsthalle (Műcsarnok)",
+        "rating": 4.5,
+        "address": "Budapest, Dózsa György út 37, 1146, Hungary",
+        "latitude": 47.5142558,
+        "longitude": 19.078433
+    },
+    {
+        "category": "art galleries",
+        "title": "Hopp Ferenc Museum of East Asian Art",
+        "rating": 4.4,
+        "address": "Budapest, Andrássy út 103, 1062, Hungary",
+        "latitude": 47.511310599999995,
+        "longitude": 19.073205899999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Molnár C. Pál Studio-Museum",
+        "rating": 4.9,
+        "address": "Budapest, Ménesi út 65, 1118, Hungary",
+        "latitude": 47.4832166,
+        "longitude": 19.0357906
+    },
+    {
+        "category": "art galleries",
+        "title": "Imre Varga Collection",
+        "rating": 4.7,
+        "address": "Budapest, Laktanya u. 7, 1033, Hungary",
+        "latitude": 47.5424319,
+        "longitude": 19.0459455
+    },
+    {
+        "category": "art galleries",
+        "title": "Hungarian National Museum",
+        "rating": 4.5,
+        "address": "Budapest, Múzeum krt. 14-16, 1088, Hungary",
+        "latitude": 47.4911983,
+        "longitude": 19.0624765
+    },
+    {
+        "category": "art galleries",
+        "title": "Amazing Metal Art Gallery",
+        "rating": 4.7,
+        "address": "Budapest, bejutás a BAZ Beer Bár bejáratán keresztül, Dohány u. 30./A, 1074 Hungary",
+        "latitude": 47.496059699999996,
+        "longitude": 19.0645335
+    },
+    {
+        "category": "art galleries",
+        "title": "Cinema Mystica Budapest",
+        "rating": 4.3,
+        "address": "Budapest, Ferenciek tere 10, 1052, Hungary",
+        "latitude": 47.493317399999995,
+        "longitude": 19.055239999999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum of Illusions",
+        "rating": 4.4,
+        "address": "Budapest, Bajcsy-Zsilinszky út 3, 1065, Hungary",
+        "latitude": 47.498360999999996,
+        "longitude": 19.0551369
+    },
+    {
+        "category": "art galleries",
+        "title": "Light Art Museum",
+        "rating": 4,
+        "address": "Budapest, Hold u. 13, 1054, Hungary",
+        "latitude": 47.504827999999996,
+        "longitude": 19.0526494
+    },
+    {
+        "category": "theaters",
+        "title": "Spinoza Theatre",
+        "rating": 4.6,
+        "address": "Budapest, Dob u. 15, 1074, Hungary",
+        "latitude": 47.4975969,
+        "longitude": 19.060765099999998
+    },
+    {
+        "category": "theaters",
+        "title": "Budapest Puppet Theater",
+        "rating": 4.8,
+        "address": "Budapest, Andrássy út 69, 1062, Hungary",
+        "latitude": 47.507349999999995,
+        "longitude": 19.066975199999998
+    },
+    {
+        "category": "theaters",
+        "title": "István Örkény Theatre",
+        "rating": 4.8,
+        "address": "Budapest, Madách Imre tér 6, 1075, Hungary",
+        "latitude": 47.4973102,
+        "longitude": 19.0566815
+    },
+    {
+        "category": "theaters",
+        "title": "Thalia Drama Theater",
+        "rating": 4.8,
+        "address": "Budapest, Nagymező u. 22-24, 1065, Hungary",
+        "latitude": 47.503703599999994,
+        "longitude": 19.0597525
+    },
+    {
+        "category": "theaters",
+        "title": "Vígszínház",
+        "rating": 4.7,
+        "address": "Budapest, Szent István krt. 14, 1137, Hungary",
+        "latitude": 47.51236,
+        "longitude": 19.051263799999997
+    },
+    {
+        "category": "theaters",
+        "title": "National Theatre",
+        "rating": 4.7,
+        "address": "Budapest, Bajor Gizi park 1, 1095, Hungary",
+        "latitude": 47.4705745,
+        "longitude": 19.0710928
+    },
+    {
+        "category": "theaters",
+        "title": "Erkel Színház",
+        "rating": 4.6,
+        "address": "Budapest, II. János Pál pápa tér 30, 1081, Hungary",
+        "latitude": 47.496919,
+        "longitude": 19.076805699999998
+    },
+    {
+        "category": "theaters",
+        "title": "Budapest Operetta Theatre",
+        "rating": 4.8,
+        "address": "Budapest, Nagymező u. 17, 1065, Hungary",
+        "latitude": 47.5039082,
+        "longitude": 19.0601052
+    },
+    {
+        "category": "theaters",
+        "title": "Madách Színház",
+        "rating": 4.8,
+        "address": "Budapest, Erzsébet krt. 29-33, 1073, Hungary",
+        "latitude": 47.5011769,
+        "longitude": 19.0683454
+    },
+    {
+        "category": "theaters",
+        "title": "Hungarian State Opera",
+        "rating": 4.7,
+        "address": "Budapest, Andrássy út 22, 1061, Hungary",
+        "latitude": 47.502716899999996,
+        "longitude": 19.0583076
+    },
+    {
+        "category": "souvenir counters",
+        "title": "The Biggest Souvenir Shop-Market in Budapest",
+        "rating": 3.8,
+        "address": "Budapest, Deák Ferenc u. 12, 1051, Hungary",
+        "latitude": 47.4964635,
+        "longitude": 19.0515297
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Budapest Souvenir",
+        "rating": 4.2,
+        "address": "Budapest, Andrássy út 29, 1065, Hungary",
+        "latitude": 47.502615899999995,
+        "longitude": 19.0599088
+    },
+    {
+        "category": "souvenir counters",
+        "title": "WORLD OF SOUVENIR",
+        "rating": 3.7,
+        "address": "Budapest, Deák Ferenc u. 10, 1052, Hungary",
+        "latitude": 47.496529699999996,
+        "longitude": 19.0516175
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Market1 Hungarian Souvenir and Gift Shop",
+        "rating": 4.8,
+        "address": "Budapest, Vigadó u. 7, 1051, Hungary",
+        "latitude": 47.4964351,
+        "longitude": 19.0499975
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Star Souvenirs #Vörösmarty",
+        "rating": 4.4,
+        "address": "Budapest, Vörösmarty tér 2, 1054, Hungary",
+        "latitude": 47.495949499999995,
+        "longitude": 19.0512646
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Best Souvenir Shop",
+        "rating": 3.9,
+        "address": "Budapest, Váci u 46, 1056, Hungary",
+        "latitude": 47.490830599999995,
+        "longitude": 19.0548777
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hungarian Souvenir",
+        "rating": 4,
+        "address": "Budapest, Rákóczi út 58, 1074, Hungary",
+        "latitude": 47.4978719,
+        "longitude": 19.0724399
+    },
+    {
+        "category": "souvenir counters",
+        "title": "House of Parliament Souvenir Shop",
+        "rating": 4.1,
+        "address": "Budapest, Kossuth Lajos tér 1, 1055, Hungary",
+        "latitude": 47.508472,
+        "longitude": 19.045600099999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "World Of Souvenir",
+        "rating": 3.8,
+        "address": "Budapest, Király u. 14, 1061, Hungary",
+        "latitude": 47.4988647,
+        "longitude": 19.0573121
+    },
+    {
+        "category": "souvenir counters",
+        "title": "I love Budapest souvenir market",
+        "rating": 4.7,
+        "address": "Budapest, Károly krt. 9, 1075, Hungary",
+        "latitude": 47.4966906,
+        "longitude": 19.0577957
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Budapest Souvenir K7",
+        "rating": 3.6,
+        "address": "Budapest, Károly krt. 7, 1075, Hungary",
+        "latitude": 47.4964544,
+        "longitude": 19.058268299999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Memories of Hungary Halászbástya Fine Food & Wine Ajándékbolt",
+        "rating": 4.4,
+        "address": "Budapest, Hess András tér 3, 1014, Hungary",
+        "latitude": 47.5027836,
+        "longitude": 19.0341189
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Memories of Hungary Váci utca Ajándékbolt",
+        "rating": 4.2,
+        "address": "Budapest, Váci u 14, 1052, Hungary",
+        "latitude": 47.494699999999995,
+        "longitude": 19.052257
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Smile Souvenir & Luggage Storage",
+        "rating": 4.4,
+        "address": "Budapest, Wesselényi utca 4, 1077, Hungary",
+        "latitude": 47.495973299999996,
+        "longitude": 19.0596951
+    },
+    {
+        "category": "souvenir counters",
+        "title": "From budapest with love",
+        "rating": 4.2,
+        "address": "Budapest, Bajcsy-Zsilinszky út 17, 1065, Hungary",
+        "latitude": 47.501292899999996,
+        "longitude": 19.055217
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Smile Souvenir Shop Budapest",
+        "rating": 4.5,
+        "address": "Budapest, Wesselényi utca 2, 1077, Hungary",
+        "latitude": 47.4960795,
+        "longitude": 19.0597636
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Buda Castle Souvenir",
+        "rating": 4.9,
+        "address": "Budapest, Úri u. 26, 1014, Hungary",
+        "latitude": 47.5008488,
+        "longitude": 19.0325702
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gifts of Budapest Souvenirs & more",
+        "rating": 2.9,
+        "address": "Budapest, Andrássy út 1, 1061, Hungary",
+        "latitude": 47.499511999999996,
+        "longitude": 19.055256999999997
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Memories of Hungary - Art and Design",
+        "rating": 5,
+        "address": "Budapest, Zrínyi u. 14, 1051, Hungary",
+        "latitude": 47.500569999999996,
+        "longitude": 19.0507144
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir",
+        "rating": 5,
+        "address": "Budapest, Hess András tér 3, 1014, Hungary",
+        "latitude": 47.503141,
+        "longitude": 19.0326645
+    }
+]

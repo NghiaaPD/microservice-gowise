@@ -1,0 +1,3826 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Hollywood Walk of Fame",
+        "rating": 4,
+        "address": "Hollywood Boulevard, Vine St, Los Angeles, CA 90028",
+        "latitude": 34.101605899999996,
+        "longitude": -118.3295694
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hollywood Wax Museum",
+        "rating": 4.4,
+        "address": "6767 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.101744599999996,
+        "longitude": -118.3381545
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hollywood Sign",
+        "rating": 4.6,
+        "address": "Los Angeles, CA 90068",
+        "latitude": 34.134115099999995,
+        "longitude": -118.3215482
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Griffith Observatory",
+        "rating": 4.7,
+        "address": "2800 E Observatory Rd, Los Angeles, CA 90027",
+        "latitude": 34.1184341,
+        "longitude": -118.3003935
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Griffith Park",
+        "rating": 4.7,
+        "address": "Los Angeles, CA 90027",
+        "latitude": 34.1365544,
+        "longitude": -118.29419999999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "The Getty",
+        "rating": 4.8,
+        "address": "1200 Getty Center Dr, Los Angeles, CA 90049",
+        "latitude": 34.0773438,
+        "longitude": -118.4732648
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Crossroads of the World",
+        "rating": 4.2,
+        "address": "6671 Sunset Blvd, Los Angeles, CA 90028",
+        "latitude": 34.098190699999996,
+        "longitude": -118.33565949999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Natural History Museum of Los Angeles County",
+        "rating": 4.8,
+        "address": "900 Exposition Blvd, Los Angeles, CA 90007",
+        "latitude": 34.0171448,
+        "longitude": -118.2886635
+    },
+    {
+        "category": "tourist attractions",
+        "title": "La Brea Tar Pits and Museum",
+        "rating": 4.6,
+        "address": "5801 Wilshire Blvd, Los Angeles, CA 90036",
+        "latitude": 34.06388,
+        "longitude": -118.356445
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Los Angeles Zoo",
+        "rating": 4.4,
+        "address": "5333 Zoo Dr, Los Angeles, CA 90027",
+        "latitude": 34.1482153,
+        "longitude": -118.28826009999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Universal Studios Hollywood",
+        "rating": 4.6,
+        "address": "100 Universal City Plaza, Universal City, CA 91608",
+        "latitude": 34.137071299999995,
+        "longitude": -118.3533061
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Bronson Caves",
+        "rating": 4.5,
+        "address": "3200 Canyon Dr, Los Angeles, CA 90068",
+        "latitude": 34.1213309,
+        "longitude": -118.31433709999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Old Los Angeles Zoo",
+        "rating": 4.6,
+        "address": "4801 Griffith Park Dr, Los Angeles, CA 90027",
+        "latitude": 34.1339393,
+        "longitude": -118.28903779999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Travel Town Gift Shop",
+        "rating": 4.6,
+        "address": "Travel Town Museum 5200 Zoo Drive next to the 134 Freeway at the Forest Lawn Drive exit, 5200 Zoo Dr, Los Angeles, CA 90027",
+        "latitude": 34.154875499999996,
+        "longitude": -118.3079508
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Santa Monica Pier",
+        "rating": 4.6,
+        "address": "200 Santa Monica Pier, Santa Monica, CA 90401",
+        "latitude": 34.008282099999995,
+        "longitude": -118.4987585
+    },
+    {
+        "category": "tourist attractions",
+        "title": "DTLA Arts District",
+        "rating": 4.6,
+        "address": "3rd St. &, Alameda St, Los Angeles, CA 90013",
+        "latitude": 34.0443569,
+        "longitude": -118.23676049999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Warner Bros. Studio Tour Hollywood",
+        "rating": 4.4,
+        "address": "3400 Warner Blvd, Burbank, CA 91505",
+        "latitude": 34.151177499999996,
+        "longitude": -118.3358009
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Paramount Pictures Studio Tour",
+        "rating": 4.5,
+        "address": "5515 Melrose Ave, Los Angeles, CA 90038",
+        "latitude": 34.0837936,
+        "longitude": -118.32089859999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Madame Tussauds Hollywood",
+        "rating": 4.5,
+        "address": "6933 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.1017225,
+        "longitude": -118.3415065
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ripley's Believe It or Not!",
+        "rating": 4.2,
+        "address": "6780 Hollywood Blvd, Hollywood, CA 90028",
+        "latitude": 34.1012711,
+        "longitude": -118.33848859999999
+    },
+    {
+        "category": "parks",
+        "title": "Griffith Park",
+        "rating": 4.7,
+        "address": "Los Angeles, CA 90027",
+        "latitude": 34.1365544,
+        "longitude": -118.29419999999999
+    },
+    {
+        "category": "parks",
+        "title": "Gloria Molina Grand Park",
+        "rating": 4.5,
+        "address": "200 N Grand Ave, Los Angeles, CA 90012",
+        "latitude": 34.0563289,
+        "longitude": -118.24677129999999
+    },
+    {
+        "category": "parks",
+        "title": "Exposition Park",
+        "rating": 4.6,
+        "address": "700 Exposition Park Dr, Los Angeles, CA 90037",
+        "latitude": 34.0153446,
+        "longitude": -118.28718479999999
+    },
+    {
+        "category": "parks",
+        "title": "Kenneth Hahn State Recreation Area",
+        "rating": 4.7,
+        "address": "4100 S La Cienega Blvd, Los Angeles, CA 90056",
+        "latitude": 34.012322,
+        "longitude": -118.3717552
+    },
+    {
+        "category": "parks",
+        "title": "Echo Park",
+        "rating": 4.5,
+        "address": "1632 Bellevue Ave, Los Angeles, CA 90026",
+        "latitude": 34.073761999999995,
+        "longitude": -118.2596909
+    },
+    {
+        "category": "parks",
+        "title": "Lake Hollywood Park",
+        "rating": 4.7,
+        "address": "3160 Canyon Lake Dr, Los Angeles, CA 90068",
+        "latitude": 34.1269448,
+        "longitude": -118.3261053
+    },
+    {
+        "category": "parks",
+        "title": "MacArthur Park",
+        "rating": 3.6,
+        "address": "2230 W 6th St, Los Angeles, CA 90057",
+        "latitude": 34.059269,
+        "longitude": -118.2771128
+    },
+    {
+        "category": "parks",
+        "title": "Lincoln Park",
+        "rating": 4.3,
+        "address": "3501 Valley Blvd, Los Angeles, CA 90031",
+        "latitude": 34.066563599999995,
+        "longitude": -118.20075329999999
+    },
+    {
+        "category": "parks",
+        "title": "Los Angeles State Historic Park",
+        "rating": 4.6,
+        "address": "1245 N Spring St, Los Angeles, CA 90012",
+        "latitude": 34.0682286,
+        "longitude": -118.2318135
+    },
+    {
+        "category": "parks",
+        "title": "Vista Hermosa Natural Park, Mountains Recreation & Conservation Authority",
+        "rating": 4.7,
+        "address": "100 N Toluca St, Los Angeles, CA 90026",
+        "latitude": 34.0618347,
+        "longitude": -118.25693849999999
+    },
+    {
+        "category": "parks",
+        "title": "Augustus F. Hawkins Nature Park",
+        "rating": 4.5,
+        "address": "5790 Compton Ave, Los Angeles, CA 90011",
+        "latitude": 33.9900691,
+        "longitude": -118.2464493
+    },
+    {
+        "category": "parks",
+        "title": "Hollenbeck Park",
+        "rating": 4.3,
+        "address": "415 S St Louis St, Los Angeles, CA 90033",
+        "latitude": 34.0402693,
+        "longitude": -118.2179996
+    },
+    {
+        "category": "parks",
+        "title": "Rio de Los Angeles State Park State Recreation Area",
+        "rating": 4.4,
+        "address": "1900 N San Fernando Rd, Los Angeles, CA 90065",
+        "latitude": 34.098711,
+        "longitude": -118.2358502
+    },
+    {
+        "category": "parks",
+        "title": "Ernest E. Debs Regional Park",
+        "rating": 4.6,
+        "address": "4235 Monterey Rd, Los Angeles, CA 90032",
+        "latitude": 34.0910562,
+        "longitude": -118.1935615
+    },
+    {
+        "category": "parks",
+        "title": "Wilacre Park, Mountains Recreation & Conservation Authority",
+        "rating": 4.7,
+        "address": "3431 Fryman Rd, Studio City, CA 91604",
+        "latitude": 34.1337543,
+        "longitude": -118.392916
+    },
+    {
+        "category": "parks",
+        "title": "Crystal Springs Picnic Area",
+        "rating": 4.6,
+        "address": "4730 Crystal Springs Dr, Los Angeles, CA 90027",
+        "latitude": 34.1324659,
+        "longitude": -118.2769562
+    },
+    {
+        "category": "parks",
+        "title": "Runyon Canyon Park",
+        "rating": 4.8,
+        "address": "2000 N Fuller Ave, Los Angeles, CA 90046",
+        "latitude": 34.1125932,
+        "longitude": -118.3511659
+    },
+    {
+        "category": "parks",
+        "title": "Barnsdall Art Park",
+        "rating": 4.5,
+        "address": "4800 Hollywood Blvd, Los Angeles, CA 90027",
+        "latitude": 34.100400799999996,
+        "longitude": -118.29439219999999
+    },
+    {
+        "category": "parks",
+        "title": "Harold A Henry Park",
+        "rating": 4.6,
+        "address": "890 S Lucerne Blvd, Los Angeles, CA 90005",
+        "latitude": 34.0577778,
+        "longitude": -118.3252778
+    },
+    {
+        "category": "parks",
+        "title": "Grand Hope Park",
+        "rating": 4.4,
+        "address": "919 S Grand Ave, Los Angeles, CA 90015",
+        "latitude": 34.0443788,
+        "longitude": -118.26052019999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Bottega Louie",
+        "rating": 4.5,
+        "address": "700 S Grand Ave, Los Angeles, CA 90017",
+        "latitude": 34.0470524,
+        "longitude": -118.2565439
+    },
+    {
+        "category": "restaurants",
+        "title": "Redbird",
+        "rating": 4.6,
+        "address": "114 E 2nd St, Los Angeles, CA 90012",
+        "latitude": 34.050562,
+        "longitude": -118.24407479999999
+    },
+    {
+        "category": "restaurants",
+        "title": "71Above",
+        "rating": 4.5,
+        "address": "633 W 5th St 71st floor, Los Angeles, CA 90071",
+        "latitude": 34.051029199999995,
+        "longitude": -118.2544174
+    },
+    {
+        "category": "restaurants",
+        "title": "The Little Door",
+        "rating": 4.5,
+        "address": "8164 W 3rd St, Los Angeles, CA 90048",
+        "latitude": 34.0720931,
+        "longitude": -118.3675088
+    },
+    {
+        "category": "restaurants",
+        "title": "Perch",
+        "rating": 4.4,
+        "address": "448 S Hill St, Los Angeles, CA 90013",
+        "latitude": 34.0489961,
+        "longitude": -118.2514107
+    },
+    {
+        "category": "restaurants",
+        "title": "The Factory Kitchen",
+        "rating": 4.5,
+        "address": "1300 Factory Pl, Los Angeles, CA 90013",
+        "latitude": 34.038983099999996,
+        "longitude": -118.2358783
+    },
+    {
+        "category": "restaurants",
+        "title": "Home Restaurant",
+        "rating": 4.6,
+        "address": "1760 Hillhurst Ave, Los Angeles, CA 90027",
+        "latitude": 34.1030809,
+        "longitude": -118.2871875
+    },
+    {
+        "category": "restaurants",
+        "title": "Girl & the Goat Los Angeles",
+        "rating": 4.8,
+        "address": "555-3 Mateo St, Los Angeles, CA 90013",
+        "latitude": 34.0402258,
+        "longitude": -118.2331693
+    },
+    {
+        "category": "restaurants",
+        "title": "Bestia",
+        "rating": 4.6,
+        "address": "2121 E 7th Pl, Los Angeles, CA 90021",
+        "latitude": 34.033679899999996,
+        "longitude": -118.22923589999999
+    },
+    {
+        "category": "restaurants",
+        "title": "République Café Bakery & République Restaurant",
+        "rating": 4.5,
+        "address": "624 S La Brea Ave, Los Angeles, CA 90036",
+        "latitude": 34.064158899999995,
+        "longitude": -118.34369699999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Chi Spacca",
+        "rating": 4.7,
+        "address": "6610 Melrose Ave, Los Angeles, CA 90038",
+        "latitude": 34.0832749,
+        "longitude": -118.3390866
+    },
+    {
+        "category": "restaurants",
+        "title": "Philippe The Original",
+        "rating": 4.6,
+        "address": "1001 N Alameda St, Los Angeles, CA 90012",
+        "latitude": 34.059686299999996,
+        "longitude": -118.23704889999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Water Grill",
+        "rating": 4.5,
+        "address": "544 S Grand Ave, Los Angeles, CA 90071",
+        "latitude": 34.0490403,
+        "longitude": -118.25470659999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Maccheroni Republic",
+        "rating": 4.6,
+        "address": "332 S Broadway, Los Angeles, CA 90013",
+        "latitude": 34.0500306,
+        "longitude": -118.2485361
+    },
+    {
+        "category": "restaurants",
+        "title": "The Little Jewel of New Orleans",
+        "rating": 4.4,
+        "address": "207 Ord St, Los Angeles, CA 90012",
+        "latitude": 34.0600891,
+        "longitude": -118.2382038
+    },
+    {
+        "category": "restaurants",
+        "title": "Rossoblu",
+        "rating": 4.6,
+        "address": "1124 San Julian St, Los Angeles, CA 90015",
+        "latitude": 34.034925,
+        "longitude": -118.25335829999999
+    },
+    {
+        "category": "restaurants",
+        "title": "JOEY DTLA",
+        "rating": 4.7,
+        "address": "700 W 7th St Ste S430, Los Angeles, CA 90017",
+        "latitude": 34.048017,
+        "longitude": -118.25805059999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Eggslut",
+        "rating": 4.4,
+        "address": "317 S Broadway, Los Angeles, CA 90013",
+        "latitude": 34.050588499999996,
+        "longitude": -118.2486089
+    },
+    {
+        "category": "restaurants",
+        "title": "Manuela",
+        "rating": 4.5,
+        "address": "907 E 3rd St, Los Angeles, CA 90013",
+        "latitude": 34.046459899999995,
+        "longitude": -118.2348337
+    },
+    {
+        "category": "restaurants",
+        "title": "Bavel",
+        "rating": 4.6,
+        "address": "500 Mateo St #102, Los Angeles, CA 90013",
+        "latitude": 34.041487,
+        "longitude": -118.23293129999999
+    },
+    {
+        "category": "cafes",
+        "title": "Urth Caffe",
+        "rating": 4.5,
+        "address": "459 S Hewitt St, Los Angeles, CA 90013",
+        "latitude": 34.041989199999996,
+        "longitude": -118.23546089999999
+    },
+    {
+        "category": "cafes",
+        "title": "Fleur Café",
+        "rating": 4.7,
+        "address": "1300 W Olympic Blvd #102a, Los Angeles, CA 90015",
+        "latitude": 34.0473253,
+        "longitude": -118.2704208
+    },
+    {
+        "category": "cafes",
+        "title": "Dalian's Café",
+        "rating": 4.9,
+        "address": "530 S Grand Ave, Los Angeles, CA 90071",
+        "latitude": 34.0493399,
+        "longitude": -118.2544607
+    },
+    {
+        "category": "cafes",
+        "title": "Maru Coffee",
+        "rating": 4.6,
+        "address": "1936 Hillhurst Ave, Los Angeles, CA 90027",
+        "latitude": 34.1065841,
+        "longitude": -118.2872865
+    },
+    {
+        "category": "cafes",
+        "title": "Verve Coffee Roasters",
+        "rating": 4.5,
+        "address": "500 Mateo St #102, Los Angeles, CA 90013",
+        "latitude": 34.0414258,
+        "longitude": -118.2327019
+    },
+    {
+        "category": "cafes",
+        "title": "Alchemist Coffee Project",
+        "rating": 4.5,
+        "address": "698 S Vermont Ave Ste 103, Los Angeles, CA 90005",
+        "latitude": 34.060227,
+        "longitude": -118.29140679999999
+    },
+    {
+        "category": "cafes",
+        "title": "The Coffee Company",
+        "rating": 4.6,
+        "address": "8751 La Tijera Blvd, Los Angeles, CA 90045",
+        "latitude": 33.957594,
+        "longitude": -118.39453599999999
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Calle",
+        "rating": 4.8,
+        "address": "3310 S Central Ave, Los Angeles, CA 90011",
+        "latitude": 34.0133356,
+        "longitude": -118.256267
+    },
+    {
+        "category": "cafes",
+        "title": "De La Tierra Café",
+        "rating": 4.8,
+        "address": "1144 N Vermont Ave, Los Angeles, CA 90029",
+        "latitude": 34.0921405,
+        "longitude": -118.2915613
+    },
+    {
+        "category": "cafes",
+        "title": "The L.A. Cafe",
+        "rating": 4.3,
+        "address": "639 S Spring St, Los Angeles, CA 90014",
+        "latitude": 34.045169,
+        "longitude": -118.25210369999999
+    },
+    {
+        "category": "cafes",
+        "title": "Yeems Coffee",
+        "rating": 4.7,
+        "address": "3033 W 6th St #107, Los Angeles, CA 90020",
+        "latitude": 34.064016599999995,
+        "longitude": -118.288274
+    },
+    {
+        "category": "cafes",
+        "title": "Alchemist Coffee Project at The Pearl",
+        "rating": 4.6,
+        "address": "687 S Hobart Blvd, Los Angeles, CA 90005",
+        "latitude": 34.0615661,
+        "longitude": -118.3057597
+    },
+    {
+        "category": "cafes",
+        "title": "Project Bloom Coffee",
+        "rating": 4.9,
+        "address": "5870 Melrose Ave # 6, Los Angeles, CA 90038",
+        "latitude": 34.0831739,
+        "longitude": -118.3284175
+    },
+    {
+        "category": "cafes",
+        "title": "Larchmont Bungalow Cafe",
+        "rating": 4.4,
+        "address": "2110 Sunset Blvd suite n, Los Angeles, CA 90026",
+        "latitude": 34.077022,
+        "longitude": -118.2640069
+    },
+    {
+        "category": "cafes",
+        "title": "Tiago Coffee Bar + Kitchen",
+        "rating": 4.5,
+        "address": "7080 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.1012553,
+        "longitude": -118.34459679999999
+    },
+    {
+        "category": "cafes",
+        "title": "Bohemia Cafe",
+        "rating": 4.7,
+        "address": "7525 Sunset Blvd, Los Angeles, CA 90046",
+        "latitude": 34.0981909,
+        "longitude": -118.3535627
+    },
+    {
+        "category": "cafes",
+        "title": "Blue Elephant Café",
+        "rating": 4.7,
+        "address": "2024 W Washington Blvd, Los Angeles, CA 90018",
+        "latitude": 34.0397672,
+        "longitude": -118.3039335
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee MCO",
+        "rating": 4.5,
+        "address": "2580 W Olympic Blvd Unit #2, Los Angeles, CA 90006",
+        "latitude": 34.0521867,
+        "longitude": -118.2873747
+    },
+    {
+        "category": "cafes",
+        "title": "With Love Market & Cafe",
+        "rating": 4.7,
+        "address": "1969 S Vermont Ave, Los Angeles, CA 90007",
+        "latitude": 34.0385427,
+        "longitude": -118.2918193
+    },
+    {
+        "category": "cafes",
+        "title": "Obet & Del's Coffee",
+        "rating": 4.6,
+        "address": "5233 Hollywood Blvd, Los Angeles, CA 90027",
+        "latitude": 34.1018854,
+        "longitude": -118.3045461
+    },
+    {
+        "category": "mountains",
+        "title": "Mt Lukens",
+        "rating": 4.6,
+        "address": "Los Angeles, CA 91042",
+        "latitude": 34.268890999999996,
+        "longitude": -118.23896429999999
+    },
+    {
+        "category": "mountains",
+        "title": "Mt San Antonio",
+        "rating": 4.7,
+        "address": "California 91759",
+        "latitude": 34.2888927,
+        "longitude": -117.6467218
+    },
+    {
+        "category": "mountains",
+        "title": "San Gabriel Mountains",
+        "rating": 4.8,
+        "address": "California 91759",
+        "latitude": 34.288004,
+        "longitude": -117.6516063
+    },
+    {
+        "category": "mountains",
+        "title": "Iron Mountain",
+        "rating": 4.9,
+        "address": "California 91759",
+        "latitude": 34.288336699999995,
+        "longitude": -117.7128348
+    },
+    {
+        "category": "mountains",
+        "title": "Echo Mountain",
+        "rating": 4.9,
+        "address": "California 91001",
+        "latitude": 34.210997299999995,
+        "longitude": -118.1204144
+    },
+    {
+        "category": "mountains",
+        "title": "Strawberry Peak",
+        "rating": 4.8,
+        "address": "California 93550",
+        "latitude": 34.2836126,
+        "longitude": -118.1203487
+    },
+    {
+        "category": "mountains",
+        "title": "San Vicente Mountain",
+        "rating": 5,
+        "address": "Los Angeles, CA 90049",
+        "latitude": 34.1286176,
+        "longitude": -118.5128608
+    },
+    {
+        "category": "mountains",
+        "title": "Verdugo Mountains",
+        "rating": 5,
+        "address": "Glendale, CA 91214",
+        "latitude": 34.217226499999995,
+        "longitude": -118.28396559999999
+    },
+    {
+        "category": "mountains",
+        "title": "San Vicente Mountain Park",
+        "rating": 4.8,
+        "address": "17500 Mulholland Dr, Los Angeles, CA 90049",
+        "latitude": 34.1289584,
+        "longitude": -118.5134358
+    },
+    {
+        "category": "mountains",
+        "title": "Mt Hollywood",
+        "rating": 4.7,
+        "address": "Los Angeles, CA 90027",
+        "latitude": 34.1280637,
+        "longitude": -118.30118739999999
+    },
+    {
+        "category": "mountains",
+        "title": "Mt Lowe",
+        "rating": 4.7,
+        "address": "California",
+        "latitude": 34.231947999999996,
+        "longitude": -118.10590339999999
+    },
+    {
+        "category": "mountains",
+        "title": "San Gabriel Peak",
+        "rating": 4.6,
+        "address": "California",
+        "latitude": 34.243336299999996,
+        "longitude": -118.09840319999999
+    },
+    {
+        "category": "mountains",
+        "title": "Vista Hermosa Natural Park, Mountains Recreation & Conservation Authority",
+        "rating": 4.7,
+        "address": "100 N Toluca St, Los Angeles, CA 90026",
+        "latitude": 34.0618347,
+        "longitude": -118.25693849999999
+    },
+    {
+        "category": "mountains",
+        "title": "Santa Monica Mountains",
+        "rating": 4.8,
+        "address": "California 91361",
+        "latitude": 34.1203,
+        "longitude": -118.9318
+    },
+    {
+        "category": "mountains",
+        "title": "Oat Mountain",
+        "rating": 4.7,
+        "address": "California 91326",
+        "latitude": 34.3297222,
+        "longitude": -118.6006433
+    },
+    {
+        "category": "mountains",
+        "title": "Mt Washington",
+        "rating": 4.6,
+        "address": "Los Angeles, CA 90065",
+        "latitude": 34.1044444,
+        "longitude": -118.21444439999999
+    },
+    {
+        "category": "mountains",
+        "title": "Santa Susana Mountains",
+        "rating": 4.6,
+        "address": "California 91311",
+        "latitude": 34.3333332,
+        "longitude": -118.6009211
+    },
+    {
+        "category": "mountains",
+        "title": "Mt Lee",
+        "rating": 4.7,
+        "address": "Los Angeles, CA 90068",
+        "latitude": 34.134729899999996,
+        "longitude": -118.3209103
+    },
+    {
+        "category": "mountains",
+        "title": "Angeles National Forest",
+        "rating": 4.7,
+        "address": "701 N Santa Anita Ave, Arcadia, CA 91006",
+        "latitude": 34.4113389,
+        "longitude": -118.17510019999999
+    },
+    {
+        "category": "mountains",
+        "title": "Castro Peak",
+        "rating": 4,
+        "address": "California 90265",
+        "latitude": 34.085839799999995,
+        "longitude": -118.78536749999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Escondido Falls",
+        "rating": 4.5,
+        "address": "Escondido Canyon Trail, Malibu, CA 90265",
+        "latitude": 34.043180299999996,
+        "longitude": -118.77948239999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Trail Canyon Falls",
+        "rating": 4.7,
+        "address": "Tujunga, CA 91042",
+        "latitude": 34.3204227,
+        "longitude": -118.2554931
+    },
+    {
+        "category": "waterfalls",
+        "title": "Sturtevant Falls",
+        "rating": 4.6,
+        "address": "California",
+        "latitude": 34.211606599999996,
+        "longitude": -118.019774
+    },
+    {
+        "category": "waterfalls",
+        "title": "Switzer Falls Trail",
+        "rating": 4.7,
+        "address": "701 Angeles Crest Hwy, Tujunga, CA 91042",
+        "latitude": 34.266234,
+        "longitude": -118.145754
+    },
+    {
+        "category": "waterfalls",
+        "title": "Paradise Falls",
+        "rating": 4.7,
+        "address": "Wildwood Regional Park, 928 W Avenida De Los Arboles, Thousand Oaks, CA 91360",
+        "latitude": 34.2144263,
+        "longitude": -118.91055899999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Santa Ynez Falls",
+        "rating": 4.5,
+        "address": "Santa Ynez Waterfall Trail, Pacific Palisades, CA 90272",
+        "latitude": 34.091707,
+        "longitude": -118.568783
+    },
+    {
+        "category": "waterfalls",
+        "title": "Water Falls",
+        "rating": 4.5,
+        "address": "Elm Shore Canyon Mtwy, Sylmar, CA 91342",
+        "latitude": 34.352204,
+        "longitude": -118.49004699999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Malaga Creek Falls",
+        "rating": 4.6,
+        "address": "Roessler Point Gazebo, Malaga Cove Trail, Palos Verdes Estates, CA 90274",
+        "latitude": 33.8029183,
+        "longitude": -118.39660169999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Upper Zuma Canyon Waterfall",
+        "rating": 4.6,
+        "address": "35Q8+CC, Malibu, CA 90265",
+        "latitude": 34.0885093,
+        "longitude": -118.83390849999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Millard Falls Trailhead",
+        "rating": 4.8,
+        "address": "Brown Mountain Fire Rd, Altadena, CA 91001",
+        "latitude": 34.2173981,
+        "longitude": -118.1454132
+    },
+    {
+        "category": "waterfalls",
+        "title": "Sturtevant Falls",
+        "rating": 4.7,
+        "address": "Santa Anita Wash, Sierra Madre, CA 91024",
+        "latitude": 34.2115698,
+        "longitude": -118.01971859999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Randi's Waterfall",
+        "rating": 4.3,
+        "address": "4200 La Cienega Blvd, Los Angeles, CA 90008",
+        "latitude": 34.0088988,
+        "longitude": -118.37044089999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Whitney Canyon Waterfalls",
+        "rating": 4.7,
+        "address": "Unnamed Road, Newhall, CA 91321",
+        "latitude": 34.3668082,
+        "longitude": -118.4836433
+    },
+    {
+        "category": "waterfalls",
+        "title": "Newton Canyon Falls",
+        "rating": 4.1,
+        "address": "Pacific Coast Hwy, Malibu, CA 90265",
+        "latitude": 34.0771073,
+        "longitude": -118.81654689999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Sycamore Canyon Falls",
+        "rating": 4.7,
+        "address": "Potrero Open Space Trail, Thousand Oaks, CA 91320",
+        "latitude": 34.1406881,
+        "longitude": -118.9473814
+    },
+    {
+        "category": "waterfalls",
+        "title": "San Antonio Falls",
+        "rating": 4.9,
+        "address": "California 91759",
+        "latitude": 34.271949,
+        "longitude": -117.6344992
+    },
+    {
+        "category": "waterfalls",
+        "title": "Owl Falls",
+        "rating": 4.5,
+        "address": "525 S Topanga Canyon Blvd, Topanga, CA 90290",
+        "latitude": 34.0813941,
+        "longitude": -118.59787039999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Falls Creek",
+        "rating": null,
+        "address": "Los Angeles, CA 91311",
+        "latitude": 34.27778,
+        "longitude": -118.59175429999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Calabasas and Park Grenada Waterfall",
+        "rating": 4.8,
+        "address": "Calabasas, CA 91302",
+        "latitude": 34.1556111,
+        "longitude": -118.64301169999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Burkhart Trail to Cooper Canyon Falls",
+        "rating": 4.7,
+        "address": "Burkhart Trail, Pearblossom, CA 93553",
+        "latitude": 34.3475172,
+        "longitude": -117.91105929999999
+    },
+    {
+        "category": "lakes",
+        "title": "Hollywood Reservoir",
+        "rating": 4.7,
+        "address": "Los Angeles, CA 90068",
+        "latitude": 34.1197689,
+        "longitude": -118.33085319999999
+    },
+    {
+        "category": "lakes",
+        "title": "Machado Lake",
+        "rating": 4.3,
+        "address": "Los Angeles, CA 90744",
+        "latitude": 33.7858192,
+        "longitude": -118.2939545
+    },
+    {
+        "category": "lakes",
+        "title": "Calabasas Lake",
+        "rating": 4.4,
+        "address": "Calabasas, CA 91302",
+        "latitude": 34.1528957,
+        "longitude": -118.639241
+    },
+    {
+        "category": "lakes",
+        "title": "Rowena Reservoir",
+        "rating": 2.6,
+        "address": "Los Angeles, CA 90027",
+        "latitude": 34.110974399999996,
+        "longitude": -118.27231959999999
+    },
+    {
+        "category": "lakes",
+        "title": "Silver Lake Reservoir",
+        "rating": 4.5,
+        "address": "Los Angeles, CA 90039",
+        "latitude": 34.0978188,
+        "longitude": -118.26508749999999
+    },
+    {
+        "category": "lakes",
+        "title": "Pyramid Lake",
+        "rating": 4.5,
+        "address": "California",
+        "latitude": 34.6548333,
+        "longitude": -118.77518429999999
+    },
+    {
+        "category": "lakes",
+        "title": "Crystal Lake",
+        "rating": 4.6,
+        "address": "California 91702",
+        "latitude": 34.3189042,
+        "longitude": -117.84689449999999
+    },
+    {
+        "category": "lakes",
+        "title": "Echo Park Lake",
+        "rating": 4.6,
+        "address": "Los Angeles, CA 90026",
+        "latitude": 34.0728733,
+        "longitude": -118.2605195
+    },
+    {
+        "category": "lakes",
+        "title": "Debs Lake",
+        "rating": 4.6,
+        "address": "Los Angeles, CA 90031",
+        "latitude": 34.0946924,
+        "longitude": -118.19559509999999
+    },
+    {
+        "category": "lakes",
+        "title": "Belvedere Park Lake",
+        "rating": 4.5,
+        "address": "East Los Angeles, CA 90022",
+        "latitude": 34.034757,
+        "longitude": -118.15851599999999
+    },
+    {
+        "category": "lakes",
+        "title": "Castaic Lake",
+        "rating": 4.5,
+        "address": "California",
+        "latitude": 34.5258138,
+        "longitude": -118.6049772
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Arrowhead Reservoir",
+        "rating": 3.9,
+        "address": "Lake Arrowhead, CA 92321",
+        "latitude": 34.2583,
+        "longitude": -117.1828
+    },
+    {
+        "category": "lakes",
+        "title": "Baldwin Lake",
+        "rating": 4.4,
+        "address": "Arcadia, CA 91007",
+        "latitude": 34.141882599999995,
+        "longitude": -118.05401119999999
+    },
+    {
+        "category": "lakes",
+        "title": "Morris Reservoir",
+        "rating": 4.5,
+        "address": "California 91702",
+        "latitude": 34.191904099999995,
+        "longitude": -117.8619123
+    },
+    {
+        "category": "lakes",
+        "title": "Bouquet Reservoir",
+        "rating": 4.5,
+        "address": "California 91390",
+        "latitude": 34.5831102,
+        "longitude": -118.3783347
+    },
+    {
+        "category": "lakes",
+        "title": "Crystal Lake Recreation Area",
+        "rating": 4.4,
+        "address": "California 91702",
+        "latitude": 34.326065299999996,
+        "longitude": -117.8325833
+    },
+    {
+        "category": "beaches",
+        "title": "Venice Beach",
+        "rating": 4.5,
+        "address": "Los Angeles, CA, United States",
+        "latitude": 33.9932584,
+        "longitude": -118.480598
+    },
+    {
+        "category": "beaches",
+        "title": "Venice Beach",
+        "rating": 4.6,
+        "address": "Los Angeles, CA 90292, United States",
+        "latitude": 33.9764002,
+        "longitude": -118.46674519999999
+    },
+    {
+        "category": "beaches",
+        "title": "Cabrillo Beach",
+        "rating": 4.6,
+        "address": "Los Angeles, CA 90731, United States",
+        "latitude": 33.7110102,
+        "longitude": -118.283293
+    },
+    {
+        "category": "beaches",
+        "title": "Santa Monica State Beach",
+        "rating": 4.6,
+        "address": "California, United States",
+        "latitude": 34.0129033,
+        "longitude": -118.5017237
+    },
+    {
+        "category": "beaches",
+        "title": "Manhattan Beach",
+        "rating": 4.8,
+        "address": "699 N The Strand, Manhattan Beach, CA 90266, United States",
+        "latitude": 33.8809624,
+        "longitude": -118.4106254
+    },
+    {
+        "category": "beaches",
+        "title": "Dockweiler Beach",
+        "rating": 4.5,
+        "address": "12000 Vista Del Mar, Playa Del Rey, CA 90293, United States",
+        "latitude": 33.930530399999995,
+        "longitude": -118.4356632
+    },
+    {
+        "category": "beaches",
+        "title": "Huntington Beach",
+        "rating": 4.7,
+        "address": "CA 92648, United States",
+        "latitude": 33.6559807,
+        "longitude": -118.00337189999999
+    },
+    {
+        "category": "beaches",
+        "title": "Playa Del Rey Beach",
+        "rating": 4.7,
+        "address": "7313-7351 S Marine Ave, Playa Del Rey, CA 90293, United States",
+        "latitude": 33.9517917,
+        "longitude": -118.4488442
+    },
+    {
+        "category": "beaches",
+        "title": "White Point Beach",
+        "rating": 4.7,
+        "address": "Los Angeles, CA 90731, United States",
+        "latitude": 33.7147411,
+        "longitude": -118.3142383
+    },
+    {
+        "category": "beaches",
+        "title": "Mothers Beach",
+        "rating": 4.6,
+        "address": "4101 Admiralty Way, Marina Del Rey, CA 90292, United States",
+        "latitude": 33.9816135,
+        "longitude": -118.4581142
+    },
+    {
+        "category": "beaches",
+        "title": "Will Rogers Beach State Park",
+        "rating": 4.7,
+        "address": "Los Angeles, CA, United States",
+        "latitude": 34.0298169,
+        "longitude": -118.52471209999999
+    },
+    {
+        "category": "beaches",
+        "title": "Santa Monica State Beach",
+        "rating": 4.7,
+        "address": "Santa Monica, CA 90401, United States",
+        "latitude": 34.0103338,
+        "longitude": -118.4980901
+    },
+    {
+        "category": "beaches",
+        "title": "Sunset Beach",
+        "rating": 4.7,
+        "address": "Pacific Coast Hwy, Pacific Palisades, CA 90272, United States",
+        "latitude": 34.0390047,
+        "longitude": -118.5517287
+    },
+    {
+        "category": "beaches",
+        "title": "Will Rogers State Beach",
+        "rating": 4.6,
+        "address": "Los Angeles, CA 90272, United States",
+        "latitude": 34.034318999999996,
+        "longitude": -118.5352568
+    },
+    {
+        "category": "beaches",
+        "title": "Castle Rock Beach",
+        "rating": 4.4,
+        "address": "Los Angeles, CA 90272, United States",
+        "latitude": 34.0405642,
+        "longitude": -118.5634157
+    },
+    {
+        "category": "beaches",
+        "title": "Will Rogers State Beach",
+        "rating": 4.7,
+        "address": "17000 CA-1, Pacific Palisades, CA 90272, United States",
+        "latitude": 34.0350564,
+        "longitude": -118.53665889999999
+    },
+    {
+        "category": "beaches",
+        "title": "Long Beach City Beach",
+        "rating": 4.4,
+        "address": "Long Beach, CA 90803, United States",
+        "latitude": 33.7605308,
+        "longitude": -118.1550563
+    },
+    {
+        "category": "beaches",
+        "title": "Royal Palms Beach Park",
+        "rating": 4.7,
+        "address": "Los Angeles, CA 90732, United States",
+        "latitude": 33.719740699999996,
+        "longitude": -118.3278496
+    },
+    {
+        "category": "beaches",
+        "title": "Palisades Beach",
+        "rating": 4.7,
+        "address": "Santa Monica, CA 90402, United States",
+        "latitude": 34.0233428,
+        "longitude": -118.5131363
+    },
+    {
+        "category": "beaches",
+        "title": "Santa Monica Beach",
+        "rating": 4.6,
+        "address": "Santa Monica, CA 90401, United States",
+        "latitude": 34.0091764,
+        "longitude": -118.49762849999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "LA84 Foundation/John C. Argue Swim Stadium",
+        "rating": 4.5,
+        "address": "3980 Bill Robertson Ln, Los Angeles, CA 90037",
+        "latitude": 34.012270099999995,
+        "longitude": -118.28948109999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Jesse Owens Swimming Pool",
+        "rating": 4.5,
+        "address": "9835 S Western Ave, Los Angeles, CA 90047",
+        "latitude": 33.9473142,
+        "longitude": -118.30979289999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hansen Dam Aquatic Center",
+        "rating": 4.5,
+        "address": "11798 Foothill Blvd, Lake View Terrace, CA 91342",
+        "latitude": 34.271360099999995,
+        "longitude": -118.3897344
+    },
+    {
+        "category": "swimming pools",
+        "title": "Mar Vista Recreation Center",
+        "rating": 4.5,
+        "address": "11430 Woodbine St, Los Angeles, CA 90066",
+        "latitude": 34.0176391,
+        "longitude": -118.4283742
+    },
+    {
+        "category": "swimming pools",
+        "title": "Westwood Pool",
+        "rating": 4.1,
+        "address": "1350 S Sepulveda Blvd, Los Angeles, CA 90025",
+        "latitude": 34.0534017,
+        "longitude": -118.4478559
+    },
+    {
+        "category": "swimming pools",
+        "title": "Belvedere Aquatic Center",
+        "rating": 4.5,
+        "address": "5035 1st St, East Los Angeles, CA 90022",
+        "latitude": 34.037174,
+        "longitude": -118.1578095
+    },
+    {
+        "category": "swimming pools",
+        "title": "Eleanor G Roberts Aquatic Center",
+        "rating": 4.1,
+        "address": "4526 W Pico Blvd, Los Angeles, CA 90019",
+        "latitude": 34.048203099999995,
+        "longitude": -118.3345284
+    },
+    {
+        "category": "swimming pools",
+        "title": "Central Swimming Pool",
+        "rating": 4.3,
+        "address": "1357 E 22nd St, Los Angeles, CA 90011",
+        "latitude": 34.020638999999996,
+        "longitude": -118.251087
+    },
+    {
+        "category": "swimming pools",
+        "title": "West Hollywood Aquatics & Recreation Center",
+        "rating": 4.4,
+        "address": "8750 El Tovar Pl, West Hollywood, CA 90069",
+        "latitude": 34.0816387,
+        "longitude": -118.38478669999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Uytengsu Aquatics Center",
+        "rating": 4.7,
+        "address": "1026 W 34th St, Los Angeles, CA 90089",
+        "latitude": 34.0239277,
+        "longitude": -118.28842809999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Richard Alatorre Pool",
+        "rating": 4.6,
+        "address": "4721 Klamath St, Los Angeles, CA 90032",
+        "latitude": 34.0761566,
+        "longitude": -118.18161099999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Celes King III Aquatic Center",
+        "rating": 4.3,
+        "address": "5001 Obama Blvd, Los Angeles, CA 90016",
+        "latitude": 34.0219345,
+        "longitude": -118.35050199999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Santa Monica Swim Center",
+        "rating": 4.6,
+        "address": "2225 16th St, Santa Monica, CA 90405",
+        "latitude": 34.0163309,
+        "longitude": -118.4731662
+    },
+    {
+        "category": "swimming pools",
+        "title": "Downey Swimming Pool",
+        "rating": 4.5,
+        "address": "1775 N Spring St, Los Angeles, CA 90031",
+        "latitude": 34.0715098,
+        "longitude": -118.2236056
+    },
+    {
+        "category": "swimming pools",
+        "title": "Glassell Swimming Pool",
+        "rating": 4.4,
+        "address": "3704 Verdugo Rd, Los Angeles, CA 90065",
+        "latitude": 34.117146999999996,
+        "longitude": -118.232692
+    },
+    {
+        "category": "swimming pools",
+        "title": "The Culver City Municipal Plunge",
+        "rating": 4.5,
+        "address": "4175 Overland Ave, Culver City, CA 90230",
+        "latitude": 34.0121727,
+        "longitude": -118.4014883
+    },
+    {
+        "category": "swimming pools",
+        "title": "Pan Pacific Pool",
+        "rating": 3.8,
+        "address": "141 S Gardner St, Los Angeles, CA 90036",
+        "latitude": 34.0722677,
+        "longitude": -118.3538083
+    },
+    {
+        "category": "swimming pools",
+        "title": "Van Ness Pool",
+        "rating": 4.5,
+        "address": "5720 2nd Ave, Los Angeles, CA 90043",
+        "latitude": 33.990654299999996,
+        "longitude": -118.3181814
+    },
+    {
+        "category": "swimming pools",
+        "title": "Park La Brea Pool",
+        "rating": 4,
+        "address": "5801 W 6th St, Los Angeles, CA 90036",
+        "latitude": 34.065439,
+        "longitude": -118.35498969999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Citywide Aquatics",
+        "rating": 3.3,
+        "address": "3900 Chevy Chase Dr, Los Angeles, CA 90039",
+        "latitude": 34.1346427,
+        "longitude": -118.272025
+    },
+    {
+        "category": "resorts",
+        "title": "Freehand Los Angeles",
+        "rating": 4.1,
+        "address": "416 W 8th St, Los Angeles, CA 90014",
+        "latitude": 34.044755099999996,
+        "longitude": -118.2564556
+    },
+    {
+        "category": "resorts",
+        "title": "The Ritz-Carlton, Marina del Rey",
+        "rating": 4.5,
+        "address": "4375 Admiralty Way, Marina Del Rey, CA 90292",
+        "latitude": 33.9842595,
+        "longitude": -118.450684
+    },
+    {
+        "category": "resorts",
+        "title": "Hyatt Regency Long Beach",
+        "rating": 4.4,
+        "address": "200 S Pine Ave, Long Beach, CA 90802",
+        "latitude": 33.7631393,
+        "longitude": -118.1908108
+    },
+    {
+        "category": "resorts",
+        "title": "The Queen Mary",
+        "rating": 4.4,
+        "address": "1126 Queens Hwy, Long Beach, CA 90802",
+        "latitude": 33.7526356,
+        "longitude": -118.19032349999999
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Maya",
+        "rating": 3.9,
+        "address": "700 Queensway Dr, Long Beach, CA 90802",
+        "latitude": 33.757179799999996,
+        "longitude": -118.19814079999999
+    },
+    {
+        "category": "resorts",
+        "title": "Sonesta Redondo Beach & Marina",
+        "rating": 4.3,
+        "address": "300 N Harbor Dr, Redondo Beach, CA 90277",
+        "latitude": 33.8454045,
+        "longitude": -118.39224829999999
+    },
+    {
+        "category": "resorts",
+        "title": "Fairmont Miramar Hotel & Bungalows",
+        "rating": 4.3,
+        "address": "101 Wilshire Blvd, Santa Monica, CA 90401",
+        "latitude": 34.0179602,
+        "longitude": -118.50169819999999
+    },
+    {
+        "category": "resorts",
+        "title": "Luxe Sunset Boulevard Hotel",
+        "rating": 4.1,
+        "address": "11461 Sunset Blvd, Los Angeles, CA 90049",
+        "latitude": 34.072455399999996,
+        "longitude": -118.4684449
+    },
+    {
+        "category": "resorts",
+        "title": "Shutters on the Beach",
+        "rating": 4.5,
+        "address": "1 Pico Blvd, Santa Monica, CA 90405",
+        "latitude": 34.0070163,
+        "longitude": -118.4917153
+    },
+    {
+        "category": "resorts",
+        "title": "The Garland",
+        "rating": 4.5,
+        "address": "4222 Vineland Ave, North Hollywood, CA 91602",
+        "latitude": 34.1449494,
+        "longitude": -118.3696557
+    },
+    {
+        "category": "resorts",
+        "title": "Beverly Hills Plaza Hotel & Spa",
+        "rating": 4.3,
+        "address": "10300 Wilshire Blvd Ste 200, Los Angeles, CA 90024",
+        "latitude": 34.0677284,
+        "longitude": -118.4260329
+    },
+    {
+        "category": "resorts",
+        "title": "Regent Santa Monica Beach",
+        "rating": 4.8,
+        "address": "1700 Ocean Ave, Santa Monica, CA 90401",
+        "latitude": 34.0092602,
+        "longitude": -118.49312649999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Hollywood Roosevelt",
+        "rating": 4.4,
+        "address": "7000 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.1011504,
+        "longitude": -118.3417817
+    },
+    {
+        "category": "resorts",
+        "title": "The Shay, a Destination by Hyatt Hotel",
+        "rating": 4.5,
+        "address": "8801 Washington Blvd, Culver City, CA 90232",
+        "latitude": 34.0283459,
+        "longitude": -118.387236
+    },
+    {
+        "category": "resorts",
+        "title": "InterContinental Los Angeles Downtown by IHG",
+        "rating": 4.5,
+        "address": "900 Wilshire Blvd, Los Angeles, CA 90017",
+        "latitude": 34.049723,
+        "longitude": -118.26055509999999
+    },
+    {
+        "category": "resorts",
+        "title": "Dream Hollywood, by Hyatt",
+        "rating": 4.1,
+        "address": "6417 Selma Ave, Hollywood, CA 90028",
+        "latitude": 34.0999975,
+        "longitude": -118.3301556
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Casa del Mar",
+        "rating": 4.6,
+        "address": "1910 Ocean Way, Santa Monica, CA 90405",
+        "latitude": 34.006402699999995,
+        "longitude": -118.4913299
+    },
+    {
+        "category": "resorts",
+        "title": "Oceana Santa Monica, LXR Hotels & Resorts",
+        "rating": 4.5,
+        "address": "849 Ocean Ave, Santa Monica, CA 90403",
+        "latitude": 34.0213032,
+        "longitude": -118.50607579999999
+    },
+    {
+        "category": "resorts",
+        "title": "Hollywood Hills Hotel",
+        "rating": 3.9,
+        "address": "Lower Entrnc, 1999 N Sycamore Ave, Los Angeles, CA 90068",
+        "latitude": 34.1057777,
+        "longitude": -118.3421249
+    },
+    {
+        "category": "resorts",
+        "title": "Cara Hotel",
+        "rating": 4.4,
+        "address": "1730 N Western Ave, Los Angeles, CA 90027",
+        "latitude": 34.1028707,
+        "longitude": -118.3086773
+    },
+    {
+        "category": "camping sites",
+        "title": "Musch Trail Camp - Topanga State Park",
+        "rating": 4.5,
+        "address": "Topanga, CA 90290",
+        "latitude": 34.1029862,
+        "longitude": -118.5838368
+    },
+    {
+        "category": "camping sites",
+        "title": "Leo Carrillo State Park Campground",
+        "rating": 4.5,
+        "address": "35000 Pacific Coast Hwy, Malibu, CA 90265",
+        "latitude": 34.0471836,
+        "longitude": -118.93401779999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Malibu Creek State Park Campground",
+        "rating": 4.3,
+        "address": "Agoura Hills, CA 91301",
+        "latitude": 34.0946263,
+        "longitude": -118.7138274
+    },
+    {
+        "category": "camping sites",
+        "title": "Bear Canyon Campground",
+        "rating": 4.5,
+        "address": "Altadena, CA 91001",
+        "latitude": 34.2447436,
+        "longitude": -118.13903499999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Gould Mesa Trail Camp",
+        "rating": 4.2,
+        "address": "Gould Mesa, Arroyo Blvd, La Cañada Flintridge, CA 91011",
+        "latitude": 34.2222018,
+        "longitude": -118.17856119999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Buckhorn Campground",
+        "rating": 4.6,
+        "address": "Pearblossom, CA 93553",
+        "latitude": 34.3471542,
+        "longitude": -117.9129584
+    },
+    {
+        "category": "camping sites",
+        "title": "Rancho Ybarra",
+        "rating": 4.6,
+        "address": "3150 Big Tujunga Canyon Rd, Tujunga, CA 91042",
+        "latitude": 34.2988572,
+        "longitude": -118.2499909
+    },
+    {
+        "category": "camping sites",
+        "title": "Hollywood RV Park",
+        "rating": 4.7,
+        "address": "7740 Balboa Blvd, Van Nuys, CA 91406",
+        "latitude": 34.2113102,
+        "longitude": -118.5010064
+    },
+    {
+        "category": "camping sites",
+        "title": "Oakwilde Campground",
+        "rating": 3.4,
+        "address": "Angeles Crest Hwy, Mt Lukens Truck Trail, La Cañada Flintridge, CA 91011",
+        "latitude": 34.245528799999995,
+        "longitude": -118.18347349999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Thousand Trails Soledad Canyon",
+        "rating": 3.8,
+        "address": "4700 Crown Valley Rd, Acton, CA 93510",
+        "latitude": 34.444277299999996,
+        "longitude": -118.2123743
+    },
+    {
+        "category": "camping sites",
+        "title": "Dockweiler RV Park",
+        "rating": 4,
+        "address": "12001 Vista Del Mar, Playa Del Rey, CA 90293",
+        "latitude": 33.928638,
+        "longitude": -118.43462939999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Chilao Campground",
+        "rating": 4.6,
+        "address": "unnamed road, Palmdale, CA 93550",
+        "latitude": 34.320475,
+        "longitude": -118.01380329999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Crystal Lake Camp Grounds",
+        "rating": 4.5,
+        "address": "State Rte 39, Azusa, CA 91702",
+        "latitude": 34.323879,
+        "longitude": -117.8321046
+    },
+    {
+        "category": "camping sites",
+        "title": "Monte Cristo Campground",
+        "rating": 4.4,
+        "address": "Angeles Forest Hwy, Palmdale, CA 93550",
+        "latitude": 34.34135,
+        "longitude": -118.10945199999999
+    },
+    {
+        "category": "camping sites",
+        "title": "LA RV Resort",
+        "rating": 3.8,
+        "address": "Cypress Park, 7601 Soledad Canyon Rd, Acton, CA 93510",
+        "latitude": 34.437885099999995,
+        "longitude": -118.26586959999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Horse Flats Campground",
+        "rating": 4.6,
+        "address": "Pearblossom, CA 93553",
+        "latitude": 34.3435072,
+        "longitude": -118.010582
+    },
+    {
+        "category": "camping sites",
+        "title": "Malibu Creek State Park",
+        "rating": 4.7,
+        "address": "1925 Las Virgenes Road, Calabasas, CA 91302",
+        "latitude": 34.0979551,
+        "longitude": -118.73141419999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Hollywoodland",
+        "rating": 4.8,
+        "address": "3200 Canyon Dr, Los Angeles, CA 90068",
+        "latitude": 34.1244884,
+        "longitude": -118.31489339999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Golden Shore RV Resort",
+        "rating": 4.2,
+        "address": "101 Golden Shore, Long Beach, CA 90802",
+        "latitude": 33.764856699999996,
+        "longitude": -118.20215859999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Leo Carrillo State Park",
+        "rating": 4.7,
+        "address": "35000 Pacific Coast Hwy, Malibu, CA 90265",
+        "latitude": 34.062198099999996,
+        "longitude": -118.9279067
+    },
+    {
+        "category": "hiking trails",
+        "title": "Griffith Park Trails",
+        "rating": 4.8,
+        "address": "2715 N Vermont Canyon Rd, Los Angeles, CA 90027, United States",
+        "latitude": 34.1218442,
+        "longitude": -118.29665299999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Elysian Park Trail",
+        "rating": 4.7,
+        "address": "Elysian Park Dr, Los Angeles, CA 90012, United States",
+        "latitude": 34.0820739,
+        "longitude": -118.2497133
+    },
+    {
+        "category": "hiking trails",
+        "title": "The Brush Canyon Trail",
+        "rating": 4.6,
+        "address": "Canyon Dr, Los Angeles, CA 90068, United States",
+        "latitude": 34.1250646,
+        "longitude": -118.31330949999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Charlie Turner Trailhead",
+        "rating": 4.7,
+        "address": "2840 W Observatory Rd, Los Angeles, CA 90027, United States",
+        "latitude": 34.1209643,
+        "longitude": -118.30037689999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Runyon Canyon Flag",
+        "rating": 4.7,
+        "address": "W Ridge Hiking Trail, Los Angeles, CA 90046, United States",
+        "latitude": 34.1113626,
+        "longitude": -118.3534763
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ferndell Nature Trail",
+        "rating": 4.8,
+        "address": "Fern Dell Dr, Los Angeles, CA 90027, United States",
+        "latitude": 34.1093847,
+        "longitude": -118.3076918
+    },
+    {
+        "category": "hiking trails",
+        "title": "Fern Canyon Trail",
+        "rating": 4.7,
+        "address": "Mineral Wls Trl, Los Angeles, CA 90027, United States",
+        "latitude": 34.130756,
+        "longitude": -118.2852566
+    },
+    {
+        "category": "hiking trails",
+        "title": "Stocker Corridor Trail",
+        "rating": 4.7,
+        "address": "Stocker St & Presidio Dr, Los Angeles, CA 90008, United States",
+        "latitude": 34.003988899999996,
+        "longitude": -118.34442609999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Glendale Peak",
+        "rating": 4.8,
+        "address": "Los Angeles, CA 90027, United States",
+        "latitude": 34.1246185,
+        "longitude": -118.28782899999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Wilacre Park, Mountains Recreation & Conservation Authority",
+        "rating": 4.7,
+        "address": "3431 Fryman Rd, Studio City, CA 91604, United States",
+        "latitude": 34.1337543,
+        "longitude": -118.392916
+    },
+    {
+        "category": "hiking trails",
+        "title": "Firebreak Trail to Griffith Observatory",
+        "rating": 4.7,
+        "address": "Western Canyon Rd, Los Angeles, CA 90068, United States",
+        "latitude": 34.1145321,
+        "longitude": -118.30710219999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Wonder View Trailhead",
+        "rating": 4.8,
+        "address": "Wonder View Dr, Los Angeles, CA 90068, United States",
+        "latitude": 34.1320453,
+        "longitude": -118.3378523
+    },
+    {
+        "category": "hiking trails",
+        "title": "Glendale Peak Trail Head",
+        "rating": 4.7,
+        "address": "2715 N Vermont Canyon Rd, Los Angeles, CA 90027, United States",
+        "latitude": 34.1218591,
+        "longitude": -118.29676529999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "The Eagle Rock Canyon Trail - trail head",
+        "rating": 4.1,
+        "address": "5499 Eagle Rock View Dr, Los Angeles, CA 90041, United States",
+        "latitude": 34.1436266,
+        "longitude": -118.1841884
+    },
+    {
+        "category": "hiking trails",
+        "title": "Griffith Park Observatory Trails Peak",
+        "rating": 4.8,
+        "address": "2715 North Vermont Avenue, Los Angeles, CA 90027, United States",
+        "latitude": 34.1281475,
+        "longitude": -118.30109139999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ernest E. Debs Regional Park",
+        "rating": 4.6,
+        "address": "4235 Monterey Rd, Los Angeles, CA 90032, United States",
+        "latitude": 34.0910562,
+        "longitude": -118.1935615
+    },
+    {
+        "category": "hiking trails",
+        "title": "Griffith Park",
+        "rating": 4.7,
+        "address": "Los Angeles, CA 90027, United States",
+        "latitude": 34.1365544,
+        "longitude": -118.29419999999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Trail Canyon Falls",
+        "rating": 4.7,
+        "address": "Tujunga, CA 91042, United States",
+        "latitude": 34.3204227,
+        "longitude": -118.2554931
+    },
+    {
+        "category": "hiking trails",
+        "title": "Los Leones Canyon",
+        "rating": 4.7,
+        "address": "510 Los Liones Dr, Pacific Palisades, CA 90272, United States",
+        "latitude": 34.047355599999996,
+        "longitude": -118.560069
+    },
+    {
+        "category": "hiking trails",
+        "title": "Runyon Canyon Park",
+        "rating": 4.8,
+        "address": "2000 N Fuller Ave, Los Angeles, CA 90046, United States",
+        "latitude": 34.1125932,
+        "longitude": -118.3511659
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Vista Hermosa Natural Park, Mountains Recreation & Conservation Authority",
+        "rating": 4.7,
+        "address": "100 N Toluca St, Los Angeles, CA 90026",
+        "latitude": 34.0618347,
+        "longitude": -118.25693849999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Griffith Park",
+        "rating": 4.7,
+        "address": "Los Angeles, CA 90027",
+        "latitude": 34.1365544,
+        "longitude": -118.29419999999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Angeles National Forest",
+        "rating": 4.7,
+        "address": "701 N Santa Anita Ave, Arcadia, CA 91006",
+        "latitude": 34.4113389,
+        "longitude": -118.17510019999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Bronson Caves",
+        "rating": 4.5,
+        "address": "3200 Canyon Dr, Los Angeles, CA 90068",
+        "latitude": 34.1213309,
+        "longitude": -118.31433709999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Kenneth Hahn State Recreation Area",
+        "rating": 4.7,
+        "address": "4100 S La Cienega Blvd, Los Angeles, CA 90056",
+        "latitude": 34.012322,
+        "longitude": -118.3717552
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Runyon Canyon Park",
+        "rating": 4.8,
+        "address": "2000 N Fuller Ave, Los Angeles, CA 90046",
+        "latitude": 34.1125932,
+        "longitude": -118.3511659
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Bikes and Hikes LA - Los Angeles Tours",
+        "rating": 4.9,
+        "address": "7740 Santa Monica Blvd, Los Angeles, CA 90046",
+        "latitude": 34.090612,
+        "longitude": -118.357917
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Stoneview Nature Center",
+        "rating": 4.8,
+        "address": "5950 Stoneview Dr, Culver City, CA 90232",
+        "latitude": 34.014764299999996,
+        "longitude": -118.3774954
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Baldwin Hills Scenic Overlook",
+        "rating": 4.8,
+        "address": "6300 Hetzler Rd, Culver City, CA 90232",
+        "latitude": 34.0182,
+        "longitude": -118.3819125
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Santa Monica Mountains National Recreation Area",
+        "rating": 3.9,
+        "address": "Topanga, CA 90290",
+        "latitude": 34.1041139,
+        "longitude": -118.60280039999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Los Angeles Ecovillage",
+        "rating": 4.5,
+        "address": "117 Bimini Pl Apt 201, Los Angeles, CA 90004",
+        "latitude": 34.072506499999996,
+        "longitude": -118.29074279999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Deane Dana Friendship Park and Nature Center",
+        "rating": 4.7,
+        "address": "1805 W 9th St, San Pedro, CA 90732",
+        "latitude": 33.7318048,
+        "longitude": -118.3213553
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Palos Verdes Nature Preserve",
+        "rating": 4.7,
+        "address": "30940 Hawthorne Blvd, Rancho Palos Verdes, CA 90275",
+        "latitude": 33.745558599999995,
+        "longitude": -118.40443219999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Vasquez Rocks Natural Area and Nature Center",
+        "rating": 4.8,
+        "address": "10700 Escondido Canyon Rd, Agua Dulce, CA 91390",
+        "latitude": 34.4885168,
+        "longitude": -118.32149229999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Whittier Narrows Natural Area",
+        "rating": 4.5,
+        "address": "Rosemead Blvd, South El Monte, CA 91733",
+        "latitude": 34.0288629,
+        "longitude": -118.0552003
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Peck Road Water Conservation Park",
+        "rating": 4.4,
+        "address": "5401 Peck Rd, Arcadia, CA 91006",
+        "latitude": 34.1006236,
+        "longitude": -118.0132699
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Whittier Narrows Nature Center Associates",
+        "rating": 4.6,
+        "address": "1000 Durfee Ave, South El Monte, CA 91733",
+        "latitude": 34.034734199999995,
+        "longitude": -118.0451889
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Will Rogers State Historic Park",
+        "rating": 4.7,
+        "address": "1501 Will Rogers State Park Rd, Pacific Palisades, CA 90272",
+        "latitude": 34.0549876,
+        "longitude": -118.5125758
+    },
+    {
+        "category": "temples",
+        "title": "Los Angeles California Temple",
+        "rating": 4.9,
+        "address": "10777 Santa Monica Blvd, Los Angeles, CA 90025",
+        "latitude": 34.0528948,
+        "longitude": -118.43386319999999
+    },
+    {
+        "category": "temples",
+        "title": "Thien Hau Temple",
+        "rating": 4.7,
+        "address": "756 Yale St, Los Angeles, CA 90012",
+        "latitude": 34.062674099999995,
+        "longitude": -118.2408676
+    },
+    {
+        "category": "temples",
+        "title": "Malibu Hindu Temple",
+        "rating": 4.7,
+        "address": "1600 Las Virgenes Canyon Rd, Calabasas, CA 91302",
+        "latitude": 34.0950336,
+        "longitude": -118.70971779999999
+    },
+    {
+        "category": "temples",
+        "title": "International Society for Krishna Consciousness of Los Angeles",
+        "rating": 4.8,
+        "address": "3764 Watseka Ave, Los Angeles, CA 90034",
+        "latitude": 34.025231,
+        "longitude": -118.39727909999999
+    },
+    {
+        "category": "temples",
+        "title": "Wat Thai of Los Angeles",
+        "rating": 4.7,
+        "address": "8225 Coldwater Canyon Ave, North Hollywood, CA 91605",
+        "latitude": 34.2206597,
+        "longitude": -118.4148821
+    },
+    {
+        "category": "temples",
+        "title": "Los Angeles Temple Visitors' Center",
+        "rating": 4.9,
+        "address": "10707 N Temple Way, Los Angeles, CA 90024",
+        "latitude": 34.0538972,
+        "longitude": -118.43409369999999
+    },
+    {
+        "category": "temples",
+        "title": "Los Angeles Hindu Temple",
+        "rating": 5,
+        "address": "2626 S La Cienega Blvd, Los Angeles, CA 90034",
+        "latitude": 34.0345456,
+        "longitude": -118.3771958
+    },
+    {
+        "category": "temples",
+        "title": "Koyasan Buddhist Temple",
+        "rating": 4.7,
+        "address": "342 1st St, Los Angeles, CA 90012",
+        "latitude": 34.0492236,
+        "longitude": -118.24028179999999
+    },
+    {
+        "category": "temples",
+        "title": "Hsi Lai Temple",
+        "rating": 4.8,
+        "address": "3456 Glenmark Dr, Hacienda Heights, CA 91745",
+        "latitude": 33.9756882,
+        "longitude": -117.9677071
+    },
+    {
+        "category": "temples",
+        "title": "Radha Krishna Dham Los Angeles",
+        "rating": 5,
+        "address": "5530 Donna Ave, Tarzana, CA 91356",
+        "latitude": 34.1718414,
+        "longitude": -118.5476101
+    },
+    {
+        "category": "temples",
+        "title": "Tahl Mah Sah Buddhist Temple",
+        "rating": 4.4,
+        "address": "3505 W Olympic Blvd, Los Angeles, CA 90019",
+        "latitude": 34.0532379,
+        "longitude": -118.31515499999999
+    },
+    {
+        "category": "temples",
+        "title": "Los Angeles Hompa Hongwanji Buddhist Temple (Nishi Betsuin)",
+        "rating": 4.7,
+        "address": "815 1st St, Los Angeles, CA 90012",
+        "latitude": 34.049079299999995,
+        "longitude": -118.2344339
+    },
+    {
+        "category": "temples",
+        "title": "Valley Hindu Temple",
+        "rating": 4.8,
+        "address": "18700 Roscoe Blvd, Reseda, CA 91324",
+        "latitude": 34.2203661,
+        "longitude": -118.5411958
+    },
+    {
+        "category": "temples",
+        "title": "West Los Angeles Buddhist Temple",
+        "rating": 4.8,
+        "address": "2003 Corinth Ave, Los Angeles, CA 90025",
+        "latitude": 34.0399072,
+        "longitude": -118.44475469999999
+    },
+    {
+        "category": "temples",
+        "title": "Korea Sah Buddhist Temple",
+        "rating": 4.5,
+        "address": "500 N Western Ave, Los Angeles, CA 90004",
+        "latitude": 34.0800421,
+        "longitude": -118.3088973
+    },
+    {
+        "category": "temples",
+        "title": "Mon Temple of Los Angeles",
+        "rating": 4.5,
+        "address": "14321 Tupper St, Panorama City, CA 91402",
+        "latitude": 34.239342199999996,
+        "longitude": -118.44542519999999
+    },
+    {
+        "category": "temples",
+        "title": "BAPS Shri Swaminarayan Mandir, Chino Hills",
+        "rating": 4.8,
+        "address": "15100 Fairfield Ranch Rd, Chino Hills, CA 91709",
+        "latitude": 33.9766729,
+        "longitude": -117.69652549999999
+    },
+    {
+        "category": "temples",
+        "title": "Los Angeles Hindu Temple and Cultural Center",
+        "rating": 4.8,
+        "address": "5306 Normandie Ave, Los Angeles, CA 90037",
+        "latitude": 33.993876199999995,
+        "longitude": -118.3000687
+    },
+    {
+        "category": "temples",
+        "title": "Xuan Wu San Temple",
+        "rating": 4.7,
+        "address": "1305 N Broadway, Los Angeles, CA 90012",
+        "latitude": 34.070030599999996,
+        "longitude": -118.2324139
+    },
+    {
+        "category": "temples",
+        "title": "Sri Ashta Lakshmi Temple",
+        "rating": 4.5,
+        "address": "12020 Cantara St, North Hollywood, CA 91605",
+        "latitude": 34.2191665,
+        "longitude": -118.39532539999999
+    },
+    {
+        "category": "museums",
+        "title": "Los Angeles County Museum of Art",
+        "rating": 4.6,
+        "address": "5905 Wilshire Blvd, Los Angeles, CA 90036",
+        "latitude": 34.0639323,
+        "longitude": -118.3592293
+    },
+    {
+        "category": "museums",
+        "title": "Hammer Museum",
+        "rating": 4.5,
+        "address": "10899 Wilshire Blvd, Los Angeles, CA 90024",
+        "latitude": 34.0591217,
+        "longitude": -118.4436674
+    },
+    {
+        "category": "museums",
+        "title": "Autry Museum of the American West",
+        "rating": 4.6,
+        "address": "Griffith Park, 4700 Western Heritage Way, Los Angeles, CA 90027",
+        "latitude": 34.14862,
+        "longitude": -118.281213
+    },
+    {
+        "category": "museums",
+        "title": "The Broad",
+        "rating": 4.7,
+        "address": "221 S Grand Ave, Los Angeles, CA 90012",
+        "latitude": 34.0545021,
+        "longitude": -118.25018019999999
+    },
+    {
+        "category": "museums",
+        "title": "The Museum of Contemporary Art, Los Angeles",
+        "rating": 4.4,
+        "address": "250 S Grand Ave, Los Angeles, CA 90012",
+        "latitude": 34.0532482,
+        "longitude": -118.25055169999999
+    },
+    {
+        "category": "museums",
+        "title": "The Getty",
+        "rating": 4.8,
+        "address": "1200 Getty Center Dr, Los Angeles, CA 90049",
+        "latitude": 34.0773438,
+        "longitude": -118.4732648
+    },
+    {
+        "category": "museums",
+        "title": "California Science Center",
+        "rating": 4.7,
+        "address": "700 Exposition Park Dr, Los Angeles, CA 90037",
+        "latitude": 34.015564,
+        "longitude": -118.28611699999999
+    },
+    {
+        "category": "museums",
+        "title": "Skirball Cultural Center",
+        "rating": 4.7,
+        "address": "2701 N Sepulveda Blvd, Los Angeles, CA 90049",
+        "latitude": 34.124989299999996,
+        "longitude": -118.4791719
+    },
+    {
+        "category": "museums",
+        "title": "Natural History Museum of Los Angeles County",
+        "rating": 4.8,
+        "address": "900 Exposition Blvd, Los Angeles, CA 90007",
+        "latitude": 34.0171448,
+        "longitude": -118.2886635
+    },
+    {
+        "category": "museums",
+        "title": "Petersen Automotive Museum",
+        "rating": 4.8,
+        "address": "6060 Wilshire Blvd, Los Angeles, CA 90036",
+        "latitude": 34.062024,
+        "longitude": -118.36136309999999
+    },
+    {
+        "category": "museums",
+        "title": "Griffith Observatory",
+        "rating": 4.7,
+        "address": "2800 E Observatory Rd, Los Angeles, CA 90027",
+        "latitude": 34.1184341,
+        "longitude": -118.3003935
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Tolerance",
+        "rating": 4.6,
+        "address": "9786 W Pico Blvd, Los Angeles, CA 90035",
+        "latitude": 34.0536899,
+        "longitude": -118.40167
+    },
+    {
+        "category": "museums",
+        "title": "Travel Town Gift Shop",
+        "rating": 4.6,
+        "address": "Travel Town Museum 5200 Zoo Drive next to the 134 Freeway at the Forest Lawn Drive exit, 5200 Zoo Dr, Los Angeles, CA 90027",
+        "latitude": 34.154875499999996,
+        "longitude": -118.3079508
+    },
+    {
+        "category": "museums",
+        "title": "GRAMMY Museum",
+        "rating": 4.4,
+        "address": "800 W Olympic Blvd, Los Angeles, CA 90015",
+        "latitude": 34.0446623,
+        "longitude": -118.26463559999999
+    },
+    {
+        "category": "museums",
+        "title": "Nethercutt Museum",
+        "rating": 4.9,
+        "address": "15151 Bledsoe St, Sylmar, CA 91342",
+        "latitude": 34.3073772,
+        "longitude": -118.4639809
+    },
+    {
+        "category": "museums",
+        "title": "The Hollywood Museum",
+        "rating": 4.4,
+        "address": "1660 Highland Ave, Hollywood, CA 90028",
+        "latitude": 34.1011021,
+        "longitude": -118.3384512
+    },
+    {
+        "category": "museums",
+        "title": "Hollywood Wax Museum",
+        "rating": 4.4,
+        "address": "6767 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.101744599999996,
+        "longitude": -118.3381545
+    },
+    {
+        "category": "museums",
+        "title": "Madame Tussauds Hollywood",
+        "rating": 4.5,
+        "address": "6933 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.1017225,
+        "longitude": -118.3415065
+    },
+    {
+        "category": "museums",
+        "title": "La Brea Tar Pits and Museum",
+        "rating": 4.6,
+        "address": "5801 Wilshire Blvd, Los Angeles, CA 90036",
+        "latitude": 34.06388,
+        "longitude": -118.356445
+    },
+    {
+        "category": "museums",
+        "title": "Battleship IOWA Museum",
+        "rating": 4.8,
+        "address": "250 S Harbor Blvd, San Pedro, CA 90731",
+        "latitude": 33.7422615,
+        "longitude": -118.2772823
+    },
+    {
+        "category": "night markets",
+        "title": "Imperial Night Market",
+        "rating": 4.5,
+        "address": "2300 E 15th St, Los Angeles, CA 90021",
+        "latitude": 34.0214893,
+        "longitude": -118.2313738
+    },
+    {
+        "category": "night markets",
+        "title": "El Gato Night Market",
+        "rating": 4.4,
+        "address": "941 S Union Ave, Los Angeles, CA 90015",
+        "latitude": 34.0501401,
+        "longitude": -118.273724
+    },
+    {
+        "category": "night markets",
+        "title": "DTLA After Dark Night Market",
+        "rating": 4.4,
+        "address": "1114 Main St, Los Angeles, CA 90015",
+        "latitude": 34.038488,
+        "longitude": -118.2582442
+    },
+    {
+        "category": "night markets",
+        "title": "Grand Central Market",
+        "rating": 4.5,
+        "address": "317 S Broadway, Los Angeles, CA 90013",
+        "latitude": 34.050872,
+        "longitude": -118.2490552
+    },
+    {
+        "category": "night markets",
+        "title": "626 Night Market",
+        "rating": 4.3,
+        "address": "285 Huntington Dr, Arcadia, CA 91007",
+        "latitude": 34.1374478,
+        "longitude": -118.0466252
+    },
+    {
+        "category": "night markets",
+        "title": "Los Feliz Night Market",
+        "rating": 4.7,
+        "address": "3013 Los Feliz Blvd, Los Angeles, CA 90039",
+        "latitude": 34.1255904,
+        "longitude": -118.26546599999999
+    },
+    {
+        "category": "night markets",
+        "title": "Damnoen Saduak Night Market",
+        "rating": 4.6,
+        "address": "932 Mei Ling Wy, Los Angeles, CA 90012",
+        "latitude": 34.064976,
+        "longitude": -118.237872
+    },
+    {
+        "category": "night markets",
+        "title": "La Chancla Night Market",
+        "rating": 4.3,
+        "address": "6121 S Vermont Ave, Los Angeles, CA 90044",
+        "latitude": 33.9835247,
+        "longitude": -118.2919354
+    },
+    {
+        "category": "night markets",
+        "title": "Smorgasburg (Los Angeles)",
+        "rating": 4.6,
+        "address": "777 S Alameda St, Los Angeles, CA 90021",
+        "latitude": 34.0351184,
+        "longitude": -118.24172399999999
+    },
+    {
+        "category": "night markets",
+        "title": "Ave 26 Night Market",
+        "rating": 3.6,
+        "address": "11003 Sports Arena Dr, Whittier, CA 90601",
+        "latitude": 34.0263524,
+        "longitude": -118.04662479999999
+    },
+    {
+        "category": "night markets",
+        "title": "Our Piece of the Pie - DTLA Artisan Night Market",
+        "rating": 3,
+        "address": "411 S Hewitt St, Los Angeles, CA 90013",
+        "latitude": 34.0428315,
+        "longitude": -118.2354122
+    },
+    {
+        "category": "night markets",
+        "title": "Thai Night Market",
+        "rating": 4.1,
+        "address": "5270 Sunset Blvd, Los Angeles, CA 90027",
+        "latitude": 34.0976891,
+        "longitude": -118.3050124
+    },
+    {
+        "category": "night markets",
+        "title": "The Original Farmers Market",
+        "rating": 4.6,
+        "address": "6333 W 3rd St, Los Angeles, CA 90036",
+        "latitude": 34.072011499999995,
+        "longitude": -118.3603699
+    },
+    {
+        "category": "night markets",
+        "title": "Night + Market Song",
+        "rating": 4.4,
+        "address": "3322 Sunset Blvd, Los Angeles, CA 90026",
+        "latitude": 34.0869028,
+        "longitude": -118.2758444
+    },
+    {
+        "category": "night markets",
+        "title": "626 Night Market Mini",
+        "rating": 3.5,
+        "address": "1324 5th St, Santa Monica, CA 90401",
+        "latitude": 34.0180066,
+        "longitude": -118.49569439999999
+    },
+    {
+        "category": "night markets",
+        "title": "101 Night Market",
+        "rating": 4.5,
+        "address": "6100 CA-27, Canoga Park, CA 91307",
+        "latitude": 34.1795709,
+        "longitude": -118.60477949999999
+    },
+    {
+        "category": "night markets",
+        "title": "El Sereno night Market",
+        "rating": 4,
+        "address": "Castalia Ave, Los Angeles, CA 90032",
+        "latitude": 34.0870174,
+        "longitude": -118.1773206
+    },
+    {
+        "category": "night markets",
+        "title": "Guatemalan Night Market",
+        "rating": 4.5,
+        "address": "1834-1898 W 6th St, Los Angeles, CA 90057",
+        "latitude": 34.0585805,
+        "longitude": -118.2722347
+    },
+    {
+        "category": "night markets",
+        "title": "Night + Market Weho",
+        "rating": 4.3,
+        "address": "9043 Sunset Blvd West, West Hollywood, CA 90069",
+        "latitude": 34.0908419,
+        "longitude": -118.3891958
+    },
+    {
+        "category": "night markets",
+        "title": "Super King Market | Los Angeles",
+        "rating": 4.4,
+        "address": "2716 N San Fernando Rd, Los Angeles, CA 90065",
+        "latitude": 34.109708499999996,
+        "longitude": -118.24311039999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Mulholland Scenic Overlook",
+        "rating": 4.7,
+        "address": "8591 Mulholland Dr, Los Angeles, CA 90046",
+        "latitude": 34.1235133,
+        "longitude": -118.3875099
+    },
+    {
+        "category": "viewpoints",
+        "title": "Baldwin Hills Scenic Overlook",
+        "rating": 4.8,
+        "address": "6300 Hetzler Rd, Culver City, CA 90232",
+        "latitude": 34.0182,
+        "longitude": -118.3819125
+    },
+    {
+        "category": "viewpoints",
+        "title": "Vista Hermosa Natural Park, Mountains Recreation & Conservation Authority",
+        "rating": 4.7,
+        "address": "100 N Toluca St, Los Angeles, CA 90026",
+        "latitude": 34.0618347,
+        "longitude": -118.25693849999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Universal City Overlook",
+        "rating": 4.7,
+        "address": "7701 Mulholland Dr, Los Angeles, CA 90046",
+        "latitude": 34.1288848,
+        "longitude": -118.3651417
+    },
+    {
+        "category": "viewpoints",
+        "title": "View Point",
+        "rating": 4.7,
+        "address": "5849-5883 Angeles Crest Hwy, La Cañada Flintridge, CA 91011",
+        "latitude": 34.228736999999995,
+        "longitude": -118.182953
+    },
+    {
+        "category": "viewpoints",
+        "title": "Wonder View Trailhead",
+        "rating": 4.8,
+        "address": "Wonder View Dr, Los Angeles, CA 90068",
+        "latitude": 34.1320453,
+        "longitude": -118.3378523
+    },
+    {
+        "category": "viewpoints",
+        "title": "Griffith Park",
+        "rating": 4.7,
+        "address": "Los Angeles, CA 90027",
+        "latitude": 34.1365544,
+        "longitude": -118.29419999999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ascot Hills Park",
+        "rating": 4.7,
+        "address": "4371 Multnomah St, Los Angeles, CA 90032",
+        "latitude": 34.070597899999996,
+        "longitude": -118.1889221
+    },
+    {
+        "category": "viewpoints",
+        "title": "San Vicente Mountain Park",
+        "rating": 4.8,
+        "address": "17500 Mulholland Dr, Los Angeles, CA 90049",
+        "latitude": 34.1289584,
+        "longitude": -118.5134358
+    },
+    {
+        "category": "viewpoints",
+        "title": "Getty View Park",
+        "rating": 4.5,
+        "address": "1399 Casiano Rd, Los Angeles, CA 90049",
+        "latitude": 34.0987223,
+        "longitude": -118.4732574
+    },
+    {
+        "category": "viewpoints",
+        "title": "Griffith Park Observatory Trails Peak",
+        "rating": 4.8,
+        "address": "2715 North Vermont Avenue, Los Angeles, CA 90027",
+        "latitude": 34.1281475,
+        "longitude": -118.30109139999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Buena Vista View Point",
+        "rating": 4.2,
+        "address": "500 Buena Vista Drive, Los Angeles, CA 90012",
+        "latitude": 34.0745539,
+        "longitude": -118.2283377
+    },
+    {
+        "category": "viewpoints",
+        "title": "Dead Man Overlook",
+        "rating": 4.7,
+        "address": "8591 Mulholland Dr, Los Angeles, CA 90046",
+        "latitude": 34.1235133,
+        "longitude": -118.3875099
+    },
+    {
+        "category": "viewpoints",
+        "title": "Wisdom Tree",
+        "rating": 4.8,
+        "address": "Los Angeles, CA 90068",
+        "latitude": 34.1359778,
+        "longitude": -118.3320694
+    },
+    {
+        "category": "viewpoints",
+        "title": "Hollywood Sign",
+        "rating": 4.6,
+        "address": "Los Angeles, CA 90068",
+        "latitude": 34.134115099999995,
+        "longitude": -118.3215482
+    },
+    {
+        "category": "viewpoints",
+        "title": "Griffith Observatory",
+        "rating": 4.7,
+        "address": "2800 E Observatory Rd, Los Angeles, CA 90027",
+        "latitude": 34.1184341,
+        "longitude": -118.3003935
+    },
+    {
+        "category": "viewpoints",
+        "title": "Inspiration Point View",
+        "rating": 4.8,
+        "address": "Will Rogers State Park Rd, Pacific Palisades, CA 90272",
+        "latitude": 34.0596882,
+        "longitude": -118.5138398
+    },
+    {
+        "category": "viewpoints",
+        "title": "View",
+        "rating": 4.7,
+        "address": "7695-7699 Mulholland Dr, Los Angeles, CA 90046",
+        "latitude": 34.1288408,
+        "longitude": -118.3651137
+    },
+    {
+        "category": "viewpoints",
+        "title": "Vine Street Hollywood viewpoint",
+        "rating": 4.8,
+        "address": "1933 Vine St, Los Angeles, CA 90068",
+        "latitude": 34.106004999999996,
+        "longitude": -118.326748
+    },
+    {
+        "category": "viewpoints",
+        "title": "Kenneth Hahn View Point",
+        "rating": 4.8,
+        "address": "Los Angeles, CA 90008",
+        "latitude": 34.0075333,
+        "longitude": -118.35971359999999
+    },
+    {
+        "category": "gardens",
+        "title": "Los Angeles County Arboretum & Botanic Garden",
+        "rating": 4.8,
+        "address": "301 N Baldwin Ave, Arcadia, CA 91007",
+        "latitude": 34.1439246,
+        "longitude": -118.0516226
+    },
+    {
+        "category": "gardens",
+        "title": "Descanso Gardens",
+        "rating": 4.7,
+        "address": "1418 Descanso Dr, La Cañada Flintridge, CA 91011",
+        "latitude": 34.2012615,
+        "longitude": -118.2099417
+    },
+    {
+        "category": "gardens",
+        "title": "Exposition Park Rose Garden",
+        "rating": 4.7,
+        "address": "701 State Dr, Los Angeles, CA 90037",
+        "latitude": 34.017350799999996,
+        "longitude": -118.2859244
+    },
+    {
+        "category": "gardens",
+        "title": "Mathias Botanical Garden",
+        "rating": 4.7,
+        "address": "Lath House, 707 Tiverton Dr, Los Angeles, CA 90095",
+        "latitude": 34.065518,
+        "longitude": -118.4411674
+    },
+    {
+        "category": "gardens",
+        "title": "Amir's Garden",
+        "rating": 4.8,
+        "address": "Los Angeles, CA 90027",
+        "latitude": 34.1424288,
+        "longitude": -118.29289949999999
+    },
+    {
+        "category": "gardens",
+        "title": "James Irvine Japanese Garden at JACCC",
+        "rating": 4.1,
+        "address": "244 San Pedro St, Los Angeles, CA 90012",
+        "latitude": 34.0476706,
+        "longitude": -118.2416205
+    },
+    {
+        "category": "gardens",
+        "title": "Los Angeles Zoo",
+        "rating": 4.4,
+        "address": "5333 Zoo Dr, Los Angeles, CA 90027",
+        "latitude": 34.1482153,
+        "longitude": -118.28826009999999
+    },
+    {
+        "category": "gardens",
+        "title": "Arlington Garden in Pasadena",
+        "rating": 4.6,
+        "address": "275 Arlington Dr, Pasadena, CA 91105",
+        "latitude": 34.128625,
+        "longitude": -118.15565559999999
+    },
+    {
+        "category": "gardens",
+        "title": "South Coast Botanic Garden",
+        "rating": 4.7,
+        "address": "26300 Crenshaw Blvd, Palos Verdes Estates, CA 90274",
+        "latitude": 33.7832241,
+        "longitude": -118.3489436
+    },
+    {
+        "category": "gardens",
+        "title": "Blue Ribbon Garden",
+        "rating": 4.7,
+        "address": "Walt Disney Concert Hall, 111 S Grand Ave, Los Angeles, CA 90012",
+        "latitude": 34.055638,
+        "longitude": -118.2502136
+    },
+    {
+        "category": "gardens",
+        "title": "Beverly Hills Garden Park",
+        "rating": 4.6,
+        "address": "9439 Santa Monica Blvd, Beverly Hills, CA 90210",
+        "latitude": 34.072325299999996,
+        "longitude": -118.4034489
+    },
+    {
+        "category": "gardens",
+        "title": "Maguire Gardens",
+        "rating": 4.4,
+        "address": "Flower St, Los Angeles, CA 90071",
+        "latitude": 34.0509616,
+        "longitude": -118.2560192
+    },
+    {
+        "category": "gardens",
+        "title": "Storrier Stearns Japanese Garden",
+        "rating": 4.5,
+        "address": "270 Arlington Dr, Pasadena, CA 91105",
+        "latitude": 34.1279987,
+        "longitude": -118.1560011
+    },
+    {
+        "category": "gardens",
+        "title": "Robert Irwin's Central Garden",
+        "rating": 4.9,
+        "address": "1200 Getty Center Dr, Los Angeles, CA 90049",
+        "latitude": 34.0763175,
+        "longitude": -118.4747902
+    },
+    {
+        "category": "gardens",
+        "title": "Cactus Garden",
+        "rating": 4.8,
+        "address": "The Getty Center, 1200 Getty Center Dr, Los Angeles, CA 90049",
+        "latitude": 34.075812899999995,
+        "longitude": -118.4729828
+    },
+    {
+        "category": "gardens",
+        "title": "Exposition Park",
+        "rating": 4.6,
+        "address": "700 Exposition Park Dr, Los Angeles, CA 90037",
+        "latitude": 34.0153446,
+        "longitude": -118.28718479999999
+    },
+    {
+        "category": "gardens",
+        "title": "Doris Japanese Garden",
+        "rating": 4.5,
+        "address": "5029017926, Los Angeles, CA 90008",
+        "latitude": 34.0136963,
+        "longitude": -118.37251889999999
+    },
+    {
+        "category": "gardens",
+        "title": "Wattles Garden Park",
+        "rating": 4.6,
+        "address": "1850 N Curson Ave, Los Angeles, CA 90046",
+        "latitude": 34.104873,
+        "longitude": -118.354709
+    },
+    {
+        "category": "gardens",
+        "title": "Beverly Cañon Gardens",
+        "rating": 4.7,
+        "address": "241 N Canon Dr, Beverly Hills, CA 90210",
+        "latitude": 34.068088599999996,
+        "longitude": -118.39923759999999
+    },
+    {
+        "category": "gardens",
+        "title": "La Esquinita - River Garden Park",
+        "rating": 4.7,
+        "address": "570 W Ave 26, Los Angeles, CA 90065",
+        "latitude": 34.0861022,
+        "longitude": -118.2254332
+    },
+    {
+        "category": "zoo",
+        "title": "Los Angeles Zoo",
+        "rating": 4.4,
+        "address": "5333 Zoo Dr, Los Angeles, CA 90027",
+        "latitude": 34.1482153,
+        "longitude": -118.28826009999999
+    },
+    {
+        "category": "zoo",
+        "title": "Aquarium of the Pacific",
+        "rating": 4.6,
+        "address": "100 Aquarium Way, Long Beach, CA 90802",
+        "latitude": 33.761973499999996,
+        "longitude": -118.1969738
+    },
+    {
+        "category": "zoo",
+        "title": "Heal the Bay Aquarium",
+        "rating": 4.3,
+        "address": "1600 Ocean Front Walk, Santa Monica, CA 90401",
+        "latitude": 34.010342,
+        "longitude": -118.4959473
+    },
+    {
+        "category": "zoo",
+        "title": "Cabrillo Marine Aquarium",
+        "rating": 4.6,
+        "address": "3720 Stephen M White Dr, San Pedro, CA 90731",
+        "latitude": 33.7109884,
+        "longitude": -118.28528449999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Super Silly Fun Land",
+        "rating": 4.6,
+        "address": "100 Universal City Plaza, Studio City, CA 91602, United States",
+        "latitude": 34.138690499999996,
+        "longitude": -118.35643999999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Pacific Park on the Santa Monica Pier",
+        "rating": 4.6,
+        "address": "380 Santa Monica Pier, Santa Monica, CA 90401, United States",
+        "latitude": 34.008576,
+        "longitude": -118.49810099999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Six Flags Magic Mountain",
+        "rating": 4.5,
+        "address": "26101 Magic Mountain Pkwy, Valencia, CA 91355, United States",
+        "latitude": 34.4249209,
+        "longitude": -118.5958464
+    },
+    {
+        "category": "adventure parks",
+        "title": "Disney California Adventure Park",
+        "rating": 4.7,
+        "address": "Anaheim, CA 92802, United States",
+        "latitude": 33.806223599999996,
+        "longitude": -117.91992809999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Griffith Park & Southern Railroad",
+        "rating": 4.6,
+        "address": "4400 Crystal Springs Dr, Los Angeles, CA 90027, United States",
+        "latitude": 34.1218827,
+        "longitude": -118.2734728
+    },
+    {
+        "category": "adventure parks",
+        "title": "Disneyland Park",
+        "rating": 4.6,
+        "address": "Anaheim, CA 92802, United States",
+        "latitude": 33.8120918,
+        "longitude": -117.9189742
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventure City",
+        "rating": 4.7,
+        "address": "1238 S Beach Blvd, Anaheim, CA 92804, United States",
+        "latitude": 33.8152618,
+        "longitude": -117.992279
+    },
+    {
+        "category": "adventure parks",
+        "title": "The Wizarding World of Harry Potter",
+        "rating": 4.8,
+        "address": "100 Universal City Plaza, Universal City, CA 91608, United States",
+        "latitude": 34.1382828,
+        "longitude": -118.35329759999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Springfield U.S.A",
+        "rating": 4.6,
+        "address": "49 Production Plaza, North Hollywood, CA 91602, United States",
+        "latitude": 34.1392391,
+        "longitude": -118.35468929999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Universal Studios Hollywood",
+        "rating": 4.6,
+        "address": "100 Universal City Plaza, Universal City, CA 91608, United States",
+        "latitude": 34.137071299999995,
+        "longitude": -118.3533061
+    },
+    {
+        "category": "adventure parks",
+        "title": "Knott's Berry Farm",
+        "rating": 4.6,
+        "address": "8039 Beach Blvd, Buena Park, CA 90620, United States",
+        "latitude": 33.8443038,
+        "longitude": -118.0002265
+    },
+    {
+        "category": "adventure parks",
+        "title": "City Terrace Park",
+        "rating": 4.5,
+        "address": "1126 N Hazard Ave, Los Angeles, CA 90063, United States",
+        "latitude": 34.048646,
+        "longitude": -118.1794231
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventure Park",
+        "rating": 4.4,
+        "address": "10130 Gunn Ave, Whittier, CA 90605, United States",
+        "latitude": 33.9422877,
+        "longitude": -118.0360879
+    },
+    {
+        "category": "adventure parks",
+        "title": "Hogsmeade",
+        "rating": 4.9,
+        "address": "4426 Main Way Universal, North Hollywood, CA 91602, United States",
+        "latitude": 34.1387329,
+        "longitude": -118.35438389999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "The El Dorado Frontier Theme Park",
+        "rating": 3.8,
+        "address": "7550 E Spring St, Long Beach, CA 90815, United States",
+        "latitude": 33.818140299999996,
+        "longitude": -118.08239599999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "USH Gate 7",
+        "rating": 4.6,
+        "address": "100 Universal City Plaza, Universal City, CA 91608, United States",
+        "latitude": 34.136252999999996,
+        "longitude": -118.34976119999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "LEGOLAND California",
+        "rating": 4.5,
+        "address": "One Legoland Dr, Carlsbad, CA 92008, United States",
+        "latitude": 33.1262316,
+        "longitude": -117.310507
+    },
+    {
+        "category": "adventure parks",
+        "title": "Sherman Oaks Castle Park",
+        "rating": 4.4,
+        "address": "4989 Sepulveda Blvd, Sherman Oaks, CA 91403, United States",
+        "latitude": 34.1621941,
+        "longitude": -118.4681464
+    },
+    {
+        "category": "adventure parks",
+        "title": "Disneyland Resort",
+        "rating": 4.7,
+        "address": "Anaheim, CA 92802, United States",
+        "latitude": 33.8111372,
+        "longitude": -117.9219861
+    },
+    {
+        "category": "adventure parks",
+        "title": "Castle Park",
+        "rating": 4.2,
+        "address": "3500 Polk St, Riverside, CA 92505, United States",
+        "latitude": 33.902245,
+        "longitude": -117.46821299999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield Century City",
+        "rating": 4.5,
+        "address": "10250 Santa Monica Blvd, Los Angeles, CA 90067",
+        "latitude": 34.0586592,
+        "longitude": -118.4190309
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Grove",
+        "rating": 4.6,
+        "address": "189 The Grove Dr, Los Angeles, CA 90036",
+        "latitude": 34.0719407,
+        "longitude": -118.3575164
+    },
+    {
+        "category": "shopping malls",
+        "title": "Ovation Hollywood",
+        "rating": 4.4,
+        "address": "6801 Hollywood Blvd, Hollywood, CA 90028",
+        "latitude": 34.1023194,
+        "longitude": -118.3399992
+    },
+    {
+        "category": "shopping malls",
+        "title": "West Hollywood Gateway",
+        "rating": 4.4,
+        "address": "7100 Santa Monica Blvd, Los Angeles, CA 90046",
+        "latitude": 34.0898164,
+        "longitude": -118.3450254
+    },
+    {
+        "category": "shopping malls",
+        "title": "FIGat7th",
+        "rating": 4.4,
+        "address": "735 S Figueroa St, Los Angeles, CA 90017",
+        "latitude": 34.0490218,
+        "longitude": -118.26116839999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield Culver City",
+        "rating": 4.5,
+        "address": "6000 Sepulveda Blvd, Culver City, CA 90230",
+        "latitude": 33.9859028,
+        "longitude": -118.39321
+    },
+    {
+        "category": "shopping malls",
+        "title": "Midtown Shopping Center",
+        "rating": 4.3,
+        "address": "4725 Venice Blvd., Los Angeles, CA 90019",
+        "latitude": 34.0471286,
+        "longitude": -118.3401669
+    },
+    {
+        "category": "shopping malls",
+        "title": "Citadel Outlets",
+        "rating": 4.5,
+        "address": "100 Citadel Dr, Commerce, CA 90040",
+        "latitude": 34.0073187,
+        "longitude": -118.1529856
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield Topanga",
+        "rating": 4.5,
+        "address": "6600 Topanga Canyon Blvd, Canoga Park, CA 91303",
+        "latitude": 34.190191,
+        "longitude": -118.6030615
+    },
+    {
+        "category": "shopping malls",
+        "title": "Downtown Santa Monica",
+        "rating": 4.6,
+        "address": "1351 3rd Street Promenade, Santa Monica, CA 90401",
+        "latitude": 34.0160639,
+        "longitude": -118.49622719999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield Fashion Square",
+        "rating": 4.4,
+        "address": "14006 Riverside Dr, Sherman Oaks, CA 91423",
+        "latitude": 34.1569734,
+        "longitude": -118.43740509999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Baldwin Hills Crenshaw",
+        "rating": 4.3,
+        "address": "3650 W Martin Luther King Jr Blvd, Los Angeles, CA 90008",
+        "latitude": 34.0108033,
+        "longitude": -118.337194
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Bloc",
+        "rating": 4.4,
+        "address": "700 W 7th St, Los Angeles, CA 90017",
+        "latitude": 34.0475959,
+        "longitude": -118.25900259999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Slauson Super Mall",
+        "rating": 4.2,
+        "address": "1600 W Slauson Ave, Los Angeles, CA 90047",
+        "latitude": 33.9882789,
+        "longitude": -118.3061484
+    },
+    {
+        "category": "shopping malls",
+        "title": "Beverly Center",
+        "rating": 4.3,
+        "address": "8500 Beverly Blvd, Los Angeles, CA 90048",
+        "latitude": 34.0751706,
+        "longitude": -118.37735459999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Koreatown Galleria",
+        "rating": 4.3,
+        "address": "3250 W Olympic Blvd #400, Los Angeles, CA 90006",
+        "latitude": 34.0524498,
+        "longitude": -118.3088155
+    },
+    {
+        "category": "shopping malls",
+        "title": "Los Angeles Mall",
+        "rating": 3.4,
+        "address": "300 N Main St, Los Angeles, CA 90032",
+        "latitude": 34.054541199999996,
+        "longitude": -118.2406165
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westchester Village",
+        "rating": 4.3,
+        "address": "S Sepulveda Blvd, Los Angeles, CA 90045",
+        "latitude": 33.956275399999996,
+        "longitude": -118.39722049999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "LA Street Mall",
+        "rating": 4.6,
+        "address": "331 E Olympic Blvd, Los Angeles, CA 90015",
+        "latitude": 34.0385528,
+        "longitude": -118.2540435
+    },
+    {
+        "category": "shopping malls",
+        "title": "Glendale Galleria",
+        "rating": 4.5,
+        "address": "100 W Broadway Suite 100, Glendale, CA 91210",
+        "latitude": 34.1462627,
+        "longitude": -118.2567687
+    },
+    {
+        "category": "historical sites",
+        "title": "Doheny Mansion",
+        "rating": 4.5,
+        "address": "10 Chester Pl, Los Angeles, CA 90007",
+        "latitude": 34.030692699999996,
+        "longitude": -118.2769684
+    },
+    {
+        "category": "historical sites",
+        "title": "Heritage Square Museum",
+        "rating": 4.6,
+        "address": "3800 Homer St, Los Angeles, CA 90031",
+        "latitude": 34.0882497,
+        "longitude": -118.2079756
+    },
+    {
+        "category": "historical sites",
+        "title": "El Pueblo de Los Ángeles Historical Monument",
+        "rating": 4.5,
+        "address": "125 Paseo de la Plz, Los Angeles, CA 90012",
+        "latitude": 34.0565245,
+        "longitude": -118.2387684
+    },
+    {
+        "category": "historical sites",
+        "title": "Avila Adobe",
+        "rating": 4.6,
+        "address": "10 Olvera St, Los Angeles, CA 90012",
+        "latitude": 34.0572431,
+        "longitude": -118.2379814
+    },
+    {
+        "category": "historical sites",
+        "title": "Bradbury Building",
+        "rating": 4.5,
+        "address": "304 S Broadway, Los Angeles, CA 90013",
+        "latitude": 34.050604,
+        "longitude": -118.24785729999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Hollyhock House",
+        "rating": 4.5,
+        "address": "4800 Hollywood Blvd, Los Angeles, CA 90027",
+        "latitude": 34.099975,
+        "longitude": -118.29443889999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Los Angeles State Historic Park",
+        "rating": 4.6,
+        "address": "1245 N Spring St, Los Angeles, CA 90012",
+        "latitude": 34.0682286,
+        "longitude": -118.2318135
+    },
+    {
+        "category": "historical sites",
+        "title": "Greystone Mansion & Gardens: The Doheny Estate",
+        "rating": 4.6,
+        "address": "905 Loma Vista Dr, Beverly Hills, CA 90210",
+        "latitude": 34.0921783,
+        "longitude": -118.4012868
+    },
+    {
+        "category": "historical sites",
+        "title": "Ruins of 1861 Los Angeles County Courthouse",
+        "rating": 4.8,
+        "address": "1126 N Hazard Ave, Los Angeles, CA 90063",
+        "latitude": 34.048829,
+        "longitude": -118.178435
+    },
+    {
+        "category": "historical sites",
+        "title": "Hollywood Sign",
+        "rating": 4.6,
+        "address": "Los Angeles, CA 90068",
+        "latitude": 34.134115099999995,
+        "longitude": -118.3215482
+    },
+    {
+        "category": "historical sites",
+        "title": "Historic Palm Tree of Los Angeles",
+        "rating": 4.6,
+        "address": "500 Exposition Park Dr, Los Angeles, CA 90037",
+        "latitude": 34.0140725,
+        "longitude": -118.2832802
+    },
+    {
+        "category": "historical sites",
+        "title": "Natural History Museum of Los Angeles County",
+        "rating": 4.8,
+        "address": "900 Exposition Blvd, Los Angeles, CA 90007",
+        "latitude": 34.0171448,
+        "longitude": -118.2886635
+    },
+    {
+        "category": "historical sites",
+        "title": "Little Tokyo National Historic District",
+        "rating": 4.5,
+        "address": "152 N Central Ave, Los Angeles, CA 90012",
+        "latitude": 34.0504854,
+        "longitude": -118.23859139999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Plaza Olvera",
+        "rating": 4.5,
+        "address": "401 N Main St, Los Angeles, CA 90012",
+        "latitude": 34.0566161,
+        "longitude": -118.238434
+    },
+    {
+        "category": "historical sites",
+        "title": "Los Angeles Historic Pavers Park",
+        "rating": 5,
+        "address": "1279 N Spring St, Los Angeles, CA 90012",
+        "latitude": 34.0658606,
+        "longitude": -118.2344127
+    },
+    {
+        "category": "historical sites",
+        "title": "Fort Moore Pioneer Memorial",
+        "rating": 4.3,
+        "address": "451 N Hill St, Los Angeles, CA 90012",
+        "latitude": 34.0584391,
+        "longitude": -118.24191049999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Olvera Street Cross",
+        "rating": 4.7,
+        "address": "125 Paseo de la Plz, Los Angeles, CA 90012",
+        "latitude": 34.056912499999996,
+        "longitude": -118.2384477
+    },
+    {
+        "category": "historical sites",
+        "title": "Stimson House",
+        "rating": 4.3,
+        "address": "2421 S Figueroa St, Los Angeles, CA 90007",
+        "latitude": 34.029714999999996,
+        "longitude": -118.275882
+    },
+    {
+        "category": "historical sites",
+        "title": "Wilton Historic District",
+        "rating": 5,
+        "address": "203 S Gramercy Pl, Los Angeles, CA 90004",
+        "latitude": 34.0712456,
+        "longitude": -118.3142754
+    },
+    {
+        "category": "historical sites",
+        "title": "Griffith Park",
+        "rating": 4.7,
+        "address": "Los Angeles, CA 90027",
+        "latitude": 34.1365544,
+        "longitude": -118.29419999999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Los Angeles County Museum of Art",
+        "rating": 4.6,
+        "address": "5905 Wilshire Blvd, Los Angeles, CA 90036",
+        "latitude": 34.0639323,
+        "longitude": -118.3592293
+    },
+    {
+        "category": "art galleries",
+        "title": "The Broad",
+        "rating": 4.7,
+        "address": "221 S Grand Ave, Los Angeles, CA 90012",
+        "latitude": 34.0545021,
+        "longitude": -118.25018019999999
+    },
+    {
+        "category": "art galleries",
+        "title": "The Museum of Contemporary Art, Los Angeles",
+        "rating": 4.4,
+        "address": "250 S Grand Ave, Los Angeles, CA 90012",
+        "latitude": 34.0532482,
+        "longitude": -118.25055169999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Hammer Museum",
+        "rating": 4.5,
+        "address": "10899 Wilshire Blvd, Los Angeles, CA 90024",
+        "latitude": 34.0591217,
+        "longitude": -118.4436674
+    },
+    {
+        "category": "art galleries",
+        "title": "The Getty",
+        "rating": 4.8,
+        "address": "1200 Getty Center Dr, Los Angeles, CA 90049",
+        "latitude": 34.0773438,
+        "longitude": -118.4732648
+    },
+    {
+        "category": "art galleries",
+        "title": "The Geffen Contemporary at MOCA",
+        "rating": 4.4,
+        "address": "152 N Central Ave, Los Angeles, CA 90012",
+        "latitude": 34.0504464,
+        "longitude": -118.23855499999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Musichead Gallery",
+        "rating": 4.9,
+        "address": "7420 Sunset Blvd, Los Angeles, CA 90046",
+        "latitude": 34.0977422,
+        "longitude": -118.35254169999999
+    },
+    {
+        "category": "art galleries",
+        "title": "USC Fisher Museum of Art",
+        "rating": 4.7,
+        "address": "823 W Exposition Blvd, Los Angeles, CA 90089",
+        "latitude": 34.0185904,
+        "longitude": -118.28730069999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Craft Contemporary",
+        "rating": 4.5,
+        "address": "5814 Wilshire Blvd, Los Angeles, CA 90036",
+        "latitude": 34.0621972,
+        "longitude": -118.3555389
+    },
+    {
+        "category": "art galleries",
+        "title": "The Huntington Library, Art Museum, and Botanical Gardens",
+        "rating": 4.8,
+        "address": "1151 Oxford Rd, San Marino, CA 91108",
+        "latitude": 34.1290452,
+        "longitude": -118.11452419999999
+    },
+    {
+        "category": "art galleries",
+        "title": "La Brea Tar Pits and Museum",
+        "rating": 4.6,
+        "address": "5801 Wilshire Blvd, Los Angeles, CA 90036",
+        "latitude": 34.06388,
+        "longitude": -118.356445
+    },
+    {
+        "category": "art galleries",
+        "title": "The Getty Villa",
+        "rating": 4.8,
+        "address": "17985 Pacific Coast Hwy, Pacific Palisades, CA 90272",
+        "latitude": 34.0458857,
+        "longitude": -118.56486079999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Bergamot Station Arts Center",
+        "rating": 4.5,
+        "address": "2525 Michigan Ave, Santa Monica, CA 90404",
+        "latitude": 34.0280331,
+        "longitude": -118.4682601
+    },
+    {
+        "category": "art galleries",
+        "title": "Regen Projects",
+        "rating": 4.7,
+        "address": "6750 Santa Monica Blvd, Los Angeles, CA 90038",
+        "latitude": 34.0904579,
+        "longitude": -118.33761589999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Mr Brainwash Art Museum",
+        "rating": 4.7,
+        "address": "465 N Beverly Dr, Beverly Hills, CA 90210",
+        "latitude": 34.0709085,
+        "longitude": -118.4033712
+    },
+    {
+        "category": "art galleries",
+        "title": "Mash Gallery",
+        "rating": 4.7,
+        "address": "812 N La Cienega Blvd, West Hollywood, CA 90069",
+        "latitude": 34.085769,
+        "longitude": -118.3763036
+    },
+    {
+        "category": "art galleries",
+        "title": "UCLA Meteorite Gallery",
+        "rating": 4.5,
+        "address": "Geology 3697, 595 Charles E Young Dr E, Los Angeles, CA 90095",
+        "latitude": 34.069278,
+        "longitude": -118.44078429999999
+    },
+    {
+        "category": "art galleries",
+        "title": "The Fowler Museum at UCLA",
+        "rating": 4.7,
+        "address": "308 Charles E Young Dr N, Los Angeles, CA 90024",
+        "latitude": 34.0729623,
+        "longitude": -118.4430871
+    },
+    {
+        "category": "art galleries",
+        "title": "The Hollywood Sculpture Garden",
+        "rating": 4.7,
+        "address": "2430 Vasanta Way, Hollywood, CA 90068",
+        "latitude": 34.113935999999995,
+        "longitude": -118.32354799999999
+    },
+    {
+        "category": "art galleries",
+        "title": "America Tropical Interpretive Center",
+        "rating": 4.6,
+        "address": "125 Paseo de la Plz, Los Angeles, CA 90012",
+        "latitude": 34.057649999999995,
+        "longitude": -118.2381585
+    },
+    {
+        "category": "theaters",
+        "title": "Geffen Playhouse",
+        "rating": 4.7,
+        "address": "10886 Le Conte Ave, Los Angeles, CA 90024",
+        "latitude": 34.0634331,
+        "longitude": -118.4444494
+    },
+    {
+        "category": "theaters",
+        "title": "Los Angeles Theatre",
+        "rating": 4.5,
+        "address": "615 S Broadway, Los Angeles, CA 90014",
+        "latitude": 34.046444,
+        "longitude": -118.25264659999999
+    },
+    {
+        "category": "theaters",
+        "title": "Hollywood Pantages Theatre",
+        "rating": 4.8,
+        "address": "6233 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.101842999999995,
+        "longitude": -118.3256085
+    },
+    {
+        "category": "theaters",
+        "title": "Ahmanson Theatre",
+        "rating": 4.7,
+        "address": "135 N Grand Ave, Los Angeles, CA 90012",
+        "latitude": 34.0579743,
+        "longitude": -118.2475585
+    },
+    {
+        "category": "theaters",
+        "title": "The Greek Theatre",
+        "rating": 4.7,
+        "address": "2700 N Vermont Ave, Los Angeles, CA 90027",
+        "latitude": 34.1195315,
+        "longitude": -118.2962896
+    },
+    {
+        "category": "theaters",
+        "title": "El Rey Theatre",
+        "rating": 4.6,
+        "address": "5515 Wilshire Blvd, Los Angeles, CA 90036",
+        "latitude": 34.0625,
+        "longitude": -118.34889199999999
+    },
+    {
+        "category": "theaters",
+        "title": "The Orpheum Theatre",
+        "rating": 4.7,
+        "address": "842 S Broadway, Los Angeles, CA 90014",
+        "latitude": 34.042769199999995,
+        "longitude": -118.2554416
+    },
+    {
+        "category": "theaters",
+        "title": "TCL Chinese Theatre",
+        "rating": 4.4,
+        "address": "6925 Hollywood Blvd, Hollywood, CA 90028",
+        "latitude": 34.1020231,
+        "longitude": -118.3409712
+    },
+    {
+        "category": "theaters",
+        "title": "The Wiltern",
+        "rating": 4.5,
+        "address": "3790 Wilshire Blvd, Los Angeles, CA 90010",
+        "latitude": 34.061501,
+        "longitude": -118.308948
+    },
+    {
+        "category": "theaters",
+        "title": "Dolby Theatre",
+        "rating": 4.6,
+        "address": "6801 Hollywood Blvd, Hollywood, CA 90028",
+        "latitude": 34.102691899999996,
+        "longitude": -118.3404156
+    },
+    {
+        "category": "theaters",
+        "title": "Vista Theatre",
+        "rating": 4.8,
+        "address": "4473 Sunset Dr, Los Angeles, CA 90027",
+        "latitude": 34.0982827,
+        "longitude": -118.2869511
+    },
+    {
+        "category": "theaters",
+        "title": "The Ford",
+        "rating": 4.8,
+        "address": "2580 Cahuenga Blvd E, Los Angeles, CA 90068",
+        "latitude": 34.1140389,
+        "longitude": -118.33437219999999
+    },
+    {
+        "category": "theaters",
+        "title": "Peacock Theater",
+        "rating": 4.6,
+        "address": "777 Chick Hearn Ct, Los Angeles, CA 90015",
+        "latitude": 34.0444495,
+        "longitude": -118.267151
+    },
+    {
+        "category": "theaters",
+        "title": "The Music Center",
+        "rating": 4.7,
+        "address": "135 N Grand Ave, Los Angeles, CA 90012",
+        "latitude": 34.0569567,
+        "longitude": -118.2482137
+    },
+    {
+        "category": "theaters",
+        "title": "Bob Baker Marionette Theater",
+        "rating": 4.9,
+        "address": "4949 York Blvd, Los Angeles, CA 90042",
+        "latitude": 34.1218128,
+        "longitude": -118.207202
+    },
+    {
+        "category": "theaters",
+        "title": "REDCAT ROY AND EDNA DISNEY/CALARTS THEATER",
+        "rating": 4.7,
+        "address": "631 W 2nd St, Los Angeles, CA 90012",
+        "latitude": 34.0550998,
+        "longitude": -118.25058879999999
+    },
+    {
+        "category": "theaters",
+        "title": "Million Dollar Theater",
+        "rating": 4.5,
+        "address": "307 S Broadway, Los Angeles, CA 90013",
+        "latitude": 34.0509094,
+        "longitude": -118.2483879
+    },
+    {
+        "category": "theaters",
+        "title": "Odyssey Theatre Ensemble",
+        "rating": 4.7,
+        "address": "2055 S Sepulveda Blvd, Los Angeles, CA 90025",
+        "latitude": 34.0416494,
+        "longitude": -118.43952739999999
+    },
+    {
+        "category": "theaters",
+        "title": "Dorothy Chandler Pavilion",
+        "rating": 4.7,
+        "address": "135 N Grand Ave, Los Angeles, CA 90012",
+        "latitude": 34.056606699999996,
+        "longitude": -118.2489325
+    },
+    {
+        "category": "theaters",
+        "title": "The Novo",
+        "rating": 4.5,
+        "address": "800 W Olympic Blvd a335, Los Angeles, CA 90015",
+        "latitude": 34.0446014,
+        "longitude": -118.2649917
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs of Hollywood",
+        "rating": 4.1,
+        "address": "Parking lot, 6800 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.101388899999996,
+        "longitude": -118.3388889
+    },
+    {
+        "category": "souvenir counters",
+        "title": "La La Land",
+        "rating": 4.2,
+        "address": "7001 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.1017048,
+        "longitude": -118.3419488
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir Outlet",
+        "rating": 4,
+        "address": "6408 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.1013519,
+        "longitude": -118.33002119999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hollywood Souvenir Depot",
+        "rating": 4.6,
+        "address": "6525 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.101788299999996,
+        "longitude": -118.3319181
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hollywood Souvenir City",
+        "rating": 4.4,
+        "address": "6630 Hollywood Blvd D, Los Angeles, CA 90028",
+        "latitude": 34.101408,
+        "longitude": -118.33448299999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir Stop",
+        "rating": 4.2,
+        "address": "7042 1/2 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.101395,
+        "longitude": -118.34300809999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hollywood Souvenir Outlet",
+        "rating": 4,
+        "address": "6655 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.1017185,
+        "longitude": -118.3350186
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hollywood Gifts",
+        "rating": 4.4,
+        "address": "6536 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.1013324,
+        "longitude": -118.33214389999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Paradise Hollywood",
+        "rating": 4.4,
+        "address": "6765 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.101756099999996,
+        "longitude": -118.3380794
+    },
+    {
+        "category": "souvenir counters",
+        "title": "The Hollywoodland Experience",
+        "rating": 4.2,
+        "address": "6904 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.101359599999995,
+        "longitude": -118.3405897
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Cathedral Gift Shop",
+        "rating": 4.5,
+        "address": "555 W Temple St, Los Angeles, CA 90012",
+        "latitude": 34.0570889,
+        "longitude": -118.2445236
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hollywood Mega",
+        "rating": 3.8,
+        "address": "Warehouse location, 940 W Washington Blvd, Los Angeles, CA 90015",
+        "latitude": 34.0369058,
+        "longitude": -118.27905899999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "LA Gift Stop",
+        "rating": 4.1,
+        "address": "211 Broadway, Santa Monica, CA 90401",
+        "latitude": 34.0139141,
+        "longitude": -118.4954059
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Universal Regalos Y Novedades",
+        "rating": 4.4,
+        "address": "12038 Washington Blvd, Los Angeles, CA 90066",
+        "latitude": 33.9973831,
+        "longitude": -118.4232639
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Pygmy Hippo Shoppe",
+        "rating": 4.8,
+        "address": "306 N Stanley Ave, Los Angeles, CA 90036",
+        "latitude": 34.0763619,
+        "longitude": -118.35625209999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs and Sports Collections",
+        "rating": 3.3,
+        "address": "6735 Hollywood Blvd, Los Angeles, CA 90028",
+        "latitude": 34.1018203,
+        "longitude": -118.3370363
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Nely's Discounts",
+        "rating": 4,
+        "address": "728 Vine St, Los Angeles, CA 90038",
+        "latitude": 34.0841668,
+        "longitude": -118.32616139999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "T- Island",
+        "rating": 4.9,
+        "address": "6655 Hollywood Blvd #5,6,7,8, Los Angeles, CA 90028",
+        "latitude": 34.1017641,
+        "longitude": -118.3349913
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Myrosa Enterprises",
+        "rating": 5,
+        "address": "14 Olvera St # E14, Los Angeles, CA 90012",
+        "latitude": 34.0575697,
+        "longitude": -118.2377343
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gifted",
+        "rating": 5,
+        "address": "10569 W Pico Blvd, Los Angeles, CA 90064",
+        "latitude": 34.044078,
+        "longitude": -118.4212936
+    }
+]

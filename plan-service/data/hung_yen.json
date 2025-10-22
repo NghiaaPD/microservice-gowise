@@ -1,0 +1,2490 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Temple of Literature Xich Dang",
+        "rating": 4.6,
+        "address": "Lê Quý Đôn, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.6622448,
+        "longitude": 106.0492273
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Du Lịch Phố Hiến",
+        "rating": 4.4,
+        "address": "Đường Điện Biên 2, Hồng Châu, Hưng Yên, Vietnam",
+        "latitude": 20.6409521,
+        "longitude": 106.05689609999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hồ Bán Nguyệt",
+        "rating": 4.9,
+        "address": "328 Điện Biên, Khu Phố, Hưng Yên, Vietnam",
+        "latitude": 20.6442296,
+        "longitude": 106.05393389999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "THÀNH PHỐ HƯNG YÊN",
+        "rating": 4.8,
+        "address": "Lê Lợi, Hưng Yên, 17109, Vietnam",
+        "latitude": 20.654664999999998,
+        "longitude": 106.0578989
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Mau Temple",
+        "rating": 4.7,
+        "address": "141 Bãi Sậy, Quang Trung, Hưng Yên, 160000, Vietnam",
+        "latitude": 20.6444187,
+        "longitude": 106.05449109999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Thủy đình Nội Lăng",
+        "rating": 4.3,
+        "address": "M472+54J, Thủ Sĩ, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6629519,
+        "longitude": 106.1002761
+    },
+    {
+        "category": "tourist attractions",
+        "title": "QUẢNG TRƯỜNG HƯNG YÊN",
+        "rating": 4.4,
+        "address": "M342+QVG, Phạm Bạch Hổ, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6569257,
+        "longitude": 106.05220229999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Trải nghiệm đan đó (Fishing-tackle workshop)",
+        "rating": 5,
+        "address": "Thôn Tất Viên, Thủ Sĩ, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.664928099999997,
+        "longitude": 106.1033104
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Grand World Hưng Yên",
+        "rating": 4.4,
+        "address": "XX3G+657, Nghĩa Trụ, Văn Giang, Hưng Yên, Vietnam",
+        "latitude": 20.953062499999998,
+        "longitude": 105.9754375
+    },
+    {
+        "category": "tourist attractions",
+        "title": "HTX Nông nghiệp xanh Phố Hiến (1)",
+        "rating": 4,
+        "address": "J3GM+F6, Hồng Nam, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.626247,
+        "longitude": 106.083119
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hiếu Hỉ Xuân Đông",
+        "rating": 5,
+        "address": "M4R4+J5, Nhật Tân, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6915281,
+        "longitude": 106.1053941
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Karaoke Ánh Dương",
+        "rating": null,
+        "address": "M33C+F59, Liên Phương, Hưng Yên, Vietnam",
+        "latitude": 20.6536674,
+        "longitude": 106.0704741
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Đền Thiên Hậu (đền thượng)",
+        "rating": 4.8,
+        "address": "56 Trưng Trắc, Quang Trung, Hưng Yên, Vietnam",
+        "latitude": 20.6470081,
+        "longitude": 106.0549367
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Gốc gạo",
+        "rating": 4.7,
+        "address": "M3RX+439, Phố Mới An Viên, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6902775,
+        "longitude": 106.0977351
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Soul of Tonkin Countryside Homestay (Hồn Quê Bắc Bộ)",
+        "rating": null,
+        "address": "Xóm Chùa, Tiên Lữ, Hưng Yên 160000, Vietnam",
+        "latitude": 20.6585626,
+        "longitude": 106.1078781
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Đền Đậu An",
+        "rating": 4.7,
+        "address": "M4J3+PR9, An Viên, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6817819,
+        "longitude": 106.1045944
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Chuong Temple",
+        "rating": 4.6,
+        "address": "thôn Nhân Dục, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6557291,
+        "longitude": 106.05021889999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Cánh Đồng Hoa Cải Thiện Phiến",
+        "rating": 4.4,
+        "address": "M445+34, Khu đô thị Đại học Phố Hiến, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.655569,
+        "longitude": 106.10816799999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Cây đề làng Dung",
+        "rating": 4.7,
+        "address": "P4F3+36X, Dương Mạnh Tiến, Hưng Đạo, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.7227483,
+        "longitude": 106.1030991
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Nhà văn hoá thôn Bình Đôi",
+        "rating": 4.7,
+        "address": "P3WR+MRG, Bình Đôi, Kim Động, Hưng Yên, Vietnam",
+        "latitude": 20.746693699999998,
+        "longitude": 106.09206719999999
+    },
+    {
+        "category": "parks",
+        "title": "Nam Hoa Park",
+        "rating": 4.3,
+        "address": "Lê Lai, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.6524186,
+        "longitude": 106.0543651
+    },
+    {
+        "category": "parks",
+        "title": "Fountain of Hung Yen Square",
+        "rating": 4.5,
+        "address": "M344+MQ8, Quảng Trường, Hưng Yên, Vietnam",
+        "latitude": 20.6566692,
+        "longitude": 106.0569584
+    },
+    {
+        "category": "parks",
+        "title": "Du Lịch Phố Hiến",
+        "rating": 4.4,
+        "address": "Đường Điện Biên 2, Hồng Châu, Hưng Yên, Vietnam",
+        "latitude": 20.6409521,
+        "longitude": 106.05689609999999
+    },
+    {
+        "category": "parks",
+        "title": "Vườn hoa",
+        "rating": 4,
+        "address": "M3F5+5X5, Nguyễn Phong Sắc, P. An Tảo, Hưng Yên, Vietnam",
+        "latitude": 20.6728936,
+        "longitude": 106.0599706
+    },
+    {
+        "category": "parks",
+        "title": "Công viên Nam Hoà - Hưng Yên",
+        "rating": null,
+        "address": "120 Lê Lai, Khu Phố, Hưng Yên, Vietnam",
+        "latitude": 20.650703,
+        "longitude": 106.05672
+    },
+    {
+        "category": "parks",
+        "title": "Cây nhãn cô đơn",
+        "rating": 5,
+        "address": "M3GV+8C, Khu đô thị Đại học Phố Hiến, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.675770699999998,
+        "longitude": 106.0935957
+    },
+    {
+        "category": "parks",
+        "title": "Hưng Đạt Garden",
+        "rating": 5,
+        "address": "Cầu An Tảo, An Thượng, Hưng Yên, Vietnam",
+        "latitude": 20.6770195,
+        "longitude": 106.06695859999999
+    },
+    {
+        "category": "parks",
+        "title": "Ecopark Hưng Yên",
+        "rating": 4.8,
+        "address": "XWFF+CX2, Rừng Cọ, Khu đô thị Ecopark, Văn Giang, Hà Nội, Vietnam",
+        "latitude": 20.97352,
+        "longitude": 105.92487519999999
+    },
+    {
+        "category": "parks",
+        "title": "Vườn nhãn đường phèn quả vuông Trịnh Văn Cương",
+        "rating": 4.9,
+        "address": "Đội 8, thôn, Nễ Châu, Hồng Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6342134,
+        "longitude": 106.0687894
+    },
+    {
+        "category": "parks",
+        "title": "Đầm sen Tiên Dung",
+        "rating": 4.9,
+        "address": "Đê, Hoàng Hanh, Hưng Yên, Vietnam",
+        "latitude": 20.6239162,
+        "longitude": 106.0904594
+    },
+    {
+        "category": "parks",
+        "title": "Vườn rau Bà Xuyến",
+        "rating": 4.5,
+        "address": "Đội 14, Đào Đặng, Hưng Yên, Vietnam",
+        "latitude": 20.679579099999998,
+        "longitude": 106.0772386
+    },
+    {
+        "category": "parks",
+        "title": "Hồ sinh thái- Vực Nễ",
+        "rating": 4,
+        "address": "J3JC+CG5, Nễ Châu, Hồng Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6310067,
+        "longitude": 106.0713542
+    },
+    {
+        "category": "parks",
+        "title": "Khu vui chơi trẻ em Công viên Nam Hòa",
+        "rating": 5,
+        "address": "M334+995, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.6533926,
+        "longitude": 106.05598649999999
+    },
+    {
+        "category": "parks",
+        "title": "NVH Nễ Châu",
+        "rating": 3.3,
+        "address": "J3JF+P7G, Nễ Châu, Hồng Nam, Hưng Yên, Vietnam",
+        "latitude": 20.631819099999998,
+        "longitude": 106.0731895
+    },
+    {
+        "category": "parks",
+        "title": "Công viên đền Đậu An",
+        "rating": 4.4,
+        "address": "M4J3+4VV, An Xá, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6803608,
+        "longitude": 106.1046652
+    },
+    {
+        "category": "parks",
+        "title": "Xuân Hải Garden",
+        "rating": 5,
+        "address": "J3JC+F4J, Nễ Châu, Hồng Nam, Hưng Yên, 160000, Vietnam",
+        "latitude": 20.6311875,
+        "longitude": 106.0703125
+    },
+    {
+        "category": "parks",
+        "title": "Hồ sinh thái",
+        "rating": 5,
+        "address": "J3MQ+F74, Phố Hiến, Hồng Nam, Hưng Yên, Vietnam",
+        "latitude": 20.633646499999998,
+        "longitude": 106.0882099
+    },
+    {
+        "category": "parks",
+        "title": "Vườn Lan Thảo Long",
+        "rating": 5,
+        "address": "21C Phan Đình Phùng, Minh Khai, Hưng Yên, 160000, Vietnam",
+        "latitude": 20.6497201,
+        "longitude": 106.0497659
+    },
+    {
+        "category": "parks",
+        "title": "Vườn cây trần yến",
+        "rating": 5,
+        "address": "2 Trần Hưng Đạo, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.6752732,
+        "longitude": 106.0534126
+    },
+    {
+        "category": "parks",
+        "title": "Haiyen Trần",
+        "rating": null,
+        "address": "Khu đô thị Đại học Phố Hiến, Hưng Yên, Vietnam",
+        "latitude": 20.6509151,
+        "longitude": 106.08302359999999
+    },
+    {
+        "category": "restaurants",
+        "title": "ECO KOREA 1980s BBQ - TP Hưng Yên",
+        "rating": 4.3,
+        "address": "53 Chùa Đông, Lê Lợi, Hưng Yên, 17106, Vietnam",
+        "latitude": 20.6561996,
+        "longitude": 106.0603283
+    },
+    {
+        "category": "restaurants",
+        "title": "Nhà hàng Phố Cũ",
+        "rating": 4.2,
+        "address": "9 Lương Văn Can, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.672624199999998,
+        "longitude": 106.05629259999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Nhà Hàng Sen Đồng",
+        "rating": 4.6,
+        "address": "35 Phố Lương Văn Can, P. Lam Sơn, Hưng Yên, 160000, Vietnam",
+        "latitude": 20.6726047,
+        "longitude": 106.054413
+    },
+    {
+        "category": "restaurants",
+        "title": "Nhà Hàng Phố Xưa 89",
+        "rating": 4.4,
+        "address": "8 Chùa Đông, Lê Lợi, Hưng Yên, 17000, Vietnam",
+        "latitude": 20.6594659,
+        "longitude": 106.0612357
+    },
+    {
+        "category": "restaurants",
+        "title": "PHỞ THÌN 13 Lò Đúc - CS 40 Lê Lai TP Hưng Yên",
+        "rating": 4.3,
+        "address": "40 Lê Lai, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.6529298,
+        "longitude": 106.0571234
+    },
+    {
+        "category": "restaurants",
+        "title": "DOOKKI GO! HƯNG YÊN",
+        "rating": 4.3,
+        "address": "Vietnam, Hưng Yên, Lê Lợi, Tô Hiệu",
+        "latitude": 20.654711499999998,
+        "longitude": 106.05946159999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Nhà Hàng Ngọc Hải",
+        "rating": 4.1,
+        "address": "21 Chùa Chuông, Lê Lợi, Hưng Yên, 160000, Vietnam",
+        "latitude": 20.6545608,
+        "longitude": 106.05656169999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Hải sản Minh Trang Quán",
+        "rating": 4.3,
+        "address": "khu Tân Sáng/12 Nguyễn Lương Bằng, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.661086299999997,
+        "longitude": 106.0563514
+    },
+    {
+        "category": "restaurants",
+        "title": "Pizza Homes GO Hưng Yên",
+        "rating": 4.8,
+        "address": "Đường Tô Hiệu, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.6549309,
+        "longitude": 106.05973429999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Jollibee Hưng Yên",
+        "rating": 4.4,
+        "address": "224 Điện Biên, Quang Trung, Hưng Yên, Vietnam",
+        "latitude": 20.6474197,
+        "longitude": 106.05705499999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Hải Sản Viễn Dương Restaurants",
+        "rating": 4.2,
+        "address": "Đường Đầm Sen B, Liên Phương, Hưng Yên, Vietnam",
+        "latitude": 20.6497355,
+        "longitude": 106.0686528
+    },
+    {
+        "category": "restaurants",
+        "title": "KFC Nguyễn Văn Linh – Hưng Yên",
+        "rating": 4.7,
+        "address": "758 Nguyễn Văn Linh, P. Hiền Nam, Hưng Yên, 17000, Vietnam",
+        "latitude": 20.6585091,
+        "longitude": 106.0576578
+    },
+    {
+        "category": "restaurants",
+        "title": "Ha Linh restaurant",
+        "rating": 3.8,
+        "address": "16 Nguyễn Lương Bằng, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6593522,
+        "longitude": 106.0563062
+    },
+    {
+        "category": "restaurants",
+        "title": "Canh cá rô đồng Yến 122",
+        "rating": 4.3,
+        "address": "122 Chu Mạnh Trinh, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6587094,
+        "longitude": 106.05451509999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Heo Bán Bò",
+        "rating": 4.3,
+        "address": "49 Chùa Đông, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.656276899999998,
+        "longitude": 106.0605313
+    },
+    {
+        "category": "restaurants",
+        "title": "Puro House",
+        "rating": 4.7,
+        "address": "25A Grand, Marina, Khu đô thị Ecopark, Văn Giang, Hưng Yên, Vietnam",
+        "latitude": 20.950499999999998,
+        "longitude": 105.93924489999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Jollibee GO! Hưng Yên",
+        "rating": 4.7,
+        "address": "TTTM Go!, 1S11 + 1T1 Tầng trệt, Tô Hiệu, Hưng Yên, Vietnam",
+        "latitude": 20.6549433,
+        "longitude": 106.059716
+    },
+    {
+        "category": "restaurants",
+        "title": "Nhà Hàng Biên Huê",
+        "rating": 4,
+        "address": "118 Chu Mạnh Trinh, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6586619,
+        "longitude": 106.0546358
+    },
+    {
+        "category": "restaurants",
+        "title": "Sơn Nam Plaza",
+        "rating": 3.9,
+        "address": "J3V8+H87, Hồng Châu, Hưng Yên, Vietnam",
+        "latitude": 20.643904799999998,
+        "longitude": 106.06579029999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Bún Thang Quán Đảo Cò",
+        "rating": 4.2,
+        "address": "17 Nguyễn Công Hoan, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.650295399999997,
+        "longitude": 106.0562142
+    },
+    {
+        "category": "cafes",
+        "title": "MOONSTUDY COFFEE",
+        "rating": 5,
+        "address": "22 Nguyễn Lương Bằng, P. Hiền Nam, Hưng Yên, 17000, Vietnam",
+        "latitude": 20.6600283,
+        "longitude": 106.056404
+    },
+    {
+        "category": "cafes",
+        "title": "Lavi Cafe",
+        "rating": 4.5,
+        "address": "16 Chu Mạnh Trinh, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.6583371,
+        "longitude": 106.06037169999999
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Vườn Trúc",
+        "rating": 4.7,
+        "address": "338 Triệu Quang Phục, P. An Tảo, Hưng Yên, 160000, Vietnam",
+        "latitude": 20.6673588,
+        "longitude": 106.0640653
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Nhãn Trà",
+        "rating": 5,
+        "address": "Nguyễn Chí Thanh/11 Nhân Dục, P. Hiền Nam, Hưng Yên, 70000, Vietnam",
+        "latitude": 20.6627725,
+        "longitude": 106.05352339999999
+    },
+    {
+        "category": "cafes",
+        "title": "RUBY Coffee & Restaurant",
+        "rating": 4.1,
+        "address": "M394+JQJ, Nguyễn Lương Bằng, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.6690784,
+        "longitude": 106.05689319999999
+    },
+    {
+        "category": "cafes",
+        "title": "Memory Coffee",
+        "rating": 4.4,
+        "address": "100 Phạm Ngũ Lão, Quang Trung, Hưng Yên, Vietnam",
+        "latitude": 20.645889,
+        "longitude": 106.05409519999999
+    },
+    {
+        "category": "cafes",
+        "title": "Cafee Phố Cũ",
+        "rating": 4.2,
+        "address": "743 Nguyễn Văn Linh, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.6593561,
+        "longitude": 106.0585421
+    },
+    {
+        "category": "cafes",
+        "title": "ChoCo - Trà ngon đậm vị",
+        "rating": 4.6,
+        "address": "765 Nguyễn Văn Linh, Lê Lợi, Hưng Yên, 17000, Vietnam",
+        "latitude": 20.658975599999998,
+        "longitude": 106.05851849999999
+    },
+    {
+        "category": "cafes",
+        "title": "Bourbon Coffee",
+        "rating": 4.6,
+        "address": "M3C3+3P, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.670224899999997,
+        "longitude": 106.0543738
+    },
+    {
+        "category": "cafes",
+        "title": "Bird Cup Coffee",
+        "rating": 4.6,
+        "address": "M3C4+46F, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.6702966,
+        "longitude": 106.0553978
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Phố Hiến Xưa",
+        "rating": 4.5,
+        "address": "77 Tô Hiệu, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.6527207,
+        "longitude": 106.06510519999999
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee Đảo Cò",
+        "rating": 5,
+        "address": "Lê Lai, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.6529584,
+        "longitude": 106.0560237
+    },
+    {
+        "category": "cafes",
+        "title": "Gạch Cà Phê",
+        "rating": 4.7,
+        "address": "19 Lê Thanh Nghị, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6672112,
+        "longitude": 106.0576186
+    },
+    {
+        "category": "cafes",
+        "title": "Eleven Coffee",
+        "rating": 4.1,
+        "address": "11 Đường Hoàng Thị Loan, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.649181499999997,
+        "longitude": 106.0619696
+    },
+    {
+        "category": "cafes",
+        "title": "MỘC COFFEE",
+        "rating": 4.9,
+        "address": "57 Nguyễn Lương Bằng, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.6731263,
+        "longitude": 106.05738799999999
+    },
+    {
+        "category": "cafes",
+        "title": "mochi kōhī",
+        "rating": 5,
+        "address": "140 Vũ Trọng Phụng, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6523769,
+        "longitude": 106.05226019999999
+    },
+    {
+        "category": "cafes",
+        "title": "Highlands Coffee Chùa Chuông Hưng Yên",
+        "rating": 3.3,
+        "address": "M334+RR, Lê Lợi, Hưng Yên, 17000, Vietnam",
+        "latitude": 20.6545625,
+        "longitude": 106.0570625
+    },
+    {
+        "category": "cafes",
+        "title": "Queen Coffee",
+        "rating": 4.1,
+        "address": "74 Nguyễn Đức Cảnh, P. An Tảo, Hưng Yên, Vietnam",
+        "latitude": 20.6718623,
+        "longitude": 106.0595341
+    },
+    {
+        "category": "cafes",
+        "title": "Phố Xưa coffee",
+        "rating": 4.2,
+        "address": "69 Nhân Dục, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6598266,
+        "longitude": 106.0547711
+    },
+    {
+        "category": "cafes",
+        "title": "Trung Nguyên E-Coffee",
+        "rating": 4.5,
+        "address": "M394+9MX, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.668485399999998,
+        "longitude": 106.0567245
+    },
+    {
+        "category": "waterfalls",
+        "title": "Gò Lào Waterfall",
+        "rating": 4.4,
+        "address": "P3R4+M2F, Ba Khan, Mai Châu, Hòa Bình, Vietnam",
+        "latitude": 20.7416764,
+        "longitude": 105.0550461
+    },
+    {
+        "category": "waterfalls",
+        "title": "Pongour Falls",
+        "rating": 4.4,
+        "address": "Thôn Tân Nghĩa, Đức Trọng, Lâm Đồng, Vietnam",
+        "latitude": 11.689304199999999,
+        "longitude": 108.2656291
+    },
+    {
+        "category": "waterfalls",
+        "title": "Hồ Câu Hưng Hà",
+        "rating": 4.5,
+        "address": "Đội 1 thôn Viên Tiêu, Tân Hưng, Tiên Lữ, Hưng Yên 160000, Vietnam",
+        "latitude": 20.6272436,
+        "longitude": 106.09016229999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Ban Gioc Waterfalls",
+        "rating": 4.6,
+        "address": "Sông Quy Xuân, Đàm Thuỷ, Trùng Khánh, Cao Bằng, Vietnam",
+        "latitude": 22.854345199999997,
+        "longitude": 106.7242663
+    },
+    {
+        "category": "waterfalls",
+        "title": "Khu du lịch Thác Datanla",
+        "rating": 4.4,
+        "address": "QL20 Đèo Prenn, Phường 3, Đà Lạt, Lâm Đồng 66000, Vietnam",
+        "latitude": 11.9034324,
+        "longitude": 108.4496999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Bảo Đại Waterfall",
+        "rating": 4.5,
+        "address": "Thác Bảo Đại, 11.606083, 108.350258, Tạ Hine, Đức Trọng, Lâm Đồng, Vietnam",
+        "latitude": 11.606083,
+        "longitude": 108.350258
+    },
+    {
+        "category": "waterfalls",
+        "title": "Khe Van Waterfall",
+        "rating": 4.3,
+        "address": "Húc Động, Bình Liêu, Quảng Ninh, Vietnam",
+        "latitude": 21.4858662,
+        "longitude": 107.4783674
+    },
+    {
+        "category": "waterfalls",
+        "title": "Love Waterfall",
+        "rating": 4.5,
+        "address": "8QWC+RV8, Sơn Bình, Tam Đường, Lai Châu, Vietnam",
+        "latitude": 22.3470257,
+        "longitude": 103.77221519999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Damb'ri Waterfall",
+        "rating": 4.3,
+        "address": "Tổ 37 Phường 2, Đam Bri, Bảo Lộc, Lâm Đồng, Vietnam",
+        "latitude": 11.6408036,
+        "longitude": 107.74342689999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Rhododendron Falls",
+        "rating": 4.7,
+        "address": "5RPX+CGH, Lộc Trì, Phú Lộc, Thành phố Huế, Vietnam",
+        "latitude": 16.1860637,
+        "longitude": 107.8488672
+    },
+    {
+        "category": "waterfalls",
+        "title": "Đray Nur Waterfall",
+        "rating": 4.5,
+        "address": "Đường đi thác Dray Nur, Dray Sáp, Krông A Na, Đắk Lắk, Vietnam",
+        "latitude": 12.5414316,
+        "longitude": 107.89056479999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Toc Tien Waterfall station",
+        "rating": 4.4,
+        "address": "22GJ+QCF, Hoà Ninh, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.02693,
+        "longitude": 108.03103829999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Tác Tình Waterfall",
+        "rating": 4.6,
+        "address": "TT. Tam Đường, Tam Đường, Lai Châu, Vietnam",
+        "latitude": 22.347347799999998,
+        "longitude": 103.6135992
+    },
+    {
+        "category": "waterfalls",
+        "title": "Anor Waterfall",
+        "rating": 4.6,
+        "address": "8658+MPH, Hồng Kim, A Lưới, Thành phố Huế, Vietnam",
+        "latitude": 16.309189099999998,
+        "longitude": 107.2168526
+    },
+    {
+        "category": "waterfalls",
+        "title": "Le Pont Mu Waterfall",
+        "rating": 4.3,
+        "address": "Suối Mu, Lạc Sơn, Hòa Bình, Vietnam",
+        "latitude": 20.394947,
+        "longitude": 105.3764412
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ bán nguyệt",
+        "rating": 4.6,
+        "address": "Hưng Yên, Hung Yen, Vietnam",
+        "latitude": 20.643698699999998,
+        "longitude": 106.0542433
+    },
+    {
+        "category": "lakes",
+        "title": "Đầm Ấu",
+        "rating": 3.8,
+        "address": "Hưng Yên, Hung Yen, Vietnam",
+        "latitude": 20.6350767,
+        "longitude": 106.06291569999999
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Bảo Khê",
+        "rating": 5,
+        "address": "Hưng Yên, Hung Yen, Vietnam",
+        "latitude": 20.703790299999998,
+        "longitude": 106.055568
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Lò Nồi",
+        "rating": 4.5,
+        "address": "Lê Lợi, Hưng Yên, Hung Yen, Vietnam",
+        "latitude": 20.6525556,
+        "longitude": 106.0540985
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Tiên Cầu",
+        "rating": 4.8,
+        "address": "Tiên Cầu, Kim Động, Hung Yen, Vietnam",
+        "latitude": 20.7207775,
+        "longitude": 106.05432809999999
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ An Vũ",
+        "rating": 4.4,
+        "address": "Lê Lợi, Hưng Yên, Hung Yen, Vietnam",
+        "latitude": 20.650876999999998,
+        "longitude": 106.060344
+    },
+    {
+        "category": "lakes",
+        "title": "Đầm Sen",
+        "rating": 3.6,
+        "address": "Hưng Yên, Hung Yen, Vietnam",
+        "latitude": 20.6490111,
+        "longitude": 106.0647527
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Bán Nguyệt",
+        "rating": 4.9,
+        "address": "328 Điện Biên, Khu Phố, Hưng Yên, Vietnam",
+        "latitude": 20.6442296,
+        "longitude": 106.05393389999999
+    },
+    {
+        "category": "lakes",
+        "title": "Giếng Vọng Cung",
+        "rating": 5,
+        "address": "Quang Trung, Hưng Yên, Hung Yen, Vietnam",
+        "latitude": 20.643149899999997,
+        "longitude": 106.05552209999999
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Yên Lệnh",
+        "rating": 4.1,
+        "address": "Chuyên Ngoại, Duy Tiên, Hà Nam, Vietnam",
+        "latitude": 20.642644,
+        "longitude": 106.0222312
+    },
+    {
+        "category": "lakes",
+        "title": "Đầm sen Hàn Lâm",
+        "rating": 3.5,
+        "address": "Hồng Châu, Hưng Yên, Hung Yen, Vietnam",
+        "latitude": 20.6427895,
+        "longitude": 106.05979289999999
+    },
+    {
+        "category": "lakes",
+        "title": "Đầm sen Hàn Lâm 2",
+        "rating": null,
+        "address": "Hồng Châu, Hưng Yên, Hung Yen, Vietnam",
+        "latitude": 20.6429768,
+        "longitude": 106.06162979999999
+    },
+    {
+        "category": "beaches",
+        "title": "Ecopark Hưng Yên",
+        "rating": 4.8,
+        "address": "XWFF+CX2, Rừng Cọ, Khu đô thị Ecopark, Văn Giang, Hà Nội, Vietnam",
+        "latitude": 20.97352,
+        "longitude": 105.92487519999999
+    },
+    {
+        "category": "beaches",
+        "title": "Bai Chay beach",
+        "rating": 4.3,
+        "address": "Kỳ Quan, Bãi Cháy, Hạ Long, Quảng Ninh, Vietnam",
+        "latitude": 20.947014199999998,
+        "longitude": 107.0496094
+    },
+    {
+        "category": "beaches",
+        "title": "Yên Mỹ",
+        "rating": null,
+        "address": "Chuyên Ngoại, Hưng Yên, Hà Nam, Vietnam",
+        "latitude": 20.6396119,
+        "longitude": 106.0265472
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi Cây Mến",
+        "rating": 4.3,
+        "address": "An Cư, Kiên Hải, Kiên Giang, Vietnam",
+        "latitude": 9.667448199999999,
+        "longitude": 104.35167229999999
+    },
+    {
+        "category": "beaches",
+        "title": "An Bang Beach",
+        "rating": 4.3,
+        "address": "W87R+C7R, Đ. Hai Bà Trưng, Hội An, Quảng Nam, Vietnam",
+        "latitude": 15.9136072,
+        "longitude": 108.34064889999999
+    },
+    {
+        "category": "beaches",
+        "title": "Doc Let Beach",
+        "rating": 4.3,
+        "address": "G6VH+CXJ, Bãi Biển Dốc Lết, TDP Bá Hà, Ninh Thuỷ, Khánh Hòa, Vietnam",
+        "latitude": 12.543580799999999,
+        "longitude": 109.2299034
+    },
+    {
+        "category": "beaches",
+        "title": "Biển Quang Lang ( Quang Lang Beach )",
+        "rating": 4.7,
+        "address": "Thụy Hải, Thái Thụy, Thái Bình, Vietnam",
+        "latitude": 20.551608599999998,
+        "longitude": 106.59828999999999
+    },
+    {
+        "category": "beaches",
+        "title": "Mui Ne Beach",
+        "rating": 4.2,
+        "address": "Đ. Xuân Thủy, Hàm Thuận Bắc, Bình Thuận 77157, Vietnam",
+        "latitude": 10.9537503,
+        "longitude": 108.3065046
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi biển Cồn Vành",
+        "rating": 3.9,
+        "address": "Tiền Hải, Thái Bình, Vietnam",
+        "latitude": 20.273563499999998,
+        "longitude": 106.6049736
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi Ôm",
+        "rating": 3.6,
+        "address": "C77X+3VH, Sông Cầu, Phú Yên, Vietnam",
+        "latitude": 13.412681599999999,
+        "longitude": 109.2997496
+    },
+    {
+        "category": "beaches",
+        "title": "Palm Beach Hotel - Kitesurfing spot April to September",
+        "rating": 4.6,
+        "address": "Thôn Giai Sơn, Tuy An, Phú Yên 56000, Vietnam",
+        "latitude": 13.2174213,
+        "longitude": 109.2928249
+    },
+    {
+        "category": "beaches",
+        "title": "ADAMO HOTEL",
+        "rating": 4.7,
+        "address": "DT200 TT Vòng xuyến, ngã 5, Yên Mỹ, Hưng Yên 160000, Vietnam",
+        "latitude": 20.8915251,
+        "longitude": 106.0478181
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi Xếp Beach",
+        "rating": 4.5,
+        "address": "M6PJ+6CM, Tổ 2, khu vực 1, Quy Nhơn, Bình Định 55000, Vietnam",
+        "latitude": 13.685580199999999,
+        "longitude": 109.23105509999999
+    },
+    {
+        "category": "beaches",
+        "title": "Grand Central Hotel",
+        "rating": 4.6,
+        "address": "Ocean Park 3, Nghĩa Trụ, Văn Giang, Hưng Yên, Vietnam",
+        "latitude": 20.9561296,
+        "longitude": 105.9782678
+    },
+    {
+        "category": "beaches",
+        "title": "Ganh Dua Beach Cabin",
+        "rating": 4.9,
+        "address": "Thôn Giai Sơn, Tuy An, Phú Yên, Vietnam",
+        "latitude": 13.216024299999999,
+        "longitude": 109.29242939999999
+    },
+    {
+        "category": "beaches",
+        "title": "Cty CNHH bất động sản 9999 Hưng Yên",
+        "rating": null,
+        "address": null,
+        "latitude": 20.665553,
+        "longitude": 106.0634889
+    },
+    {
+        "category": "beaches",
+        "title": "Hà Trang Đại Lý Vé Máy Bay Lalabay",
+        "rating": null,
+        "address": "519 Nguyễn Văn Linh, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6718579,
+        "longitude": 106.05917889999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bể bơi thành phố",
+        "rating": 3.6,
+        "address": "Đường Nguyễn Huệ, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.649799899999998,
+        "longitude": 106.0634958
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bể bơi Sơn Nam",
+        "rating": 3.4,
+        "address": "J3V8+G2C, Phạm Ngũ Lão, Hồng Châu, Hưng Yên, Vietnam",
+        "latitude": 20.6438135,
+        "longitude": 106.0650302
+    },
+    {
+        "category": "swimming pools",
+        "title": "Pool Club",
+        "rating": 5,
+        "address": "Quảng Trường, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.662796999999998,
+        "longitude": 106.055713
+    },
+    {
+        "category": "swimming pools",
+        "title": "THÀNH PHỐ HƯNG YÊN",
+        "rating": 4.8,
+        "address": "Lê Lợi, Hưng Yên, 17109, Vietnam",
+        "latitude": 20.654664999999998,
+        "longitude": 106.0578989
+    },
+    {
+        "category": "swimming pools",
+        "title": "Aqua Water Park",
+        "rating": 4.1,
+        "address": "V2QX+V25, Tân Lập, Yên Mỹ, Hưng Yên, Vietnam",
+        "latitude": 20.8900224,
+        "longitude": 106.0476762
+    },
+    {
+        "category": "swimming pools",
+        "title": "Thiện Phiến , Tiên Lữ , Hưng Yên",
+        "rating": null,
+        "address": "Bể Bơi Minh Thành, QL39A, Thiện Phiến, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6475744,
+        "longitude": 106.1048818
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bể bơi Hoàng Anh",
+        "rating": 3,
+        "address": "P3V3+2CF, Lương Bằng, Kim Động, Hưng Yên, Vietnam",
+        "latitude": 20.7432081,
+        "longitude": 106.0544905
+    },
+    {
+        "category": "swimming pools",
+        "title": "Billiard - Coffee 89",
+        "rating": 5,
+        "address": "1 Đường Hoàng Thị Loan, Lê Lợi, Hưng Yên, 17000, Vietnam",
+        "latitude": 20.6489987,
+        "longitude": 106.06222869999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Trần Minh Billiards",
+        "rating": 5,
+        "address": "J3WW+28G, Phương Chiểu, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6450648,
+        "longitude": 106.0958148
+    },
+    {
+        "category": "swimming pools",
+        "title": "H2 Billiard Club",
+        "rating": 4.3,
+        "address": "8 20 Tháng Tám, Thôn Lương Hội, Kim Động, Hưng Yên, Vietnam",
+        "latitude": 20.735770199999997,
+        "longitude": 106.05814989999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Câu lạc bộ BiDa KINGDOM",
+        "rating": 4.3,
+        "address": "52 Lê Thanh Nghị, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6675659,
+        "longitude": 106.05538729999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "2CE 98 billiard club-cofe",
+        "rating": null,
+        "address": "30 Đinh Gia Quế, phường sơn nam, Hưng Yên, Vietnam",
+        "latitude": 20.672451499999998,
+        "longitude": 106.0550329
+    },
+    {
+        "category": "swimming pools",
+        "title": "King Billard Club",
+        "rating": null,
+        "address": "P25P+MXW, Phú Cường, Kim Động, Hưng Yên, Vietnam",
+        "latitude": 20.7092492,
+        "longitude": 106.03743999999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Magic Billiards",
+        "rating": null,
+        "address": "38 Tuệ Tĩnh, P. An Tảo, Hưng Yên, Vietnam",
+        "latitude": 20.667966099999997,
+        "longitude": 106.0612017
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bể bơi Minh Quân",
+        "rating": null,
+        "address": "M26C+24V, Lãnh Trì, Duy Tiên, Hà Nam, Vietnam",
+        "latitude": 20.6601225,
+        "longitude": 106.0203094
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bể bơi Cung Thiếu Nhi",
+        "rating": 2.3,
+        "address": "M345+8HJ, Tô Hiệu, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.6558252,
+        "longitude": 106.05889979999999
+    },
+    {
+        "category": "resorts",
+        "title": "Longan Garden Resort",
+        "rating": 5,
+        "address": "Hoa Binh, Nễ Châu, Hồng Nam, Hưng Yên, Vietnam",
+        "latitude": 20.635910799999998,
+        "longitude": 106.0668441
+    },
+    {
+        "category": "resorts",
+        "title": "ADAMO HOTEL",
+        "rating": 4.7,
+        "address": "DT200 TT Vòng xuyến, ngã 5, Yên Mỹ, Hưng Yên 160000, Vietnam",
+        "latitude": 20.8915251,
+        "longitude": 106.0478181
+    },
+    {
+        "category": "resorts",
+        "title": "Crown Hotel",
+        "rating": 4,
+        "address": "Đường Nguyễn Quốc Phong, Trung Nghĩa, Hưng Yên, Vietnam",
+        "latitude": 20.683522099999998,
+        "longitude": 106.087689
+    },
+    {
+        "category": "resorts",
+        "title": "The First Stay Hotel",
+        "rating": 4.6,
+        "address": "XW3Q+44 Phụng Công, Văn Giang, Hưng Yên, 160000, Vietnam",
+        "latitude": 20.952793099999997,
+        "longitude": 105.9378107
+    },
+    {
+        "category": "resorts",
+        "title": "Resot Văn Quốc",
+        "rating": null,
+        "address": "An Viên, Hưng Yên, Vietnam",
+        "latitude": 20.6768039,
+        "longitude": 106.1093313
+    },
+    {
+        "category": "resorts",
+        "title": "ORIENT Hotel",
+        "rating": 3.6,
+        "address": "344 Triệu Quang Phục, P. An Tảo, Hưng Yên, Vietnam",
+        "latitude": 20.6672249,
+        "longitude": 106.06422719999999
+    },
+    {
+        "category": "resorts",
+        "title": "Phu My Hotel",
+        "rating": 4.2,
+        "address": "QL39A, Liêu Xá, Yên Mỹ, Hưng Yên, Vietnam",
+        "latitude": 20.912324299999998,
+        "longitude": 106.0582486
+    },
+    {
+        "category": "resorts",
+        "title": "Sơn Nam Resort",
+        "rating": 3,
+        "address": "168 Phạm Ngũ Lão, Hồng Châu, Hưng Yên, Vietnam",
+        "latitude": 20.6448325,
+        "longitude": 106.0647261
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Thái Bình",
+        "rating": 3.7,
+        "address": "M382+3HW, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.6652442,
+        "longitude": 106.0514625
+    },
+    {
+        "category": "camping sites",
+        "title": "Swanlake Park",
+        "rating": 4.7,
+        "address": "Khu đô thị Ecopark, Văn Giang, Hưng Yên, Vietnam",
+        "latitude": 20.9578837,
+        "longitude": 105.92841209999999
+    },
+    {
+        "category": "camping sites",
+        "title": "ADAMO HOTEL",
+        "rating": 4.7,
+        "address": "DT200 TT Vòng xuyến, ngã 5, Yên Mỹ, Hưng Yên 160000, Vietnam",
+        "latitude": 20.8915251,
+        "longitude": 106.0478181
+    },
+    {
+        "category": "camping sites",
+        "title": "Ham Lon Lake Campsite",
+        "rating": 4.1,
+        "address": "Thôn, Thanh Hà, Sóc Sơn, Hà Nội, Vietnam",
+        "latitude": 21.3034687,
+        "longitude": 105.7996907
+    },
+    {
+        "category": "camping sites",
+        "title": "Beloving Home R2 Onsen Ecopark",
+        "rating": 4.9,
+        "address": "Phụng Công, Văn Giang, Hưng Yên, Vietnam",
+        "latitude": 20.9530261,
+        "longitude": 105.9333059
+    },
+    {
+        "category": "camping sites",
+        "title": "Son Tinh Camp 3",
+        "rating": 3.7,
+        "address": "Thôn Muồng Cháu, Ba Vì, Hà Nội, Vietnam",
+        "latitude": 21.048758799999998,
+        "longitude": 105.40000529999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Chom Nui Camping",
+        "rating": 4.5,
+        "address": "Nam Sơn, Sóc Sơn, Hà Nội, Vietnam",
+        "latitude": 21.3156029,
+        "longitude": 105.8082409
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Đồng Mô - Ecotrip",
+        "rating": 4.6,
+        "address": "Làng Văn hóa Du lịch các Dân tộc Việt Nam, Ba Vì, Hà Nội, Vietnam",
+        "latitude": 21.053253299999998,
+        "longitude": 105.4810364
+    },
+    {
+        "category": "camping sites",
+        "title": "Bán đảo Like - Hồ Đồng đò - Cắm trại",
+        "rating": 4.3,
+        "address": "hồ Đồng đò, thôn Minh tân, Minh Trí, Sóc Sơn, Hà Nội 12252, Vietnam",
+        "latitude": 21.3160362,
+        "longitude": 105.77437549999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Hodota Bình Châu Resort & Camping",
+        "rating": 4.7,
+        "address": "Cầu Nước Mặn, Bình Châu, Xuyên Mộc, Bà Rịa - Vũng Tàu 790000, Vietnam",
+        "latitude": 10.5695582,
+        "longitude": 107.5706598
+    },
+    {
+        "category": "camping sites",
+        "title": "Grand Central Hotel",
+        "rating": 4.6,
+        "address": "Ocean Park 3, Nghĩa Trụ, Văn Giang, Hưng Yên, Vietnam",
+        "latitude": 20.9561296,
+        "longitude": 105.9782678
+    },
+    {
+        "category": "camping sites",
+        "title": "Ta Xua Nature Reserve",
+        "rating": 4.5,
+        "address": "8FPQ+4VC, Bắc Yên, Sơn La, Vietnam",
+        "latitude": 21.3353117,
+        "longitude": 104.4896254
+    },
+    {
+        "category": "camping sites",
+        "title": "Da Phu hill",
+        "rating": 4.5,
+        "address": "Phường 7, Đà Lạt, Lâm Đồng 670000, Vietnam",
+        "latitude": 11.9820625,
+        "longitude": 108.4038125
+    },
+    {
+        "category": "camping sites",
+        "title": "Thien Phu Lam Ecological Park",
+        "rating": 3.9,
+        "address": "Minh Phú, Sóc Sơn, Hà Nội, Vietnam",
+        "latitude": 21.2903912,
+        "longitude": 105.78974269999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ecopark Hưng Yên",
+        "rating": 4.8,
+        "address": "XWFF+CX2, Rừng Cọ, Khu đô thị Ecopark, Văn Giang, Hà Nội, Vietnam",
+        "latitude": 20.97352,
+        "longitude": 105.92487519999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ba Vi National Park",
+        "rating": 4.5,
+        "address": "Ba Vì, Hà Nội, Vietnam",
+        "latitude": 21.0812013,
+        "longitude": 105.3626985
+    },
+    {
+        "category": "hiking trails",
+        "title": "Đỉnh Hàm Lợn",
+        "rating": 4.8,
+        "address": "8Q7Q+MHF, Minh Trí, Sóc Sơn, Hà Nội, Vietnam",
+        "latitude": 21.314189199999998,
+        "longitude": 105.7889258
+    },
+    {
+        "category": "temples",
+        "title": "Mau Temple",
+        "rating": 4.7,
+        "address": "141 Bãi Sậy, Quang Trung, Hưng Yên, 160000, Vietnam",
+        "latitude": 20.6444187,
+        "longitude": 106.05449109999999
+    },
+    {
+        "category": "temples",
+        "title": "Chuong Temple",
+        "rating": 4.6,
+        "address": "thôn Nhân Dục, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6557291,
+        "longitude": 106.05021889999999
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Ba Chua Vuc",
+        "rating": 4.8,
+        "address": "J3V8+MVP, Hồng Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6442238,
+        "longitude": 106.0672175
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Literature Xich Dang",
+        "rating": 4.6,
+        "address": "Lê Quý Đôn, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.6622448,
+        "longitude": 106.0492273
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Tiên Tường",
+        "rating": 4.6,
+        "address": "P392+XGW, Hiệp Cường, Kim Động, Hưng Yên, Vietnam",
+        "latitude": 20.7199787,
+        "longitude": 106.0513137
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Đống Cao",
+        "rating": 4.6,
+        "address": "Khu đô thị Đại học Phố Hiến, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6750702,
+        "longitude": 106.09757979999999
+    },
+    {
+        "category": "temples",
+        "title": "Đền Trần",
+        "rating": 4.7,
+        "address": "J3W3+5P3, Bãi Sậy, Quang Trung, Hưng Yên, Vietnam",
+        "latitude": 20.6453816,
+        "longitude": 106.05429509999999
+    },
+    {
+        "category": "temples",
+        "title": "Đình làng thôn Nội Lăng",
+        "rating": 4.2,
+        "address": "Thủ Sĩ, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6635626,
+        "longitude": 106.10031509999999
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Hiến",
+        "rating": 4.5,
+        "address": "J3Q6+J4X, Phố Hiến, Hồng Châu, Hưng Yên, Vietnam",
+        "latitude": 20.6391202,
+        "longitude": 106.0603525
+    },
+    {
+        "category": "temples",
+        "title": "ĐÌNH CẢ XÃ TÂN HƯNG",
+        "rating": 4.7,
+        "address": "Tân Hưng, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6321306,
+        "longitude": 106.10031219999999
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Quốc",
+        "rating": 4.5,
+        "address": "J3WH+H49, QL39A, Liên Phương, Hưng Yên, Vietnam",
+        "latitude": 20.6464009,
+        "longitude": 106.0778462
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Phố",
+        "rating": 4.4,
+        "address": "43 Trưng Trắc, Quang Trung, Hưng Yên, Vietnam",
+        "latitude": 20.646608399999998,
+        "longitude": 106.05552949999999
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Cổ Am",
+        "rating": 4.7,
+        "address": "M38F+GW3, Liên Phương, Hưng Yên, Vietnam",
+        "latitude": 20.666251499999998,
+        "longitude": 106.0748012
+    },
+    {
+        "category": "temples",
+        "title": "Đền Thiên Quan",
+        "rating": 5,
+        "address": "M356+VGV, Chùa Đông, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.659737699999997,
+        "longitude": 106.06131169999999
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Hoàng Xá - Hưng Yên",
+        "rating": 4.7,
+        "address": "M2RJ+FQ, Hùng Cường, Kim Động, Hưng Yên, Vietnam",
+        "latitude": 20.6912256,
+        "longitude": 106.0319907
+    },
+    {
+        "category": "temples",
+        "title": "chùa thôn Cao_Chùa Hoàng Bà",
+        "rating": 4.5,
+        "address": "M3W5+8HF, Bảo Khê, Hưng Yên, Vietnam",
+        "latitude": 20.695819,
+        "longitude": 106.0589243
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Bảo Khánh",
+        "rating": 4.5,
+        "address": "J3GC+GX3, Đê, Hoàng Hanh, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6262634,
+        "longitude": 106.0724259
+    },
+    {
+        "category": "temples",
+        "title": "Hung Yen Citadel",
+        "rating": 4.4,
+        "address": "Đường Phạm Ngũ Lão, Quang Trung, Hưng Yên, Vietnam",
+        "latitude": 20.6461537,
+        "longitude": 106.0598256
+    },
+    {
+        "category": "temples",
+        "title": "Đền Thờ Đức Nam Hải Đại Vương",
+        "rating": 4.6,
+        "address": "M352+9C6, Phạm Bạch Hổ, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.658418299999997,
+        "longitude": 106.0510225
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Núi Lá",
+        "rating": 4.7,
+        "address": "M35R+RF9, Thủ Sĩ, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6595332,
+        "longitude": 106.09123299999999
+    },
+    {
+        "category": "museums",
+        "title": "Historical Museum of Hung Yen Province",
+        "rating": 4.5,
+        "address": "Phạm Bạch Hổ, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6580159,
+        "longitude": 106.0502834
+    },
+    {
+        "category": "museums",
+        "title": "Temple of Literature Xich Dang",
+        "rating": 4.6,
+        "address": "Lê Quý Đôn, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.6622448,
+        "longitude": 106.0492273
+    },
+    {
+        "category": "museums",
+        "title": "Nghĩa trang thành phố Hưng Yên",
+        "rating": 4.4,
+        "address": "M3M8+45J, P. An Tảo, Hưng Yên, Vietnam",
+        "latitude": 20.6828328,
+        "longitude": 106.0653933
+    },
+    {
+        "category": "museums",
+        "title": "Di tích Quốc gia Đình Phủ Vị",
+        "rating": 5,
+        "address": "J3QP+VHC, Phương Chiểu, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6396826,
+        "longitude": 106.0863912
+    },
+    {
+        "category": "museums",
+        "title": "Đình Làng Tiền Phong",
+        "rating": 4.2,
+        "address": "J4M5+55M, Unnamed Road, Tân Hưng, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.632958,
+        "longitude": 106.10791859999999
+    },
+    {
+        "category": "museums",
+        "title": "Vietnam Museum of Ethnology",
+        "rating": 4.6,
+        "address": "Đ. Nguyễn Văn Huyên, Quan Hoa, Cầu Giấy, Hà Nội 100000, Vietnam",
+        "latitude": 21.040342199999998,
+        "longitude": 105.7987354
+    },
+    {
+        "category": "museums",
+        "title": "Đình Làng Thanh Xuân",
+        "rating": 4.5,
+        "address": "P3J2+25M, Thanh Xuân, Kim Động, Hưng Yên, Vietnam",
+        "latitude": 20.7300899,
+        "longitude": 106.0504064
+    },
+    {
+        "category": "museums",
+        "title": "Đền thờ Thượng tướng quân Doãn Nỗ",
+        "rating": 4.5,
+        "address": "Phương Chiểu, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6383072,
+        "longitude": 106.0945593
+    },
+    {
+        "category": "museums",
+        "title": "Hung Yen Museum",
+        "rating": 4.1,
+        "address": "J3V3+P27, Đê, Minh Khai, Hưng Yên, Vietnam",
+        "latitude": 20.6442925,
+        "longitude": 106.0525371
+    },
+    {
+        "category": "night markets",
+        "title": "Linh Nam night market",
+        "rating": 4,
+        "address": "56 P. Vĩnh Hưng, Vĩnh Hưng, Hoàng Mai, Hà Nội 127334, Vietnam",
+        "latitude": 20.983876,
+        "longitude": 105.8742896
+    },
+    {
+        "category": "night markets",
+        "title": "Chợ Phùng Khoang",
+        "rating": 4.1,
+        "address": "P. Phùng Khoang, Trung Văn, Nam Từ Liêm, Hà Nội, Vietnam",
+        "latitude": 20.9861757,
+        "longitude": 105.793617
+    },
+    {
+        "category": "night markets",
+        "title": "Night Market",
+        "rating": 4.2,
+        "address": "317 Đ. Tam Trinh, Hoàng Văn Thụ, Hoàng Mai, Hà Nội, Vietnam",
+        "latitude": 20.9859752,
+        "longitude": 105.86373839999999
+    },
+    {
+        "category": "night markets",
+        "title": "Night market start ( Friday to Sunday)",
+        "rating": 4.3,
+        "address": "78 P. Hàng Giấy, Hàng Mã, Hoàn Kiếm, Hà Nội, Vietnam",
+        "latitude": 21.0382273,
+        "longitude": 105.84843359999999
+    },
+    {
+        "category": "night markets",
+        "title": "Hội An Night Market",
+        "rating": 4.4,
+        "address": "Nguyễn Hoàng, Phường Minh An, Hội An, Quảng Nam, Vietnam",
+        "latitude": 15.8759693,
+        "longitude": 108.3260184
+    },
+    {
+        "category": "night markets",
+        "title": "Chợ Hàng Mã",
+        "rating": 4.5,
+        "address": "12 P. Hàng Mã, Hàng Bồ, Hoàn Kiếm, Hà Nội, Vietnam",
+        "latitude": 21.036441999999997,
+        "longitude": 105.84849799999999
+    },
+    {
+        "category": "night markets",
+        "title": "Outdoor store",
+        "rating": 4.3,
+        "address": "127 P. Hàng Buồm, Hàng Đào, Hoàn Kiếm, Hà Nội, Vietnam",
+        "latitude": 21.0352011,
+        "longitude": 105.85012739999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "THÀNH PHỐ HƯNG YÊN",
+        "rating": 4.8,
+        "address": "Lê Lợi, Hưng Yên, 17109, Vietnam",
+        "latitude": 20.654664999999998,
+        "longitude": 106.0578989
+    },
+    {
+        "category": "viewpoints",
+        "title": "QUẢNG TRƯỜNG HƯNG YÊN",
+        "rating": 4.4,
+        "address": "M342+QVG, Phạm Bạch Hổ, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6569257,
+        "longitude": 106.05220229999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Temple of Literature Xich Dang",
+        "rating": 4.6,
+        "address": "Lê Quý Đôn, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.6622448,
+        "longitude": 106.0492273
+    },
+    {
+        "category": "viewpoints",
+        "title": "Hung Yen Citadel",
+        "rating": 4.4,
+        "address": "Đường Phạm Ngũ Lão, Quang Trung, Hưng Yên, Vietnam",
+        "latitude": 20.6461537,
+        "longitude": 106.0598256
+    },
+    {
+        "category": "viewpoints",
+        "title": "Nam Hoa Park",
+        "rating": 4.3,
+        "address": "Lê Lai, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.6524186,
+        "longitude": 106.0543651
+    },
+    {
+        "category": "viewpoints",
+        "title": "Fountain of Hung Yen Square",
+        "rating": 4.5,
+        "address": "M344+MQ8, Quảng Trường, Hưng Yên, Vietnam",
+        "latitude": 20.6566692,
+        "longitude": 106.0569584
+    },
+    {
+        "category": "viewpoints",
+        "title": "Hồ bán nguyệt",
+        "rating": 4.6,
+        "address": "Hưng Yên, Hung Yen, Vietnam",
+        "latitude": 20.643698699999998,
+        "longitude": 106.0542433
+    },
+    {
+        "category": "viewpoints",
+        "title": "Grand World Hưng Yên",
+        "rating": 4.4,
+        "address": "XX3G+657, Nghĩa Trụ, Văn Giang, Hưng Yên, Vietnam",
+        "latitude": 20.953062499999998,
+        "longitude": 105.9754375
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ecopark Hưng Yên",
+        "rating": 4.8,
+        "address": "XWFF+CX2, Rừng Cọ, Khu đô thị Ecopark, Văn Giang, Hà Nội, Vietnam",
+        "latitude": 20.97352,
+        "longitude": 105.92487519999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Vườn Lan Hùng Cường cơ sở 3",
+        "rating": 4.4,
+        "address": "Phạm Bạch Hổ, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.6606137,
+        "longitude": 106.05113759999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Viettel Hưng Yên",
+        "rating": 4.4,
+        "address": "537 Nguyễn Văn Linh, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.655223499999998,
+        "longitude": 106.05874179999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Chu Dong Tu Temple",
+        "rating": 4.4,
+        "address": "Thôn, Yên Vĩnh, Khoái Châu, Hưng Yên, Vietnam",
+        "latitude": 20.8642337,
+        "longitude": 105.9479063
+    },
+    {
+        "category": "viewpoints",
+        "title": "Cầu Mụa",
+        "rating": 4,
+        "address": "P3VP+89F, Vũ Xá, Kim Động, Hưng Yên, Vietnam",
+        "latitude": 20.743313999999998,
+        "longitude": 106.08590819999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "VinWonders Wave Park",
+        "rating": 4.9,
+        "address": "XX2M+HHX, Nghĩa Trụ, Văn Giang, Hưng Yên, Vietnam",
+        "latitude": 20.9520366,
+        "longitude": 105.98378439999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Hồ Câu Hưng Hà",
+        "rating": 4.5,
+        "address": "Đội 1 thôn Viên Tiêu, Tân Hưng, Tiên Lữ, Hưng Yên 160000, Vietnam",
+        "latitude": 20.6272436,
+        "longitude": 106.09016229999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Nghè Thanh Xuân",
+        "rating": 5,
+        "address": "P2JX+28G, Unnamed Road, Song Mai, Kim Động, Hưng Yên, Vietnam",
+        "latitude": 20.7300582,
+        "longitude": 106.0483335
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ký Túc Xá Đại Học Thủy Lợi Hưng Yên",
+        "rating": 4,
+        "address": "M4M2+M54, Trường Đại học Thủy Lợi, An Viên, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6841336,
+        "longitude": 106.10045749999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Cafee Phố Cũ",
+        "rating": 4.2,
+        "address": "743 Nguyễn Văn Linh, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.6593561,
+        "longitude": 106.0585421
+    },
+    {
+        "category": "viewpoints",
+        "title": "Mitsubishi An Dân Hưng Yên",
+        "rating": 4.6,
+        "address": "Phạm Bạch Hổ, P. Hiền Nam, Hưng Yên, 17106, Vietnam",
+        "latitude": 20.6649735,
+        "longitude": 106.0519578
+    },
+    {
+        "category": "viewpoints",
+        "title": "Duyên Yên",
+        "rating": null,
+        "address": "Hưng Yên, Hung Yen, Vietnam",
+        "latitude": 20.718376199999998,
+        "longitude": 106.03536319999999
+    },
+    {
+        "category": "gardens",
+        "title": "Hưng Đạt Garden",
+        "rating": 5,
+        "address": "Cầu An Tảo, An Thượng, Hưng Yên, Vietnam",
+        "latitude": 20.6770195,
+        "longitude": 106.06695859999999
+    },
+    {
+        "category": "gardens",
+        "title": "Temple of Literature Xich Dang",
+        "rating": 4.6,
+        "address": "Lê Quý Đôn, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.6622448,
+        "longitude": 106.0492273
+    },
+    {
+        "category": "gardens",
+        "title": "Vườn hoa",
+        "rating": 4,
+        "address": "M3F5+5X5, Nguyễn Phong Sắc, P. An Tảo, Hưng Yên, Vietnam",
+        "latitude": 20.6728936,
+        "longitude": 106.0599706
+    },
+    {
+        "category": "gardens",
+        "title": "Xuân Hải Garden",
+        "rating": 5,
+        "address": "J3JC+F4J, Nễ Châu, Hồng Nam, Hưng Yên, 160000, Vietnam",
+        "latitude": 20.6311875,
+        "longitude": 106.0703125
+    },
+    {
+        "category": "gardens",
+        "title": "Đầm sen Tiên Dung",
+        "rating": 4.9,
+        "address": "Đê, Hoàng Hanh, Hưng Yên, Vietnam",
+        "latitude": 20.6239162,
+        "longitude": 106.0904594
+    },
+    {
+        "category": "gardens",
+        "title": "Vườn nhãn đường phèn quả vuông Trịnh Văn Cương",
+        "rating": 4.9,
+        "address": "Đội 8, thôn, Nễ Châu, Hồng Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6342134,
+        "longitude": 106.0687894
+    },
+    {
+        "category": "gardens",
+        "title": "Vườn rau Bà Xuyến",
+        "rating": 4.5,
+        "address": "Đội 14, Đào Đặng, Hưng Yên, Vietnam",
+        "latitude": 20.679579099999998,
+        "longitude": 106.0772386
+    },
+    {
+        "category": "gardens",
+        "title": "Vườn Lan Thảo Long",
+        "rating": 5,
+        "address": "21C Phan Đình Phùng, Minh Khai, Hưng Yên, 160000, Vietnam",
+        "latitude": 20.6497201,
+        "longitude": 106.0497659
+    },
+    {
+        "category": "gardens",
+        "title": "VƯỜN LAN ĐẠI PHONG NGUYỄN",
+        "rating": 4.3,
+        "address": "Đặng Cầu, Hưng Yên, Vietnam",
+        "latitude": 20.684134099999998,
+        "longitude": 106.0833935
+    },
+    {
+        "category": "gardens",
+        "title": "Vườn cây trần yến",
+        "rating": 5,
+        "address": "2 Trần Hưng Đạo, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.6752732,
+        "longitude": 106.0534126
+    },
+    {
+        "category": "gardens",
+        "title": "Hoa Lan Nguyễn Cường",
+        "rating": 4,
+        "address": "M36F+JW4, Đông Chiểu, Hưng Yên, Vietnam",
+        "latitude": 20.6615029,
+        "longitude": 106.07483069999999
+    },
+    {
+        "category": "gardens",
+        "title": "Longan Garden Resort",
+        "rating": 5,
+        "address": "Hoa Binh, Nễ Châu, Hồng Nam, Hưng Yên, Vietnam",
+        "latitude": 20.635910799999998,
+        "longitude": 106.0668441
+    },
+    {
+        "category": "gardens",
+        "title": "Nhà vườn Hỷ Hoa",
+        "rating": 5,
+        "address": "Đội 7 thôn, Đống Lương, Kim Động, Hưng Yên, Vietnam",
+        "latitude": 20.711564,
+        "longitude": 106.07063219999999
+    },
+    {
+        "category": "gardens",
+        "title": "Vườn Lan Đất Nhãn",
+        "rating": 3.5,
+        "address": "M4G3+WW6, Nội Thượng, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6772775,
+        "longitude": 106.1047718
+    },
+    {
+        "category": "gardens",
+        "title": "Vườn lan Mạnh Quân",
+        "rating": 4.5,
+        "address": "M3XF+G75, Lương Xá, Kim Động, Hưng Yên, Vietnam",
+        "latitude": 20.6987585,
+        "longitude": 106.07324179999999
+    },
+    {
+        "category": "gardens",
+        "title": "Hoangkhoan Garden",
+        "rating": null,
+        "address": "Thủ Sĩ, Tiên Lữ, Hưng Yên 16000, Vietnam",
+        "latitude": 20.649282499999998,
+        "longitude": 106.09619839999999
+    },
+    {
+        "category": "gardens",
+        "title": "Vườn nhãn đường phèn quả Vuông Vương Đức",
+        "rating": null,
+        "address": "8 Nễ Châu, Hồng Nam, Hưng Yên, Vietnam",
+        "latitude": 20.635696,
+        "longitude": 106.06742539999999
+    },
+    {
+        "category": "gardens",
+        "title": "Nhà vườn Hồng Anh Bonsai",
+        "rating": 5,
+        "address": "J3FM+FVV, Nễ Châu, Hồng Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6237317,
+        "longitude": 106.0846851
+    },
+    {
+        "category": "gardens",
+        "title": "Haiyen Trần",
+        "rating": null,
+        "address": "Khu đô thị Đại học Phố Hiến, Hưng Yên, Vietnam",
+        "latitude": 20.6509151,
+        "longitude": 106.08302359999999
+    },
+    {
+        "category": "gardens",
+        "title": "Vườn Hoa Chéo",
+        "rating": 4.5,
+        "address": "M3R5+QHJ, Thôn Tiền Thắng, Bảo Khê, Hưng Yên, Vietnam",
+        "latitude": 20.691959,
+        "longitude": 106.0588806
+    },
+    {
+        "category": "zoo",
+        "title": "Hanoi Zoo",
+        "rating": 4.1,
+        "address": "Đ. Bưởi, Thủ Lệ, Ba Đình, Hà Nội 100000, Vietnam",
+        "latitude": 21.0312676,
+        "longitude": 105.80369689999999
+    },
+    {
+        "category": "zoo",
+        "title": "Cúc họa mi",
+        "rating": null,
+        "address": "M335+V4H, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.6546819,
+        "longitude": 106.05784899999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "VinWonders Wave Park",
+        "rating": 4.9,
+        "address": "XX2M+HHX, Nghĩa Trụ, Văn Giang, Hưng Yên, Vietnam",
+        "latitude": 20.9520366,
+        "longitude": 105.98378439999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Billiards Clup Thuận BéoO",
+        "rating": 5,
+        "address": "M3MH+744, Tính Linh, Hưng Yên, 160000, Vietnam",
+        "latitude": 20.6836164,
+        "longitude": 106.07817
+    },
+    {
+        "category": "adventure parks",
+        "title": "Khu vui chơi trẻ em JOLION",
+        "rating": 4.8,
+        "address": "601 Nguyễn Văn Linh, P. An Tảo, Hưng Yên, 17000, Vietnam",
+        "latitude": 20.6699377,
+        "longitude": 106.0594854
+    },
+    {
+        "category": "adventure parks",
+        "title": "VinWonders Water Park",
+        "rating": 4.8,
+        "address": "Đường D25, Vinhomes Ocean Park 3, Văn Giang, Hưng Yên 17000, Vietnam",
+        "latitude": 20.956486299999998,
+        "longitude": 105.97710079999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "VinWonders Vũ Yên",
+        "rating": 4.5,
+        "address": "Đảo, Vũ Yên, Hải An, Hải Phòng 180000, Vietnam",
+        "latitude": 20.8705659,
+        "longitude": 106.7492867
+    },
+    {
+        "category": "adventure parks",
+        "title": "Trung tâm giáo trí Funny Kids - GO! Hưng Yên",
+        "rating": 1,
+        "address": "204 Tô Hiệu, Lê Lợi, Hưng Yên, 160000, Vietnam",
+        "latitude": 20.6535771,
+        "longitude": 106.0630149
+    },
+    {
+        "category": "hot springs",
+        "title": "Tram Tau Hot Spring",
+        "rating": 4.2,
+        "address": "Tổ dân phố 3, Trạm Tấu, Yên Bái, Vietnam",
+        "latitude": 21.4573555,
+        "longitude": 104.3825325
+    },
+    {
+        "category": "hot springs",
+        "title": "LE CHAMP TU LE RESORT HOT SPRING & SPA",
+        "rating": 4.6,
+        "address": "Nuoc Nong Village, QL32 Commune, Tú Lệ, Văn Chấn, Lào Cai, Vietnam",
+        "latitude": 21.7884638,
+        "longitude": 104.31096389999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Khu Du Lịch Suối Khoáng Kim Bôi",
+        "rating": 3.9,
+        "address": "MGV4+Q57, Khu, Mớ Đá, Kim Bôi, Hòa Bình 36000, Vietnam",
+        "latitude": 20.6947075,
+        "longitude": 105.5089426
+    },
+    {
+        "category": "hot springs",
+        "title": "Bo Am Hot Springs",
+        "rating": 4.3,
+        "address": "6 Cũ, Chiềng Yên, Mộc Châu, Sơn La, Vietnam",
+        "latitude": 20.7563531,
+        "longitude": 104.9711815
+    },
+    {
+        "category": "hot springs",
+        "title": "Binh Chau Hot Spring Resort",
+        "rating": 4,
+        "address": "Suối nước nóng Bình Châu, Bình Châu, Xuyên Mộc, Bà Rịa - Vũng Tàu 790000, Vietnam",
+        "latitude": 10.6012088,
+        "longitude": 107.55924859999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Minera Hot Springs Binh Chau",
+        "rating": 4.1,
+        "address": "Quốc lộ 55, Bình Châu, Xuyên Mộc, Bà Rịa - Vũng Tàu, Vietnam",
+        "latitude": 10.6029375,
+        "longitude": 107.5584375
+    },
+    {
+        "category": "hot springs",
+        "title": "Serena Resort Kim Bôi",
+        "rating": 4.4,
+        "address": "Thôn Khai Đồi, Kim Bôi, Phú Thọ 355100, Vietnam",
+        "latitude": 20.592014,
+        "longitude": 105.58953129999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Hot mineral springs I-Resort Nha Trang",
+        "rating": 4.3,
+        "address": "75CG+X3W, Tổ 19, thôn Xuân Ngọc, Vĩnh Ngọc, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.273191599999999,
+        "longitude": 109.17577779999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Bang Onsen Spa & Resort",
+        "rating": 4.3,
+        "address": "Kim Thuỷ, Lệ Thủy, Quảng Bình 47800, Vietnam",
+        "latitude": 17.083502,
+        "longitude": 106.75599849999999
+    },
+    {
+        "category": "hot springs",
+        "title": "YOKO ONSEN QUANG HANH",
+        "rating": 4.7,
+        "address": "Tổ 5, khu 9B, Cẩm Phả, Quảng Ninh, Vietnam",
+        "latitude": 20.9821279,
+        "longitude": 107.2030352
+    },
+    {
+        "category": "hot springs",
+        "title": "Alba Thanh Tan Hot Spring",
+        "rating": 4,
+        "address": "Công Thành, Phong Thái, Phong Điền, Thành phố Huế, Vietnam",
+        "latitude": 16.4905977,
+        "longitude": 107.3823821
+    },
+    {
+        "category": "hot springs",
+        "title": "Nem nướng Nha Trang Hà Béo",
+        "rating": 2.7,
+        "address": "41 Ngô Tất Tố, P. An Tảo, Hưng Yên, Vietnam",
+        "latitude": 20.668684199999998,
+        "longitude": 106.0599372
+    },
+    {
+        "category": "hot springs",
+        "title": "Ohayo Onsen Spa",
+        "rating": 3.7,
+        "address": "573J+PW7, Bảo Yên, Thanh Thủy, Phú Thọ, Vietnam",
+        "latitude": 21.1543125,
+        "longitude": 105.28231249999999
+    },
+    {
+        "category": "hot springs",
+        "title": "VResort Kim Bôi",
+        "rating": 3.8,
+        "address": "Kim Đức, Kim Bôi, Hòa Bình, Vietnam",
+        "latitude": 20.749782399999997,
+        "longitude": 105.4604682
+    },
+    {
+        "category": "hot springs",
+        "title": "Bún Bò Huế O Yến",
+        "rating": 5,
+        "address": "M3JJ+V26, Chợ Đầu, Hưng Yên, Vietnam",
+        "latitude": 20.682187499999998,
+        "longitude": 106.0800625
+    },
+    {
+        "category": "hot springs",
+        "title": "Công viên suối khoáng nóng HAMYA",
+        "rating": 4.1,
+        "address": "Mỹ Thạnh Bắc, Nghĩa Thuận, Tư Nghĩa, Quảng Ngãi, Vietnam",
+        "latitude": 15.1311664,
+        "longitude": 108.7331092
+    },
+    {
+        "category": "hot springs",
+        "title": "Đầm Vân Long",
+        "rating": 4.2,
+        "address": "Gia Vân, Gia Viễn, Ninh Bình, Vietnam",
+        "latitude": 20.3662167,
+        "longitude": 105.8799129
+    },
+    {
+        "category": "hot springs",
+        "title": "Mui Ne Hot Spring Center",
+        "rating": 4.3,
+        "address": "Vietnam, Bình Thuận, Thành phố Phan Thiết, Hàm Tiến, khu phố 1, Nguyễn Đình Chiểu",
+        "latitude": 10.9533197,
+        "longitude": 108.21321689999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Bún Thang Quán Đảo Cò",
+        "rating": 4.2,
+        "address": "17 Nguyễn Công Hoan, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.650295399999997,
+        "longitude": 106.0562142
+    },
+    {
+        "category": "hot springs",
+        "title": "Nhà Hàng Hải Lăng (máy lạnh, wifi)",
+        "rating": 4.1,
+        "address": "Phương Chiểu, Tiên Lữ, Hưng Yên 17000, Vietnam",
+        "latitude": 20.637997499999997,
+        "longitude": 106.0908666
+    },
+    {
+        "category": "shopping malls",
+        "title": "GO! Hưng Yên",
+        "rating": 4.2,
+        "address": "204 Tô Hiệu, Lê Lợi, Hưng Yên, 160000, Vietnam",
+        "latitude": 20.654895,
+        "longitude": 106.05970579999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "TRUNG TÂM MUA SẮM ĐỊNH LẬP",
+        "rating": 4.4,
+        "address": "M3XP+XQ5, Cao Đông, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6998998,
+        "longitude": 106.0869724
+    },
+    {
+        "category": "shopping malls",
+        "title": "Hưng Hà Mart",
+        "rating": 5,
+        "address": "P356+FX8, Unnamed Road, Hiệp Cường, Hưng Yên, Vietnam",
+        "latitude": 20.708661199999998,
+        "longitude": 106.0624397
+    },
+    {
+        "category": "shopping malls",
+        "title": "TOKYOLIFE Hưng Yên",
+        "rating": 3.9,
+        "address": "44 Điện Biên, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.653295399999998,
+        "longitude": 106.05761269999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "CTCP PHÁ DỠ HƯNG YÊN",
+        "rating": 4.4,
+        "address": "J3WH+FGG, QL39A, Liên Phương, Hưng Yên, Vietnam",
+        "latitude": 20.6461818,
+        "longitude": 106.0788257
+    },
+    {
+        "category": "shopping malls",
+        "title": "Chợ cời - Phú Cường",
+        "rating": 4,
+        "address": "Đường Trục 2, Tân Mỹ 2, Kim Động, Hưng Yên, Vietnam",
+        "latitude": 20.6953857,
+        "longitude": 106.0292728
+    },
+    {
+        "category": "shopping malls",
+        "title": "Cửa hàng Viettel Kim Động",
+        "rating": 4.3,
+        "address": "P3P5+74W, Nguyễn Lương Bằng, Lương Bằng, Kim Động, Hưng Yên, Vietnam",
+        "latitude": 20.735737,
+        "longitude": 106.0578393
+    },
+    {
+        "category": "shopping malls",
+        "title": "Vị Market",
+        "rating": 4.8,
+        "address": "J3PV+Q35, Phương Chiểu, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.636898,
+        "longitude": 106.0927378
+    },
+    {
+        "category": "shopping malls",
+        "title": "Trung Tâm Thương Mại - Chợ Tiên Lữ Hưng Yên",
+        "rating": 4.2,
+        "address": "J3X4+3R6, Phố Giác, Quang Trung, Tiên Lữ, Hưng Yên 160000, Vietnam",
+        "latitude": 20.6476674,
+        "longitude": 106.05702749999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Như Quỳnh Center",
+        "rating": 4.4,
+        "address": "TT. Như Quỳnh, Văn Lâm, Hưng Yên, Vietnam",
+        "latitude": 20.981516799999998,
+        "longitude": 105.9836289
+    },
+    {
+        "category": "shopping malls",
+        "title": "Aeon Mall Long Bien",
+        "rating": 4.6,
+        "address": "27 Đ. Cổ Linh, Long Biên, Hà Nội, Vietnam",
+        "latitude": 21.0274359,
+        "longitude": 105.8987956
+    },
+    {
+        "category": "shopping malls",
+        "title": "Mini Mart Kien Anh",
+        "rating": 5,
+        "address": "J3X3+79M, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.648223299999998,
+        "longitude": 106.05342569999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "PNJ 25A - 25B Điện Biên, Hưng Yên",
+        "rating": 5,
+        "address": "25A-25B Điện Biên, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.653672999999998,
+        "longitude": 106.0579108
+    },
+    {
+        "category": "shopping malls",
+        "title": "Cửa hàng thời trang YODY",
+        "rating": 4.9,
+        "address": "24 Điện Biên, Phường Phố Hiến, Hưng Yên, 161080, Vietnam",
+        "latitude": 20.6539081,
+        "longitude": 106.0576507
+    },
+    {
+        "category": "shopping malls",
+        "title": "Chợ Phố Hiến",
+        "rating": 4.2,
+        "address": "J3X5+F96, Phố Hiến, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.6486652,
+        "longitude": 106.0583904
+    },
+    {
+        "category": "shopping malls",
+        "title": "Chợ Dốc Lã",
+        "rating": 4.3,
+        "address": "QL39A, Đoàn Kết, Hưng Yên, Vietnam",
+        "latitude": 20.704889299999998,
+        "longitude": 106.05514529999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "BÁCH HÓA THANH NHÀN",
+        "rating": 4.5,
+        "address": "Số 44 Phố Nguyễn Thiện Thuật, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.6492827,
+        "longitude": 106.0544948
+    },
+    {
+        "category": "shopping malls",
+        "title": "Xóm Tây Lĩnh",
+        "rating": 3.6,
+        "address": "M39W+492, Unnamed, Road, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6677689,
+        "longitude": 106.0959005
+    },
+    {
+        "category": "shopping malls",
+        "title": "Tạp Hóa Hải My",
+        "rating": 3.4,
+        "address": "29 Tô Hiệu, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.651987,
+        "longitude": 106.06651389999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Chợ Ba Hàng",
+        "rating": 4,
+        "address": "Khu đô thị Đại học Phố Hiến, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6471156,
+        "longitude": 106.10318509999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Hung Yen Citadel",
+        "rating": 4.4,
+        "address": "Đường Phạm Ngũ Lão, Quang Trung, Hưng Yên, Vietnam",
+        "latitude": 20.6461537,
+        "longitude": 106.0598256
+    },
+    {
+        "category": "historical sites",
+        "title": "Temple of Literature Xich Dang",
+        "rating": 4.6,
+        "address": "Lê Quý Đôn, P. Lam Sơn, Hưng Yên, Vietnam",
+        "latitude": 20.6622448,
+        "longitude": 106.0492273
+    },
+    {
+        "category": "historical sites",
+        "title": "Mau Temple",
+        "rating": 4.7,
+        "address": "141 Bãi Sậy, Quang Trung, Hưng Yên, 160000, Vietnam",
+        "latitude": 20.6444187,
+        "longitude": 106.05449109999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Historical Museum of Hung Yen Province",
+        "rating": 4.5,
+        "address": "Phạm Bạch Hổ, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6580159,
+        "longitude": 106.0502834
+    },
+    {
+        "category": "historical sites",
+        "title": "Du Lịch Phố Hiến",
+        "rating": 4.4,
+        "address": "Đường Điện Biên 2, Hồng Châu, Hưng Yên, Vietnam",
+        "latitude": 20.6409521,
+        "longitude": 106.05689609999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Cây Đa Năm Chân",
+        "rating": 4.5,
+        "address": "Đội 9 thôn, Phương Thông, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6444416,
+        "longitude": 106.0977678
+    },
+    {
+        "category": "historical sites",
+        "title": "Di tích Lăng mộ Huệ Dung Công Chúa",
+        "rating": null,
+        "address": "M3VW+493, Phượng Tường, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.691924999999998,
+        "longitude": 106.09639
+    },
+    {
+        "category": "historical sites",
+        "title": "Di tích cây xà cừ",
+        "rating": 4.8,
+        "address": "M4V4+MCM, Ngô Quyền, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.694218499999998,
+        "longitude": 106.10604959999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Chùa trà Hưng Yên",
+        "rating": 5,
+        "address": "J3JV+9F9, Tân Hưng, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.631611,
+        "longitude": 106.093971
+    },
+    {
+        "category": "historical sites",
+        "title": "Cây đa Làng Lê",
+        "rating": 5,
+        "address": "J4P2+5G4, Thủ Sĩ, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.6353989,
+        "longitude": 106.1013198
+    },
+    {
+        "category": "historical sites",
+        "title": "Chu Dong Tu Temple",
+        "rating": 4.4,
+        "address": "Thôn, Yên Vĩnh, Khoái Châu, Hưng Yên, Vietnam",
+        "latitude": 20.8642337,
+        "longitude": 105.9479063
+    },
+    {
+        "category": "historical sites",
+        "title": "Đình làng Nội Mai",
+        "rating": 4.2,
+        "address": "M4F2+P5X, Khu đô thị Đại học Phố Hiến, Tiên Lữ, Hưng Yên, Vietnam",
+        "latitude": 20.674357,
+        "longitude": 106.10048549999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Cây xanh An Dương",
+        "rating": 5,
+        "address": "M399+FFW, Chu Văn An, Đinh Tiên Hoàng, Hưng Yên, Vietnam",
+        "latitude": 20.668923799999998,
+        "longitude": 106.0689915
+    },
+    {
+        "category": "historical sites",
+        "title": "Giếng cổ đền bà Đào Nương",
+        "rating": null,
+        "address": "14 Đào Đặng, Trung Nghĩa, Hưng Yên, Vietnam",
+        "latitude": 20.6792098,
+        "longitude": 106.07690889999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Phòng tranh Họa sỹ Văn Quân",
+        "rating": 5,
+        "address": "18 Phạm Huy Thông, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.650530699999997,
+        "longitude": 106.0541971
+    },
+    {
+        "category": "art galleries",
+        "title": "The Muse Art Space",
+        "rating": 4.9,
+        "address": "47 Tràng Tiền, Hoàn Kiếm, Hà Nội, Vietnam",
+        "latitude": 21.0251184,
+        "longitude": 105.85403249999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Art Vietnam Gallery",
+        "rating": 4.5,
+        "address": "2 Ng. 66 P. Yên Lạc, Thanh Lương, Hai Bà Trưng, Hà Nội 888880, Vietnam",
+        "latitude": 21.0006882,
+        "longitude": 105.86375319999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Thang Long Art Gallery",
+        "rating": 4.8,
+        "address": "41 P. Hàng Gai, Hàng Gai, Hoàn Kiếm, Hà Nội, Vietnam",
+        "latitude": 21.0321084,
+        "longitude": 105.8505108
+    },
+    {
+        "category": "art galleries",
+        "title": "Nguyen Art Gallery",
+        "rating": 4.6,
+        "address": "31A P. Văn Miếu, Văn Miếu – Quốc Tử Giám, Đống Đa, Hà Nội 100000, Vietnam",
+        "latitude": 21.028558699999998,
+        "longitude": 105.8364668
+    },
+    {
+        "category": "art galleries",
+        "title": "E Tễu Gallery",
+        "rating": 5,
+        "address": "Khu đô thị Ecopark, Văn Giang, Hưng Yên, Vietnam",
+        "latitude": 20.9690437,
+        "longitude": 105.922679
+    },
+    {
+        "category": "theaters",
+        "title": "Rạp Phố Hiến",
+        "rating": 3.6,
+        "address": "01 Phố Nguyễn Thiện Thuật, Lê Lợi, Hưng Yên, Vietnam",
+        "latitude": 20.6492476,
+        "longitude": 106.0570154
+    },
+    {
+        "category": "theaters",
+        "title": "Nhà hát Chèo Hưng Yên",
+        "rating": 5,
+        "address": "M345+WX5, P. Hiền Nam, Hưng Yên, Vietnam",
+        "latitude": 20.6572705,
+        "longitude": 106.0599718
+    }
+]

@@ -1,0 +1,3898 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Prague Astronomical Clock",
+        "rating": 4.7,
+        "address": "Staroměstské nám. 1, 110 00 Josefov, Czechia",
+        "latitude": 50.0870215,
+        "longitude": 14.4207065
+    },
+    {
+        "category": "tourist attractions",
+        "title": "St. Vitus Cathedral",
+        "rating": 4.8,
+        "address": "III. nádvoří 48/2, 119 01 Praha 1-Hradčany, Czechia",
+        "latitude": 50.090891799999994,
+        "longitude": 14.4005114
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Prague Castle",
+        "rating": 4.7,
+        "address": "Hradčany, 119 08 Praha 1, Czechia",
+        "latitude": 50.0910966,
+        "longitude": 14.4016165
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Charles Bridge",
+        "rating": 4.8,
+        "address": "Karlův most, 110 00 Praha 1, Czechia",
+        "latitude": 50.086477099999996,
+        "longitude": 14.4114366
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Obelisk at Prague Castle",
+        "rating": 4.6,
+        "address": "Třetí nádvoří Pražského hradu, 119 00 Praha 1-Hradčany, Czechia",
+        "latitude": 50.0902508,
+        "longitude": 14.4000615
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Prague Visitor Pass",
+        "rating": 4.6,
+        "address": "Staroměstské nám. 1, 110 00 Josefov, Czechia",
+        "latitude": 50.086634,
+        "longitude": 14.419939999999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Old Town Square",
+        "rating": 4.8,
+        "address": "Staroměstské nám., 110 00 Josefov, Czechia",
+        "latitude": 50.0875692,
+        "longitude": 14.421187499999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Strahov Monastery",
+        "rating": 4.5,
+        "address": "Strahovské nádvoří 1/132, 118 00 Praha 1-Strahov, Czechia",
+        "latitude": 50.0861478,
+        "longitude": 14.389251499999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Vyšehrad",
+        "rating": 4.8,
+        "address": "V Pevnosti 163/2, 128 00 Praha 2-Vyšehrad, Czechia",
+        "latitude": 50.062805499999996,
+        "longitude": 14.422155199999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Prague Metronome",
+        "rating": 4.3,
+        "address": "nábř. E. Beneše, 118 00 Praha 7-Letná, Czechia",
+        "latitude": 50.094744,
+        "longitude": 14.4159407
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Old Town Bridge Tower",
+        "rating": 4.8,
+        "address": "Karlův most, 110 00 Praha 1, Czechia",
+        "latitude": 50.0862306,
+        "longitude": 14.4136141
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Story of Prague Castle",
+        "rating": 4.2,
+        "address": "nám. U Svatého Jiří, 119 00 Praha 1-Hradčany, Czechia",
+        "latitude": 50.0907481,
+        "longitude": 14.401836999999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Žižkov Television Tower",
+        "rating": 4.4,
+        "address": "Mahlerovy sady 1, 130 00 Praha 3-Žižkov, Czechia",
+        "latitude": 50.0810526,
+        "longitude": 14.4511741
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Kohl's Fountain",
+        "rating": 4.6,
+        "address": "Druhé nádvoří Pražského hradu, 119 00 Praha 1-Hradčany, Czechia",
+        "latitude": 50.090349499999995,
+        "longitude": 14.399009399999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hradcany Square",
+        "rating": 4.7,
+        "address": "Hradčany, 118 00 Praha 1, Czechia",
+        "latitude": 50.089583499999996,
+        "longitude": 14.396034499999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Old Castle Stairs",
+        "rating": 4.7,
+        "address": "Staré zámecké schody, 118 00 Malá Strana, Czechia",
+        "latitude": 50.092116999999995,
+        "longitude": 14.4076822
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Lennon Wall",
+        "rating": 4.1,
+        "address": "Velkopřevorské nám., 118 00 Malá Strana, Czechia",
+        "latitude": 50.0862506,
+        "longitude": 14.406791799999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Prague Meridian",
+        "rating": 4.7,
+        "address": "Staroměstské nám., 110 00 Josefov, Czechia",
+        "latitude": 50.087468099999995,
+        "longitude": 14.421342
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Petrin Tower",
+        "rating": 4.5,
+        "address": "Petřínské sady 633, 118 00 Praha 1-Malá Strana, Czechia",
+        "latitude": 50.083527,
+        "longitude": 14.3950836
+    },
+    {
+        "category": "tourist attractions",
+        "title": "National Museum",
+        "rating": 4.6,
+        "address": "Václavské nám. 68, 110 00 Nové Město, Czechia",
+        "latitude": 50.078970399999996,
+        "longitude": 14.430936899999999
+    },
+    {
+        "category": "parks",
+        "title": "Letna Park",
+        "rating": 4.7,
+        "address": "Letná, 170 00 Praha 7, Czechia",
+        "latitude": 50.0959864,
+        "longitude": 14.4152831
+    },
+    {
+        "category": "parks",
+        "title": "Kampa Park",
+        "rating": 4.7,
+        "address": "Malá Strana, 118 00 Praha 1, Czechia",
+        "latitude": 50.0838678,
+        "longitude": 14.407841699999999
+    },
+    {
+        "category": "parks",
+        "title": "Petřín Gardens",
+        "rating": 4.6,
+        "address": "Petřínské sady 118 00, 118 00 Praha 1-Malá Strana, Czechia",
+        "latitude": 50.0827039,
+        "longitude": 14.3987325
+    },
+    {
+        "category": "parks",
+        "title": "Nature Park Draháň-Troja",
+        "rating": 4.7,
+        "address": "Bohnice, 181 00 Praha, Czechia",
+        "latitude": 50.1433925,
+        "longitude": 14.4045062
+    },
+    {
+        "category": "parks",
+        "title": "Královská obora Stromovka",
+        "rating": 4.8,
+        "address": "Královská obora, Bubeneč, 170 00 Praha 7, Czechia",
+        "latitude": 50.1063295,
+        "longitude": 14.419128899999999
+    },
+    {
+        "category": "parks",
+        "title": "Vojanovy sady",
+        "rating": 4.7,
+        "address": "U Lužického semináře, 118 00 Malá Strana, Czechia",
+        "latitude": 50.088875599999994,
+        "longitude": 14.4090669
+    },
+    {
+        "category": "parks",
+        "title": "Malešice park",
+        "rating": 4.7,
+        "address": "Akademická 688/1, 108 00 Praha 10, Czechia",
+        "latitude": 50.0850143,
+        "longitude": 14.499155
+    },
+    {
+        "category": "parks",
+        "title": "Přírodní park Šárka - Lysolaje",
+        "rating": 4.7,
+        "address": "Praha 6, Czechia",
+        "latitude": 50.1078523,
+        "longitude": 14.3492818
+    },
+    {
+        "category": "parks",
+        "title": "Letenské sady",
+        "rating": 4.7,
+        "address": "Czech Republic, Letenské sady 1503, 170 00 Praha, Czechia",
+        "latitude": 50.096529999999994,
+        "longitude": 14.4275399
+    },
+    {
+        "category": "parks",
+        "title": "Rajská Zahrada",
+        "rating": 4.6,
+        "address": "U Rajské zahrady, 130 00 Praha 3-Žižkov, Czechia",
+        "latitude": 50.0824462,
+        "longitude": 14.4428617
+    },
+    {
+        "category": "parks",
+        "title": "Central Park Prague",
+        "rating": 4.6,
+        "address": "Nová kolonie, 155 00 Stodůlky, Czechia",
+        "latitude": 50.046468499999996,
+        "longitude": 14.3350326
+    },
+    {
+        "category": "parks",
+        "title": "Riegrovy Sady",
+        "rating": 4.7,
+        "address": "Vinohrady, 120 00 Praha 2, Czechia",
+        "latitude": 50.0802844,
+        "longitude": 14.441560599999999
+    },
+    {
+        "category": "parks",
+        "title": "Kinsky Garden",
+        "rating": 4.7,
+        "address": "Petřín, 150 00 Praha 5, Czechia",
+        "latitude": 50.079558,
+        "longitude": 14.398720299999999
+    },
+    {
+        "category": "parks",
+        "title": "Friendship Park",
+        "rating": 4.6,
+        "address": "Prosek, 190 00 Praha 9, Czechia",
+        "latitude": 50.121987399999995,
+        "longitude": 14.496004999999998
+    },
+    {
+        "category": "parks",
+        "title": "Grébovka (Havlíčkovy sady)",
+        "rating": 4.8,
+        "address": "Havlíčkovy sady, 120 00 Praha 2-Vinohrady, Czechia",
+        "latitude": 50.0694696,
+        "longitude": 14.444992099999999
+    },
+    {
+        "category": "parks",
+        "title": "Fürstenberg Garden",
+        "rating": 4.5,
+        "address": "Hrad, 119 08 Malá Strana, Czechia",
+        "latitude": 50.0917159,
+        "longitude": 14.406762299999999
+    },
+    {
+        "category": "parks",
+        "title": "Nature Park Hostivař-Záběhlice",
+        "rating": 4.5,
+        "address": "Záveská 871/2, 102 00 Praha 15-Hostivař, Czechia",
+        "latitude": 50.0424089,
+        "longitude": 14.5305644
+    },
+    {
+        "category": "parks",
+        "title": "Divoká Šárka",
+        "rating": 4.8,
+        "address": "116 00 Praha 6, Czechia",
+        "latitude": 50.0933016,
+        "longitude": 14.325003899999999
+    },
+    {
+        "category": "parks",
+        "title": "The Lost Garden",
+        "rating": 4.7,
+        "address": "Schody, 128 00 Nové Město, Czechia",
+        "latitude": 50.068289299999996,
+        "longitude": 14.4265171
+    },
+    {
+        "category": "parks",
+        "title": "Přírodní park Botič - Milíčov",
+        "rating": 4.5,
+        "address": "K Pitkovicům 273, 103 00 Praha, Czechia",
+        "latitude": 50.0168675,
+        "longitude": 14.555790499999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Mlýnec",
+        "rating": 4.7,
+        "address": "Novotného lávka 9, 110 00 Staré Město, Czechia",
+        "latitude": 50.085420899999995,
+        "longitude": 14.413601
+    },
+    {
+        "category": "restaurants",
+        "title": "Czech Slovak Restaurant",
+        "rating": 4.7,
+        "address": "20, Újezd 423, Malá Strana, 118 00 Praha 1, Czechia",
+        "latitude": 50.0817729,
+        "longitude": 14.4046314
+    },
+    {
+        "category": "restaurants",
+        "title": "Le Grill Restaurant",
+        "rating": 4.6,
+        "address": "12, Hybernská 1002, Nové Město, 110 00 Praha 1, Czechia",
+        "latitude": 50.087078899999995,
+        "longitude": 14.4313785
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Zvonice",
+        "rating": 4.5,
+        "address": "Jindřišská 33, 110 00 Nové Město, Czechia",
+        "latitude": 50.085102299999996,
+        "longitude": 14.4300391
+    },
+    {
+        "category": "restaurants",
+        "title": "Lokál Dlouhááá",
+        "rating": 4.4,
+        "address": "Dlouhá 33, 110 00 Staré Město, Czechia",
+        "latitude": 50.090693099999996,
+        "longitude": 14.4257574
+    },
+    {
+        "category": "restaurants",
+        "title": "Husinec restaurace",
+        "rating": 4.6,
+        "address": "Mezibranská 1450/13, 110 00 Nové Město, Czechia",
+        "latitude": 50.0784759,
+        "longitude": 14.429355099999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Pod Věží",
+        "rating": 4.6,
+        "address": "Mostecká 58/2, 118 00 Malá Strana, Czechia",
+        "latitude": 50.0873922,
+        "longitude": 14.406730999999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Kantýna",
+        "rating": 4.6,
+        "address": "Politických vězňů 1511/5, 110 00 Nové Město, Czechia",
+        "latitude": 50.0835041,
+        "longitude": 14.4289189
+    },
+    {
+        "category": "restaurants",
+        "title": "U Kroka",
+        "rating": 4.7,
+        "address": "Vratislavova 28/12, 128 00 Praha 2, Czechia",
+        "latitude": 50.066610399999995,
+        "longitude": 14.4179642
+    },
+    {
+        "category": "restaurants",
+        "title": "Mediterranean Restaurant & Bistro Antonio Sandev",
+        "rating": 4.7,
+        "address": "Skořepka 355/2, 110 00 Staré Město, Czechia",
+        "latitude": 50.0837967,
+        "longitude": 14.4187534
+    },
+    {
+        "category": "restaurants",
+        "title": "Vallmo restaurant",
+        "rating": 4.8,
+        "address": "Plavecká 404/4, 128 00 Nové Město, Czechia",
+        "latitude": 50.069112999999994,
+        "longitude": 14.4153218
+    },
+    {
+        "category": "restaurants",
+        "title": "Jaffa restaurant",
+        "rating": 4.7,
+        "address": "Panská 4, 110 00 Staré Město, Czechia",
+        "latitude": 50.0846508,
+        "longitude": 14.426407099999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Terasa U Zlaté studně",
+        "rating": 4.6,
+        "address": "U Zlaté studně 166 /4, 118 00 Malá Strana, Czechia",
+        "latitude": 50.090944199999996,
+        "longitude": 14.4044984
+    },
+    {
+        "category": "restaurants",
+        "title": "SOVA restaurant",
+        "rating": 4.7,
+        "address": "Veleslavínova 10, 110 00 Josefov, Czechia",
+        "latitude": 50.087803799999996,
+        "longitude": 14.416334899999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Alcron Restaurant",
+        "rating": 4.7,
+        "address": "Štěpánská 623/40, 110 00 Nové Město, Czechia",
+        "latitude": 50.0799753,
+        "longitude": 14.4267804
+    },
+    {
+        "category": "restaurants",
+        "title": "La Republica Restaurant",
+        "rating": 4.2,
+        "address": "Na Poříčí 1041/12, 110 00 Nové Město, Czechia",
+        "latitude": 50.0891332,
+        "longitude": 14.4311669
+    },
+    {
+        "category": "restaurants",
+        "title": "CottoCrudo Restaurant & Bar",
+        "rating": 4.5,
+        "address": "Veleslavínova 1098/2a, 110 00 Josefov, Czechia",
+        "latitude": 50.087802599999996,
+        "longitude": 14.414476299999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Agave Restaurant",
+        "rating": 4.5,
+        "address": "2, Masná 620/2, Staré Město, 110 00 Praha, Czechia",
+        "latitude": 50.0892682,
+        "longitude": 14.423191699999999
+    },
+    {
+        "category": "restaurants",
+        "title": "ZEM Prague",
+        "rating": 4.5,
+        "address": "Senovážné nám. 976/32, 110 00 Nové Město, Czechia",
+        "latitude": 50.085772999999996,
+        "longitude": 14.430816799999999
+    },
+    {
+        "category": "restaurants",
+        "title": "BEEF BAR",
+        "rating": 4.7,
+        "address": "Na Perštýně 10, 110 00 Staré Město, Czechia",
+        "latitude": 50.0833124,
+        "longitude": 14.418910499999999
+    },
+    {
+        "category": "cafes",
+        "title": "Café Louvre",
+        "rating": 4.6,
+        "address": "Národní 22, 110 00 Nové Město, Czechia",
+        "latitude": 50.0820693,
+        "longitude": 14.4186192
+    },
+    {
+        "category": "cafes",
+        "title": "Nerudova 211 Café",
+        "rating": 4.9,
+        "address": "Nerudova 211/14, 118 00 Malá Strana, Czechia",
+        "latitude": 50.0886346,
+        "longitude": 14.4011056
+    },
+    {
+        "category": "cafes",
+        "title": "Lžička café",
+        "rating": 4.9,
+        "address": "Tržiště 12, 118 00 Malá Strana, Czechia",
+        "latitude": 50.0872915,
+        "longitude": 14.4027873
+    },
+    {
+        "category": "cafes",
+        "title": "Liberica Cafe",
+        "rating": 4.8,
+        "address": "Valentinská 10/20, 110 00 Josefov, Czechia",
+        "latitude": 50.088618999999994,
+        "longitude": 14.416881799999999
+    },
+    {
+        "category": "cafes",
+        "title": "Café Ebel",
+        "rating": 4.8,
+        "address": "Kaprova 15/11, 110 00 Staré Město, Czechia",
+        "latitude": 50.088199499999995,
+        "longitude": 14.418346
+    },
+    {
+        "category": "cafes",
+        "title": "La Bohème Café",
+        "rating": 4.5,
+        "address": "Sázavská 2031/32, 120 00 Vinohrady, Czechia",
+        "latitude": 50.0767974,
+        "longitude": 14.4407602
+    },
+    {
+        "category": "cafes",
+        "title": "Urban Café",
+        "rating": 4.5,
+        "address": "37, Na Poříčí 1061, Nové Město, 110 00 Praha, Czechia",
+        "latitude": 50.090398799999996,
+        "longitude": 14.4359319
+    },
+    {
+        "category": "cafes",
+        "title": "The Miners Coffee Old Town",
+        "rating": 4.7,
+        "address": "Železná 490/14, 110 00 Staré Město, Czechia",
+        "latitude": 50.086382099999994,
+        "longitude": 14.4218181
+    },
+    {
+        "category": "cafes",
+        "title": "Cathedral Café",
+        "rating": 4.4,
+        "address": "Týnská 11, 110 00 Staré Město, Czechia",
+        "latitude": 50.0883924,
+        "longitude": 14.423253899999999
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee and Riot",
+        "rating": 4.7,
+        "address": "Opatovická 159/17, 110 00 Nové Město, Czechia",
+        "latitude": 50.079753499999995,
+        "longitude": 14.4183141
+    },
+    {
+        "category": "cafes",
+        "title": "Mistral Cafe",
+        "rating": 4.5,
+        "address": "56, Valentinská 11, Staré Město, 110 00 Praha 1, Czechia",
+        "latitude": 50.088314999999994,
+        "longitude": 14.416279999999999
+    },
+    {
+        "category": "cafes",
+        "title": "Café Imperial",
+        "rating": 4.6,
+        "address": "Na Poříčí 1072/15, 110 00 Petrská čtvrť, Czechia",
+        "latitude": 50.089798599999995,
+        "longitude": 14.4326642
+    },
+    {
+        "category": "cafes",
+        "title": "Coco Café",
+        "rating": 4.8,
+        "address": "Náplavní 1572/11, 120 00 Nové Město, Czechia",
+        "latitude": 50.0771193,
+        "longitude": 14.4149748
+    },
+    {
+        "category": "cafes",
+        "title": "onesip coffee",
+        "rating": 4.8,
+        "address": "Haštalská 755 /15, 110 00 Staré Město, Czechia",
+        "latitude": 50.0912818,
+        "longitude": 14.425392899999999
+    },
+    {
+        "category": "cafes",
+        "title": "Café Jen",
+        "rating": 4.7,
+        "address": "Kodaňská 37, 101 00 Praha 10-Vršovice, Czechia",
+        "latitude": 50.071399,
+        "longitude": 14.4559307
+    },
+    {
+        "category": "cafes",
+        "title": "CHOCAFÉ",
+        "rating": 4.6,
+        "address": "Spálená 8/80, 110 00 Nové Město, Czechia",
+        "latitude": 50.0799452,
+        "longitude": 14.4198493
+    },
+    {
+        "category": "cafes",
+        "title": "IPPA Café Tylovo Náměstí",
+        "rating": 4.5,
+        "address": "Tylovo Nám. 2, 120 00 Vinohrady, Czechia",
+        "latitude": 50.0744288,
+        "longitude": 14.432078899999999
+    },
+    {
+        "category": "cafes",
+        "title": "Sicily café",
+        "rating": 4.5,
+        "address": "Senovážné nám. 994/2, 110 00 Nové Město, Czechia",
+        "latitude": 50.0858211,
+        "longitude": 14.429673099999999
+    },
+    {
+        "category": "cafes",
+        "title": "Version Coffee",
+        "rating": 4.7,
+        "address": "Anglická 529/15, 120 00 Praha 2-Vinohrady, Czechia",
+        "latitude": 50.0767525,
+        "longitude": 14.433394499999999
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Letka",
+        "rating": 4.5,
+        "address": "Letohradská 44, 170 00 Praha 7-Letná, Czechia",
+        "latitude": 50.098240499999996,
+        "longitude": 14.425372099999999
+    },
+    {
+        "category": "mountains",
+        "title": "Petřín",
+        "rating": 4.6,
+        "address": "Strahov, 169 00 Prague 6, Czechia",
+        "latitude": 50.0813889,
+        "longitude": 14.393888899999999
+    },
+    {
+        "category": "mountains",
+        "title": "Vítkov",
+        "rating": 4.7,
+        "address": "Žižkov, 130 00 Prague 3, Czechia",
+        "latitude": 50.089166999999996,
+        "longitude": 14.452221999999999
+    },
+    {
+        "category": "mountains",
+        "title": "Letná",
+        "rating": 4.7,
+        "address": "170 00 Prague 7, Czechia",
+        "latitude": 50.099444,
+        "longitude": 14.4208331
+    },
+    {
+        "category": "mountains",
+        "title": "Bila Hora",
+        "rating": 4.4,
+        "address": "161 00 Prague 6, Czechia",
+        "latitude": 50.078888899999995,
+        "longitude": 14.319166699999998
+    },
+    {
+        "category": "mountains",
+        "title": "Milíčovský",
+        "rating": 5,
+        "address": "Újezd u Průhonic, 149 00 Praha 415, Czechia",
+        "latitude": 50.023333,
+        "longitude": 14.529167
+    },
+    {
+        "category": "mountains",
+        "title": "Velká skála (Troja)",
+        "rating": 4.9,
+        "address": "181 00 Prague 8, Czechia",
+        "latitude": 50.124975,
+        "longitude": 14.425972
+    },
+    {
+        "category": "mountains",
+        "title": "Malivy",
+        "rating": null,
+        "address": "161 00 Prague 6, Czechia",
+        "latitude": 50.0891667,
+        "longitude": 14.264444399999999
+    },
+    {
+        "category": "mountains",
+        "title": "Parukářka Park",
+        "rating": 4.7,
+        "address": "Žižkov, 130 00 Prague 3, Czechia",
+        "latitude": 50.085860999999994,
+        "longitude": 14.4629999
+    },
+    {
+        "category": "mountains",
+        "title": "Mrázovka",
+        "rating": 4.6,
+        "address": "150 00 Prague 5, Czechia",
+        "latitude": 50.069722,
+        "longitude": 14.396389
+    },
+    {
+        "category": "mountains",
+        "title": "Bohdalec",
+        "rating": 4.6,
+        "address": "Vršovice, 101 00 Prague 10, Czechia",
+        "latitude": 50.059722,
+        "longitude": 14.465
+    },
+    {
+        "category": "mountains",
+        "title": "Skalka",
+        "rating": 4.5,
+        "address": "150 00 Prague 5, Czechia",
+        "latitude": 50.071512999999996,
+        "longitude": 14.363391
+    },
+    {
+        "category": "mountains",
+        "title": "Kopanina",
+        "rating": 4.5,
+        "address": "155 00 Prague 13, Czechia",
+        "latitude": 50.050332999999995,
+        "longitude": 14.301305999999999
+    },
+    {
+        "category": "mountains",
+        "title": "Ládví",
+        "rating": 4.3,
+        "address": "182 00 Ďáblice, Czechia",
+        "latitude": 50.1369444,
+        "longitude": 14.464722199999999
+    },
+    {
+        "category": "mountains",
+        "title": "Vidoule",
+        "rating": 4.7,
+        "address": "158 00 Prague 5, Czechia",
+        "latitude": 50.058889,
+        "longitude": 14.362777999999999
+    },
+    {
+        "category": "mountains",
+        "title": "Děvín",
+        "rating": 4.9,
+        "address": "152 00 Prague 5, Czechia",
+        "latitude": 50.045277999999996,
+        "longitude": 14.391667
+    },
+    {
+        "category": "mountains",
+        "title": "Paví vrch",
+        "rating": 4.8,
+        "address": "150 00 Prague 5, Czechia",
+        "latitude": 50.0628673,
+        "longitude": 14.3995111
+    },
+    {
+        "category": "mountains",
+        "title": "Dívčí skok",
+        "rating": 3.3,
+        "address": "164 00 Prague 6, Czechia",
+        "latitude": 50.1016931,
+        "longitude": 14.321343899999999
+    },
+    {
+        "category": "mountains",
+        "title": "Northern Hikes",
+        "rating": 5,
+        "address": "nám. Pod Lípou 7/7, 154 00 Slivenec, Czechia",
+        "latitude": 50.030280399999995,
+        "longitude": 14.3541765
+    },
+    {
+        "category": "mountains",
+        "title": "Kapitol",
+        "rating": null,
+        "address": "140 00 Prague 4, Czechia",
+        "latitude": 50.058807699999996,
+        "longitude": 14.4546114
+    },
+    {
+        "category": "mountains",
+        "title": "Cukrák",
+        "rating": 4.5,
+        "address": "252 02 Jíloviště, Czechia",
+        "latitude": 49.9363889,
+        "longitude": 14.355833299999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Vodopády v zahradě Kinských",
+        "rating": 4.8,
+        "address": "5, 150 00 Praha 5, Czechia",
+        "latitude": 50.077895899999994,
+        "longitude": 14.3981175
+    },
+    {
+        "category": "waterfalls",
+        "title": "Mumlava Falls",
+        "rating": 4.8,
+        "address": "512 46 Harrachov v Krkonoších, Czechia",
+        "latitude": 50.7706084,
+        "longitude": 15.453274899999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "Vodopád u rybníka Bořín",
+        "rating": 4.7,
+        "address": "252 43 Průhonice, Czechia",
+        "latitude": 49.9834366,
+        "longitude": 14.542403199999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Pekelský waterfall",
+        "rating": 4.5,
+        "address": "Pekelský potok, Ústí nad Labem, Czechia",
+        "latitude": 50.6786136,
+        "longitude": 14.075090999999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Vodopád",
+        "rating": 4.7,
+        "address": "5, 150 00 Praha 5, Czechia",
+        "latitude": 50.0779499,
+        "longitude": 14.3981406
+    },
+    {
+        "category": "waterfalls",
+        "title": "Kamieńczyk Waterfall",
+        "rating": 4.7,
+        "address": "58-580 Szklarska Poręba, Poland",
+        "latitude": 50.813646,
+        "longitude": 15.496827999999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Pancava Falls",
+        "rating": 4.8,
+        "address": "543 51 Špindlerův Mlýn, Czechia",
+        "latitude": 50.761144099999996,
+        "longitude": 15.545104799999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Kinsky Garden",
+        "rating": 4.7,
+        "address": "Petřín, 150 00 Praha 5, Czechia",
+        "latitude": 50.079558,
+        "longitude": 14.398720299999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Vaňovský vodopád",
+        "rating": 4.6,
+        "address": "Podlešínský potok, Czechia",
+        "latitude": 50.6302022,
+        "longitude": 14.0412701
+    },
+    {
+        "category": "waterfalls",
+        "title": "Vodopád na Kejné",
+        "rating": 4.2,
+        "address": "Unnamed Road, 252 30 Řevnice, Czechia",
+        "latitude": 49.900776,
+        "longitude": 14.255386999999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Všenorský vodopád",
+        "rating": 5,
+        "address": "U Dubu 398, 252 31 Všenory, Czechia",
+        "latitude": 49.9328204,
+        "longitude": 14.3058372
+    },
+    {
+        "category": "waterfalls",
+        "title": "Krňanský vodopád",
+        "rating": 4.6,
+        "address": "Třebsín 17, 257 44 Krňany-Netvořice, Czechia",
+        "latitude": 49.844792299999995,
+        "longitude": 14.453565699999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Rešov Falls",
+        "rating": 4.8,
+        "address": "793 44 Horní Město, Czechia",
+        "latitude": 49.880443899999996,
+        "longitude": 17.209056699999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "Waterfall Sense s.r.o.",
+        "rating": 5,
+        "address": "105, Pod Altánem 9, 100 00 Praha 10-Strašnice, Czechia",
+        "latitude": 50.0698193,
+        "longitude": 14.489279699999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Vodopád na Janovickém potoce",
+        "rating": 4.8,
+        "address": "257 41 Benešov-Týnec nad Sázavou, Czechia",
+        "latitude": 49.806759199999995,
+        "longitude": 14.605814299999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Jezírko Grebovka",
+        "rating": 4.8,
+        "address": "Havlíčkovy sady, 120 00 Vinohrady, Czechia",
+        "latitude": 50.0695561,
+        "longitude": 14.442665199999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Petřín Gardens",
+        "rating": 4.6,
+        "address": "Petřínské sady 118 00, 118 00 Praha 1-Malá Strana, Czechia",
+        "latitude": 50.0827039,
+        "longitude": 14.3987325
+    },
+    {
+        "category": "waterfalls",
+        "title": "Vinořský potok",
+        "rating": 4.6,
+        "address": "Czechia",
+        "latitude": 50.1629861,
+        "longitude": 14.607457799999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Grébovka (Havlíčkovy sady)",
+        "rating": 4.8,
+        "address": "Havlíčkovy sady, 120 00 Praha 2-Vinohrady, Czechia",
+        "latitude": 50.0694696,
+        "longitude": 14.444992099999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Hostěradické vodopády",
+        "rating": 4.5,
+        "address": "Hostěradice 95, 252 82 Kamenný Přívoz, Czechia",
+        "latitude": 49.8678658,
+        "longitude": 14.497914499999998
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Lhota",
+        "rating": 4.5,
+        "address": "Boleslavská, 277 14 Lhota-Dřísy, Czechia",
+        "latitude": 50.2449588,
+        "longitude": 14.6682879
+    },
+    {
+        "category": "lakes",
+        "title": "Udolni Nadrz Hostivar",
+        "rating": 3.8,
+        "address": "102 00 Prague 15, Czechia",
+        "latitude": 50.0405556,
+        "longitude": 14.5305556
+    },
+    {
+        "category": "lakes",
+        "title": "Šeberák",
+        "rating": 4.2,
+        "address": "148 00 Praha 414, Czechia",
+        "latitude": 50.009969,
+        "longitude": 14.4974633
+    },
+    {
+        "category": "lakes",
+        "title": "Vidlák",
+        "rating": 4.4,
+        "address": "Prague, Czechia",
+        "latitude": 50.094302,
+        "longitude": 14.5712557
+    },
+    {
+        "category": "lakes",
+        "title": "Údolní nádrž Džbán",
+        "rating": 4.4,
+        "address": "160 00 Prague 6, Czechia",
+        "latitude": 50.0952778,
+        "longitude": 14.3311111
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Konětopy",
+        "rating": 4.5,
+        "address": "277 14 Konětopy-Dřísy, Czechia",
+        "latitude": 50.2678357,
+        "longitude": 14.650639
+    },
+    {
+        "category": "lakes",
+        "title": "Ohrada",
+        "rating": 3.9,
+        "address": "148 00 Kunratice, Czechia",
+        "latitude": 50.0136812,
+        "longitude": 14.480514999999999
+    },
+    {
+        "category": "lakes",
+        "title": "Jezírko",
+        "rating": 4.7,
+        "address": "152 00 Prague 5, Czechia",
+        "latitude": 50.041834099999996,
+        "longitude": 14.385975799999999
+    },
+    {
+        "category": "lakes",
+        "title": "Rokytka",
+        "rating": 4.5,
+        "address": "Prague, Czechia",
+        "latitude": 50.1019906,
+        "longitude": 14.5041674
+    },
+    {
+        "category": "lakes",
+        "title": "fontána",
+        "rating": 5,
+        "address": "171 00 Troja, Czechia",
+        "latitude": 50.1155031,
+        "longitude": 14.4124625
+    },
+    {
+        "category": "lakes",
+        "title": "Brouček",
+        "rating": 4.4,
+        "address": "155 00 Prague 13, Czechia",
+        "latitude": 50.060277,
+        "longitude": 14.320186099999999
+    },
+    {
+        "category": "lakes",
+        "title": "Džbán",
+        "rating": 4.3,
+        "address": "Prague 6, Czechia",
+        "latitude": 50.0952207,
+        "longitude": 14.3312812
+    },
+    {
+        "category": "lakes",
+        "title": "Rozínek",
+        "rating": 5,
+        "address": "Holešovice, 170 00 Prague 7, Czechia",
+        "latitude": 50.1056874,
+        "longitude": 14.4202102
+    },
+    {
+        "category": "lakes",
+        "title": "Džbán",
+        "rating": 4.2,
+        "address": "Nad Lávkou 672/5, 160 00 Praha 6-Vokovice, Czechia",
+        "latitude": 50.095027699999996,
+        "longitude": 14.325477399999999
+    },
+    {
+        "category": "lakes",
+        "title": "Jezírko Cibulka",
+        "rating": 4,
+        "address": "150 00 Prague 5, Czechia",
+        "latitude": 50.063820899999996,
+        "longitude": 14.356313799999999
+    },
+    {
+        "category": "lakes",
+        "title": "vodní nádrž Hostivař",
+        "rating": 4.3,
+        "address": "Prague, Czechia",
+        "latitude": 50.042311,
+        "longitude": 14.5341875
+    },
+    {
+        "category": "lakes",
+        "title": "Vodice",
+        "rating": 4.7,
+        "address": "104 00 Prague 22, Czechia",
+        "latitude": 50.0224888,
+        "longitude": 14.6084126
+    },
+    {
+        "category": "lakes",
+        "title": "Prokop Valley",
+        "rating": 4.7,
+        "address": "Prokopské údolí, Jinonice, 158 00 Praha 5, Czechia",
+        "latitude": 50.042435999999995,
+        "longitude": 14.3695968
+    },
+    {
+        "category": "lakes",
+        "title": "Labuť",
+        "rating": 4.7,
+        "address": "140 00 Prague 4, Czechia",
+        "latitude": 50.034186399999996,
+        "longitude": 14.457706499999999
+    },
+    {
+        "category": "lakes",
+        "title": "Litovický potok",
+        "rating": 4,
+        "address": "Prague 6, Czechia",
+        "latitude": 50.0964885,
+        "longitude": 14.3417289
+    },
+    {
+        "category": "beaches",
+        "title": "Hostivar Nudist Beach",
+        "rating": 4.3,
+        "address": "K Jezeru 1, 100 00 Praha 10-Hostivař, Czechia",
+        "latitude": 50.0377964,
+        "longitude": 14.5427296
+    },
+    {
+        "category": "beaches",
+        "title": "Lake Lhota",
+        "rating": 4.5,
+        "address": "Boleslavská, 277 14 Lhota-Dřísy, Czechia",
+        "latitude": 50.2449588,
+        "longitude": 14.6682879
+    },
+    {
+        "category": "beaches",
+        "title": "Hostivař Dam Beach",
+        "rating": 4.2,
+        "address": "K Jezeru 74/1, 102 00 Praha 15, Czechia",
+        "latitude": 50.040706,
+        "longitude": 14.537052399999999
+    },
+    {
+        "category": "beaches",
+        "title": "Naturistická nudapláž Šeberák",
+        "rating": 3.8,
+        "address": "148 00 Praha-Kunratice, Czechia",
+        "latitude": 50.008611599999995,
+        "longitude": 14.498082
+    },
+    {
+        "category": "beaches",
+        "title": "Prague Beach Team",
+        "rating": 4.7,
+        "address": "Sibeliova 368/51, 162 00 Praha 6-Střešovice, Czechia",
+        "latitude": 50.090767299999996,
+        "longitude": 14.3749462
+    },
+    {
+        "category": "beaches",
+        "title": "Arena plážových sportů - Beach Soccer Czech Republic",
+        "rating": 4.8,
+        "address": "158 00 Praha 5, Czechia",
+        "latitude": 50.048519399999996,
+        "longitude": 14.3611103
+    },
+    {
+        "category": "beaches",
+        "title": "Pier Hostivař",
+        "rating": 4.4,
+        "address": "102 00 Praha 15, Czechia",
+        "latitude": 50.039932099999994,
+        "longitude": 14.5441449
+    },
+    {
+        "category": "beaches",
+        "title": "Džbán",
+        "rating": 4.2,
+        "address": "Nad Lávkou 672/5, 160 00 Praha 6-Vokovice, Czechia",
+        "latitude": 50.095027699999996,
+        "longitude": 14.325477399999999
+    },
+    {
+        "category": "beaches",
+        "title": "Beach volejbal",
+        "rating": 3,
+        "address": "Finská 2x, Vinohrady, 101 00 Praha 2, Czechia",
+        "latitude": 50.0716502,
+        "longitude": 14.4564483
+    },
+    {
+        "category": "beaches",
+        "title": "Beach Braník",
+        "rating": 4.4,
+        "address": "Za Mlýnem 1778/10, 147 00 Praha 4, Czechia",
+        "latitude": 50.033083,
+        "longitude": 14.421006799999999
+    },
+    {
+        "category": "beaches",
+        "title": "Baden Baden Štvanice",
+        "rating": 4.4,
+        "address": "ostrov Štvanice, 170 00 Praha 7, Czechia",
+        "latitude": 50.096759999999996,
+        "longitude": 14.4442095
+    },
+    {
+        "category": "beaches",
+        "title": "Divoká Šárka",
+        "rating": 4.8,
+        "address": "116 00 Praha 6, Czechia",
+        "latitude": 50.0933016,
+        "longitude": 14.325003899999999
+    },
+    {
+        "category": "beaches",
+        "title": "Výkup Láhví",
+        "rating": 4.7,
+        "address": "Žernosecká, 182 00 Praha 8, Czechia",
+        "latitude": 50.132447299999995,
+        "longitude": 14.4754925
+    },
+    {
+        "category": "beaches",
+        "title": "Sportovní areál Beachklub Ládví",
+        "rating": 4.4,
+        "address": "Žernosecká 1895/2, 182 00 Praha 8, Czechia",
+        "latitude": 50.1323977,
+        "longitude": 14.4756716
+    },
+    {
+        "category": "beaches",
+        "title": "Sports and recreation center Pražačka",
+        "rating": 4.2,
+        "address": "19, Za Žižkovskou vozovnou 2716, 130 00 Praha 3, Czechia",
+        "latitude": 50.0935364,
+        "longitude": 14.477088799999999
+    },
+    {
+        "category": "beaches",
+        "title": "Žluté lázně",
+        "rating": 4.4,
+        "address": "Podolské nábř. 3/1184, 140 00 Praha 4-Podolí, Czechia",
+        "latitude": 50.0486746,
+        "longitude": 14.414454899999999
+    },
+    {
+        "category": "beaches",
+        "title": "Beachklub Pankrác",
+        "rating": 4.5,
+        "address": "Bartákova, 140 00 Praha 4, Czechia",
+        "latitude": 50.0469416,
+        "longitude": 14.4377798
+    },
+    {
+        "category": "beaches",
+        "title": "Beach Volleyball Přístav 18600",
+        "rating": 4.4,
+        "address": "Rohanský ostrov, 186 00 Praha 8-Rohanský ostrov, Czechia",
+        "latitude": 50.096066199999996,
+        "longitude": 14.4486454
+    },
+    {
+        "category": "beaches",
+        "title": "Prague Castle",
+        "rating": 4.7,
+        "address": "Hradčany, 119 08 Praha 1, Czechia",
+        "latitude": 50.0910966,
+        "longitude": 14.4016165
+    },
+    {
+        "category": "beaches",
+        "title": "Gutovka sport centre",
+        "rating": 4.4,
+        "address": "Gutova 39, 100 00 Strašnice, Czechia",
+        "latitude": 50.0713509,
+        "longitude": 14.4912522
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming Stadium Podolí",
+        "rating": 4.2,
+        "address": "Podolská 74, 147 00 Praha 4, Czechia",
+        "latitude": 50.051479799999996,
+        "longitude": 14.4171722
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming stadium SK Slavia Praha",
+        "rating": 3.7,
+        "address": "Vladivostocká 1460, 100 00 Praha 10-Vršovice, Czechia",
+        "latitude": 50.0685638,
+        "longitude": 14.4781955
+    },
+    {
+        "category": "swimming pools",
+        "title": "Aquacentrum Šutka",
+        "rating": 4.4,
+        "address": "Čimická 848/41, 182 00 Praha 8, Czechia",
+        "latitude": 50.1264853,
+        "longitude": 14.4363339
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming pool Ládví",
+        "rating": 4.1,
+        "address": "Štíbrova 1776, 182 00 Praha 8-Kobylisy, Czechia",
+        "latitude": 50.1292948,
+        "longitude": 14.4632495
+    },
+    {
+        "category": "swimming pools",
+        "title": "Prague Exhibition Grounds - Pool",
+        "rating": 4,
+        "address": "Stromovka 1058, 170 00 Praha 7-Bubeneč, Czechia",
+        "latitude": 50.1085681,
+        "longitude": 14.4312933
+    },
+    {
+        "category": "swimming pools",
+        "title": "Spa AXA",
+        "rating": 4.2,
+        "address": "Na Poříčí 1051, 110 00 Nové Město, Czechia",
+        "latitude": 50.089894099999995,
+        "longitude": 14.4355516
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sports and recreation center Pražačka",
+        "rating": 4.2,
+        "address": "19, Za Žižkovskou vozovnou 2716, 130 00 Praha 3, Czechia",
+        "latitude": 50.0935364,
+        "longitude": 14.477088799999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming Pool & Sports Centre Hloubětín",
+        "rating": 3.7,
+        "address": "32, Hloubětínská 80, Hloubětín, 198 00 Praha, Czechia",
+        "latitude": 50.1048049,
+        "longitude": 14.5355897
+    },
+    {
+        "category": "swimming pools",
+        "title": "Jedenáctka",
+        "rating": 4,
+        "address": "Mírového hnutí 2385/3, 149 00 Praha 4-Chodov, Czechia",
+        "latitude": 50.038945999999996,
+        "longitude": 14.502172199999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sports Center Olšanka",
+        "rating": 4.2,
+        "address": "23, Táboritská 1000, 130 00 Praha 3, Czechia",
+        "latitude": 50.082913999999995,
+        "longitude": 14.4572021
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming pool Čakovice",
+        "rating": 3.7,
+        "address": "Ke Stadionu 9, 196 00 Praha-Čakovice, Czechia",
+        "latitude": 50.1475023,
+        "longitude": 14.5252348
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hotel pyramida Gym and Pool",
+        "rating": 4.6,
+        "address": "169 00 Praha 6, Czechia",
+        "latitude": 50.0862961,
+        "longitude": 14.3802258
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sportcentrum Step",
+        "rating": 4.5,
+        "address": "6, Malletova 2350, 190 00 Praha, Czechia",
+        "latitude": 50.1012649,
+        "longitude": 14.4835316
+    },
+    {
+        "category": "swimming pools",
+        "title": "Indoor swimming pool Zelený Pruh",
+        "rating": 3.6,
+        "address": "Zelený pruh 1294/52, 147 00 Praha 4, Czechia",
+        "latitude": 50.038494299999996,
+        "longitude": 14.425276199999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Pool T.J. Sokol Vinohrady in Prague",
+        "rating": 3.8,
+        "address": "Polská 2400, 120 00 Praha 2-Vinohrady, Czechia",
+        "latitude": 50.078792799999995,
+        "longitude": 14.442784999999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming pool Kolovraty",
+        "rating": 4.4,
+        "address": "Nad Nádrží 103 00, 10 Praha-Kolovraty, Czechia",
+        "latitude": 50.0085531,
+        "longitude": 14.6334666
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming Pool Strahov",
+        "rating": 4.2,
+        "address": "Vaníčkova 100/6, 169 00 Praha 6-Břevnov, Czechia",
+        "latitude": 50.080003399999995,
+        "longitude": 14.389759
+    },
+    {
+        "category": "swimming pools",
+        "title": "Aquacentrum Letňany Lagoon",
+        "rating": 4,
+        "address": "Tupolevova 665, 199 00 Praha 18, Czechia",
+        "latitude": 50.1344444,
+        "longitude": 14.504999999999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "ROYAL swimming club CZ",
+        "rating": 4.9,
+        "address": "Výstaviště 170 00, 170 00 Praha 7-Bubeneč, Czechia",
+        "latitude": 50.1085236,
+        "longitude": 14.4312914
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sportovní centrum Řepy",
+        "rating": 4.4,
+        "address": "Na Chobotě 420/16, 163 00 Praha 17, Czechia",
+        "latitude": 50.066891,
+        "longitude": 14.296079299999999
+    },
+    {
+        "category": "resorts",
+        "title": "Aquapalace Hotel Prague",
+        "rating": 4.5,
+        "address": "Pražská 137, 251 01 Čestlice-Říčany u Prahy, Czechia",
+        "latitude": 50.0076563,
+        "longitude": 14.5701366
+    },
+    {
+        "category": "resorts",
+        "title": "VISTA resort & club",
+        "rating": 4.5,
+        "address": "Nad Hliníkem 1202, 150 00 Praha 5, Czechia",
+        "latitude": 50.0644614,
+        "longitude": 14.34803
+    },
+    {
+        "category": "resorts",
+        "title": "Park Hotel Popovicky",
+        "rating": 4.6,
+        "address": "Ke Kostelu 13, 251 01 Popovičky-Říčany u Prahy, Czechia",
+        "latitude": 49.962092399999996,
+        "longitude": 14.598279199999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Mozart Prague",
+        "rating": 4.6,
+        "address": "Karoliny Světlé 34, 110 00 Staré Město, Czechia",
+        "latitude": 50.0846661,
+        "longitude": 14.4141546
+    },
+    {
+        "category": "resorts",
+        "title": "Alchymist Grand Hotel and Spa",
+        "rating": 4.7,
+        "address": "Tržiště 19, 118 00 Malá Strana, Czechia",
+        "latitude": 50.087544099999995,
+        "longitude": 14.400881199999999
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel NH Collection Prague Carlo IV",
+        "rating": 4.6,
+        "address": "Senovážné nám. 13/991, 110 00 Nové Město, Czechia",
+        "latitude": 50.086599,
+        "longitude": 14.433888
+    },
+    {
+        "category": "resorts",
+        "title": "Blue Orange Resort",
+        "rating": 4.1,
+        "address": "Letňany Praha 9-Letňany CZ, Tupolevova 676, 199 00 Praha 9, Czechia",
+        "latitude": 50.143904,
+        "longitude": 14.5069992
+    },
+    {
+        "category": "resorts",
+        "title": "Four Seasons Hotel Prague",
+        "rating": 4.7,
+        "address": "Veleslavínova 1098/2a, 110 00 Josefov, Czechia",
+        "latitude": 50.087542299999996,
+        "longitude": 14.414915899999999
+    },
+    {
+        "category": "resorts",
+        "title": "Grandium Hotel Prague",
+        "rating": 4.4,
+        "address": "Politických vězňů 913/12, 110 00 Nové Město, Czechia",
+        "latitude": 50.0822462,
+        "longitude": 14.4298726
+    },
+    {
+        "category": "resorts",
+        "title": "Augustine, a Luxury Collection Hotel, Prague",
+        "rating": 4.7,
+        "address": "Letenská 12/33, 118 00 Malá Strana, Czechia",
+        "latitude": 50.088789999999996,
+        "longitude": 14.4063774
+    },
+    {
+        "category": "resorts",
+        "title": "Hapimag Resort Prague",
+        "rating": 4.8,
+        "address": "Václavské nám. 805/60, 110 00 Nové Město, Czechia",
+        "latitude": 50.0796182,
+        "longitude": 14.4290977
+    },
+    {
+        "category": "resorts",
+        "title": "Hermitage Hotel Prague",
+        "rating": 4.6,
+        "address": "Svobodova 1, 128 00 Nové Město, Czechia",
+        "latitude": 50.068143799999994,
+        "longitude": 14.418356699999999
+    },
+    {
+        "category": "resorts",
+        "title": "Aria Hotel Prague",
+        "rating": 4.8,
+        "address": "Tržiště 368/9, 118 00 Malá Strana, Czechia",
+        "latitude": 50.087156,
+        "longitude": 14.40266
+    },
+    {
+        "category": "resorts",
+        "title": "The Emblem Prague Hotel",
+        "rating": 4.6,
+        "address": "Platnéřská 111/19, 111 00 Staré Město, Czechia",
+        "latitude": 50.0876112,
+        "longitude": 14.418384399999999
+    },
+    {
+        "category": "resorts",
+        "title": "BoHo Prague Hotel, an SLH Hotel",
+        "rating": 4.8,
+        "address": "Senovážná 1254/4, 110 00 Nové Město, Czechia",
+        "latitude": 50.086125499999994,
+        "longitude": 14.4294581
+    },
+    {
+        "category": "resorts",
+        "title": "Alchymist Prague Castle Suites",
+        "rating": 4.7,
+        "address": "Sněmovní 164/8, 118 00 Malá Strana, Czechia",
+        "latitude": 50.0902927,
+        "longitude": 14.4042275
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Don Giovanni Prague",
+        "rating": 4.4,
+        "address": "Vinohradská 2733/157a, 130 00 Praha 3-Žižkov, Czechia",
+        "latitude": 50.0785737,
+        "longitude": 14.4759902
+    },
+    {
+        "category": "resorts",
+        "title": "MOSAIC HOUSE Design Hotel",
+        "rating": 4.6,
+        "address": "Odborů 278/4, 120 00 Nové Město, Czechia",
+        "latitude": 50.0775048,
+        "longitude": 14.418014099999999
+    },
+    {
+        "category": "resorts",
+        "title": "Grand Hotel Bohemia",
+        "rating": 4.6,
+        "address": "4, Králodvorská 652, Staré Město, 110 00 Praha 1, Czechia",
+        "latitude": 50.0877566,
+        "longitude": 14.4266706
+    },
+    {
+        "category": "resorts",
+        "title": "Iron Gate Hotel & Suites",
+        "rating": 4.6,
+        "address": "Michalská 19, 110 00 Staré Město, Czechia",
+        "latitude": 50.0856583,
+        "longitude": 14.4198056
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping SOKOL Praha",
+        "rating": 4.4,
+        "address": "Nár. hrdinů 290, 190 12 Praha-Dolní Počernice, Czechia",
+        "latitude": 50.088307699999994,
+        "longitude": 14.583440999999999
+    },
+    {
+        "category": "camping sites",
+        "title": "River Camping Prague",
+        "rating": 3.6,
+        "address": "Povltavská, 171 00 Praha 7, Czechia",
+        "latitude": 50.1139509,
+        "longitude": 14.4267436
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Triocamp Prague",
+        "rating": 4.1,
+        "address": "Obslužná 35, 184 00 Praha-Dolní Chabry, Czechia",
+        "latitude": 50.1526012,
+        "longitude": 14.4501721
+    },
+    {
+        "category": "camping sites",
+        "title": "Oase Praha",
+        "rating": 4.5,
+        "address": "Libeň 47, 252 41 Dolní Břežany, Czechia",
+        "latitude": 49.9514247,
+        "longitude": 14.474611099999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Pension-Camp Dana Troja",
+        "rating": 4.7,
+        "address": "Trojská 357, 171 00 Praha-Troja, Czechia",
+        "latitude": 50.1171802,
+        "longitude": 14.4317789
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Sokol Troja",
+        "rating": 3.9,
+        "address": "Trojská 744, 171 00 Praha 7, Czechia",
+        "latitude": 50.1173891,
+        "longitude": 14.4252487
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Fremunt",
+        "rating": 4.1,
+        "address": "Troja-Praha-Troja Praha 7 - Troja-Praha-Troja CZ, Trojská 374, 171 00 Praha 7, Czechia",
+        "latitude": 50.117150599999995,
+        "longitude": 14.4274793
+    },
+    {
+        "category": "camping sites",
+        "title": "Praguecamp",
+        "rating": 4,
+        "address": "Císařská louka 162, 150 00 Praha 5-Smíchov, Czechia",
+        "latitude": 50.0554668,
+        "longitude": 14.4134032
+    },
+    {
+        "category": "camping sites",
+        "title": "Prague Central Camp",
+        "rating": 4.1,
+        "address": "Nad Ohradou 2667/17, 130 00 Praha 3-Žižkov, Czechia",
+        "latitude": 50.0922584,
+        "longitude": 14.473229499999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Prague Džbán",
+        "rating": 4,
+        "address": "Nad Lávkou 790, 160 00 Praha 6-Vokovice, Czechia",
+        "latitude": 50.0987946,
+        "longitude": 14.336383399999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Autocamp Trojská",
+        "rating": 4.7,
+        "address": "Trojská 375/157/171 00, 171 00 Praha-Troja, Czechia",
+        "latitude": 50.1171722,
+        "longitude": 14.4277907
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Herzog",
+        "rating": 3.8,
+        "address": "Troja CZ, Trojská 602/161, 171 00 Praha 7, Czechia",
+        "latitude": 50.1171904,
+        "longitude": 14.4271724
+    },
+    {
+        "category": "camping sites",
+        "title": "Caravan Park Camping",
+        "rating": 3.7,
+        "address": "Císařská louka 599, 150 00 Praha 5-Smíchov, Czechia",
+        "latitude": 50.062332999999995,
+        "longitude": 14.413264199999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Slivenec",
+        "rating": 4.5,
+        "address": "Pod rybníkem 25/9, 154 00 Slivenec, Czechia",
+        "latitude": 50.019588299999995,
+        "longitude": 14.356157099999999
+    },
+    {
+        "category": "camping sites",
+        "title": "ATC Bušek",
+        "rating": 4.4,
+        "address": "U Parku 6, 182 00 Praha-Březiněves, Czechia",
+        "latitude": 50.1645897,
+        "longitude": 14.4854905
+    },
+    {
+        "category": "camping sites",
+        "title": "Caravan Petrakova",
+        "rating": 3.2,
+        "address": "Trojská 151, 171 00 Praha 7 Troja Prague-Praha-Troja, Czechia",
+        "latitude": 50.117177999999996,
+        "longitude": 14.428561
+    },
+    {
+        "category": "camping sites",
+        "title": "Stellplatz",
+        "rating": 4,
+        "address": "K Sádkám 158, 159 00 Praha-Velká Chuchle-Lahovice, Czechia",
+        "latitude": 50.0039549,
+        "longitude": 14.3982643
+    },
+    {
+        "category": "camping sites",
+        "title": "Kemp Park",
+        "rating": 4.5,
+        "address": "147 00 Praha 4, Czechia",
+        "latitude": 50.0343338,
+        "longitude": 14.4049634
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Praha Klánovice",
+        "rating": 4.3,
+        "address": "V Jehličině 1040, 190 14 Praha-Klánovice, Czechia",
+        "latitude": 50.0985462,
+        "longitude": 14.6849539
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Drusus",
+        "rating": 4.6,
+        "address": "K Řeporyjím 4, 155 00 Praha 13-Třebonice, Czechia",
+        "latitude": 50.0441249,
+        "longitude": 14.284199899999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Prokop Valley",
+        "rating": 4.7,
+        "address": "Prokopské údolí, Jinonice, 158 00 Praha 5, Czechia",
+        "latitude": 50.042435999999995,
+        "longitude": 14.3695968
+    },
+    {
+        "category": "hiking trails",
+        "title": "Kunratice Brook Valley",
+        "rating": 4.7,
+        "address": "Kunratice, 148 00 Praha 4, Czechia",
+        "latitude": 50.0271329,
+        "longitude": 14.462945
+    },
+    {
+        "category": "hiking trails",
+        "title": "Prosecké rocks",
+        "rating": 4.5,
+        "address": "190 00 Praha - Prosek-Praha 9, Czechia",
+        "latitude": 50.1165034,
+        "longitude": 14.4831028
+    },
+    {
+        "category": "hiking trails",
+        "title": "Přírodní park Šárka - Lysolaje",
+        "rating": 4.7,
+        "address": "Praha 6, Czechia",
+        "latitude": 50.1078523,
+        "longitude": 14.3492818
+    },
+    {
+        "category": "hiking trails",
+        "title": "Únětice Creek Valley",
+        "rating": 4.7,
+        "address": "U Kapličky 1172, 165 00 Praha-Suchdol, Czechia",
+        "latitude": 50.1457844,
+        "longitude": 14.369949499999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Venkovní posezení lavička",
+        "rating": 4.7,
+        "address": "Unnamed Road 128 00, Nové Město, 128 00 Praha 2, Czechia",
+        "latitude": 50.0704315,
+        "longitude": 14.424663599999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Natural park Košíře-Motol",
+        "rating": 4.5,
+        "address": "Košíře, 150 00 Praha 5, Czechia",
+        "latitude": 50.0614321,
+        "longitude": 14.3471488
+    },
+    {
+        "category": "hiking trails",
+        "title": "Stezka Les Hlásek",
+        "rating": 4.5,
+        "address": "Unnamed Road, 164 00 Praha-Nebušice, Czechia",
+        "latitude": 50.114364599999995,
+        "longitude": 14.3271918
+    },
+    {
+        "category": "hiking trails",
+        "title": "Přírodní park V pískovně",
+        "rating": 4.9,
+        "address": "Suchý poldr Čihadla, Unnamed Road, 198 00, Praha 14, Czechia",
+        "latitude": 50.0950109,
+        "longitude": 14.5703733
+    },
+    {
+        "category": "hiking trails",
+        "title": "Vinoř Nature Reserve",
+        "rating": 4.6,
+        "address": "190 15 Praha-Satalice, Czechia",
+        "latitude": 50.1390507,
+        "longitude": 14.579392799999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Přírodní park Meandry Botiče",
+        "rating": 4.6,
+        "address": "Práčská 1882/14a, 106 00 Praha 10-Záběhlice, Czechia",
+        "latitude": 50.050824299999995,
+        "longitude": 14.509704699999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Northern Hikes",
+        "rating": 5,
+        "address": "nám. Pod Lípou 7/7, 154 00 Slivenec, Czechia",
+        "latitude": 50.030280399999995,
+        "longitude": 14.3541765
+    },
+    {
+        "category": "hiking trails",
+        "title": "Naučná stezka Velká skála",
+        "rating": 4.9,
+        "address": "K Pazderkám 181 00, 171 00 Praha 8, Czechia",
+        "latitude": 50.1232258,
+        "longitude": 14.4240464
+    },
+    {
+        "category": "hiking trails",
+        "title": "Náplavka",
+        "rating": 4.9,
+        "address": "Rašínovo nábř. 128/00, 128 00 Nové Město, Czechia",
+        "latitude": 50.0750264,
+        "longitude": 14.4135777
+    },
+    {
+        "category": "hiking trails",
+        "title": "Milíčovská naučná stezka 1",
+        "rating": 4.7,
+        "address": "Unnamed Road, Ujezd, 149 00 Praha, Czechia",
+        "latitude": 50.0233753,
+        "longitude": 14.5256802
+    },
+    {
+        "category": "hiking trails",
+        "title": "Sad",
+        "rating": 4.9,
+        "address": "Ke Klíčovu 714/6, 190 00 Praha 9, Czechia",
+        "latitude": 50.1151732,
+        "longitude": 14.5185097
+    },
+    {
+        "category": "hiking trails",
+        "title": "Na Kocourkách",
+        "rating": 4.7,
+        "address": "6-14, 169 00 Praha 6, Czechia",
+        "latitude": 50.0893752,
+        "longitude": 14.3721973
+    },
+    {
+        "category": "hiking trails",
+        "title": "Melantrichova street",
+        "rating": 4.9,
+        "address": "Czechia, Praha, Melantrichova",
+        "latitude": 50.0855803,
+        "longitude": 14.4208211
+    },
+    {
+        "category": "hiking trails",
+        "title": "Nuselské schody",
+        "rating": 4.7,
+        "address": "120 00, 120 00 Vinohrady, Czechia",
+        "latitude": 50.0694394,
+        "longitude": 14.436029099999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Nature Park Klánovice-Čihadla",
+        "rating": 4.6,
+        "address": "Czechia",
+        "latitude": 50.0838493,
+        "longitude": 14.6858341
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Divoká Šárka",
+        "rating": 4.8,
+        "address": "116 00 Praha 6, Czechia",
+        "latitude": 50.0933016,
+        "longitude": 14.325003899999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Vinoř Nature Reserve",
+        "rating": 4.6,
+        "address": "190 15 Praha-Satalice, Czechia",
+        "latitude": 50.1390507,
+        "longitude": 14.579392799999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Prosecké rocks",
+        "rating": 4.5,
+        "address": "190 00 Praha - Prosek-Praha 9, Czechia",
+        "latitude": 50.1165034,
+        "longitude": 14.4831028
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Nature Park Klánovice-Čihadla",
+        "rating": 4.6,
+        "address": "Czechia",
+        "latitude": 50.0838493,
+        "longitude": 14.6858341
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Gardens below Prague Castle",
+        "rating": 4.7,
+        "address": "14, Valdštejnská 158, Malá Strana, 110 00 Praha 1, Czechia",
+        "latitude": 50.0905595,
+        "longitude": 14.4059796
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Seminary Garden",
+        "rating": 4.9,
+        "address": "Unnamed Road, 118 00, 118 00 Praha 1, Czechia",
+        "latitude": 50.0847094,
+        "longitude": 14.3993541
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Park Průhonice",
+        "rating": 4.8,
+        "address": "Zámek 1, 252 43 Průhonice, Czechia",
+        "latitude": 49.9899712,
+        "longitude": 14.5525763
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Viewpoint Máj",
+        "rating": 4.7,
+        "address": "Teletín, 257 44 Krňany-Netvořice, Czechia",
+        "latitude": 49.8310842,
+        "longitude": 14.4558351
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Prachov Cliffs",
+        "rating": 4.8,
+        "address": "Blata 15, 506 01 Jičín 1, Czechia",
+        "latitude": 50.4683522,
+        "longitude": 15.2850918
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Krkonoše National Park",
+        "rating": 4.8,
+        "address": "Czechia",
+        "latitude": 50.688949199999996,
+        "longitude": 15.657069199999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Podyjí National Park",
+        "rating": 4.8,
+        "address": "Czechia",
+        "latitude": 48.8448123,
+        "longitude": 15.920269999999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Bohemian Switzerland National Park",
+        "rating": 4.8,
+        "address": "Czechia",
+        "latitude": 50.8784035,
+        "longitude": 14.3715503
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Šumava National Park",
+        "rating": 4.8,
+        "address": "Czechia",
+        "latitude": 48.972027399999995,
+        "longitude": 13.6331349
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Obora Svatý Linhart",
+        "rating": 4.8,
+        "address": "Unnamed Road, 360 01 Karlovy Vary, Czechia",
+        "latitude": 50.213802799999996,
+        "longitude": 12.856513999999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Adršpach-Teplice Rocks",
+        "rating": 4.8,
+        "address": "549 57 Adršpach-Teplice nad Metují, Czechia",
+        "latitude": 50.6102583,
+        "longitude": 16.1165058
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "The Vrtba Garden",
+        "rating": 4.7,
+        "address": "Karmelitská 25, 118 00 Malá Strana, Czechia",
+        "latitude": 50.086644,
+        "longitude": 14.402878399999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Charles Bridge",
+        "rating": 4.8,
+        "address": "Karlův most, 110 00 Praha 1, Czechia",
+        "latitude": 50.086477099999996,
+        "longitude": 14.4114366
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Prague Castle",
+        "rating": 4.7,
+        "address": "Hradčany, 119 08 Praha 1, Czechia",
+        "latitude": 50.0910966,
+        "longitude": 14.4016165
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Prague Visitor Pass",
+        "rating": 4.6,
+        "address": "Staroměstské nám. 1, 110 00 Josefov, Czechia",
+        "latitude": 50.086634,
+        "longitude": 14.419939999999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Praguest s.r.o.",
+        "rating": 5,
+        "address": "Rostovská 318/9, 101 00 Praha 10-Vršovice, Czechia",
+        "latitude": 50.068474699999996,
+        "longitude": 14.449760399999999
+    },
+    {
+        "category": "temples",
+        "title": "The Old-New Synagogue",
+        "rating": 4.3,
+        "address": "Červená, 110 01 Josefov, Czechia",
+        "latitude": 50.090071599999995,
+        "longitude": 14.4186049
+    },
+    {
+        "category": "temples",
+        "title": "Buddhist temple Libuš",
+        "rating": 4.8,
+        "address": "SAPA, 142 00 Praha-Libuš, Czechia",
+        "latitude": 50.0018579,
+        "longitude": 14.4757064
+    },
+    {
+        "category": "temples",
+        "title": "Jerusalem Synagogue",
+        "rating": 4.6,
+        "address": "Jeruzalémská 1310/7, Jeruzalémská 7, Nové Město, 110 00 Praha 1, Czechia",
+        "latitude": 50.0847038,
+        "longitude": 14.432020399999999
+    },
+    {
+        "category": "temples",
+        "title": "Židovské muzeum v Praze - Maiselova synagoga",
+        "rating": 4.2,
+        "address": "Maiselova 10, 110 00 Praha 1, Czechia",
+        "latitude": 50.0888425,
+        "longitude": 14.418891299999999
+    },
+    {
+        "category": "temples",
+        "title": "Pinkas Synagogue",
+        "rating": 4.3,
+        "address": "3, Široká 23, Josefov, 110 00 Praha, Czechia",
+        "latitude": 50.089225,
+        "longitude": 14.4169722
+    },
+    {
+        "category": "temples",
+        "title": "Spanish Synagogue",
+        "rating": 4.5,
+        "address": "Vězeňská 1, 110 00 Staré Město, Czechia",
+        "latitude": 50.0901479,
+        "longitude": 14.4208465
+    },
+    {
+        "category": "temples",
+        "title": "Prague Jewish Quarter",
+        "rating": 4.4,
+        "address": "U Staré školy, 110 00 Staré Město, Czechia",
+        "latitude": 50.0905184,
+        "longitude": 14.4203456
+    },
+    {
+        "category": "temples",
+        "title": "бухайлівка",
+        "rating": null,
+        "address": "Slovanský ostrov 110/00, 110 00 Praha 1, Czechia",
+        "latitude": 50.077960999999995,
+        "longitude": 14.413147599999999
+    },
+    {
+        "category": "temples",
+        "title": "Temple of The Witch Royal",
+        "rating": 5,
+        "address": "Navrátilova 664/10, 110 00 Nové Město, Czechia",
+        "latitude": 50.0786613,
+        "longitude": 14.423309399999999
+    },
+    {
+        "category": "temples",
+        "title": "Chabad of Prague",
+        "rating": 4.6,
+        "address": "U Milosrdných 6, 110 00 Staré Město, Czechia",
+        "latitude": 50.0917776,
+        "longitude": 14.4211881
+    },
+    {
+        "category": "temples",
+        "title": "Danetov stan",
+        "rating": null,
+        "address": "Vinohradská 1336/97, 120 00 Praha 2-Vinohrady, Czechia",
+        "latitude": 50.077259,
+        "longitude": 14.4483907
+    },
+    {
+        "category": "temples",
+        "title": "JEWISH CENTER PRAGUE 2 ( /נוסח פראג/ חב\"ד - הארי ז\"ל Arizal / Chabad nusach) המרכז היהודי פראג",
+        "rating": 5,
+        "address": "U Havlíčkových sadů 1433/17/120 00, 120 00 Praha 2-Vinohrady, Czechia",
+        "latitude": 50.0709477,
+        "longitude": 14.4441033
+    },
+    {
+        "category": "temples",
+        "title": "New Libeň synagogue",
+        "rating": 4.3,
+        "address": "Ludmilina 601/4, Palmovka, 180 00 Praha 8-Libeň-Praha 8, Czechia",
+        "latitude": 50.1040815,
+        "longitude": 14.473897599999999
+    },
+    {
+        "category": "temples",
+        "title": "Wat Dhammakittiwong WatThaiPraha",
+        "rating": 5,
+        "address": "U Parku 168, 182 00 Praha-Březiněves, Czechia",
+        "latitude": 50.163891299999996,
+        "longitude": 14.485826099999999
+    },
+    {
+        "category": "temples",
+        "title": "Nitái Navadvípačandra Mandir - ISKCON temple",
+        "rating": 4.9,
+        "address": "Lužce 48, 267 18 Lužce, Czechia",
+        "latitude": 49.984589199999995,
+        "longitude": 14.1960865
+    },
+    {
+        "category": "temples",
+        "title": "Diamond Way Buddhism in Prague",
+        "rating": 4.9,
+        "address": "Na Maninách 1288/17A, 170 00 Praha 7-Holešovice, Czechia",
+        "latitude": 50.1036448,
+        "longitude": 14.452259699999999
+    },
+    {
+        "category": "temples",
+        "title": "High Synagogue",
+        "rating": 4.5,
+        "address": "Červená 98, 110 00 Staré Město, Czechia",
+        "latitude": 50.089884399999995,
+        "longitude": 14.4188244
+    },
+    {
+        "category": "temples",
+        "title": "Fountain with Three Entangled Dolphin Bodies",
+        "rating": 4.5,
+        "address": "Pařížská 934, 110 00 Staré Město, Czechia",
+        "latitude": 50.0878648,
+        "longitude": 14.4201994
+    },
+    {
+        "category": "temples",
+        "title": "Temple of St. Ludmila",
+        "rating": 4.7,
+        "address": "Sibiřské nám. 1054, 160 00 Praha 6-Bubeneč, Czechia",
+        "latitude": 50.105009499999994,
+        "longitude": 14.4067054
+    },
+    {
+        "category": "temples",
+        "title": "Centrum pro védská studia",
+        "rating": 4.9,
+        "address": "Lužce 48, 267 18 Lužce, Czechia",
+        "latitude": 49.9845646,
+        "longitude": 14.195983799999999
+    },
+    {
+        "category": "museums",
+        "title": "National Museum",
+        "rating": 4.6,
+        "address": "Václavské nám. 68, 110 00 Nové Město, Czechia",
+        "latitude": 50.078970399999996,
+        "longitude": 14.430936899999999
+    },
+    {
+        "category": "museums",
+        "title": "Kafka Museum",
+        "rating": 4.1,
+        "address": "Cihelná 635, 118 00 Malá Strana, Czechia",
+        "latitude": 50.0883196,
+        "longitude": 14.410143199999998
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Communism",
+        "rating": 4,
+        "address": "V Celnici 1031/4, 118 00 Nové Město, Czechia",
+        "latitude": 50.0879687,
+        "longitude": 14.4299825
+    },
+    {
+        "category": "museums",
+        "title": "Mucha Museum",
+        "rating": 4.3,
+        "address": "Na Příkopě 852/10, 110 00 Nové Město, Czechia",
+        "latitude": 50.0849062,
+        "longitude": 14.425059099999999
+    },
+    {
+        "category": "museums",
+        "title": "National Memorial to the Heroes of the Heydrich Terror",
+        "rating": 4.8,
+        "address": "Resslova 9a, 120 00 Nové Město, Czechia",
+        "latitude": 50.075923599999996,
+        "longitude": 14.4166803
+    },
+    {
+        "category": "museums",
+        "title": "Military History Institute in Prague: The Army Museum Žižkov",
+        "rating": 4.9,
+        "address": "U Památníku 1600/2, 130 00 Praha 3-Žižkov, Czechia",
+        "latitude": 50.087570799999995,
+        "longitude": 14.444667599999999
+    },
+    {
+        "category": "museums",
+        "title": "National Gallery Prague - Convent of St. Agnes",
+        "rating": 4.6,
+        "address": "U Milosrdných 17, 110 00 Staré Město, Czechia",
+        "latitude": 50.092085399999995,
+        "longitude": 14.424059399999999
+    },
+    {
+        "category": "museums",
+        "title": "Lobkowicz Palace",
+        "rating": 4.6,
+        "address": "Jiřská 3, 119 00 Praha 1-Hradčany, Czechia",
+        "latitude": 50.091648299999996,
+        "longitude": 14.4049502
+    },
+    {
+        "category": "museums",
+        "title": "IAM Illusion Art Museum Prague",
+        "rating": 4.3,
+        "address": "Melantrichova 536/2, 110 00 Staré Město, Czechia",
+        "latitude": 50.0851495,
+        "longitude": 14.421745099999999
+    },
+    {
+        "category": "museums",
+        "title": "Story of Prague - Museum",
+        "rating": 4.8,
+        "address": "Křižovnické nám. 194/1, 110 00 Staré Město, Czechia",
+        "latitude": 50.0859877,
+        "longitude": 14.4142361
+    },
+    {
+        "category": "museums",
+        "title": "National Technical Museum",
+        "rating": 4.7,
+        "address": "Kostelní 1320/42, 170 00 Praha 7-Letná, Czechia",
+        "latitude": 50.097301699999996,
+        "longitude": 14.4249137
+    },
+    {
+        "category": "museums",
+        "title": "Speculum Alchemiae",
+        "rating": 4.5,
+        "address": "Haštalská 1, 110 00 Staré Město, Czechia",
+        "latitude": 50.0908333,
+        "longitude": 14.4225
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Bricks Praha",
+        "rating": 4.2,
+        "address": "Národní 362/31, 110 00 Staré Město, Czechia",
+        "latitude": 50.0826241,
+        "longitude": 14.4193736
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Decorative Arts in Prague",
+        "rating": 4.6,
+        "address": "17. listopadu 2, 110 00 Josefov, Czechia",
+        "latitude": 50.089340799999995,
+        "longitude": 14.415981799999999
+    },
+    {
+        "category": "museums",
+        "title": "Sex Machines Museum",
+        "rating": 4.2,
+        "address": "Melantrichova 476 /18, 110 00 Staré Město, Czechia",
+        "latitude": 50.086289099999995,
+        "longitude": 14.420725599999999
+    },
+    {
+        "category": "museums",
+        "title": "NaFilM: Národní filmové muzeum",
+        "rating": 4.8,
+        "address": "Jungmannova 748/30, 110 00 Nové Město, Czechia",
+        "latitude": 50.0822395,
+        "longitude": 14.4230363
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Senses",
+        "rating": 4.2,
+        "address": "Jindřišská 939/20, 110 00 Nové Město, Czechia",
+        "latitude": 50.083990899999996,
+        "longitude": 14.4290515
+    },
+    {
+        "category": "museums",
+        "title": "Steel Art Museum",
+        "rating": 4.8,
+        "address": "Celetná 15, 110 00 Staré Město, Czechia",
+        "latitude": 50.0873378,
+        "longitude": 14.4243285
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Fantastic Illusions",
+        "rating": 4.5,
+        "address": "Vodičkova 31, 110 00 Nové Město, Czechia",
+        "latitude": 50.081061399999996,
+        "longitude": 14.424498999999999
+    },
+    {
+        "category": "museums",
+        "title": "The Cold War Museum",
+        "rating": 4.7,
+        "address": "Václavské nám. 45, 110 00 Nové Město, Czechia",
+        "latitude": 50.081151999999996,
+        "longitude": 14.428538
+    },
+    {
+        "category": "night markets",
+        "title": "Holešovice Market",
+        "rating": 3.9,
+        "address": "Bubenské nábř. 306, 170 00 Praha 7-Holešovice, Czechia",
+        "latitude": 50.0997529,
+        "longitude": 14.4447139
+    },
+    {
+        "category": "night markets",
+        "title": "Havelské tržiště",
+        "rating": 4.2,
+        "address": "Havelská 13, 110 00 Staré Město, Czechia",
+        "latitude": 50.0847749,
+        "longitude": 14.4209608
+    },
+    {
+        "category": "night markets",
+        "title": "ShowPark MARKET",
+        "rating": 4,
+        "address": "Bubenské nábř. 306/13, 170 00 Praha 7-Holešovice, Czechia",
+        "latitude": 50.0985921,
+        "longitude": 14.4464115
+    },
+    {
+        "category": "night markets",
+        "title": "Flea market",
+        "rating": 4.1,
+        "address": "U Elektry 7, 190 00 Praha 9, Czechia",
+        "latitude": 50.102067999999996,
+        "longitude": 14.5193126
+    },
+    {
+        "category": "night markets",
+        "title": "SAPA Praha",
+        "rating": 4.2,
+        "address": "6, V Lužích 735, SAPA, 142 00 Praha-Libuš, Czechia",
+        "latitude": 50.003740199999996,
+        "longitude": 14.470350499999999
+    },
+    {
+        "category": "night markets",
+        "title": "Mercatini",
+        "rating": 4.3,
+        "address": "Havelská 504/17, 110 00 Staré Město, Czechia",
+        "latitude": 50.0844124,
+        "longitude": 14.420488599999999
+    },
+    {
+        "category": "night markets",
+        "title": "Hala 22 - Food Market",
+        "rating": 4.5,
+        "address": "170 00, Bubenské nábř. 306/13, 170 00 Praha, Czechia",
+        "latitude": 50.100162399999995,
+        "longitude": 14.444667599999999
+    },
+    {
+        "category": "night markets",
+        "title": "Farmers' Saturday market",
+        "rating": 4.6,
+        "address": "Rašínovo nábřeží Vltavská, Náplavka, 120 00 Praha 2, Czechia",
+        "latitude": 50.0706661,
+        "longitude": 14.4140813
+    },
+    {
+        "category": "night markets",
+        "title": "Farmers' Market, Jiřího z Poděbrad",
+        "rating": 4.4,
+        "address": "nám. J. z Poděbrad 1659, 130 00 Praha 3-Vinohrady, Czechia",
+        "latitude": 50.0782502,
+        "longitude": 14.449262
+    },
+    {
+        "category": "night markets",
+        "title": "public market old town prague",
+        "rating": 3.5,
+        "address": "Rytířská 10-12, 110 00 Staré Město, Czechia",
+        "latitude": 50.0845613,
+        "longitude": 14.4206551
+    },
+    {
+        "category": "night markets",
+        "title": "Tylovo náměstí Market",
+        "rating": 4,
+        "address": "Praha 2, Tylovo Nám., 120 00 Nové Město, Czechia",
+        "latitude": 50.074797399999994,
+        "longitude": 14.432245499999999
+    },
+    {
+        "category": "night markets",
+        "title": "Náměstí Míru",
+        "rating": 4.7,
+        "address": "120 00 Praha 2-Vinohrady, Czechia",
+        "latitude": 50.075342899999995,
+        "longitude": 14.4362639
+    },
+    {
+        "category": "night markets",
+        "title": "Manifesto Market Anděl",
+        "rating": 4.4,
+        "address": "Ostrovského 34, 150 00 Praha 5-Anděl, Czechia",
+        "latitude": 50.0693051,
+        "longitude": 14.404235799999999
+    },
+    {
+        "category": "night markets",
+        "title": "Praguemarket",
+        "rating": 5,
+        "address": "Náměstí Republiky 110/00, 110 00 Nové Město, Czechia",
+        "latitude": 50.0881384,
+        "longitude": 14.428517399999999
+    },
+    {
+        "category": "night markets",
+        "title": "Street Market",
+        "rating": 3.4,
+        "address": "Havelská, 110 00 Staré Město, Czechia",
+        "latitude": 50.085145399999995,
+        "longitude": 14.421461599999999
+    },
+    {
+        "category": "night markets",
+        "title": "Old Town Square",
+        "rating": 4.8,
+        "address": "Staroměstské nám., 110 00 Josefov, Czechia",
+        "latitude": 50.0875692,
+        "longitude": 14.421187499999998
+    },
+    {
+        "category": "night markets",
+        "title": "Vánoční Trhy na Šesťaku",
+        "rating": 4,
+        "address": "Vítězné nám., 160 00 Praha 6, Czechia",
+        "latitude": 50.100195199999995,
+        "longitude": 14.3961706
+    },
+    {
+        "category": "night markets",
+        "title": "Prague Flea Market",
+        "rating": 3,
+        "address": "120 00, Czechia, Praha, Palackého nám.",
+        "latitude": 50.0732449,
+        "longitude": 14.414518699999999
+    },
+    {
+        "category": "night markets",
+        "title": "Farmers Market Heřmaňák",
+        "rating": 4.5,
+        "address": "Řezáčovo nám., 170 00 Praha 7-Holešovice, Czechia",
+        "latitude": 50.1007286,
+        "longitude": 14.435891699999999
+    },
+    {
+        "category": "night markets",
+        "title": "Terminal Karlín",
+        "rating": 4.6,
+        "address": "Sokolovská 55, 186 00 Praha 8-Karlín, Czechia",
+        "latitude": 50.0935072,
+        "longitude": 14.446372
+    },
+    {
+        "category": "viewpoints",
+        "title": "Dobeška viewpoint",
+        "rating": 4.7,
+        "address": "U Pražských lomů, 147 00 Praha 4, Czechia",
+        "latitude": 50.042441499999995,
+        "longitude": 14.413662899999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Prospect at Hanavský Pavilon",
+        "rating": 4.8,
+        "address": "Letenské sady 173, 170 00 Praha 7-Letná, Czechia",
+        "latitude": 50.093548899999995,
+        "longitude": 14.412692
+    },
+    {
+        "category": "viewpoints",
+        "title": "Petrin Tower",
+        "rating": 4.5,
+        "address": "Petřínské sady 633, 118 00 Praha 1-Malá Strana, Czechia",
+        "latitude": 50.083527,
+        "longitude": 14.3950836
+    },
+    {
+        "category": "viewpoints",
+        "title": "Rooftop viewpoint",
+        "rating": 4.8,
+        "address": "Národní 63/26/110 00, 110 00 Nové Město, Czechia",
+        "latitude": 50.082308999999995,
+        "longitude": 14.4194829
+    },
+    {
+        "category": "viewpoints",
+        "title": "Old Town Bridge Tower",
+        "rating": 4.8,
+        "address": "Karlův most, 110 00 Praha 1, Czechia",
+        "latitude": 50.0862306,
+        "longitude": 14.4136141
+    },
+    {
+        "category": "viewpoints",
+        "title": "Letná Viewpoint",
+        "rating": 4.8,
+        "address": "Letenské sady 170 00, 170 00 Praha 7-Holešovice, Czechia",
+        "latitude": 50.0958536,
+        "longitude": 14.4254257
+    },
+    {
+        "category": "viewpoints",
+        "title": "Vltava Castle viewpoint",
+        "rating": 4.8,
+        "address": "Alšovo nábř. 110/00, 110 00 Staré Město, Czechia",
+        "latitude": 50.087924799999996,
+        "longitude": 14.4139982
+    },
+    {
+        "category": "viewpoints",
+        "title": "Best point of view",
+        "rating": 4.6,
+        "address": "Letenské sady 7, 170 00 Praha 7-Letná, Czechia",
+        "latitude": 50.0947325,
+        "longitude": 14.4159648
+    },
+    {
+        "category": "viewpoints",
+        "title": "Riegrovy Sady View",
+        "rating": 4.9,
+        "address": "Riegrovy sady 120 00, 120 00 Praha 2-Vinohrady, Czechia",
+        "latitude": 50.0796954,
+        "longitude": 14.440230099999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Lesser Town Bridge Tower",
+        "rating": 4.7,
+        "address": "57, Malá Strana, 118 00 Praha, Czechia",
+        "latitude": 50.0873231,
+        "longitude": 14.406859899999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "St Nicholas Bell Tower",
+        "rating": 4.7,
+        "address": "Malostranské nám. 556/29, 110 00 Malá Strana, Czechia",
+        "latitude": 50.0879517,
+        "longitude": 14.4036458
+    },
+    {
+        "category": "viewpoints",
+        "title": "Petrin Hill",
+        "rating": 4.6,
+        "address": "Petřínské sady 1, 118 00 Praha 1-Strahov, Czechia",
+        "latitude": 50.0815434,
+        "longitude": 14.3969205
+    },
+    {
+        "category": "viewpoints",
+        "title": "Castle View",
+        "rating": 5,
+        "address": "Petřínské sady 1, 118 00 Praha 1, Czechia",
+        "latitude": 50.080816999999996,
+        "longitude": 14.4016985
+    },
+    {
+        "category": "viewpoints",
+        "title": "Výhled na město",
+        "rating": 4.6,
+        "address": "U Mrázovky 1566, 150 00 Praha 5-Smíchov, Czechia",
+        "latitude": 50.069040699999995,
+        "longitude": 14.3962101
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ilkin's viewpoint",
+        "rating": 4.8,
+        "address": "Slovanský ostrov 12e, 110 00 Nové Město, Czechia",
+        "latitude": 50.0797144,
+        "longitude": 14.4137188
+    },
+    {
+        "category": "viewpoints",
+        "title": "Vyhlídka na Pražský hrad",
+        "rating": 4.7,
+        "address": "Novotného lávka 110 00, 110 00 Staré Město, Czechia",
+        "latitude": 50.0853156,
+        "longitude": 14.4129104
+    },
+    {
+        "category": "viewpoints",
+        "title": "Petřín Gardens",
+        "rating": 4.6,
+        "address": "Petřínské sady 118 00, 118 00 Praha 1-Malá Strana, Czechia",
+        "latitude": 50.0827039,
+        "longitude": 14.3987325
+    },
+    {
+        "category": "viewpoints",
+        "title": "Prague Astronomical Clock",
+        "rating": 4.7,
+        "address": "Staroměstské nám. 1, 110 00 Josefov, Czechia",
+        "latitude": 50.0870215,
+        "longitude": 14.4207065
+    },
+    {
+        "category": "viewpoints",
+        "title": "Vyhlídka na Letné",
+        "rating": 4.9,
+        "address": "nábř. E. Beneše 1550, 118 00 Praha 7-Holešovice, Czechia",
+        "latitude": 50.093885099999994,
+        "longitude": 14.4140719
+    },
+    {
+        "category": "viewpoints",
+        "title": "Vítkov",
+        "rating": 4.7,
+        "address": "Žižkov, 130 00 Praha 3, Czechia",
+        "latitude": 50.088767,
+        "longitude": 14.4514582
+    },
+    {
+        "category": "gardens",
+        "title": "Waldstein Garden",
+        "rating": 4.8,
+        "address": "Letenská 123/4, 118 00 Malá Strana, Czechia",
+        "latitude": 50.090402999999995,
+        "longitude": 14.407880599999999
+    },
+    {
+        "category": "gardens",
+        "title": "Botanical Garden of the City Prague",
+        "rating": 4.7,
+        "address": "Trojská 800/196, 171 00 Praha-Troja, Czechia",
+        "latitude": 50.1213706,
+        "longitude": 14.413248999999999
+    },
+    {
+        "category": "gardens",
+        "title": "Petřín Gardens",
+        "rating": 4.6,
+        "address": "Petřínské sady 118 00, 118 00 Praha 1-Malá Strana, Czechia",
+        "latitude": 50.0827039,
+        "longitude": 14.3987325
+    },
+    {
+        "category": "gardens",
+        "title": "Kinsky Garden",
+        "rating": 4.7,
+        "address": "Petřín, 150 00 Praha 5, Czechia",
+        "latitude": 50.079558,
+        "longitude": 14.398720299999999
+    },
+    {
+        "category": "gardens",
+        "title": "The Vrtba Garden",
+        "rating": 4.7,
+        "address": "Karmelitská 25, 118 00 Malá Strana, Czechia",
+        "latitude": 50.086644,
+        "longitude": 14.402878399999999
+    },
+    {
+        "category": "gardens",
+        "title": "Franciscan Gardens",
+        "rating": 4.7,
+        "address": "Vodičkova, 110 00 Nové Město, Czechia",
+        "latitude": 50.0820832,
+        "longitude": 14.4239689
+    },
+    {
+        "category": "gardens",
+        "title": "The Royal Garden",
+        "rating": 4.7,
+        "address": "Hradčany, 119 08 Pražský-Praha 1, Czechia",
+        "latitude": 50.0932563,
+        "longitude": 14.4019696
+    },
+    {
+        "category": "gardens",
+        "title": "Gardens below Prague Castle",
+        "rating": 4.7,
+        "address": "14, Valdštejnská 158, Malá Strana, 110 00 Praha 1, Czechia",
+        "latitude": 50.0905595,
+        "longitude": 14.4059796
+    },
+    {
+        "category": "gardens",
+        "title": "Fürstenberg Garden",
+        "rating": 4.5,
+        "address": "Hrad, 119 08 Malá Strana, Czechia",
+        "latitude": 50.0917159,
+        "longitude": 14.406762299999999
+    },
+    {
+        "category": "gardens",
+        "title": "Zahrada Na valech",
+        "rating": 4.6,
+        "address": "Malá Strana, 119 00 Praha 1, Czechia",
+        "latitude": 50.090658499999996,
+        "longitude": 14.4033003
+    },
+    {
+        "category": "gardens",
+        "title": "Vojanovy sady",
+        "rating": 4.7,
+        "address": "U Lužického semináře, 118 00 Malá Strana, Czechia",
+        "latitude": 50.088875599999994,
+        "longitude": 14.4090669
+    },
+    {
+        "category": "gardens",
+        "title": "Riegrovy Sady",
+        "rating": 4.7,
+        "address": "Vinohrady, 120 00 Praha 2, Czechia",
+        "latitude": 50.0802844,
+        "longitude": 14.441560599999999
+    },
+    {
+        "category": "gardens",
+        "title": "Grébovka (Havlíčkovy sady)",
+        "rating": 4.8,
+        "address": "Havlíčkovy sady, 120 00 Praha 2-Vinohrady, Czechia",
+        "latitude": 50.0694696,
+        "longitude": 14.444992099999999
+    },
+    {
+        "category": "gardens",
+        "title": "Rajská Zahrada",
+        "rating": 4.6,
+        "address": "U Rajské zahrady, 130 00 Praha 3-Žižkov, Czechia",
+        "latitude": 50.0824462,
+        "longitude": 14.4428617
+    },
+    {
+        "category": "gardens",
+        "title": "Botanická zahrada Přírodovědecké fakulty UK",
+        "rating": 4.6,
+        "address": "Na Slupi 433 /16, 128 00 Nové Město, Czechia",
+        "latitude": 50.0713843,
+        "longitude": 14.4214886
+    },
+    {
+        "category": "gardens",
+        "title": "Letna Park",
+        "rating": 4.7,
+        "address": "Letná, 170 00 Praha 7, Czechia",
+        "latitude": 50.0959864,
+        "longitude": 14.4152831
+    },
+    {
+        "category": "gardens",
+        "title": "Paradise Garden",
+        "rating": 4.8,
+        "address": "Zámecké schody, 118 00 Malá Strana, Czechia",
+        "latitude": 50.0895392,
+        "longitude": 14.4001559
+    },
+    {
+        "category": "gardens",
+        "title": "Chotek Gardens",
+        "rating": 4.6,
+        "address": "Letná, 118 00 Praha 1, Czechia",
+        "latitude": 50.0941127,
+        "longitude": 14.4076864
+    },
+    {
+        "category": "gardens",
+        "title": "Letenské sady",
+        "rating": 4.7,
+        "address": "Czech Republic, Letenské sady 1503, 170 00 Praha, Czechia",
+        "latitude": 50.096529999999994,
+        "longitude": 14.4275399
+    },
+    {
+        "category": "gardens",
+        "title": "South Gardens of Prague Castle",
+        "rating": 4.8,
+        "address": "Hradčany, 119 00 Praha 1, Czechia",
+        "latitude": 50.0915567,
+        "longitude": 14.4052299
+    },
+    {
+        "category": "adventure parks",
+        "title": "Thrill Park Prague",
+        "rating": 4.8,
+        "address": "Provaznická 399/11, 110 00 Staré Město, Czechia",
+        "latitude": 50.085277399999995,
+        "longitude": 14.4239226
+    },
+    {
+        "category": "adventure parks",
+        "title": "DinoPark Harfa Praha",
+        "rating": 4.3,
+        "address": "Českomoravská 15a, 190 93 Praha 9, Czechia",
+        "latitude": 50.1046985,
+        "longitude": 14.490969
+    },
+    {
+        "category": "adventure parks",
+        "title": "Action Park",
+        "rating": 4.7,
+        "address": "Výpadová 157, 159 00 Zbraslav-Lahovice, Czechia",
+        "latitude": 49.994552399999996,
+        "longitude": 14.3956349
+    },
+    {
+        "category": "adventure parks",
+        "title": "Aquapalace Prague",
+        "rating": 4.4,
+        "address": "Pražská 138, 251 01 Čestlice-Říčany u Prahy, Czechia",
+        "latitude": 50.0074689,
+        "longitude": 14.5715265
+    },
+    {
+        "category": "adventure parks",
+        "title": "Funpark Giraffe",
+        "rating": 4.2,
+        "address": "Obchodní 106, 251 70 Čestlice-Říčany u Prahy, Czechia",
+        "latitude": 50.0002364,
+        "longitude": 14.5770558
+    },
+    {
+        "category": "adventure parks",
+        "title": "Majaland Praha",
+        "rating": 4.5,
+        "address": "Ke Kopanině 421, 252 67 Tuchoměřice, Czechia",
+        "latitude": 50.125855099999995,
+        "longitude": 14.283664199999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Avatar Park",
+        "rating": 4.9,
+        "address": "Veletržní 24, 170 00 Praha 7-Holešovice, Czechia",
+        "latitude": 50.1017565,
+        "longitude": 14.4294771
+    },
+    {
+        "category": "adventure parks",
+        "title": "LEVELS Prague",
+        "rating": 4.8,
+        "address": "Národní 63/26, 110 00 Nové Město, Czechia",
+        "latitude": 50.082308999999995,
+        "longitude": 14.4194829
+    },
+    {
+        "category": "adventure parks",
+        "title": "JumpPark Prague",
+        "rating": 4.4,
+        "address": "Na Jarově 2, 130 00 Praha 3, Czechia",
+        "latitude": 50.088445199999995,
+        "longitude": 14.4912203
+    },
+    {
+        "category": "adventure parks",
+        "title": "Park Mirakulum",
+        "rating": 4.8,
+        "address": "Topolová 629, 289 24 Milovice nad Labem 1, Czechia",
+        "latitude": 50.2393972,
+        "longitude": 14.8602507
+    },
+    {
+        "category": "adventure parks",
+        "title": "Královská obora Stromovka",
+        "rating": 4.8,
+        "address": "Královská obora, Bubeneč, 170 00 Praha 7, Czechia",
+        "latitude": 50.1063295,
+        "longitude": 14.419128899999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Zero Latency | Prague",
+        "rating": 5,
+        "address": "Na Poříčí 1067/25, 110 00 Nové Město, Czechia",
+        "latitude": 50.0900677,
+        "longitude": 14.4344
+    },
+    {
+        "category": "adventure parks",
+        "title": "Butterfly House",
+        "rating": 4.3,
+        "address": "The Playground, Na Příkopě 854/14, 110 00 Nové Město, Czechia",
+        "latitude": 50.0852498,
+        "longitude": 14.425582599999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "PROUD Rope Centre",
+        "rating": 4.5,
+        "address": "Rubeška 393/7, 190 00 Praha 9, Czechia",
+        "latitude": 50.111019999999996,
+        "longitude": 14.4940409
+    },
+    {
+        "category": "adventure parks",
+        "title": "The Playground",
+        "rating": 4.5,
+        "address": "Na Příkopě 854/14, 110 00 Nové Město, Czechia",
+        "latitude": 50.0852498,
+        "longitude": 14.425582599999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Breakout Prague",
+        "rating": 4.9,
+        "address": "Husinecká 25, 130 00 Praha 3-Žižkov, Czechia",
+        "latitude": 50.085833099999995,
+        "longitude": 14.4459874
+    },
+    {
+        "category": "adventure parks",
+        "title": "Aquacentrum Šutka",
+        "rating": 4.4,
+        "address": "Čimická 848/41, 182 00 Praha 8, Czechia",
+        "latitude": 50.1264853,
+        "longitude": 14.4363339
+    },
+    {
+        "category": "adventure parks",
+        "title": "Infinite Experience",
+        "rating": 4.4,
+        "address": "Národní 63/26, 110 00 Nové Město, Czechia",
+        "latitude": 50.0819045,
+        "longitude": 14.4175668
+    },
+    {
+        "category": "adventure parks",
+        "title": "Mazement",
+        "rating": 4.7,
+        "address": "Slezská 1177/27, 130 00 Vinohrady, Czechia",
+        "latitude": 50.0764387,
+        "longitude": 14.449824399999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Chyťte Bureše",
+        "rating": 4.2,
+        "address": "Na Švihance 1527/9, 120 00 Vinohrady, Czechia",
+        "latitude": 50.080717799999995,
+        "longitude": 14.4454949
+    },
+    {
+        "category": "hot springs",
+        "title": "GRAND RELAX Spa & Wellness / CZECH BEER SPA / CZECH THERMAL SPA",
+        "rating": 4.7,
+        "address": "Na Poříčí 42, 110 00 Nové Město, Czechia",
+        "latitude": 50.0901226,
+        "longitude": 14.436069499999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Original Beer Spa",
+        "rating": 4.8,
+        "address": "9, Žitná 658, Nové Město, 110 00 Praha, Czechia",
+        "latitude": 50.0775156,
+        "longitude": 14.422981199999999
+    },
+    {
+        "category": "hot springs",
+        "title": "ORIGINAL BEER SPA",
+        "rating": 4.8,
+        "address": "Rybná 3, 110 00 Staré Město, Czechia",
+        "latitude": 50.0880051,
+        "longitude": 14.426131499999999
+    },
+    {
+        "category": "hot springs",
+        "title": "LÁZNĚ PRAMEN - Beer and Wine Spa",
+        "rating": 4.9,
+        "address": "Dejvická 255/18, 160 00 Praha 6, Czechia",
+        "latitude": 50.097994,
+        "longitude": 14.4021589
+    },
+    {
+        "category": "hot springs",
+        "title": "Beer spa",
+        "rating": 4.6,
+        "address": "1806/1 2, Fügnerovo nám. 1, Nové Město, 120 00 Praha, Czechia",
+        "latitude": 50.0722093,
+        "longitude": 14.4297296
+    },
+    {
+        "category": "hot springs",
+        "title": "Volcano Spa Hotel",
+        "rating": 4.6,
+        "address": "K Sopce 839/30, 155 00 Praha 5-Jinonice, Czechia",
+        "latitude": 50.0450914,
+        "longitude": 14.3445491
+    },
+    {
+        "category": "hot springs",
+        "title": "Beer Spa Bernard Prague (in Majestic Plaza hotel)",
+        "rating": 4.7,
+        "address": "Štěpánská 33, 110 00 Nové Město, Czechia",
+        "latitude": 50.0785908,
+        "longitude": 14.425026299999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Palladium Prague",
+        "rating": 4.3,
+        "address": "Nám. Republiky 1078/1, 110 00 Petrská čtvrť, Czechia",
+        "latitude": 50.0892359,
+        "longitude": 14.429038499999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield Chodov",
+        "rating": 4.4,
+        "address": "Roztylská 2321/19, 148 00 Praha 11-Chodov, Czechia",
+        "latitude": 50.0304572,
+        "longitude": 14.4906768
+    },
+    {
+        "category": "shopping malls",
+        "title": "MYSLBEK Shopping Gallery",
+        "rating": 4.2,
+        "address": "Na Příkopě 1096/19, 110 00 Staré Město, Czechia",
+        "latitude": 50.085771699999995,
+        "longitude": 14.425372399999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "OC Quadrio",
+        "rating": 4.1,
+        "address": "Spálená 2121/22, 110 00 Nové Město, Czechia",
+        "latitude": 50.081639499999994,
+        "longitude": 14.4206758
+    },
+    {
+        "category": "shopping malls",
+        "title": "Eden Shopping Center",
+        "rating": 4.1,
+        "address": "U Slavie 1527, 100 00 Praha 10-Vršovice, Czechia",
+        "latitude": 50.0677781,
+        "longitude": 14.4686483
+    },
+    {
+        "category": "shopping malls",
+        "title": "Nový Smíchov Shopping Centre",
+        "rating": 4.3,
+        "address": "Plzeňská 8, 150 00 Praha 5-Smíchov, Czechia",
+        "latitude": 50.0731616,
+        "longitude": 14.402252599999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Karlák Shopping Square",
+        "rating": 4,
+        "address": "Karlovo nám. 10, 120 00 Nové Město, Czechia",
+        "latitude": 50.0753462,
+        "longitude": 14.4187218
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield Černý Most",
+        "rating": 4.5,
+        "address": "Chlumecká 765/6, 198 19 Praha 14-Černý Most, Czechia",
+        "latitude": 50.1079936,
+        "longitude": 14.581658099999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Fashion Arena Prague Outlet",
+        "rating": 4.3,
+        "address": "Zamenhofova 440, 108 00 Praha-Štěrboholy, Czechia",
+        "latitude": 50.074939199999996,
+        "longitude": 14.538991099999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shopping centrum Černá růže",
+        "rating": 4.1,
+        "address": "Na Příkopě 853, 110 00 Nové Město, Czechia",
+        "latitude": 50.085113899999996,
+        "longitude": 14.4252667
+    },
+    {
+        "category": "shopping malls",
+        "title": "Florentinum",
+        "rating": 4.3,
+        "address": "Na Florenci 2116, 110 00 Nové Město, Czechia",
+        "latitude": 50.0887677,
+        "longitude": 14.435983
+    },
+    {
+        "category": "shopping malls",
+        "title": "Novodvorská Plaza",
+        "rating": 4.2,
+        "address": "Novodvorská 1800/136, 142 00 Praha 4, Czechia",
+        "latitude": 50.026261299999994,
+        "longitude": 14.4324227
+    },
+    {
+        "category": "shopping malls",
+        "title": "Slovanský dům",
+        "rating": 4.4,
+        "address": "Na Příkopě 22, 110 00 Nové Město, Czechia",
+        "latitude": 50.086267299999996,
+        "longitude": 14.427290999999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shopping Center Šestka",
+        "rating": 4.1,
+        "address": "Fajtlova 1090, 161 00 Praha 6, Czechia",
+        "latitude": 50.0927479,
+        "longitude": 14.2921017
+    },
+    {
+        "category": "shopping malls",
+        "title": "Václavská passage",
+        "rating": 4.1,
+        "address": "Karlovo nám. 315/6, 120 00 Nové Město, Czechia",
+        "latitude": 50.0745462,
+        "longitude": 14.4186455
+    },
+    {
+        "category": "shopping malls",
+        "title": "OC Flora",
+        "rating": 4.2,
+        "address": "Vinohradská 2828/151, 130 00 Praha 3-Žižkov, Czechia",
+        "latitude": 50.078891,
+        "longitude": 14.461165
+    },
+    {
+        "category": "shopping malls",
+        "title": "Arkády Pankrác",
+        "rating": 4.4,
+        "address": "Na Pankráci 86, 140 00 Praha 4-Nusle, Czechia",
+        "latitude": 50.0509485,
+        "longitude": 14.437960499999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Galerie Harfa",
+        "rating": 4.4,
+        "address": "Českomoravská 2420/15a, 190 00 Praha 9, Czechia",
+        "latitude": 50.10389,
+        "longitude": 14.4913128
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centrum Krakov",
+        "rating": 4.3,
+        "address": "Lodžská 850/6, 181 00 Praha 8, Czechia",
+        "latitude": 50.127702299999996,
+        "longitude": 14.418033699999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Mysak Gallery",
+        "rating": 4.1,
+        "address": "Vodičkova 710, 110 00 Nové Město, Czechia",
+        "latitude": 50.0811111,
+        "longitude": 14.424444399999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Old Town Bridge Tower",
+        "rating": 4.8,
+        "address": "Karlův most, 110 00 Praha 1, Czechia",
+        "latitude": 50.0862306,
+        "longitude": 14.4136141
+    },
+    {
+        "category": "historical sites",
+        "title": "Prague Castle",
+        "rating": 4.7,
+        "address": "Hradčany, 119 08 Praha 1, Czechia",
+        "latitude": 50.0910966,
+        "longitude": 14.4016165
+    },
+    {
+        "category": "historical sites",
+        "title": "Klementinum",
+        "rating": 4.5,
+        "address": "Mariánské nám. 5, 110 00 Staré Město, Czechia",
+        "latitude": 50.0865979,
+        "longitude": 14.4160186
+    },
+    {
+        "category": "historical sites",
+        "title": "Golden Lane",
+        "rating": 4.4,
+        "address": "Pražský hrad Hrad III, nádvoří, 119 00 Praha 1, Czechia",
+        "latitude": 50.092049499999995,
+        "longitude": 14.4040813
+    },
+    {
+        "category": "historical sites",
+        "title": "Lobkowicz Palace",
+        "rating": 4.6,
+        "address": "Jiřská 3, 119 00 Praha 1-Hradčany, Czechia",
+        "latitude": 50.091648299999996,
+        "longitude": 14.4049502
+    },
+    {
+        "category": "historical sites",
+        "title": "Old Royal Palace",
+        "rating": 4.2,
+        "address": "Třetí nádvoří Pražského hradu 48, 119 00 Praha 1-Hradčany, Czechia",
+        "latitude": 50.0906905,
+        "longitude": 14.401145999999999
+    },
+    {
+        "category": "historical sites",
+        "title": "The Powder Tower",
+        "rating": 4.6,
+        "address": "Nám. Republiky 5, 110 00 Staré Město, Czechia",
+        "latitude": 50.087272999999996,
+        "longitude": 14.427788699999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Old Town Square",
+        "rating": 4.8,
+        "address": "Staroměstské nám., 110 00 Josefov, Czechia",
+        "latitude": 50.0875692,
+        "longitude": 14.421187499999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Prague Astronomical Clock",
+        "rating": 4.7,
+        "address": "Staroměstské nám. 1, 110 00 Josefov, Czechia",
+        "latitude": 50.0870215,
+        "longitude": 14.4207065
+    },
+    {
+        "category": "historical sites",
+        "title": "National Museum",
+        "rating": 4.6,
+        "address": "Václavské nám. 68, 110 00 Nové Město, Czechia",
+        "latitude": 50.078970399999996,
+        "longitude": 14.430936899999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Vítkov",
+        "rating": 4.7,
+        "address": "Žižkov, 130 00 Praha 3, Czechia",
+        "latitude": 50.088767,
+        "longitude": 14.4514582
+    },
+    {
+        "category": "historical sites",
+        "title": "Charles IV Statue",
+        "rating": 4.7,
+        "address": "Křižovnické nám., 110 00 Staré Město, Czechia",
+        "latitude": 50.086314599999994,
+        "longitude": 14.4139039
+    },
+    {
+        "category": "historical sites",
+        "title": "Gardens below Prague Castle",
+        "rating": 4.7,
+        "address": "14, Valdštejnská 158, Malá Strana, 110 00 Praha 1, Czechia",
+        "latitude": 50.0905595,
+        "longitude": 14.4059796
+    },
+    {
+        "category": "historical sites",
+        "title": "Clam-Gallas Palace",
+        "rating": 4.6,
+        "address": "Husova 158/20, 110 00 Staré Město, Czechia",
+        "latitude": 50.0864449,
+        "longitude": 14.417893399999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Statue of Saint Wenceslas",
+        "rating": 4.7,
+        "address": "Václavské nám., 110 00 Nové Město, Czechia",
+        "latitude": 50.0797799,
+        "longitude": 14.429731799999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Vyšehrad",
+        "rating": 4.8,
+        "address": "V Pevnosti 163/2, 128 00 Praha 2-Vyšehrad, Czechia",
+        "latitude": 50.062805499999996,
+        "longitude": 14.422155199999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Petrin Tower",
+        "rating": 4.5,
+        "address": "Petřínské sady 633, 118 00 Praha 1-Malá Strana, Czechia",
+        "latitude": 50.083527,
+        "longitude": 14.3950836
+    },
+    {
+        "category": "historical sites",
+        "title": "Brick Gate",
+        "rating": 4.7,
+        "address": "V Pevnosti 46/1, 128 00 Praha 2-Vyšehrad, Czechia",
+        "latitude": 50.0652919,
+        "longitude": 14.4191609
+    },
+    {
+        "category": "historical sites",
+        "title": "Column of the Holy Trinity",
+        "rating": 4.6,
+        "address": "Malostranské nám., 118 00 Malá Strana, Czechia",
+        "latitude": 50.0883225,
+        "longitude": 14.402465
+    },
+    {
+        "category": "historical sites",
+        "title": "St. Vitus Cathedral",
+        "rating": 4.8,
+        "address": "III. nádvoří 48/2, 119 01 Praha 1-Hradčany, Czechia",
+        "latitude": 50.090891799999994,
+        "longitude": 14.4005114
+    },
+    {
+        "category": "art galleries",
+        "title": "National Gallery Prague – Trade Fair Palace",
+        "rating": 4.5,
+        "address": "Dukelských Hrdinů 530/47, 170 00 Praha 7-Holešovice, Czechia",
+        "latitude": 50.1018276,
+        "longitude": 14.4326414
+    },
+    {
+        "category": "art galleries",
+        "title": "Central Gallery",
+        "rating": 4.2,
+        "address": "Staroměstské nám. 15, 110 00 Staré Město, Czechia",
+        "latitude": 50.087392699999995,
+        "longitude": 14.422233299999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Steel Art Museum",
+        "rating": 4.8,
+        "address": "Celetná 15, 110 00 Staré Město, Czechia",
+        "latitude": 50.0873378,
+        "longitude": 14.4243285
+    },
+    {
+        "category": "art galleries",
+        "title": "Lumia Gallery",
+        "rating": 4.4,
+        "address": "Celetná 596/15, 110 00 Staré Město, Czechia",
+        "latitude": 50.0872307,
+        "longitude": 14.424275999999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Banksy Museum Prague - The World of Banksy",
+        "rating": 4.6,
+        "address": "Michalská 662/29, 110 00 Staré Město, Czechia",
+        "latitude": 50.086251399999995,
+        "longitude": 14.420259399999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Kunsthalle Praha",
+        "rating": 4.6,
+        "address": "Klárov 1/5, 118 00 Malá Strana, Czechia",
+        "latitude": 50.0923112,
+        "longitude": 14.4095655
+    },
+    {
+        "category": "art galleries",
+        "title": "Mucha Museum",
+        "rating": 4.3,
+        "address": "Na Příkopě 852/10, 110 00 Nové Město, Czechia",
+        "latitude": 50.0849062,
+        "longitude": 14.425059099999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum Kampa",
+        "rating": 4.5,
+        "address": "U Sovových mlýnů 2, 118 00 Malá Strana, Czechia",
+        "latitude": 50.083652799999996,
+        "longitude": 14.4081415
+    },
+    {
+        "category": "art galleries",
+        "title": "Galerie Rudolfinum",
+        "rating": 4.7,
+        "address": "Alšovo nábř. 12, 110 00 Staré Město, Czechia",
+        "latitude": 50.090155499999995,
+        "longitude": 14.415192999999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Czech Museum of Cubism",
+        "rating": 4.4,
+        "address": "House at the Black Madonna, Ovocný trh 19, 110 00 Staré Město, Czechia",
+        "latitude": 50.0870611,
+        "longitude": 14.425497199999999
+    },
+    {
+        "category": "art galleries",
+        "title": "IAM Illusion Art Museum Prague",
+        "rating": 4.3,
+        "address": "Melantrichova 536/2, 110 00 Staré Město, Czechia",
+        "latitude": 50.0851495,
+        "longitude": 14.421745099999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum Montanelli",
+        "rating": 4.7,
+        "address": "Nerudova 250/13, 118 01 Malá Strana, Czechia",
+        "latitude": 50.0884169,
+        "longitude": 14.400202799999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Clam-Gallas Palace",
+        "rating": 4.6,
+        "address": "Husova 158/20, 110 00 Staré Město, Czechia",
+        "latitude": 50.0864449,
+        "longitude": 14.417893399999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Prague House of Photography",
+        "rating": 4.3,
+        "address": "5 1006 Revoluční, Staré Město, 110 00 Praha, Czechia",
+        "latitude": 50.0900573,
+        "longitude": 14.4274387
+    },
+    {
+        "category": "art galleries",
+        "title": "Prague Castle Riding School",
+        "rating": 4.7,
+        "address": "U Prašného mostu 3, 118 00 Praha 1-Hradčany, Czechia",
+        "latitude": 50.092354,
+        "longitude": 14.398242999999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Imperial Stables",
+        "rating": 4.7,
+        "address": "Druhé nádvoří Pražského hradu, 119 00 Praha 1-Hradčany, Czechia",
+        "latitude": 50.0907554,
+        "longitude": 14.3988456
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum of Fantastic Illusions",
+        "rating": 4.5,
+        "address": "Vodičkova 31, 110 00 Nové Město, Czechia",
+        "latitude": 50.081061399999996,
+        "longitude": 14.424498999999999
+    },
+    {
+        "category": "art galleries",
+        "title": "National Gallery Prague - Salm Palace",
+        "rating": 4.5,
+        "address": "Hradčanské nám. 1, 118 00 Praha 1-Hradčany, Czechia",
+        "latitude": 50.089245399999996,
+        "longitude": 14.3977436
+    },
+    {
+        "category": "art galleries",
+        "title": "Galerie Josefa Sudka",
+        "rating": 3.9,
+        "address": "Úvoz 160, 118 00 Praha 1-Hradčany, Czechia",
+        "latitude": 50.088315699999995,
+        "longitude": 14.394734099999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Film Legends Museum of Prague",
+        "rating": 4.7,
+        "address": "Opletalova 1535/4, 110 00 Nové Město, Czechia",
+        "latitude": 50.080917299999996,
+        "longitude": 14.4293699
+    },
+    {
+        "category": "theaters",
+        "title": "National Theatre",
+        "rating": 4.8,
+        "address": "Národní 2/110 00, 110 00 Nové Město, Czechia",
+        "latitude": 50.0808458,
+        "longitude": 14.4135753
+    },
+    {
+        "category": "theaters",
+        "title": "State Opera",
+        "rating": 4.8,
+        "address": "Wilsonova 4, 110 00 Praha 1-Vinohrady, Czechia",
+        "latitude": 50.0807207,
+        "longitude": 14.432691799999999
+    },
+    {
+        "category": "theaters",
+        "title": "The Estates Theatre",
+        "rating": 4.7,
+        "address": "Železná, 110 00 Staré Město, Czechia",
+        "latitude": 50.0859782,
+        "longitude": 14.4236651
+    },
+    {
+        "category": "theaters",
+        "title": "Divadlo Lucie Bílé",
+        "rating": 4.5,
+        "address": "Karlova 186/8, 110 00 Staré Město, Czechia",
+        "latitude": 50.085836799999996,
+        "longitude": 14.4151142
+    },
+    {
+        "category": "theaters",
+        "title": "Žižkovské divadlo Járy Cimrmana",
+        "rating": 4.9,
+        "address": "Štítného 520/5, 130 00 Praha 3-Žižkov, Czechia",
+        "latitude": 50.0855463,
+        "longitude": 14.4492651
+    },
+    {
+        "category": "theaters",
+        "title": "Karlin Musical Theatre",
+        "rating": 4.8,
+        "address": "Křižíkova 10/283, 186 00 Karlín, Czechia",
+        "latitude": 50.0901856,
+        "longitude": 14.4412196
+    },
+    {
+        "category": "theaters",
+        "title": "IMAGE Black light Theatre",
+        "rating": 4,
+        "address": "Národní 25, 110 00 Staré Město, Czechia",
+        "latitude": 50.0821614,
+        "longitude": 14.417955399999999
+    },
+    {
+        "category": "theaters",
+        "title": "Broadway Theatre",
+        "rating": 4.4,
+        "address": "Na Příkopě 988/31, 110 00 Staré Město, Czechia",
+        "latitude": 50.086603499999995,
+        "longitude": 14.4269854
+    },
+    {
+        "category": "theaters",
+        "title": "Činoherní klub",
+        "rating": 4.7,
+        "address": "Ve Smečkách 594/26, 110 00 Nové Město, Czechia",
+        "latitude": 50.0793484,
+        "longitude": 14.4273552
+    },
+    {
+        "category": "theaters",
+        "title": "Hybernia Theatre",
+        "rating": 4.3,
+        "address": "Náměstí Republiky 3/4, 110 00 Nové Město, Czechia",
+        "latitude": 50.087402999999995,
+        "longitude": 14.4288057
+    },
+    {
+        "category": "theaters",
+        "title": "Jatka78",
+        "rating": 4.7,
+        "address": "Hala číslo 7 a 8, Bubenské nábř. 306 /13, 170 00 Praha 7, Czechia",
+        "latitude": 50.1001136,
+        "longitude": 14.4465109
+    },
+    {
+        "category": "theaters",
+        "title": "MeetFactory",
+        "rating": 4.4,
+        "address": "Ke Sklárně 3213/15, 150 00 Praha 5-Smíchov, Czechia",
+        "latitude": 50.0532585,
+        "longitude": 14.4081552
+    },
+    {
+        "category": "theaters",
+        "title": "Laterna Magica",
+        "rating": 4.3,
+        "address": "Národní 4, 110 00 Nové Město, Czechia",
+        "latitude": 50.081279599999995,
+        "longitude": 14.4150192
+    },
+    {
+        "category": "theaters",
+        "title": "The New Stage of the National Theater",
+        "rating": 4.5,
+        "address": "Národní 1393, 110 00 Nové Město, Czechia",
+        "latitude": 50.081214599999996,
+        "longitude": 14.414386799999999
+    },
+    {
+        "category": "theaters",
+        "title": "Studio DVA divadlo",
+        "rating": 4.8,
+        "address": "Palác Fénix, Václavské nám. 802/56, 110 00 Praha 1, Czechia",
+        "latitude": 50.0798014,
+        "longitude": 14.428573499999999
+    },
+    {
+        "category": "theaters",
+        "title": "RockOpera",
+        "rating": 4.6,
+        "address": "Komunardů 306/1, 170 00 Praha 7-Holešovice, Czechia",
+        "latitude": 50.099922799999995,
+        "longitude": 14.449833199999999
+    },
+    {
+        "category": "theaters",
+        "title": "Reduta Jazz Club",
+        "rating": 4.3,
+        "address": "Národní 116/20, 110 00 Nové Město, Czechia",
+        "latitude": 50.082038399999995,
+        "longitude": 14.418368899999999
+    },
+    {
+        "category": "theaters",
+        "title": "Švanda Theater in Smíchov",
+        "rating": 4.7,
+        "address": "Štefánikova 6/57, 150 00 Praha 5-Smíchov, Czechia",
+        "latitude": 50.077816399999996,
+        "longitude": 14.403996399999999
+    },
+    {
+        "category": "theaters",
+        "title": "Spejbl and Hurvínek theatre",
+        "rating": 4.7,
+        "address": "38, Dejvická 919, Bubeneč, 160 00 Praha 6, Czechia",
+        "latitude": 50.0990883,
+        "longitude": 14.398889899999999
+    },
+    {
+        "category": "theaters",
+        "title": "Divadlo Minor",
+        "rating": 4.8,
+        "address": "6, Vodičkova 674, Nové Město, 110 00 Praha, Czechia",
+        "latitude": 50.0784702,
+        "longitude": 14.421802099999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Old Prague Souvenir shop",
+        "rating": 4.8,
+        "address": "Melantrichova 464, 110 00 Staré Město, Czechia",
+        "latitude": 50.0855737,
+        "longitude": 14.420709299999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Prague Souvenirs Shop",
+        "rating": 4.4,
+        "address": "Jilská 12, 110 00 Staré Město, Czechia",
+        "latitude": 50.0852243,
+        "longitude": 14.419299299999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "SouvenirPrague.com",
+        "rating": 3.9,
+        "address": "Kaprova 45/10, 110 00 Staré Město, Czechia",
+        "latitude": 50.0881688,
+        "longitude": 14.417397099999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Prague Souvenirs Shop & Jewellery Shop",
+        "rating": 4.9,
+        "address": "Železná 485/4, 110 00 Staré Město, Czechia",
+        "latitude": 50.086773199999996,
+        "longitude": 14.4214632
+    },
+    {
+        "category": "souvenir counters",
+        "title": "LOCAL ARTISTS",
+        "rating": 4.6,
+        "address": "149/21, Karlova, Staré Město, 110 00 Praha, Czechia",
+        "latitude": 50.086128099999996,
+        "longitude": 14.418447899999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs Prague shop",
+        "rating": 4.1,
+        "address": "Králodvorská 667/5, 110 00 Staré Město, Czechia",
+        "latitude": 50.087963099999996,
+        "longitude": 14.4265917
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Prague Souvenirs Shop",
+        "rating": 3.1,
+        "address": "Melantrichova 17, 110 00 Staré Město, Czechia",
+        "latitude": 50.0857951,
+        "longitude": 14.4205635
+    },
+    {
+        "category": "souvenir counters",
+        "title": "LOCAL ARTISTS",
+        "rating": 4.4,
+        "address": "Melantrichova 476/18, 110 00 Staré Město, Czechia",
+        "latitude": 50.0862784,
+        "longitude": 14.4207495
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Prague Souvenirs Shops",
+        "rating": 3,
+        "address": "Nerudova 206, 118 00 Malá Strana, Czechia",
+        "latitude": 50.088708999999994,
+        "longitude": 14.4017717
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gift shop Prague City Tourism",
+        "rating": 4.2,
+        "address": "Staroměstské nám. 1/3, 110 00 Staré Město, Czechia",
+        "latitude": 50.0868715,
+        "longitude": 14.420231099999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "ORLOJ SHOP",
+        "rating": 4.9,
+        "address": "Karlova 44, 110 00 Staré Město, Czechia",
+        "latitude": 50.0860622,
+        "longitude": 14.418570899999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Orel and friends",
+        "rating": 4.9,
+        "address": "Nerudova 207/6, 118 00 Malá Strana, Czechia",
+        "latitude": 50.088681799999996,
+        "longitude": 14.401713599999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Smaltum",
+        "rating": 4.2,
+        "address": "Karmelitská 28, 118 00 Malá Strana, Czechia",
+        "latitude": 50.087321599999996,
+        "longitude": 14.403846999999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Blue Prague",
+        "rating": 3.9,
+        "address": "Melantrichova 1062, 110 00 Staré Město, Czechia",
+        "latitude": 50.0855776,
+        "longitude": 14.421159399999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Fun Explosive",
+        "rating": 4.8,
+        "address": "Kaprova 52/6, 110 00 Staré Město, Czechia",
+        "latitude": 50.0883213,
+        "longitude": 14.416565799999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "I love Prague",
+        "rating": 2.8,
+        "address": "Na Můstku 378/12, 110 00 Staré Město, Czechia",
+        "latitude": 50.084317399999996,
+        "longitude": 14.4231146
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Prague Vibes",
+        "rating": 4.4,
+        "address": "Celetná 17, 110 00 Staré Město, Czechia",
+        "latitude": 50.0872193,
+        "longitude": 14.4245477
+    },
+    {
+        "category": "souvenir counters",
+        "title": "MAGES art souvenirs & poster store",
+        "rating": 5,
+        "address": "Týnská 639/4/110 00, 110 00 Staré Město, Czechia",
+        "latitude": 50.0880264,
+        "longitude": 14.4232078
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Djepeto, Ljubisa Ristic",
+        "rating": 2.7,
+        "address": "Karlova 184/12, 110 00 Staré Město, Czechia",
+        "latitude": 50.0860651,
+        "longitude": 14.4156924
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir",
+        "rating": 4,
+        "address": "Havelská 519, 110 00 Staré Město, Czechia",
+        "latitude": 50.083947099999996,
+        "longitude": 14.418743599999999
+    }
+]

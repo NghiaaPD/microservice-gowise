@@ -1,0 +1,2450 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Dataran Lang",
+        "rating": 4.4,
+        "address": "Persiaran Putera Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3088296,
+        "longitude": 99.85143889999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Langkawi Sky Bridge",
+        "rating": 4.6,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3865685999999995,
+        "longitude": 99.6619881
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Underwater World Langkawi",
+        "rating": 4.1,
+        "address": "Jalan Pantai Chenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2877171,
+        "longitude": 99.72859109999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Legenda Park",
+        "rating": 4.2,
+        "address": "Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3089226,
+        "longitude": 99.8546066
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Langkawi Skybridge Cable Car",
+        "rating": 4.5,
+        "address": "Jalan Telaga Tujuh, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3710862,
+        "longitude": 99.67167859999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Pulau Payar Marine Park",
+        "rating": 4.6,
+        "address": "Kompleks EB Adina peksn Baru Baron Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.058128,
+        "longitude": 100.03819039999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Pulau Beras Basah",
+        "rating": 4.2,
+        "address": "Kedah, Malaysia",
+        "latitude": 6.2234579,
+        "longitude": 99.7163004
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Seven Wells Waterfall",
+        "rating": 4.6,
+        "address": "Mukim, Jalan Telaga Tujuh, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3830867,
+        "longitude": 99.67411639999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Tanjung Rhu Mangrove Tour",
+        "rating": 4.5,
+        "address": "Pengkalan Nelayan Tanjung Rhu, Jalan Tanjung Rhu, Langkawi, Kedah, 07000 Langkawi, Malaysia",
+        "latitude": 6.4489247,
+        "longitude": 99.8167131
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Mangrove,Discovery and Activity in Langkawi Island",
+        "rating": 4.1,
+        "address": "No 17, kg bohor tempoyak, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4068306,
+        "longitude": 99.85924059999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Dayang Bunting Marble Geoforest Park",
+        "rating": 4.2,
+        "address": "Pulau Dayung Bunting, 07000, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2736184,
+        "longitude": 99.8097279
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Lake of Pregnant Maiden",
+        "rating": 4.3,
+        "address": "Strait Of, Malacca, Malaysia",
+        "latitude": 6.2078472,
+        "longitude": 99.784836
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Atma Alam Batik Art Village",
+        "rating": 4,
+        "address": "Padang Matsirat, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3512537,
+        "longitude": 99.73433399999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Teluk Burau",
+        "rating": 4.4,
+        "address": "Buray Bay, 4, Jl. Teluk Baru, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.364869199999999,
+        "longitude": 99.6731387
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Lubok Sembilang",
+        "rating": 5,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.35,
+        "longitude": 99.8
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Malaysia",
+        "rating": null,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.35,
+        "longitude": 99.8
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Langkawi",
+        "rating": 4.5,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.35,
+        "longitude": 99.8
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Wang buluh cave",
+        "rating": null,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.35,
+        "longitude": 99.8
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Peters Garten",
+        "rating": null,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.35,
+        "longitude": 99.8
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Durian Perangin Waterfall",
+        "rating": 4.6,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.403556,
+        "longitude": 99.820218
+    },
+    {
+        "category": "parks",
+        "title": "Langkawi Wildlife Park",
+        "rating": 4.4,
+        "address": "Lot 1485, Jalan Ayer Hangat, Kampung Belanga Pechah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3876455,
+        "longitude": 99.86217169999999
+    },
+    {
+        "category": "parks",
+        "title": "Splash Out Langkawi",
+        "rating": 4.6,
+        "address": "PT 1233 Persiaran Mutiara Kelana Mas Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3227934,
+        "longitude": 99.8451565
+    },
+    {
+        "category": "parks",
+        "title": "Kilim Geoforest Park",
+        "rating": 4.6,
+        "address": "Kilim River Tourism Jetty, Mukim, Kampung Kilim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4050671,
+        "longitude": 99.85834799999999
+    },
+    {
+        "category": "parks",
+        "title": "Legenda Park",
+        "rating": 4.2,
+        "address": "Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3089226,
+        "longitude": 99.8546066
+    },
+    {
+        "category": "parks",
+        "title": "Crocodile Adventureland Langkawi",
+        "rating": 4.4,
+        "address": "Jalan Datai, Mukim Air Hangat, 07100 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4023705,
+        "longitude": 99.7120747
+    },
+    {
+        "category": "parks",
+        "title": "SKYTREX Adventure Langkawi",
+        "rating": 4.7,
+        "address": "Jalan Teluk Yu, Kampung Kok, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.370512,
+        "longitude": 99.68103599999999
+    },
+    {
+        "category": "parks",
+        "title": "Langkawi Nature Park",
+        "rating": 3.7,
+        "address": "Kuala Kisap Forest Reserve, Jalan Ayer Hangat, Kampung Belanga Pechah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3910484,
+        "longitude": 99.8624607
+    },
+    {
+        "category": "restaurants",
+        "title": "Pia's the Padi",
+        "rating": 4.4,
+        "address": "Jalan Ulu Melaka, Kampung Padang Gaong, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3604929,
+        "longitude": 99.77872359999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Al Medan Syrian Restaurant",
+        "rating": 4.7,
+        "address": "Lot 5, Persiaran dayang Pekan Rabu - baru Baron Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3178768,
+        "longitude": 99.84990649999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Hidden Langkawi",
+        "rating": 4.1,
+        "address": "2461, Jalan Pantai Tengah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2814368,
+        "longitude": 99.72983029999999
+    },
+    {
+        "category": "restaurants",
+        "title": "The Fat Frog",
+        "rating": 4.7,
+        "address": "East Estate, The Fat Frog, 99, Jalan Padang Matsirat, Mk Ulu Melaka, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.323130099999999,
+        "longitude": 99.7882913
+    },
+    {
+        "category": "restaurants",
+        "title": "Haroo Korean Restaurant",
+        "rating": 4.8,
+        "address": "Lot 31, Jalan Pantai Tengah, Jl. Teluk Baru, Mukim kedawang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2784721,
+        "longitude": 99.7332527
+    },
+    {
+        "category": "restaurants",
+        "title": "THE CLIFF BEACH RESTAURANT SDN BHD (1329221-U)",
+        "rating": 4,
+        "address": "Lot 63 & 40, Cenang, Mukim Kedawang, Lebuh Pantai, 07000 Pulau Langkawi, Kedah, Malaysia",
+        "latitude": 6.287198999999999,
+        "longitude": 99.7272826
+    },
+    {
+        "category": "restaurants",
+        "title": "Wonderland Food Store",
+        "rating": 4.4,
+        "address": "179;181, 07000, 180, Persiaran Mutiara 2, Pusat Perdagangan Kelana Mas, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3246899999999995,
+        "longitude": 99.8438776
+    },
+    {
+        "category": "restaurants",
+        "title": "German Food Corner (1024783-W)",
+        "rating": 4.5,
+        "address": "Oriental Village, Langkawi Cable Car, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3706745,
+        "longitude": 99.67300859999999
+    },
+    {
+        "category": "restaurants",
+        "title": "FatCupid - Cafe & Restaurant",
+        "rating": 4.4,
+        "address": "Lot 2273, Kampung Tasek Anak, La Pari-Pari Resort, Jalan Pantai Tengah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2796451,
+        "longitude": 99.7341079
+    },
+    {
+        "category": "restaurants",
+        "title": "Gallo Nero Italian Restaurant",
+        "rating": 4.6,
+        "address": "19, Bandar, Jalan Padang Matsirat, Kampung Padang Mat Sirat, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.35056,
+        "longitude": 99.7318528
+    },
+    {
+        "category": "restaurants",
+        "title": "The Beach Grill",
+        "rating": 4.5,
+        "address": "The Ritz-Carlton, Langkawi, PT 313, Jalan Pantai Kok, Teluk Nibong, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3582372,
+        "longitude": 99.6922566
+    },
+    {
+        "category": "restaurants",
+        "title": "The Roof Restaurant",
+        "rating": 4.3,
+        "address": "Lot 1751, Kampung Kuala Teriang, Mukim Padang Matsirat 07100, Pulau Langkawi, 07100 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3605713,
+        "longitude": 99.7145003
+    },
+    {
+        "category": "restaurants",
+        "title": "Orkid Ria Seafood Restaurant",
+        "rating": 4.2,
+        "address": "Lot 418, Jalan Pantai Tengah, Jl. Teluk Baru, Mukim Kedawang, 07100 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2790589,
+        "longitude": 99.73270049999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Rimba Restaurant at Ambong Pool Villas",
+        "rating": 4.5,
+        "address": "Ambong Pool Villas, Jl. Teluk Baru, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2683046,
+        "longitude": 99.7331012
+    },
+    {
+        "category": "restaurants",
+        "title": "Kayuputi Langkawi",
+        "rating": 4.6,
+        "address": "Palau Langkawi Kedah MY, Jalan Pantai Beringin, 07000, Malaysia",
+        "latitude": 6.2965727,
+        "longitude": 99.8596273
+    },
+    {
+        "category": "restaurants",
+        "title": "Nam Restaurant",
+        "rating": 4.4,
+        "address": "Bon Ton Restaurant & Resort Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3097123999999996,
+        "longitude": 99.7230969
+    },
+    {
+        "category": "restaurants",
+        "title": "Restoran Kak Yan Nasi Campur",
+        "rating": 4.4,
+        "address": "9Q38+22, Jalan Ulu Melaka, Kampung Padang Gaong, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.350935499999999,
+        "longitude": 99.76493599999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Telaga Halab Restaurant , المطعم السوري تلاقي حلب",
+        "rating": 4.7,
+        "address": "TELAGA WALK, Jalan Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.303217,
+        "longitude": 99.7231587
+    },
+    {
+        "category": "restaurants",
+        "title": "Restoran Siti Fatimah",
+        "rating": 4.3,
+        "address": "Batu 5 1/4, Jalan Kampung Tok Senik, Kampung Mata Air Mukim, 07000 Pulau Langkawi, Kedah, Malaysia",
+        "latitude": 6.327200599999999,
+        "longitude": 99.7826913
+    },
+    {
+        "category": "restaurants",
+        "title": "MY French Factory",
+        "rating": 4.6,
+        "address": "Ground floor, of the Langgura Baron Resort, Jalan Pantai Cenang, Kampung Lubok Buaya, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2902638,
+        "longitude": 99.7278611
+    },
+    {
+        "category": "cafes",
+        "title": "CoffeeNuts Cafe",
+        "rating": 5,
+        "address": "12, Jalan Telaga Tujuh, 07100 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3776492,
+        "longitude": 99.67384969999999
+    },
+    {
+        "category": "cafes",
+        "title": "Arts Cafe Langkawi (KV0014341-P)",
+        "rating": 4.3,
+        "address": "54, Jalan Pandak Mayah 5 Kuah, 07000 Kuah, Kedah, Malaysia",
+        "latitude": 6.3217634,
+        "longitude": 99.8515187
+    },
+    {
+        "category": "cafes",
+        "title": "Co B Diem Langkawi",
+        "rating": 4.8,
+        "address": "No. 55, Kampung Padang Lalang Kuah Gudang, Kampung Padang Lalang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3226289,
+        "longitude": 99.85220059999999
+    },
+    {
+        "category": "cafes",
+        "title": "MARII Cafe - LANGKAWI",
+        "rating": 4.4,
+        "address": "NO 1 GROUND FLOOR, CASA FINA AVENUE, Jalan Pantai Chenang, MUKIM KEDAWANG, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.286901599999999,
+        "longitude": 99.7299906
+    },
+    {
+        "category": "cafes",
+        "title": "omaré boutique cafe langkawi",
+        "rating": 4.8,
+        "address": "153, Jalan Pantai Tengah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2754482,
+        "longitude": 99.7339758
+    },
+    {
+        "category": "cafes",
+        "title": "Seb's Cafe @ Langkawi",
+        "rating": 4.9,
+        "address": "Jl. Teluk Baru, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.276635,
+        "longitude": 99.73365419999999
+    },
+    {
+        "category": "cafes",
+        "title": "Pause Cafe Langkawi",
+        "rating": 4.8,
+        "address": "No.80B(the upper floor of the Seoul korean restaurant), Dayang Walk Persiaran Pelangi 1 Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.325288,
+        "longitude": 99.83517769999999
+    },
+    {
+        "category": "cafes",
+        "title": "Morn & Co. Café Langkawi",
+        "rating": 4.9,
+        "address": "132, Jalan Pantai Kok, Kampung Batu Ara, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.362745299999999,
+        "longitude": 99.7106068
+    },
+    {
+        "category": "cafes",
+        "title": "koffeemilia langkawi",
+        "rating": 4.8,
+        "address": "231, Jalan Pantai Tengah, Kampung Padang Putih, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2887708,
+        "longitude": 99.7353626
+    },
+    {
+        "category": "cafes",
+        "title": "3pm Dessert Cafe",
+        "rating": 4.6,
+        "address": "52, Persiaran Bunga Raya, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3270333,
+        "longitude": 99.8421638
+    },
+    {
+        "category": "cafes",
+        "title": "Heehee Cafe Concept Store (Langkawi)",
+        "rating": 4.8,
+        "address": "L1A-03, Heehee Concept Store MAHA Tower, Persiaran Mahawangsa, 07000 Kuah, Kedah, Malaysia",
+        "latitude": 6.3198514,
+        "longitude": 99.84590949999999
+    },
+    {
+        "category": "cafes",
+        "title": "Smiling Buffalo Cafe",
+        "rating": 4.4,
+        "address": "965, Jalan Pantai Chenang, Mukim Kedawang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3045371999999995,
+        "longitude": 99.7219396
+    },
+    {
+        "category": "cafes",
+        "title": "Hangout Cafe",
+        "rating": 4.5,
+        "address": "Persiaran Dayang, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3256771999999994,
+        "longitude": 99.83624449999999
+    },
+    {
+        "category": "cafes",
+        "title": "Bohor Coffee n' Cafe",
+        "rating": 4.5,
+        "address": "Lot 950, Coffee n Cafe, Jalan Padang Matsirat, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3514566,
+        "longitude": 99.73807529999999
+    },
+    {
+        "category": "cafes",
+        "title": "Yellow Beach Cafe",
+        "rating": 4.1,
+        "address": "Jalan Pantai Cenang, Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.289384999999999,
+        "longitude": 99.7273455
+    },
+    {
+        "category": "cafes",
+        "title": "Ngopi Pantai Beachfront Coffeeshop",
+        "rating": 4.3,
+        "address": "Cenang Hill Beachfront Lot 113, Tasik Anak, Teluk Bharu, Jalan Pantai Tengah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2758275999999995,
+        "longitude": 99.7309008
+    },
+    {
+        "category": "cafes",
+        "title": "Cofi Brew",
+        "rating": 4.9,
+        "address": "Gerai, Medan Niaga, No.9, Jalan Padang Matsirat, Jalan Airport, 07100 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3516213,
+        "longitude": 99.7296901
+    },
+    {
+        "category": "cafes",
+        "title": "Halaman.1295",
+        "rating": 4.8,
+        "address": "No. 11, Taman Dayang, Jalan Ayer Hangat, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3335738,
+        "longitude": 99.8607416
+    },
+    {
+        "category": "cafes",
+        "title": "TIMELY CAFE LANGKAWI",
+        "rating": 5,
+        "address": "Dorm master 105, Jalan Pantai Kok Kuala Teriang, Mukim, Padang Matsirat, 07100 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3633963,
+        "longitude": 99.7151956
+    },
+    {
+        "category": "cafes",
+        "title": "FatCupid - Cafe & Restaurant",
+        "rating": 4.4,
+        "address": "Lot 2273, Kampung Tasek Anak, La Pari-Pari Resort, Jalan Pantai Tengah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2796451,
+        "longitude": 99.7341079
+    },
+    {
+        "category": "mountains",
+        "title": "Gunung Machinchang",
+        "rating": 4.6,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3861111,
+        "longitude": 99.6611111
+    },
+    {
+        "category": "mountains",
+        "title": "Gunung Raya",
+        "rating": 4.3,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3688889,
+        "longitude": 99.8186111
+    },
+    {
+        "category": "mountains",
+        "title": "Gunung Kuang",
+        "rating": 2,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3333333,
+        "longitude": 99.8666667
+    },
+    {
+        "category": "mountains",
+        "title": "Tanjung Kemarong",
+        "rating": null,
+        "address": "Langkawi, Kedah, Malaysia",
+        "latitude": 6.475,
+        "longitude": 99.8269444
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Tanjung Sembilan",
+        "rating": 3,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.285277799999999,
+        "longitude": 99.75222219999999
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Lembu",
+        "rating": 4.5,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3175,
+        "longitude": 99.7475
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Malut",
+        "rating": 3,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.313888899999999,
+        "longitude": 99.7644444
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Wang",
+        "rating": null,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3008333,
+        "longitude": 99.7602778
+    },
+    {
+        "category": "mountains",
+        "title": "Langkawi Skybridge Cable Car",
+        "rating": 4.5,
+        "address": "Jalan Telaga Tujuh, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3710862,
+        "longitude": 99.67167859999999
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Temoyong",
+        "rating": 5,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2769444,
+        "longitude": 99.74138889999999
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Tembak",
+        "rating": 5,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3983333,
+        "longitude": 99.8577778
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Tekoh",
+        "rating": 4,
+        "address": "Kampung Sungai Batu, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3052778,
+        "longitude": 99.795
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Sawak",
+        "rating": 3,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.383333299999999,
+        "longitude": 99.75
+    },
+    {
+        "category": "waterfalls",
+        "title": "Seven Wells Waterfall",
+        "rating": 4.6,
+        "address": "Mukim, Jalan Telaga Tujuh, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3830867,
+        "longitude": 99.67411639999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Temurun Waterfall",
+        "rating": 4.4,
+        "address": "161, Jalan Datai, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4339872,
+        "longitude": 99.708224
+    },
+    {
+        "category": "waterfalls",
+        "title": "Langkawi Falls",
+        "rating": 4.4,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4347721,
+        "longitude": 99.7074311
+    },
+    {
+        "category": "waterfalls",
+        "title": "Durian Perangin Waterfall",
+        "rating": 4.6,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.403556,
+        "longitude": 99.820218
+    },
+    {
+        "category": "waterfalls",
+        "title": "Tok Kasa Waterfall",
+        "rating": 4.3,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3909978,
+        "longitude": 99.7732243
+    },
+    {
+        "category": "waterfalls",
+        "title": "Tama waterfall langkawi",
+        "rating": 4.6,
+        "address": "Langkawi Cable Car, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.391544199999999,
+        "longitude": 99.64448329999999
+    },
+    {
+        "category": "lakes",
+        "title": "Lake of Pregnant Maiden",
+        "rating": 4.3,
+        "address": "Strait Of, Malacca, Malaysia",
+        "latitude": 6.2078472,
+        "longitude": 99.784836
+    },
+    {
+        "category": "lakes",
+        "title": "Dayang Bunting Lake",
+        "rating": 4.4,
+        "address": "Kedah, Malaysia",
+        "latitude": 6.205805499999999,
+        "longitude": 99.78529739999999
+    },
+    {
+        "category": "lakes",
+        "title": "Dayang Bunting Lake (Tasik Dayang Bunting)",
+        "rating": 4.2,
+        "address": "Kedah, Malaysia",
+        "latitude": 6.205805499999999,
+        "longitude": 99.78529739999999
+    },
+    {
+        "category": "beaches",
+        "title": "Pantai Kok Langkawi",
+        "rating": 3.9,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3643529999999995,
+        "longitude": 99.67000089999999
+    },
+    {
+        "category": "beaches",
+        "title": "Pantai Tengah",
+        "rating": 4,
+        "address": "16, Jalan Pantai Chenang, Kampung Lubok Buaya, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.284926899999999,
+        "longitude": 99.7285418
+    },
+    {
+        "category": "beaches",
+        "title": "Pantai Cenang",
+        "rating": 4.5,
+        "address": "07000, Kedah, Malaysia",
+        "latitude": 6.2955916,
+        "longitude": 99.72281319999999
+    },
+    {
+        "category": "beaches",
+        "title": "Tanjung Rhu Beach",
+        "rating": 4.6,
+        "address": "07000, Kedah, Malaysia",
+        "latitude": 6.4543900999999995,
+        "longitude": 99.8219476
+    },
+    {
+        "category": "beaches",
+        "title": "Pantai Tanjong Rhu",
+        "rating": 4.8,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4572221999999995,
+        "longitude": 99.8255556
+    },
+    {
+        "category": "beaches",
+        "title": "Langkawi",
+        "rating": null,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.35,
+        "longitude": 99.8
+    },
+    {
+        "category": "beaches",
+        "title": "Pasir Tengkorak Beach to airport",
+        "rating": 4.6,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4304219,
+        "longitude": 99.7259601
+    },
+    {
+        "category": "beaches",
+        "title": "Pantai Cenang",
+        "rating": 4.5,
+        "address": "Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2906267,
+        "longitude": 99.72654279999999
+    },
+    {
+        "category": "beaches",
+        "title": "Pantai Beringin",
+        "rating": 2,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2958333,
+        "longitude": 99.8616667
+    },
+    {
+        "category": "beaches",
+        "title": "Lagenda Beach",
+        "rating": 4.3,
+        "address": "Kedah, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.314432099999999,
+        "longitude": 99.8516779
+    },
+    {
+        "category": "beaches",
+        "title": "Pantai Telok Nibong",
+        "rating": 4,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3605556,
+        "longitude": 99.70111109999999
+    },
+    {
+        "category": "beaches",
+        "title": "شاطي رمال",
+        "rating": 3.6,
+        "address": "Jalan Tanjung Rhu, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4431511,
+        "longitude": 99.80419649999999
+    },
+    {
+        "category": "beaches",
+        "title": "PARADISE 101 LANGKAWI",
+        "rating": 4.4,
+        "address": "Jalan, Lot 57, Seksyen (HSM) 10DR744, MUKIM, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3660163,
+        "longitude": 99.68179149999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Berjaya Langkawi Resort",
+        "rating": 4.4,
+        "address": "Karung Berkunci 200 Burau Bay, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3669036,
+        "longitude": 99.6674747
+    },
+    {
+        "category": "swimming pools",
+        "title": "La Villa Langkawi - Private Pool",
+        "rating": 4.9,
+        "address": "Jalan Pantai Tengah, Pantai Tengah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2910042,
+        "longitude": 99.7370452
+    },
+    {
+        "category": "swimming pools",
+        "title": "Ambong Pool Villas",
+        "rating": 4.7,
+        "address": "Jl. Teluk Baru, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2682842999999995,
+        "longitude": 99.7329788
+    },
+    {
+        "category": "swimming pools",
+        "title": "Adagaya Villa Langkawi ~ Private Pool",
+        "rating": 4.9,
+        "address": "LOT 91, KAMPUNG BOHOR DARAT BENTA, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3270368,
+        "longitude": 99.7406338
+    },
+    {
+        "category": "swimming pools",
+        "title": "Maneh Villa Langkawi - Private Pool",
+        "rating": 4.9,
+        "address": "Lot 1240, Jalan Pantai Tengah Kampung Tasik Anak, Temoyong Mukim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2817148,
+        "longitude": 99.7332138
+    },
+    {
+        "category": "swimming pools",
+        "title": "Frangipani Main Pool",
+        "rating": 4.3,
+        "address": "The Frangipani Langkawi Resort & Spa, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.279194899999999,
+        "longitude": 99.7305155
+    },
+    {
+        "category": "swimming pools",
+        "title": "Cenang Rooms With Pool by Virgo Star Resort",
+        "rating": 4.5,
+        "address": "pantai cenang Mukim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2820247,
+        "longitude": 99.7330889
+    },
+    {
+        "category": "swimming pools",
+        "title": "The Westin Langkawi Resort & Spa",
+        "rating": 4.5,
+        "address": "Jalan Pantai, Jalan Dato Syed Omar, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.300112299999999,
+        "longitude": 99.85539999999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Infinity Pool",
+        "rating": 5,
+        "address": "16, Jalan Pantai Chenang, Kampung Lubok Buaya, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2831394,
+        "longitude": 99.7298376
+    },
+    {
+        "category": "swimming pools",
+        "title": "Homestay Swimming Pool Langkawi",
+        "rating": 5,
+        "address": "Taman Cenderawasih, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3220316,
+        "longitude": 99.7853646
+    },
+    {
+        "category": "swimming pools",
+        "title": "Pelangi Beach Resort & Spa, Langkawi",
+        "rating": 4.5,
+        "address": "Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2992534,
+        "longitude": 99.7208867
+    },
+    {
+        "category": "swimming pools",
+        "title": "RNJ Swimming Academy (Langkawi)",
+        "rating": 4.9,
+        "address": "6, Jalan Mahawangsa 1 Kuah, 07000 Kuah, 07000 Pulau Langkawi, Kedah, Malaysia",
+        "latitude": 6.3214331,
+        "longitude": 99.8478331
+    },
+    {
+        "category": "swimming pools",
+        "title": "Four Seasons Resort Langkawi, Malaysia",
+        "rating": 4.6,
+        "address": "Four Seasons Resort, Jalan Tanjung Rhu, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4464255,
+        "longitude": 99.8079635
+    },
+    {
+        "category": "swimming pools",
+        "title": "The Danna Langkawi",
+        "rating": 4.8,
+        "address": "Pantai Kok, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3677477,
+        "longitude": 99.68136589999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Langkawi Lagoon",
+        "rating": 3.4,
+        "address": "Lot 78, Jalan Kuala Muda, Padang Matsirat, 07100 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3523537,
+        "longitude": 99.71827789999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Holiday Villa Resort & Beachclub Langkawi",
+        "rating": 4.1,
+        "address": "Lot 1698, Jl. Teluk Baru, Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2736108999999995,
+        "longitude": 99.7328627
+    },
+    {
+        "category": "swimming pools",
+        "title": "PARKROYAL Langkawi Resort",
+        "rating": 4.6,
+        "address": "Lot 60199, Pantai Tengah Pulau Langkawi, Bandar Padang Matsirat, 07000, Kedah, Malaysia",
+        "latitude": 6.2827481,
+        "longitude": 99.73018909999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "The Ocean Residence Langkawi",
+        "rating": 4.3,
+        "address": "1 Ocean Front Estate, Bukit Benggali, Kuah, Langkawi, Kedah, Malaysia",
+        "latitude": 6.3209358,
+        "longitude": 99.8117417
+    },
+    {
+        "category": "swimming pools",
+        "title": "The St. Regis Langkawi",
+        "rating": 4.7,
+        "address": "Jalan Pantai Beringin, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2961675,
+        "longitude": 99.8625737
+    },
+    {
+        "category": "swimming pools",
+        "title": "Horizon and Kids Pool",
+        "rating": 3.9,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.298741499999999,
+        "longitude": 99.7199211
+    },
+    {
+        "category": "resorts",
+        "title": "Berjaya Langkawi Resort",
+        "rating": 4.4,
+        "address": "Karung Berkunci 200 Burau Bay, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3669036,
+        "longitude": 99.6674747
+    },
+    {
+        "category": "resorts",
+        "title": "The Westin Langkawi Resort & Spa",
+        "rating": 4.5,
+        "address": "Jalan Pantai, Jalan Dato Syed Omar, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.300112299999999,
+        "longitude": 99.85539999999999
+    },
+    {
+        "category": "resorts",
+        "title": "Pelangi Beach Resort & Spa, Langkawi",
+        "rating": 4.5,
+        "address": "Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2992534,
+        "longitude": 99.7208867
+    },
+    {
+        "category": "resorts",
+        "title": "Four Seasons Resort Langkawi, Malaysia",
+        "rating": 4.6,
+        "address": "Four Seasons Resort, Jalan Tanjung Rhu, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4464255,
+        "longitude": 99.8079635
+    },
+    {
+        "category": "resorts",
+        "title": "The Ritz-Carlton, Langkawi",
+        "rating": 4.6,
+        "address": "PT 313, Jalan Pantai Kok, Teluk Nibung, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3589451,
+        "longitude": 99.695296
+    },
+    {
+        "category": "resorts",
+        "title": "The St. Regis Langkawi",
+        "rating": 4.7,
+        "address": "Jalan Pantai Beringin, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2961675,
+        "longitude": 99.8625737
+    },
+    {
+        "category": "resorts",
+        "title": "The Danna Langkawi",
+        "rating": 4.8,
+        "address": "Pantai Kok, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3677477,
+        "longitude": 99.68136589999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Frangipani Langkawi Resort",
+        "rating": 4.2,
+        "address": "Jalan Teluk Baru, Jalan Pantai Tengah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.279339299999999,
+        "longitude": 99.73115539999999
+    },
+    {
+        "category": "resorts",
+        "title": "Holiday Villa Resort & Beachclub Langkawi",
+        "rating": 4.1,
+        "address": "Lot 1698, Jl. Teluk Baru, Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2736108999999995,
+        "longitude": 99.7328627
+    },
+    {
+        "category": "resorts",
+        "title": "PARKROYAL Langkawi Resort",
+        "rating": 4.6,
+        "address": "Lot 60199, Pantai Tengah Pulau Langkawi, Bandar Padang Matsirat, 07000, Kedah, Malaysia",
+        "latitude": 6.2827481,
+        "longitude": 99.73018909999999
+    },
+    {
+        "category": "resorts",
+        "title": "Rebak Island Resort & Marina, Langkawi",
+        "rating": 4.4,
+        "address": "Pulau Rebak Besar Peti Surat 125, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2940669,
+        "longitude": 99.7010325
+    },
+    {
+        "category": "resorts",
+        "title": "Tanjung Rhu Resort, Langkawi",
+        "rating": 4.4,
+        "address": "Mukim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4544923,
+        "longitude": 99.823509
+    },
+    {
+        "category": "resorts",
+        "title": "The Datai Langkawi",
+        "rating": 4.7,
+        "address": "Jln Teluk Datai, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.422573,
+        "longitude": 99.6704453
+    },
+    {
+        "category": "resorts",
+        "title": "Dayang Bay Resort Langkawi",
+        "rating": 3.9,
+        "address": "Jalan Taman Pelangi, 07100 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3247409,
+        "longitude": 99.8353949
+    },
+    {
+        "category": "resorts",
+        "title": "The Ocean Residence Langkawi",
+        "rating": 4.3,
+        "address": "1 Ocean Front Estate, Bukit Benggali, Kuah, Langkawi, Kedah, Malaysia",
+        "latitude": 6.3209358,
+        "longitude": 99.8117417
+    },
+    {
+        "category": "resorts",
+        "title": "Temple Tree Resort Langkawi",
+        "rating": 4.5,
+        "address": "Lot 1053, Jalan Pantai Chenang, Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3078351999999995,
+        "longitude": 99.7231836
+    },
+    {
+        "category": "resorts",
+        "title": "Dash Resort Langkawi",
+        "rating": 4.2,
+        "address": "Jalan Teluk Baru, Jalan Pantai Tengah, Mukim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2714871,
+        "longitude": 99.731982
+    },
+    {
+        "category": "resorts",
+        "title": "Ambong Pool Villas",
+        "rating": 4.7,
+        "address": "Jl. Teluk Baru, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2682842999999995,
+        "longitude": 99.7329788
+    },
+    {
+        "category": "resorts",
+        "title": "Bella Vista Waterfront Langkawi",
+        "rating": 3.8,
+        "address": "Persiaran Muda 2, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3239586999999995,
+        "longitude": 99.8436565
+    },
+    {
+        "category": "resorts",
+        "title": "Ambong Rainforest Retreat",
+        "rating": 4.8,
+        "address": "Jalan Pantai Tengah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.270043299999999,
+        "longitude": 99.7344466
+    },
+    {
+        "category": "camping sites",
+        "title": "Langkawi Island Campsite dormitory bed",
+        "rating": 4.4,
+        "address": "161, Lrg Kg. Batu Ara 5, Kuala Teriang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3606454,
+        "longitude": 99.7097063
+    },
+    {
+        "category": "camping sites",
+        "title": "Dayang Bunting Campsite",
+        "rating": 3.5,
+        "address": "07000, Kedah, Malaysia",
+        "latitude": 6.2743671999999995,
+        "longitude": 99.80371199999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Coconest Langkawi",
+        "rating": 4.1,
+        "address": "Jalan Tanjung Rhu, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4545293,
+        "longitude": 99.833331
+    },
+    {
+        "category": "camping sites",
+        "title": "Langkawi Kilim Geopark Glamping",
+        "rating": 5,
+        "address": "Lot 1453, Kampung Kilim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4009203999999995,
+        "longitude": 99.8511862
+    },
+    {
+        "category": "camping sites",
+        "title": "Tropical Eco Camping",
+        "rating": 4.1,
+        "address": "Jl. Teluk Baru, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.269741799999999,
+        "longitude": 99.7399214
+    },
+    {
+        "category": "hiking trails",
+        "title": "Telaga Tujuh",
+        "rating": 4.7,
+        "address": "12, Jalan Telaga Tujuh, 07100 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3776266,
+        "longitude": 99.6739276
+    },
+    {
+        "category": "hiking trails",
+        "title": "TELAGA WALK",
+        "rating": 4,
+        "address": "8P3F+H7, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3039375,
+        "longitude": 99.7231875
+    },
+    {
+        "category": "hiking trails",
+        "title": "Gunung Mat Chinchang - puncak",
+        "rating": 4.8,
+        "address": "9MXC+XH, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.399900499999999,
+        "longitude": 99.6714114
+    },
+    {
+        "category": "hiking trails",
+        "title": "Gunung Kuang Trail Head",
+        "rating": 4.4,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3351577,
+        "longitude": 99.87501089999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Gunung Kuang Peak",
+        "rating": 5,
+        "address": "8VMM+GX, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3337927999999994,
+        "longitude": 99.8849018
+    },
+    {
+        "category": "hiking trails",
+        "title": "Thousand Memories Eagle Stairs",
+        "rating": 4.1,
+        "address": "Taman Harmoni, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.363846,
+        "longitude": 99.7915342
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bukit Kechubung Trail",
+        "rating": 3.3,
+        "address": "Kampung Bukit Hantu, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.362273,
+        "longitude": 99.78455199999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Tama waterfall langkawi",
+        "rating": 4.6,
+        "address": "Langkawi Cable Car, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.391544199999999,
+        "longitude": 99.64448329999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Pasir Tengkorak Recreational Forest",
+        "rating": 4.5,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.429739,
+        "longitude": 99.727885
+    },
+    {
+        "category": "hiking trails",
+        "title": "Puncak Bukit Penarak",
+        "rating": 4.3,
+        "address": "8VCC+R6, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3220173,
+        "longitude": 99.87053189999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Gunung Raya",
+        "rating": 4.3,
+        "address": "278, Jalan Gunung Raya, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.369056199999999,
+        "longitude": 99.81817799999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Kilim 1 Trailhead",
+        "rating": 4.3,
+        "address": "CR7V+V8, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.414689999999999,
+        "longitude": 99.843364
+    },
+    {
+        "category": "hiking trails",
+        "title": "Selat Pancur",
+        "rating": 4.5,
+        "address": "07000, Unnamed Road, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3185652999999995,
+        "longitude": 99.8798364
+    },
+    {
+        "category": "hiking trails",
+        "title": "Skytrail Jungle Trekking",
+        "rating": 4.5,
+        "address": "07000, Oriental Village, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3711357,
+        "longitude": 99.6717589
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Kilim Geoforest Park",
+        "rating": 4.6,
+        "address": "Kilim River Tourism Jetty, Mukim, Kampung Kilim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4050671,
+        "longitude": 99.85834799999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Underwater World Langkawi",
+        "rating": 4.1,
+        "address": "Jalan Pantai Chenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2877171,
+        "longitude": 99.72859109999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Unesco Geopark Mangrove Cruise",
+        "rating": 4.2,
+        "address": "Jalan Tanjung Rhu, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.455563499999999,
+        "longitude": 99.8262855
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Dataran Lang",
+        "rating": 4.4,
+        "address": "Persiaran Putera Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3088296,
+        "longitude": 99.85143889999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Laman Padi Langkawi",
+        "rating": 4.1,
+        "address": "Jalan Pantai Cenang, Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2982076,
+        "longitude": 99.7226211
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Langkawi Nature Park",
+        "rating": 3.7,
+        "address": "Kuala Kisap Forest Reserve, Jalan Ayer Hangat, Kampung Belanga Pechah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3910484,
+        "longitude": 99.8624607
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Darulaman Sanctuary",
+        "rating": 4.4,
+        "address": "Lubuk Semilang Kampung Buku, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.364229099999999,
+        "longitude": 99.78995499999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Langkawi Mangrove Tour",
+        "rating": 4.7,
+        "address": "Jeti Pelancongan Kilim Geoforest Park, Kilim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4049219,
+        "longitude": 99.8580953
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Langkawi Wildlife Park",
+        "rating": 4.4,
+        "address": "Lot 1485, Jalan Ayer Hangat, Kampung Belanga Pechah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3876455,
+        "longitude": 99.86217169999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "JungleWalla -Natural History Tours",
+        "rating": 4.9,
+        "address": "No.163, Jalan Tanjung Rhu, Ayer Hangat, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4303102,
+        "longitude": 99.80172569999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Pulau Beras Basah",
+        "rating": 4.2,
+        "address": "Kedah, Malaysia",
+        "latitude": 6.2234579,
+        "longitude": 99.7163004
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Dayang Bunting Marble Geoforest Park",
+        "rating": 4.2,
+        "address": "Pulau Dayung Bunting, 07000, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2736184,
+        "longitude": 99.8097279
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ambong Rainforest Retreat",
+        "rating": 4.8,
+        "address": "Jalan Pantai Tengah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.270043299999999,
+        "longitude": 99.7344466
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Kayaking Mangrove Langkawi by LangkawiGo",
+        "rating": 5,
+        "address": "Kilim Geoforest Park, Jetty, Kilim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4051184999999995,
+        "longitude": 99.8583804
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Langkawi Nature",
+        "rating": 5,
+        "address": "Jeti Pelancongan Sungai Kilim, Kilim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4050505,
+        "longitude": 99.8583482
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Pulau Payar Marine Park",
+        "rating": 4.6,
+        "address": "Kompleks EB Adina peksn Baru Baron Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.058128,
+        "longitude": 100.03819039999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Mangrove Walk",
+        "rating": 4.3,
+        "address": "Jalan Ayer Hangat, Kampung Kilim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3907642,
+        "longitude": 99.8649069
+    },
+    {
+        "category": "temples",
+        "title": "Sri Murugan Temple, Langkawi",
+        "rating": 4.7,
+        "address": "07000, 93-97, Persiaran Bunga Raya, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3273015,
+        "longitude": 99.8420349
+    },
+    {
+        "category": "temples",
+        "title": "Langkawi Thean Hou Temple",
+        "rating": 4.7,
+        "address": "D A, 323, Jalan Padang Daong, Taman Seri Aman, 07000 Kuah, Kedah, Malaysia",
+        "latitude": 6.336080399999999,
+        "longitude": 99.812798
+    },
+    {
+        "category": "temples",
+        "title": "Sri Muniswarar Temple, Langkawi ஸ்ரீ முனீஸ்வரர் கோவில்",
+        "rating": 4.6,
+        "address": "lot 2, Ladang Sungai Raya, \\, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.365317,
+        "longitude": 99.86499909999999
+    },
+    {
+        "category": "temples",
+        "title": "Sri Subramaniar Hindu Temple",
+        "rating": 4.7,
+        "address": "65-79, Persiaran Bunga Raya, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.327211,
+        "longitude": 99.8422719
+    },
+    {
+        "category": "temples",
+        "title": "Lucky Temple",
+        "rating": 4.4,
+        "address": "07000 Kuah, Kedah, Malaysia",
+        "latitude": 6.3498442,
+        "longitude": 99.8729405
+    },
+    {
+        "category": "temples",
+        "title": "Wat Tham Kisap",
+        "rating": 4.5,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3498199,
+        "longitude": 99.8729422
+    },
+    {
+        "category": "temples",
+        "title": "Wat Koh Wanararm",
+        "rating": 4.5,
+        "address": "Jalan Ayer Hangat, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3377522,
+        "longitude": 99.8744744
+    },
+    {
+        "category": "temples",
+        "title": "Hanuman Temple Langkawi",
+        "rating": 4.7,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3496006,
+        "longitude": 99.87350789999999
+    },
+    {
+        "category": "temples",
+        "title": "Sri Maha Wira Batara Kaliaman (ஸ்ரீ மஹா வீர பத்ர காளியம்மன்)",
+        "rating": 4.7,
+        "address": "Casa Impiana Langkawi Homestay, Jalan Ayer Hangat, \\, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.360569099999999,
+        "longitude": 99.8646162
+    },
+    {
+        "category": "temples",
+        "title": "Sai Baba Temple",
+        "rating": 4.4,
+        "address": "07000, 1-12, 1, Lorong Seri Aman 1, Taman Seri Aman, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3359324,
+        "longitude": 99.81344709999999
+    },
+    {
+        "category": "museums",
+        "title": "3D Art in Paradise Langkawi",
+        "rating": 4.5,
+        "address": "Jalan Telaga Tujuh, 07100 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3719049,
+        "longitude": 99.6718203
+    },
+    {
+        "category": "museums",
+        "title": "Laman Padi Langkawi",
+        "rating": 4.1,
+        "address": "Jalan Pantai Cenang, Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2982076,
+        "longitude": 99.7226211
+    },
+    {
+        "category": "museums",
+        "title": "Kota Mahsuri",
+        "rating": 4,
+        "address": "Makam Mahsuri, Kampung Mawar, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3387082999999995,
+        "longitude": 99.78368329999999
+    },
+    {
+        "category": "museums",
+        "title": "Balai Seni Negara (Langkawi)",
+        "rating": 4.8,
+        "address": "No 46, 47 dan 48, Jalan Pelangi 2 Dayang Walk Commercial Square Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3256007,
+        "longitude": 99.835222
+    },
+    {
+        "category": "museums",
+        "title": "Langkawi Sky Bridge",
+        "rating": 4.6,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3865685999999995,
+        "longitude": 99.6619881
+    },
+    {
+        "category": "museums",
+        "title": "Elektrik langkawi",
+        "rating": 3.8,
+        "address": "No 26, Kampung makam mahsuri, Kampung Mawar, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.338448,
+        "longitude": 99.78496319999999
+    },
+    {
+        "category": "museums",
+        "title": "Langkawi Skybridge Cable Car",
+        "rating": 4.5,
+        "address": "Jalan Telaga Tujuh, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3710862,
+        "longitude": 99.67167859999999
+    },
+    {
+        "category": "museums",
+        "title": "Museum Srikandi Langkawi",
+        "rating": 3,
+        "address": "Oriental Village, Lot 6, Jalan, Kampung Teluk Burau, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3701472,
+        "longitude": 99.6719213
+    },
+    {
+        "category": "museums",
+        "title": "Galeria Perdana",
+        "rating": 4.2,
+        "address": "Jalan Ayer Hangat, Kampung Kilim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4031962,
+        "longitude": 99.8539323
+    },
+    {
+        "category": "night markets",
+        "title": "Ayer Hangat Friday Night Market",
+        "rating": 4.3,
+        "address": "Jalan Padang Gaong, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.426209399999999,
+        "longitude": 99.80001809999999
+    },
+    {
+        "category": "night markets",
+        "title": "Night Market Kuah Town",
+        "rating": 4.2,
+        "address": "165, Kuah, 07000 Kuah, Kedah, Malaysia",
+        "latitude": 6.3209506,
+        "longitude": 99.85258019999999
+    },
+    {
+        "category": "night markets",
+        "title": "Ulu Melaka Night Market - Monday",
+        "rating": 4.1,
+        "address": "2, Taman Wawasan Indah, Kampung Padang Gaong, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.350091399999999,
+        "longitude": 99.76687319999999
+    },
+    {
+        "category": "night markets",
+        "title": "Padang Matsirat Night Market - Sunday",
+        "rating": 4.2,
+        "address": "Padang Matsirat, 07100 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3537399,
+        "longitude": 99.7301531
+    },
+    {
+        "category": "night markets",
+        "title": "Temonyong Night Market - Thursday",
+        "rating": 4.2,
+        "address": "19, Jalan Bohor Tempoyak, Kampung Lubok Buaya, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2991174,
+        "longitude": 99.7274994
+    },
+    {
+        "category": "night markets",
+        "title": "Pantai Cenang night market",
+        "rating": 4.3,
+        "address": "16, Jalan Pantai Chenang, Kampung Lubok Buaya, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.289064,
+        "longitude": 99.7290032
+    },
+    {
+        "category": "night markets",
+        "title": "Kedawang Night Market - Tuesday",
+        "rating": 4.2,
+        "address": "Kampung Chenek Kura, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3297025,
+        "longitude": 99.73687629999999
+    },
+    {
+        "category": "night markets",
+        "title": "Kuah night market - Wednesday / Saturday",
+        "rating": 4.5,
+        "address": "Lencongan Putra 3, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3209351,
+        "longitude": 99.85283559999999
+    },
+    {
+        "category": "night markets",
+        "title": "Langkawi nightmaket",
+        "rating": 4.2,
+        "address": "Lencongan Putra 3, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3213598,
+        "longitude": 99.8540805
+    },
+    {
+        "category": "night markets",
+        "title": "Pasar Malam Kuah",
+        "rating": 3.9,
+        "address": "Kuah, 07000 Kuah, Kedah, Malaysia",
+        "latitude": 6.3209873,
+        "longitude": 99.85262279999999
+    },
+    {
+        "category": "night markets",
+        "title": "Pasar Malam Bukit Malut",
+        "rating": 4.3,
+        "address": "Jalan Lencongan Bukit Malut, Kampung Sungai Batu, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3093951,
+        "longitude": 99.79979089999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Gunung Raya Viewpoint Parking",
+        "rating": 4.6,
+        "address": "278, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.368415199999999,
+        "longitude": 99.8158021
+    },
+    {
+        "category": "viewpoints",
+        "title": "Langkawi Viewing Point",
+        "rating": 4.6,
+        "address": "278, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.36728,
+        "longitude": 99.81640999999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Cenang Beach View",
+        "rating": 4.6,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.287709899999999,
+        "longitude": 99.7278518
+    },
+    {
+        "category": "viewpoints",
+        "title": "Langkawi Sky Bridge",
+        "rating": 4.6,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3865685999999995,
+        "longitude": 99.6619881
+    },
+    {
+        "category": "viewpoints",
+        "title": "Look Out Point Langkawi",
+        "rating": 4.2,
+        "address": "37, Jalan Padang Matsirat, Kampung Yooi, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3360607,
+        "longitude": 99.7415642
+    },
+    {
+        "category": "gardens",
+        "title": "Taman Agroteknologi MARDI Langkawi",
+        "rating": 4.2,
+        "address": "1, Jalan Padang Gaong, Lubuk Semilang, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3611422,
+        "longitude": 99.79269819999999
+    },
+    {
+        "category": "gardens",
+        "title": "Legenda Park",
+        "rating": 4.2,
+        "address": "Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3089226,
+        "longitude": 99.8546066
+    },
+    {
+        "category": "gardens",
+        "title": "Pulau Besar Herb Garden",
+        "rating": 4.2,
+        "address": "Kedah, Malaysia",
+        "latitude": 6.230255,
+        "longitude": 99.7164956
+    },
+    {
+        "category": "gardens",
+        "title": "Public Gardens Teluk Yu",
+        "rating": 4.1,
+        "address": "Taman Awam Teluk Yu, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4213379999999995,
+        "longitude": 99.776831
+    },
+    {
+        "category": "gardens",
+        "title": "Recreation Park LUBUK SEMILANG",
+        "rating": 4.2,
+        "address": "Taman Harmoni, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3595671,
+        "longitude": 99.7952146
+    },
+    {
+        "category": "gardens",
+        "title": "Kilim Geoforest Park",
+        "rating": 4.6,
+        "address": "Kilim River Tourism Jetty, Mukim, Kampung Kilim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4050671,
+        "longitude": 99.85834799999999
+    },
+    {
+        "category": "gardens",
+        "title": "Langkawi Wildlife Park",
+        "rating": 4.4,
+        "address": "Lot 1485, Jalan Ayer Hangat, Kampung Belanga Pechah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3876455,
+        "longitude": 99.86217169999999
+    },
+    {
+        "category": "gardens",
+        "title": "Laman Padi Langkawi",
+        "rating": 4.1,
+        "address": "Jalan Pantai Cenang, Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2982076,
+        "longitude": 99.7226211
+    },
+    {
+        "category": "gardens",
+        "title": "Langkawi Nature Park",
+        "rating": 3.7,
+        "address": "Kuala Kisap Forest Reserve, Jalan Ayer Hangat, Kampung Belanga Pechah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3910484,
+        "longitude": 99.8624607
+    },
+    {
+        "category": "gardens",
+        "title": "Gunung Raya",
+        "rating": 4.3,
+        "address": "278, Jalan Gunung Raya, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.369056199999999,
+        "longitude": 99.81817799999999
+    },
+    {
+        "category": "gardens",
+        "title": "Kawah Padi Garden Villa Langkawi",
+        "rating": 4.8,
+        "address": "No 14, Kampung Mawat, Ulu Melaka, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3433052,
+        "longitude": 99.7842859
+    },
+    {
+        "category": "gardens",
+        "title": "Dream Forest Langkawi",
+        "rating": 4.6,
+        "address": "Lubuk Semilang, Mukim, Jalan Padang Gaong, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.364641,
+        "longitude": 99.7912628
+    },
+    {
+        "category": "gardens",
+        "title": "Ocean Garden Langkawi",
+        "rating": 4.4,
+        "address": "8, Ocean Front Estate, Bukit Benggali, 07000 Kuah, Malaysia",
+        "latitude": 6.3213158,
+        "longitude": 99.81101869999999
+    },
+    {
+        "category": "gardens",
+        "title": "Peter's mangrove planting",
+        "rating": 5,
+        "address": "CP2C+4V, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.400278,
+        "longitude": 99.722222
+    },
+    {
+        "category": "gardens",
+        "title": "Crocodile Adventureland Langkawi",
+        "rating": 4.4,
+        "address": "Jalan Datai, Mukim Air Hangat, 07100 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4023705,
+        "longitude": 99.7120747
+    },
+    {
+        "category": "gardens",
+        "title": "The Garden",
+        "rating": null,
+        "address": "Jalan Teluk Datai The Datai Langkawi, 07000 Pulau Langkawi, Kedah, Malaysia",
+        "latitude": 6.4247856,
+        "longitude": 99.6726442
+    },
+    {
+        "category": "gardens",
+        "title": "Sandy Garden Resort Langkawi",
+        "rating": 3.6,
+        "address": "SANDY GARDEN RESORT, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2934893,
+        "longitude": 99.7261687
+    },
+    {
+        "category": "gardens",
+        "title": "Durian Perangin Waterfall",
+        "rating": 4.6,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.403556,
+        "longitude": 99.820218
+    },
+    {
+        "category": "gardens",
+        "title": "TC Garden Resort",
+        "rating": 4.3,
+        "address": "Jalan Ulu Melaka, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.408021,
+        "longitude": 99.79916
+    },
+    {
+        "category": "gardens",
+        "title": "Permandangan Indah, Langkawi",
+        "rating": 4.4,
+        "address": "Kampung Yooi, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3360724,
+        "longitude": 99.7415676
+    },
+    {
+        "category": "zoo",
+        "title": "Langkawi Wildlife Park",
+        "rating": 4.4,
+        "address": "Lot 1485, Jalan Ayer Hangat, Kampung Belanga Pechah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3876455,
+        "longitude": 99.86217169999999
+    },
+    {
+        "category": "zoo",
+        "title": "Crocodile Adventureland Langkawi",
+        "rating": 4.4,
+        "address": "Jalan Datai, Mukim Air Hangat, 07100 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4023705,
+        "longitude": 99.7120747
+    },
+    {
+        "category": "zoo",
+        "title": "Mini Zoo Langkawi",
+        "rating": 3.3,
+        "address": "Kampung Kilim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.400958999999999,
+        "longitude": 99.8529271
+    },
+    {
+        "category": "zoo",
+        "title": "Langkawi Nature Park",
+        "rating": 3.7,
+        "address": "Kuala Kisap Forest Reserve, Jalan Ayer Hangat, Kampung Belanga Pechah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3910484,
+        "longitude": 99.8624607
+    },
+    {
+        "category": "zoo",
+        "title": "Machinchang PetLand Langkawi By ENR",
+        "rating": 2.8,
+        "address": "Jalan Teluk Burau Langkawi, 07000 Kuah, Kedah, Malaysia",
+        "latitude": 6.3720231,
+        "longitude": 99.6712508
+    },
+    {
+        "category": "zoo",
+        "title": "Underwater World Langkawi",
+        "rating": 4.1,
+        "address": "Jalan Pantai Chenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2877171,
+        "longitude": 99.72859109999999
+    },
+    {
+        "category": "zoo",
+        "title": "Kiki animal farm",
+        "rating": 3.7,
+        "address": "Meritus Pelangi Beach Resort & Spa, Pantai Chenang, 07000, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.300815,
+        "longitude": 99.721711
+    },
+    {
+        "category": "zoo",
+        "title": "Bunny Zone",
+        "rating": 3.3,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3718682,
+        "longitude": 99.6716739
+    },
+    {
+        "category": "shopping malls",
+        "title": "Cenang Mall, Langkawi",
+        "rating": 3.9,
+        "address": "Lot 2605, Cenang, Mukim, Jalan Pantai Chenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2907234,
+        "longitude": 99.7278025
+    },
+    {
+        "category": "shopping malls",
+        "title": "Langkawi Fair Shopping Mall, Langkawi",
+        "rating": 3.8,
+        "address": "Persiaran Putra, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3097560999999995,
+        "longitude": 99.85595719999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Langkawi Saga Shopping Centre",
+        "rating": 3.9,
+        "address": "Jalan Pandak Mayah, Pusat Bandar Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3227988999999996,
+        "longitude": 99.8516738
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Zon Duty Free Zone",
+        "rating": 4.1,
+        "address": "Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2871251,
+        "longitude": 99.7293625
+    },
+    {
+        "category": "shopping malls",
+        "title": "Perniagaan Haji Ismail Group Sdn Bhd",
+        "rating": 4.3,
+        "address": "Kompleks HIG, Lot 1852, Jalan Penarak, Pusat Bandar Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3245051,
+        "longitude": 99.84973049999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Kaya Palazzo Duty Free Shop Langkawi",
+        "rating": 4.9,
+        "address": "Lot 1,2,3 Sunmall, Jalan Pantai Tengah, Teluk Baru, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2814897,
+        "longitude": 99.7319096
+    },
+    {
+        "category": "shopping malls",
+        "title": "Langkawi Parade",
+        "rating": 3.9,
+        "address": "21, Lorong Tiram, 07000 Kuah, Kedah, Malaysia",
+        "latitude": 6.3273760999999995,
+        "longitude": 99.8384945
+    },
+    {
+        "category": "shopping malls",
+        "title": "Zeno Duty Free Shopping Centre",
+        "rating": 3.9,
+        "address": "20,22,24 Jalan Pandak Mayah 6 Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3221346,
+        "longitude": 99.85035459999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Perniagaan Haji Ismail Group (Main Outlet)",
+        "rating": 4.3,
+        "address": "Jalan Penarak, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3254421,
+        "longitude": 99.84918359999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Teow Soon Huat Duty Free Sdn. Bhd.",
+        "rating": 4.1,
+        "address": "a-14, pokok asam, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.326977599999999,
+        "longitude": 99.83828199999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Billion Duty Free Supermarket (Langkawi)",
+        "rating": 4.2,
+        "address": "Kuah, Persiaran Putera, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3105186,
+        "longitude": 99.85690299999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Eastern Kuah Duty Free Shopping Outlet Langkawi",
+        "rating": 4.4,
+        "address": "26, Jalan Pandak Mayah 6, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.322012,
+        "longitude": 99.85046799999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Duty Free Shop - Cenang Mall - QM",
+        "rating": 4.1,
+        "address": "Lot FF1, Cenang Mall, Jalan Pantai Chenang, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2909077,
+        "longitude": 99.7280064
+    },
+    {
+        "category": "shopping malls",
+        "title": "Jetty Point Complex",
+        "rating": 4.3,
+        "address": "Kompleks Jetty Point, Persiaran Putera, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3065519,
+        "longitude": 99.8524704
+    },
+    {
+        "category": "shopping malls",
+        "title": "Jetty Point Duty Free Sdn. Bhd.",
+        "rating": 4.1,
+        "address": "Kuah,, 07000 Kuah, Kedah, Malaysia",
+        "latitude": 6.3061628999999995,
+        "longitude": 99.85235809999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Toko Batik Langkawi",
+        "rating": 4.1,
+        "address": "Jalan Padang Matsirat, Kampung Bayas, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.331436999999999,
+        "longitude": 99.7632756
+    },
+    {
+        "category": "shopping malls",
+        "title": "Coco Valley Sdn Bhd (Pantai Cenang)",
+        "rating": 4.2,
+        "address": "UNDERWATER WORLD, PANTAI CENANG, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2877547,
+        "longitude": 99.7290281
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Bazaar Mall",
+        "rating": null,
+        "address": "Persiaran Mutiara 2, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.324913,
+        "longitude": 99.8412379
+    },
+    {
+        "category": "shopping malls",
+        "title": "Pasaraya Borong Sakan Langkawi",
+        "rating": 3.9,
+        "address": "111, Persiaran Bunga Raya, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3265443,
+        "longitude": 99.843764
+    },
+    {
+        "category": "shopping malls",
+        "title": "Jakel Langkawi",
+        "rating": 4.4,
+        "address": "Lot 54-55, Langkawi Fair Shopping Mall, Langkawi Fair Shopping Mall, GF2A, Persiaran Putra, Kuah, Jalan Persiaran Putra, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3099067,
+        "longitude": 99.8566816
+    },
+    {
+        "category": "historical sites",
+        "title": "Dataran Lang",
+        "rating": 4.4,
+        "address": "Persiaran Putera Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3088296,
+        "longitude": 99.85143889999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Beras Terbakar, Kampung Raja, Langkawi, Kedah.",
+        "rating": 3.9,
+        "address": "NO 15, Kampung Raja, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3547015,
+        "longitude": 99.7311623
+    },
+    {
+        "category": "historical sites",
+        "title": "Kota Mahsuri",
+        "rating": 4,
+        "address": "Makam Mahsuri, Kampung Mawar, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3387082999999995,
+        "longitude": 99.78368329999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Laman Padi Langkawi",
+        "rating": 4.1,
+        "address": "Jalan Pantai Cenang, Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2982076,
+        "longitude": 99.7226211
+    },
+    {
+        "category": "historical sites",
+        "title": "Perdana Quay Light House",
+        "rating": 4.4,
+        "address": "07000, Kedah, Malaysia",
+        "latitude": 6.3637276,
+        "longitude": 99.68316379999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Elektrik langkawi",
+        "rating": 3.8,
+        "address": "No 26, Kampung makam mahsuri, Kampung Mawar, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.338448,
+        "longitude": 99.78496319999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Kilim Geoforest Park",
+        "rating": 4.6,
+        "address": "Kilim River Tourism Jetty, Mukim, Kampung Kilim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4050671,
+        "longitude": 99.85834799999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Eagle Square",
+        "rating": 4.5,
+        "address": "Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3083937,
+        "longitude": 99.85199879999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Legenda Park",
+        "rating": 4.2,
+        "address": "Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3089226,
+        "longitude": 99.8546066
+    },
+    {
+        "category": "historical sites",
+        "title": "Dataran Lang",
+        "rating": null,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.35,
+        "longitude": 99.8
+    },
+    {
+        "category": "historical sites",
+        "title": "gunung Sari",
+        "rating": null,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.35,
+        "longitude": 99.8
+    },
+    {
+        "category": "historical sites",
+        "title": "Galeria Perdana",
+        "rating": 4.2,
+        "address": "Jalan Ayer Hangat, Kampung Kilim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4031962,
+        "longitude": 99.8539323
+    },
+    {
+        "category": "historical sites",
+        "title": "Langkawi",
+        "rating": null,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.35,
+        "longitude": 99.8
+    },
+    {
+        "category": "historical sites",
+        "title": "Langkawi Sky Bridge",
+        "rating": 4.6,
+        "address": "07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3865685999999995,
+        "longitude": 99.6619881
+    },
+    {
+        "category": "historical sites",
+        "title": "Underwater World Langkawi",
+        "rating": 4.1,
+        "address": "Jalan Pantai Chenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2877171,
+        "longitude": 99.72859109999999
+    },
+    {
+        "category": "historical sites",
+        "title": "MAHA Tower",
+        "rating": 4.3,
+        "address": "Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3200889,
+        "longitude": 99.84584509999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Kuah Jetty",
+        "rating": 4.3,
+        "address": "Straits Court Comdominium, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3060662999999995,
+        "longitude": 99.8514902
+    },
+    {
+        "category": "historical sites",
+        "title": "Langkawi Skybridge Cable Car",
+        "rating": 4.5,
+        "address": "Jalan Telaga Tujuh, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3710862,
+        "longitude": 99.67167859999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Temurun Waterfall",
+        "rating": 4.4,
+        "address": "161, Jalan Datai, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4339872,
+        "longitude": 99.708224
+    },
+    {
+        "category": "historical sites",
+        "title": "Lake of Pregnant Maiden",
+        "rating": 4.3,
+        "address": "Strait Of, Malacca, Malaysia",
+        "latitude": 6.2078472,
+        "longitude": 99.784836
+    },
+    {
+        "category": "art galleries",
+        "title": "Balai Seni Negara (Langkawi)",
+        "rating": 4.8,
+        "address": "No 46, 47 dan 48, Jalan Pelangi 2 Dayang Walk Commercial Square Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3256007,
+        "longitude": 99.835222
+    },
+    {
+        "category": "art galleries",
+        "title": "3D Art in Paradise Langkawi",
+        "rating": 4.5,
+        "address": "Jalan Telaga Tujuh, 07100 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3719049,
+        "longitude": 99.6718203
+    },
+    {
+        "category": "art galleries",
+        "title": "Atma Alam Batik Art Village",
+        "rating": 4,
+        "address": "Padang Matsirat, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3512537,
+        "longitude": 99.73433399999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Contemporary Art Langkawi",
+        "rating": null,
+        "address": "7A, Jalan Ayer Hangat, Bohor Merah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4248733,
+        "longitude": 99.8108422
+    },
+    {
+        "category": "art galleries",
+        "title": "Galeria Perdana",
+        "rating": 4.2,
+        "address": "Jalan Ayer Hangat, Kampung Kilim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.4031962,
+        "longitude": 99.8539323
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Langkawi Souvenir & Trading",
+        "rating": 4.5,
+        "address": "No. 53, Pusat Perdagangan Kelana Mas, Kedah, 07000 Kuah, Pulau Langkawi, Malaysia",
+        "latitude": 6.3249170999999995,
+        "longitude": 99.844152
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Kaya Palazzo Duty Free Shop Langkawi",
+        "rating": 4.9,
+        "address": "Lot 1,2,3 Sunmall, Jalan Pantai Tengah, Teluk Baru, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2814897,
+        "longitude": 99.7319096
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Moon langkawi souvenir creative (Kuah)",
+        "rating": 5,
+        "address": "125,Persiaran mutiara Pusat dagangan kelana mas Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3249511,
+        "longitude": 99.84371159999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Paradise Craft",
+        "rating": 3.9,
+        "address": "Lot 4 & 5, Baronwalk, Jalan Pantai Cenang, Mukim, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2899861999999995,
+        "longitude": 99.7275851
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Moon Langkawi Souvenir Creative @ Pantai Cenang",
+        "rating": 5,
+        "address": "Lot 1 & 2, Cenang Bazaar, Pantai Cenang, Mukim, Kampung Lubok Buaya, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.288452599999999,
+        "longitude": 99.72918519999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Jetty Point Duty Free Sdn. Bhd.",
+        "rating": 4.1,
+        "address": "Kuah,, 07000 Kuah, Kedah, Malaysia",
+        "latitude": 6.3061628999999995,
+        "longitude": 99.85235809999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Perniagaan Haji Ismail Group Sdn Bhd",
+        "rating": 4.3,
+        "address": "Kompleks HIG, Lot 1852, Jalan Penarak, Pusat Bandar Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3245051,
+        "longitude": 99.84973049999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "The Zon Duty Free Zone",
+        "rating": 4.1,
+        "address": "Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2871251,
+        "longitude": 99.7293625
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Fifi Souvenir",
+        "rating": 5,
+        "address": "B1-6, Kawasan Perniagaan Makam Mahsuri, Kampung Mawart, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3387638,
+        "longitude": 99.7850531
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Teow Soon Huat Duty Free Sdn. Bhd.",
+        "rating": 4.1,
+        "address": "a-14, pokok asam, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.326977599999999,
+        "longitude": 99.83828199999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Lai Lai Enterprises Sdn. Bhd.",
+        "rating": 5,
+        "address": "58, Persiaran Bunga Raya, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3268856,
+        "longitude": 99.84248939999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Cashmere & More",
+        "rating": 5,
+        "address": "Cenang Beach, Jalan Pantai Cenang, Cenang, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.295279,
+        "longitude": 99.7243259
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Paradise Craft Maliwalk",
+        "rating": 3.7,
+        "address": "Lot 13, Maliwalk, Mukim, 07000 Pulau Langkawi, Kedah, Malaysia",
+        "latitude": 6.2937555,
+        "longitude": 99.72506899999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "NATIVELAND",
+        "rating": 5,
+        "address": "Lot 253, A5, Jl. Teluk Baru, Kampung Baru Teluk, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3529393,
+        "longitude": 99.7800156
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Unique Gift & Souvenir",
+        "rating": 4.5,
+        "address": "20, Jalan Kuala Ketil, Padang Matsirat, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3536966,
+        "longitude": 99.7298735
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gaya Minami",
+        "rating": 4.5,
+        "address": "Malaysia, Kedah, Langkawi, Kg Tasik Anak, Jalan Teluk Baru Pantai Tengah, Mk Kedawang",
+        "latitude": 6.2813115,
+        "longitude": 99.73332789999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Coco Valley Sdn Bhd (Pantai Cenang)",
+        "rating": 4.2,
+        "address": "UNDERWATER WORLD, PANTAI CENANG, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.2877547,
+        "longitude": 99.7290281
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Little Kashmir",
+        "rating": 5,
+        "address": "Asian Heritage Center, No 7 & 8, Landcons Square, lot 2616, Jalan Pantai Chenang, Kedah, 07000 Langkawi, Malaysia",
+        "latitude": 6.291036,
+        "longitude": 99.72713999999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Langkawi Fair Shopping Mall, Langkawi",
+        "rating": 3.8,
+        "address": "Persiaran Putra, Kuah, 07000 Langkawi, Kedah, Malaysia",
+        "latitude": 6.3097560999999995,
+        "longitude": 99.85595719999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Langkawi Parade",
+        "rating": 3.9,
+        "address": "21, Lorong Tiram, 07000 Kuah, Kedah, Malaysia",
+        "latitude": 6.3273760999999995,
+        "longitude": 99.8384945
+    }
+]

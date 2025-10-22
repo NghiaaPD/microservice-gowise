@@ -1,0 +1,3922 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Statue of Ho Chi Minh",
+        "rating": 4.6,
+        "address": "110 Nguyễn Huệ, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7760193,
+        "longitude": 106.70154889999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "War Remnants Museum",
+        "rating": 4.5,
+        "address": "Phường 6, Quận 3, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7795106,
+        "longitude": 106.6920916
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Saigon Zoo & Botanical Gardens",
+        "rating": 4.3,
+        "address": "2 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.787334399999999,
+        "longitude": 106.70505659999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Independence Palace",
+        "rating": 4.5,
+        "address": "Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.776994199999999,
+        "longitude": 106.69530209999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ho Chi Minh City Book Street",
+        "rating": 4.6,
+        "address": "2 Đ. Nguyễn Văn Bình, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.780963,
+        "longitude": 106.7000734
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Saigon Opera House",
+        "rating": 4.6,
+        "address": "07 Công trường Lam Sơn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 710212, Vietnam",
+        "latitude": 10.776612799999999,
+        "longitude": 106.7031715
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ben Thanh Market",
+        "rating": 4,
+        "address": "Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7725168,
+        "longitude": 106.6980208
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Notre Dame Cathedral of Saigon",
+        "rating": 4.4,
+        "address": "01 Công trường Công xã Paris, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7797855,
+        "longitude": 106.6990189
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Bến Nhà Rồng - Bảo tàng Hồ Chí Minh",
+        "rating": 4.7,
+        "address": "1 Đ. Nguyễn Tất Thành, Phường 13, Quận 4, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7682339,
+        "longitude": 106.7068328
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Saigon Skydeck",
+        "rating": 4.4,
+        "address": "36 Hồ Tùng Mậu, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7715673,
+        "longitude": 106.7042465
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Bui Vien Walking Street",
+        "rating": 4.3,
+        "address": "Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.767351,
+        "longitude": 106.69388359999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Cu Chi Tunnel",
+        "rating": 4.5,
+        "address": "Phú Hiệp, Củ Chi, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 11.141591,
+        "longitude": 106.4615963
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Museum of Ho Chi Minh City",
+        "rating": 4.2,
+        "address": "65 Lý Tự Trọng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7759656,
+        "longitude": 106.69964759999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Museum of Traditional Vietnamese Medicine",
+        "rating": 4.5,
+        "address": "41 Hoàng Dư Khương, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7761823,
+        "longitude": 106.6718875
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Van Thanh Tourist Village",
+        "rating": 4.3,
+        "address": "48/10 Điện Biên Phủ, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7981787,
+        "longitude": 106.71572669999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Tran Hung Dao Statue",
+        "rating": 4.5,
+        "address": "QPG4+4HH, Công trường Mê Linh, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.775304199999999,
+        "longitude": 106.7064721
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Saigon River Embankment",
+        "rating": 4.6,
+        "address": "Bình An, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7932574,
+        "longitude": 106.72774249999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ben Nghe Street Food",
+        "rating": 4.3,
+        "address": "134 Nam Kỳ Khởi Nghĩa, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7772206,
+        "longitude": 106.69790139999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Thien Hau Pagoda",
+        "rating": 4.6,
+        "address": "710 Nguyễn Trãi, Phường 11, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7533133,
+        "longitude": 106.6611762
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Chùa Vạn Phật",
+        "rating": 4.7,
+        "address": "66/14 Đ. Nghĩa Thục, Phường 5, Quận 5, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.753370199999999,
+        "longitude": 106.67529959999999
+    },
+    {
+        "category": "parks",
+        "title": "Tao Dan Park",
+        "rating": 4.5,
+        "address": "Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7745379,
+        "longitude": 106.6924421
+    },
+    {
+        "category": "parks",
+        "title": "September 23rd Park",
+        "rating": 4.4,
+        "address": "Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.768711399999999,
+        "longitude": 106.69234
+    },
+    {
+        "category": "parks",
+        "title": "Le Van Tam Park",
+        "rating": 4.4,
+        "address": "Hai Bà Trưng, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7881609,
+        "longitude": 106.693773
+    },
+    {
+        "category": "parks",
+        "title": "Hoang Van Thu Park",
+        "rating": 4.5,
+        "address": "RM28+C2, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8010436,
+        "longitude": 106.66505079999999
+    },
+    {
+        "category": "parks",
+        "title": "Crescent Lake Park",
+        "rating": 4.6,
+        "address": "Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7255424,
+        "longitude": 106.71705809999999
+    },
+    {
+        "category": "parks",
+        "title": "Sala Urban Park",
+        "rating": 4.6,
+        "address": "01 Đ. Hoàng Thế Thiện, An Lợi Đông, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7721778,
+        "longitude": 106.7246327
+    },
+    {
+        "category": "parks",
+        "title": "Riverside Park",
+        "rating": 4.4,
+        "address": "Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.774972199999999,
+        "longitude": 106.7064267
+    },
+    {
+        "category": "parks",
+        "title": "Dam Sen Water Park",
+        "rating": 4.3,
+        "address": "Đ. Hòa Bình/3 Đ. Bình Thới, Phường 3, Quận 11, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.768894699999999,
+        "longitude": 106.63599389999999
+    },
+    {
+        "category": "parks",
+        "title": "Bach Tung Diep Park",
+        "rating": 4.2,
+        "address": "QMGX+HP3, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7763855,
+        "longitude": 106.69929529999999
+    },
+    {
+        "category": "parks",
+        "title": "Saigon Zoo & Botanical Gardens",
+        "rating": 4.3,
+        "address": "2 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.787334399999999,
+        "longitude": 106.70505659999999
+    },
+    {
+        "category": "parks",
+        "title": "Vinhomes Central Park",
+        "rating": 4.6,
+        "address": "Trần Trọng Kim, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7934308,
+        "longitude": 106.7243981
+    },
+    {
+        "category": "parks",
+        "title": "Saigon Riverfront Park",
+        "rating": 4.6,
+        "address": "59 Thủ Thiêm, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.771690399999999,
+        "longitude": 106.70980139999999
+    },
+    {
+        "category": "parks",
+        "title": "Dam Sen Cultural Park",
+        "rating": 4.3,
+        "address": "Đ. Hòa Bình/3 Đ. Bình Thới, Phường 3, Quận 11, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.768736599999999,
+        "longitude": 106.63610829999999
+    },
+    {
+        "category": "parks",
+        "title": "Le Thi Rieng Cultural Park",
+        "rating": 4.6,
+        "address": "875 Cách Mạng Tháng Tám, Phường 15, Quận 10, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.785147799999999,
+        "longitude": 106.66474869999999
+    },
+    {
+        "category": "parks",
+        "title": "Chi Lang Park",
+        "rating": 4.2,
+        "address": "số 72 Lê Thánh Tôn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7776809,
+        "longitude": 106.70144739999999
+    },
+    {
+        "category": "parks",
+        "title": "Khanh Hoi Park",
+        "rating": 4.3,
+        "address": "Đ. Số 48/229 Đ. Vĩnh Hội, Phường, Quận 4, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7572321,
+        "longitude": 106.6985583
+    },
+    {
+        "category": "parks",
+        "title": "Saigon Central Park",
+        "rating": 4.2,
+        "address": "QM9R+JW2, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7690071,
+        "longitude": 106.69226859999999
+    },
+    {
+        "category": "parks",
+        "title": "Gia Dinh Park",
+        "rating": 4.6,
+        "address": "Đường Hoàng Minh Giám, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.8132485,
+        "longitude": 106.67590129999999
+    },
+    {
+        "category": "parks",
+        "title": "April 30th Park",
+        "rating": 4.6,
+        "address": "6 Lê Duẩn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.779121199999999,
+        "longitude": 106.6969563
+    },
+    {
+        "category": "parks",
+        "title": "Công Viên Nguyễn Sỹ Sách",
+        "rating": 4.1,
+        "address": "Nguyễn Sỹ Sách, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8210597,
+        "longitude": 106.63703509999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Home Saigon Restaurant",
+        "rating": 4.8,
+        "address": "185/28 Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.768258,
+        "longitude": 106.693968
+    },
+    {
+        "category": "restaurants",
+        "title": "Hai’s Restaurant",
+        "rating": 4.9,
+        "address": "257 Lý Tự Trọng, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.772222399999999,
+        "longitude": 106.6947276
+    },
+    {
+        "category": "restaurants",
+        "title": "Pandan Leaf Saigon Restaurant & Rooftop Bar",
+        "rating": 4.9,
+        "address": "107 Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7695119,
+        "longitude": 106.695821
+    },
+    {
+        "category": "restaurants",
+        "title": "Vo Roof",
+        "rating": 4.6,
+        "address": "113 Tôn Thất Đạm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.772117999999999,
+        "longitude": 106.70272899999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Hoang’s Kitchen -Vietnamese cuisine & Vegan food",
+        "rating": 4.9,
+        "address": "45 Thủ Khoa Huân, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.774218,
+        "longitude": 106.6966059
+    },
+    {
+        "category": "restaurants",
+        "title": "Tung's Restaurant - Vietnamese Cuisine & vegetarian Food",
+        "rating": 4.9,
+        "address": "230 Lê Thánh Tôn, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7726481,
+        "longitude": 106.6964836
+    },
+    {
+        "category": "restaurants",
+        "title": "Vị Sài Gòn Restaurant & Café",
+        "rating": 4.9,
+        "address": "254 Bis Nguyễn Đình Chiểu, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7770411,
+        "longitude": 106.6885969
+    },
+    {
+        "category": "restaurants",
+        "title": "Poke Saigon",
+        "rating": 4.8,
+        "address": "Second floor, 42 Nguyễn Huệ, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.774106,
+        "longitude": 106.70409199999999
+    },
+    {
+        "category": "restaurants",
+        "title": "A Taste Of Saigon - Old Market",
+        "rating": 4.9,
+        "address": "42/6B Đ. Tôn Thất Thiệp, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7738453,
+        "longitude": 106.70217749999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Hoàng’s Kitchen",
+        "rating": 5,
+        "address": "122 Lê Thánh Tôn, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7738233,
+        "longitude": 106.69834399999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Cyclo Resto",
+        "rating": 4.7,
+        "address": "133 Nguyễn Du, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7731205,
+        "longitude": 106.6940156
+    },
+    {
+        "category": "restaurants",
+        "title": "Bếp Mẹ Ỉn",
+        "rating": 4.5,
+        "address": "136/9 Lê Thánh Tôn, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7738567,
+        "longitude": 106.6980798
+    },
+    {
+        "category": "restaurants",
+        "title": "Soul Ben Thanh Restaurant & Bar",
+        "rating": 4.6,
+        "address": "7 Thủ Khoa Huân, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7732368,
+        "longitude": 106.6974618
+    },
+    {
+        "category": "restaurants",
+        "title": "Madame Lam - Vietnamese Contemporary Cuisine",
+        "rating": 4.8,
+        "address": "10 Trần Ngọc Diện, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.8030526,
+        "longitude": 106.7390035
+    },
+    {
+        "category": "restaurants",
+        "title": "Poke Saigon Ly Tu Trong",
+        "rating": 4.8,
+        "address": "First floor, 42 Bis Lý Tự Trọng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.777162599999999,
+        "longitude": 106.7001507
+    },
+    {
+        "category": "restaurants",
+        "title": "Sol Kitchen & Bar",
+        "rating": 4.8,
+        "address": "110 - 112 Lý Tự Trọng, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7742439,
+        "longitude": 106.697015
+    },
+    {
+        "category": "restaurants",
+        "title": "Sen Đại Việt Restaurant - Seafood - Phở",
+        "rating": 4.8,
+        "address": "226 - 228 - 230 Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7660518,
+        "longitude": 106.6910226
+    },
+    {
+        "category": "restaurants",
+        "title": "Chanh Bistro Rooftop Saigon",
+        "rating": 4.5,
+        "address": "Rooftop level, 215 Lý Tự Trọng, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7727413,
+        "longitude": 106.6956617
+    },
+    {
+        "category": "restaurants",
+        "title": "Lune Restaurant and Bar",
+        "rating": 4.8,
+        "address": "17/14 Lê Thánh Tôn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.779872899999999,
+        "longitude": 106.7041977
+    },
+    {
+        "category": "restaurants",
+        "title": "Viet Kitchen - International Vietnamese Restaurant",
+        "rating": 4.7,
+        "address": "8 15 Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.774588,
+        "longitude": 106.70628529999999
+    },
+    {
+        "category": "cafes",
+        "title": "Little HaNoi Egg Coffee (Yersin)",
+        "rating": 4.8,
+        "address": "119/5 Yersin, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7694043,
+        "longitude": 106.6960112
+    },
+    {
+        "category": "cafes",
+        "title": "Miyama - Modern Tokyo Restaurant Cafe - Saigon Centre",
+        "rating": 4.7,
+        "address": "Saigon Center, 65 Lê Lợi, Phường Sài Gòn, Quận 1, Thành phố Hồ Chí Minh 71006, Vietnam",
+        "latitude": 10.773694299999999,
+        "longitude": 106.70102089999999
+    },
+    {
+        "category": "cafes",
+        "title": "Tonkin Specialty Coffee",
+        "rating": 4.8,
+        "address": "91 Lý Tự Trọng, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7743893,
+        "longitude": 106.6978901
+    },
+    {
+        "category": "cafes",
+        "title": "Soo Kafe",
+        "rating": 4.7,
+        "address": "35 Phan Chu Trinh, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.772407999999999,
+        "longitude": 106.6972096
+    },
+    {
+        "category": "cafes",
+        "title": "Whisfee Café",
+        "rating": 4.9,
+        "address": "14 Tôn Thất Đạm, Phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7696408,
+        "longitude": 106.7040756
+    },
+    {
+        "category": "cafes",
+        "title": "Tonkin Garden Egg Coffee & Eatery [Cafe & Croissant]",
+        "rating": 4.9,
+        "address": "135/50 Trần Hưng Đạo, Phường Cầu Ông Lãnh, Quận 1, Thành phố Hồ Chí Minh 71009, Vietnam",
+        "latitude": 10.766164999999999,
+        "longitude": 106.69547899999999
+    },
+    {
+        "category": "cafes",
+        "title": "The Workshop Coffee",
+        "rating": 4.5,
+        "address": "27 Ngô Đức Kế, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7734764,
+        "longitude": 106.7056037
+    },
+    {
+        "category": "cafes",
+        "title": "OKKIO",
+        "rating": 4.6,
+        "address": "120 - 122 Lê Lợi, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7725195,
+        "longitude": 106.69895849999999
+    },
+    {
+        "category": "cafes",
+        "title": "Local Saigon Cafe - Bến Thành",
+        "rating": 4.7,
+        "address": "12 Thủ Khoa Huân, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7734577,
+        "longitude": 106.6975476
+    },
+    {
+        "category": "cafes",
+        "title": "Po Cafe",
+        "rating": 4.9,
+        "address": "42 Nguyễn Huệ, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7741577,
+        "longitude": 106.7041651
+    },
+    {
+        "category": "cafes",
+        "title": "XLIII Specialty Coffee",
+        "rating": 4.9,
+        "address": "178a Pasteur, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7781855,
+        "longitude": 106.6985703
+    },
+    {
+        "category": "cafes",
+        "title": "The Melbourne Cafe",
+        "rating": 4.7,
+        "address": "137 Nguyễn Đình Chiểu, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.777249699999999,
+        "longitude": 106.6890887
+    },
+    {
+        "category": "cafes",
+        "title": "Saigon Coffee Roastery",
+        "rating": 4.5,
+        "address": "232 Võ Thị Sáu, Phường 7, Quận 3, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.782477499999999,
+        "longitude": 106.6853812
+    },
+    {
+        "category": "cafes",
+        "title": "Bâng Khuâng Café",
+        "rating": 4.3,
+        "address": "2nd floor, 9 Thái Văn Lung, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.77869,
+        "longitude": 106.7050646
+    },
+    {
+        "category": "cafes",
+        "title": "Ghé Coffee - casual specialty café in Saigon",
+        "rating": 4.9,
+        "address": "39/10 Mạc Thị Bưởi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7751869,
+        "longitude": 106.70472269999999
+    },
+    {
+        "category": "cafes",
+        "title": "Bosgaurus Coffee Roasters - Saigon Pearl",
+        "rating": 4.5,
+        "address": "Nguyễn Hữu Cảnh/92 Str, Saigon Pearl, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.789047,
+        "longitude": 106.7207773
+    },
+    {
+        "category": "cafes",
+        "title": "Là Việt Coffee Saigon (Hai Bà Trưng)",
+        "rating": 4.4,
+        "address": "193 Hai Bà Trưng, Phường 6, Quận 3, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.785765,
+        "longitude": 106.6936042
+    },
+    {
+        "category": "cafes",
+        "title": "Like Coffee - Banh Mi",
+        "rating": 4.8,
+        "address": "175 Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7687998,
+        "longitude": 106.6940432
+    },
+    {
+        "category": "cafes",
+        "title": "Talk Barista Saigon - Craft Coffee Tours & Barista Class",
+        "rating": 4.9,
+        "address": "Nguyễn Hữu Cảnh, Ward, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.796415099999999,
+        "longitude": 106.71707649999999
+    },
+    {
+        "category": "cafes",
+        "title": "Little HaNoi Egg Coffee",
+        "rating": 4.8,
+        "address": "258/1 Điện Biên Phủ, p, Quận 3, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7797001,
+        "longitude": 106.6864737
+    },
+    {
+        "category": "mountains",
+        "title": "Nui Chau Thoi",
+        "rating": 4.5,
+        "address": "Bình An, Dĩ An, Binh Duong, Vietnam",
+        "latitude": 10.9147403,
+        "longitude": 106.80530139999999
+    },
+    {
+        "category": "mountains",
+        "title": "Núi Thị Vải",
+        "rating": 4.7,
+        "address": "Tân Thành, Ba Ria - Vung Tau, Vietnam",
+        "latitude": 10.5962146,
+        "longitude": 107.09233309999999
+    },
+    {
+        "category": "mountains",
+        "title": "Ho Chi Minh City",
+        "rating": null,
+        "address": "Vietnam",
+        "latitude": 10.8230989,
+        "longitude": 106.62966379999999
+    },
+    {
+        "category": "mountains",
+        "title": "Nui Da",
+        "rating": 4.3,
+        "address": "Long Sơn, Vũng Tàu, Ba Ria - Vung Tau, Vietnam",
+        "latitude": 10.4633333,
+        "longitude": 107.0716667
+    },
+    {
+        "category": "mountains",
+        "title": "The Big Mountain",
+        "rating": 4.6,
+        "address": "Vũng Tàu, Ba Ria - Vung Tau, Vietnam",
+        "latitude": 10.3645371,
+        "longitude": 107.06870789999999
+    },
+    {
+        "category": "mountains",
+        "title": "Nui Gang Toi",
+        "rating": null,
+        "address": "Vĩnh Cửu District, Dong Nai, Vietnam",
+        "latitude": 11.049999999999999,
+        "longitude": 106.9833333
+    },
+    {
+        "category": "mountains",
+        "title": "Nui Ong Ta",
+        "rating": 3.4,
+        "address": "Bắc Sơn, Trảng Bom District, Dong Nai, Vietnam",
+        "latitude": 10.9833333,
+        "longitude": 106.96666669999999
+    },
+    {
+        "category": "mountains",
+        "title": "Ho Chi Minh City",
+        "rating": null,
+        "address": "Vietnam",
+        "latitude": 10.746903,
+        "longitude": 106.67629199999999
+    },
+    {
+        "category": "mountains",
+        "title": "Nui Ong Trinh",
+        "rating": 4.4,
+        "address": "Phước Hoà, Tân Thành, Ba Ria - Vung Tau, Vietnam",
+        "latitude": 10.567387799999999,
+        "longitude": 107.0800495
+    },
+    {
+        "category": "mountains",
+        "title": "Nui Gioc Lon",
+        "rating": null,
+        "address": "Vĩnh Cửu District, Dong Nai, Vietnam",
+        "latitude": 11.1,
+        "longitude": 106.9833333
+    },
+    {
+        "category": "mountains",
+        "title": "Mountain Pearl Roastery",
+        "rating": 4.4,
+        "address": "27 Nguyễn Bá Huân, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8037872,
+        "longitude": 106.72908269999999
+    },
+    {
+        "category": "mountains",
+        "title": "Nui Gioc Cay",
+        "rating": 3,
+        "address": "xã Lạc An, Bắc Tân Uyên, Binh Duong, Vietnam",
+        "latitude": 11.1,
+        "longitude": 106.9333333
+    },
+    {
+        "category": "mountains",
+        "title": "Ho Chi Minh City Metropolitan Area",
+        "rating": null,
+        "address": "Vietnam",
+        "latitude": 11.213633699999999,
+        "longitude": 106.912251
+    },
+    {
+        "category": "mountains",
+        "title": "Nui Toc Tien",
+        "rating": 4.4,
+        "address": "Tân Thành, Ba Ria - Vung Tau, Vietnam",
+        "latitude": 10.578957299999999,
+        "longitude": 107.1100534
+    },
+    {
+        "category": "mountains",
+        "title": "Cu Chi Tunnel",
+        "rating": 4.5,
+        "address": "Phú Hiệp, Củ Chi, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 11.141591,
+        "longitude": 106.4615963
+    },
+    {
+        "category": "mountains",
+        "title": "The Marble Mountains",
+        "rating": 4.3,
+        "address": "81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0037104,
+        "longitude": 108.2631605
+    },
+    {
+        "category": "mountains",
+        "title": "CME (Copper Mountain Energy) Solar",
+        "rating": 5,
+        "address": "Toà nhà M Building, Đường số 8, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7303965,
+        "longitude": 106.72406919999999
+    },
+    {
+        "category": "mountains",
+        "title": "Mr Biker Saigon",
+        "rating": 4.8,
+        "address": "24 Đường số 6, Khu dân cư Trung Sơn, Bình Chánh, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7376752,
+        "longitude": 106.692229
+    },
+    {
+        "category": "mountains",
+        "title": "Kin Wander Tan Binh, The Mountain",
+        "rating": 4.7,
+        "address": "51 Đ. Núi Thành, ward 13, Tân Bình, Thành phố Hồ Chí Minh 72100, Vietnam",
+        "latitude": 10.8009998,
+        "longitude": 106.6430668
+    },
+    {
+        "category": "mountains",
+        "title": "Golden Mountain Coffee & Tea",
+        "rating": 4.3,
+        "address": "226 Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7817841,
+        "longitude": 106.688901
+    },
+    {
+        "category": "waterfalls",
+        "title": "Giang Dien waterfall",
+        "rating": 4.4,
+        "address": "104/4 ấp Hoà Bình, Giang Điền, Trảng Bom, Đồng Nai, Vietnam",
+        "latitude": 10.9185234,
+        "longitude": 106.9892328
+    },
+    {
+        "category": "waterfalls",
+        "title": "Giang Dien Waterfall Eco Resort",
+        "rating": 4,
+        "address": "104/4 Khu Công Nghiệp Giang Điền, Giang Điền, Trảng Bom, Đồng Nai, Vietnam",
+        "latitude": 10.9174042,
+        "longitude": 106.9883582
+    },
+    {
+        "category": "waterfalls",
+        "title": "Pongour Waterfall",
+        "rating": 4.4,
+        "address": "Đức Trọng District, Lam Dong, Vietnam",
+        "latitude": 11.6873826,
+        "longitude": 108.2653754
+    },
+    {
+        "category": "waterfalls",
+        "title": "Da Han waterfall",
+        "rating": 3.8,
+        "address": "Tổ 15, Ấp 5, Sông Trầu, Trảng Bom, Đồng Nai, Vietnam",
+        "latitude": 10.989564,
+        "longitude": 107.01472199999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Pongour Falls",
+        "rating": 4.4,
+        "address": "Thôn Tân Nghĩa, Đức Trọng, Lâm Đồng, Vietnam",
+        "latitude": 11.689304199999999,
+        "longitude": 108.2656291
+    },
+    {
+        "category": "waterfalls",
+        "title": "Quảng trường Golden Eagle",
+        "rating": 4.4,
+        "address": "RRVV+9G, Long Bình, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8449238,
+        "longitude": 106.8432249
+    },
+    {
+        "category": "waterfalls",
+        "title": "Bảo Đại Waterfall",
+        "rating": 4.5,
+        "address": "Thác Bảo Đại, 11.606083, 108.350258, Tạ Hine, Đức Trọng, Lâm Đồng, Vietnam",
+        "latitude": 11.606083,
+        "longitude": 108.350258
+    },
+    {
+        "category": "waterfalls",
+        "title": "Gò Lào Waterfall",
+        "rating": 4.4,
+        "address": "P3R4+M2F, Ba Khan, Mai Châu, Hòa Bình, Vietnam",
+        "latitude": 20.7416764,
+        "longitude": 105.0550461
+    },
+    {
+        "category": "waterfalls",
+        "title": "Khu du lịch Thác Datanla",
+        "rating": 4.4,
+        "address": "QL20 Đèo Prenn, Phường 3, Đà Lạt, Lâm Đồng 66000, Vietnam",
+        "latitude": 11.9034324,
+        "longitude": 108.4496999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Love Waterfall",
+        "rating": 4.5,
+        "address": "8QWC+RV8, Sơn Bình, Tam Đường, Lai Châu, Vietnam",
+        "latitude": 22.3470257,
+        "longitude": 103.77221519999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Đray Nur Waterfall",
+        "rating": 4.5,
+        "address": "Đường đi thác Dray Nur, Dray Sáp, Krông A Na, Đắk Lắk, Vietnam",
+        "latitude": 12.5414316,
+        "longitude": 107.89056479999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Ban Gioc Waterfalls",
+        "rating": 4.6,
+        "address": "Sông Quy Xuân, Đàm Thuỷ, Trùng Khánh, Cao Bằng, Vietnam",
+        "latitude": 22.854345199999997,
+        "longitude": 106.7242663
+    },
+    {
+        "category": "waterfalls",
+        "title": "Tác Tình Waterfall",
+        "rating": 4.6,
+        "address": "TT. Tam Đường, Tam Đường, Lai Châu, Vietnam",
+        "latitude": 22.347347799999998,
+        "longitude": 103.6135992
+    },
+    {
+        "category": "waterfalls",
+        "title": "Rhododendron Falls",
+        "rating": 4.7,
+        "address": "5RPX+CGH, Lộc Trì, Phú Lộc, Thành phố Huế, Vietnam",
+        "latitude": 16.1860637,
+        "longitude": 107.8488672
+    },
+    {
+        "category": "waterfalls",
+        "title": "Dinh mountain trail",
+        "rating": 4.5,
+        "address": "G48J+HRJ, Đường Xe Lên Núi Dinh, Kim Dinh, Tân Thành, Bà Rịa - Vũng Tàu, Vietnam",
+        "latitude": 10.516468,
+        "longitude": 107.13202749999999
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ bán nguyệt",
+        "rating": 4.6,
+        "address": "Khu đô thị Phú Mỹ Hưng, Tân Phú, District 7, Ho Chi Minh City, Vietnam",
+        "latitude": 10.726546899999999,
+        "longitude": 106.7186725
+    },
+    {
+        "category": "lakes",
+        "title": "Lam Vien Lake",
+        "rating": 4.8,
+        "address": "Long Bình, Thủ Đức City, Ho Chi Minh City, Vietnam",
+        "latitude": 10.8646529,
+        "longitude": 106.830006
+    },
+    {
+        "category": "lakes",
+        "title": "Turtle Lake",
+        "rating": 4.4,
+        "address": "Võ Thị Sáu, District 3, Ho Chi Minh City, Vietnam",
+        "latitude": 10.7826608,
+        "longitude": 106.695915
+    },
+    {
+        "category": "lakes",
+        "title": "Turtle Pond",
+        "rating": 4.3,
+        "address": "Công trường Quốc Tế, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7826071,
+        "longitude": 106.695926
+    },
+    {
+        "category": "lakes",
+        "title": "Lotus Port",
+        "rating": 3.5,
+        "address": "Phú Thuận, District 7, Ho Chi Minh City, Vietnam",
+        "latitude": 10.7403122,
+        "longitude": 106.7451184
+    },
+    {
+        "category": "lakes",
+        "title": "Crescent Lake Park",
+        "rating": 4.6,
+        "address": "Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7255424,
+        "longitude": 106.71705809999999
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Park Ky Hoa",
+        "rating": 4.2,
+        "address": "Công viên Hồ Kỳ Hoà, Cao Thắng, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.774660899999999,
+        "longitude": 106.67147299999999
+    },
+    {
+        "category": "lakes",
+        "title": "Da Lake",
+        "rating": 4.4,
+        "address": "Đông Hòa, Dĩ An, Binh Duong, Vietnam",
+        "latitude": 10.8778189,
+        "longitude": 106.78944759999999
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Câu Thằng Bờm",
+        "rating": 3.9,
+        "address": "Phú Hữu, Thủ Đức City, Ho Chi Minh City, Vietnam",
+        "latitude": 10.7900691,
+        "longitude": 106.8095415
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Tân Mỹ",
+        "rating": 3.8,
+        "address": "Tân Thuận Tây, District 7, Ho Chi Minh City, Vietnam",
+        "latitude": 10.749555299999999,
+        "longitude": 106.72088389999999
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Đá",
+        "rating": 4.2,
+        "address": "Đông Hòa, Dĩ An, Binh Duong, Vietnam",
+        "latitude": 10.883258099999999,
+        "longitude": 106.7957153
+    },
+    {
+        "category": "lakes",
+        "title": "Biển Đông",
+        "rating": 4.3,
+        "address": "Phú Hiệp, Phú Mỹ Hưng, Củ Chi, Ho Chi Minh City, Vietnam",
+        "latitude": 11.1398584,
+        "longitude": 106.45844
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Câu Hiệp Thành",
+        "rating": 4.2,
+        "address": "Hiệp Thành, District 12, Ho Chi Minh City, Vietnam",
+        "latitude": 10.8810104,
+        "longitude": 106.6464463
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Sen",
+        "rating": 4,
+        "address": "Phú Thuận, District 7, Ho Chi Minh City, Vietnam",
+        "latitude": 10.7333538,
+        "longitude": 106.74023439999999
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ câu Huynh Đệ",
+        "rating": 3,
+        "address": "Thạnh Xuân, District 12, Ho Chi Minh City, Vietnam",
+        "latitude": 10.8803754,
+        "longitude": 106.6594343
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Sinh Thái",
+        "rating": 5,
+        "address": "Khu dân cư Intresco 13E, Phong Phu, Bình Chánh, Ho Chi Minh City, Vietnam",
+        "latitude": 10.7034722,
+        "longitude": 106.6462621
+    },
+    {
+        "category": "lakes",
+        "title": "Ao",
+        "rating": 4,
+        "address": "Tân Chánh Hiệp, District 12, Ho Chi Minh City, Vietnam",
+        "latitude": 10.863825799999999,
+        "longitude": 106.6198282
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ chứa Kênh Đông",
+        "rating": 4.6,
+        "address": "Tan Thong Hoi, Củ Chi, Ho Chi Minh City, Vietnam",
+        "latitude": 10.941110199999999,
+        "longitude": 106.50317079999999
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Câu Gia Phúc",
+        "rating": 4.3,
+        "address": "Thạnh Xuân, District 12, Ho Chi Minh City, Vietnam",
+        "latitude": 10.8689941,
+        "longitude": 106.6703502
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ sinh thái Đại học Quốc gia",
+        "rating": 4.3,
+        "address": "Linh Trung, Thủ Đức City, Ho Chi Minh City, Vietnam",
+        "latitude": 10.866152999999999,
+        "longitude": 106.7940562
+    },
+    {
+        "category": "beaches",
+        "title": "Front Beach",
+        "rating": 4.5,
+        "address": "Vũng Tàu, Ba Ria - Vung Tau, Vietnam",
+        "latitude": 10.343400599999999,
+        "longitude": 107.0741987
+    },
+    {
+        "category": "beaches",
+        "title": "Khu du lịch biển DIC",
+        "rating": 3.8,
+        "address": "Phường 8, Vũng Tàu, Ba Ria - Vung Tau, Vietnam",
+        "latitude": 10.3496969,
+        "longitude": 107.10074069999999
+    },
+    {
+        "category": "beaches",
+        "title": "Beach April 30",
+        "rating": 3.6,
+        "address": "9WPC+7H5, Thạnh Thới, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.385631499999999,
+        "longitude": 106.92148669999999
+    },
+    {
+        "category": "beaches",
+        "title": "Long Hai Beach",
+        "rating": 4.2,
+        "address": "Ba Ria - Vung Tau, Vietnam",
+        "latitude": 10.382738699999999,
+        "longitude": 107.236718
+    },
+    {
+        "category": "beaches",
+        "title": "Back beach",
+        "rating": 4.4,
+        "address": "Vũng Tàu, Ba Ria - Vung Tau, Vietnam",
+        "latitude": 10.3453959,
+        "longitude": 107.1000134
+    },
+    {
+        "category": "beaches",
+        "title": "Tan Dien Beach",
+        "rating": 4.2,
+        "address": "Khu Du Lịch Sinh Thái Biển, Tân Điền, Gò Công Đông, Tiền Giang, Vietnam",
+        "latitude": 10.3584608,
+        "longitude": 106.78288459999999
+    },
+    {
+        "category": "beaches",
+        "title": "Bai Dau",
+        "rating": 4.5,
+        "address": "Ba Ria - Vung Tau, Vietnam",
+        "latitude": 10.3711171,
+        "longitude": 107.05809579999999
+    },
+    {
+        "category": "beaches",
+        "title": "Khu Du Lịch Biển Tân Thành",
+        "rating": 4.1,
+        "address": "ấp Cầu Muống, Tân Thành, Gò Công Đông, Tiền Giang, Vietnam",
+        "latitude": 10.2909829,
+        "longitude": 106.77974909999999
+    },
+    {
+        "category": "beaches",
+        "title": "Tourist Area April 30",
+        "rating": 3.8,
+        "address": "9WQC+3HX, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.3877353,
+        "longitude": 106.9214732
+    },
+    {
+        "category": "beaches",
+        "title": "Can Gio Park Beach",
+        "rating": 4.2,
+        "address": "CX6F+XF9, Duyên Hải, TT. Cần Thạnh, Cần Giờ, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.4125584,
+        "longitude": 106.9739809
+    },
+    {
+        "category": "beaches",
+        "title": "Front Beach Park",
+        "rating": 4.5,
+        "address": "4 Quang Trung, Phường 1, Vũng Tàu, Bà Rịa - Vũng Tàu, Vietnam",
+        "latitude": 10.342077999999999,
+        "longitude": 107.0744294
+    },
+    {
+        "category": "beaches",
+        "title": "Vietnam beach resort",
+        "rating": 4.7,
+        "address": "41 Nguyễn Thị Minh Khai, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7812924,
+        "longitude": 106.69671579999999
+    },
+    {
+        "category": "beaches",
+        "title": "Back Beach Vung Tau",
+        "rating": 4.5,
+        "address": "Thùy Vân, Phường 1, Vũng Tàu, Ho Chi Minh City, Vietnam",
+        "latitude": 10.3330389,
+        "longitude": 107.0899537
+    },
+    {
+        "category": "beaches",
+        "title": "Saigon River Embankment",
+        "rating": 4.6,
+        "address": "Bình An, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7932574,
+        "longitude": 106.72774249999999
+    },
+    {
+        "category": "beaches",
+        "title": "Riverside Park",
+        "rating": 4.4,
+        "address": "Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.774972199999999,
+        "longitude": 106.7064267
+    },
+    {
+        "category": "beaches",
+        "title": "Thuy Van Beach Vung Tau",
+        "rating": 4.5,
+        "address": "151 Thùy Vân, Phường Thắng Tam, Vũng Tàu, Bà Rịa - Vũng Tàu, Vietnam",
+        "latitude": 10.3297487,
+        "longitude": 107.0887127
+    },
+    {
+        "category": "beaches",
+        "title": "Doi Nhai Beach",
+        "rating": 4.2,
+        "address": "95Q4+JHC, Phường 11, Vũng Tàu, Bà Rịa - Vũng Tàu, Vietnam",
+        "latitude": 10.3890569,
+        "longitude": 107.1563875
+    },
+    {
+        "category": "beaches",
+        "title": "Turtle Pond",
+        "rating": 4.3,
+        "address": "Công trường Quốc Tế, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7826071,
+        "longitude": 106.695926
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi Dứa",
+        "rating": 4.4,
+        "address": "Vũng Tàu, Ba Ria - Vung Tau, Vietnam",
+        "latitude": 10.3295288,
+        "longitude": 107.0767365
+    },
+    {
+        "category": "beaches",
+        "title": "Phuong Nam Pearl Resort",
+        "rating": 3.6,
+        "address": "1227/65 Duyên Hải, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.3773117,
+        "longitude": 106.8911636
+    },
+    {
+        "category": "swimming pools",
+        "title": "Van Thanh Swimming Pool",
+        "rating": 4.1,
+        "address": "48/10 Điện Biên Phủ, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7977835,
+        "longitude": 106.7144898
+    },
+    {
+        "category": "swimming pools",
+        "title": "Lao Dong Swimming Pool",
+        "rating": 3.9,
+        "address": "6 Huyền Trân Công Chúa, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7755985,
+        "longitude": 106.6936451
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sky Garden Swimming Pool",
+        "rating": 4.1,
+        "address": "2 Đ. Phạm Văn Nghị, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7315018,
+        "longitude": 106.7058083
+    },
+    {
+        "category": "swimming pools",
+        "title": "Anh Vien Swimming Pool",
+        "rating": 4.4,
+        "address": "523a Đ. Đỗ Xuân Hợp, Phước Long B, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.814286599999999,
+        "longitude": 106.7779819
+    },
+    {
+        "category": "swimming pools",
+        "title": "Lam Son Swimming Pool",
+        "rating": 3.9,
+        "address": "242 Đường Trần Bình Trọng, Phường 4, Quận 5, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7620296,
+        "longitude": 106.6806787
+    },
+    {
+        "category": "swimming pools",
+        "title": "Học Bơi Vui Swimming Pool",
+        "rating": 4.8,
+        "address": "70 Bà Huyện Thanh Quan, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.780731699999999,
+        "longitude": 106.68352159999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Yet Kieu Aquatics Center",
+        "rating": 4,
+        "address": "1 Nguyễn Thị Minh Khai, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7908074,
+        "longitude": 106.7058297
+    },
+    {
+        "category": "swimming pools",
+        "title": "Nguyen Binh Khiem Swimming Pool",
+        "rating": 4.1,
+        "address": "QPQ3+2CV, Hẻm 25 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7876047,
+        "longitude": 106.7035616
+    },
+    {
+        "category": "swimming pools",
+        "title": "Ky Dong Swimming Pool",
+        "rating": 3.9,
+        "address": "40 Đ. Kỳ Đồng, Phường 9, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7805614,
+        "longitude": 106.6807936
+    },
+    {
+        "category": "swimming pools",
+        "title": "Tay Thanh Swimming Pool",
+        "rating": 4.1,
+        "address": "87 Đ. Chế Lan Viên, Phường 15, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.810555599999999,
+        "longitude": 106.6266667
+    },
+    {
+        "category": "swimming pools",
+        "title": "New SaiGon Swimming Pool",
+        "rating": 3.9,
+        "address": "PPC2+27P, Đ. Nguyễn Hữu Thọ, Phước Kiển, Nhà Bè, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7200964,
+        "longitude": 106.70070869999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "An Phu Swimming Pool",
+        "rating": 3.9,
+        "address": "8 Thảo Điền, Quận 2, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8023419,
+        "longitude": 106.7384019
+    },
+    {
+        "category": "swimming pools",
+        "title": "Van Don 2 Swimming Pool",
+        "rating": 3.9,
+        "address": "1 Đ. Vĩnh Hội, Phường 4, Quận 4, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7557417,
+        "longitude": 106.69960669999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hoa Binh Swimming Pool",
+        "rating": 3.8,
+        "address": "9 Đ. Phạm Hùng, Bình Hưng, Bình Chánh, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7360221,
+        "longitude": 106.6722865
+    },
+    {
+        "category": "swimming pools",
+        "title": "Cong Hoa Swimming Pool",
+        "rating": 3.7,
+        "address": "1034 Cách Mạng Tháng Tám, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7910395,
+        "longitude": 106.6581592
+    },
+    {
+        "category": "swimming pools",
+        "title": "Nguyen Tri Phuong Swimming Pool",
+        "rating": 3.8,
+        "address": "27 Đ. Đồng Nai, Phường 15, Quận 10, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7813556,
+        "longitude": 106.6609118
+    },
+    {
+        "category": "swimming pools",
+        "title": "Saigon River Club Swimming Pool",
+        "rating": 4.1,
+        "address": "QPQC+QCF, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7894396,
+        "longitude": 106.721059
+    },
+    {
+        "category": "swimming pools",
+        "title": "Chi Lang Swimming Pool",
+        "rating": 3.9,
+        "address": "19/2B Đ. Lam Sơn, Phường 7, Phú Nhuận, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.804987599999999,
+        "longitude": 106.6879467
+    },
+    {
+        "category": "swimming pools",
+        "title": "69 Swimming Pool",
+        "rating": 3.5,
+        "address": "69 Đ. Tản Đà, Phường 11, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7528585,
+        "longitude": 106.6641454
+    },
+    {
+        "category": "swimming pools",
+        "title": "Splash Pool Bar",
+        "rating": 4.7,
+        "address": "76 Lê Lai, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 71009, Vietnam",
+        "latitude": 10.770557799999999,
+        "longitude": 106.6943826
+    },
+    {
+        "category": "resorts",
+        "title": "The Waterfront Residence",
+        "rating": 4.5,
+        "address": "M124, Nguyễn Lương Bằng, phường Tân Mỹ, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7256535,
+        "longitude": 106.7241698
+    },
+    {
+        "category": "resorts",
+        "title": "The Odys Boutique Hotel",
+        "rating": 4.5,
+        "address": "Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.769412299999999,
+        "longitude": 106.7001638
+    },
+    {
+        "category": "resorts",
+        "title": "Mia Saigon - Luxury Boutique Hotel",
+        "rating": 4.6,
+        "address": "02-04 Đường số 10, Phường An Khánh, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.8100904,
+        "longitude": 106.75088579999999
+    },
+    {
+        "category": "resorts",
+        "title": "Mai House Saigon Hotel",
+        "rating": 4.8,
+        "address": "Ngô Thời Nhiệm, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.782094299999999,
+        "longitude": 106.6915855
+    },
+    {
+        "category": "resorts",
+        "title": "HAAN Boutique Resort",
+        "rating": 4.4,
+        "address": "87/18 Đường Cầu Đình, Long Phước, Thủ Đức, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.8164445,
+        "longitude": 106.87090839999999
+    },
+    {
+        "category": "resorts",
+        "title": "Sherwood Suites",
+        "rating": 4.5,
+        "address": "192 Nam Kỳ Khởi Nghĩa, Phường 6, Quận 3, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.782523999999999,
+        "longitude": 106.6924562
+    },
+    {
+        "category": "resorts",
+        "title": "Alagon Saigon",
+        "rating": 4,
+        "address": "291 Lý Tự Trọng, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.771883899999999,
+        "longitude": 106.6942957
+    },
+    {
+        "category": "resorts",
+        "title": "Adora Art Hotel",
+        "rating": 4,
+        "address": "189-191 Lý Tự Trọng, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.773110899999999,
+        "longitude": 106.69605759999999
+    },
+    {
+        "category": "resorts",
+        "title": "Lakeview Villa",
+        "rating": 4.6,
+        "address": "18 Đường Số 2, khu phố Giản Dân Thành phố, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.8641737,
+        "longitude": 106.82752719999999
+    },
+    {
+        "category": "resorts",
+        "title": "Golden Emerald Resorts",
+        "rating": 4.5,
+        "address": "29 Phạm Thị Trích, Ấp 1, Củ Chi, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.971292,
+        "longitude": 106.64812739999999
+    },
+    {
+        "category": "resorts",
+        "title": "AU LAC LEGEND HOTEL",
+        "rating": 4.5,
+        "address": "90 Nguyễn Thị Minh Khai, Phường 6, Quận 3, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7808742,
+        "longitude": 106.6959533
+    },
+    {
+        "category": "resorts",
+        "title": "Glenwood City Resort",
+        "rating": 4.2,
+        "address": "243 Nguyễn Văn Hưởng, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.809598999999999,
+        "longitude": 106.7320178
+    },
+    {
+        "category": "resorts",
+        "title": "Vinpearl Landmark 81, Autograph Collection",
+        "rating": 4.7,
+        "address": "720A Điện Biên Phủ, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.795225499999999,
+        "longitude": 106.7218884
+    },
+    {
+        "category": "resorts",
+        "title": "Hidden Mansions Saigon Resort",
+        "rating": 4.1,
+        "address": "112 Đ. Võ Thị Liễu, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8572493,
+        "longitude": 106.6991154
+    },
+    {
+        "category": "resorts",
+        "title": "Silverland Jolie Hotel",
+        "rating": 4.5,
+        "address": "Thi Sách, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 71000, Vietnam",
+        "latitude": 10.777351999999999,
+        "longitude": 106.705919
+    },
+    {
+        "category": "resorts",
+        "title": "Saigon Apartments - Amazing Infinity Pool",
+        "rating": 3.6,
+        "address": "151 - 155 Bến Vân Đồn, Phường 9, Quận 4, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7625026,
+        "longitude": 106.69859
+    },
+    {
+        "category": "resorts",
+        "title": "Les Hameaux de l'Orient",
+        "rating": 4.4,
+        "address": "Số 29 Đường Phan Thị Mọn, Ấp Ràng, Củ Chi, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 11.0619898,
+        "longitude": 106.4402329
+    },
+    {
+        "category": "resorts",
+        "title": "Saigon Domaine Luxury Residences",
+        "rating": 4.3,
+        "address": "1057 Binh Quoi street, Bình Quới, ward, Thành phố Hồ Chí Minh, 700000, Vietnam",
+        "latitude": 10.823084099999999,
+        "longitude": 106.7305911
+    },
+    {
+        "category": "resorts",
+        "title": "Fusion Suites Sai Gon",
+        "rating": 4.5,
+        "address": "Sương Nguyệt Anh, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 71000, Vietnam",
+        "latitude": 10.7725654,
+        "longitude": 106.6899727
+    },
+    {
+        "category": "resorts",
+        "title": "The Reverie Saigon Residential Suites",
+        "rating": 4.7,
+        "address": "69A Dong Khoi, Ward, Street, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7740758,
+        "longitude": 106.7049878
+    },
+    {
+        "category": "camping sites",
+        "title": "Utopia Glamping",
+        "rating": 4.8,
+        "address": "37 Đường Số 5, Long Phước, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8272341,
+        "longitude": 106.8639626
+    },
+    {
+        "category": "camping sites",
+        "title": "SAY Camp Forest",
+        "rating": 4.8,
+        "address": "Duyên Hải, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.383274499999999,
+        "longitude": 106.888623
+    },
+    {
+        "category": "camping sites",
+        "title": "BINIFARM - Tropical Retreat",
+        "rating": 4.8,
+        "address": "Nguyễn Thị Dây, Tân Thạnh Tây, Củ Chi, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 11.0042349,
+        "longitude": 106.5562624
+    },
+    {
+        "category": "camping sites",
+        "title": "Lata Camping",
+        "rating": 4.1,
+        "address": "1227/6 Duyên Hải, Long Hoà, Cần Giờ, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.3778931,
+        "longitude": 106.8879925
+    },
+    {
+        "category": "camping sites",
+        "title": "Riverside Glamping",
+        "rating": 4.1,
+        "address": "Đường Số 5, Long Phước, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8237373,
+        "longitude": 106.8664178
+    },
+    {
+        "category": "camping sites",
+        "title": "Sky Camping",
+        "rating": 4.3,
+        "address": "693 TL8, ấp 6, Củ Chi, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.9863386,
+        "longitude": 106.53708759999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Peace Camping",
+        "rating": 4.8,
+        "address": "Tắc Xuất, TT. Cần Thạnh, Cần Giờ, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.406373499999999,
+        "longitude": 106.9666429
+    },
+    {
+        "category": "camping sites",
+        "title": "Chuồn Chuồn Garden",
+        "rating": 4.8,
+        "address": "223/40 Đ. Tam Đa, Long Trường, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7910679,
+        "longitude": 106.8432358
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Cần Giờ",
+        "rating": 4.8,
+        "address": "Duyên Hải, Ấp Đồng Tranh, Xã, Cần Giờ, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.3842736,
+        "longitude": 106.8879504
+    },
+    {
+        "category": "camping sites",
+        "title": "Khoai Camping Garden",
+        "rating": 4.6,
+        "address": "Hoà hiệp, Cần Giờ, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.404975,
+        "longitude": 106.9320576
+    },
+    {
+        "category": "camping sites",
+        "title": "Cắm Trại Gần Sài Gòn - Bliss Kamping",
+        "rating": 4.9,
+        "address": "240 Đ. Phạm Văn Đồng, Phường Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.827485,
+        "longitude": 106.7208655
+    },
+    {
+        "category": "camping sites",
+        "title": "Asia Island Glamping & Event",
+        "rating": 4.5,
+        "address": "195 Đường Số 5, kp lân ngoài, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8040712,
+        "longitude": 106.875052
+    },
+    {
+        "category": "camping sites",
+        "title": "Savora Cafe & Glamping",
+        "rating": 4.1,
+        "address": "111 Đường Số 2, Long Phước, Thủ Đức, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.8337019,
+        "longitude": 106.86043529999999
+    },
+    {
+        "category": "camping sites",
+        "title": "RIO GLAMPING",
+        "rating": 4.3,
+        "address": "35 Đường Số 5, Long Phước, Quận 9, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.827088999999999,
+        "longitude": 106.86414309999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Love garden house",
+        "rating": 3,
+        "address": "D37/19 ĐH80, Âp 4, Ho chi minh, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.8078799,
+        "longitude": 106.5726667
+    },
+    {
+        "category": "camping sites",
+        "title": "A New Day Glamping",
+        "rating": 4.5,
+        "address": "39 Đường Số 5, Long Phước, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.827554,
+        "longitude": 106.86373169999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Mai & Chill",
+        "rating": null,
+        "address": "480/89/20, Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.8271354,
+        "longitude": 106.73686389999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Vietgangz Glamping Club Saigon",
+        "rating": 4.8,
+        "address": "169 Đường Số 5, Long Phước, Quận 9, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.8086384,
+        "longitude": 106.87722649999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Ngoc Chi Linh Camp",
+        "rating": 4.9,
+        "address": "340 Duyên Hải, TT. Cần Thạnh, Cần Giờ, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.4028567,
+        "longitude": 106.95378799999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Cata",
+        "rating": null,
+        "address": "Bùi Đình Tuý, Phường 14, Bình Thạnh, Hồ Chí Minh, Vietnam",
+        "latitude": 10.8078203,
+        "longitude": 106.70344759999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "the lost city of el Dorado",
+        "rating": 5,
+        "address": "86L Đường Hiệp Thành 06, Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.881159,
+        "longitude": 106.63239899999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Dinh mountain trail",
+        "rating": 4.5,
+        "address": "G48J+HRJ, Đường Xe Lên Núi Dinh, Kim Dinh, Tân Thành, Bà Rịa - Vũng Tàu, Vietnam",
+        "latitude": 10.516468,
+        "longitude": 107.13202749999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Dinh Nature Trails",
+        "rating": null,
+        "address": "Chân núi Dinh, Bà Rịa, Bà Rịa - Vũng Tàu 790000, Vietnam",
+        "latitude": 10.510804,
+        "longitude": 107.1249581
+    },
+    {
+        "category": "hiking trails",
+        "title": "Sala Park",
+        "rating": 4.7,
+        "address": "512/12 Trần Não, An Lợi Đông, Quận 2, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.770365,
+        "longitude": 106.72591899999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Đỉnh La Bàn - Núi Dinh",
+        "rating": 4.6,
+        "address": "G4QH+2MG, Tân Hoà, Tân Thành, Bà Rịa - Vũng Tàu, Vietnam",
+        "latitude": 10.5375541,
+        "longitude": 107.1291906
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ban Quản Lý Rừng Phòng Hộ Cần Giờ",
+        "rating": 4.4,
+        "address": "GV29+F2W, An Thới Đông, Cần Giờ, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.5012375,
+        "longitude": 106.86757809999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Inspire Trails",
+        "rating": 4.9,
+        "address": "53 Đường 2, Vạn Phúc City, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.843255,
+        "longitude": 106.7123417
+    },
+    {
+        "category": "hiking trails",
+        "title": "Nui Chau Thoi",
+        "rating": 4.5,
+        "address": "Bình An, Dĩ An, Binh Duong, Vietnam",
+        "latitude": 10.9147403,
+        "longitude": 106.80530139999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Peace Camping",
+        "rating": 4.8,
+        "address": "Tắc Xuất, TT. Cần Thạnh, Cần Giờ, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.406373499999999,
+        "longitude": 106.9666429
+    },
+    {
+        "category": "hiking trails",
+        "title": "vietnamoutdoor.com",
+        "rating": 4.8,
+        "address": "38 Nguyễn Huệ, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7739957,
+        "longitude": 106.70432819999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Andros Lakes Race",
+        "rating": 4.6,
+        "address": "Đ. Hải Thượng Lãn Ông, Đông Hoà, Dĩ An, Bình Dương, Vietnam",
+        "latitude": 10.8862876,
+        "longitude": 106.7945992
+    },
+    {
+        "category": "hiking trails",
+        "title": "Saigon Hikers (VietnamHikers)",
+        "rating": 5,
+        "address": "185/16 Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.768438999999999,
+        "longitude": 106.693849
+    },
+    {
+        "category": "hiking trails",
+        "title": "Crescent Lake Park",
+        "rating": 4.6,
+        "address": "Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7255424,
+        "longitude": 106.71705809999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Công viên Ánh Sao",
+        "rating": 4.7,
+        "address": "PPG8+6R, Công viên Cảnh đồi, Khu đô thị Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7252619,
+        "longitude": 106.71749559999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Mekong Trails",
+        "rating": 4.6,
+        "address": "Unit A1503, Florita Building, Street D4, Quận 7, Vietnam",
+        "latitude": 10.744490599999999,
+        "longitude": 106.6947355
+    },
+    {
+        "category": "hiking trails",
+        "title": "Saigon Zoo & Botanical Gardens",
+        "rating": 4.3,
+        "address": "2 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.787334399999999,
+        "longitude": 106.70505659999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bui Vien Walking Street",
+        "rating": 4.3,
+        "address": "Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.767351,
+        "longitude": 106.69388359999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Đồ Outdoor, Đồ Du Lịch, Đồ Cắm Trại - WETREK.VN 235 HOÀNG VĂN THỤ",
+        "rating": 4.4,
+        "address": "235 Đ. Hoàng Văn Thụ, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.799890999999999,
+        "longitude": 106.6696429
+    },
+    {
+        "category": "hiking trails",
+        "title": "Fanfan Outdoor Equipment Store",
+        "rating": 4.4,
+        "address": "41 Trần Quý Khoách, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh 71008, Vietnam",
+        "latitude": 10.7931554,
+        "longitude": 106.6880777
+    },
+    {
+        "category": "hiking trails",
+        "title": "The Big Mountain",
+        "rating": 4.6,
+        "address": "Vũng Tàu, Ba Ria - Vung Tau, Vietnam",
+        "latitude": 10.3645371,
+        "longitude": 107.06870789999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Thuy Chau Ecotourism",
+        "rating": 4.2,
+        "address": "55 ĐT743A, Đông Hoà, Dĩ An, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.9017605,
+        "longitude": 106.81969749999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ecotourism Can Gio Floating Raft Tourism Service",
+        "rating": 4.8,
+        "address": "Sông Lò Vôi, Lâm Viên Đồng Đình, Cần Giờ, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.4466851,
+        "longitude": 106.9106862
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Song Long Ecotourism",
+        "rating": 4,
+        "address": "TP, 10 Đường D1, P, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.818351999999999,
+        "longitude": 106.8635633
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Dam Sen Water Park",
+        "rating": 4.3,
+        "address": "Đ. Hòa Bình/3 Đ. Bình Thới, Phường 3, Quận 11, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.768894699999999,
+        "longitude": 106.63599389999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Khu Du Lịch Sinh thái Vàm Sát",
+        "rating": 3.9,
+        "address": "15A Group, Town, Lý Nhơn, Cần Giờ, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.489614099999999,
+        "longitude": 106.7956002
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ecotourism Dream Garden",
+        "rating": 4.6,
+        "address": "1375/N3, Đường Bùi Hữu Nghĩa, Tân Hạnh, Biên Hòa, Đồng Nai 76000, Vietnam",
+        "latitude": 10.946152,
+        "longitude": 106.7917743
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ta Lai Experience",
+        "rating": 5,
+        "address": "ĐƯỜNG M/25 P, Khu Đô Thị Lakeview City, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.793521499999999,
+        "longitude": 106.7749482
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Cu Chi Tunnel",
+        "rating": 4.5,
+        "address": "Phú Hiệp, Củ Chi, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 11.141591,
+        "longitude": 106.4615963
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "September 23rd Park",
+        "rating": 4.4,
+        "address": "Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.768711399999999,
+        "longitude": 106.69234
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Khu du lịch sinh thái Củ Chi Fosaco",
+        "rating": 4,
+        "address": "Khu Du Lịch sinh thái, Ấp Ngã Tư, Củ Chi, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 11.0304813,
+        "longitude": 106.4946437
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Khu du lịch sinh thái Vườn Xoài",
+        "rating": 4.2,
+        "address": "537 Đinh Quang Ân, Phước Tân, Tan Cang, Đồng Nai 76000, Vietnam",
+        "latitude": 10.9147502,
+        "longitude": 106.93637319999999
+    },
+    {
+        "category": "temples",
+        "title": "Thien Hau Pagoda",
+        "rating": 4.6,
+        "address": "710 Nguyễn Trãi, Phường 11, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7533133,
+        "longitude": 106.6611762
+    },
+    {
+        "category": "temples",
+        "title": "Vinh Nghiem Buddhist Temple",
+        "rating": 4.6,
+        "address": "339 Nam Kỳ Khởi Nghĩa, Phường Xuân Hoà, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7902211,
+        "longitude": 106.6821485
+    },
+    {
+        "category": "temples",
+        "title": "Mariamman Hindu temple",
+        "rating": 4.7,
+        "address": "45 Trương Định, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7723982,
+        "longitude": 106.6956457
+    },
+    {
+        "category": "temples",
+        "title": "Pho Quang Pagoda",
+        "rating": 4.7,
+        "address": "21 Huỳnh Lan Khanh, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8050829,
+        "longitude": 106.6686603
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Vạn Phật",
+        "rating": 4.7,
+        "address": "66/14 Đ. Nghĩa Thục, Phường 5, Quận 5, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.753370199999999,
+        "longitude": 106.67529959999999
+    },
+    {
+        "category": "temples",
+        "title": "Vietnamese National Buddhist Temple",
+        "rating": 4.7,
+        "address": "244 Đ. 3 Tháng 2, Phường 12, Quận 10, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7721278,
+        "longitude": 106.6733505
+    },
+    {
+        "category": "temples",
+        "title": "Xa Loi Buddhist Temple",
+        "rating": 4.6,
+        "address": "89 Bà Huyện Thanh Quan, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.777868,
+        "longitude": 106.6863391
+    },
+    {
+        "category": "temples",
+        "title": "Hoang Phap Buddhist Temple",
+        "rating": 4.7,
+        "address": "96 ấp Tân Thới 3, Tân Hiệp, Hóc Môn, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.9002821,
+        "longitude": 106.58181169999999
+    },
+    {
+        "category": "temples",
+        "title": "Hội quán Ôn Lăng - Chùa quan âm",
+        "rating": 4.7,
+        "address": "12 Đ. Lão Tử, Phường 11, Quận 5, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7541333,
+        "longitude": 106.6596253
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Chantarangsay",
+        "rating": 4.7,
+        "address": "Hoàng Sa, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7862451,
+        "longitude": 106.6828111
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Ông Ấn Độ",
+        "rating": 4.8,
+        "address": "QMFX+HXM, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.773956199999999,
+        "longitude": 106.6999294
+    },
+    {
+        "category": "temples",
+        "title": "SRI THENDAYUTHAPANI TEMPLE",
+        "rating": 4.2,
+        "address": "66 Đ. Tôn Thất Thiệp, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.773399399999999,
+        "longitude": 106.70166019999999
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Pháp Hoa",
+        "rating": 4.7,
+        "address": "870 Trường Sa, Phường, Nhiêu Lộc, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7863058,
+        "longitude": 106.6814598
+    },
+    {
+        "category": "temples",
+        "title": "Giac Lam Buddhist Temple",
+        "rating": 4.7,
+        "address": "565 Lạc Long Quân, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7787071,
+        "longitude": 106.64919139999999
+    },
+    {
+        "category": "temples",
+        "title": "Phung Son Buddhist Temple",
+        "rating": 4.6,
+        "address": "338 Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7664218,
+        "longitude": 106.69842109999999
+    },
+    {
+        "category": "temples",
+        "title": "Jade Emperor Pagoda",
+        "rating": 4.6,
+        "address": "73 Mai Thị Lựu, Đa Kao, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7919963,
+        "longitude": 106.69817909999999
+    },
+    {
+        "category": "temples",
+        "title": "Van Hanh Monastery",
+        "rating": 4.6,
+        "address": "750 Nguyễn Kiệm, Phường 4, Phú Nhuận, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.810040299999999,
+        "longitude": 106.6786271
+    },
+    {
+        "category": "temples",
+        "title": "Khanh Van Nam Vien Taoist temple",
+        "rating": 4.6,
+        "address": "269/2 Nguyễn Thị Nhỏ, Phường 16, Quận 11, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7571909,
+        "longitude": 106.650662
+    },
+    {
+        "category": "temples",
+        "title": "An Quang Buddhist Temple",
+        "rating": 4.5,
+        "address": "243 Sư Vạn Hạnh, Phường 9, Quận 10, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.765843,
+        "longitude": 106.6717706
+    },
+    {
+        "category": "temples",
+        "title": "Linh Son Buddhist Temple",
+        "rating": 4.6,
+        "address": "149 Cô Giang, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7625151,
+        "longitude": 106.6942985
+    },
+    {
+        "category": "museums",
+        "title": "War Remnants Museum",
+        "rating": 4.5,
+        "address": "Phường 6, Quận 3, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7795106,
+        "longitude": 106.6920916
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Ho Chi Minh City",
+        "rating": 4.2,
+        "address": "65 Lý Tự Trọng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7759656,
+        "longitude": 106.69964759999999
+    },
+    {
+        "category": "museums",
+        "title": "HCMC History Museum",
+        "rating": 4.5,
+        "address": "2 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.788075,
+        "longitude": 106.7047291
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Traditional Vietnamese Medicine",
+        "rating": 4.5,
+        "address": "41 Hoàng Dư Khương, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7761823,
+        "longitude": 106.6718875
+    },
+    {
+        "category": "museums",
+        "title": "Bến Nhà Rồng - Bảo tàng Hồ Chí Minh",
+        "rating": 4.7,
+        "address": "1 Đ. Nguyễn Tất Thành, Phường 13, Quận 4, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7682339,
+        "longitude": 106.7068328
+    },
+    {
+        "category": "museums",
+        "title": "Independence Palace",
+        "rating": 4.5,
+        "address": "Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.776994199999999,
+        "longitude": 106.69530209999999
+    },
+    {
+        "category": "museums",
+        "title": "Ao Dai Museum",
+        "rating": 4.4,
+        "address": "206/19/30 Long Thuận, P, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8087923,
+        "longitude": 106.8531745
+    },
+    {
+        "category": "museums",
+        "title": "Ton Duc Thang Museum",
+        "rating": 4.5,
+        "address": "5 Tôn Đức Thắng, Phường Sài Gòn, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7772882,
+        "longitude": 106.70662689999999
+    },
+    {
+        "category": "museums",
+        "title": "Ho Chi Minh Campaign Museum",
+        "rating": 4.3,
+        "address": "Số 2 Lê Duẩn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7869955,
+        "longitude": 106.7042194
+    },
+    {
+        "category": "museums",
+        "title": "Ho Chi Minh Museum",
+        "rating": 4.2,
+        "address": "19 P. Ngọc Hà, Đội Cấn, Ba Đình, Hà Nội 100000, Vietnam",
+        "latitude": 21.0356409,
+        "longitude": 105.83266309999999
+    },
+    {
+        "category": "museums",
+        "title": "Ho Chi Minh City Fine Arts Museum",
+        "rating": 4.5,
+        "address": "97A Phó Đức Chính, Phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.770016199999999,
+        "longitude": 106.6991857
+    },
+    {
+        "category": "museums",
+        "title": "Quang San Art Museum",
+        "rating": 4.8,
+        "address": "189B/3 Nguyễn Văn Hưởng, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.818018,
+        "longitude": 106.7301506
+    },
+    {
+        "category": "museums",
+        "title": "Ho Chi Minh City Book Street",
+        "rating": 4.6,
+        "address": "2 Đ. Nguyễn Văn Bình, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.780963,
+        "longitude": 106.7000734
+    },
+    {
+        "category": "museums",
+        "title": "Southern Women's Museum",
+        "rating": 4.4,
+        "address": "202 Võ Thị Sáu, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7836813,
+        "longitude": 106.6876327
+    },
+    {
+        "category": "museums",
+        "title": "Southeastern Armed Forces Museum",
+        "rating": 4.2,
+        "address": "247 Đ. Hoàng Văn Thụ, Phường 1, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8000121,
+        "longitude": 106.66618059999999
+    },
+    {
+        "category": "museums",
+        "title": "Flyover Starry Sky Art Museum",
+        "rating": 4.9,
+        "address": "Bitexco Financial Tower, 2 Đ. Hải Triều, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 71009, Vietnam",
+        "latitude": 10.7719839,
+        "longitude": 106.70439119999999
+    },
+    {
+        "category": "museums",
+        "title": "Sài Gòn–Gia Định Special Forces Museum",
+        "rating": 4.5,
+        "address": "145 Trần Quang Khải, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7917384,
+        "longitude": 106.6909787
+    },
+    {
+        "category": "museums",
+        "title": "Geological Museum of Vietnam",
+        "rating": 4.4,
+        "address": "2 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.784798,
+        "longitude": 106.7078535
+    },
+    {
+        "category": "museums",
+        "title": "Réhahn Gallery",
+        "rating": 4.9,
+        "address": "74 Đồng Khởi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 711000, Vietnam",
+        "latitude": 10.775262999999999,
+        "longitude": 106.7042458
+    },
+    {
+        "category": "museums",
+        "title": "Fauna & Flora Museum",
+        "rating": 4.5,
+        "address": "110 Nguyễn Hữu Cảnh, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7871554,
+        "longitude": 106.70764799999999
+    },
+    {
+        "category": "night markets",
+        "title": "Nguyen An Ninh Night Market",
+        "rating": 3.7,
+        "address": "50 Hai Bà Trưng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7721064,
+        "longitude": 106.6973345
+    },
+    {
+        "category": "night markets",
+        "title": "Ben Nghe Street Food",
+        "rating": 4.3,
+        "address": "134 Nam Kỳ Khởi Nghĩa, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7772206,
+        "longitude": 106.69790139999999
+    },
+    {
+        "category": "night markets",
+        "title": "Ho Thi Ky Food Street",
+        "rating": 4.4,
+        "address": "Hồ Thị Kỷ phường Vườn Lài, Phường 1, Quận 10, Thành phố Hồ Chí Minh 70350, Vietnam",
+        "latitude": 10.7663259,
+        "longitude": 106.6759953
+    },
+    {
+        "category": "night markets",
+        "title": "Ben Thanh Market",
+        "rating": 4,
+        "address": "Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7725168,
+        "longitude": 106.6980208
+    },
+    {
+        "category": "night markets",
+        "title": "Linh Trung Night Market",
+        "rating": 4.2,
+        "address": "1225 TL43, Bình Chiểu, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8891644,
+        "longitude": 106.7274228
+    },
+    {
+        "category": "night markets",
+        "title": "Quang Trung Night Market",
+        "rating": 4,
+        "address": "68 Nguyễn Lâm, Phường 6, Quận 10, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7644998,
+        "longitude": 106.6631706
+    },
+    {
+        "category": "night markets",
+        "title": "Thao Dien Night Market",
+        "rating": 3.5,
+        "address": "RP3H+26V, Xuân Thủy, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8026188,
+        "longitude": 106.7280545
+    },
+    {
+        "category": "night markets",
+        "title": "Phố ẩm thực Phan Xích Long",
+        "rating": 4.7,
+        "address": "299 Phan Xích Long, Phường 7, Phú Nhuận, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.798627,
+        "longitude": 106.6875862
+    },
+    {
+        "category": "night markets",
+        "title": "Binh Tay Market",
+        "rating": 4.4,
+        "address": "57A Tháp Mười, Phường 2, Quận 6, Thành phố Hồ Chí Minh 700900, Vietnam",
+        "latitude": 10.7493647,
+        "longitude": 106.65105799999999
+    },
+    {
+        "category": "night markets",
+        "title": "Chợ đêm Man Thiện",
+        "rating": 4.2,
+        "address": "228 Man Thiện, Phường Tân Phú, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8496741,
+        "longitude": 106.79596199999999
+    },
+    {
+        "category": "night markets",
+        "title": "Thi Nghe Market",
+        "rating": 4.1,
+        "address": "36R Công Trường Hòa Bình, Phường 19, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.79199,
+        "longitude": 106.70752019999999
+    },
+    {
+        "category": "night markets",
+        "title": "Phố Ẩm Thực Nguyễn Thượng Hiền",
+        "rating": 3.8,
+        "address": "424/96A Đường Nguyễn Thượng Hiền, Phường 4, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7731028,
+        "longitude": 106.6846513
+    },
+    {
+        "category": "night markets",
+        "title": "Chợ Đêm Bà Hom",
+        "rating": 4.2,
+        "address": "45 Đ. Số 5, Tân Tạo A, Bình Tân, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7500539,
+        "longitude": 106.59058999999999
+    },
+    {
+        "category": "night markets",
+        "title": "Tân Định Market",
+        "rating": 4.2,
+        "address": "336 Hai Bà Trưng, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.789876,
+        "longitude": 106.69002549999999
+    },
+    {
+        "category": "night markets",
+        "title": "Chợ đêm Tôn Thất Đạm",
+        "rating": 3.7,
+        "address": "136B Tôn Thất Đạm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.772564899999999,
+        "longitude": 106.7027294
+    },
+    {
+        "category": "night markets",
+        "title": "Chợ đêm Hồ Thị Kỷ",
+        "rating": 4.5,
+        "address": "1/3d bis Tổ 61 Khu phố 4, Phường 1, Quận 10, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.766536799999999,
+        "longitude": 106.6760247
+    },
+    {
+        "category": "night markets",
+        "title": "Chợ Đêm Bắc Ninh",
+        "rating": 4.1,
+        "address": "72 Nguyễn Bá Luật, Bình Thọ, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.850342099999999,
+        "longitude": 106.76630689999999
+    },
+    {
+        "category": "night markets",
+        "title": "Cửa Tây Chợ Bến Thành",
+        "rating": 4.6,
+        "address": "23 Phan Chu Trinh, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.772286099999999,
+        "longitude": 106.6976988
+    },
+    {
+        "category": "night markets",
+        "title": "Pham Van Hai Market",
+        "rating": 4.1,
+        "address": "Đường Phạm Văn Hai, Phường 1, Tân Bình, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.794700899999999,
+        "longitude": 106.66285069999999
+    },
+    {
+        "category": "night markets",
+        "title": "Ăn Vặt Út Thảo",
+        "rating": null,
+        "address": "38/5A Đường 8, Tổ 6, Khu Phố 4, Thủ Đức, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.843141099999999,
+        "longitude": 106.7866662
+    },
+    {
+        "category": "viewpoints",
+        "title": "Saigon Skydeck",
+        "rating": 4.4,
+        "address": "36 Hồ Tùng Mậu, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7715673,
+        "longitude": 106.7042465
+    },
+    {
+        "category": "viewpoints",
+        "title": "Landmark 81",
+        "rating": 4.6,
+        "address": "720A Điện Biên Phủ, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh 72300, Vietnam",
+        "latitude": 10.7951119,
+        "longitude": 106.722096
+    },
+    {
+        "category": "viewpoints",
+        "title": "Saigon River Embankment",
+        "rating": 4.6,
+        "address": "Bình An, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7932574,
+        "longitude": 106.72774249999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Viewpoint Kênh Nhiêu Lộc",
+        "rating": 4.8,
+        "address": "529 Hoàng Sa, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.791692999999999,
+        "longitude": 106.682587
+    },
+    {
+        "category": "viewpoints",
+        "title": "Saigon Zoo & Botanical Gardens",
+        "rating": 4.3,
+        "address": "2 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.787334399999999,
+        "longitude": 106.70505659999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Statue of Ho Chi Minh",
+        "rating": 4.6,
+        "address": "110 Nguyễn Huệ, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7760193,
+        "longitude": 106.70154889999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Bùng Binh Cây Liễu",
+        "rating": 4.8,
+        "address": "4 Bùng binh Cây Liễu, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7755137,
+        "longitude": 106.7020924
+    },
+    {
+        "category": "viewpoints",
+        "title": "Công viên gầm cầu Ba Son",
+        "rating": 4.7,
+        "address": "QPJ5+974, Cầu Ba Son, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.78088,
+        "longitude": 106.7082155
+    },
+    {
+        "category": "viewpoints",
+        "title": "Cu Chi Tunnel",
+        "rating": 4.5,
+        "address": "Phú Hiệp, Củ Chi, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 11.141591,
+        "longitude": 106.4615963
+    },
+    {
+        "category": "viewpoints",
+        "title": "Boat Tour Ho Chi Minh",
+        "rating": 4.4,
+        "address": "Chung Cư Copac Block A, 4A1, Khu phố 1, Quận 4, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7650208,
+        "longitude": 106.71039329999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Quảng trường phố đi bộ Nguyễn Huệ",
+        "rating": 4.4,
+        "address": "Nguyễn Huệ, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.775898699999999,
+        "longitude": 106.70171739999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Binh An Park",
+        "rating": 4.3,
+        "address": "QPQG+G3H, Phường An Khánh, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7888216,
+        "longitude": 106.7252273
+    },
+    {
+        "category": "viewpoints",
+        "title": "Bờ kè đình Bình Quới Tây",
+        "rating": 4.2,
+        "address": "32/5 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.815161,
+        "longitude": 106.7499239
+    },
+    {
+        "category": "viewpoints",
+        "title": "Le Van Tam Park",
+        "rating": 4.4,
+        "address": "Hai Bà Trưng, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7881609,
+        "longitude": 106.693773
+    },
+    {
+        "category": "viewpoints",
+        "title": "Independence Palace",
+        "rating": 4.5,
+        "address": "Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.776994199999999,
+        "longitude": 106.69530209999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "VR City",
+        "rating": 5,
+        "address": "SC Vivo City, 1058 Đường Nguyễn Văn Linh, P, Quận 7, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7298577,
+        "longitude": 106.7032856
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ben Thanh Market",
+        "rating": 4,
+        "address": "Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7725168,
+        "longitude": 106.6980208
+    },
+    {
+        "category": "viewpoints",
+        "title": "xanhsaigon",
+        "rating": 4.6,
+        "address": "461D Bà Hạt, Phường 8, Quận 10, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7654634,
+        "longitude": 106.6670625
+    },
+    {
+        "category": "viewpoints",
+        "title": "Sala Urban Park",
+        "rating": 4.6,
+        "address": "01 Đ. Hoàng Thế Thiện, An Lợi Đông, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7721778,
+        "longitude": 106.7246327
+    },
+    {
+        "category": "viewpoints",
+        "title": "Quảng Trường Hầm Thủ Thiêm",
+        "rating": 4.5,
+        "address": "40 Thủ Thiêm, Quận 2, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.770111799999999,
+        "longitude": 106.71068749999999
+    },
+    {
+        "category": "gardens",
+        "title": "Saigon Zoo & Botanical Gardens",
+        "rating": 4.3,
+        "address": "2 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.787334399999999,
+        "longitude": 106.70505659999999
+    },
+    {
+        "category": "gardens",
+        "title": "Tao Dan Park",
+        "rating": 4.5,
+        "address": "Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7745379,
+        "longitude": 106.6924421
+    },
+    {
+        "category": "gardens",
+        "title": "Saigon Garden",
+        "rating": 4.2,
+        "address": "99 Nguyễn Huệ, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.773372799999999,
+        "longitude": 106.7038441
+    },
+    {
+        "category": "gardens",
+        "title": "Dế Garden",
+        "rating": 4.7,
+        "address": "104 Trần Khánh Dư, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.794409,
+        "longitude": 106.691836
+    },
+    {
+        "category": "gardens",
+        "title": "Chất Garden",
+        "rating": 4.8,
+        "address": "24 Đường Số 12, Khu dân cư Him Lam, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7416272,
+        "longitude": 106.6978524
+    },
+    {
+        "category": "gardens",
+        "title": "Công viên Vinhomes Bason",
+        "rating": 4.3,
+        "address": "QPM6+X62, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7848869,
+        "longitude": 106.7105134
+    },
+    {
+        "category": "gardens",
+        "title": "Chôm Garden",
+        "rating": 3.8,
+        "address": "243/11A Đ. Tôn Thất Thuyết, Phường 3, Quận 4, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7534119,
+        "longitude": 106.69733749999999
+    },
+    {
+        "category": "gardens",
+        "title": "Jun Garden - Vườn Thảo Mộc",
+        "rating": 5,
+        "address": "49/11 Hoàng Dư Khương, Phường 12, Quận 10, Thành phố Hồ Chí Minh 711936, Vietnam",
+        "latitude": 10.7764017,
+        "longitude": 106.6715766
+    },
+    {
+        "category": "gardens",
+        "title": "Sky Garden Floor 6th Saigon Center",
+        "rating": 4.5,
+        "address": "65 Lê Lợi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7731219,
+        "longitude": 106.7010846
+    },
+    {
+        "category": "gardens",
+        "title": "Cana Garden",
+        "rating": 4.6,
+        "address": "Biệt Thự Cát Tiến, Bờ bao sông Sài Gòn, Nhị Bình, Hóc Môn, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.919617299999999,
+        "longitude": 106.6701763
+    },
+    {
+        "category": "gardens",
+        "title": "cty",
+        "rating": null,
+        "address": "TK10/5 Võ Văn Kiệt, Phường Cầu Ông Lãnh, Quận 1, Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7562569,
+        "longitude": 106.68644309999999
+    },
+    {
+        "category": "gardens",
+        "title": "Hoang Van Thu Park",
+        "rating": 4.5,
+        "address": "RM28+C2, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8010436,
+        "longitude": 106.66505079999999
+    },
+    {
+        "category": "gardens",
+        "title": "AQ Garden",
+        "rating": 4.7,
+        "address": "Đối diện tòa nhà Mobifone, 7 Đ. Thành Thái, Phường 14, Quận 10, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7803214,
+        "longitude": 106.65921019999999
+    },
+    {
+        "category": "gardens",
+        "title": "City Garden",
+        "rating": 4.7,
+        "address": "38 Hai Bà Trưng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.777058199999999,
+        "longitude": 106.70474829999999
+    },
+    {
+        "category": "gardens",
+        "title": "Meo Garden - Vườn Thảo Mộc",
+        "rating": 5,
+        "address": "67/18/6 Đ. Tân Thắng, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh 760210, Vietnam",
+        "latitude": 10.8043623,
+        "longitude": 106.6247779
+    },
+    {
+        "category": "gardens",
+        "title": "ZINTHEFRENCHIE",
+        "rating": 5,
+        "address": "46 Đ. Số 1, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7330487,
+        "longitude": 106.7043408
+    },
+    {
+        "category": "gardens",
+        "title": "Ba Thịnh Garden House",
+        "rating": 4.2,
+        "address": "10/3, Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.882617999999999,
+        "longitude": 106.6796545
+    },
+    {
+        "category": "gardens",
+        "title": "En-Dee Garden",
+        "rating": 4.3,
+        "address": "22 Phước Kiển Nhà Bè Hồ Chí Minh, 915 ĐH34, Phước Kiển, Nhà Bè, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7147115,
+        "longitude": 106.70281589999999
+    },
+    {
+        "category": "gardens",
+        "title": "September 23rd Park",
+        "rating": 4.4,
+        "address": "Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.768711399999999,
+        "longitude": 106.69234
+    },
+    {
+        "category": "gardens",
+        "title": "Nam Kim Garden - Cây xanh - Cafe",
+        "rating": 5,
+        "address": "281 Lương Định Của, An Phú, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7904609,
+        "longitude": 106.7434256
+    },
+    {
+        "category": "zoo",
+        "title": "Saigon Zoo & Botanical Gardens",
+        "rating": 4.3,
+        "address": "2 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.787334399999999,
+        "longitude": 106.70505659999999
+    },
+    {
+        "category": "zoo",
+        "title": "Voi - Asia Elephant - Saigon Zoo",
+        "rating": 4.3,
+        "address": "2 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7875345,
+        "longitude": 106.70597219999999
+    },
+    {
+        "category": "zoo",
+        "title": "Saigon Zoo - Khu Gấu Chó",
+        "rating": 3.9,
+        "address": "100 Nguyễn Hữu Cảnh, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.786062399999999,
+        "longitude": 106.7078789
+    },
+    {
+        "category": "zoo",
+        "title": "Khỉ Sóc - Saigon Zoo",
+        "rating": 4.2,
+        "address": "110 Nguyễn Hữu Cảnh, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.787055599999999,
+        "longitude": 106.707639
+    },
+    {
+        "category": "adventure parks",
+        "title": "Dam Sen Water Park",
+        "rating": 4.3,
+        "address": "Đ. Hòa Bình/3 Đ. Bình Thới, Phường 3, Quận 11, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.768894699999999,
+        "longitude": 106.63599389999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "White Rabbit Amusement Park",
+        "rating": 4.3,
+        "address": "875 Cách Mạng Tháng Tám, Phường 15, Quận 10, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.785501499999999,
+        "longitude": 106.66605299999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Suoi Tien Theme Park",
+        "rating": 4.2,
+        "address": "120 Song Hành Xa Lộ Hà Nội, Phường Tân Phú, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.866186299999999,
+        "longitude": 106.8031678
+    },
+    {
+        "category": "adventure parks",
+        "title": "Dam Sen Cultural Park",
+        "rating": 4.3,
+        "address": "Đ. Hòa Bình/3 Đ. Bình Thới, Phường 3, Quận 11, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.768736599999999,
+        "longitude": 106.63610829999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Vietopia",
+        "rating": 4.2,
+        "address": "98 Đ. Nguyễn Thị Thập, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7415542,
+        "longitude": 106.69500389999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Công Viên Thế Kỷ 21",
+        "rating": 4,
+        "address": "QQJ2+FR7, Đường số 9, Phường Bình Trưng Tây, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7811567,
+        "longitude": 106.7520358
+    },
+    {
+        "category": "adventure parks",
+        "title": "Vườn thú Đầm Sen",
+        "rating": 4.1,
+        "address": "QJ6P+QFG, Phường 3, Quận 11, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7619461,
+        "longitude": 106.63620089999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Binh Nguyen Company",
+        "rating": null,
+        "address": "Phường Tân Phú, Thủ Đức, Thành phố Hồ Chí Minh 715000, Vietnam",
+        "latitude": 10.8557156,
+        "longitude": 106.8106057
+    },
+    {
+        "category": "adventure parks",
+        "title": "Công viên River Park",
+        "rating": 5,
+        "address": "PPG5+97F, Hà Huy Tập, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7259275,
+        "longitude": 106.7081686
+    },
+    {
+        "category": "adventure parks",
+        "title": "Snow Town Saigon Playground",
+        "rating": 4.1,
+        "address": "Toà nhà The CBD Premium Home, 125 Đ. Đồng Văn Cống, Phường Thạnh Mỹ Lợi, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7737495,
+        "longitude": 106.76274389999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Tao Dan Park",
+        "rating": 4.5,
+        "address": "Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7745379,
+        "longitude": 106.6924421
+    },
+    {
+        "category": "adventure parks",
+        "title": "Outdoor Playground - Gia Dinh Park",
+        "rating": 4.3,
+        "address": "RM6F+WCM, Đ. Đặng Văn Sâm, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8123367,
+        "longitude": 106.6735483
+    },
+    {
+        "category": "adventure parks",
+        "title": "Công Viên Vành Đai",
+        "rating": 4.2,
+        "address": "84/21 Đ. Lý Chiêu Hoàng, Phường 10, Quận 6, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.734631499999999,
+        "longitude": 106.62482449999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "KHU DU LỊCH BÌNH QUỚI 1",
+        "rating": 4.4,
+        "address": "1147 Bình Quới, Phường 28, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.829494,
+        "longitude": 106.739177
+    },
+    {
+        "category": "adventure parks",
+        "title": "Tay Thanh Tourist Area (Cu Chi Water Park)",
+        "rating": 3.5,
+        "address": "TL8, Phước Vĩnh An, Củ Chi, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.9850645,
+        "longitude": 106.53354209999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Saigon Zoo & Botanical Gardens",
+        "rating": 4.3,
+        "address": "2 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.787334399999999,
+        "longitude": 106.70505659999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Bãi Diều",
+        "rating": 5,
+        "address": "MPWJ+8FW, 1806, Phú Xuân, Nhà Bè, Hồ Chí Minh, Vietnam",
+        "latitude": 10.695855,
+        "longitude": 106.73119799999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "MenaWorld",
+        "rating": 4.9,
+        "address": "60A Trường Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8133059,
+        "longitude": 106.66552949999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "80/7/11 Kids Park",
+        "rating": 3.5,
+        "address": "80/7/11 Đ. Gò Dầu, Tân Quý, Tân Phú, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7965801,
+        "longitude": 106.6257773
+    },
+    {
+        "category": "adventure parks",
+        "title": "Công Ty TNHH VINPOOL",
+        "rating": 4.5,
+        "address": "64/4 Thới An 11, Thới An, Quận 12, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8832753,
+        "longitude": 106.64925939999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Temple Leaf Sauna & Spa",
+        "rating": 4.6,
+        "address": "32 Thái Văn Lung, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.780263399999999,
+        "longitude": 106.7037118
+    },
+    {
+        "category": "hot springs",
+        "title": "Temple Leaf Spa Land Vietnamese Traditional Massage & Hot/Cold Spa호치민 마사지",
+        "rating": 4.4,
+        "address": "Vietnam, Thành phố Hồ Chí Minh, Quận 1, Bến Nghé, Nguyễn Siêu",
+        "latitude": 10.7774853,
+        "longitude": 106.70456
+    },
+    {
+        "category": "hot springs",
+        "title": "Golden Lotus Healing World",
+        "rating": 4.8,
+        "address": "16A Đ. Số 10, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.8045926,
+        "longitude": 106.74568649999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Saigon Skyde Al",
+        "rating": 3.9,
+        "address": "RM36+74R, Phường 4, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8031875,
+        "longitude": 106.66031249999999
+    },
+    {
+        "category": "hot springs",
+        "title": "The Sparadise",
+        "rating": 4.6,
+        "address": "11B Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.786657499999999,
+        "longitude": 106.70547499999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Saigon Hot Spring",
+        "rating": null,
+        "address": "1c1 Thái Văn Lung, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7796179,
+        "longitude": 106.70500159999999
+    },
+    {
+        "category": "hot springs",
+        "title": "호치민 마사지 체온스파(CHEON SPA Massage)",
+        "rating": 4.4,
+        "address": "Vietnam, Thành phố Hồ Chí Minh, Quận 7, Tân Phú, Huỳnh Tấn Phát",
+        "latitude": 10.7326949,
+        "longitude": 106.7311962
+    },
+    {
+        "category": "hot springs",
+        "title": "MIDO LUXURY SPA",
+        "rating": 4.4,
+        "address": "160 Lê Thánh Tôn, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.773315199999999,
+        "longitude": 106.6977641
+    },
+    {
+        "category": "hot springs",
+        "title": "Minera Hot Springs Binh Chau",
+        "rating": 4.1,
+        "address": "Quốc lộ 55, Bình Châu, Xuyên Mộc, Bà Rịa - Vũng Tàu, Vietnam",
+        "latitude": 10.6029375,
+        "longitude": 107.5584375
+    },
+    {
+        "category": "hot springs",
+        "title": "Sen Tài Thu - Tân Sơn Nhất",
+        "rating": 4.7,
+        "address": "202A Đ. Hoàng Văn Thụ, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8007545,
+        "longitude": 106.6708192
+    },
+    {
+        "category": "hot springs",
+        "title": "La Spa Sai Gon",
+        "rating": 5,
+        "address": "180 -188 Lý Tự Trọng, St, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7730929,
+        "longitude": 106.69565019999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Binh Chau Hot Spring Resort",
+        "rating": 4,
+        "address": "Suối nước nóng Bình Châu, Bình Châu, Xuyên Mộc, Bà Rịa - Vũng Tàu 790000, Vietnam",
+        "latitude": 10.6012088,
+        "longitude": 107.55924859999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Hum Spa",
+        "rating": 4.7,
+        "address": "114 Lê Thị Riêng, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.771107899999999,
+        "longitude": 106.69025459999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Flamingo Spa",
+        "rating": 4.5,
+        "address": "13B Lê Thánh Tôn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.781324999999999,
+        "longitude": 106.70549009999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Explore Spa by Le Méridien Saigon",
+        "rating": 4.8,
+        "address": "Le Meridien Saigon, 3C Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7799889,
+        "longitude": 106.7073396
+    },
+    {
+        "category": "hot springs",
+        "title": "Y Tâm Therapy & Spa",
+        "rating": 5,
+        "address": "304/66/8 Bùi Đình Tuý, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.809170499999999,
+        "longitude": 106.69969619999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Queen Spa Phan Văn Trị",
+        "rating": 5,
+        "address": "686 Đ. Phan Văn Trị, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.8350378,
+        "longitude": 106.666353
+    },
+    {
+        "category": "hot springs",
+        "title": "Cát Mộc Spa",
+        "rating": 4.7,
+        "address": "63 Trần Đình Xu, Cầu Kho, Quận 1, Thành phố Hồ Chí Minh 71015, Vietnam",
+        "latitude": 10.760932799999999,
+        "longitude": 106.6905805
+    },
+    {
+        "category": "hot springs",
+        "title": "Him Spa - Lấy Mụn Bằng Tay - Spa Tân Phú",
+        "rating": 4.9,
+        "address": "Nguyễn Cửu Đàm, Tân Sơn Nhì, Tân Phú, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.798723599999999,
+        "longitude": 106.6298637
+    },
+    {
+        "category": "hot springs",
+        "title": "Gội Đầu Bằng Lá",
+        "rating": 4.9,
+        "address": "1395 Đ. Phan Văn Trị, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.8344661,
+        "longitude": 106.6672629
+    },
+    {
+        "category": "shopping malls",
+        "title": "Saigon Centre",
+        "rating": 4.5,
+        "address": "65 Lê Lợi, Phường, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7737647,
+        "longitude": 106.7010622
+    },
+    {
+        "category": "shopping malls",
+        "title": "Takashimaya",
+        "rating": 4.5,
+        "address": "92-94 Nam Kỳ Khởi Nghĩa, phường, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.772982899999999,
+        "longitude": 106.70066999999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "AEON MALL Binh Tan",
+        "rating": 4.6,
+        "address": "1 Đường Số 17A, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7427497,
+        "longitude": 106.61193089999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Vincom Center Dong Khoi",
+        "rating": 4.4,
+        "address": "72 Lê Thánh Tôn, Phường Sài Gòn, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.777785699999999,
+        "longitude": 106.7016596
+    },
+    {
+        "category": "shopping malls",
+        "title": "Van Hanh Mall",
+        "rating": 4.4,
+        "address": "11 Sư Vạn Hạnh, Phường Hòa Hưng, Quận 10, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.770846299999999,
+        "longitude": 106.66963829999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Crescent Mall",
+        "rating": 4.5,
+        "address": "101 Đ. Tôn Dật Tiên, phường Tân Mỹ, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7285352,
+        "longitude": 106.71874679999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "SC VivoCity",
+        "rating": 4.4,
+        "address": "1058 Đường Nguyễn Văn Linh, P, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7302321,
+        "longitude": 106.7033975
+    },
+    {
+        "category": "shopping malls",
+        "title": "Sài Gòn Square",
+        "rating": 4,
+        "address": "77-89 Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.772738499999999,
+        "longitude": 106.7002141
+    },
+    {
+        "category": "shopping malls",
+        "title": "Diamond Plaza",
+        "rating": 4.3,
+        "address": "34 Lê Duẩn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.780987,
+        "longitude": 106.6984947
+    },
+    {
+        "category": "shopping malls",
+        "title": "Saigon Mall",
+        "rating": 4.1,
+        "address": "19 Cao Thắng, Phường 2, Quận 3, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7690343,
+        "longitude": 106.68299139999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Vincom Mega Mall - Thao Dien",
+        "rating": 4.4,
+        "address": "161 Võ Nguyên Giáp, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.8023796,
+        "longitude": 106.7409716
+    },
+    {
+        "category": "shopping malls",
+        "title": "UNION SQUARE",
+        "rating": 4,
+        "address": "171 Đồng Khởi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7762798,
+        "longitude": 106.7018671
+    },
+    {
+        "category": "shopping malls",
+        "title": "NOWZONE Fashion Mall",
+        "rating": 4.2,
+        "address": "235 Nguyễn Văn Cừ, Phường Cầu Ông Lãnh, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.764131299999999,
+        "longitude": 106.68254379999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "TAKA PLAZA",
+        "rating": 4.2,
+        "address": "4 Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7691045,
+        "longitude": 106.6937269
+    },
+    {
+        "category": "shopping malls",
+        "title": "Sense Market",
+        "rating": 4.1,
+        "address": "04 Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7692803,
+        "longitude": 106.69372369999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Saigon Garden",
+        "rating": 4.2,
+        "address": "99 Nguyễn Huệ, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.773372799999999,
+        "longitude": 106.7038441
+    },
+    {
+        "category": "shopping malls",
+        "title": "Sai Gon Mall Go Vap",
+        "rating": 4,
+        "address": "2A Đ. Phan Văn Trị, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.8316049,
+        "longitude": 106.6759909
+    },
+    {
+        "category": "shopping malls",
+        "title": "Vincom Plaza Cộng Hoà",
+        "rating": 4.1,
+        "address": "15 17 Cộng Hòa, Phường 4, Tân Bình, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.8006026,
+        "longitude": 106.6582188
+    },
+    {
+        "category": "shopping malls",
+        "title": "Gigamall Shopping Center",
+        "rating": 4.5,
+        "address": "Đ. Phạm Văn Đồng, Hiệp Bình Chánh, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.827680299999999,
+        "longitude": 106.7216198
+    },
+    {
+        "category": "shopping malls",
+        "title": "MCM Saigon Centre",
+        "rating": 4.5,
+        "address": "SAIGON CENTRE, 65 Lê Lợi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7732879,
+        "longitude": 106.70079799999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Independence Palace",
+        "rating": 4.5,
+        "address": "Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.776994199999999,
+        "longitude": 106.69530209999999
+    },
+    {
+        "category": "historical sites",
+        "title": "War Remnants Museum",
+        "rating": 4.5,
+        "address": "Phường 6, Quận 3, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7795106,
+        "longitude": 106.6920916
+    },
+    {
+        "category": "historical sites",
+        "title": "Bến Nhà Rồng - Bảo tàng Hồ Chí Minh",
+        "rating": 4.7,
+        "address": "1 Đ. Nguyễn Tất Thành, Phường 13, Quận 4, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7682339,
+        "longitude": 106.7068328
+    },
+    {
+        "category": "historical sites",
+        "title": "Statue of Ho Chi Minh",
+        "rating": 4.6,
+        "address": "110 Nguyễn Huệ, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7760193,
+        "longitude": 106.70154889999999
+    },
+    {
+        "category": "historical sites",
+        "title": "HCMC History Museum",
+        "rating": 4.5,
+        "address": "2 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.788075,
+        "longitude": 106.7047291
+    },
+    {
+        "category": "historical sites",
+        "title": "Museum of Ho Chi Minh City",
+        "rating": 4.2,
+        "address": "65 Lý Tự Trọng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7759656,
+        "longitude": 106.69964759999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Former Norodom Palace",
+        "rating": 4.6,
+        "address": "108 Nguyễn Du, Phường Bến Thành, Quận 1, Hồ Chí Minh, Vietnam",
+        "latitude": 10.7765617,
+        "longitude": 106.6973201
+    },
+    {
+        "category": "historical sites",
+        "title": "Nguyễn Văn Hảo building",
+        "rating": 4.1,
+        "address": "Vietnam/1 Yersin, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7688391,
+        "longitude": 106.6967763
+    },
+    {
+        "category": "historical sites",
+        "title": "Cu Chi Tunnel",
+        "rating": 4.5,
+        "address": "Phú Hiệp, Củ Chi, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 11.141591,
+        "longitude": 106.4615963
+    },
+    {
+        "category": "historical sites",
+        "title": "Di tích mộ cổ họ Lâm",
+        "rating": 4.3,
+        "address": "80 Trương Định, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7753648,
+        "longitude": 106.6931077
+    },
+    {
+        "category": "historical sites",
+        "title": "The Venerable Thich Quảng Đức Monument",
+        "rating": 4.7,
+        "address": "185 Cách Mạng Tháng Tám, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7754659,
+        "longitude": 106.6867714
+    },
+    {
+        "category": "historical sites",
+        "title": "Láng Le Bàu Cò Historical Site",
+        "rating": 4.4,
+        "address": "Tân Nhựt, Bình Chánh, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.721221,
+        "longitude": 106.5362404
+    },
+    {
+        "category": "historical sites",
+        "title": "Di Tích Lịch Sử Quán Nhan Hương - Thảo Cầm Viên",
+        "rating": 4.7,
+        "address": "QPP5+92F, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7859477,
+        "longitude": 106.70753669999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Centro Storico di Ho Chi Minh",
+        "rating": 5,
+        "address": "QMC7+5C9, Phường 14, Quận 10, Hồ Chí Minh, Vietnam",
+        "latitude": 10.7702791,
+        "longitude": 106.6636973
+    },
+    {
+        "category": "historical sites",
+        "title": "Gandhi Statue",
+        "rating": 4.6,
+        "address": "QMFV+X9M, Trương Định, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.774807599999999,
+        "longitude": 106.69373829999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Book Street Lighthouse Monument",
+        "rating": 5,
+        "address": "QMJX+6RQ, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7805875,
+        "longitude": 106.6996114
+    },
+    {
+        "category": "historical sites",
+        "title": "Thành Gia Định",
+        "rating": 4.7,
+        "address": "56 Lê Duẩn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.785155099999999,
+        "longitude": 106.7028387
+    },
+    {
+        "category": "historical sites",
+        "title": "Ho Chi Minh City Book Street",
+        "rating": 4.6,
+        "address": "2 Đ. Nguyễn Văn Bình, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.780963,
+        "longitude": 106.7000734
+    },
+    {
+        "category": "historical sites",
+        "title": "Landmark 81",
+        "rating": 4.6,
+        "address": "720A Điện Biên Phủ, Phường 22, Bình Thạnh, Thành phố Hồ Chí Minh 72300, Vietnam",
+        "latitude": 10.7951119,
+        "longitude": 106.722096
+    },
+    {
+        "category": "historical sites",
+        "title": "Ho Chi Minh's Mausoleum",
+        "rating": 4.5,
+        "address": "1 Hùng Vương, Điện Biên, Ba Đình, Hà Nội, Vietnam",
+        "latitude": 21.0368973,
+        "longitude": 105.8346667
+    },
+    {
+        "category": "art galleries",
+        "title": "GALERIE QUYNH CONTEMPORARY ART",
+        "rating": 4.4,
+        "address": "118 Nguyễn Văn Thủ, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7884646,
+        "longitude": 106.69754309999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Green Palm Gallery - 49 Mac Thi Buoi, Ho Chi Minh",
+        "rating": 4.9,
+        "address": "49 Mạc Thị Bưởi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7750364,
+        "longitude": 106.70469899999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Lotus Gallery",
+        "rating": 4.7,
+        "address": "Khu Chế Xuất, Đ. D3/12-13 Tân Thuận, Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7509415,
+        "longitude": 106.7345823
+    },
+    {
+        "category": "art galleries",
+        "title": "S&S Art Gallery",
+        "rating": 4.6,
+        "address": "Union Square Shopping Centre, 171 Đồng Khởi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 71007, Vietnam",
+        "latitude": 10.776823199999999,
+        "longitude": 106.70192139999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Réhahn Gallery",
+        "rating": 4.9,
+        "address": "74 Đồng Khởi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 711000, Vietnam",
+        "latitude": 10.775262999999999,
+        "longitude": 106.7042458
+    },
+    {
+        "category": "art galleries",
+        "title": "Ben Thanh Gallery",
+        "rating": 4.6,
+        "address": "7 Nguyễn Thiệp, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.775231999999999,
+        "longitude": 106.703335
+    },
+    {
+        "category": "art galleries",
+        "title": "Vietnam Art Gallery",
+        "rating": 3.8,
+        "address": "80 Nguyễn Huệ, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7752,
+        "longitude": 106.70293099999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Quang San Art Museum",
+        "rating": 4.8,
+        "address": "189B/3 Nguyễn Văn Hưởng, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.818018,
+        "longitude": 106.7301506
+    },
+    {
+        "category": "art galleries",
+        "title": "Bình Minh Art Gallery",
+        "rating": 4.8,
+        "address": "29A Ngô Thời Nhiệm, Phường 6, Quận 3, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7806157,
+        "longitude": 106.69018
+    },
+    {
+        "category": "art galleries",
+        "title": "BOARC Gallery",
+        "rating": 4.9,
+        "address": "6 Thi Sách, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7776695,
+        "longitude": 106.7055362
+    },
+    {
+        "category": "art galleries",
+        "title": "Minh Anh Art Gallery | Hand-painted Oil Paintings & Custom Artwork Orders",
+        "rating": 4.8,
+        "address": "101 Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7666799,
+        "longitude": 106.69272799999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Vin Gallery",
+        "rating": 4.7,
+        "address": "35/8 Nguyễn Văn Đậu, Binh Loi, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.806222,
+        "longitude": 106.68654199999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Apricot Gallery",
+        "rating": 4.4,
+        "address": "50-52 Mạc Thị Bưởi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7754481,
+        "longitude": 106.70465109999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Annam Gallery",
+        "rating": 4.3,
+        "address": "371/4 Hai Bà Trưng, Phường Xuân Hòa, Quận 3, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.789895699999999,
+        "longitude": 106.6888086
+    },
+    {
+        "category": "art galleries",
+        "title": "SANN The House of Art",
+        "rating": 4.7,
+        "address": "92 Lê Thánh Tôn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7752295,
+        "longitude": 106.6999084
+    },
+    {
+        "category": "art galleries",
+        "title": "TOẢ Exhibition",
+        "rating": 4.4,
+        "address": "Công viên, QMCW+FW6, Lê Lai, Phường Phạm Ngũ Lão, Trạm Metro, Quận 1, Thành phố Hồ Chí Minh 500000, Vietnam",
+        "latitude": 10.7711875,
+        "longitude": 106.6973125
+    },
+    {
+        "category": "art galleries",
+        "title": "Art Gallery Nguyen Thanh",
+        "rating": 5,
+        "address": "139 Đồng Khởi, Bến Nghé, Quận 1, Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.77557,
+        "longitude": 106.70337099999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Duc Minh Art Gallery - Private Museum",
+        "rating": 3.2,
+        "address": "31C Lê Quý Đôn, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7818595,
+        "longitude": 106.689876
+    },
+    {
+        "category": "art galleries",
+        "title": "New Gen Art",
+        "rating": 4.6,
+        "address": "Đồng Khởi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.775409699999999,
+        "longitude": 106.70385689999999
+    },
+    {
+        "category": "art galleries",
+        "title": "The World ArtSpace",
+        "rating": 4.3,
+        "address": "31 Huỳnh Thúc Kháng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7725709,
+        "longitude": 106.70253
+    },
+    {
+        "category": "theaters",
+        "title": "Saigon Opera House",
+        "rating": 4.6,
+        "address": "07 Công trường Lam Sơn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 710212, Vietnam",
+        "latitude": 10.776612799999999,
+        "longitude": 106.7031715
+    },
+    {
+        "category": "theaters",
+        "title": "CGV Vincom Đồng Khởi",
+        "rating": 4.3,
+        "address": "72 Lê Thánh Tôn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.777923399999999,
+        "longitude": 106.7019528
+    },
+    {
+        "category": "theaters",
+        "title": "Galaxy Nguyễn Du",
+        "rating": 4.3,
+        "address": "116 Nguyễn Du, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7731281,
+        "longitude": 106.6931875
+    },
+    {
+        "category": "theaters",
+        "title": "Cinestar",
+        "rating": 4.2,
+        "address": "135 Hai Bà Trưng, phường, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7826042,
+        "longitude": 106.6981512
+    },
+    {
+        "category": "theaters",
+        "title": "Cinestar Cinema Quoc Thanh",
+        "rating": 4.1,
+        "address": "271 Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7638439,
+        "longitude": 106.68734889999999
+    },
+    {
+        "category": "theaters",
+        "title": "CGV Vincom Center Landmark 81",
+        "rating": 4.3,
+        "address": "TTTM Vincom Center Landmark, 81 772 Điện Biên Phủ, P.22, Bình Thạnh, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.794575,
+        "longitude": 106.72209889999999
+    },
+    {
+        "category": "theaters",
+        "title": "CGV Liberty Citypoint",
+        "rating": 4.4,
+        "address": "Khách sạn Liberty Citypoint, Pasteur, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7746987,
+        "longitude": 106.70063479999999
+    },
+    {
+        "category": "theaters",
+        "title": "Mega GS Cinemas",
+        "rating": 4.3,
+        "address": "19 Cao Thắng, Phường 2, Quận 3, Thành phố Hồ Chí Minh 72418, Vietnam",
+        "latitude": 10.7689901,
+        "longitude": 106.6829396
+    },
+    {
+        "category": "theaters",
+        "title": "CGV Crescent Mall",
+        "rating": 4.4,
+        "address": "Crescent Mall, Đường Nguyễn Văn Linh, Tân Phú, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7288722,
+        "longitude": 106.7188568
+    },
+    {
+        "category": "theaters",
+        "title": "CGV Pearl Plaza",
+        "rating": 4.4,
+        "address": "561A Điện Biên Phủ, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.799964899999999,
+        "longitude": 106.71849569999999
+    },
+    {
+        "category": "theaters",
+        "title": "DCINE Bến Thành",
+        "rating": 4.3,
+        "address": "6 Mạc Đĩnh Chi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.783866999999999,
+        "longitude": 106.7008279
+    },
+    {
+        "category": "theaters",
+        "title": "CGV Van Hanh Mall",
+        "rating": 4.4,
+        "address": "Vạn Hạnh Mall, 11 Sư Vạn Hạnh, Phường 12, Quận 10, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.770551399999999,
+        "longitude": 106.6695417
+    },
+    {
+        "category": "theaters",
+        "title": "CGV Vivo City",
+        "rating": 4.5,
+        "address": "Lầu 5, Trung tâm thương mại SC VivoCity, 1058 Đường Nguyễn Văn Linh, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.730043499999999,
+        "longitude": 106.7043463
+    },
+    {
+        "category": "theaters",
+        "title": "Mega GS Cinemas Ly Chinh Thang",
+        "rating": 4,
+        "address": "212 Lý Chính Thắng, Phường 9, Quận 3, Thành phố Hồ Chí Minh 72414, Vietnam",
+        "latitude": 10.780638999999999,
+        "longitude": 106.6824183
+    },
+    {
+        "category": "theaters",
+        "title": "CGV Menas Mall Saigon Airport",
+        "rating": 4.2,
+        "address": "60A Trường Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.812993599999999,
+        "longitude": 106.66559249999999
+    },
+    {
+        "category": "theaters",
+        "title": "The Golden Dragon Water Puppet Theater",
+        "rating": 4.4,
+        "address": "55B Nguyễn Thị Minh Khai, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.776259699999999,
+        "longitude": 106.69253739999999
+    },
+    {
+        "category": "theaters",
+        "title": "CGV Hoàng Văn Thụ",
+        "rating": 4.3,
+        "address": "415 Đ. Hoàng Văn Thụ, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7986945,
+        "longitude": 106.6601481
+    },
+    {
+        "category": "theaters",
+        "title": "Galaxy Kinh Duong Vuong",
+        "rating": 4.4,
+        "address": "718bis Đ. Kinh Dương Vương, Phường 13, Quận 6, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.750413499999999,
+        "longitude": 106.6282706
+    },
+    {
+        "category": "theaters",
+        "title": "CGV AEON Mall Binh Tan",
+        "rating": 4.6,
+        "address": "1 Đường Số 17A, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7432725,
+        "longitude": 106.6129012
+    },
+    {
+        "category": "theaters",
+        "title": "CGV Lý Chính Thắng",
+        "rating": 4.1,
+        "address": "83 Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh 72408, Vietnam",
+        "latitude": 10.7891011,
+        "longitude": 106.68565029999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "LaMay – Authentic Handcrafted Vietnam Gifts & Souvenirs | ベトナム伝統ギフト・クラフト雑貨",
+        "rating": 5,
+        "address": "41 Mạc Thị Bưởi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7751559,
+        "longitude": 106.704769
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Unique Gift Shop",
+        "rating": 4.6,
+        "address": "33 Đ. Nguyễn Phi Khanh, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7916349,
+        "longitude": 106.69483389999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Saigon Eco Craft Souvenirs & Crafts",
+        "rating": 4.7,
+        "address": "90 Lê Lợi, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7729553,
+        "longitude": 106.6993471
+    },
+    {
+        "category": "souvenir counters",
+        "title": "coi gift shop",
+        "rating": 4.8,
+        "address": "174/10 Lý Tự Trọng, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7734439,
+        "longitude": 106.6955433
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Cổ và Cũ",
+        "rating": 4.4,
+        "address": "Flora Fuji, Đ. D1, P, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8133459,
+        "longitude": 106.7857451
+    },
+    {
+        "category": "souvenir counters",
+        "title": "The Craft House Original",
+        "rating": 4.8,
+        "address": "28 Nguyễn Trãi, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7709576,
+        "longitude": 106.692533
+    },
+    {
+        "category": "souvenir counters",
+        "title": "ガイドブック Vesta Lifestyle & Gifts",
+        "rating": 4.7,
+        "address": "33a Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.804523699999999,
+        "longitude": 106.7367421
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Tropic Shop",
+        "rating": 4.7,
+        "address": "87 Đồng Khởi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 71006, Vietnam",
+        "latitude": 10.774644499999999,
+        "longitude": 106.7042898
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Star Kitchen Souvenir Gift Shop",
+        "rating": 5,
+        "address": "Takashimaya, 92-94 Nam Kỳ Khởi Nghĩa, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.7731747,
+        "longitude": 106.7004448
+    },
+    {
+        "category": "souvenir counters",
+        "title": "KOKONIC - The Gift of Vietnam",
+        "rating": 5,
+        "address": "113Bis Xuân Thủy, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.8041743,
+        "longitude": 106.7368073
+    },
+    {
+        "category": "souvenir counters",
+        "title": "ta concept • Art Gifts & Souvenirs",
+        "rating": 5,
+        "address": "Đ. Nguyễn Văn Bình, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7802549,
+        "longitude": 106.69949749999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir",
+        "rating": 4.3,
+        "address": "22 Đ. Tôn Thất Thiệp, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.773700999999999,
+        "longitude": 106.70268899999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "ta concept • Local Art • Gift • Design",
+        "rating": 5,
+        "address": "166 Ky Con Street, Ward, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.768393099999999,
+        "longitude": 106.69747489999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Cửa Hàng Hòa Hoa - Saigon Kitsch",
+        "rating": 4,
+        "address": "43 Đ. Tôn Thất Thiệp, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.773178999999999,
+        "longitude": 106.70182799999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Laura's Saigon Gifts",
+        "rating": 4.1,
+        "address": "Taka Plaza, 4 Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 71006, Vietnam",
+        "latitude": 10.7694095,
+        "longitude": 106.6937038
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Lemon Gift Shop",
+        "rating": 4.5,
+        "address": "137 Trần Phú, Phường 4, Quận 5, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7600962,
+        "longitude": 106.6768606
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Saigon Eco Craft",
+        "rating": 4.6,
+        "address": "36 Lê Lợi, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.7743518,
+        "longitude": 106.7005356
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Légumes Takashimaya - Vietnamese Specialty Gifts / ベトナム特産品ギフト/ 베트남 특산품 선물 / 越南特产礼品",
+        "rating": 5,
+        "address": "Basement 2 - Takashimaya, 92 94 Nam Kỳ Khởi Nghĩa, Quận 1, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "latitude": 10.772982899999999,
+        "longitude": 106.70066999999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Duy Tan - Saigon Artisan",
+        "rating": 4.2,
+        "address": "76a Lê Lợi, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
+        "latitude": 10.7731268,
+        "longitude": 106.69956239999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Saigon A - Art Gifts, Souvenirs & Books",
+        "rating": 5,
+        "address": "2 Công trường Công xã Paris, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 538642, Vietnam",
+        "latitude": 10.7801203,
+        "longitude": 106.6995542
+    }
+]

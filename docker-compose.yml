@@ -1,4 +1,4 @@
-version: '3'
+version: "3"
 services:
   discovery-server:
     build: ./discovery-server
@@ -67,3 +67,14 @@ services:
       - "8002:8002"
     depends_on:
       - discovery-server
+
+  gallery-service:
+    build: ./gallery-service
+    image: microservice-gowise/gallery-service
+    container_name: gallery-service
+    ports:
+      - "8084:8084"
+    depends_on:
+      - discovery-server
+    env_file:
+      - ./gallery-service/.env

@@ -1,0 +1,3738 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Dublin Castle",
+        "rating": 4.3,
+        "address": "Dame St, Dublin 2, Ireland",
+        "latitude": 53.342886099999994,
+        "longitude": -6.2674284
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Phoenix Park",
+        "rating": 4.7,
+        "address": "Dublin 8, Ireland",
+        "latitude": 53.3558823,
+        "longitude": -6.3298133
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Irish Whiskey Museum",
+        "rating": 4.7,
+        "address": "119 Grafton Street, Dublin, D02 E620, Ireland",
+        "latitude": 53.344198,
+        "longitude": -6.259525
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Kilmainham Gaol",
+        "rating": 4.7,
+        "address": "Inchicore Rd, Kilmainham, Dublin 8, D08 RK28, Ireland",
+        "latitude": 53.341870099999994,
+        "longitude": -6.309804799999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "The Spire",
+        "rating": 4.3,
+        "address": "O'Connell Street Upper, North City, Dublin, Ireland",
+        "latitude": 53.349824999999996,
+        "longitude": -6.2602557
+    },
+    {
+        "category": "tourist attractions",
+        "title": "EPIC The Irish Emigration Museum",
+        "rating": 4.6,
+        "address": "The Chq Building, Custom House Quay, North Wall, Dublin 1, Ireland",
+        "latitude": 53.3483124,
+        "longitude": -6.2481791
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Molly Malone Statue",
+        "rating": 4.4,
+        "address": "Suffolk St, Dublin 2, D02 KX03, Ireland",
+        "latitude": 53.3437409,
+        "longitude": -6.260972499999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "The Irish Rock 'n' Roll Museum Experience",
+        "rating": 4.7,
+        "address": "Curved St, Temple Bar, Dublin, D02 RD26, Ireland",
+        "latitude": 53.344926,
+        "longitude": -6.2644318
+    },
+    {
+        "category": "tourist attractions",
+        "title": "World of Illusion",
+        "rating": 3.8,
+        "address": "2 Central Plaza, Temple Bar, Dublin, D02 T0X4, Ireland",
+        "latitude": 53.344479299999996,
+        "longitude": -6.2625638
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Dublin Zoo",
+        "rating": 4.6,
+        "address": "Phoenix park, Saint James, Dublin, D08 AC98, Ireland",
+        "latitude": 53.3572232,
+        "longitude": -6.3071091
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Dubh Linn Garden",
+        "rating": 4.6,
+        "address": "Dublin Castle, Dame St, Dublin, Ireland",
+        "latitude": 53.3423616,
+        "longitude": -6.2666319999999995
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Dublinia",
+        "rating": 4.5,
+        "address": "St Michaels Hill Christ Church, 5 Meath St, Saint Catherine's, Dublin 8, D08 VE80, Ireland",
+        "latitude": 53.343149,
+        "longitude": -6.2720614
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Irish Museum of Modern Art",
+        "rating": 4.3,
+        "address": "Royal Hospital Kilmainham, Military Rd, Kilmainham, Dublin 8, D08 FW31, Ireland",
+        "latitude": 53.342587099999996,
+        "longitude": -6.299928599999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Skyview Tower",
+        "rating": 4.3,
+        "address": "Chimney Viewing Tower, Arran Quay, Smithfield, Dublin, Ireland",
+        "latitude": 53.348479999999995,
+        "longitude": -6.2778187999999995
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ha'penny Bridge",
+        "rating": 4.5,
+        "address": "North City, Dublin, Ireland",
+        "latitude": 53.3463347,
+        "longitude": -6.2631029
+    },
+    {
+        "category": "tourist attractions",
+        "title": "The Phoenix Monument",
+        "rating": 4.5,
+        "address": "Chesterfield Ave, Castleknock (part of Phoenix Park), Dublin, Ireland",
+        "latitude": 53.360119399999995,
+        "longitude": -6.3258196
+    },
+    {
+        "category": "tourist attractions",
+        "title": "National Museum of Ireland, Kildare Street",
+        "rating": 4.6,
+        "address": "35A Kildare St, Dublin 2, D02 YK38, Ireland",
+        "latitude": 53.340222499999996,
+        "longitude": -6.2549209
+    },
+    {
+        "category": "tourist attractions",
+        "title": "GPO Museum",
+        "rating": 4.6,
+        "address": "O'Connell Street Lower, North City, Dublin 1, D01 F5P2, Ireland",
+        "latitude": 53.349528199999995,
+        "longitude": -6.2606027
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Grafton Street",
+        "rating": 4.7,
+        "address": "2-104, Grafton Street, Dublin 2, D02 Y527, Ireland",
+        "latitude": 53.343769099999996,
+        "longitude": -6.259396499999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Irish Music Wall of Fame",
+        "rating": 4.3,
+        "address": "Temple Ln S, Temple Bar, Dublin, Ireland",
+        "latitude": 53.344989899999995,
+        "longitude": -6.2643016
+    },
+    {
+        "category": "parks",
+        "title": "St Patrick’s Park",
+        "rating": 4.6,
+        "address": "Bull Alley St, Dublin, Ireland",
+        "latitude": 53.340242499999995,
+        "longitude": -6.2711649
+    },
+    {
+        "category": "parks",
+        "title": "Phoenix Park",
+        "rating": 4.7,
+        "address": "Dublin 8, Ireland",
+        "latitude": 53.3558823,
+        "longitude": -6.3298133
+    },
+    {
+        "category": "parks",
+        "title": "Merrion Square Park",
+        "rating": 4.6,
+        "address": "1 Merrion Square E, Dublin, Ireland",
+        "latitude": 53.339672199999995,
+        "longitude": -6.2492133999999995
+    },
+    {
+        "category": "parks",
+        "title": "Bushy Park",
+        "rating": 4.6,
+        "address": "Terenure, Dublin, Ireland",
+        "latitude": 53.302549899999995,
+        "longitude": -6.2943383
+    },
+    {
+        "category": "parks",
+        "title": "St Stephen's Green",
+        "rating": 4.7,
+        "address": "Dublin 2, Ireland",
+        "latitude": 53.3381736,
+        "longitude": -6.259119
+    },
+    {
+        "category": "parks",
+        "title": "Blackrock Park",
+        "rating": 4.6,
+        "address": "14 Rock Rd, Intake, Dublin, Ireland",
+        "latitude": 53.3044253,
+        "longitude": -6.1849373
+    },
+    {
+        "category": "parks",
+        "title": "People's Park",
+        "rating": 4.6,
+        "address": "Park Rd, Glasthule, Dublin, Ireland",
+        "latitude": 53.2898679,
+        "longitude": -6.1285748
+    },
+    {
+        "category": "parks",
+        "title": "St Anne's Park",
+        "rating": 4.8,
+        "address": "Clontarf East, Dublin, Ireland",
+        "latitude": 53.3718307,
+        "longitude": -6.179344599999999
+    },
+    {
+        "category": "parks",
+        "title": "Killiney Hill Park",
+        "rating": 4.8,
+        "address": "Killiney Hill, Scalpwilliam Or Mount Mapas, Dublin, Ireland",
+        "latitude": 53.2653787,
+        "longitude": -6.1112421999999995
+    },
+    {
+        "category": "parks",
+        "title": "Griffith Park",
+        "rating": 4.7,
+        "address": "27 St Michael's Rd, Drumcondra, Dublin 9, D09 C8W7, Ireland",
+        "latitude": 53.3699941,
+        "longitude": -6.261508
+    },
+    {
+        "category": "parks",
+        "title": "Tymon Park",
+        "rating": 4.5,
+        "address": "Tallaght, Dublin, Ireland",
+        "latitude": 53.304112599999996,
+        "longitude": -6.3412494
+    },
+    {
+        "category": "parks",
+        "title": "Santry Park",
+        "rating": 4.6,
+        "address": "Santry Demesne, Dublin, Ireland",
+        "latitude": 53.4015019,
+        "longitude": -6.251269499999999
+    },
+    {
+        "category": "parks",
+        "title": "Fairview Park",
+        "rating": 4.4,
+        "address": "Fairview, Dublin, D03 XF90, Ireland",
+        "latitude": 53.362222499999994,
+        "longitude": -6.2327072
+    },
+    {
+        "category": "parks",
+        "title": "Tolka Valley Park",
+        "rating": 4.2,
+        "address": "Finglas South, Dublin, D11 DE0A, Ireland",
+        "latitude": 53.3781812,
+        "longitude": -6.309481099999999
+    },
+    {
+        "category": "parks",
+        "title": "Harold's Cross Park",
+        "rating": 4.5,
+        "address": "Harold's Cross Rd, Harold's Cross, Dublin, Ireland",
+        "latitude": 53.3242623,
+        "longitude": -6.2790664
+    },
+    {
+        "category": "parks",
+        "title": "St. Enda's Park",
+        "rating": 4.7,
+        "address": "273 Harold's Grange Rd, Rathfarnham, Dublin 16, D16 TD26, Ireland",
+        "latitude": 53.2840455,
+        "longitude": -6.2832067
+    },
+    {
+        "category": "parks",
+        "title": "Corkagh Park",
+        "rating": 4.7,
+        "address": "Naas Byp, Newlands Cross, Dublin 22, Ireland",
+        "latitude": 53.313179299999994,
+        "longitude": -6.41649
+    },
+    {
+        "category": "parks",
+        "title": "Marlay Park",
+        "rating": 4.7,
+        "address": "Grange Rd, Rathfarnham, Dublin 16, D14 Y6X5, Ireland",
+        "latitude": 53.2752926,
+        "longitude": -6.2700887
+    },
+    {
+        "category": "parks",
+        "title": "Father Collins Park",
+        "rating": 4.5,
+        "address": "Hole in The Wall Rd, Donaghmede, Co. Dublin, Ireland",
+        "latitude": 53.4052231,
+        "longitude": -6.1607677
+    },
+    {
+        "category": "parks",
+        "title": "Herbert Park",
+        "rating": 4.7,
+        "address": "Dublin, Ireland",
+        "latitude": 53.3263689,
+        "longitude": -6.2349694
+    },
+    {
+        "category": "restaurants",
+        "title": "The Vintage Kitchen",
+        "rating": 4.7,
+        "address": "7 Poolbeg St, Dublin 2, D02 NX03, Ireland",
+        "latitude": 53.3469072,
+        "longitude": -6.2556946
+    },
+    {
+        "category": "restaurants",
+        "title": "Trocadero Restaurant Dublin",
+        "rating": 4.6,
+        "address": "No. 4, St Andrew's St, Dublin 2, D02 PD30, Ireland",
+        "latitude": 53.343382399999996,
+        "longitude": -6.2617176
+    },
+    {
+        "category": "restaurants",
+        "title": "Old Mill Restaurant",
+        "rating": 4.5,
+        "address": "14, Temple Bar, Dublin 2, D02 V970, Ireland",
+        "latitude": 53.3456589,
+        "longitude": -6.2629516999999995
+    },
+    {
+        "category": "restaurants",
+        "title": "Hawksmoor Dublin",
+        "rating": 4.3,
+        "address": "34 College Green, Dublin 2, D02 C850, Ireland",
+        "latitude": 53.344164899999996,
+        "longitude": -6.2600986
+    },
+    {
+        "category": "restaurants",
+        "title": "Library Street Restaurant",
+        "rating": 4.7,
+        "address": "101 Setanta Pl, Dublin 2, D02 W3Y7, Ireland",
+        "latitude": 53.341878699999995,
+        "longitude": -6.2564192
+    },
+    {
+        "category": "restaurants",
+        "title": "The Little Kitchen",
+        "rating": 4.7,
+        "address": "129 Leeson Street Upper, Dublin 4, D04 YX03, Ireland",
+        "latitude": 53.330371899999996,
+        "longitude": -6.2514802
+    },
+    {
+        "category": "restaurants",
+        "title": "WILDE Restaurant",
+        "rating": 4.6,
+        "address": "Harry St, Dublin 2, D02 CH66, Ireland",
+        "latitude": 53.341491399999995,
+        "longitude": -6.2610798999999995
+    },
+    {
+        "category": "restaurants",
+        "title": "Chapter One Restaurant",
+        "rating": 4.8,
+        "address": "18-19 Parnell Square N, Rotunda, Dublin 1, D01 T3V8, Ireland",
+        "latitude": 53.3544157,
+        "longitude": -6.2639458
+    },
+    {
+        "category": "restaurants",
+        "title": "Bloom Brasserie",
+        "rating": 4.6,
+        "address": "11 Baggot Street Upper, Dublin, D04 HN92, Ireland",
+        "latitude": 53.333639999999995,
+        "longitude": -6.244821
+    },
+    {
+        "category": "restaurants",
+        "title": "SOLE Seafood & Grill",
+        "rating": 4.5,
+        "address": "47 Drury St, Dublin, D02 K753, Ireland",
+        "latitude": 53.342129899999996,
+        "longitude": -6.2630775
+    },
+    {
+        "category": "restaurants",
+        "title": "Pichet",
+        "rating": 4.7,
+        "address": "14-15 Trinity St, Dublin 2, D02 T998, Ireland",
+        "latitude": 53.343802,
+        "longitude": -6.262352
+    },
+    {
+        "category": "restaurants",
+        "title": "Mr Fox",
+        "rating": 4.7,
+        "address": "38 Parnell Square W, Rotunda, Dublin, Ireland",
+        "latitude": 53.3529755,
+        "longitude": -6.2648847
+    },
+    {
+        "category": "restaurants",
+        "title": "Pearl Brasserie",
+        "rating": 4.7,
+        "address": "20 Merrion St Upper, Dublin 2, D02 XH98, Ireland",
+        "latitude": 53.338341299999996,
+        "longitude": -6.2531829
+    },
+    {
+        "category": "restaurants",
+        "title": "Etto",
+        "rating": 4.8,
+        "address": "18 Merrion Row, Dublin, D02 A316, Ireland",
+        "latitude": 53.3381252,
+        "longitude": -6.253934999999999
+    },
+    {
+        "category": "restaurants",
+        "title": "The Quays Dublin - Temple Bar",
+        "rating": 4.5,
+        "address": "10-12 Temple Bar, Dublin 2, D02 EW63, Ireland",
+        "latitude": 53.3456732,
+        "longitude": -6.2632555
+    },
+    {
+        "category": "restaurants",
+        "title": "Hugo's Restaurant",
+        "rating": 4.6,
+        "address": "6 Merrion Row, Dublin 2, D02 T657, Ireland",
+        "latitude": 53.3384943,
+        "longitude": -6.2544694
+    },
+    {
+        "category": "restaurants",
+        "title": "FIRE Steakhouse Restaurant & Bar Dublin",
+        "rating": 4.4,
+        "address": "The Mansion House, Dawson St, Dublin 2, Ireland",
+        "latitude": 53.3405397,
+        "longitude": -6.257922199999999
+    },
+    {
+        "category": "restaurants",
+        "title": "La Maison",
+        "rating": 4.6,
+        "address": "15 Castle Market, Dublin 2, D02 C656, Ireland",
+        "latitude": 53.3422687,
+        "longitude": -6.2628933
+    },
+    {
+        "category": "restaurants",
+        "title": "The Shack Restaurant",
+        "rating": 4.5,
+        "address": "24 Essex St E, Temple Bar, Dublin 2, D02 N297, Ireland",
+        "latitude": 53.3454477,
+        "longitude": -6.2644078
+    },
+    {
+        "category": "restaurants",
+        "title": "Bar Italia Ristorante",
+        "rating": 4.5,
+        "address": "26 Ormond Quay Lower, North City, Dublin, D01 CA21, Ireland",
+        "latitude": 53.3464835,
+        "longitude": -6.2649892
+    },
+    {
+        "category": "cafes",
+        "title": "Lemon Jelly Cafe",
+        "rating": 4.6,
+        "address": "Millennium Walkway, North City, Dublin 1, D01 Y027, Ireland",
+        "latitude": 53.3472005,
+        "longitude": -6.2653988
+    },
+    {
+        "category": "cafes",
+        "title": "The Stage Door Cafe",
+        "rating": 4.7,
+        "address": "Apartment 3, Apartment 3, 11 Essex St E, Temple Bar, Dublin 2, Ireland",
+        "latitude": 53.345253799999995,
+        "longitude": -6.2659495
+    },
+    {
+        "category": "cafes",
+        "title": "Beanhive Coffee",
+        "rating": 4.6,
+        "address": "26 Dawson St, Dublin 2, D02 FY28, Ireland",
+        "latitude": 53.339798599999995,
+        "longitude": -6.258824799999999
+    },
+    {
+        "category": "cafes",
+        "title": "Metro Cafe",
+        "rating": 4.3,
+        "address": "43 William St S, Dublin 2, D02 YK59, Ireland",
+        "latitude": 53.341234799999995,
+        "longitude": -6.262988099999999
+    },
+    {
+        "category": "cafes",
+        "title": "Two Pups",
+        "rating": 4.6,
+        "address": "74 Francis St, The Liberties, Dublin 8, D08 KA43, Ireland",
+        "latitude": 53.339355499999996,
+        "longitude": -6.2734203
+    },
+    {
+        "category": "cafes",
+        "title": "Keoghs Cafe",
+        "rating": 4.5,
+        "address": "1 & 2 Trinity St, Dublin, D02 A440, Ireland",
+        "latitude": 53.3440346,
+        "longitude": -6.262204
+    },
+    {
+        "category": "cafes",
+        "title": "Joy of Chá",
+        "rating": 4.6,
+        "address": "10 Essex St E, Temple Bar, Dublin 2, D02 TF24, Ireland",
+        "latitude": 53.345213799999996,
+        "longitude": -6.2660392
+    },
+    {
+        "category": "cafes",
+        "title": "Copper + Straw Speciality Coffee",
+        "rating": 4.8,
+        "address": "14 - 18 Aston Quay, Temple Bar, Dublin 2, D02 FV38, Ireland",
+        "latitude": 53.3466003,
+        "longitude": -6.2600753
+    },
+    {
+        "category": "cafes",
+        "title": "Shoe Lane Coffee",
+        "rating": 4.7,
+        "address": "7 Tara St, Dublin 2, D02 Y662, Ireland",
+        "latitude": 53.3471635,
+        "longitude": -6.2552878
+    },
+    {
+        "category": "cafes",
+        "title": "The Music Café Dublin",
+        "rating": 4.3,
+        "address": "Grattan House, 1 Wellington Quay, Temple Bar, Dublin 2, D02 DY95, Ireland",
+        "latitude": 53.3452859,
+        "longitude": -6.2674560999999995
+    },
+    {
+        "category": "cafes",
+        "title": "Legit Coffee Co",
+        "rating": 4.7,
+        "address": "Meath Mart, 1 Meath St, The Liberties, Dublin, Ireland",
+        "latitude": 53.341273799999996,
+        "longitude": -6.2787811
+    },
+    {
+        "category": "cafes",
+        "title": "Café en Seine",
+        "rating": 4.4,
+        "address": "40 Dawson St, Dublin, Ireland",
+        "latitude": 53.340658,
+        "longitude": -6.258619899999999
+    },
+    {
+        "category": "cafes",
+        "title": "Café Lisboa",
+        "rating": 4.8,
+        "address": "28 Mary Street Little, North City, Dublin, D07 FX4W, Ireland",
+        "latitude": 53.3482759,
+        "longitude": -6.2691729
+    },
+    {
+        "category": "cafes",
+        "title": "The Fumbally",
+        "rating": 4.6,
+        "address": "Fumbally Ln, The Liberties, Dublin 8, D08 HFF2, Ireland",
+        "latitude": 53.336991,
+        "longitude": -6.27299
+    },
+    {
+        "category": "cafes",
+        "title": "The Bakehouse Dublin",
+        "rating": 4.5,
+        "address": "6 Bachelors Walk, North City, Dublin 1, D01 C953, Ireland",
+        "latitude": 53.346879699999995,
+        "longitude": -6.2625765
+    },
+    {
+        "category": "cafes",
+        "title": "The Coffee Bean",
+        "rating": 4.7,
+        "address": "64 Mary St, North City, Dublin 1, D01 KW22, Ireland",
+        "latitude": 53.348570099999996,
+        "longitude": -6.2685273
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Crema",
+        "rating": 4.5,
+        "address": "Middle Abbey St, North City, Dublin, D01 W2X7, Ireland",
+        "latitude": 53.348362599999994,
+        "longitude": -6.2608684
+    },
+    {
+        "category": "cafes",
+        "title": "Two Boys Brew",
+        "rating": 4.6,
+        "address": "375 N Circular Rd, Phibsborough, Dublin 7, D07 FWY1, Ireland",
+        "latitude": 53.3608639,
+        "longitude": -6.271541699999999
+    },
+    {
+        "category": "cafes",
+        "title": "The Bald Barista",
+        "rating": 4.6,
+        "address": "68 Aungier St, Dublin 2, D02 XE86, Ireland",
+        "latitude": 53.340483,
+        "longitude": -6.2658258
+    },
+    {
+        "category": "cafes",
+        "title": "Coffeeangel",
+        "rating": 4.6,
+        "address": "16 Anne St S, Dublin, D02 VF29, Ireland",
+        "latitude": 53.341105,
+        "longitude": -6.258754
+    },
+    {
+        "category": "mountains",
+        "title": "Fairy Castle",
+        "rating": 4.7,
+        "address": "Tiknock, Co. Dublin, Ireland",
+        "latitude": 53.239129999999996,
+        "longitude": -6.2450936
+    },
+    {
+        "category": "mountains",
+        "title": "Three Rock",
+        "rating": 4.8,
+        "address": "Ballyedmonduff, Co. Dublin, Ireland",
+        "latitude": 53.2463889,
+        "longitude": -6.2358332999999995
+    },
+    {
+        "category": "mountains",
+        "title": "Kilmashogue",
+        "rating": 4.8,
+        "address": "Co. Dublin, Ireland",
+        "latitude": 53.250558,
+        "longitude": -6.267231
+    },
+    {
+        "category": "mountains",
+        "title": "Cruagh Mountain",
+        "rating": 5,
+        "address": "Cruagh, Co. Dublin, Ireland",
+        "latitude": 53.2347222,
+        "longitude": -6.3002778
+    },
+    {
+        "category": "mountains",
+        "title": "Carrickgollogan",
+        "rating": 4.7,
+        "address": "Shankill, Co. Dublin, Ireland",
+        "latitude": 53.216975399999995,
+        "longitude": -6.1575788
+    },
+    {
+        "category": "mountains",
+        "title": "Killakee Mountain",
+        "rating": 4.5,
+        "address": "Killakee, Co. Dublin, Ireland",
+        "latitude": 53.228611099999995,
+        "longitude": -6.3097221999999995
+    },
+    {
+        "category": "mountains",
+        "title": "Tibradden Mountain",
+        "rating": 4.8,
+        "address": "Tibradden, Co. Dublin, Ireland",
+        "latitude": 53.2386396,
+        "longitude": -6.280399
+    },
+    {
+        "category": "mountains",
+        "title": "Barnaslingan",
+        "rating": 4.7,
+        "address": "Co. Dublin, Ireland",
+        "latitude": 53.219456,
+        "longitude": -6.176639
+    },
+    {
+        "category": "mountains",
+        "title": "Wicklow Mountains National Park",
+        "rating": 4.8,
+        "address": "Co. Wicklow, Ireland",
+        "latitude": 53.143019699999996,
+        "longitude": -6.3109215
+    },
+    {
+        "category": "mountains",
+        "title": "Shielmartin Hill",
+        "rating": 4.9,
+        "address": "Howth, Dublin, Ireland",
+        "latitude": 53.373365,
+        "longitude": -6.083423
+    },
+    {
+        "category": "mountains",
+        "title": "Dublin Mountains View Walk",
+        "rating": 4.9,
+        "address": "Knocklyon Park, Ballycullen, Knocklyon, Co. Dublin, Ireland",
+        "latitude": 53.276459499999994,
+        "longitude": -6.3215563
+    },
+    {
+        "category": "mountains",
+        "title": "Dalkey Hill",
+        "rating": 4.9,
+        "address": "Dalkey Commons, Dublin, Ireland",
+        "latitude": 53.2694444,
+        "longitude": -6.1055556
+    },
+    {
+        "category": "mountains",
+        "title": "Ben Of Howth",
+        "rating": 4.7,
+        "address": "Howth, Dublin, Ireland",
+        "latitude": 53.3733575,
+        "longitude": -6.0693131
+    },
+    {
+        "category": "mountains",
+        "title": "Saggart Hill",
+        "rating": 4.8,
+        "address": "Slievethoul, Co. Dublin, Ireland",
+        "latitude": 53.246792899999996,
+        "longitude": -6.4776525
+    },
+    {
+        "category": "mountains",
+        "title": "Tibradden Wood",
+        "rating": 4.8,
+        "address": "Unnamed Road, Tibradden, Co. Dublin, Ireland",
+        "latitude": 53.244143799999996,
+        "longitude": -6.2951479
+    },
+    {
+        "category": "mountains",
+        "title": "Cruagh Mountain",
+        "rating": 4.8,
+        "address": "Cruagh, Co. Dublin, Ireland",
+        "latitude": 53.2336089,
+        "longitude": -6.297966199999999
+    },
+    {
+        "category": "mountains",
+        "title": "Slievenabawnoge",
+        "rating": 5,
+        "address": "Ballinascorney Upper, Co. Dublin, Ireland",
+        "latitude": 53.2427778,
+        "longitude": -6.3827777
+    },
+    {
+        "category": "mountains",
+        "title": "Great Sugar Loaf",
+        "rating": 4.8,
+        "address": "Glencap Commons Upper, Co. Wicklow, Ireland",
+        "latitude": 53.1541504,
+        "longitude": -6.1505215
+    },
+    {
+        "category": "mountains",
+        "title": "Killiney Hill",
+        "rating": 5,
+        "address": "Scalpwilliam Or Mount Mapas, Dublin, Ireland",
+        "latitude": 53.2655976,
+        "longitude": -6.111917699999999
+    },
+    {
+        "category": "mountains",
+        "title": "Two Rock Mountain",
+        "rating": 4.5,
+        "address": "Tiknock, Co. Dublin, Ireland",
+        "latitude": 53.239167699999996,
+        "longitude": -6.2451194999999995
+    },
+    {
+        "category": "waterfalls",
+        "title": "Powerscourt Waterfall",
+        "rating": 4.6,
+        "address": "Deerpark, Powerscourt Estate, Co. Wicklow, A98 WOD0, Ireland",
+        "latitude": 53.1460771,
+        "longitude": -6.2112376
+    },
+    {
+        "category": "waterfalls",
+        "title": "Dodder Waterfall",
+        "rating": 4.6,
+        "address": "stop 2539, Kiltipper Rd, Oldbawn, Dublin, Ireland",
+        "latitude": 53.276187699999994,
+        "longitude": -6.3553514
+    },
+    {
+        "category": "waterfalls",
+        "title": "Waterfall Iveagh Gardens",
+        "rating": 4.6,
+        "address": "2 Stable Ln, Saint Kevin's, Dublin 2, D02 WV58, Ireland",
+        "latitude": 53.3354089,
+        "longitude": -6.2618513
+    },
+    {
+        "category": "waterfalls",
+        "title": "Firhouse Waterfall",
+        "rating": 4.6,
+        "address": "Templeogue, Dublin, Ireland",
+        "latitude": 53.2886372,
+        "longitude": -6.3317374
+    },
+    {
+        "category": "waterfalls",
+        "title": "Springvale Mini Waterfall",
+        "rating": 4.8,
+        "address": "Springvale, Newtown, Dublin, Ireland",
+        "latitude": 53.2790533,
+        "longitude": -6.2976021
+    },
+    {
+        "category": "waterfalls",
+        "title": "Waterfalls",
+        "rating": 5,
+        "address": "84 Beech Hill Rd, Rathmines, Dublin 4, Ireland",
+        "latitude": 53.3164454,
+        "longitude": -6.2364263
+    },
+    {
+        "category": "waterfalls",
+        "title": "Dartry Park Waterfall",
+        "rating": 4.5,
+        "address": "1 Bóthar Bhaile an Mhuilinn, Rathmines, Dublin, Ireland",
+        "latitude": 53.3082771,
+        "longitude": -6.257603
+    },
+    {
+        "category": "waterfalls",
+        "title": "Bushy Park Waterfall",
+        "rating": 4.7,
+        "address": "Bushy Park, Terenure, Dublin, Ireland",
+        "latitude": 53.3042624,
+        "longitude": -6.2873
+    },
+    {
+        "category": "waterfalls",
+        "title": "Glenmacnass Waterfall",
+        "rating": 4.7,
+        "address": "Laragh West, Newtown Park, Co. Wicklow, Ireland",
+        "latitude": 53.064220899999995,
+        "longitude": -6.3368058
+    },
+    {
+        "category": "waterfalls",
+        "title": "Orwell waterfalls",
+        "rating": 4.5,
+        "address": "7 Orwell Walk, Newtown Little, Dublin 14, D14 TX96, Ireland",
+        "latitude": 53.3067431,
+        "longitude": -6.26553
+    },
+    {
+        "category": "waterfalls",
+        "title": "Glencar Waterfall",
+        "rating": 4.7,
+        "address": "Largandoon, Glencar, Co. Leitrim, Ireland",
+        "latitude": 54.3402088,
+        "longitude": -8.368521
+    },
+    {
+        "category": "waterfalls",
+        "title": "Balrothery Weir",
+        "rating": 4.5,
+        "address": "Firhouse, Dublin, Ireland",
+        "latitude": 53.2886665,
+        "longitude": -6.3316607
+    },
+    {
+        "category": "waterfalls",
+        "title": "Carrawaystick Waterfall",
+        "rating": 4.7,
+        "address": "Corrasillagh, Co. Wicklow, Ireland",
+        "latitude": 52.9671318,
+        "longitude": -6.3845483
+    },
+    {
+        "category": "waterfalls",
+        "title": "Powerscourt Waterfall Entrance",
+        "rating": 4.7,
+        "address": "Unnamed Road, Deerpark, Co. Wicklow, Ireland",
+        "latitude": 53.1562914,
+        "longitude": -6.1958937999999995
+    },
+    {
+        "category": "waterfalls",
+        "title": "Leixlip Waterfall",
+        "rating": 4.3,
+        "address": "Confey, Leixlip, Co. Kildare, Ireland",
+        "latitude": 53.3736259,
+        "longitude": -6.5048796
+    },
+    {
+        "category": "lakes",
+        "title": "Lake",
+        "rating": 4.5,
+        "address": "North Wall, Dublin, Ireland",
+        "latitude": 53.358107399999994,
+        "longitude": -6.2270167
+    },
+    {
+        "category": "lakes",
+        "title": "Reservoir",
+        "rating": 4.8,
+        "address": "Glassamucky, Co. Dublin, Ireland",
+        "latitude": 53.24473,
+        "longitude": -6.367546
+    },
+    {
+        "category": "lakes",
+        "title": "Tymon Lake",
+        "rating": 5,
+        "address": "Tymon North, Dublin, Ireland",
+        "latitude": 53.302995599999996,
+        "longitude": -6.3374004
+    },
+    {
+        "category": "lakes",
+        "title": "Herbert Park Lake",
+        "rating": 4.2,
+        "address": "Dublin, Ireland",
+        "latitude": 53.326638599999995,
+        "longitude": -6.2340576
+    },
+    {
+        "category": "lakes",
+        "title": "Blessington Street Basin",
+        "rating": 4.6,
+        "address": "Phibsborough, Dublin, Ireland",
+        "latitude": 53.357213599999994,
+        "longitude": -6.2706976
+    },
+    {
+        "category": "lakes",
+        "title": "Bushy Park Lake",
+        "rating": 4.5,
+        "address": "Dublin, Ireland",
+        "latitude": 53.299927,
+        "longitude": -6.2915747
+    },
+    {
+        "category": "lakes",
+        "title": "Machine Lake",
+        "rating": 5,
+        "address": "Castleknock (part of Phoenix Park), Dublin 8, Ireland",
+        "latitude": 53.3672256,
+        "longitude": -6.3414687
+    },
+    {
+        "category": "lakes",
+        "title": "Bohernabreena Reservoir Park",
+        "rating": 4.6,
+        "address": "Friarstown Upper, Co. Dublin, Ireland",
+        "latitude": 53.2469658,
+        "longitude": -6.3708328
+    },
+    {
+        "category": "lakes",
+        "title": "Corkagh Park Fishing Lakes",
+        "rating": 4.8,
+        "address": "8H6J+43, Corkagh, Dublin, Ireland",
+        "latitude": 53.310312499999995,
+        "longitude": -6.4198125
+    },
+    {
+        "category": "lakes",
+        "title": "Citadel Pond",
+        "rating": 5,
+        "address": "Saint James, Dublin 8, Ireland",
+        "latitude": 53.351326,
+        "longitude": -6.3084728
+    },
+    {
+        "category": "lakes",
+        "title": "Glen Pond",
+        "rating": 4.6,
+        "address": "Chapelizod, Dublin 8, Ireland",
+        "latitude": 53.3573971,
+        "longitude": -6.350356499999999
+    },
+    {
+        "category": "lakes",
+        "title": "Wicklow Mountains National Park",
+        "rating": 4.8,
+        "address": "Co. Wicklow, Ireland",
+        "latitude": 53.143019699999996,
+        "longitude": -6.3109215
+    },
+    {
+        "category": "lakes",
+        "title": "Blessington Basin",
+        "rating": 4.6,
+        "address": "28 Primrose Ave, Phibsborough, Dublin 7, D07 E0X8, Ireland",
+        "latitude": 53.357132299999996,
+        "longitude": -6.269819999999999
+    },
+    {
+        "category": "lakes",
+        "title": "Bohernabreena Waterworks",
+        "rating": 4.6,
+        "address": "Co. Dublin, Ireland",
+        "latitude": 53.2339057,
+        "longitude": -6.356999399999999
+    },
+    {
+        "category": "lakes",
+        "title": "Corkagh Park",
+        "rating": 4.7,
+        "address": "Naas Byp, Newlands Cross, Dublin 22, Ireland",
+        "latitude": 53.313179299999994,
+        "longitude": -6.41649
+    },
+    {
+        "category": "lakes",
+        "title": "Leixlip Reservoir",
+        "rating": 4.5,
+        "address": "Ireland",
+        "latitude": 53.350775,
+        "longitude": -6.5029395
+    },
+    {
+        "category": "lakes",
+        "title": "Fish Pond",
+        "rating": 4.5,
+        "address": "Saint James, Dublin 8, Ireland",
+        "latitude": 53.358064899999995,
+        "longitude": -6.307499399999999
+    },
+    {
+        "category": "beaches",
+        "title": "Dollymount Strand",
+        "rating": 4.5,
+        "address": "Bull Island, Dollymount, Dublin, Ireland",
+        "latitude": 53.354569,
+        "longitude": -6.1659909
+    },
+    {
+        "category": "beaches",
+        "title": "Sandymount Beach",
+        "rating": 4.4,
+        "address": "Co. Dublin, Ireland",
+        "latitude": 53.323515099999995,
+        "longitude": -6.206072499999999
+    },
+    {
+        "category": "beaches",
+        "title": "Dollymount Strand",
+        "rating": 4.5,
+        "address": "Clontarf, Dublin, Ireland",
+        "latitude": 53.3674524,
+        "longitude": -6.145734699999999
+    },
+    {
+        "category": "beaches",
+        "title": "Balscadden Bay",
+        "rating": 4.6,
+        "address": "7, 9 Balscadden Rd, Howth, Dublin, Ireland",
+        "latitude": 53.386904599999994,
+        "longitude": -6.0629424
+    },
+    {
+        "category": "beaches",
+        "title": "Dublin Bay",
+        "rating": 4.3,
+        "address": "Co. Dublin, Ireland",
+        "latitude": 53.3357119,
+        "longitude": -6.2110007
+    },
+    {
+        "category": "beaches",
+        "title": "Burrow Beach",
+        "rating": 4.6,
+        "address": "4, Strand Court, 19A Burrow Rd, Burrow, Dublin 13, Ireland",
+        "latitude": 53.3925178,
+        "longitude": -6.1016755
+    },
+    {
+        "category": "beaches",
+        "title": "Velvet Strand",
+        "rating": 4.7,
+        "address": "Portmarnock, Co. Dublin, Ireland",
+        "latitude": 53.4336193,
+        "longitude": -6.1238369
+    },
+    {
+        "category": "beaches",
+        "title": "Seapoint Beach",
+        "rating": 4.6,
+        "address": "Co. Dublin, Ireland",
+        "latitude": 53.2974482,
+        "longitude": -6.1593896
+    },
+    {
+        "category": "beaches",
+        "title": "Portmarnock Beach",
+        "rating": 4.7,
+        "address": "Co. Dublin, Ireland",
+        "latitude": 53.4158556,
+        "longitude": -6.1182288
+    },
+    {
+        "category": "beaches",
+        "title": "A Tiny Hidden Beach",
+        "rating": 4.8,
+        "address": "Co. Dublin, Ireland",
+        "latitude": 53.366529899999996,
+        "longitude": -6.0544956999999995
+    },
+    {
+        "category": "beaches",
+        "title": "Donabate Beach",
+        "rating": 4.6,
+        "address": "Donabate Village, Balcarrick, Donabate, Co. Dublin, Ireland",
+        "latitude": 53.4784101,
+        "longitude": -6.1155737
+    },
+    {
+        "category": "beaches",
+        "title": "Malahide Beach",
+        "rating": 4.6,
+        "address": "Robswalls, Co. Dublin, Ireland",
+        "latitude": 53.4513172,
+        "longitude": -6.1386823
+    },
+    {
+        "category": "beaches",
+        "title": "Killiney Strand",
+        "rating": 4.5,
+        "address": "Co. Dublin, Ireland",
+        "latitude": 53.255435899999995,
+        "longitude": -6.1116977
+    },
+    {
+        "category": "beaches",
+        "title": "Sandycove Beach",
+        "rating": 4.6,
+        "address": "Sandycove, Co. Dublin, Ireland",
+        "latitude": 53.2885395,
+        "longitude": -6.1144229999999995
+    },
+    {
+        "category": "beaches",
+        "title": "Claremont Beach",
+        "rating": 4.3,
+        "address": "Howth, Co. Dublin, Ireland",
+        "latitude": 53.3897136,
+        "longitude": -6.0751883
+    },
+    {
+        "category": "beaches",
+        "title": "Shankill Beach",
+        "rating": 4.4,
+        "address": "Cork Little, Co. Dublin, Ireland",
+        "latitude": 53.230362199999995,
+        "longitude": -6.108087299999999
+    },
+    {
+        "category": "beaches",
+        "title": "Whiterock",
+        "rating": 4.7,
+        "address": "Co. Dublin, Ireland",
+        "latitude": 53.2659295,
+        "longitude": -6.106503699999999
+    },
+    {
+        "category": "beaches",
+        "title": "Sandymount Strand",
+        "rating": 4.4,
+        "address": "Ireland",
+        "latitude": 53.3322222,
+        "longitude": -6.199999999999999
+    },
+    {
+        "category": "beaches",
+        "title": "Velvet Strand",
+        "rating": 4.7,
+        "address": "Ireland",
+        "latitude": 53.4213889,
+        "longitude": -6.120555599999999
+    },
+    {
+        "category": "beaches",
+        "title": "Sandymount Beach",
+        "rating": 4.3,
+        "address": "25 Beach Rd, Dublin, Ireland",
+        "latitude": 53.3347986,
+        "longitude": -6.2128668
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sport Ireland National Aquatic Centre",
+        "rating": 4.3,
+        "address": "Sport Ireland Campus, Snugborough Rd, Blanchardstown, Dublin 15, D15 A6WR, Ireland",
+        "latitude": 53.3969659,
+        "longitude": -6.3701286
+    },
+    {
+        "category": "swimming pools",
+        "title": "Markievicz Leisure Centre",
+        "rating": 4.3,
+        "address": "Luke St, Dublin 2, Ireland",
+        "latitude": 53.346073999999994,
+        "longitude": -6.2542941999999995
+    },
+    {
+        "category": "swimming pools",
+        "title": "UCD Swimming Pool",
+        "rating": 4.7,
+        "address": "UCD Sport & Fitness, University College Dublin, Belfield Campus, Roebuck, Dublin, Ireland",
+        "latitude": 53.3082624,
+        "longitude": -6.2282173
+    },
+    {
+        "category": "swimming pools",
+        "title": "ALSAA 25m Swimming Pool",
+        "rating": 4,
+        "address": "Dublin Airport, Old Airport Rd, Corballis, Dublin, Ireland",
+        "latitude": 53.4264794,
+        "longitude": -6.2368172
+    },
+    {
+        "category": "swimming pools",
+        "title": "Aura De Paul Swimming Pool",
+        "rating": 4.4,
+        "address": "Saint Vincents Centre, Navan Rd, Castleknock (part of Phoenix Park), Dublin 7, Ireland",
+        "latitude": 53.3688797,
+        "longitude": -6.3230289
+    },
+    {
+        "category": "swimming pools",
+        "title": "The Spencer Health Club",
+        "rating": 4.4,
+        "address": "Excise Walk, North Wall, Dublin 1, D01 X4C9, Ireland",
+        "latitude": 53.3483181,
+        "longitude": -6.2434908
+    },
+    {
+        "category": "swimming pools",
+        "title": "Ballyfermot Leisure Centre",
+        "rating": 4.4,
+        "address": "10 Blackditch Rd, Cherry Orchard, Dublin, Ireland",
+        "latitude": 53.3411553,
+        "longitude": -6.3574147
+    },
+    {
+        "category": "swimming pools",
+        "title": "St James's Gate Health and Fitness Club",
+        "rating": 4.3,
+        "address": "Watling St, The Liberties, Dublin 8, Ireland",
+        "latitude": 53.3441122,
+        "longitude": -6.2851718
+    },
+    {
+        "category": "swimming pools",
+        "title": "Terenure College Swimming Pool",
+        "rating": 4.5,
+        "address": "Templeogue Rd, Terenure, Dublin 6W, Co. Dublin, D6W AK71, Ireland",
+        "latitude": 53.3032555,
+        "longitude": -6.2977194999999995
+    },
+    {
+        "category": "swimming pools",
+        "title": "Mespil Swimming Pool",
+        "rating": 3.9,
+        "address": "Mespil House Flats, 4 Sussex Rd, Dublin, D04 H9T0, Ireland",
+        "latitude": 53.3315129,
+        "longitude": -6.2505275
+    },
+    {
+        "category": "swimming pools",
+        "title": "SCD Leisure Clondalkin",
+        "rating": 4.3,
+        "address": "Nangor Rd Old, Clondalkin, Dublin, Ireland",
+        "latitude": 53.3232216,
+        "longitude": -6.4008783
+    },
+    {
+        "category": "swimming pools",
+        "title": "SPORTSCO",
+        "rating": 4.4,
+        "address": "Sportsco Leisure Centre, S Lotts Rd, Dublin 4, D04 R6C2, Ireland",
+        "latitude": 53.339529299999995,
+        "longitude": -6.230142
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sean MacDermott Street Pool",
+        "rating": 4.4,
+        "address": "Sean Macdermott Street Lower, Mountjoy, Dublin, Ireland",
+        "latitude": 53.353926699999995,
+        "longitude": -6.2525739
+    },
+    {
+        "category": "swimming pools",
+        "title": "Club Vitae",
+        "rating": 4.5,
+        "address": "Clayton Hotel Cardiff Lane, Cardiff Ln, Grand Canal Dock, Dublin, Ireland",
+        "latitude": 53.3451823,
+        "longitude": -6.2407848999999995
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sports and Fitness Ballymun",
+        "rating": 4.3,
+        "address": "Ballymun Rd, Ballymun, Dublin 11, D09 E3C1, Ireland",
+        "latitude": 53.394500099999995,
+        "longitude": -6.2645029999999995
+    },
+    {
+        "category": "swimming pools",
+        "title": "Templeogue College Swimming Pool",
+        "rating": 4.5,
+        "address": "Templeville Rd, Templeogue, Dublin, Ireland",
+        "latitude": 53.304818399999995,
+        "longitude": -6.3110447
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swan Leisure",
+        "rating": 4.3,
+        "address": "Rathmines Square, 161 Rathmines Rd Lower, Dublin 6, Ireland",
+        "latitude": 53.324883199999995,
+        "longitude": -6.2656757999999995
+    },
+    {
+        "category": "swimming pools",
+        "title": "Tallaght Sports Complex",
+        "rating": 4.4,
+        "address": "Tallaght Community School, Tallaght, Balrothery, Co. Dublin, Ireland",
+        "latitude": 53.2938285,
+        "longitude": -6.3380297
+    },
+    {
+        "category": "swimming pools",
+        "title": "Stewarts Sports Centre",
+        "rating": 4.6,
+        "address": "Waterstown Ave, Palmerstown Lower, Dublin, Ireland",
+        "latitude": 53.357703,
+        "longitude": -6.370156
+    },
+    {
+        "category": "swimming pools",
+        "title": "Pearse Area Recreation Centre",
+        "rating": 4.4,
+        "address": "Pearse St, Dublin 2, D02 T685, Ireland",
+        "latitude": 53.344274899999995,
+        "longitude": -6.2458789999999995
+    },
+    {
+        "category": "resorts",
+        "title": "Clontarf Castle Hotel",
+        "rating": 4.5,
+        "address": "Castle Ave, Clontarf East, Dublin 3, D03 W5NO, Ireland",
+        "latitude": 53.364702699999995,
+        "longitude": -6.2067055
+    },
+    {
+        "category": "resorts",
+        "title": "Portmarnock Resort & Jameson Golf Links",
+        "rating": 4.4,
+        "address": "Strand Rd, Burrow, Portmarnock, Co. Dublin, Ireland",
+        "latitude": 53.4295645,
+        "longitude": -6.1261228
+    },
+    {
+        "category": "resorts",
+        "title": "Fitzpatrick Castle Hotel",
+        "rating": 4.4,
+        "address": "Killiney Hill Rd, Scalpwilliam Or Mount Mapas, Killiney, Co. Dublin, A96 N125, Ireland",
+        "latitude": 53.2694464,
+        "longitude": -6.1128032999999995
+    },
+    {
+        "category": "resorts",
+        "title": "Hodson Bay Hotel",
+        "rating": 4.3,
+        "address": "Roscommon Road, Barry More, Hodson Bay, Co. Roscommon, N37 XR82, Ireland",
+        "latitude": 53.4677973,
+        "longitude": -7.9888175
+    },
+    {
+        "category": "resorts",
+        "title": "Parknasilla Resort & Spa",
+        "rating": 4.7,
+        "address": "Derryquin, Co. Kerry, V93 EK71, Ireland",
+        "latitude": 51.815672799999994,
+        "longitude": -9.8747922
+    },
+    {
+        "category": "resorts",
+        "title": "Castleknock Hotel",
+        "rating": 4.5,
+        "address": "Porterstown Rd, Diswellstown, D15, D15 WNR7, Ireland",
+        "latitude": 53.366202599999994,
+        "longitude": -6.3898687999999995
+    },
+    {
+        "category": "resorts",
+        "title": "Anantara The Marker Dublin",
+        "rating": 4.5,
+        "address": "Grand Canal Quay, Docklands, Dublin, D02 CK38, Ireland",
+        "latitude": 53.3444341,
+        "longitude": -6.2390208
+    },
+    {
+        "category": "resorts",
+        "title": "Royal Marine Hotel",
+        "rating": 4.3,
+        "address": "Marine Rd, Dún Laoghaire, Dublin, A96 K063, Ireland",
+        "latitude": 53.292301099999996,
+        "longitude": -6.133654099999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Merrion Hotel Dublin",
+        "rating": 4.7,
+        "address": "Merrion St Upper, Dublin 2, Ireland",
+        "latitude": 53.3385678,
+        "longitude": -6.2528614
+    },
+    {
+        "category": "resorts",
+        "title": "Luttrellstown Castle Resort",
+        "rating": 4.6,
+        "address": "Kellystown, Castleknock, Co. Dublin, D15 RH92, Ireland",
+        "latitude": 53.3734137,
+        "longitude": -6.430902199999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Mayson Dublin",
+        "rating": 4.3,
+        "address": "82 N Wall Quay, North Wall, Dublin, D01 XR83, Ireland",
+        "latitude": 53.3472517,
+        "longitude": -6.2324839
+    },
+    {
+        "category": "resorts",
+        "title": "White Sands Hotel Portmarnock",
+        "rating": 3.9,
+        "address": "Coast Rd, Carrickhill, Portmarnock, Co. Dublin, Ireland",
+        "latitude": 53.435086999999996,
+        "longitude": -6.1239579
+    },
+    {
+        "category": "resorts",
+        "title": "InterContinental Dublin by IHG",
+        "rating": 4.6,
+        "address": "Simmonscourt Rd, Ballsbridge, Dublin, Ireland",
+        "latitude": 53.326698,
+        "longitude": -6.2260298999999995
+    },
+    {
+        "category": "resorts",
+        "title": "Hyatt Centric The Liberties Dublin",
+        "rating": 4.6,
+        "address": "Dean St, The Liberties, Dublin, D08 W3X7, Ireland",
+        "latitude": 53.339067299999996,
+        "longitude": -6.2735888
+    },
+    {
+        "category": "resorts",
+        "title": "Glashaus Hotel",
+        "rating": 4.2,
+        "address": "Belgard Square W, Tallaght, Dublin 24, Ireland",
+        "latitude": 53.2878651,
+        "longitude": -6.3739317
+    },
+    {
+        "category": "resorts",
+        "title": "NYX Hotel Dublin Christchurch",
+        "rating": 4.6,
+        "address": "18 Exchange Street Upper, Temple Bar, Dublin, D08 AV24, Ireland",
+        "latitude": 53.3443356,
+        "longitude": -6.2680582
+    },
+    {
+        "category": "resorts",
+        "title": "Marine Hotel",
+        "rating": 3.9,
+        "address": "13 Sutton Cross, Sutton, Dublin, Ireland",
+        "latitude": 53.38869,
+        "longitude": -6.110448
+    },
+    {
+        "category": "resorts",
+        "title": "The Westbury",
+        "rating": 4.6,
+        "address": "Balfe St, Dublin 2, D02 CH66, Ireland",
+        "latitude": 53.341491899999994,
+        "longitude": -6.2614924
+    },
+    {
+        "category": "resorts",
+        "title": "The Leinster",
+        "rating": 4.4,
+        "address": "7 Mount Street Lower, Dublin 2, D02 WK33, Ireland",
+        "latitude": 53.339146199999995,
+        "longitude": -6.2454681999999995
+    },
+    {
+        "category": "resorts",
+        "title": "Schoolhouse Hotel & GastroBar",
+        "rating": 4.4,
+        "address": "2-8, Northumberland Rd, Ballsbridge, Dublin 4, D04 P5W8, Ireland",
+        "latitude": 53.337415899999996,
+        "longitude": -6.2394941
+    },
+    {
+        "category": "camping sites",
+        "title": "Camac Valley Tourist Caravan and Camping Park",
+        "rating": 4.1,
+        "address": "22 Green Isle Rd, Corkagh, Dublin, D22 DR60, Ireland",
+        "latitude": 53.304666,
+        "longitude": -6.4152594999999994
+    },
+    {
+        "category": "camping sites",
+        "title": "Lynders Holiday Parks - Dublin",
+        "rating": 4.5,
+        "address": "Quay Rd, Quay, Portrane, Co. Dublin, K36 V326, Ireland",
+        "latitude": 53.4911554,
+        "longitude": -6.0987032999999995
+    },
+    {
+        "category": "camping sites",
+        "title": "Campsited",
+        "rating": 5,
+        "address": "The Digital Hub, 10 - 13 Thomas St, The Liberties, Dublin, D08 PX8H, Ireland",
+        "latitude": 53.343189499999994,
+        "longitude": -6.2832873
+    },
+    {
+        "category": "camping sites",
+        "title": "Wicklow Way Camping",
+        "rating": 4.5,
+        "address": "Drummin, Oldbridge, Co. Wicklow, A98 K702, Ireland",
+        "latitude": 53.0517501,
+        "longitude": -6.2780089
+    },
+    {
+        "category": "camping sites",
+        "title": "Beckettsfield Campsite & Cottage",
+        "rating": 4.7,
+        "address": "Campsite & Cottage, Beckettsfield, Calliaghstown Upper, Rathcoole, Co. Dublin, D24 NN26, Ireland",
+        "latitude": 53.2470347,
+        "longitude": -6.4835635
+    },
+    {
+        "category": "camping sites",
+        "title": "Hidden Valley Resort",
+        "rating": 4.5,
+        "address": "Lower Main St, Rathdrum, Co. Wicklow, A67 XY56, Ireland",
+        "latitude": 52.9391517,
+        "longitude": -6.2274239
+    },
+    {
+        "category": "camping sites",
+        "title": "Roundwood Caravan & Camping Park",
+        "rating": 4.2,
+        "address": "Togher Beg, Roundwood, Co. Wicklow, A98 W3R8, Ireland",
+        "latitude": 53.0691169,
+        "longitude": -6.2228162
+    },
+    {
+        "category": "camping sites",
+        "title": "Scouting Ireland, Larch Hill",
+        "rating": 4.7,
+        "address": "Mutton Ln, Tibradden Rd, Rathfarnham, Co. Dublin, D16 PO23, Ireland",
+        "latitude": 53.253997899999995,
+        "longitude": -6.2843708
+    },
+    {
+        "category": "camping sites",
+        "title": "Malahide Park, Off Estuary Road",
+        "rating": 4.7,
+        "address": "Yellow Walls, Co. Fingal, Ireland",
+        "latitude": 53.457783,
+        "longitude": -6.183085
+    },
+    {
+        "category": "camping sites",
+        "title": "Gyles Quay Caravan & Camping Park",
+        "rating": 4.5,
+        "address": "Gyles Quay, Riverstown, Dundalk, Co. Louth, Ireland",
+        "latitude": 53.9882626,
+        "longitude": -6.2428468
+    },
+    {
+        "category": "camping sites",
+        "title": "Hilly Skilly Caravan Park Rush",
+        "rating": 4.8,
+        "address": "Golf Rd, Rush, Co. Dublin, Ireland",
+        "latitude": 53.5170098,
+        "longitude": -6.102850999999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Wolohan's Silver Strand Caravan Park",
+        "rating": 4.5,
+        "address": "Silver Strand, Dunbur Upper, Co. Wicklow, A67 PK31, Ireland",
+        "latitude": 52.954662799999994,
+        "longitude": -6.016731099999999
+    },
+    {
+        "category": "camping sites",
+        "title": "River Valley Holiday Park",
+        "rating": 4.5,
+        "address": "Main Street, Redcross, Co. Wicklow, A67 H799, Ireland",
+        "latitude": 52.8891425,
+        "longitude": -6.1451139
+    },
+    {
+        "category": "camping sites",
+        "title": "Glenbrook Park",
+        "rating": 4.2,
+        "address": "14 Glenbrook Park, Rathfarnham, Dublin 14, D14 Y164, Ireland",
+        "latitude": 53.2933336,
+        "longitude": -6.2907321
+    },
+    {
+        "category": "camping sites",
+        "title": "Pine Valley Park",
+        "rating": 4.5,
+        "address": "Taylorsgrange, Dublin, Ireland",
+        "latitude": 53.270869399999995,
+        "longitude": -6.2594289
+    },
+    {
+        "category": "camping sites",
+        "title": "North Beach Tourist Caravan & Motor Home Park",
+        "rating": 4.3,
+        "address": "North Beach, Rush, Co. Dublin, Ireland",
+        "latitude": 53.525824,
+        "longitude": -6.086602999999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Slievethoul Trail",
+        "rating": 4.7,
+        "address": "Unnamed Rd,, Co. Dublin, Ireland",
+        "latitude": 53.252413,
+        "longitude": -6.467103
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ticknock Halt",
+        "rating": 4.8,
+        "address": "Tiknock, Co. Dublin, Ireland",
+        "latitude": 53.249429299999996,
+        "longitude": -6.2453918999999996
+    },
+    {
+        "category": "hiking trails",
+        "title": "Howth Cliff Walk (Green Route)",
+        "rating": 4.9,
+        "address": "Howth, Dublin, Ireland",
+        "latitude": 53.374969699999994,
+        "longitude": -6.0491765
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bog of Frogs Loop",
+        "rating": 4.8,
+        "address": "Howth, Dublin, Ireland",
+        "latitude": 53.388648599999996,
+        "longitude": -6.0744821
+    },
+    {
+        "category": "hiking trails",
+        "title": "Howth Cliff Walk",
+        "rating": 4.9,
+        "address": "Howth, Dublin, Ireland",
+        "latitude": 53.385003399999995,
+        "longitude": -6.0468173
+    },
+    {
+        "category": "hiking trails",
+        "title": "Robswall Park Hillside Hike",
+        "rating": 4.8,
+        "address": "Robswalls, Co. Dublin, Ireland",
+        "latitude": 53.440604,
+        "longitude": -6.129835
+    },
+    {
+        "category": "hiking trails",
+        "title": "Fernhill Park & Gardens",
+        "rating": 4.6,
+        "address": "Enniskerry Rd, Newtown Little, Dublin, 18, Ireland",
+        "latitude": 53.2590572,
+        "longitude": -6.228297899999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Carrickgollogan Forest Trail",
+        "rating": 4.6,
+        "address": "Shankill, Murphy's Lane, Co. Dublin, Ireland",
+        "latitude": 53.219593499999995,
+        "longitude": -6.1659426
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bohernabreena Reservoir Walk",
+        "rating": 4.7,
+        "address": "Bohernabreena Rd, Bohernabreena, Dublin, Ireland",
+        "latitude": 53.268820999999996,
+        "longitude": -6.3583099
+    },
+    {
+        "category": "hiking trails",
+        "title": "Massy's Estate",
+        "rating": 4.7,
+        "address": "Old Military Rd, Killakee, Co. Dublin, Ireland",
+        "latitude": 53.2532126,
+        "longitude": -6.3209135
+    },
+    {
+        "category": "hiking trails",
+        "title": "Killiney Hill Park",
+        "rating": 4.8,
+        "address": "Killiney Hill, Scalpwilliam Or Mount Mapas, Dublin, Ireland",
+        "latitude": 53.2653787,
+        "longitude": -6.1112421999999995
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bray Head Cliff Walk",
+        "rating": 4.8,
+        "address": "Bray-Greystones Cliff walk, Newcourt, Co. Wicklow, Ireland",
+        "latitude": 53.196357199999994,
+        "longitude": -6.0901619
+    },
+    {
+        "category": "hiking trails",
+        "title": "Waterstown Park",
+        "rating": 4.6,
+        "address": "Palmerstown Lower, Dublin, Ireland",
+        "latitude": 53.359861099999996,
+        "longitude": -6.371045199999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "The Royal Canal Way, Barberstown",
+        "rating": 4.8,
+        "address": "1, 15 Barberstown Cottages, Barberstown, Dublin, D15 F8CT, Ireland",
+        "latitude": 53.3841809,
+        "longitude": -6.43992
+    },
+    {
+        "category": "hiking trails",
+        "title": "Carrickgollogan Coillte Forest",
+        "rating": 4.6,
+        "address": "Shankill, Co. Dublin, Ireland",
+        "latitude": 53.2216743,
+        "longitude": -6.162769
+    },
+    {
+        "category": "hiking trails",
+        "title": "Walk to Three Rock Mast",
+        "rating": 4.5,
+        "address": "Barnacullia, Co. Dublin, Ireland",
+        "latitude": 53.2523797,
+        "longitude": -6.230669499999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Three Rock",
+        "rating": 4.9,
+        "address": "Tiknock, Co. Dublin, Ireland",
+        "latitude": 53.2479039,
+        "longitude": -6.2384571
+    },
+    {
+        "category": "hiking trails",
+        "title": "Lugg forest",
+        "rating": 4.8,
+        "address": "Unnamed Road, Crockaunadreenagh, Co. Dublin, Ireland",
+        "latitude": 53.2589426,
+        "longitude": -6.4672335
+    },
+    {
+        "category": "hiking trails",
+        "title": "Black Heath",
+        "rating": 4.8,
+        "address": "Howth, Dublin, Ireland",
+        "latitude": 53.3728832,
+        "longitude": -6.0712813
+    },
+    {
+        "category": "hiking trails",
+        "title": "Furry Glen",
+        "rating": 4.7,
+        "address": "Chapelizod, Dublin, Ireland",
+        "latitude": 53.356164299999996,
+        "longitude": -6.351197699999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Irishtown Nature Park",
+        "rating": 4.5,
+        "address": "Dublin, Ireland",
+        "latitude": 53.335524299999996,
+        "longitude": -6.1955458
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "National Botanic Gardens",
+        "rating": 4.8,
+        "address": "Glasnevin, Dublin 9, D09 VY63, Ireland",
+        "latitude": 53.372549299999996,
+        "longitude": -6.271907
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Howth Cliff Walk (Green Route)",
+        "rating": 4.9,
+        "address": "Howth, Dublin, Ireland",
+        "latitude": 53.374969699999994,
+        "longitude": -6.0491765
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Phoenix Park",
+        "rating": 4.7,
+        "address": "Dublin 8, Ireland",
+        "latitude": 53.3558823,
+        "longitude": -6.3298133
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Bog of Frogs Loop",
+        "rating": 4.8,
+        "address": "Howth, Dublin, Ireland",
+        "latitude": 53.388648599999996,
+        "longitude": -6.0744821
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Howth Cliff Walk",
+        "rating": 4.9,
+        "address": "Howth, Dublin, Ireland",
+        "latitude": 53.385003399999995,
+        "longitude": -6.0468173
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Tymon Park",
+        "rating": 4.5,
+        "address": "Tallaght, Dublin, Ireland",
+        "latitude": 53.304112599999996,
+        "longitude": -6.3412494
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Airfield Estate",
+        "rating": 4.4,
+        "address": "Overend Ave, Dundrum, Dublin 14, D14 EE77, Ireland",
+        "latitude": 53.2881795,
+        "longitude": -6.236995299999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Howth Head Peak",
+        "rating": 4.8,
+        "address": "Howth, Dublin, Ireland",
+        "latitude": 53.3841943,
+        "longitude": -6.0467623
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Wicklow Mountains National Park",
+        "rating": 4.8,
+        "address": "Co. Wicklow, Ireland",
+        "latitude": 53.143019699999996,
+        "longitude": -6.3109215
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "The Grove, Morehampton Road Wildlife Sanctuary",
+        "rating": 4,
+        "address": "4 Morehampton Rd, Dublin 4, D04 T9C8, Ireland",
+        "latitude": 53.3278038,
+        "longitude": -6.2443665
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Powerscourt House & Gardens",
+        "rating": 4.7,
+        "address": "Powerscourt Demesne, Enniskerry, Co. Wicklow, Ireland",
+        "latitude": 53.184290499999996,
+        "longitude": -6.1866837
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Airfield Gardens",
+        "rating": 4.8,
+        "address": "Overend Ave, Drummartin, Dublin, Ireland",
+        "latitude": 53.288246099999995,
+        "longitude": -6.2345219
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Dalkey Hill",
+        "rating": 4.8,
+        "address": "Dalkey, Dublin, Ireland",
+        "latitude": 53.2698652,
+        "longitude": -6.1048282
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Wildacres",
+        "rating": 5,
+        "address": null,
+        "latitude": 52.857332199999995,
+        "longitude": -6.1097847
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ardgillan Castle and Demesne",
+        "rating": 4.7,
+        "address": "Ardgillan Demesne, Co, Co. Dublin, K34 C984, Ireland",
+        "latitude": 53.586576699999995,
+        "longitude": -6.1603978
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Dublin Garden Trail",
+        "rating": 4.3,
+        "address": "Knockrose, The Scalp, Kilternan, Dublin 18, Ireland",
+        "latitude": 53.2226183,
+        "longitude": -6.1793368
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Killakee View Point",
+        "rating": 4.7,
+        "address": "Old Military Rd, Killakee, Co. Dublin, Ireland",
+        "latitude": 53.2398904,
+        "longitude": -6.3205209
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Dublin Tourist Information Centre Barnardo Square",
+        "rating": 4.6,
+        "address": "3 Palace St, Dublin 2, D02 T277, Ireland",
+        "latitude": 53.3439735,
+        "longitude": -6.266356099999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "ThingsToDoDublin",
+        "rating": 3.8,
+        "address": "12 Aston Quay, Temple Bar, Dublin, D02 TE81, Ireland",
+        "latitude": 53.3463949,
+        "longitude": -6.2608295
+    },
+    {
+        "category": "temples",
+        "title": "Ireland Vinayaka Temple",
+        "rating": 4.8,
+        "address": "Kingswood Community Center, Sylvan Dr, Kingswood, Dublin 24, Ireland",
+        "latitude": 53.3067965,
+        "longitude": -6.3683589
+    },
+    {
+        "category": "temples",
+        "title": "Vedic Hindu Cultural Centre Ireland (VHCCI)",
+        "rating": 4.8,
+        "address": "Sunbury Industrial Estate, 2D Ballymount Rd Lower, Ballymount Industrial Estate, Dublin, D12 W81V, Ireland",
+        "latitude": 53.315582299999996,
+        "longitude": -6.340861599999999
+    },
+    {
+        "category": "temples",
+        "title": "ISKCON Dublin Krishna Temple",
+        "rating": 4.9,
+        "address": "83 Middle Abbey St, North City, Dublin 1, D01 EV91, Ireland",
+        "latitude": 53.348427,
+        "longitude": -6.260764
+    },
+    {
+        "category": "temples",
+        "title": "Ramakrishna Vedanta Centre, Nivedita House",
+        "rating": 4.9,
+        "address": "Opp to Ladyswell School, 17 Dromheath Gardens, Mulhuddart, Dublin 15, D15 E762, Ireland",
+        "latitude": 53.405292499999995,
+        "longitude": -6.3909107
+    },
+    {
+        "category": "temples",
+        "title": "Nondaloy",
+        "rating": 4.9,
+        "address": "Malahide Rd, Kinsealy, Dublin, K36 TR90, Ireland",
+        "latitude": 53.4316317,
+        "longitude": -6.1756728999999995
+    },
+    {
+        "category": "temples",
+        "title": "Gurdwara Guru Nanak Darbar",
+        "rating": 4.9,
+        "address": "78 Serpentine Ave, Ballsbridge, Dublin 4, D04 NP44, Ireland",
+        "latitude": 53.3317993,
+        "longitude": -6.223205
+    },
+    {
+        "category": "temples",
+        "title": "Sarv Sampradaya Hindu Temple and Cultural Centre",
+        "rating": 4.9,
+        "address": "Unit 2d, Sunbury Industrial Estate, Ballymount Rd Lower, Greenhills, Dublin, Ireland",
+        "latitude": 53.3156689,
+        "longitude": -6.3410844
+    },
+    {
+        "category": "temples",
+        "title": "Umbanda Temple Dublin",
+        "rating": 5,
+        "address": "42 Arran St E, Smithfield, Dublin, D07 RP3K, Ireland",
+        "latitude": 53.347630699999996,
+        "longitude": -6.270498099999999
+    },
+    {
+        "category": "temples",
+        "title": "Diamond Way Buddhism Dublin",
+        "rating": 4.9,
+        "address": "2 Corn Exchange Pl, Dublin 2, Ireland",
+        "latitude": 53.347007,
+        "longitude": -6.2558283999999995
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Isis",
+        "rating": 4.6,
+        "address": "Clontarf East, Dublin, Ireland",
+        "latitude": 53.371694999999995,
+        "longitude": -6.1681563
+    },
+    {
+        "category": "temples",
+        "title": "Gazebo",
+        "rating": 4.5,
+        "address": "90 Northwood Ave, Santry Demesne, Dublin, D09 RF66, Ireland",
+        "latitude": 53.4047596,
+        "longitude": -6.249275099999999
+    },
+    {
+        "category": "museums",
+        "title": "National Museum of Ireland, Collins Barracks",
+        "rating": 4.6,
+        "address": "Collins Barracks, Benburb St, Stoneybatter, Dublin, D07 XKV4, Ireland",
+        "latitude": 53.3489404,
+        "longitude": -6.2863653
+    },
+    {
+        "category": "museums",
+        "title": "National Museum of Ireland, Kildare Street",
+        "rating": 4.6,
+        "address": "35A Kildare St, Dublin 2, D02 YK38, Ireland",
+        "latitude": 53.340222499999996,
+        "longitude": -6.2549209
+    },
+    {
+        "category": "museums",
+        "title": "The Little Museum of Dublin",
+        "rating": 4.7,
+        "address": "15 St Stephen's Green, Dublin 2, D02 Y066, Ireland",
+        "latitude": 53.3396416,
+        "longitude": -6.258403899999999
+    },
+    {
+        "category": "museums",
+        "title": "Chester Beatty",
+        "rating": 4.7,
+        "address": "Chester Beatty Library, Caisleán Bhaile Átha Cliath, Dublin Castle, Castle St, Dublin 2, D02 AD92, Ireland",
+        "latitude": 53.342235599999995,
+        "longitude": -6.2672761999999995
+    },
+    {
+        "category": "museums",
+        "title": "EPIC The Irish Emigration Museum",
+        "rating": 4.6,
+        "address": "The Chq Building, Custom House Quay, North Wall, Dublin 1, Ireland",
+        "latitude": 53.3483124,
+        "longitude": -6.2481791
+    },
+    {
+        "category": "museums",
+        "title": "Dublinia",
+        "rating": 4.5,
+        "address": "St Michaels Hill Christ Church, 5 Meath St, Saint Catherine's, Dublin 8, D08 VE80, Ireland",
+        "latitude": 53.343149,
+        "longitude": -6.2720614
+    },
+    {
+        "category": "museums",
+        "title": "GPO Museum",
+        "rating": 4.6,
+        "address": "O'Connell Street Lower, North City, Dublin 1, D01 F5P2, Ireland",
+        "latitude": 53.349528199999995,
+        "longitude": -6.2606027
+    },
+    {
+        "category": "museums",
+        "title": "National Library of Ireland",
+        "rating": 4.2,
+        "address": "7-8, 7-8 Kildare St, Dublin 2, D02 P638, Ireland",
+        "latitude": 53.3410984,
+        "longitude": -6.2544821
+    },
+    {
+        "category": "museums",
+        "title": "Irish Museum of Modern Art",
+        "rating": 4.3,
+        "address": "Royal Hospital Kilmainham, Military Rd, Kilmainham, Dublin 8, D08 FW31, Ireland",
+        "latitude": 53.342587099999996,
+        "longitude": -6.299928599999999
+    },
+    {
+        "category": "museums",
+        "title": "14 Henrietta Street",
+        "rating": 4.8,
+        "address": "14 Henrietta St, Dublin 1, D01 HH34, Ireland",
+        "latitude": 53.352379799999994,
+        "longitude": -6.2701587
+    },
+    {
+        "category": "museums",
+        "title": "MoLI – Museum of Literature Ireland",
+        "rating": 4.6,
+        "address": "UCD Naughton Joyce Centre, 86 St Stephen's Green, Saint Kevin's, Dublin, D02 XY43, Ireland",
+        "latitude": 53.3367903,
+        "longitude": -6.2601607
+    },
+    {
+        "category": "museums",
+        "title": "GAA Museum & Tours",
+        "rating": 4.6,
+        "address": "St Joseph's Ave, Drumcondra, Dublin, D03 P6K7, Ireland",
+        "latitude": 53.3606949,
+        "longitude": -6.2494274999999995
+    },
+    {
+        "category": "museums",
+        "title": "Irish Whiskey Museum",
+        "rating": 4.7,
+        "address": "119 Grafton Street, Dublin, D02 E620, Ireland",
+        "latitude": 53.344198,
+        "longitude": -6.259525
+    },
+    {
+        "category": "museums",
+        "title": "National Leprechaun Museum of Ireland",
+        "rating": 4.2,
+        "address": "2-3, Mary's Abbey, North City, Dublin, D07 X6R6, Ireland",
+        "latitude": 53.347364899999995,
+        "longitude": -6.2686696
+    },
+    {
+        "category": "museums",
+        "title": "Kilmainham Gaol",
+        "rating": 4.7,
+        "address": "Inchicore Rd, Kilmainham, Dublin 8, D08 RK28, Ireland",
+        "latitude": 53.341870099999994,
+        "longitude": -6.309804799999999
+    },
+    {
+        "category": "museums",
+        "title": "Custom House Visitor Centre",
+        "rating": 4.6,
+        "address": "Custom House Quay, North Wall, Dublin 1, D01 W6X0, Ireland",
+        "latitude": 53.3483745,
+        "longitude": -6.2531327
+    },
+    {
+        "category": "museums",
+        "title": "National Print Museum",
+        "rating": 4.8,
+        "address": "Haddington Rd, Dublin, D04 E0C9, Ireland",
+        "latitude": 53.3352541,
+        "longitude": -6.2354446999999995
+    },
+    {
+        "category": "museums",
+        "title": "The National Wax Museum Plus",
+        "rating": 4.1,
+        "address": "The Lafayette Building, 22-25 Westmoreland St, Temple Bar, Dublin 2, D02 EH29, Ireland",
+        "latitude": 53.346644,
+        "longitude": -6.2587801999999995
+    },
+    {
+        "category": "museums",
+        "title": "James Joyce Centre",
+        "rating": 4.3,
+        "address": "James Joyce House, 35 N Great George's St, Rotunda, Basement, Co. Dublin, D01 WK44, Ireland",
+        "latitude": 53.3541941,
+        "longitude": -6.259980499999999
+    },
+    {
+        "category": "museums",
+        "title": "The Jeanie Johnston: An Irish Famine Story",
+        "rating": 4.7,
+        "address": "Custom House Quay, North Wall, Dublin 1, D01 T9C2, Ireland",
+        "latitude": 53.3476481,
+        "longitude": -6.246815799999999
+    },
+    {
+        "category": "night markets",
+        "title": "Blackrock Market",
+        "rating": 4.4,
+        "address": "Blackrock, Dublin, Ireland",
+        "latitude": 53.301358799999996,
+        "longitude": -6.1775622
+    },
+    {
+        "category": "night markets",
+        "title": "Liberty Market",
+        "rating": 4.1,
+        "address": "Meath St, The Liberties, Dublin, Ireland",
+        "latitude": 53.3411335,
+        "longitude": -6.278372399999999
+    },
+    {
+        "category": "night markets",
+        "title": "Dun Laoghaire Sunday Market",
+        "rating": 4.6,
+        "address": "The People's Park, Glenageary Rd Lower, Glenageary, Co. Dublin, Ireland",
+        "latitude": 53.2899363,
+        "longitude": -6.1285308
+    },
+    {
+        "category": "night markets",
+        "title": "Howth Market",
+        "rating": 4.3,
+        "address": "3A Harbour Rd, Howth, Dublin, D13 X2D0, Ireland",
+        "latitude": 53.3886082,
+        "longitude": -6.072915
+    },
+    {
+        "category": "night markets",
+        "title": "Mespil Road Lunchtime Market",
+        "rating": 4.6,
+        "address": "Mespil Rd, Dublin 2, Ireland",
+        "latitude": 53.3335849,
+        "longitude": -6.2472615
+    },
+    {
+        "category": "night markets",
+        "title": "We LOVE Markets",
+        "rating": 4.1,
+        "address": "The Digital Depot, Thomas St, The Liberties, Dublin, D08 TCV4, Ireland",
+        "latitude": 53.3441166,
+        "longitude": -6.2837331
+    },
+    {
+        "category": "night markets",
+        "title": "Temple Bar Food Market",
+        "rating": 3,
+        "address": "Meeting House Square, Temple Bar, Dublin, Ireland",
+        "latitude": 53.345096,
+        "longitude": -6.2654423999999995
+    },
+    {
+        "category": "night markets",
+        "title": "Nightmarket",
+        "rating": 4.5,
+        "address": "120 Ranelagh, Dublin 6, D06 VF76, Ireland",
+        "latitude": 53.3239053,
+        "longitude": -6.2511003999999994
+    },
+    {
+        "category": "night markets",
+        "title": "The Green Door Market",
+        "rating": 4.5,
+        "address": "A1 Bluebell Business Centre, Old Naas Rd, Bluebell, Dublin, D12 XCY2, Ireland",
+        "latitude": 53.3292539,
+        "longitude": -6.341523
+    },
+    {
+        "category": "night markets",
+        "title": "Herbert Park Food Market",
+        "rating": 4.4,
+        "address": "Herbert Park, Dublin, Ireland",
+        "latitude": 53.3276122,
+        "longitude": -6.2329859999999995
+    },
+    {
+        "category": "night markets",
+        "title": "Moore Street Market",
+        "rating": 3.9,
+        "address": "Moore St, North City, Dublin, Ireland",
+        "latitude": 53.3505587,
+        "longitude": -6.2628005
+    },
+    {
+        "category": "night markets",
+        "title": "Farmers Market at St. Anne's Park",
+        "rating": 4.6,
+        "address": "Unnamed Road, Clontarf, Co. Dublin, Ireland",
+        "latitude": 53.3711135,
+        "longitude": -6.1746406
+    },
+    {
+        "category": "night markets",
+        "title": "Bushy Park Market",
+        "rating": 4.6,
+        "address": "Bushy Park, Terenure, Dublin, Ireland",
+        "latitude": 53.3031419,
+        "longitude": -6.2942085
+    },
+    {
+        "category": "night markets",
+        "title": "Leinster Market",
+        "rating": null,
+        "address": "25-26 D'Olier Street, Dublin 2, Ireland",
+        "latitude": 53.346755699999996,
+        "longitude": -6.2580668
+    },
+    {
+        "category": "night markets",
+        "title": "Glasnevin Food Market (formerly Honest2Goodness)",
+        "rating": 4.7,
+        "address": "38a Barrow Rd, Glasnevin, Dublin, Ireland",
+        "latitude": 53.373214499999996,
+        "longitude": -6.2927265
+    },
+    {
+        "category": "night markets",
+        "title": "Dublin Market at Bridge Park",
+        "rating": 4.6,
+        "address": "6504 Riverside Dr, Dublin, OH 43017",
+        "latitude": 40.101669699999995,
+        "longitude": -83.1095064
+    },
+    {
+        "category": "night markets",
+        "title": "The Market Bar Restaurant",
+        "rating": 4,
+        "address": "14a Fade St, Dublin 2, D02 A368, Ireland",
+        "latitude": 53.3420615,
+        "longitude": -6.2640604
+    },
+    {
+        "category": "night markets",
+        "title": "Meeting House Square",
+        "rating": 4.1,
+        "address": "Temple Bar, Dublin, Ireland",
+        "latitude": 53.3449952,
+        "longitude": -6.2653434
+    },
+    {
+        "category": "night markets",
+        "title": "Celtic Nights Dinner & Show",
+        "rating": 4.3,
+        "address": "23 Bachelors Walk, North City, Dublin 1, Ireland",
+        "latitude": 53.3473639,
+        "longitude": -6.260855599999999
+    },
+    {
+        "category": "night markets",
+        "title": "National Gallery of Ireland",
+        "rating": 4.7,
+        "address": "Merrion Square W, Dublin 2, D02 K303, Ireland",
+        "latitude": 53.3408887,
+        "longitude": -6.2522962
+    },
+    {
+        "category": "viewpoints",
+        "title": "Killiney Hill Viewpoint",
+        "rating": 4.9,
+        "address": "Mount Mapas House, Victoria Rd, Scalpwilliam Or Mount Mapas, Dalkey, Co. Dublin, Ireland",
+        "latitude": 53.2644922,
+        "longitude": -6.1119848999999995
+    },
+    {
+        "category": "viewpoints",
+        "title": "Dublin Point of View",
+        "rating": 4.2,
+        "address": "R113, Kingstown, Dublin, Ireland",
+        "latitude": 53.267742,
+        "longitude": -6.2475863
+    },
+    {
+        "category": "viewpoints",
+        "title": "Killakee View Point",
+        "rating": 4.7,
+        "address": "Old Military Rd, Killakee, Co. Dublin, Ireland",
+        "latitude": 53.2398904,
+        "longitude": -6.3205209
+    },
+    {
+        "category": "viewpoints",
+        "title": "Viewpoint of Cliffs (Photo point)",
+        "rating": 4.9,
+        "address": "Bailey Cottage, Thormanby Rd, Baily, Howth, Dublin, Ireland",
+        "latitude": 53.363651999999995,
+        "longitude": -6.055191499999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Dublin Mountains View Walk",
+        "rating": 4.9,
+        "address": "Knocklyon Park, Ballycullen, Knocklyon, Co. Dublin, Ireland",
+        "latitude": 53.276459499999994,
+        "longitude": -6.3215563
+    },
+    {
+        "category": "viewpoints",
+        "title": "Lighthouse and Bay viewpoint (photo point)",
+        "rating": 4.8,
+        "address": "The Beacon House, Bailey Green Rd, Howth, Dublin, Ireland",
+        "latitude": 53.3699249,
+        "longitude": -6.0537414
+    },
+    {
+        "category": "viewpoints",
+        "title": "Killiney Hill Park",
+        "rating": 4.8,
+        "address": "Killiney Hill, Scalpwilliam Or Mount Mapas, Dublin, Ireland",
+        "latitude": 53.2653787,
+        "longitude": -6.1112421999999995
+    },
+    {
+        "category": "viewpoints",
+        "title": "dlr Framed Views",
+        "rating": 4.3,
+        "address": "Rathmichael, Co. Dublin, Ireland",
+        "latitude": 53.2292644,
+        "longitude": -6.1509684
+    },
+    {
+        "category": "viewpoints",
+        "title": "Howth Cliff Walk (Green Route)",
+        "rating": 4.9,
+        "address": "Howth, Dublin, Ireland",
+        "latitude": 53.374969699999994,
+        "longitude": -6.0491765
+    },
+    {
+        "category": "viewpoints",
+        "title": "Great South Wall",
+        "rating": 4.7,
+        "address": "Dublin, Ireland",
+        "latitude": 53.340876699999995,
+        "longitude": -6.179917
+    },
+    {
+        "category": "viewpoints",
+        "title": "East Pier Viewpoint",
+        "rating": 5,
+        "address": "E Pier, Dún Laoghaire, Co. Dublin, Ireland",
+        "latitude": 53.302489699999995,
+        "longitude": -6.1260527
+    },
+    {
+        "category": "viewpoints",
+        "title": "Airport Viewing Point “The Mound”",
+        "rating": 4.5,
+        "address": "Collinstown, Co. Dublin, Ireland",
+        "latitude": 53.4183576,
+        "longitude": -6.2525686
+    },
+    {
+        "category": "viewpoints",
+        "title": "Sea Viewpoint near Forty Foot",
+        "rating": 5,
+        "address": "Carraig Na Chattan, Mornington Ave, Sandycove, Dublin, Ireland",
+        "latitude": 53.288329499999996,
+        "longitude": -6.1115848999999995
+    },
+    {
+        "category": "viewpoints",
+        "title": "Howth Cliff Walk",
+        "rating": 4.9,
+        "address": "Howth, Dublin, Ireland",
+        "latitude": 53.385003399999995,
+        "longitude": -6.0468173
+    },
+    {
+        "category": "viewpoints",
+        "title": "Skyview Tower",
+        "rating": 4.3,
+        "address": "Chimney Viewing Tower, Arran Quay, Smithfield, Dublin, Ireland",
+        "latitude": 53.348479999999995,
+        "longitude": -6.2778187999999995
+    },
+    {
+        "category": "viewpoints",
+        "title": "Poolbeg Lighthouse",
+        "rating": 4.7,
+        "address": "S Wall, Poolbeg, Dublin, Ireland",
+        "latitude": 53.342138299999995,
+        "longitude": -6.1512796
+    },
+    {
+        "category": "viewpoints",
+        "title": "Kellogg's Skyline Croke Park",
+        "rating": 4.7,
+        "address": "GAA Museum and Stadium Tour, Croke Park, St Joseph's Ave, Drumcondra, Dublin 3, Ireland",
+        "latitude": 53.360549,
+        "longitude": -6.2503657
+    },
+    {
+        "category": "viewpoints",
+        "title": "Clontarf Promenade",
+        "rating": 4.7,
+        "address": "Clontarf Rd, Clontarf East, Dublin, Ireland",
+        "latitude": 53.3595567,
+        "longitude": -6.200765199999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "St Stephen's Green",
+        "rating": 4.7,
+        "address": "Dublin 2, Ireland",
+        "latitude": 53.3381736,
+        "longitude": -6.259119
+    },
+    {
+        "category": "viewpoints",
+        "title": "Irishtown Nature Park",
+        "rating": 4.5,
+        "address": "Dublin, Ireland",
+        "latitude": 53.335524299999996,
+        "longitude": -6.1955458
+    },
+    {
+        "category": "gardens",
+        "title": "Dubh Linn Garden",
+        "rating": 4.6,
+        "address": "Dublin Castle, Dame St, Dublin, Ireland",
+        "latitude": 53.3423616,
+        "longitude": -6.2666319999999995
+    },
+    {
+        "category": "gardens",
+        "title": "Phoenix Park",
+        "rating": 4.7,
+        "address": "Dublin 8, Ireland",
+        "latitude": 53.3558823,
+        "longitude": -6.3298133
+    },
+    {
+        "category": "gardens",
+        "title": "Ranelagh Gardens Park",
+        "rating": 4.6,
+        "address": "Park View, Ranelagh, Dublin, Ireland",
+        "latitude": 53.3267454,
+        "longitude": -6.2542997
+    },
+    {
+        "category": "gardens",
+        "title": "Fernhill Park & Gardens",
+        "rating": 4.6,
+        "address": "Enniskerry Rd, Newtown Little, Dublin, 18, Ireland",
+        "latitude": 53.2590572,
+        "longitude": -6.228297899999999
+    },
+    {
+        "category": "gardens",
+        "title": "Garden of Remembrance",
+        "rating": 4.6,
+        "address": "Parnell Square E, Rotunda, Dublin 1, D01 A0F8, Ireland",
+        "latitude": 53.353761899999995,
+        "longitude": -6.264193499999999
+    },
+    {
+        "category": "gardens",
+        "title": "Irish National War Memorial Gardens",
+        "rating": 4.8,
+        "address": "Island Bridge, Ushers, Dublin, Ireland",
+        "latitude": 53.345421599999995,
+        "longitude": -6.3172574
+    },
+    {
+        "category": "gardens",
+        "title": "St. Audoen's Park",
+        "rating": 4.5,
+        "address": "32 Cook St, Merchants Quay, Dublin, 8, Ireland",
+        "latitude": 53.343874799999995,
+        "longitude": -6.2750322999999995
+    },
+    {
+        "category": "gardens",
+        "title": "St Anne's Park",
+        "rating": 4.8,
+        "address": "Clontarf East, Dublin, Ireland",
+        "latitude": 53.3718307,
+        "longitude": -6.179344599999999
+    },
+    {
+        "category": "gardens",
+        "title": "St Patrick’s Park",
+        "rating": 4.6,
+        "address": "Bull Alley St, Dublin, Ireland",
+        "latitude": 53.340242499999995,
+        "longitude": -6.2711649
+    },
+    {
+        "category": "gardens",
+        "title": "The Gardens at the Royal Hospital Kilmainham",
+        "rating": 4.8,
+        "address": "Unnamed Rd, South-West Inner City, Dublin, Ireland",
+        "latitude": 53.344386799999995,
+        "longitude": -6.3005331
+    },
+    {
+        "category": "gardens",
+        "title": "Dublin Garden Trail",
+        "rating": 4.3,
+        "address": "Knockrose, The Scalp, Kilternan, Dublin 18, Ireland",
+        "latitude": 53.2226183,
+        "longitude": -6.1793368
+    },
+    {
+        "category": "gardens",
+        "title": "Shackleton Garden",
+        "rating": 4.6,
+        "address": "Clonsilla, Dublin, Ireland",
+        "latitude": 53.3826341,
+        "longitude": -6.4313445
+    },
+    {
+        "category": "gardens",
+        "title": "Victorian Kitchen Garden",
+        "rating": 4.8,
+        "address": "Castleknock (part of Phoenix Park), Glasnevin, Co. Dublin, Ireland",
+        "latitude": 53.365482199999995,
+        "longitude": -6.3317855
+    },
+    {
+        "category": "gardens",
+        "title": "Howth Rhododendron Gardens",
+        "rating": 4.7,
+        "address": "Howth Demesne, Dublin, Ireland",
+        "latitude": 53.3797524,
+        "longitude": -6.078659399999999
+    },
+    {
+        "category": "gardens",
+        "title": "Wilton Park",
+        "rating": 4.6,
+        "address": "Wilton Park House, Wilton Pl, Dublin 2, D02 AD61, Ireland",
+        "latitude": 53.333683799999996,
+        "longitude": -6.248587199999999
+    },
+    {
+        "category": "gardens",
+        "title": "Corkagh Park Rose Garden",
+        "rating": 4.8,
+        "address": "Corkagh Demesne, Dublin, Ireland",
+        "latitude": 53.3108527,
+        "longitude": -6.416256799999999
+    },
+    {
+        "category": "gardens",
+        "title": "St Catherines Park",
+        "rating": 4.1,
+        "address": "St Catherine's Park, 8 Thomas St, The Liberties, Dublin, Ireland",
+        "latitude": 53.3424134,
+        "longitude": -6.2813674
+    },
+    {
+        "category": "gardens",
+        "title": "Cabbage Garden",
+        "rating": 4,
+        "address": "Cathedral Ln, Portobello, Dublin, D08 A4C6, Ireland",
+        "latitude": 53.3370895,
+        "longitude": -6.2708444
+    },
+    {
+        "category": "gardens",
+        "title": "Irishtown Nature Park",
+        "rating": 4.5,
+        "address": "Dublin, Ireland",
+        "latitude": 53.335524299999996,
+        "longitude": -6.1955458
+    },
+    {
+        "category": "adventure parks",
+        "title": "Emerald Park",
+        "rating": 4.6,
+        "address": "Kilbrew, Ashbourne, Co. Meath, A84 EA02, Ireland",
+        "latitude": 53.5452976,
+        "longitude": -6.4594157999999995
+    },
+    {
+        "category": "adventure parks",
+        "title": "Glencullen Adventure Park (The GAP)",
+        "rating": 4.8,
+        "address": "Ballybrack Rd, Glencullen, Dublin, D18 Y673, Ireland",
+        "latitude": 53.2230278,
+        "longitude": -6.2253887
+    },
+    {
+        "category": "adventure parks",
+        "title": "Fort Lucan Adventureland",
+        "rating": 4.4,
+        "address": "Westmanstown, Lucan, Co. Dublin, K78 E678, Ireland",
+        "latitude": 53.3703655,
+        "longitude": -6.440154499999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Zipit Forest Adventures",
+        "rating": 4.8,
+        "address": "Tibradden Wood, Tibradden, Dublin 16, Ireland",
+        "latitude": 53.242979899999995,
+        "longitude": -6.2949345999999995
+    },
+    {
+        "category": "adventure parks",
+        "title": "AquaZone",
+        "rating": 3.9,
+        "address": "Sport Ireland Campus, National Aquatic Centre, Snugborough Rd, Blanchardstown, Dublin 15, Ireland",
+        "latitude": 53.3971587,
+        "longitude": -6.3701099999999995
+    },
+    {
+        "category": "adventure parks",
+        "title": "Flynn Park",
+        "rating": 4.5,
+        "address": "Courtlough, Balbriggan, Co. Dublin, K32 N884, Ireland",
+        "latitude": 53.5702502,
+        "longitude": -6.1878969999999995
+    },
+    {
+        "category": "adventure parks",
+        "title": "Jump Zone Adventure & Inflatable Park Santry",
+        "rating": 4.4,
+        "address": "27, Airways Industrial Estate, Dublin, D17 X207, Ireland",
+        "latitude": 53.4066063,
+        "longitude": -6.2345795
+    },
+    {
+        "category": "adventure parks",
+        "title": "Funtasia Theme Park | Drogheda",
+        "rating": 4.1,
+        "address": "Donore Road Industrial Estate, Unit 1 & 2, Funtasia Theme Parks, Drogheda, Co. Louth, A92 EVH6, Ireland",
+        "latitude": 53.7050005,
+        "longitude": -6.3634514
+    },
+    {
+        "category": "adventure parks",
+        "title": "Squirrel's Scramble Tree Adventure Park",
+        "rating": 4.7,
+        "address": "Squirrel's Scramble,, Killruddery,, Southern Cross Road,, Bray, Co. Wicklow, Ireland",
+        "latitude": 53.1815698,
+        "longitude": -6.105525699999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Dartry Park",
+        "rating": 4.6,
+        "address": "54 14 Orwell Gardens, Rathmines Great, Dublin, D14 PT93, Ireland",
+        "latitude": 53.306744099999996,
+        "longitude": -6.2613946
+    },
+    {
+        "category": "adventure parks",
+        "title": "Wolfe Tone Park",
+        "rating": 4,
+        "address": "23 Jervis St, North City, Dublin, Ireland",
+        "latitude": 53.3481028,
+        "longitude": -6.2667014
+    },
+    {
+        "category": "adventure parks",
+        "title": "Beechpark",
+        "rating": 4.6,
+        "address": "Clonsilla, Dublin, Ireland",
+        "latitude": 53.3815301,
+        "longitude": -6.425156599999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "GoQuest Carrickmines",
+        "rating": 4.8,
+        "address": "Ballyogan Business Park, Unit 6, Ballyogan Rd, Dublin 18, D18 CF57, Ireland",
+        "latitude": 53.2563982,
+        "longitude": -6.1925007999999995
+    },
+    {
+        "category": "adventure parks",
+        "title": "Jump Zone Adventure & Trampoline Park Liffey Valley",
+        "rating": 4.2,
+        "address": "Liffey Valley Shopping Centre, Fonthill Rd, Palmerstown Upper, Dublin 22, D22 NW80, Ireland",
+        "latitude": 53.3528053,
+        "longitude": -6.3901444
+    },
+    {
+        "category": "adventure parks",
+        "title": "Leopardstown Park",
+        "rating": 4.3,
+        "address": "11-67 Leopardstown Park, Tipperstown, Dublin, Ireland",
+        "latitude": 53.2763691,
+        "longitude": -6.1969321
+    },
+    {
+        "category": "adventure parks",
+        "title": "Tallaght Adventure World",
+        "rating": 3.8,
+        "address": "1 Whitestown Business Park Tallaght, Whitestown, Dublin, Ireland",
+        "latitude": 53.2812371,
+        "longitude": -6.3779789
+    },
+    {
+        "category": "adventure parks",
+        "title": "Clara Lara Funpark",
+        "rating": 4.6,
+        "address": "near Glendalough, Knockrath, Co. Wicklow, A67 CY53, Ireland",
+        "latitude": 52.974394,
+        "longitude": -6.273679
+    },
+    {
+        "category": "hot springs",
+        "title": "The Hot Box Sauna Inchicore",
+        "rating": 4.9,
+        "address": "Goldenbridge Industrial Estate, Tyrconnell Rd, Inchicore, Dublin, D08 EWK2, Ireland",
+        "latitude": 53.335671899999994,
+        "longitude": -6.3246148
+    },
+    {
+        "category": "hot springs",
+        "title": "Aquasun Endless Pools & Hot Tub Store",
+        "rating": 4.9,
+        "address": "No 6, Mulcahy Keane Industrial Estate, Greenhills Rd, Walkinstown, Dublin 12, D12 EE62, Ireland",
+        "latitude": 53.3153641,
+        "longitude": -6.332926199999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Powerscourt Springs Health Farm",
+        "rating": 4,
+        "address": "Waterfall Road, Coolakay, Enniskerry, Co. Wicklow, A98 PR62, Ireland",
+        "latitude": 53.1713721,
+        "longitude": -6.1891452
+    },
+    {
+        "category": "hot springs",
+        "title": "The Sea Sauna",
+        "rating": 4.8,
+        "address": "Tower Bay Beach Car Park, Portrane, Co. Dublin, K36 RX92, Ireland",
+        "latitude": 53.489145799999996,
+        "longitude": -6.099067799999999
+    },
+    {
+        "category": "hot springs",
+        "title": "The Buff Day Spa",
+        "rating": 4.7,
+        "address": "52 King St S, Dublin 2, D02 HP68, Ireland",
+        "latitude": 53.3402111,
+        "longitude": -6.2612972
+    },
+    {
+        "category": "hot springs",
+        "title": "Tower Bay Beach",
+        "rating": 4.7,
+        "address": "Quay, Portrane, Co. Dublin, Ireland",
+        "latitude": 53.489311799999996,
+        "longitude": -6.097783
+    },
+    {
+        "category": "hot springs",
+        "title": "Spir Sauna Sandyford",
+        "rating": 5,
+        "address": "22 Spruce Ave, Sandyford, Dublin, A96 N620, Ireland",
+        "latitude": 53.280531499999995,
+        "longitude": -6.2200776
+    },
+    {
+        "category": "hot springs",
+        "title": "The Bodywise Clinic",
+        "rating": 4.9,
+        "address": "45 Dawson St, Dublin 2, D02 VP62, Ireland",
+        "latitude": 53.341060899999995,
+        "longitude": -6.258506199999999
+    },
+    {
+        "category": "hot springs",
+        "title": "18th Century Spa",
+        "rating": 3.2,
+        "address": "Leixlip, Co. Kildare, Ireland",
+        "latitude": 53.3718065,
+        "longitude": -6.5060024
+    },
+    {
+        "category": "hot springs",
+        "title": "Velvære Spa",
+        "rating": 5,
+        "address": "Le Pole Square, Chancery Ln, Dublin 8, D08 TFN2, Ireland",
+        "latitude": 53.341377699999995,
+        "longitude": -6.268770399999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Jacuzzi Dublin - (Hot Tubs Dublin)",
+        "rating": 5,
+        "address": "Green Isle Business Park, 14, Clondalkin, Dublin 22, D22 V05H, Ireland",
+        "latitude": 53.3086219,
+        "longitude": -6.404598
+    },
+    {
+        "category": "hot springs",
+        "title": "sansanaSPA",
+        "rating": 4.3,
+        "address": "Marine Rd, Dún Laoghaire, Dublin, Ireland",
+        "latitude": 53.2922155,
+        "longitude": -6.133947099999999
+    },
+    {
+        "category": "hot springs",
+        "title": "The Spa & Salon at The Shelbourne",
+        "rating": 4,
+        "address": "27 St Stephen's Green, Dublin 2, D02 K224, Ireland",
+        "latitude": 53.338949,
+        "longitude": -6.2561065
+    },
+    {
+        "category": "hot springs",
+        "title": "The Spencer Health Club",
+        "rating": 4.4,
+        "address": "Excise Walk, North Wall, Dublin 1, D01 X4C9, Ireland",
+        "latitude": 53.3483181,
+        "longitude": -6.2434908
+    },
+    {
+        "category": "hot springs",
+        "title": "National Botanic Gardens",
+        "rating": 4.8,
+        "address": "Glasnevin, Dublin 9, D09 VY63, Ireland",
+        "latitude": 53.372549299999996,
+        "longitude": -6.271907
+    },
+    {
+        "category": "hot springs",
+        "title": "Killashee Spa",
+        "rating": 4.5,
+        "address": "House Hotel, Kilcullen Rd, Killashee, Naas, Co. Kildare, W91 DX34, Ireland",
+        "latitude": 53.1907806,
+        "longitude": -6.6764345
+    },
+    {
+        "category": "hot springs",
+        "title": "The Hot Pod",
+        "rating": 4.9,
+        "address": "Clonea, Clonea Lower, Dungarvan, Co. Waterford, Ireland",
+        "latitude": 52.099313699999996,
+        "longitude": -7.5376506999999995
+    },
+    {
+        "category": "hot springs",
+        "title": "The Hot Box Sauna Rosses Point",
+        "rating": 4.9,
+        "address": "Deadman’s point, Rosses Upper, Sligo, Ireland",
+        "latitude": 54.3067302,
+        "longitude": -8.5766634
+    },
+    {
+        "category": "hot springs",
+        "title": "Phil Lynott Statue",
+        "rating": 4.6,
+        "address": "Harry St, Dublin, Ireland",
+        "latitude": 53.3412885,
+        "longitude": -6.2607235999999995
+    },
+    {
+        "category": "hot springs",
+        "title": "Himalayan Beauty",
+        "rating": 4.3,
+        "address": "11 St Stephen's Green, Dublin 2, D02 FY84, Ireland",
+        "latitude": 53.3397724,
+        "longitude": -6.259049
+    },
+    {
+        "category": "shopping malls",
+        "title": "Jervis Shopping Centre",
+        "rating": 4.3,
+        "address": "125 Abbey Street Upper, North City, Dublin, D01 W3X5, Ireland",
+        "latitude": 53.348214299999995,
+        "longitude": -6.2656231
+    },
+    {
+        "category": "shopping malls",
+        "title": "Stephen's Green Shopping Centre",
+        "rating": 4.2,
+        "address": "St Stephen's Green, Dublin, D02 HX65, Ireland",
+        "latitude": 53.3398639,
+        "longitude": -6.2617742
+    },
+    {
+        "category": "shopping malls",
+        "title": "ILAC Shopping Centre",
+        "rating": 4.2,
+        "address": "Henry St, North City, Dublin, D01 HW54, Ireland",
+        "latitude": 53.3499889,
+        "longitude": -6.2647379
+    },
+    {
+        "category": "shopping malls",
+        "title": "Blanchardstown Centre",
+        "rating": 4.5,
+        "address": "Blanchardstown Rd S, Blanchardstown, Dublin, Ireland",
+        "latitude": 53.391868599999995,
+        "longitude": -6.3910117
+    },
+    {
+        "category": "shopping malls",
+        "title": "Moore Street Mall",
+        "rating": 4.2,
+        "address": "58 Parnell St, North City, Dublin 1, Ireland",
+        "latitude": 53.3511974,
+        "longitude": -6.263226899999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Dundrum Town Centre",
+        "rating": 4.4,
+        "address": "Sandyford Rd, Dundrum, Dublin, 16, Ireland",
+        "latitude": 53.286981999999995,
+        "longitude": -6.242252
+    },
+    {
+        "category": "shopping malls",
+        "title": "Stillorgan Village",
+        "rating": 4.2,
+        "address": "Lower Kilmacud Rd, Stillorgan, Dublin, Ireland",
+        "latitude": 53.2894327,
+        "longitude": -6.200196
+    },
+    {
+        "category": "shopping malls",
+        "title": "Omni Shopping Centre",
+        "rating": 4.2,
+        "address": "Swords Rd, Santry, Dublin, D09 HH61, Ireland",
+        "latitude": 53.392419499999995,
+        "longitude": -6.2482747
+    },
+    {
+        "category": "shopping malls",
+        "title": "Charlestown Shopping Centre",
+        "rating": 4.1,
+        "address": "St Margaret's Rd, Charlestown, Dublin, Ireland",
+        "latitude": 53.4038659,
+        "longitude": -6.3037158
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Westbury Mall",
+        "rating": 4.3,
+        "address": "The Westbury, Balfe St, Dublin, Ireland",
+        "latitude": 53.341809999999995,
+        "longitude": -6.261359199999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Powerscourt Townhouse Centre",
+        "rating": 4.5,
+        "address": "59 William St S, Centre, Dublin 2, D02 HF95, Ireland",
+        "latitude": 53.3421695,
+        "longitude": -6.2619872
+    },
+    {
+        "category": "shopping malls",
+        "title": "Liffey Valley Shopping Centre",
+        "rating": 4.4,
+        "address": "Fonthill Rd, Clondalkin, Dublin, 22, Ireland",
+        "latitude": 53.3526192,
+        "longitude": -6.3930247
+    },
+    {
+        "category": "shopping malls",
+        "title": "Nutgrove Shopping Centre",
+        "rating": 4.2,
+        "address": "Nutgrove Ave, Rathfarnham, Dublin 14, D14 E6W6, Ireland",
+        "latitude": 53.290399199999996,
+        "longitude": -6.2672979
+    },
+    {
+        "category": "shopping malls",
+        "title": "Clarehall Shopping Centre",
+        "rating": 4.1,
+        "address": "13 Malahide Rd, Clare Hall, Dublin 17, D17 N971, Ireland",
+        "latitude": 53.4011255,
+        "longitude": -6.1798747999999994
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Square Tallaght",
+        "rating": 4.2,
+        "address": "Belgard Square E, Tallaght, Dublin, D24 ND77, Ireland",
+        "latitude": 53.2866317,
+        "longitude": -6.3715815
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Merrion Shopping Centre",
+        "rating": 4.1,
+        "address": "Merrion Rd, Dublin 4, D04 W8W2, Ireland",
+        "latitude": 53.3189998,
+        "longitude": -6.2139172
+    },
+    {
+        "category": "shopping malls",
+        "title": "Northside Shopping Centre",
+        "rating": 3.9,
+        "address": "Oscar Traynor Rd, Dublin 17, Ireland",
+        "latitude": 53.3957062,
+        "longitude": -6.2121933
+    },
+    {
+        "category": "shopping malls",
+        "title": "Point Square",
+        "rating": 4.2,
+        "address": "East Wall Road, Point Square, Dublin, D01 E0K6, Ireland",
+        "latitude": 53.3486098,
+        "longitude": -6.2280964
+    },
+    {
+        "category": "shopping malls",
+        "title": "Dun Laoghaire Shopping Centre",
+        "rating": 3.4,
+        "address": "5 Marine Rd, Dún Laoghaire, Dublin, A96 D283, Ireland",
+        "latitude": 53.292425099999996,
+        "longitude": -6.134987199999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Swan Shopping Centre",
+        "rating": 4.1,
+        "address": "6 Rathmines Rd Lower, Rathmines, Dublin 6, D06 XW92, Ireland",
+        "latitude": 53.323543099999995,
+        "longitude": -6.265295
+    },
+    {
+        "category": "historical sites",
+        "title": "Dublin Castle",
+        "rating": 4.3,
+        "address": "Dame St, Dublin 2, Ireland",
+        "latitude": 53.342886099999994,
+        "longitude": -6.2674284
+    },
+    {
+        "category": "historical sites",
+        "title": "National Museum of Ireland, Kildare Street",
+        "rating": 4.6,
+        "address": "35A Kildare St, Dublin 2, D02 YK38, Ireland",
+        "latitude": 53.340222499999996,
+        "longitude": -6.2549209
+    },
+    {
+        "category": "historical sites",
+        "title": "Dublinia",
+        "rating": 4.5,
+        "address": "St Michaels Hill Christ Church, 5 Meath St, Saint Catherine's, Dublin 8, D08 VE80, Ireland",
+        "latitude": 53.343149,
+        "longitude": -6.2720614
+    },
+    {
+        "category": "historical sites",
+        "title": "Old Dublin City Wall",
+        "rating": 4.3,
+        "address": "Lamb Alley, The Liberties, Dublin, Ireland",
+        "latitude": 53.3431041,
+        "longitude": -6.2751244999999995
+    },
+    {
+        "category": "historical sites",
+        "title": "GPO Museum",
+        "rating": 4.6,
+        "address": "O'Connell Street Lower, North City, Dublin 1, D01 F5P2, Ireland",
+        "latitude": 53.349528199999995,
+        "longitude": -6.2606027
+    },
+    {
+        "category": "historical sites",
+        "title": "The Jeanie Johnston: An Irish Famine Story",
+        "rating": 4.7,
+        "address": "Custom House Quay, North Wall, Dublin 1, D01 T9C2, Ireland",
+        "latitude": 53.3476481,
+        "longitude": -6.246815799999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Kilmainham Gaol",
+        "rating": 4.7,
+        "address": "Inchicore Rd, Kilmainham, Dublin 8, D08 RK28, Ireland",
+        "latitude": 53.341870099999994,
+        "longitude": -6.309804799999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Custom House Visitor Centre",
+        "rating": 4.6,
+        "address": "Custom House Quay, North Wall, Dublin 1, D01 W6X0, Ireland",
+        "latitude": 53.3483745,
+        "longitude": -6.2531327
+    },
+    {
+        "category": "historical sites",
+        "title": "Parliament House",
+        "rating": 4.2,
+        "address": "College Green, Temple Bar, Dublin, Ireland",
+        "latitude": 53.3449167,
+        "longitude": -6.2601382
+    },
+    {
+        "category": "historical sites",
+        "title": "Drimnagh Medieval Castle and Gardens",
+        "rating": 4.7,
+        "address": "Medieval Castle, Long Mile Rd, Drimnagh, Dublin, 12, Ireland",
+        "latitude": 53.3249029,
+        "longitude": -6.3328744
+    },
+    {
+        "category": "historical sites",
+        "title": "National Museum of Ireland, Collins Barracks",
+        "rating": 4.6,
+        "address": "Collins Barracks, Benburb St, Stoneybatter, Dublin, D07 XKV4, Ireland",
+        "latitude": 53.3489404,
+        "longitude": -6.2863653
+    },
+    {
+        "category": "historical sites",
+        "title": "Phoenix Park",
+        "rating": 4.7,
+        "address": "Dublin 8, Ireland",
+        "latitude": 53.3558823,
+        "longitude": -6.3298133
+    },
+    {
+        "category": "historical sites",
+        "title": "Experience Glasnevin - Ireland's National Cemetery",
+        "rating": 4.8,
+        "address": "Finglas Rd, Glasnevin, Dublin, D11 H2TH, Ireland",
+        "latitude": 53.369622299999996,
+        "longitude": -6.2770345
+    },
+    {
+        "category": "historical sites",
+        "title": "14 Henrietta Street",
+        "rating": 4.8,
+        "address": "14 Henrietta St, Dublin 1, D01 HH34, Ireland",
+        "latitude": 53.352379799999994,
+        "longitude": -6.2701587
+    },
+    {
+        "category": "historical sites",
+        "title": "EPIC The Irish Emigration Museum",
+        "rating": 4.6,
+        "address": "The Chq Building, Custom House Quay, North Wall, Dublin 1, Ireland",
+        "latitude": 53.3483124,
+        "longitude": -6.2481791
+    },
+    {
+        "category": "historical sites",
+        "title": "Constance Markievicz Statue",
+        "rating": 4.3,
+        "address": "St Stephen's Green, Dublin 2, D02 DX88, Ireland",
+        "latitude": 53.337801299999995,
+        "longitude": -6.258995
+    },
+    {
+        "category": "historical sites",
+        "title": "Oscar Wilde House",
+        "rating": 4.2,
+        "address": "American College, 1 Merrion Square N, Dublin, D02 NH98, Ireland",
+        "latitude": 53.3411883,
+        "longitude": -6.2504237
+    },
+    {
+        "category": "historical sites",
+        "title": "The Royal Hospital Kilmainham",
+        "rating": 4.6,
+        "address": "Military Rd, Saint James, Dublin 8, Ireland",
+        "latitude": 53.3429206,
+        "longitude": -6.3000339
+    },
+    {
+        "category": "historical sites",
+        "title": "Guinness Storehouse",
+        "rating": 4.4,
+        "address": "St. James's Gate, Dublin 8, D08 VF8H, Ireland",
+        "latitude": 53.341808799999995,
+        "longitude": -6.2867155
+    },
+    {
+        "category": "historical sites",
+        "title": "National Museum of Ireland, Merrion Street",
+        "rating": 4.5,
+        "address": "Merrion St Upper, Dublin 2, D02 F627, Ireland",
+        "latitude": 53.3398848,
+        "longitude": -6.253347799999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Irish Museum of Modern Art",
+        "rating": 4.3,
+        "address": "Royal Hospital Kilmainham, Military Rd, Kilmainham, Dublin 8, D08 FW31, Ireland",
+        "latitude": 53.342587099999996,
+        "longitude": -6.299928599999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Olivier Cornet Gallery",
+        "rating": 4.8,
+        "address": "3 Denmark Street Great, Rotunda, Dublin 1, D01 NV63, Ireland",
+        "latitude": 53.3552846,
+        "longitude": -6.2624913
+    },
+    {
+        "category": "art galleries",
+        "title": "Kerlin Gallery",
+        "rating": 4.4,
+        "address": "Anne's Ln, Dublin 2, D02 A028, Ireland",
+        "latitude": 53.340658,
+        "longitude": -6.259557
+    },
+    {
+        "category": "art galleries",
+        "title": "EPIC The Irish Emigration Museum",
+        "rating": 4.6,
+        "address": "The Chq Building, Custom House Quay, North Wall, Dublin 1, Ireland",
+        "latitude": 53.3483124,
+        "longitude": -6.2481791
+    },
+    {
+        "category": "art galleries",
+        "title": "Irish Whiskey Museum",
+        "rating": 4.7,
+        "address": "119 Grafton Street, Dublin, D02 E620, Ireland",
+        "latitude": 53.344198,
+        "longitude": -6.259525
+    },
+    {
+        "category": "art galleries",
+        "title": "Photo Museum Ireland",
+        "rating": 4.5,
+        "address": "Meeting House Square, Temple Bar, Dublin 2, Ireland",
+        "latitude": 53.3448232,
+        "longitude": -6.265444
+    },
+    {
+        "category": "art galleries",
+        "title": "National Photographic Archive",
+        "rating": 4.3,
+        "address": "Meeting House Square, Temple Bar, Dublin, D02 WF85, Ireland",
+        "latitude": 53.345311099999996,
+        "longitude": -6.265425
+    },
+    {
+        "category": "art galleries",
+        "title": "Francis Bacon Studio",
+        "rating": 4,
+        "address": "Charlemont House, Parnell Square N, Rotunda, Dublin 1, D01 F2X9, Ireland",
+        "latitude": 53.3545588,
+        "longitude": -6.2649849
+    },
+    {
+        "category": "art galleries",
+        "title": "Molesworth Gallery",
+        "rating": 4.5,
+        "address": "16 Molesworth St, Dublin 2, D02 YF58, Ireland",
+        "latitude": 53.3411074,
+        "longitude": -6.2561572
+    },
+    {
+        "category": "art galleries",
+        "title": "Chester Beatty",
+        "rating": 4.7,
+        "address": "Chester Beatty Library, Caisleán Bhaile Átha Cliath, Dublin Castle, Castle St, Dublin 2, D02 AD92, Ireland",
+        "latitude": 53.342235599999995,
+        "longitude": -6.2672761999999995
+    },
+    {
+        "category": "art galleries",
+        "title": "Farmleigh Gallery",
+        "rating": 4.5,
+        "address": "Farmleigh House, Castleknock, Dublin 15, Ireland",
+        "latitude": 53.3646782,
+        "longitude": -6.3620202
+    },
+    {
+        "category": "art galleries",
+        "title": "The Douglas Hyde Gallery of Contemporary Art",
+        "rating": 4.1,
+        "address": "Trinity College, Dublin 2, Ireland",
+        "latitude": 53.3432805,
+        "longitude": -6.2577013
+    },
+    {
+        "category": "art galleries",
+        "title": "Hugh Lane Gallery",
+        "rating": 4.5,
+        "address": "Charlemont House, Parnell Square N, Rotunda, Dublin 1, D01 F2X9, Ireland",
+        "latitude": 53.354177,
+        "longitude": -6.2646481
+    },
+    {
+        "category": "theaters",
+        "title": "The Gaiety Theatre",
+        "rating": 4.6,
+        "address": "King St S, Dublin 2, Ireland",
+        "latitude": 53.340461299999994,
+        "longitude": -6.2615754
+    },
+    {
+        "category": "theaters",
+        "title": "Savoy Cinema",
+        "rating": 4,
+        "address": "17 O'Connell Street Upper, North City, Dublin 1, D01 XK83, Ireland",
+        "latitude": 53.3512366,
+        "longitude": -6.2605246
+    },
+    {
+        "category": "theaters",
+        "title": "Abbey Theatre",
+        "rating": 4.7,
+        "address": "26/27 Abbey Street Lower, North City, Dublin 1, D01 K0F1, Ireland",
+        "latitude": 53.348398599999996,
+        "longitude": -6.257178199999999
+    },
+    {
+        "category": "theaters",
+        "title": "Cineworld - Dublin",
+        "rating": 4.2,
+        "address": "The Parnell Centre, Parnell St, Rotunda, Dublin, D01 V4Y1, Ireland",
+        "latitude": 53.3502218,
+        "longitude": -6.2676763
+    },
+    {
+        "category": "theaters",
+        "title": "The New Theatre",
+        "rating": 4.7,
+        "address": "43 Essex St E, Temple Bar, Dublin, D02 Y306, Ireland",
+        "latitude": 53.345009499999996,
+        "longitude": -6.2665039
+    },
+    {
+        "category": "theaters",
+        "title": "Light House Cinema",
+        "rating": 4.8,
+        "address": "Market St S, Smithfield, Dublin 7, D07 R6YE, Ireland",
+        "latitude": 53.348793799999996,
+        "longitude": -6.2790491
+    },
+    {
+        "category": "theaters",
+        "title": "The Stella Cinema Rathmines",
+        "rating": 4.7,
+        "address": "207, 209 Rathmines Rd Lower, Rathmines, Dublin 6, D06 W403, Ireland",
+        "latitude": 53.322373799999994,
+        "longitude": -6.2658589
+    },
+    {
+        "category": "theaters",
+        "title": "Civic Theatre",
+        "rating": 4.6,
+        "address": "Parthalán Place, Bóthar Belgard, Tallaght, Dublin, D24 NWN7, Ireland",
+        "latitude": 53.2883772,
+        "longitude": -6.372191
+    },
+    {
+        "category": "theaters",
+        "title": "Vue Cinema Dublin",
+        "rating": 4.1,
+        "address": "Liffey Valley Shopping Centre, Irishtown, Dublin 22, D22 W2F2, Ireland",
+        "latitude": 53.352227199999994,
+        "longitude": -6.3936307999999995
+    },
+    {
+        "category": "theaters",
+        "title": "Gate Theatre",
+        "rating": 4.7,
+        "address": "Cavendish Row, Parnell Square E, Rotunda, Dublin 1, Ireland",
+        "latitude": 53.353110799999996,
+        "longitude": -6.2620039
+    },
+    {
+        "category": "theaters",
+        "title": "Bord Gáis Energy Theatre",
+        "rating": 4.7,
+        "address": "Grand Canal Square, Docklands, Dublin, Ireland",
+        "latitude": 53.3441854,
+        "longitude": -6.2400185
+    },
+    {
+        "category": "theaters",
+        "title": "The Ambassador Theatre",
+        "rating": 4,
+        "address": "Parnell Square South, Upper O’Connell Street, Rotunda, Dublin 1, Ireland",
+        "latitude": 53.352914,
+        "longitude": -6.262148
+    },
+    {
+        "category": "theaters",
+        "title": "Pavilion Theatre",
+        "rating": 4.6,
+        "address": "Marine Rd, Dún Laoghaire, Dublin, Ireland",
+        "latitude": 53.2939206,
+        "longitude": -6.133966699999999
+    },
+    {
+        "category": "theaters",
+        "title": "Omniplex Cinema Dublin - Rathmines",
+        "rating": 4.3,
+        "address": "210 Rathmines Rd Lower, Rathmines, Dublin 6, D06 N1F1, Ireland",
+        "latitude": 53.323833099999995,
+        "longitude": -6.2652494999999995
+    },
+    {
+        "category": "theaters",
+        "title": "UCD Cinema",
+        "rating": 4.5,
+        "address": "Student Centre, Belfield, Dublin 4, Ireland",
+        "latitude": 53.308304,
+        "longitude": -6.227822799999999
+    },
+    {
+        "category": "theaters",
+        "title": "3Olympia Theatre",
+        "rating": 4.5,
+        "address": "72 Dame St, Temple Bar, Dublin 2, D02 K135, Ireland",
+        "latitude": 53.344309499999994,
+        "longitude": -6.2660651
+    },
+    {
+        "category": "theaters",
+        "title": "Movies@ The Square",
+        "rating": 4.1,
+        "address": "The Square Shopping Centre, Dublin 24, Ireland",
+        "latitude": 53.286874399999995,
+        "longitude": -6.3725179
+    },
+    {
+        "category": "theaters",
+        "title": "Smock Alley Theatre, 1662",
+        "rating": 4.7,
+        "address": "6-7 Exchange Street Lower, Temple Bar, Dublin 8, D08 EH67, Ireland",
+        "latitude": 53.3450078,
+        "longitude": -6.269166299999999
+    },
+    {
+        "category": "theaters",
+        "title": "Glass Mask Theatre",
+        "rating": 4.9,
+        "address": "41 Dawson St, Dublin 2, D02 VY06, Ireland",
+        "latitude": 53.3407215,
+        "longitude": -6.2585773
+    },
+    {
+        "category": "theaters",
+        "title": "Irish Film Institute",
+        "rating": 4.5,
+        "address": "6 Eustace St, Temple Bar, Dublin 2, D02 PD85, Ireland",
+        "latitude": 53.3446347,
+        "longitude": -6.264903299999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "The Temple Bar Trading Company",
+        "rating": 4.4,
+        "address": "43-44 Temple Bar, Dublin 2, D02 KF86, Ireland",
+        "latitude": 53.345535899999994,
+        "longitude": -6.2639019
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Seasons of Ireland",
+        "rating": 4.4,
+        "address": "111 Grafton Street, Dublin 2, D02 FT21, Ireland",
+        "latitude": 53.343578099999995,
+        "longitude": -6.259455099999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Carrolls Irish Gifts",
+        "rating": 4.4,
+        "address": "44 Henry St, North City, Dublin 1, D01 WR65, Ireland",
+        "latitude": 53.3495618,
+        "longitude": -6.2623156
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Carrolls Irish Gifts",
+        "rating": 4.5,
+        "address": "Ballast House, Aston Quay, Temple Bar, Dublin 2, D02 PT85, Ireland",
+        "latitude": 53.346550099999995,
+        "longitude": -6.2593559
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Carrolls Irish Gifts",
+        "rating": 4.5,
+        "address": "57-58 O'Connell Street Upper, North City, Dublin 1, D01 KF76, Ireland",
+        "latitude": 53.3505543,
+        "longitude": -6.261073499999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Carrolls Irish Gifts",
+        "rating": 4.3,
+        "address": "37 Grafton Street, Dublin 2, D02 V058, Ireland",
+        "latitude": 53.3409094,
+        "longitude": -6.2604859
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Carrolls Irish Gifts",
+        "rating": 4.4,
+        "address": "68 Dame St, Temple Bar, Dublin, D02 XW73, Ireland",
+        "latitude": 53.3443585,
+        "longitude": -6.2657415
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Carrolls Irish Gifts",
+        "rating": 4.3,
+        "address": "Shopping Centre, Unit 13, 14 and 15, Ground Floor, St Stephen's Green, Dublin 2, D02 XD96, Ireland",
+        "latitude": 53.340221,
+        "longitude": -6.2624374
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Irish Design Shop",
+        "rating": 4.6,
+        "address": "41 Drury St, Dublin, Ireland",
+        "latitude": 53.3427432,
+        "longitude": -6.2629527
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Carrolls Irish Gifts - Talbot St.",
+        "rating": 4.5,
+        "address": "99 Talbot St, North City, Dublin 1, D01 X652, Ireland",
+        "latitude": 53.3501991,
+        "longitude": -6.2570575
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Maktus",
+        "rating": 4.8,
+        "address": "Unit 21/22, 2 George's Street Arcade, Drury St, Temple Bar, Dublin, D02 EE71, Ireland",
+        "latitude": 53.342557299999996,
+        "longitude": -6.2635653
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Carrolls Irish Gifts",
+        "rating": 4.2,
+        "address": "33 O'Connell Street Lower, North City, Dublin 1, D01 KH26, Ireland",
+        "latitude": 53.3497115,
+        "longitude": -6.2597068
+    },
+    {
+        "category": "souvenir counters",
+        "title": "EPIC Museum Gift Shop",
+        "rating": 4.9,
+        "address": "The Chq Building, Custom House Quay, North Wall, Dublin 1, Ireland",
+        "latitude": 53.3484546,
+        "longitude": -6.2480119
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Love Dublin Souvenirs & Gifts, Dublin",
+        "rating": 3.6,
+        "address": "44 Wellington Quay, Temple Bar, Dublin, 2, Ireland",
+        "latitude": 53.3458371,
+        "longitude": -6.2637225
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Carrolls Irish Gifts",
+        "rating": 4.9,
+        "address": "Unit 10 Duck Lane, Smithfield, Dublin 7, D07 WK16, Ireland",
+        "latitude": 53.3483102,
+        "longitude": -6.2768999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Trinity Gift Shop",
+        "rating": 4.1,
+        "address": "Trinity College Dublin, College Green, College St, Dublin 2, D02 DP29, Ireland",
+        "latitude": 53.3441938,
+        "longitude": -6.255247
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Carrolls Irish Gifts",
+        "rating": 4.6,
+        "address": "6-8, College Green, Temple Bar, Dublin, D02 VP48, Ireland",
+        "latitude": 53.3443918,
+        "longitude": -6.2621369
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Carrolls Irish Gifts Fleet Street",
+        "rating": 5,
+        "address": "48 Fleet St, Temple Bar, Dublin 2, D02 T883, Ireland",
+        "latitude": 53.3455723,
+        "longitude": -6.2606956
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Irish Souvenir Shop outlet",
+        "rating": 4,
+        "address": "59 Dame St, Temple Bar, Dublin, D02 TH27, Ireland",
+        "latitude": 53.3442826,
+        "longitude": -6.2648953999999994
+    }
+]

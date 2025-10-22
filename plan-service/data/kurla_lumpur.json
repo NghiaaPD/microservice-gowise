@@ -1,0 +1,3562 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "KL Bird Park",
+        "rating": 4.4,
+        "address": "920, Jalan Cenderawasih, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.143164,
+        "longitude": 101.6884845
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Aquaria KLCC",
+        "rating": 4.3,
+        "address": "Kuala Lumpur Convention Centre, Jalan Pinang, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1535482999999997,
+        "longitude": 101.713178
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Merdeka Square",
+        "rating": 4.5,
+        "address": "Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1490605,
+        "longitude": 101.6936592
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Menara Kuala Lumpur",
+        "rating": 4.5,
+        "address": "2 Jalan Punchak, Off, Jalan P. Ramlee, 50250 Kuala Lumpur, Malaysia",
+        "latitude": 3.1528761999999997,
+        "longitude": 101.7038516
+    },
+    {
+        "category": "tourist attractions",
+        "title": "KLCC Park",
+        "rating": 4.6,
+        "address": "City Centre, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1555902,
+        "longitude": 101.71478719999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Batu Caves",
+        "rating": 4.4,
+        "address": "Gombak, 68100 Batu Caves, Selangor, Malaysia",
+        "latitude": 3.2378844,
+        "longitude": 101.6840385
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Kuala Lumpur Butterfly Park",
+        "rating": 4.2,
+        "address": "Jalan Cenderawasih, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.145777,
+        "longitude": 101.6889059
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Perdana Botanical Garden",
+        "rating": 4.5,
+        "address": "Jalan Kebun Bunga, Perdana Botanical Gardens, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1429198,
+        "longitude": 101.6851495
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Istana Negara",
+        "rating": 4.3,
+        "address": "Jln Tuanku Abdul Halim, Bukit Damansara, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1614817,
+        "longitude": 101.6634404
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Thean Hou Temple",
+        "rating": 4.6,
+        "address": "65, Persiaran Endah, Taman Persiaran Desa, 50460 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1219525,
+        "longitude": 101.6876678
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Kolam Biru",
+        "rating": 4.5,
+        "address": "River of Life, Jalan Tun Perak, Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1481776999999997,
+        "longitude": 101.69545389999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "The National Museum of Malaysia",
+        "rating": 4.3,
+        "address": "Department of Museum, Jln Damansara, Perdana Botanical Gardens, 50566 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.137711,
+        "longitude": 101.68742139999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "I Love KL Statue",
+        "rating": 4.4,
+        "address": "Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1472971,
+        "longitude": 101.6934802
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Rumah Penghulu Abu Seman (The Penghulu Abu Seman House)",
+        "rating": 4.5,
+        "address": "Badan Warisan Malaysia, 2, Jalan Stonor, Kuala Lumpur, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1502708999999998,
+        "longitude": 101.7164636
+    },
+    {
+        "category": "tourist attractions",
+        "title": "National Monument",
+        "rating": 4.5,
+        "address": "Perdana Botanical Garden, Jln Parlimen, Kuala Lumpur City Centre, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1488546,
+        "longitude": 101.6838276
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Golden Triangle",
+        "rating": 4.6,
+        "address": "Jln Ampang, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.158951,
+        "longitude": 101.71267549999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Skybridge Petronas Twin Towers",
+        "rating": 4.6,
+        "address": "201A-C, Jln Ampang, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1580209999999997,
+        "longitude": 101.71220799999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Plaza Tugu Negara",
+        "rating": 4.6,
+        "address": "Pesiaran Sultan Salahuddin, Kuala Lumpur, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1499715999999998,
+        "longitude": 101.68441449999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "MinNature Malaysia",
+        "rating": 4.7,
+        "address": "Level 1, Green Zone above Giant Supermarket, Sungei Wang Plaza, Jln Sultan Ismail, Bukit Bintang, 50250 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1439060999999997,
+        "longitude": 101.710928
+    },
+    {
+        "category": "tourist attractions",
+        "title": "National Mosque",
+        "rating": 4.8,
+        "address": "Jalan Perdana, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1419783,
+        "longitude": 101.69175729999999
+    },
+    {
+        "category": "parks",
+        "title": "KLCC Park",
+        "rating": 4.6,
+        "address": "City Centre, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1555902,
+        "longitude": 101.71478719999999
+    },
+    {
+        "category": "parks",
+        "title": "KL Bird Park",
+        "rating": 4.4,
+        "address": "920, Jalan Cenderawasih, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.143164,
+        "longitude": 101.6884845
+    },
+    {
+        "category": "parks",
+        "title": "The Central Park",
+        "rating": 4.5,
+        "address": "C-3-1, plaza arkadia, 3, Persiaran Residen, Desa Parkcity, 52200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1864074,
+        "longitude": 101.6283832
+    },
+    {
+        "category": "parks",
+        "title": "Bukit Jalil Recreational Park",
+        "rating": 4.4,
+        "address": "Jalan 13/155c, Bukit Jalil, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0522221999999997,
+        "longitude": 101.6755556
+    },
+    {
+        "category": "parks",
+        "title": "Permaisuri Lake Garden",
+        "rating": 4.4,
+        "address": "Jalan Tasik Permaisuri 2, Bandar Tun Razak, 56000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0980475,
+        "longitude": 101.71904239999999
+    },
+    {
+        "category": "parks",
+        "title": "Perdana Botanical Garden",
+        "rating": 4.5,
+        "address": "Jalan Kebun Bunga, Perdana Botanical Gardens, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1429198,
+        "longitude": 101.6851495
+    },
+    {
+        "category": "parks",
+        "title": "Kuala Lumpur Butterfly Park",
+        "rating": 4.2,
+        "address": "Jalan Cenderawasih, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.145777,
+        "longitude": 101.6889059
+    },
+    {
+        "category": "parks",
+        "title": "Menara Kuala Lumpur",
+        "rating": 4.5,
+        "address": "2 Jalan Punchak, Off, Jalan P. Ramlee, 50250 Kuala Lumpur, Malaysia",
+        "latitude": 3.1528761999999997,
+        "longitude": 101.7038516
+    },
+    {
+        "category": "parks",
+        "title": "Taman Tasik Metropolitan Kepong",
+        "rating": 4.3,
+        "address": "Jalan Lingkaran Tengah 2, 7, Pavement, Taman Metropolitan Kepong, 52100 Kepong, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.2270827,
+        "longitude": 101.6488787
+    },
+    {
+        "category": "parks",
+        "title": "ASEAN Sculpture Garden",
+        "rating": 4.4,
+        "address": "Perdana Botanical Garden, Asean Sculpture Garden, Pesiaran Sultan Salahhudin, 50480, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1504806999999997,
+        "longitude": 101.68397569999999
+    },
+    {
+        "category": "parks",
+        "title": "Kerinchi Hill Forest Park",
+        "rating": 4.5,
+        "address": "Bukit Kerinchi, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0968742,
+        "longitude": 101.66156079999999
+    },
+    {
+        "category": "parks",
+        "title": "Sentul Park",
+        "rating": 4,
+        "address": "Sentul, 51100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1862882,
+        "longitude": 101.6867515
+    },
+    {
+        "category": "parks",
+        "title": "Lake Gardens Kuala Lumpur (Botanical Gardens)",
+        "rating": 4.6,
+        "address": "Jalan Kebun Bunga, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1465771,
+        "longitude": 101.6818206
+    },
+    {
+        "category": "parks",
+        "title": "Taman Tasik Ampang Hilir",
+        "rating": 4.3,
+        "address": "115, Jalan Ampang Hilir, Desa Pahlawan, 55000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1527694,
+        "longitude": 101.74340939999999
+    },
+    {
+        "category": "parks",
+        "title": "Bukit Kiara Federal Park",
+        "rating": 4.6,
+        "address": "78, Jln Abang Haji Openg, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1458554999999997,
+        "longitude": 101.6317531
+    },
+    {
+        "category": "parks",
+        "title": "Taman Pudu Ulu",
+        "rating": 4.3,
+        "address": "Jalan Pudu Ulu, Taman Pudu Hulu, 55300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.122784,
+        "longitude": 101.73093999999999
+    },
+    {
+        "category": "parks",
+        "title": "Merdeka Square",
+        "rating": 4.5,
+        "address": "Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1490605,
+        "longitude": 101.6936592
+    },
+    {
+        "category": "parks",
+        "title": "Deer Park",
+        "rating": 3.4,
+        "address": "Jalan Perdana, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1433369,
+        "longitude": 101.6854412
+    },
+    {
+        "category": "parks",
+        "title": "Datok Keramat Public City Park",
+        "rating": 4.4,
+        "address": "Kampung Datuk Keramat, 54000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1680869,
+        "longitude": 101.7343489
+    },
+    {
+        "category": "parks",
+        "title": "Lake Garden - Kuala Lumpur",
+        "rating": 4.8,
+        "address": "Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.143678,
+        "longitude": 101.686073
+    },
+    {
+        "category": "restaurants",
+        "title": "Irama Dining Kuala Lumpur",
+        "rating": 4.6,
+        "address": "No 66-68, Lot 2, Lorong Raja Chulan, Kuala Lumpur, 50200 Wilayah Persekutuan, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.150514,
+        "longitude": 101.70433399999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Beta KL",
+        "rating": 4.8,
+        "address": "Lot 163, 10, Jalan Perak, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1545842,
+        "longitude": 101.70909789999999
+    },
+    {
+        "category": "restaurants",
+        "title": "TAZYEEN Arabic and Mughlai Cuisine",
+        "rating": 4.7,
+        "address": "TAZYEEN Arabic and Mughal Cuisine Adjacent to City Central Hotel, 82, Jalan Tun Sambanthan, Brickfields, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1332524999999998,
+        "longitude": 101.6883283
+    },
+    {
+        "category": "restaurants",
+        "title": "PRIME , Le Méridien Kuala Lumpur",
+        "rating": 4.4,
+        "address": "2, Jalan Stesen Sentral, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1355923999999997,
+        "longitude": 101.6862869
+    },
+    {
+        "category": "restaurants",
+        "title": "De.Wan 1958 by Chef Wan",
+        "rating": 4.7,
+        "address": "The Linc, 360, Jln Tun Razak, Taman U Thant, 50400 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1596252999999996,
+        "longitude": 101.7207488
+    },
+    {
+        "category": "restaurants",
+        "title": "JP Teres",
+        "rating": 4.3,
+        "address": "Grand Hyatt Kuala Lumpur, 12, Jalan Pinang, Kuala Lumpur, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.153607,
+        "longitude": 101.712327
+    },
+    {
+        "category": "restaurants",
+        "title": "Makan Kitchen • DoubleTree by Hilton Kuala Lumpur",
+        "rating": 4.6,
+        "address": "Level 11, Makan Kitchen, DoubleTree by Hilton, The Intermark, 348, Jln Tun Razak, Kampung Datuk Keramat, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1608817,
+        "longitude": 101.7202951
+    },
+    {
+        "category": "restaurants",
+        "title": "Gajaa at 8 Indian Restaurant Kuala Lumpur",
+        "rating": 4.5,
+        "address": "No. 8, Lrg Maarof, Bangsar, 59000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1281271999999998,
+        "longitude": 101.6755757
+    },
+    {
+        "category": "restaurants",
+        "title": "Sambal Hijau Restaurant",
+        "rating": 4.1,
+        "address": "2990, Jalan Sungai Penchala, Sungai Penchala, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1624045,
+        "longitude": 101.62578579999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Congkak",
+        "rating": 4.1,
+        "address": "24, Jalan Beremi, Off, Jln Sultan Ismail, Bukit Bintang, 50200 Kuala Lumpur, Malaysia",
+        "latitude": 3.1479814999999998,
+        "longitude": 101.7102785
+    },
+    {
+        "category": "restaurants",
+        "title": "THIRTY8 Restaurant, Bar & Lounge",
+        "rating": 4.4,
+        "address": "Grand Hyatt Kuala Lumpur, 12, Jalan Pinang, Kuala Lumpur, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1536489999999997,
+        "longitude": 101.712305
+    },
+    {
+        "category": "restaurants",
+        "title": "JWALA",
+        "rating": 4.8,
+        "address": "E - 2 - 01, Level 2, Block E, The Five, Kompleks Pejabat Damansara, 49, Jalan Dungun, Bukit Damansara, 50490 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1510865999999997,
+        "longitude": 101.6643787
+    },
+    {
+        "category": "restaurants",
+        "title": "Sabayon at EQ",
+        "rating": 4.7,
+        "address": "Level 51, EQ, Equatorial Plaza, Jln Sultan Ismail, 50250 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1529181,
+        "longitude": 101.7097897
+    },
+    {
+        "category": "restaurants",
+        "title": "Bombay Talkies Restaurant",
+        "rating": 4.9,
+        "address": "OPP Nu Sentral Mall, 100, Jalan Tun Sambanthan, Brickfields, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1330513,
+        "longitude": 101.68802149999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Chynna",
+        "rating": 4.3,
+        "address": "Lobby Level, Hilton Kuala Lumpur, 3, Jalan Stesen Sentral, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1355333,
+        "longitude": 101.6861929
+    },
+    {
+        "category": "restaurants",
+        "title": "Al-Baik Di Bistro Restaurant",
+        "rating": 4.4,
+        "address": "3, Jalan Tun Tan Cheng Lock, Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1445632,
+        "longitude": 101.6959181
+    },
+    {
+        "category": "restaurants",
+        "title": "Kwee Zeen Restaurant",
+        "rating": 4.2,
+        "address": "Level G, Sofitel Kuala Lumpur Damansara, No. 6, Jalan Damanlela, Bukit Damansara, 50490 Kuala Lumpur, Malaysia",
+        "latitude": 3.14708,
+        "longitude": 101.661394
+    },
+    {
+        "category": "restaurants",
+        "title": "Gastro Sentral, Le Méridien Kuala Lumpur",
+        "rating": 4.3,
+        "address": "2, Jalan Stesen Sentral, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1357629,
+        "longitude": 101.68617239999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Dindigul Thalappakatti Restaurant",
+        "rating": 4.2,
+        "address": "130, Jalan Tun Sambanthan, Brickfields, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1322191,
+        "longitude": 101.6871997
+    },
+    {
+        "category": "restaurants",
+        "title": "Vasco's",
+        "rating": 4.1,
+        "address": "Level Lobby, 3, Jalan Stesen Sentral, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1355519,
+        "longitude": 101.6859526
+    },
+    {
+        "category": "cafes",
+        "title": "POKOK KL Cafe",
+        "rating": 4.1,
+        "address": "MAHSA Avenue (Jalan Universiti Campus), Block B, Level 1 Jalan Ilmu, off, Jln Profesor Diraja Ungku Aziz, 59100 Kuala Lumpur, Malaysia",
+        "latitude": 3.1181269,
+        "longitude": 101.64958809999999
+    },
+    {
+        "category": "cafes",
+        "title": "VCR",
+        "rating": 4.4,
+        "address": "2, Jalan Galloway, Bukit Bintang, 50150 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1432498,
+        "longitude": 101.7054472
+    },
+    {
+        "category": "cafes",
+        "title": "Merchant's Lane | Petaling Street Café",
+        "rating": 4.2,
+        "address": "150, Jalan Petaling, Kuala Lumpur City Centre, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1410206,
+        "longitude": 101.6980798
+    },
+    {
+        "category": "cafes",
+        "title": "leaf & co. cafe",
+        "rating": 4.3,
+        "address": "53, Jalan Sultan, Kuala Lumpur City Centre, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1429023999999997,
+        "longitude": 101.698858
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe:in House",
+        "rating": 4.7,
+        "address": "Unit 1-01, Mercu, Summer Suites, 8, Jalan Cendana, Kampung Baru, 50250 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1587837999999997,
+        "longitude": 101.70490129999999
+    },
+    {
+        "category": "cafes",
+        "title": "Antipodean @ Menara Tan & Tan",
+        "rating": 4.7,
+        "address": "Menara Tan & Tan, 207, Jln Tun Razak, Kuala Lumpur, 50400 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1562517,
+        "longitude": 101.7207705
+    },
+    {
+        "category": "cafes",
+        "title": "Monster. A Garden Cafe",
+        "rating": 4.5,
+        "address": "No. 54, 1st Floor, Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1434378,
+        "longitude": 101.6985584
+    },
+    {
+        "category": "cafes",
+        "title": "LOKL Coffee Co",
+        "rating": 4.4,
+        "address": "30, Jalan Tun H S Lee, Kuala Lumpur City Centre, 50100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1487312,
+        "longitude": 101.698003
+    },
+    {
+        "category": "cafes",
+        "title": "Feeka Coffee Roasters",
+        "rating": 4.4,
+        "address": "19, Jln Mesui, Bukit Bintang, 50200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1486848999999997,
+        "longitude": 101.70844819999999
+    },
+    {
+        "category": "cafes",
+        "title": "Naj & Belle Cafe Bangsar",
+        "rating": 4.5,
+        "address": "Jln Tandok, Bangsar, 59100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1240163,
+        "longitude": 101.6734307
+    },
+    {
+        "category": "cafes",
+        "title": "LostxFound Cafe - Top-rated hidden cafe in Kuala Lumpur",
+        "rating": 4.6,
+        "address": "37B, Medan Imbi, Pudu, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1445214999999997,
+        "longitude": 101.7149565
+    },
+    {
+        "category": "cafes",
+        "title": "Lim Kee Cafe",
+        "rating": 4.2,
+        "address": "66-68, Jalan Sultan, Kuala Lumpur City Centre, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.143779,
+        "longitude": 101.6985217
+    },
+    {
+        "category": "cafes",
+        "title": "Antipodean Cafe • Bangsar",
+        "rating": 4.7,
+        "address": "20, Jalan Telawi 2, Bangsar, 59100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1319811,
+        "longitude": 101.6718665
+    },
+    {
+        "category": "cafes",
+        "title": "Lisette's Café & Bakery @ Bangsar",
+        "rating": 4.2,
+        "address": "No. 8, Jalan Kemuja, Bangsar, 59000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1296548,
+        "longitude": 101.67984519999999
+    },
+    {
+        "category": "cafes",
+        "title": "Transparent Coffee",
+        "rating": 4.4,
+        "address": "Sam Mansion Flat, Jalan Tuba, Kampung Attap, 50460 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1386184,
+        "longitude": 101.6976742
+    },
+    {
+        "category": "cafes",
+        "title": "Piu Piu Piu Cafe",
+        "rating": 4.7,
+        "address": "80A, The ZhongShan Building, Jalan Rotan, Kampung Attap, 50460 Kuala Lumpur, Malaysia",
+        "latitude": 3.1378163,
+        "longitude": 101.69703849999999
+    },
+    {
+        "category": "cafes",
+        "title": "Kaffe 16",
+        "rating": 4.4,
+        "address": "Lot 16, Jalan Panggong, Kuala Lumpur City Centre, 50000 Wilayah Persekutuan, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1417072,
+        "longitude": 101.69718429999999
+    },
+    {
+        "category": "cafes",
+        "title": "Pause",
+        "rating": 4.4,
+        "address": "140, Jalan Choo Cheng Khay, Kampung Attap, 50460 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1361814999999997,
+        "longitude": 101.7025567
+    },
+    {
+        "category": "cafes",
+        "title": "AOOO Melbourne Cafe",
+        "rating": 4.6,
+        "address": "182-2, Jalan Tun H S Lee, Kuala Lumpur City Centre, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.143446,
+        "longitude": 101.6968899
+    },
+    {
+        "category": "cafes",
+        "title": "Bricks Factory Cafe",
+        "rating": 4.8,
+        "address": "274, Jalan Tun Sambanthan, Brickfields, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.128686,
+        "longitude": 101.68406829999999
+    },
+    {
+        "category": "mountains",
+        "title": "Salak Hill",
+        "rating": null,
+        "address": "57100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0833333,
+        "longitude": 101.69999999999999
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Dinding",
+        "rating": 4.6,
+        "address": "Setiawangsa, 54200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1833332999999997,
+        "longitude": 101.75
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Sungai Besi",
+        "rating": 4,
+        "address": "56000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0666667,
+        "longitude": 101.7333333
+    },
+    {
+        "category": "mountains",
+        "title": "Pudu Hill",
+        "rating": null,
+        "address": "Taman Bukit Ria, 55300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1166666999999997,
+        "longitude": 101.7333333
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Nanas",
+        "rating": 4.2,
+        "address": "Kuala Lumpur, 50250 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.15,
+        "longitude": 101.69999999999999
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Tabur",
+        "rating": 4.4,
+        "address": "53100, Selangor, Malaysia",
+        "latitude": 3.2347219999999997,
+        "longitude": 101.747778
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Sri Bintang Peak 1",
+        "rating": 4.5,
+        "address": "Bukit Prima Pelangi, 52200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1805345999999997,
+        "longitude": 101.6423391
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Kiara Hill Walk",
+        "rating": 4.7,
+        "address": "Changkat Abang Haji Openg, Bukit Kiara, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.145775,
+        "longitude": 101.63361289999999
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Kiara Downhill Mountain Bike Trail",
+        "rating": 4.7,
+        "address": "Bukit Kiara, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1515358,
+        "longitude": 101.6374639
+    },
+    {
+        "category": "mountains",
+        "title": "Sri Bintang Hill Trail",
+        "rating": 4.6,
+        "address": "Jalan 11/36, Taman Sri Bintang, 52200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1842127,
+        "longitude": 101.6437808
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Sapu Tangan",
+        "rating": 4.3,
+        "address": "40170 Shah Alam, Selangor, Malaysia",
+        "latitude": 3.1166666999999997,
+        "longitude": 101.5
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Takun",
+        "rating": 4.3,
+        "address": "48200, Selangor, Malaysia",
+        "latitude": 3.3033333,
+        "longitude": 101.63333329999999
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Kiara Peak",
+        "rating": 4.6,
+        "address": "5J5P+7C, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1582407,
+        "longitude": 101.6360047
+    },
+    {
+        "category": "mountains",
+        "title": "Keladi Trail",
+        "rating": 4.6,
+        "address": "Bukit Kiara Trail 2, Bukit Kiara, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1545891999999998,
+        "longitude": 101.6395184
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Tunggul",
+        "rating": 4.4,
+        "address": "43000, Selangor, Malaysia",
+        "latitude": 2.8733333,
+        "longitude": 101.74861109999999
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Guling Ayam",
+        "rating": 4,
+        "address": "Taman Bukit Sentosa, 53100, Selangor, Malaysia",
+        "latitude": 3.2333333,
+        "longitude": 101.71666669999999
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Unyang",
+        "rating": 4.7,
+        "address": "48000, Selangor, Malaysia",
+        "latitude": 3.3241666999999997,
+        "longitude": 101.62722219999999
+    },
+    {
+        "category": "mountains",
+        "title": "Gunung Bunga Buah",
+        "rating": 4.6,
+        "address": "48200, Selangor, Malaysia",
+        "latitude": 3.3744444,
+        "longitude": 101.74
+    },
+    {
+        "category": "mountains",
+        "title": "Bukit Lanjan",
+        "rating": 3.8,
+        "address": "Damansara Damai, 47810 Petaling Jaya, Selangor, Malaysia",
+        "latitude": 3.1833332999999997,
+        "longitude": 101.6
+    },
+    {
+        "category": "mountains",
+        "title": "Mount Nuang",
+        "rating": 4.7,
+        "address": "Hulu Langat, Selangor, Malaysia",
+        "latitude": 3.2666667,
+        "longitude": 101.89999999999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Kanching Falls",
+        "rating": 4.4,
+        "address": "48000, Selangor, Malaysia",
+        "latitude": 3.2998874999999996,
+        "longitude": 101.6192662
+    },
+    {
+        "category": "waterfalls",
+        "title": "Chiling waterfalls",
+        "rating": 4.3,
+        "address": "44000, Selangor, Malaysia",
+        "latitude": 3.5953062,
+        "longitude": 101.75086519999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Gabai River",
+        "rating": 4.2,
+        "address": "43100 Hulu Langat, Selangor, Malaysia",
+        "latitude": 3.1660920999999997,
+        "longitude": 101.9090289
+    },
+    {
+        "category": "lakes",
+        "title": "Danau Kota Lake",
+        "rating": 4.5,
+        "address": "Danau Kota, 53100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.2038276,
+        "longitude": 101.7185724
+    },
+    {
+        "category": "lakes",
+        "title": "Putrajaya Lake",
+        "rating": 4.6,
+        "address": "Presint 1, 62000 Putrajaya, Malaysia",
+        "latitude": 2.941942,
+        "longitude": 101.68911
+    },
+    {
+        "category": "lakes",
+        "title": "Simfoni Lake",
+        "rating": 4.8,
+        "address": "Kuala Lumpur City Centre, 50088 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.156422,
+        "longitude": 101.71314559999999
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Gardens Kuala Lumpur (Botanical Gardens)",
+        "rating": 4.6,
+        "address": "Jalan Kebun Bunga, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1465771,
+        "longitude": 101.6818206
+    },
+    {
+        "category": "lakes",
+        "title": "Tasik Perdana",
+        "rating": 4.5,
+        "address": "Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.141288,
+        "longitude": 101.6849483
+    },
+    {
+        "category": "lakes",
+        "title": "Tasik Titiwangsa",
+        "rating": 4.5,
+        "address": "Titiwangsa, 53200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1781112,
+        "longitude": 101.7064736
+    },
+    {
+        "category": "lakes",
+        "title": "Tasik University Malaya",
+        "rating": 4.8,
+        "address": "50603 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1191481,
+        "longitude": 101.65791449999999
+    },
+    {
+        "category": "lakes",
+        "title": "Perdana Botanical Gardens",
+        "rating": null,
+        "address": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.143678,
+        "longitude": 101.686073
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Garden - Kuala Lumpur",
+        "rating": 4.8,
+        "address": "Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.143678,
+        "longitude": 101.686073
+    },
+    {
+        "category": "lakes",
+        "title": "Perdana Botanical Garden",
+        "rating": 4.5,
+        "address": "Jalan Kebun Bunga, Perdana Botanical Gardens, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1429198,
+        "longitude": 101.6851495
+    },
+    {
+        "category": "lakes",
+        "title": "Permaisuri Lake Garden",
+        "rating": 4.4,
+        "address": "Jalan Tasik Permaisuri 2, Bandar Tun Razak, 56000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0980475,
+        "longitude": 101.71904239999999
+    },
+    {
+        "category": "lakes",
+        "title": "Pandan Perdana Lake",
+        "rating": 4.2,
+        "address": "Jln Perdana 3/10, Pandan Perdana, 55300 Kuala Lumpur, Selangor, Malaysia",
+        "latitude": 3.1181289999999997,
+        "longitude": 101.74336079999999
+    },
+    {
+        "category": "lakes",
+        "title": "Taman Tasik Metropolitan Kepong",
+        "rating": 4.3,
+        "address": "Jalan Lingkaran Tengah 2, 7, Pavement, Taman Metropolitan Kepong, 52100 Kepong, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.2270827,
+        "longitude": 101.6488787
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Garden @ Bangsar South",
+        "rating": 4.4,
+        "address": "Bangsar South, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1117648,
+        "longitude": 101.6665649
+    },
+    {
+        "category": "lakes",
+        "title": "Tasik Biru Seri Kundang",
+        "rating": 4.3,
+        "address": "48050, Selangor, Malaysia",
+        "latitude": 3.2513555,
+        "longitude": 101.525516
+    },
+    {
+        "category": "lakes",
+        "title": "Taman Tasik Ampang Hilir",
+        "rating": 4.3,
+        "address": "115, Jalan Ampang Hilir, Desa Pahlawan, 55000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1527694,
+        "longitude": 101.74340939999999
+    },
+    {
+        "category": "lakes",
+        "title": "Royal Lake Club",
+        "rating": 4.3,
+        "address": "Jalan Cenderamulia, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1468722,
+        "longitude": 101.68343829999999
+    },
+    {
+        "category": "lakes",
+        "title": "Symphony Lake Water Show",
+        "rating": 4.4,
+        "address": "Simfoni Lake, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1566020999999997,
+        "longitude": 101.7129144
+    },
+    {
+        "category": "lakes",
+        "title": "Lake",
+        "rating": null,
+        "address": "2, Jln Rejang 15, Setapak Jaya, 53300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1931184,
+        "longitude": 101.727797
+    },
+    {
+        "category": "lakes",
+        "title": "Taman Tasik Danau Kota",
+        "rating": 4.5,
+        "address": "Jalan Genting Kelang, Danau Kota, 53300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.2021037999999997,
+        "longitude": 101.71979499999999
+    },
+    {
+        "category": "beaches",
+        "title": "Tenggol Island Beach Resort KL Office",
+        "rating": 4.3,
+        "address": "110B, Jalan Cerdas, Taman Connaught Cheras, 46000, Kuala Lumpur, Selangor, 56000, Malaysia",
+        "latitude": 3.0814288999999997,
+        "longitude": 101.7354182
+    },
+    {
+        "category": "beaches",
+        "title": "Pantai Peranginan Bagan Lalang",
+        "rating": 3.9,
+        "address": "Bagan Lalang, 43950 Tanjong Sepat, Selangor, Malaysia",
+        "latitude": 2.6059793,
+        "longitude": 101.69259729999999
+    },
+    {
+        "category": "beaches",
+        "title": "Rawa Island Beach",
+        "rating": 4.7,
+        "address": "South China Sea, Malaysia",
+        "latitude": 5.9619259,
+        "longitude": 102.6819905
+    },
+    {
+        "category": "beaches",
+        "title": "Pantai Batu Laut",
+        "rating": 4.2,
+        "address": "5, Kampung Batu Lapan, Tanjong Sepat, Selangor, Malaysia",
+        "latitude": 2.6752301,
+        "longitude": 101.515435
+    },
+    {
+        "category": "beaches",
+        "title": "KL BEACH @ Combat Baze",
+        "rating": 5,
+        "address": "Combat Shooting Club (Coming Soon), Jalan Lapangan Terbang Lama, Royal Malaysian Air Force Base, 50460 Wilayah Persekutuan, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1175702,
+        "longitude": 101.7008441
+    },
+    {
+        "category": "beaches",
+        "title": "Tanjung Aru Beach",
+        "rating": 4.3,
+        "address": "Tanjung Aru Beach Resort, Tanjung Aru, 88100 Kota Kinabalu, Sabah, Malaysia",
+        "latitude": 5.947426699999999,
+        "longitude": 116.0468751
+    },
+    {
+        "category": "beaches",
+        "title": "Kuala Lumpur",
+        "rating": null,
+        "address": "50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1540293,
+        "longitude": 101.6869049
+    },
+    {
+        "category": "beaches",
+        "title": "Langkawi Island Resort Sdn Bhd",
+        "rating": 4.5,
+        "address": "129, Jln Sultan Ismail, Chow Kit, 50250 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1586824,
+        "longitude": 101.7000157
+    },
+    {
+        "category": "beaches",
+        "title": "Kuala Lumpur International Airport",
+        "rating": 4.2,
+        "address": "64000 Sepang, Selangor, Malaysia",
+        "latitude": 2.7417476,
+        "longitude": 101.7015569
+    },
+    {
+        "category": "beaches",
+        "title": "BuBu Resort Main Office",
+        "rating": 4.1,
+        "address": "4th Floor, Wisma Sin Heap Lee, No 346, Jln Tun Razak, Kampung Datuk Keramat, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1622771999999997,
+        "longitude": 101.71949359999999
+    },
+    {
+        "category": "beaches",
+        "title": "Pangkor Coral Bay Resort @ Kuala Lumpur",
+        "rating": 4.5,
+        "address": "61-1, Jalan Mega Mendung, Kompleks Bandar, Batu 5, Jalan Klang Lama, 58200, Kuala Lumpur, WP Kuala Lumpur, 58100, Malaysia",
+        "latitude": 3.1036927999999997,
+        "longitude": 101.6771957
+    },
+    {
+        "category": "swimming pools",
+        "title": "Arena Sukan Kuala Lumpur",
+        "rating": 4.9,
+        "address": "210, Jalan Ayer Jerneh, Mukim, Setapak, 53200 Kuala Lumpur, Malaysia",
+        "latitude": 3.1929593,
+        "longitude": 101.7171523
+    },
+    {
+        "category": "swimming pools",
+        "title": "KLCC Swimming Pool",
+        "rating": 4.7,
+        "address": "Petronas Twin Tower, Hampshire Park, 50088 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1556256,
+        "longitude": 101.71441879999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Chin Woo Stadium",
+        "rating": 4,
+        "address": "Stadium Chinwoo, Jalan Hang Jebat, Kuala Lumpur City Centre, 50150 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1409102,
+        "longitude": 101.6994383
+    },
+    {
+        "category": "swimming pools",
+        "title": "Happy Fish Home @ Mont Kiara 163",
+        "rating": 4.9,
+        "address": "Lot 3F-03A, Jalan Kiara, Mont Kiara, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1665142,
+        "longitude": 101.65207919999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "National Aquatic Centre",
+        "rating": 4.2,
+        "address": "Level 3, National Aquatic Centre, Bukit Jalil, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.0551757,
+        "longitude": 101.69307669999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "RNJ SWIMMING ACADMEY (KEPONG BRANCH) (formerly known as Swim Splash Academy)",
+        "rating": 4.8,
+        "address": "Lot 11&12, PT 19681, Jalan 2, Taman Kepong, 52100 Kuala Lumpur, Malaysia",
+        "latitude": 3.2090424,
+        "longitude": 101.6312447
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kompleks Sukan Setiawangsa",
+        "rating": 4.3,
+        "address": "Jalan 6/27a, Wangsa Maju, 53300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1999971,
+        "longitude": 101.7508482
+    },
+    {
+        "category": "swimming pools",
+        "title": "Splashtastik KL",
+        "rating": 4.7,
+        "address": "BB Sports Park, Jalan Melawati 3, Taman Melawati, 53100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.2200447999999997,
+        "longitude": 101.7415221
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimin12 Swim School",
+        "rating": 4.8,
+        "address": "Kolam Renang University Malaya, 833, Lingkungan Budi, 50603 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1287083,
+        "longitude": 101.659973
+    },
+    {
+        "category": "swimming pools",
+        "title": "IIUM Male Swimming Pool",
+        "rating": 4.3,
+        "address": "Jalan Al Jamiah, 53100 Kuala Lumpur, Selangor, Malaysia",
+        "latitude": 3.2502788999999996,
+        "longitude": 101.74063199999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kolam Renang Universiti Malaya",
+        "rating": 4.2,
+        "address": "833, Lingkungan Budi, 50603 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.128752,
+        "longitude": 101.65974179999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kompleks Sukan Bangsar",
+        "rating": 4.1,
+        "address": "3, Jalan Terasek 3, Bangsar, 59100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1335862999999997,
+        "longitude": 101.6674503
+    },
+    {
+        "category": "swimming pools",
+        "title": "All Blue Swimming Academy",
+        "rating": 5,
+        "address": "40-G, Jalan Metro Perdana Timur 2 Taman Usahawan Kepong, Pekan Kepong, 52100 Kuala Lumpur, Malaysia",
+        "latitude": 3.2138155,
+        "longitude": 101.6464824
+    },
+    {
+        "category": "swimming pools",
+        "title": "TAR UMT Swimming Pool",
+        "rating": 4.8,
+        "address": "53100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.2176403,
+        "longitude": 101.7298623
+    },
+    {
+        "category": "swimming pools",
+        "title": "Dory Swim (Cheras Branch)",
+        "rating": 4.7,
+        "address": "20, Jalan Kilang Midah, Taman Midah, 56000 Cheras, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0887626999999998,
+        "longitude": 101.7269802
+    },
+    {
+        "category": "swimming pools",
+        "title": "Finns Boutique Swim Centre(KLCC)",
+        "rating": 4.7,
+        "address": "19, Jalan Damai, Kampung Datuk Keramat, 55000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1648883,
+        "longitude": 101.717265
+    },
+    {
+        "category": "swimming pools",
+        "title": "D Swim Academy - Kampung Pandan",
+        "rating": 3.9,
+        "address": "Jalan Perwira, Kampung Pandan, 51200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1381918,
+        "longitude": 101.7285289
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kompleks Sukan Desa Tasik",
+        "rating": 3.9,
+        "address": "Jalan 20A, 146, Sungai Besi, Taman Desa Tasek, 57000 Kuala Lumpur, Malaysia",
+        "latitude": 3.0713654999999997,
+        "longitude": 101.7141082
+    },
+    {
+        "category": "swimming pools",
+        "title": "Malaysia Paralympic Sports Excellence Centre",
+        "rating": 4.3,
+        "address": "Jalan Perwira, Kampung Pandan, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1381934,
+        "longitude": 101.7289151
+    },
+    {
+        "category": "swimming pools",
+        "title": "D Swim Academy - Bukit Jalil",
+        "rating": 4.2,
+        "address": "Level 3, Sports City, National Aquatic Centre, Jalan Merah Caga, Bukit Jalil, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.0560780999999997,
+        "longitude": 101.6930119
+    },
+    {
+        "category": "resorts",
+        "title": "Grand Hyatt Kuala Lumpur",
+        "rating": 4.6,
+        "address": "12, Jalan Pinang, Kuala Lumpur, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1536085999999997,
+        "longitude": 101.7121614
+    },
+    {
+        "category": "resorts",
+        "title": "Villa Samadhi Kuala Lumpur",
+        "rating": 4.7,
+        "address": "8, Jalan Madge, Taman U Thant, 55000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1563578,
+        "longitude": 101.7261398
+    },
+    {
+        "category": "resorts",
+        "title": "W Kuala Lumpur",
+        "rating": 4.7,
+        "address": "121, Jln Ampang, Kuala Lumpur, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.158464,
+        "longitude": 101.7094092
+    },
+    {
+        "category": "resorts",
+        "title": "Mandarin Oriental, Kuala Lumpur",
+        "rating": 4.6,
+        "address": "Kuala Lumpur City Centre, 50088 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1557926999999997,
+        "longitude": 101.7119498
+    },
+    {
+        "category": "resorts",
+        "title": "Banyan Tree Kuala Lumpur",
+        "rating": 4.7,
+        "address": "2, Jalan Conlay, Kuala Lumpur, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1504944,
+        "longitude": 101.7137683
+    },
+    {
+        "category": "resorts",
+        "title": "Shangri-La Kuala Lumpur",
+        "rating": 4.6,
+        "address": "11, Jln Sultan Ismail, Kuala Lumpur, 50250 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1540773,
+        "longitude": 101.7063403
+    },
+    {
+        "category": "resorts",
+        "title": "Hyatt House Kuala Lumpur, Mont Kiara",
+        "rating": 4.3,
+        "address": "G-2 Arcoris, 10, Jalan Kiara, Mont Kiara, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1676423999999996,
+        "longitude": 101.65223809999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Ritz-Carlton, Kuala Lumpur",
+        "rating": 4.5,
+        "address": "168, Jln Imbi, Pudu, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1469196,
+        "longitude": 101.7153713
+    },
+    {
+        "category": "resorts",
+        "title": "Royale Chulan Kuala Lumpur",
+        "rating": 4.2,
+        "address": "5, Jalan Conlay, Kuala Lumpur, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1492587999999997,
+        "longitude": 101.7170562
+    },
+    {
+        "category": "resorts",
+        "title": "Renaissance Kuala Lumpur Hotel & Convention Centre",
+        "rating": 4.3,
+        "address": "Corner Of Jalan Sultan Ismail, &, Jln Ampang, 50450 Kuala Lumpur, Malaysia",
+        "latitude": 3.1572521,
+        "longitude": 101.70510019999999
+    },
+    {
+        "category": "resorts",
+        "title": "Berjaya Times Square Hotel, Kuala Lumpur",
+        "rating": 4.3,
+        "address": "Berjaya Times Square, 1, Jalan Imbi, Hotel, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1421189,
+        "longitude": 101.7095374
+    },
+    {
+        "category": "resorts",
+        "title": "RUSTCAMPS RESORT",
+        "rating": 4.5,
+        "address": "LOT 12184, Genting view resort, Genting Permai, 69000 Genting Highlands, Pahang, Malaysia",
+        "latitude": 3.3834095,
+        "longitude": 101.7742739
+    },
+    {
+        "category": "resorts",
+        "title": "Oasia Suites Kuala Lumpur, Malaysia by Far East Hospitality",
+        "rating": 4.2,
+        "address": "10, Lorong P Ramlee, Kuala Lumpur, 50250 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1530913999999997,
+        "longitude": 101.70519829999999
+    },
+    {
+        "category": "resorts",
+        "title": "M Resort & Hotel Kuala Lumpur",
+        "rating": 4.2,
+        "address": "Jln Damansara, Bukit Kiara, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1298417,
+        "longitude": 101.6445145
+    },
+    {
+        "category": "resorts",
+        "title": "JW Marriott Hotel Kuala Lumpur",
+        "rating": 4.5,
+        "address": "183, Bukit Bintang Rd, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1477847,
+        "longitude": 101.7138854
+    },
+    {
+        "category": "resorts",
+        "title": "Upper View Regalia Hotel",
+        "rating": 4,
+        "address": "No. 2, Jalan Anjung Putra, Off, Jln Sultan Ismail, 50480, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.164323,
+        "longitude": 101.69267889999999
+    },
+    {
+        "category": "resorts",
+        "title": "Four Seasons Hotel Kuala Lumpur",
+        "rating": 4.6,
+        "address": "145, Jln Ampang, Kuala Lumpur, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1579080999999998,
+        "longitude": 101.71361209999999
+    },
+    {
+        "category": "resorts",
+        "title": "Expressionz KLCC by Wodages",
+        "rating": 3.6,
+        "address": "No. 30, Expressionz Professional Suites, Jalan Tun Razak, Jalan, 1/65A, 50400 Kuala Lumpur, Malaysia",
+        "latitude": 3.1715188999999997,
+        "longitude": 101.7120338
+    },
+    {
+        "category": "resorts",
+        "title": "STEG Kuala Lumpur",
+        "rating": 4.5,
+        "address": "51, Jalan Tiong Nam, Off, Jln Raja Laut, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1634659999999997,
+        "longitude": 101.6952888
+    },
+    {
+        "category": "resorts",
+        "title": "Flixses Suites at Platinum KLCC",
+        "rating": 3.7,
+        "address": "D16-2, Flixses Suites at platinum klcc, Jln Sultan Ismail, City Centre, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.158509,
+        "longitude": 101.7038472
+    },
+    {
+        "category": "camping sites",
+        "title": "FRIM Camping Area",
+        "rating": 4.5,
+        "address": "343, Jalan Foxworthy, Forest Research Institute Malaysia (FRIM), 52100 Kuala Lumpur, Selangor, Malaysia",
+        "latitude": 3.2380126999999996,
+        "longitude": 101.62608829999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Dangau Jungle Herb Sauna & Taman Melawati Campsite",
+        "rating": 4.1,
+        "address": "53100, Jalan Kampung, Warisan Cityview, 53100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.2326829,
+        "longitude": 101.7492412
+    },
+    {
+        "category": "camping sites",
+        "title": "Rumah Kebun Camping Ground (RKCG)",
+        "rating": 4.7,
+        "address": "Batu 14, Kampung Sungai Semungkis, 43100 Hulu Langat, Selangor, Malaysia",
+        "latitude": 3.1658415,
+        "longitude": 101.8259223
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Lù Yīng",
+        "rating": 4.8,
+        "address": "Kampung Bukit Tinggi, 28750 Bentong, Pahang, Malaysia",
+        "latitude": 3.3715097999999997,
+        "longitude": 101.81431529999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Kuala Kubu Baru Wind Valley Camping Site 新古毛风之谷露营地",
+        "rating": 4.5,
+        "address": "Malaysia, Selangor, Kuala Kubu Bharu, 邮政编码: 44000",
+        "latitude": 3.5346089,
+        "longitude": 101.6656758
+    },
+    {
+        "category": "camping sites",
+        "title": "SIR Camping Site",
+        "rating": 4.2,
+        "address": "Lot 8536, Kuala Lurah, Kampung Janda Baik, 28750 Bentong, Pahang, Malaysia",
+        "latitude": 3.307372,
+        "longitude": 101.8762893
+    },
+    {
+        "category": "camping sites",
+        "title": "KENABOI ADVENTURE CAMP",
+        "rating": 4.3,
+        "address": "Jln Kampong Ulu Kenaboi, 71650 Kuala Klawang, Negeri Sembilan, Malaysia",
+        "latitude": 3.1357041,
+        "longitude": 102.03911
+    },
+    {
+        "category": "camping sites",
+        "title": "Campsite - Resort Taman Eko Rimba Komanwel",
+        "rating": 4.4,
+        "address": "Lagong Forest Reserve, KM 23, Jalan Rawang, Compartment 3, 48000 Rawang, Selangor, Malaysia",
+        "latitude": 3.2892873999999996,
+        "longitude": 101.6162246
+    },
+    {
+        "category": "camping sites",
+        "title": "YAKA Campsite",
+        "rating": 4.5,
+        "address": "Jln Broga, 71750 Lenggeng, Negeri Sembilan, Malaysia",
+        "latitude": 2.9101817,
+        "longitude": 101.92112589999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Adventure By The River Kerling",
+        "rating": 4.8,
+        "address": "Jalan Berlian Utama, 44100 Kerling, Selangor, Malaysia",
+        "latitude": 3.6130039,
+        "longitude": 101.6095708
+    },
+    {
+        "category": "camping sites",
+        "title": "H&n Campsite",
+        "rating": 4.4,
+        "address": "LOT 1341, Jalan Pantai, BATU 4, 71000 Port Dickson, Negeri Sembilan, Malaysia",
+        "latitude": 2.4971365,
+        "longitude": 101.8378573
+    },
+    {
+        "category": "camping sites",
+        "title": "Ketumbar Hill Top Camp",
+        "rating": 4.4,
+        "address": "56100 Hulu Langat, Selangor, Malaysia",
+        "latitude": 3.1002970999999997,
+        "longitude": 101.75627329999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Kem Perah FRIM",
+        "rating": 4.5,
+        "address": "FRIM Kepong, 52109 Kepong, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.2320051,
+        "longitude": 101.6270053
+    },
+    {
+        "category": "camping sites",
+        "title": "ATV Janda Baik @ Rimba Valley Campsite",
+        "rating": 4.8,
+        "address": "PT 22066 Jalan Ulu Benus Janda Baik, 28750 Bentong, Pahang, Malaysia",
+        "latitude": 3.3056886,
+        "longitude": 101.8929228
+    },
+    {
+        "category": "camping sites",
+        "title": "KV@KEMENSAH VALLEY RECREATION & CHALET",
+        "rating": 4,
+        "address": "Jalan Kg Orang Asli, Kg Kemensah, 68000 Ampang Jaya, Selangor, Malaysia",
+        "latitude": 3.2224939,
+        "longitude": 101.77896609999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Air Luit Pertak camping site",
+        "rating": 4.8,
+        "address": "Jalan Pertak - Pahang Pertak, 44000 Kuala Kubu Baru, Selangor, Malaysia",
+        "latitude": 3.568813,
+        "longitude": 101.7396017
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Know Where 2.0",
+        "rating": 4.5,
+        "address": "Pt 132, 44000 Kuala Kubu Baru, Selangor, Malaysia",
+        "latitude": 3.5530790999999997,
+        "longitude": 101.68435529999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Hammocks By The River",
+        "rating": 4.3,
+        "address": "Lot 617, Jalan Sungai Makau, Batu 14 Hulu Langat, 47310 Hulu Langat, Selangor, Malaysia",
+        "latitude": 3.1212503999999996,
+        "longitude": 101.82627409999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Ali River Campsite Kerling",
+        "rating": 4.3,
+        "address": "Kampung Air Panas, 44000 Kerling, Selangor, Malaysia",
+        "latitude": 3.6182874999999997,
+        "longitude": 101.6111145
+    },
+    {
+        "category": "camping sites",
+        "title": "Freezy68",
+        "rating": 4.5,
+        "address": "68, Jln Gombak, 68100 Batu Caves, Selangor, Malaysia",
+        "latitude": 3.331261,
+        "longitude": 101.7735582
+    },
+    {
+        "category": "hiking trails",
+        "title": "Sri Bintang Hill Trail",
+        "rating": 4.6,
+        "address": "Jalan 11/36, Taman Sri Bintang, 52200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1842127,
+        "longitude": 101.6437808
+    },
+    {
+        "category": "hiking trails",
+        "title": "Kerinchi Hill Forest Park",
+        "rating": 4.5,
+        "address": "Bukit Kerinchi, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0968742,
+        "longitude": 101.66156079999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ketumbar Hill",
+        "rating": 4.5,
+        "address": "Jalan Ketumbar, Taman Cheras, 56100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1030065,
+        "longitude": 101.7531968
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bukit Kiara Hill Walk",
+        "rating": 4.7,
+        "address": "Changkat Abang Haji Openg, Bukit Kiara, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.145775,
+        "longitude": 101.63361289999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bukit Besi Trailhead",
+        "rating": 4.4,
+        "address": "1, Jalan Alam Damai, Alam Damai, 56000 Cheras, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0755504,
+        "longitude": 101.7363733
+    },
+    {
+        "category": "hiking trails",
+        "title": "Taman Tugu Hike Trails",
+        "rating": 4.8,
+        "address": "94-1, Pesiaran Sultan Salahuddin, Kuala Lumpur, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1518862999999997,
+        "longitude": 101.68364509999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "KL East Park",
+        "rating": 4.1,
+        "address": "East, Lot 201064, Jalan Melati Kuarza 3, 53100 Kuala Lumpur, Malaysia",
+        "latitude": 3.2281093,
+        "longitude": 101.7325187
+    },
+    {
+        "category": "hiking trails",
+        "title": "Hutan Pendidikan Bukit Gasing",
+        "rating": 4.5,
+        "address": "Bukit Gasing, 46000 Petaling Jaya, Selangor, Malaysia",
+        "latitude": 3.0955556,
+        "longitude": 101.6588889
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bukit Kiara Trail - Sri Hartamas",
+        "rating": 4.5,
+        "address": "Bukit Kiara Trail, Bukit Kiara, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1556954,
+        "longitude": 101.642983
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bukit Sri Bintang Peak 1",
+        "rating": 4.5,
+        "address": "Bukit Prima Pelangi, 52200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1805345999999997,
+        "longitude": 101.6423391
+    },
+    {
+        "category": "hiking trails",
+        "title": "Hiking Trail",
+        "rating": 4.3,
+        "address": "Taman Botani Frim, 68100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.2276295999999998,
+        "longitude": 101.62380139999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bukit Dinding Hiking Trail",
+        "rating": 4.6,
+        "address": "Waizuri 1, Seksyen 5 Wangsa Maju, 54200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1931727999999997,
+        "longitude": 101.74637399999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bukit Kiara Federal Park",
+        "rating": 4.6,
+        "address": "78, Jln Abang Haji Openg, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1458554999999997,
+        "longitude": 101.6317531
+    },
+    {
+        "category": "hiking trails",
+        "title": "Pakis Trail",
+        "rating": 4.6,
+        "address": "Bukit Kiara, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1544037,
+        "longitude": 101.6368822
+    },
+    {
+        "category": "hiking trails",
+        "title": "TTDI Park",
+        "rating": 4.5,
+        "address": "Jln Abang Haji Openg, Ttdi Hills, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1472949,
+        "longitude": 101.6319335
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "KL Bird Park",
+        "rating": 4.4,
+        "address": "920, Jalan Cenderawasih, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.143164,
+        "longitude": 101.6884845
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Menara Kuala Lumpur",
+        "rating": 4.5,
+        "address": "2 Jalan Punchak, Off, Jalan P. Ramlee, 50250 Kuala Lumpur, Malaysia",
+        "latitude": 3.1528761999999997,
+        "longitude": 101.7038516
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Perdana Botanical Garden",
+        "rating": 4.5,
+        "address": "Jalan Kebun Bunga, Perdana Botanical Gardens, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1429198,
+        "longitude": 101.6851495
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "KLCC Park",
+        "rating": 4.6,
+        "address": "City Centre, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1555902,
+        "longitude": 101.71478719999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Taman Orkid Kuala Lumpur",
+        "rating": 4.1,
+        "address": "Jalan Cendearawashi, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.14395,
+        "longitude": 101.68772
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Orchid & Hibiscus Gardens",
+        "rating": 4.1,
+        "address": "Jalan Perdana, Taman Tasik Perdana, Wilayah Persekutuan, 50480 Kuala Lumpur, Malaysia",
+        "latitude": 3.1440058,
+        "longitude": 101.687238
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Resorts World Genting",
+        "rating": 4.4,
+        "address": "Genting Highlands, 69000 Genting Highlands, Pahang, Malaysia",
+        "latitude": 3.4235070999999997,
+        "longitude": 101.7939901
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Taman Negara",
+        "rating": 4.4,
+        "address": "Pahang, Malaysia",
+        "latitude": 4.6360079999999995,
+        "longitude": 102.40691799999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Taman Rimba Templer",
+        "rating": 4.1,
+        "address": "48200 Rawang, Selangor, Malaysia",
+        "latitude": 3.2863498,
+        "longitude": 101.6423531
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Taman Eko Rimba, Sungai Tua",
+        "rating": 4.3,
+        "address": "B23 Jalan Hulu Yam Bharu - Batu Caves, 68100 Batu Caves, Selangor, Malaysia",
+        "latitude": 3.314908,
+        "longitude": 101.698364
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ulu Batu Valley",
+        "rating": 4.5,
+        "address": "48200, Selangor, Malaysia",
+        "latitude": 3.3398621,
+        "longitude": 101.70251479999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Bukit Jalil Recreational Park",
+        "rating": 4.4,
+        "address": "Jalan 13/155c, Bukit Jalil, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0522221999999997,
+        "longitude": 101.6755556
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "PD Forest Sg Menyala",
+        "rating": 4.7,
+        "address": "N8, 71000 Si Rusa, Negeri Sembilan, Malaysia",
+        "latitude": 2.4945852,
+        "longitude": 101.8889548
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Kuala Lumpur Eco Park",
+        "rating": 4.1,
+        "address": "Kuala Lumpur, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1506078,
+        "longitude": 101.70225599999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Road Side Free Drinking Water Source (Ulu Yam)",
+        "rating": 4.7,
+        "address": "B23 Jalan Hulu Yam Bharu - Batu Caves, 68100 Batu Caves, Selangor, Malaysia",
+        "latitude": 3.3493275,
+        "longitude": 101.6984516
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Taman Negeri Selangor",
+        "rating": 4.1,
+        "address": "Jalan Sungai Tua, Ulu Yam, 48200 Batu Caves, Selangor, Malaysia",
+        "latitude": 3.311927,
+        "longitude": 101.698036
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "KL-View in Ampang",
+        "rating": 4.5,
+        "address": "jalan bukit, Jalan Hulu Langat, Kampung Tasek Permai, 68000 Ampang, Selangor, Malaysia",
+        "latitude": 3.1258679999999996,
+        "longitude": 101.7870081
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ulu Yam Waterfall",
+        "rating": 4.2,
+        "address": "B23 Jalan Hulu Yam Bharu - Batu Caves, 68100 Batu Caves, Selangor, Malaysia",
+        "latitude": 3.3320002,
+        "longitude": 101.7016689
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "KL Forest Eco Park",
+        "rating": 4,
+        "address": "Kuala Lumpur, 50250 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1540854,
+        "longitude": 101.7026576
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "MAEPS Serdang",
+        "rating": 4.3,
+        "address": "Taman Ekspo Pertanian Malaysia Serdang (MAEPS Persiaran MARDI - UPM Serdang, 43400 Seri Kembangan, Selangor, Malaysia",
+        "latitude": 2.9795327,
+        "longitude": 101.69763619999999
+    },
+    {
+        "category": "temples",
+        "title": "Sree Veera Hanuman Temple",
+        "rating": 4.9,
+        "address": "Jalan Scott, Brickfields, 50470 Kuala Lumpur, Wilayah Persekutuan, Malaysia",
+        "latitude": 3.1352156,
+        "longitude": 101.69240819999999
+    },
+    {
+        "category": "temples",
+        "title": "Sri Maha Mariamman Temple",
+        "rating": 4.4,
+        "address": "163, Jalan Tun H S Lee, Kuala Lumpur City Centre, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1433850999999997,
+        "longitude": 101.6964976
+    },
+    {
+        "category": "temples",
+        "title": "Sri Thandayuthapani Temple Sentul",
+        "rating": 4.7,
+        "address": "332, Jalan Sultan Azlan Shah, Formerly, Jalan Ipoh, 51200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1763786,
+        "longitude": 101.6875432
+    },
+    {
+        "category": "temples",
+        "title": "Thean Hou Temple",
+        "rating": 4.6,
+        "address": "65, Persiaran Endah, Taman Persiaran Desa, 50460 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1219525,
+        "longitude": 101.6876678
+    },
+    {
+        "category": "temples",
+        "title": "Shree Lakshmi Narayan Mandir",
+        "rating": 4.7,
+        "address": "Lot 68, 69, Jalan Kasipillay, Kampung Kasipillay, 51200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1745411999999997,
+        "longitude": 101.6836111
+    },
+    {
+        "category": "temples",
+        "title": "Arulmigu Sri Ramalingeswarar Temple",
+        "rating": 4.8,
+        "address": "16, Jalan Maarof, Bangsar, 59000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1263889,
+        "longitude": 101.6761111
+    },
+    {
+        "category": "temples",
+        "title": "Court Hill Sri Ganesar Temple",
+        "rating": 4.8,
+        "address": "9, Jalan Pudu Lama, Bukit Bintang, 50200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1467441999999997,
+        "longitude": 101.7005964
+    },
+    {
+        "category": "temples",
+        "title": "Sri Maha Kaliamman Temple Sentul Timur செந்துல் அருள்மிகு தேவி ஸ்ரீ மஹா காளியம்மன் ஆலயம்",
+        "rating": 4.8,
+        "address": "Jalan 4/48A, Bandar Baru Sentul, 51000 Sentul, Kuala Lumpur, 51000, Malaysia",
+        "latitude": 3.1840119,
+        "longitude": 101.6951521
+    },
+    {
+        "category": "temples",
+        "title": "Sri Kandaswamy Temple",
+        "rating": 4.6,
+        "address": "3, Jalan Tebing, Brickfields, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1338597999999998,
+        "longitude": 101.6934287
+    },
+    {
+        "category": "temples",
+        "title": "Guan Di Temple Chinatown Tun H.S Lee",
+        "rating": 4.5,
+        "address": "168, Jalan Tun H S Lee, Kuala Lumpur City Centre, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1440375,
+        "longitude": 101.69673159999999
+    },
+    {
+        "category": "temples",
+        "title": "Sin Sze Si Ya Temple",
+        "rating": 4.4,
+        "address": "113A, Jalan Tun H S Lee, Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1455461,
+        "longitude": 101.6964474
+    },
+    {
+        "category": "temples",
+        "title": "Batu Caves",
+        "rating": 4.4,
+        "address": "Gombak, 68100 Batu Caves, Selangor, Malaysia",
+        "latitude": 3.2378844,
+        "longitude": 101.6840385
+    },
+    {
+        "category": "temples",
+        "title": "Sri Lanka Buddhist Temple Sentul",
+        "rating": 4.7,
+        "address": "Jalan Tujuh, Sentul Selatan, 51000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1829482,
+        "longitude": 101.69431829999999
+    },
+    {
+        "category": "temples",
+        "title": "ISKCON - Sri Jagannatha Mandir",
+        "rating": 4.8,
+        "address": "9901, Jalan Awan Jawa, Taman Yarl, Off Old Klang Road, 58200 Kuala Lumpur, Malaysia",
+        "latitude": 3.0753182999999997,
+        "longitude": 101.6666183
+    },
+    {
+        "category": "temples",
+        "title": "Sri Subramaniar Swamy Temple",
+        "rating": 4.5,
+        "address": "Kawasan industrial Batu Caves, 68100 Batu Caves, Selangor, Malaysia",
+        "latitude": 3.2370242,
+        "longitude": 101.6839365
+    },
+    {
+        "category": "temples",
+        "title": "Sri Muthu Mariamman Temple",
+        "rating": 4.4,
+        "address": "Lot 96A, Jalan Pantai Baru, Off Pantai Dalam, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1154621,
+        "longitude": 101.6717697
+    },
+    {
+        "category": "temples",
+        "title": "Sri Nageswari Amman Temple",
+        "rating": 4.9,
+        "address": "Jalan Lengkok Abdullah Off Jalan Bangsar, Wilayah Persekutuan, 59000 Kuala Lumpur, Malaysia",
+        "latitude": 3.1301319999999997,
+        "longitude": 101.67788999999999
+    },
+    {
+        "category": "temples",
+        "title": "Sri Sivan Alayam Brickfields • ஸ்ரீ சிவன் ஆலயம்",
+        "rating": 4.6,
+        "address": "199, Jln Sultan Abdul Samad, Brickfields, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1306393999999997,
+        "longitude": 101.6877567
+    },
+    {
+        "category": "temples",
+        "title": "Sri Sakthi Karpaga Vinayagar Temple",
+        "rating": 4.7,
+        "address": "No 199, Jalan Berhala, Brickfields, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1294747999999997,
+        "longitude": 101.6887285
+    },
+    {
+        "category": "temples",
+        "title": "Kuil Sri Krishna, Brickfields",
+        "rating": 4.5,
+        "address": "Lot 55, Jalan Scott, Brickfields, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1351125,
+        "longitude": 101.69265329999999
+    },
+    {
+        "category": "museums",
+        "title": "Islamic Arts Museum Malaysia",
+        "rating": 4.7,
+        "address": "Jalan Lembah, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1418458,
+        "longitude": 101.68999919999999
+    },
+    {
+        "category": "museums",
+        "title": "The National Museum of Malaysia",
+        "rating": 4.3,
+        "address": "Department of Museum, Jln Damansara, Perdana Botanical Gardens, 50566 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.137711,
+        "longitude": 101.68742139999999
+    },
+    {
+        "category": "museums",
+        "title": "National Textiles Museum",
+        "rating": 4.6,
+        "address": "26, Jalan Sultan Hishamuddin, Kuala Lumpur City Centre, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1467465,
+        "longitude": 101.69404139999999
+    },
+    {
+        "category": "museums",
+        "title": "UR-MU @ Bukit Bintang",
+        "rating": 4.8,
+        "address": "3, Jalan Bedara, Bukit Bintang, 50200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1475416999999997,
+        "longitude": 101.7094821
+    },
+    {
+        "category": "museums",
+        "title": "Bank Negara Malaysia Museum and Art Gallery",
+        "rating": 4.6,
+        "address": "Sasana Kijang, 2, Jalan Dato Onn, Kuala Lumpur, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1571621999999997,
+        "longitude": 101.6904754
+    },
+    {
+        "category": "museums",
+        "title": "National Art Gallery",
+        "rating": 4.5,
+        "address": "Lembaga Pembangunan Seni Visual Negara, 2, Jalan Temerloh, off, Jln Tun Razak, 53200 Kuala Lumpur, Malaysia",
+        "latitude": 3.1736636,
+        "longitude": 101.7052282
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Asian Art",
+        "rating": 4.5,
+        "address": "Jalan Ilmu, 50603 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1182613,
+        "longitude": 101.65321519999999
+    },
+    {
+        "category": "museums",
+        "title": "Royal Malaysian Police Museum",
+        "rating": 4.5,
+        "address": "5, Jalan Perdana, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1409906999999997,
+        "longitude": 101.6888314
+    },
+    {
+        "category": "museums",
+        "title": "Art House Gallery Museum of Ethnic Arts",
+        "rating": 4.6,
+        "address": "Lot 3.04 & 3.05, Level 2, Annexe Building, Central Market, 10,, Jalan Hang Kasturi, 50050 Kuala Lumpur, Malaysia",
+        "latitude": 3.1464746999999997,
+        "longitude": 101.6955059
+    },
+    {
+        "category": "museums",
+        "title": "National Science Centre",
+        "rating": 4.3,
+        "address": "50662, Persiaran Bukit Kiara, Bukit Damansara, 50490 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1490163,
+        "longitude": 101.6445754
+    },
+    {
+        "category": "museums",
+        "title": "Orang Asli Crafts Museum",
+        "rating": 4.7,
+        "address": "Orang Asli Crafts Museum, Jabatan Muzium Malaysia, Jalan Damansara, 50566 Kuala Lumpur, Malaysia",
+        "latitude": 3.137701,
+        "longitude": 101.68846309999999
+    },
+    {
+        "category": "museums",
+        "title": "Illusion 3D Art Museum",
+        "rating": 4.2,
+        "address": "Lot 4.01 - 4.03, 2nd Floor, Central Market Annexe, Jalan Hang Kasturi, City Centre, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.146457,
+        "longitude": 101.6955431
+    },
+    {
+        "category": "museums",
+        "title": "Muzium Telekom",
+        "rating": 4.3,
+        "address": "Raja Chulan Rd, Kuala Lumpur, 50200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1488888999999998,
+        "longitude": 101.69944439999999
+    },
+    {
+        "category": "museums",
+        "title": "+n by UR-MU",
+        "rating": 4.8,
+        "address": "131, 133, Jalan Tun H S Lee, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1447227,
+        "longitude": 101.69652839999999
+    },
+    {
+        "category": "museums",
+        "title": "Tunku Abdul Rahman Putra Memorial",
+        "rating": 4.2,
+        "address": "Jalan Dato Onn, Kuala Lumpur, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1564704,
+        "longitude": 101.6905323
+    },
+    {
+        "category": "museums",
+        "title": "吉隆坡师爷庙拓荒博物馆 Sin Sze Si Ya Temple Pioneers of Kuala Lumpur Museum",
+        "rating": 4.9,
+        "address": "113A, Jalan Tun H S Lee, Kuala Lumpur City Centre, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1454529,
+        "longitude": 101.6965997
+    },
+    {
+        "category": "museums",
+        "title": "Petrosains, The Discovery Centre",
+        "rating": 4.6,
+        "address": "Petronas Twin Tower, Level 4, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia",
+        "latitude": 3.1578933,
+        "longitude": 101.711981
+    },
+    {
+        "category": "museums",
+        "title": "UR-MU @ Toffee, Raja Chulan",
+        "rating": 5,
+        "address": "Level 5 & 6, 2, Jalan Raja Chulan, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.148487,
+        "longitude": 101.69858409999999
+    },
+    {
+        "category": "museums",
+        "title": "P. Ramlee Memorial House",
+        "rating": 4.6,
+        "address": "22, Jalan Dedap, Taman P. Ramlee, 53000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1948049,
+        "longitude": 101.708107
+    },
+    {
+        "category": "museums",
+        "title": "Museum Of Illusions Kuala Lumpur",
+        "rating": 4.3,
+        "address": "Level 1, Ansa Hotel, Wilayah Persekutuanalaysia, 101, Bukit Bintang Rd, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1471339,
+        "longitude": 101.7121372
+    },
+    {
+        "category": "night markets",
+        "title": "Munoha Enterprise",
+        "rating": 4.1,
+        "address": "Jalan Tuanku Abdul Rahman, Chow Kit, 50350 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.161197,
+        "longitude": 101.6974552
+    },
+    {
+        "category": "night markets",
+        "title": "KL Night Street",
+        "rating": 4.3,
+        "address": "Jalan Rampai Niaga 5, Rampai Business Park, 53300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1991007,
+        "longitude": 101.72758429999999
+    },
+    {
+        "category": "night markets",
+        "title": "Night Market Bukit Bintang, KL",
+        "rating": 4.5,
+        "address": "Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1459337,
+        "longitude": 101.7090056
+    },
+    {
+        "category": "night markets",
+        "title": "Jalan Alor Food Street",
+        "rating": 4.4,
+        "address": "64, Jln Alor, Bukit Bintang, 50200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.146121,
+        "longitude": 101.70927619999999
+    },
+    {
+        "category": "night markets",
+        "title": "Pasar Malam Lorong TAR Kuala Lumpur",
+        "rating": 4.3,
+        "address": "7, Lorong Tuanku Abdul Rahman, Kuala Lumpur City Centre, 50100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.153494,
+        "longitude": 101.6968766
+    },
+    {
+        "category": "night markets",
+        "title": "Taman Connaught Night Market",
+        "rating": 4.1,
+        "address": "Jalan Cerdas, Taman Connaught, 56000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0814379,
+        "longitude": 101.7375871
+    },
+    {
+        "category": "night markets",
+        "title": "Kasturi Walk",
+        "rating": 4.4,
+        "address": "32, Jalan Hang Kasturi, Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1452412,
+        "longitude": 101.6957961
+    },
+    {
+        "category": "night markets",
+        "title": "Chow kit night market",
+        "rating": 4.2,
+        "address": "Jln Raja Alang, Kampung Baru, 50300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1637361,
+        "longitude": 101.69984629999999
+    },
+    {
+        "category": "night markets",
+        "title": "Happy Garden Night Market (Saturday)",
+        "rating": 3.9,
+        "address": "Jalan Lazat 2, Taman Bukit Indah, 58200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0779104,
+        "longitude": 101.6800263
+    },
+    {
+        "category": "night markets",
+        "title": "Petaling Street Market",
+        "rating": 4.1,
+        "address": "Jalan Petaling, Kuala Lumpur City Centre, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1443950999999997,
+        "longitude": 101.69764959999999
+    },
+    {
+        "category": "night markets",
+        "title": "Pasar Malam TTDI • Ahad",
+        "rating": 4.1,
+        "address": "Jalan Tun Mohd Fuad 2, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1411609,
+        "longitude": 101.62917279999999
+    },
+    {
+        "category": "night markets",
+        "title": "Bazaria Wangsa Maju",
+        "rating": 4.1,
+        "address": "Jalan Kilang, Seksyen 1 Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.2024941,
+        "longitude": 101.7231205
+    },
+    {
+        "category": "night markets",
+        "title": "Saturday Night Market Taman Midah",
+        "rating": 3.9,
+        "address": "Jalan Midah 1, Taman Midah, 56000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1018045,
+        "longitude": 101.734202
+    },
+    {
+        "category": "night markets",
+        "title": "Pasar Malam Bandar Baru Sentul",
+        "rating": 4,
+        "address": "65, Jalan 1/48a, Bandar Baru Sentul, 51000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1868429,
+        "longitude": 101.69856039999999
+    },
+    {
+        "category": "night markets",
+        "title": "Pasar Malam Taman Sri Endah (Friday)",
+        "rating": 3.8,
+        "address": "8, Jalan 2/149b, Taman Sri Endah, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.064812,
+        "longitude": 101.69163669999999
+    },
+    {
+        "category": "night markets",
+        "title": "Pasar Malam Jalan Hujan Emas O.U.G.",
+        "rating": 4.1,
+        "address": "Jalan Hujan Rahmat 2, Taman OUG, 58200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0727119,
+        "longitude": 101.6728172
+    },
+    {
+        "category": "night markets",
+        "title": "Jalan Alor Night Market",
+        "rating": 3.9,
+        "address": "38-90, 亚罗街, Bukit Bintang, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1461791999999997,
+        "longitude": 101.70900639999999
+    },
+    {
+        "category": "night markets",
+        "title": "Pasar Malam Taman Segar",
+        "rating": 4.3,
+        "address": "Jalan Manis 4, Taman Segar, 56100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0886544,
+        "longitude": 101.7435878
+    },
+    {
+        "category": "night markets",
+        "title": "Pasar Malam Taman Melati",
+        "rating": 4.1,
+        "address": "Jalan Taman Melati 10, Taman Melati, 53100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.2260362999999996,
+        "longitude": 101.7239761
+    },
+    {
+        "category": "night markets",
+        "title": "Bangsar Baru Night Market",
+        "rating": 4,
+        "address": "Bangsar, 59100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1300949,
+        "longitude": 101.6720678
+    },
+    {
+        "category": "viewpoints",
+        "title": "Menara Kuala Lumpur",
+        "rating": 4.5,
+        "address": "2 Jalan Punchak, Off, Jalan P. Ramlee, 50250 Kuala Lumpur, Malaysia",
+        "latitude": 3.1528761999999997,
+        "longitude": 101.7038516
+    },
+    {
+        "category": "viewpoints",
+        "title": "Lookout Point @ Changkat Tunku",
+        "rating": 4.7,
+        "address": "21, Changkat Tunku, Taman Duta, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1630534,
+        "longitude": 101.677466
+    },
+    {
+        "category": "viewpoints",
+        "title": "KLCC Observation Deck",
+        "rating": 4.5,
+        "address": "Petronas Twin Towers, Floor 86, Persiaran Petronas, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia",
+        "latitude": 3.1581595,
+        "longitude": 101.7120175
+    },
+    {
+        "category": "viewpoints",
+        "title": "KL-View in Ampang",
+        "rating": 4.5,
+        "address": "jalan bukit, Jalan Hulu Langat, Kampung Tasek Permai, 68000 Ampang, Selangor, Malaysia",
+        "latitude": 3.1258679999999996,
+        "longitude": 101.7870081
+    },
+    {
+        "category": "viewpoints",
+        "title": "Bukit Dinding - KLCC viewpoint.",
+        "rating": 5,
+        "address": "5PQX+2R, Bukit Dinding, 54200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1876192,
+        "longitude": 101.7495149
+    },
+    {
+        "category": "viewpoints",
+        "title": "Panorama Bukit Antarabangsa Sunset Viewpoint",
+        "rating": 4.6,
+        "address": "Ulu Kelang, 68000 Ampang Jaya, Selangor, Malaysia",
+        "latitude": 3.1793282,
+        "longitude": 101.7668281
+    },
+    {
+        "category": "viewpoints",
+        "title": "KLCC Park",
+        "rating": 4.6,
+        "address": "City Centre, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1555902,
+        "longitude": 101.71478719999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "View KL Bukit Antarabangsa",
+        "rating": 4.5,
+        "address": "No. 31, Jalan Sering, 2, Jalan Bukit Antarabangsa, Taman Bukit Utama, 68000 Ampang Jaya, Selangor, Malaysia",
+        "latitude": 3.1792173999999997,
+        "longitude": 101.7669931
+    },
+    {
+        "category": "viewpoints",
+        "title": "Sky Deck KL Tower",
+        "rating": 4.6,
+        "address": "Menara Kuala Lumpur No. 2 Jalan Punchak Off, Jalan P. Ramlee, 50250 Kuala Lumpur, Malaysia",
+        "latitude": 3.1528159,
+        "longitude": 101.7036967
+    },
+    {
+        "category": "viewpoints",
+        "title": "viewpoint",
+        "rating": null,
+        "address": "17, Changkat Tunku, Taman Duta, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1635,
+        "longitude": 101.67769899999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Masjid Jamek Lookout Point @ River of Life",
+        "rating": 4.5,
+        "address": "River of Life, Leboh Pasar Besar, Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1471198,
+        "longitude": 101.6952148
+    },
+    {
+        "category": "viewpoints",
+        "title": "Bukit Tunku Photo View",
+        "rating": 4.7,
+        "address": "Changkat Tunku, Taman Duta, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1628914,
+        "longitude": 101.6773688
+    },
+    {
+        "category": "viewpoints",
+        "title": "Merdeka Square",
+        "rating": 4.5,
+        "address": "Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1490605,
+        "longitude": 101.6936592
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ketumbar Hill Viewpoint",
+        "rating": 4.2,
+        "address": "Ampang, Titiwangsa, 56100 Kuala Lumpur, Selangor, Malaysia",
+        "latitude": 3.0991049,
+        "longitude": 101.75179709999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Lookout Setiawangsa Viewpoint",
+        "rating": 4.8,
+        "address": "Bukit Dinding, 54200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1882804,
+        "longitude": 101.7461309
+    },
+    {
+        "category": "viewpoints",
+        "title": "Starhill Piazza",
+        "rating": 4.6,
+        "address": "L112-1, Level 1, 181, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.147931,
+        "longitude": 101.71310749999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Petronas Twin Towers",
+        "rating": 4.7,
+        "address": "Petronas Twin Tower, Lower Ground (Concourse) Level, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia",
+        "latitude": 3.1574693,
+        "longitude": 101.7115639
+    },
+    {
+        "category": "viewpoints",
+        "title": "Aquaria KLCC",
+        "rating": 4.3,
+        "address": "Kuala Lumpur Convention Centre, Jalan Pinang, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1535482999999997,
+        "longitude": 101.713178
+    },
+    {
+        "category": "viewpoints",
+        "title": "KL Bird Park",
+        "rating": 4.4,
+        "address": "920, Jalan Cenderawasih, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.143164,
+        "longitude": 101.6884845
+    },
+    {
+        "category": "viewpoints",
+        "title": "Pintu Gerbang Kampung Bharu Kuala Lumpur",
+        "rating": 4.3,
+        "address": "Jalan Raja Muda Musa, Kampung Baru, 50300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1624594999999998,
+        "longitude": 101.7029386
+    },
+    {
+        "category": "gardens",
+        "title": "Perdana Botanical Garden",
+        "rating": 4.5,
+        "address": "Jalan Kebun Bunga, Perdana Botanical Gardens, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1429198,
+        "longitude": 101.6851495
+    },
+    {
+        "category": "gardens",
+        "title": "Lake Gardens Kuala Lumpur (Botanical Gardens)",
+        "rating": 4.6,
+        "address": "Jalan Kebun Bunga, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1465771,
+        "longitude": 101.6818206
+    },
+    {
+        "category": "gardens",
+        "title": "KLCC Park",
+        "rating": 4.6,
+        "address": "City Centre, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1555902,
+        "longitude": 101.71478719999999
+    },
+    {
+        "category": "gardens",
+        "title": "ASEAN Sculpture Garden",
+        "rating": 4.4,
+        "address": "Perdana Botanical Garden, Asean Sculpture Garden, Pesiaran Sultan Salahhudin, 50480, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1504806999999997,
+        "longitude": 101.68397569999999
+    },
+    {
+        "category": "gardens",
+        "title": "KL Bird Park",
+        "rating": 4.4,
+        "address": "920, Jalan Cenderawasih, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.143164,
+        "longitude": 101.6884845
+    },
+    {
+        "category": "gardens",
+        "title": "Kuala Lumpur Butterfly Park",
+        "rating": 4.2,
+        "address": "Jalan Cenderawasih, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.145777,
+        "longitude": 101.6889059
+    },
+    {
+        "category": "gardens",
+        "title": "Lake Garden - Kuala Lumpur",
+        "rating": 4.8,
+        "address": "Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.143678,
+        "longitude": 101.686073
+    },
+    {
+        "category": "gardens",
+        "title": "Orchid & Hibiscus Gardens",
+        "rating": 4.1,
+        "address": "Jalan Perdana, Taman Tasik Perdana, Wilayah Persekutuan, 50480 Kuala Lumpur, Malaysia",
+        "latitude": 3.1440058,
+        "longitude": 101.687238
+    },
+    {
+        "category": "gardens",
+        "title": "The Central Park",
+        "rating": 4.5,
+        "address": "C-3-1, plaza arkadia, 3, Persiaran Residen, Desa Parkcity, 52200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1864074,
+        "longitude": 101.6283832
+    },
+    {
+        "category": "gardens",
+        "title": "Permaisuri Lake Garden",
+        "rating": 4.4,
+        "address": "Jalan Tasik Permaisuri 2, Bandar Tun Razak, 56000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0980475,
+        "longitude": 101.71904239999999
+    },
+    {
+        "category": "gardens",
+        "title": "Taman Orkid Kuala Lumpur",
+        "rating": 4.1,
+        "address": "Jalan Cendearawashi, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.14395,
+        "longitude": 101.68772
+    },
+    {
+        "category": "gardens",
+        "title": "Kepong Botanic Gardens | FRIM - Forest Research Institute Malaysia",
+        "rating": 4.4,
+        "address": "Jalan E 4/15, Taman Ehsan, 52100 Kuala Lumpur, Selangor, Malaysia",
+        "latitude": 3.2248750999999998,
+        "longitude": 101.62336479999999
+    },
+    {
+        "category": "gardens",
+        "title": "D' Sun Zone, Perdana Botanical Garden, Kuala Lumpur",
+        "rating": 4.8,
+        "address": "Jalan Kebun Bunga, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1424866,
+        "longitude": 101.68499899999999
+    },
+    {
+        "category": "gardens",
+        "title": "Merdeka Square",
+        "rating": 4.5,
+        "address": "Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1490605,
+        "longitude": 101.6936592
+    },
+    {
+        "category": "gardens",
+        "title": "Rimba Ilmu Botanic Garden, Universiti Malaya",
+        "rating": 4.6,
+        "address": "50603 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1307076,
+        "longitude": 101.65815909999999
+    },
+    {
+        "category": "gardens",
+        "title": "Taman Tasik Metropolitan Kepong",
+        "rating": 4.3,
+        "address": "Jalan Lingkaran Tengah 2, 7, Pavement, Taman Metropolitan Kepong, 52100 Kepong, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.2270827,
+        "longitude": 101.6488787
+    },
+    {
+        "category": "gardens",
+        "title": "Oasis Garden",
+        "rating": 4.6,
+        "address": "Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1447838,
+        "longitude": 101.68450089999999
+    },
+    {
+        "category": "gardens",
+        "title": "Sunken Garden",
+        "rating": 4.6,
+        "address": "Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1448137,
+        "longitude": 101.6832969
+    },
+    {
+        "category": "gardens",
+        "title": "Menara Kuala Lumpur",
+        "rating": 4.5,
+        "address": "2 Jalan Punchak, Off, Jalan P. Ramlee, 50250 Kuala Lumpur, Malaysia",
+        "latitude": 3.1528761999999997,
+        "longitude": 101.7038516
+    },
+    {
+        "category": "gardens",
+        "title": "Taman Tasik Ampang Hilir",
+        "rating": 4.3,
+        "address": "115, Jalan Ampang Hilir, Desa Pahlawan, 55000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1527694,
+        "longitude": 101.74340939999999
+    },
+    {
+        "category": "zoo",
+        "title": "Zoo Negara Malaysia",
+        "rating": 4.1,
+        "address": "Jalan Taman Zooview, Taman Zooview, 68000 Ampang Jaya, Selangor, Malaysia",
+        "latitude": 3.2103488,
+        "longitude": 101.7588188
+    },
+    {
+        "category": "adventure parks",
+        "title": "SuperPark Malaysia",
+        "rating": 4.9,
+        "address": "Unit 4-1, Level 4, Avenue K, Shopping Mall, 156, Jln Ampang, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1591674999999997,
+        "longitude": 101.71299139999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "NextGen Theme Park",
+        "rating": 4.8,
+        "address": "S603-S610, 2 floor, 1 Utama E, 1 Utama Shopping Centre, Central Park Avenue, Bandar Utama, 47800 Petaling Jaya, Selangor, Malaysia",
+        "latitude": 3.1488335,
+        "longitude": 101.61717499999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Berjaya Times Square Theme Park",
+        "rating": 4.4,
+        "address": "Level 5, Berjaya Times Square, 1, Jln Imbi, Imbi, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1421984,
+        "longitude": 101.7105512
+    },
+    {
+        "category": "adventure parks",
+        "title": "Sunway Lagoon",
+        "rating": 4.5,
+        "address": "3, Jalan PJS 11/11, Bandar Sunway, 47500 Subang Jaya, Selangor, Malaysia",
+        "latitude": 3.0693932,
+        "longitude": 101.6067533
+    },
+    {
+        "category": "adventure parks",
+        "title": "ATV Adventure Park Kuala Lumpur",
+        "rating": 4.4,
+        "address": "Atv Adventure, Kampung Kemensah, 68000, Selangor, Malaysia",
+        "latitude": 3.2186624999999998,
+        "longitude": 101.7871177
+    },
+    {
+        "category": "adventure parks",
+        "title": "KidZania Kuala Lumpur",
+        "rating": 4.6,
+        "address": "5J57+5R, Curve Nx, 18, Jalan PJU 7/5, Mutiara Damansara, 47810 Petaling Jaya, Selangor, Malaysia",
+        "latitude": 3.1580958,
+        "longitude": 101.6138072
+    },
+    {
+        "category": "adventure parks",
+        "title": "Jump Street Asia (Kuala Lumpur)",
+        "rating": 4.6,
+        "address": "8A, Jln 13/6, Seksyen 13, 46200 Petaling Jaya, Selangor, Malaysia",
+        "latitude": 3.1171708,
+        "longitude": 101.63403699999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Game On Theme park Melawati Mall",
+        "rating": 4.9,
+        "address": "L6-04 - L6-15, Melawati Mall, 355, Jln Bandar Melawati, Pusat Bandar Melawati, 53100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.2104842,
+        "longitude": 101.74855869999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "VAR LIVE @ MyTown Shopping Centre",
+        "rating": 4.8,
+        "address": "L2-015, MyTOWN Shopping Centre, 6, Jalan Cochrane, Seksyen 90, 55100 Cheras, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1343589,
+        "longitude": 101.7229622
+    },
+    {
+        "category": "adventure parks",
+        "title": "99 Wonderland Park",
+        "rating": 4.1,
+        "address": "3a, Jalan 1, KM12, Jalan Ipoh, Pusat Bandar Utara Selayang, 68100 Batu Caves, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.2364583,
+        "longitude": 101.6644931
+    },
+    {
+        "category": "adventure parks",
+        "title": "METAPARK ASIA",
+        "rating": 4.9,
+        "address": "Level 2, Lot10, Shopping Mall, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1463476999999997,
+        "longitude": 101.7119263
+    },
+    {
+        "category": "adventure parks",
+        "title": "EnerG X Park (Sunway Velocity)",
+        "rating": 4.9,
+        "address": "4-021, SUNWAY VELOCITY, Mall, Lingkaran SV, Maluri, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1273413999999997,
+        "longitude": 101.7248372
+    },
+    {
+        "category": "adventure parks",
+        "title": "Genting SkyWorlds Theme Park",
+        "rating": 4.1,
+        "address": "Resorts World, Genting Highlands, 69000 Genting Highlands, Pahang, Malaysia",
+        "latitude": 3.4220528999999997,
+        "longitude": 101.7939456
+    },
+    {
+        "category": "adventure parks",
+        "title": "Game On Sport Hub Quill City",
+        "rating": 5,
+        "address": "Bandar Wawasan, 50300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1594604,
+        "longitude": 101.6998869
+    },
+    {
+        "category": "adventure parks",
+        "title": "B.Duck City Funs @ Pavilion Bukit Jalil",
+        "rating": 5,
+        "address": "Piazza Pavilion, Bukit Jalil, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.0504705,
+        "longitude": 101.67087149999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Big Bounce Park",
+        "rating": 4.9,
+        "address": "Unit 4-2, Level 4, Avenue K, Shopping Mall, 156, Jln Ampang, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1594765999999996,
+        "longitude": 101.71351489999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Dreamers' Playground",
+        "rating": 4.9,
+        "address": "KL Gateway Mall, Level 1, Jalan Kerinchi, Kerinchi, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.114035,
+        "longitude": 101.6634081
+    },
+    {
+        "category": "adventure parks",
+        "title": "WynSports by Wyndham Suites KLCC",
+        "rating": 4.9,
+        "address": "Level B1, VIP Check-In at Basement, 8, Jalan Changkat Kia Peng, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1511985,
+        "longitude": 101.71625399999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "KL Bird Park",
+        "rating": 4.4,
+        "address": "920, Jalan Cenderawasih, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.143164,
+        "longitude": 101.6884845
+    },
+    {
+        "category": "adventure parks",
+        "title": "PLSC ENTERTAINMENT (Cheras) One shamelin mall",
+        "rating": 4,
+        "address": "Lot No. L3-02 & 03, Level 3, 1 Shamelin Mall, 100, Jalan 4/91, Taman Shamelin Perkasa, 56100, Kuala Lumpur Taman shamelin perkasa, kuala lumpur, 55100 Cheras, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1221661999999997,
+        "longitude": 101.7396326
+    },
+    {
+        "category": "hot springs",
+        "title": "Setapak Hot Spring",
+        "rating": 4,
+        "address": "81, Jalan Air Panas, Taman Ayer Panas, 53200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.189705,
+        "longitude": 101.71366359999999
+    },
+    {
+        "category": "hot springs",
+        "title": "The Banjaran Hotsprings Retreat",
+        "rating": 4.8,
+        "address": "1, Persiaran Lagoon, Sunway 3, 31150 Ipoh, Perak, Malaysia",
+        "latitude": 4.6310761,
+        "longitude": 101.1561254
+    },
+    {
+        "category": "hot springs",
+        "title": "Serai Bamboo Hot Spring",
+        "rating": 4,
+        "address": "Batu 12, Jln Hulu Langat, Kampung Sungai Serai, 43100 Hulu Langat, Selangor, Malaysia",
+        "latitude": 3.0907242,
+        "longitude": 101.7946145
+    },
+    {
+        "category": "hot springs",
+        "title": "Kerling Hot Spring",
+        "rating": 3.9,
+        "address": "44000 Kerling, Selangor, Malaysia",
+        "latitude": 3.6098044,
+        "longitude": 101.60902879999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Poring Hot Spring",
+        "rating": 4.1,
+        "address": "89300 Ranau, Sabah, Malaysia",
+        "latitude": 6.0457241999999995,
+        "longitude": 116.7033598
+    },
+    {
+        "category": "hot springs",
+        "title": "Cholo-Cholo Hotsprings",
+        "rating": 4,
+        "address": "Lot 2113, Hulu Tamu 44300, Selangor, Malaysia",
+        "latitude": 3.4632899,
+        "longitude": 101.69696309999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Urban Retreat Onsen Spa",
+        "rating": 4.8,
+        "address": "Lot 2F - 02, 8, Jalan Kiara, Mont Kiara, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1664847,
+        "longitude": 101.6520379
+    },
+    {
+        "category": "hot springs",
+        "title": "Sungai Klah Hot Springs",
+        "rating": 4.2,
+        "address": "35600 Sungkai, Perak, Malaysia",
+        "latitude": 3.9950164,
+        "longitude": 101.39332189999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Hot spring foot bath",
+        "rating": 4.3,
+        "address": "Dusun Tua, 43100 Hulu Langat, Selangor, Malaysia",
+        "latitude": 3.1368677,
+        "longitude": 101.8346126
+    },
+    {
+        "category": "hot springs",
+        "title": "Hulu Tamu Hot Springs",
+        "rating": 4,
+        "address": "Hulu Tamu, 44300, Selangor, Malaysia",
+        "latitude": 3.4638644,
+        "longitude": 101.69693459999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Hot Spring Small and clean",
+        "rating": 4.1,
+        "address": "3°27'52. 101°41'44., 5\"N, 1, Pusat Bandar Rawang, 48000 Rawang, Selangor, Malaysia",
+        "latitude": 3.4640397,
+        "longitude": 101.69707319999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Billion Onsen & Aesthetics - Luxury Spa Kuala Lumpur",
+        "rating": 4.6,
+        "address": "1st Floor, 33, Jalan Yap Kwan Seng, Kampung Baru, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1628167,
+        "longitude": 101.71499709999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Hanami Reserve @ Kuala Lumpur",
+        "rating": 4.4,
+        "address": "Level 2 Lot 1, TSLAW Tower, No. 39, Jalan Kemuning, Imbi, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1443866,
+        "longitude": 101.71955129999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Urban Retreat Spa 1 Mont Kiara",
+        "rating": 4.9,
+        "address": "second floor, 1 Mont' Kiara, L2-15, 1, Jalan Kiara, Mont Kiara, 50480 Kuala Lumpur, Malaysia",
+        "latitude": 3.1656269999999997,
+        "longitude": 101.6532558
+    },
+    {
+        "category": "hot springs",
+        "title": "Selayang Hot Spring Pool",
+        "rating": 4.2,
+        "address": "Baru Selayang, 68100 Batu Caves, Selangor, Malaysia",
+        "latitude": 3.2589517,
+        "longitude": 101.6461375
+    },
+    {
+        "category": "hot springs",
+        "title": "Sg. Lalang Hot Spring",
+        "rating": 4.3,
+        "address": "Jalan Sungai Lalang, 43500 Semenyih, Selangor, Malaysia",
+        "latitude": 3.0426569999999997,
+        "longitude": 101.87218299999999
+    },
+    {
+        "category": "hot springs",
+        "title": "ēRYAbySURIA Hot Spring Bentong",
+        "rating": 3.8,
+        "address": "2527, Jalan Kuala Lumpur Lama, Mukim, 28700 Bentong, Pahang, Malaysia",
+        "latitude": 3.4095203,
+        "longitude": 101.89099879999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Merdeka Square",
+        "rating": 4.5,
+        "address": "Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1490605,
+        "longitude": 101.6936592
+    },
+    {
+        "category": "historical sites",
+        "title": "Istana Negara",
+        "rating": 4.3,
+        "address": "Jln Tuanku Abdul Halim, Bukit Damansara, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1614817,
+        "longitude": 101.6634404
+    },
+    {
+        "category": "historical sites",
+        "title": "National Monument",
+        "rating": 4.5,
+        "address": "Perdana Botanical Garden, Jln Parlimen, Kuala Lumpur City Centre, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1488546,
+        "longitude": 101.6838276
+    },
+    {
+        "category": "historical sites",
+        "title": "Petronas Twin Towers",
+        "rating": 4.7,
+        "address": "Petronas Twin Tower, Lower Ground (Concourse) Level, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia",
+        "latitude": 3.1574693,
+        "longitude": 101.7115639
+    },
+    {
+        "category": "historical sites",
+        "title": "Sultan Abdul Samad Building",
+        "rating": 4.6,
+        "address": "Jln Raja, Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1486226,
+        "longitude": 101.69440449999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Sri Maha Mariamman Temple",
+        "rating": 4.4,
+        "address": "163, Jalan Tun H S Lee, Kuala Lumpur City Centre, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1433850999999997,
+        "longitude": 101.6964976
+    },
+    {
+        "category": "historical sites",
+        "title": "Menara Kuala Lumpur",
+        "rating": 4.5,
+        "address": "2 Jalan Punchak, Off, Jalan P. Ramlee, 50250 Kuala Lumpur, Malaysia",
+        "latitude": 3.1528761999999997,
+        "longitude": 101.7038516
+    },
+    {
+        "category": "historical sites",
+        "title": "Chan She Shu Yuen Clan Ancestral Hall",
+        "rating": 4.3,
+        "address": "172, Jalan Petaling, Kuala Lumpur City Centre, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1402509,
+        "longitude": 101.69840219999999
+    },
+    {
+        "category": "historical sites",
+        "title": "The National Museum of Malaysia",
+        "rating": 4.3,
+        "address": "Department of Museum, Jln Damansara, Perdana Botanical Gardens, 50566 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.137711,
+        "longitude": 101.68742139999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Islamic Arts Museum Malaysia",
+        "rating": 4.7,
+        "address": "Jalan Lembah, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1418458,
+        "longitude": 101.68999919999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Royal Selangor Visitor Centre",
+        "rating": 4.5,
+        "address": "4, Jalan Usahawan 6, Setapak Jaya, 53300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1966645999999996,
+        "longitude": 101.724434
+    },
+    {
+        "category": "historical sites",
+        "title": "Victoria Fountain",
+        "rating": 4.3,
+        "address": "Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1476561,
+        "longitude": 101.6937926
+    },
+    {
+        "category": "historical sites",
+        "title": "Loke Yew's Mansion",
+        "rating": 4.3,
+        "address": "39 Court @ Loke Mansion, 273A, Jalan Medan Tuanku, Wilayah Persekutuan, 50300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.158353,
+        "longitude": 101.697655
+    },
+    {
+        "category": "historical sites",
+        "title": "Central Market",
+        "rating": 4.3,
+        "address": "Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1452635,
+        "longitude": 101.69541579999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Rumah Penghulu Abu Seman (The Penghulu Abu Seman House)",
+        "rating": 4.5,
+        "address": "Badan Warisan Malaysia, 2, Jalan Stonor, Kuala Lumpur, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1502708999999998,
+        "longitude": 101.7164636
+    },
+    {
+        "category": "historical sites",
+        "title": "Plaza Tugu Negara",
+        "rating": 4.6,
+        "address": "Pesiaran Sultan Salahuddin, Kuala Lumpur, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1499715999999998,
+        "longitude": 101.68441449999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Batu Caves",
+        "rating": 4.4,
+        "address": "Gombak, 68100 Batu Caves, Selangor, Malaysia",
+        "latitude": 3.2378844,
+        "longitude": 101.6840385
+    },
+    {
+        "category": "historical sites",
+        "title": "Thean Hou Temple",
+        "rating": 4.6,
+        "address": "65, Persiaran Endah, Taman Persiaran Desa, 50460 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1219525,
+        "longitude": 101.6876678
+    },
+    {
+        "category": "historical sites",
+        "title": "Sultan Abdul Samad Jamek Mosque",
+        "rating": 4.6,
+        "address": "Jalan Tun Perak, Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1489235,
+        "longitude": 101.6956276
+    },
+    {
+        "category": "historical sites",
+        "title": "Medan Pasar",
+        "rating": 4.2,
+        "address": "Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1472325999999997,
+        "longitude": 101.6959005
+    },
+    {
+        "category": "art galleries",
+        "title": "UR-MU @ Bukit Bintang",
+        "rating": 4.8,
+        "address": "3, Jalan Bedara, Bukit Bintang, 50200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1475416999999997,
+        "longitude": 101.7094821
+    },
+    {
+        "category": "art galleries",
+        "title": "Wei-Ling Gallery",
+        "rating": 4.6,
+        "address": "8, Jalan Scott, Brickfields, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1357862,
+        "longitude": 101.6913632
+    },
+    {
+        "category": "art galleries",
+        "title": "UR-MU @ Toffee, Raja Chulan",
+        "rating": 5,
+        "address": "Level 5 & 6, 2, Jalan Raja Chulan, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.148487,
+        "longitude": 101.69858409999999
+    },
+    {
+        "category": "art galleries",
+        "title": "National Art Gallery",
+        "rating": 4.5,
+        "address": "Lembaga Pembangunan Seni Visual Negara, 2, Jalan Temerloh, off, Jln Tun Razak, 53200 Kuala Lumpur, Malaysia",
+        "latitude": 3.1736636,
+        "longitude": 101.7052282
+    },
+    {
+        "category": "art galleries",
+        "title": "Islamic Arts Museum Malaysia",
+        "rating": 4.7,
+        "address": "Jalan Lembah, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1418458,
+        "longitude": 101.68999919999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Bank Negara Malaysia Museum and Art Gallery",
+        "rating": 4.6,
+        "address": "Sasana Kijang, 2, Jalan Dato Onn, Kuala Lumpur, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1571621999999997,
+        "longitude": 101.6904754
+    },
+    {
+        "category": "art galleries",
+        "title": "Illusion 3D Art Museum",
+        "rating": 4.2,
+        "address": "Lot 4.01 - 4.03, 2nd Floor, Central Market Annexe, Jalan Hang Kasturi, City Centre, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.146457,
+        "longitude": 101.6955431
+    },
+    {
+        "category": "art galleries",
+        "title": "Mario Balsamo Art Studio",
+        "rating": 5,
+        "address": "M-2, Jalan 11/62a, Bandar Sri Menjalara, 52200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1930028999999998,
+        "longitude": 101.6308742
+    },
+    {
+        "category": "art galleries",
+        "title": "The National Museum of Malaysia",
+        "rating": 4.3,
+        "address": "Department of Museum, Jln Damansara, Perdana Botanical Gardens, 50566 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.137711,
+        "longitude": 101.68742139999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Petrosains, The Discovery Centre",
+        "rating": 4.6,
+        "address": "Petronas Twin Tower, Level 4, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia",
+        "latitude": 3.1578933,
+        "longitude": 101.711981
+    },
+    {
+        "category": "art galleries",
+        "title": "Art House Gallery Museum of Ethnic Arts",
+        "rating": 4.6,
+        "address": "Lot 3.04 & 3.05, Level 2, Annexe Building, Central Market, 10,, Jalan Hang Kasturi, 50050 Kuala Lumpur, Malaysia",
+        "latitude": 3.1464746999999997,
+        "longitude": 101.6955059
+    },
+    {
+        "category": "art galleries",
+        "title": "Pucuk Rebung Gallery Museum",
+        "rating": 4.2,
+        "address": "18, Lrg Ara Kiri 2, Bangsar, 59100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1274175,
+        "longitude": 101.6699707
+    },
+    {
+        "category": "art galleries",
+        "title": "Orang Asli Crafts Museum",
+        "rating": 4.7,
+        "address": "Orang Asli Crafts Museum, Jabatan Muzium Malaysia, Jalan Damansara, 50566 Kuala Lumpur, Malaysia",
+        "latitude": 3.137701,
+        "longitude": 101.68846309999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum of Asian Art",
+        "rating": 4.5,
+        "address": "Jalan Ilmu, 50603 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1182613,
+        "longitude": 101.65321519999999
+    },
+    {
+        "category": "art galleries",
+        "title": "National Textiles Museum",
+        "rating": 4.6,
+        "address": "26, Jalan Sultan Hishamuddin, Kuala Lumpur City Centre, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1467465,
+        "longitude": 101.69404139999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum Of Illusions Kuala Lumpur",
+        "rating": 4.3,
+        "address": "Level 1, Ansa Hotel, Wilayah Persekutuanalaysia, 101, Bukit Bintang Rd, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1471339,
+        "longitude": 101.7121372
+    },
+    {
+        "category": "art galleries",
+        "title": "Kuala Lumpur City Gallery",
+        "rating": 4.3,
+        "address": "27, Jln Raja, Dataran Merdeka, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.14728,
+        "longitude": 101.6933572
+    },
+    {
+        "category": "art galleries",
+        "title": "The Edge Galerie",
+        "rating": 5,
+        "address": "Mont' Kiara Meridin, G5-G6, 19, Jln Duta Kiara, Mont Kiara, 50480 Kuala Lumpur, Malaysia",
+        "latitude": 3.174466,
+        "longitude": 101.65305479999999
+    },
+    {
+        "category": "theaters",
+        "title": "GSC Mid Valley Megamall",
+        "rating": 4.4,
+        "address": "Lot T-001, 3rd Floor, Mid Valley Megamall, Lingkaran Syed Putra, Mid Valley City, 58000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1165694999999998,
+        "longitude": 101.6767198
+    },
+    {
+        "category": "theaters",
+        "title": "GSC MyTOWN Shopping Centre",
+        "rating": 4.4,
+        "address": "L3-01, Level 3, 6, Jalan Cochrane, Seksyen 90, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.135005,
+        "longitude": 101.72285699999999
+    },
+    {
+        "category": "theaters",
+        "title": "GSC NU Sentral",
+        "rating": 4.4,
+        "address": "Lot L5.14, Level 5 Nu Sentral, 201, Jalan Tun Sambanthan, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1332046,
+        "longitude": 101.6874146
+    },
+    {
+        "category": "theaters",
+        "title": "TGV",
+        "rating": 4.3,
+        "address": "Suria KLCC, Level 3, Suria, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan, Malaysia",
+        "latitude": 3.1574986999999997,
+        "longitude": 101.71218549999999
+    },
+    {
+        "category": "theaters",
+        "title": "The Kuala Lumpur Performing Arts Centre (KLPAC)",
+        "rating": 4.5,
+        "address": "Jln Sultan Azlan Shah, Sentul, 51100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1851700999999997,
+        "longitude": 101.6863923
+    },
+    {
+        "category": "theaters",
+        "title": "Aurum Theatre The Gardens Mall",
+        "rating": 4.5,
+        "address": "The Gardens, FF-201, 4th Floor, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Malaysia",
+        "latitude": 3.1194884,
+        "longitude": 101.675857
+    },
+    {
+        "category": "theaters",
+        "title": "TGV Cinemas - Sunway Velocity Mall",
+        "rating": 4.4,
+        "address": "Mall 90, SUNWAY VELOCITY, 4-31, Level 4, Jalan Peel, Maluri, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1282753999999997,
+        "longitude": 101.7236037
+    },
+    {
+        "category": "theaters",
+        "title": "TGV Cinemas - Wangsa Walk Mall",
+        "rating": 4.3,
+        "address": "Level 2, Wangsa Walk Mall, 2-01, 9, Jalan Wangsa Perdana 1, Wangsa Maju, 53300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1981094999999997,
+        "longitude": 101.741146
+    },
+    {
+        "category": "theaters",
+        "title": "Aurum Theatre, The Exchange TRX",
+        "rating": 4.8,
+        "address": "L3.03.0, 3rd Floor, Park Level, The Exchange TRX, Persiaran TRX, Imbi, 55188 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1433261999999997,
+        "longitude": 101.7182148
+    },
+    {
+        "category": "theaters",
+        "title": "GSC LaLaport BBCC",
+        "rating": 4.7,
+        "address": "Level 2, Level 3 & Level 3M, Entertainment Hub BBCC, 2, Jln Hang Tuah, Pudu, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1395285,
+        "longitude": 101.709351
+    },
+    {
+        "category": "theaters",
+        "title": "DADI Cinema Pavilion KL",
+        "rating": 3.9,
+        "address": "Level 5, Jln Pavilion, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1496925,
+        "longitude": 101.71254929999999
+    },
+    {
+        "category": "theaters",
+        "title": "Velvet Cinemas by GSC",
+        "rating": 4.8,
+        "address": "3F-02, Sunway 163 Mall, 8, Jalan Kiara, Mont Kiara, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1663775999999997,
+        "longitude": 101.6519568
+    },
+    {
+        "category": "theaters",
+        "title": "GSC Quill City Mall",
+        "rating": 4.2,
+        "address": "Lot 5-23 & 6-08, 5th Floor, Quill City Mall, 1018, Jln Sultan Ismail, 50250 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1598032,
+        "longitude": 101.69990639999999
+    },
+    {
+        "category": "theaters",
+        "title": "GSC EkoCheras Mall",
+        "rating": 4.1,
+        "address": "no 693, EkoCheras Mall, S2A-01, Batu 5, Jln Cheras, 56000 Kuala Lumpur, Malaysia",
+        "latitude": 3.0944084999999997,
+        "longitude": 101.73849129999999
+    },
+    {
+        "category": "theaters",
+        "title": "GSC Melawati Mall",
+        "rating": 4.4,
+        "address": "Level 5, 6, 6M, Melawati Mall, 355, Jln Bandar Melawati, Pusat Bandar Melawati, 53100 Kuala Lumpur, Selangor, Malaysia",
+        "latitude": 3.2104671,
+        "longitude": 101.74857329999999
+    },
+    {
+        "category": "theaters",
+        "title": "GSC Setapak Central",
+        "rating": 3.8,
+        "address": "Lot No. S 29A & S-30, Second Floor, 67, Jln Taman Ibu Kota, Danau Kota, 53300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.2047041,
+        "longitude": 101.720548
+    },
+    {
+        "category": "theaters",
+        "title": "LFS Coliseum",
+        "rating": 3.9,
+        "address": "96, Jalan Tuanku Abdul Rahman, Kuala Lumpur City Centre, 50100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1534299999999997,
+        "longitude": 101.6963399
+    },
+    {
+        "category": "theaters",
+        "title": "TGV Cinemas AEON Mall AU2 Setiawangsa",
+        "rating": 4.4,
+        "address": "AU2, G77, AEON AU2 Shopping Centre. 6, 37/56, Jalan Taman Setiawangsa, Taman Keramat, 54200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1771404999999997,
+        "longitude": 101.7507835
+    },
+    {
+        "category": "theaters",
+        "title": "GSC KL East Mall",
+        "rating": 4.1,
+        "address": "G3-18, Level G3, Jln Lingkaran Tengah 2, Sunway Montana (U/C), 53100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.2248750999999998,
+        "longitude": 101.7304628
+    },
+    {
+        "category": "theaters",
+        "title": "REXKL",
+        "rating": 4.5,
+        "address": "80, Jalan Sultan, Kuala Lumpur City Centre, 50000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1449092999999997,
+        "longitude": 101.69848239999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Kl Grand Bazaar",
+        "rating": 4.9,
+        "address": "48, Jalan Hang Kasturi, Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1449578999999996,
+        "longitude": 101.69585119999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Paper Adventures by Loka Made",
+        "rating": 5,
+        "address": "Lot 3.04-3.06, Central Market, Ground floor G33 &34, 06, Jalan Hang Kasturi, City Centre, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1452725,
+        "longitude": 101.6954076
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Treasure Trove 百宝箱 @KLCW",
+        "rating": 5,
+        "address": "KL Central Walk, Jalan P. Ramlee, Kuala Lumpur, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1549715,
+        "longitude": 101.70945999999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Tulis Lukis by Loka Made",
+        "rating": 5,
+        "address": "Ground floor SK48-50, Central Market, Lot 3.04-3.06, Jalan Hang Kasturi, City Centre, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.145704,
+        "longitude": 101.6955325
+    },
+    {
+        "category": "souvenir counters",
+        "title": "MH Global Sdn Bhd",
+        "rating": 5,
+        "address": "89, Jalan Bangsar, Bangsar, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1226334,
+        "longitude": 101.675567
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hing Loong Time (Malaysia) Sdn Bhd",
+        "rating": 4.6,
+        "address": "27, Lorong Haji Taib 4, Off, Jln Raja Laut, 50350 Kuala Lumpur, Malaysia",
+        "latitude": 3.1648118999999997,
+        "longitude": 101.6973707
+    },
+    {
+        "category": "souvenir counters",
+        "title": "C&m Star Collections Ent(souvenir and gift shop)",
+        "rating": 4.7,
+        "address": "G62, Central Market, Jalan Hang Kasturi, City Centre, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.139983,
+        "longitude": 101.6954289
+    },
+    {
+        "category": "souvenir counters",
+        "title": "I Love KL Gifts",
+        "rating": 3.9,
+        "address": "Lot b3,ground floor, 179, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1468094,
+        "longitude": 101.71255719999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Husna Craft & Gift",
+        "rating": 4.4,
+        "address": "Rumah Melayu Pasar Seni, G67A, Jalan Hang Kasturi, Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1446901,
+        "longitude": 101.6957659
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Kia Klemenz Gifts & Souvenirs",
+        "rating": 4.5,
+        "address": "Kedai Cenderamata, 1, Jalan Cenderawasih, Perdana Botanical Gardens, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1472455,
+        "longitude": 101.68671499999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Malaysia Souvenir",
+        "rating": 4,
+        "address": "Jln Sultan Ismail, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1451758,
+        "longitude": 101.7114016
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Mun Lai Signs Gifts & Souvenirs Sdn Bhd",
+        "rating": 3.6,
+        "address": "6, Lorong Brunei 3, Off Jalan Pudu, 55100, Kuala Lumpur, WP Kuala Lumpur, 55100, Malaysia",
+        "latitude": 3.1381984999999997,
+        "longitude": 101.71299859999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "KL IDEACRAFT LINK",
+        "rating": 5,
+        "address": "Lot G-60A Ground Floor, Central Market, Jalan Hang Kasturi, City Centre, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1446901,
+        "longitude": 101.6957659
+    },
+    {
+        "category": "souvenir counters",
+        "title": "T&A Souvenir",
+        "rating": 4,
+        "address": "G22, Ground Floor, Central Market, Jalan Hang Kasturi, Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.145704,
+        "longitude": 101.6955325
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Koun na Neko",
+        "rating": 4.9,
+        "address": "Level 6 Lot29-30, 168, Jln Bukit Bintang, Pavilion, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1489607,
+        "longitude": 101.71341249999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Treasure Shop",
+        "rating": 4.4,
+        "address": "Ground Floor, Central Market, Kuala Lumpur MY, Lot G32, Jalan Hang Kasturi, Annexe, 50050 Kuala Lumpur, Wilayah Persekutuan, Malaysia",
+        "latitude": 3.145704,
+        "longitude": 101.6955325
+    },
+    {
+        "category": "souvenir counters",
+        "title": "The Souvenir & Gift Shop PLT",
+        "rating": 3.7,
+        "address": "56, Jalan Jernai, Medan Idaman Business Centre, 53100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.2126816999999996,
+        "longitude": 101.71289999999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "PETRONAS Twin Towers Gift Shop",
+        "rating": 4,
+        "address": "Lower Ground (Concourse) Level, Petronas Twin Tower, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1577405,
+        "longitude": 101.712167
+    },
+    {
+        "category": "souvenir counters",
+        "title": "AJ souvenir & Gift",
+        "rating": 5,
+        "address": "Lot 0530B level 5, west wings, Berjaya Times Square, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "latitude": 3.1421984,
+        "longitude": 101.7105512
+    },
+    {
+        "category": "souvenir counters",
+        "title": "kome",
+        "rating": 3.1,
+        "address": "Lot G - 23, 179, Jln Gading, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+        "latitude": 3.1467077999999997,
+        "longitude": 101.71305149999999
+    }
+]

@@ -1,0 +1,3826 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Yongdusan Park",
+        "rating": 4.3,
+        "address": "37-55 Yongdusan-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.1006536,
+        "longitude": 129.0326226
+    },
+    {
+        "category": "tourist attractions",
+        "title": "BIFF Square",
+        "rating": 4.1,
+        "address": "58-1 Gudeok-ro, Jung-gu, Busan, South Korea",
+        "latitude": 35.098243,
+        "longitude": 129.029212
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Gamcheon Culture Village",
+        "rating": 4.4,
+        "address": "203 Gamnae 2-ro, Saha-gu, Busan, South Korea",
+        "latitude": 35.0973904,
+        "longitude": 129.0105924
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Busan Tower",
+        "rating": 4.2,
+        "address": "37-55 Yongdusan-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.1011934,
+        "longitude": 129.0323676
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Jagalchi Market",
+        "rating": 4,
+        "address": "52 Jagalchihaean-ro, Jung-gu, Busan, South Korea",
+        "latitude": 35.0966339,
+        "longitude": 129.0307965
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Oryukdo Skywalk",
+        "rating": 4.2,
+        "address": "137 Oryukdo-ro, Nam-gu, Busan, South Korea",
+        "latitude": 35.1006767,
+        "longitude": 129.12440089999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Haedong Yonggungsa Temple",
+        "rating": 4.4,
+        "address": "86 Yonggung-gil, Gijang-gun, Busan, South Korea",
+        "latitude": 35.188349099999996,
+        "longitude": 129.2233197
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Busan Citizens Park",
+        "rating": 4.6,
+        "address": "73 Simingongwon-ro, Busanjin District, Busan, South Korea",
+        "latitude": 35.168160799999995,
+        "longitude": 129.0573853
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Songdo Yonggung Suspension Bridge",
+        "rating": 4.3,
+        "address": "620-53 Amnam-dong, Seo-gu, Busan, South Korea",
+        "latitude": 35.061897,
+        "longitude": 129.022214
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Taejongdae",
+        "rating": 4.4,
+        "address": "24 Jeonmang-ro, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.05307,
+        "longitude": 129.0872
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Songdo Bay Station (Songdo Cable Car)",
+        "rating": 4.3,
+        "address": "171 Songdohaebyeon-ro, Seo-gu, Busan, South Korea",
+        "latitude": 35.0763876,
+        "longitude": 129.0236199
+    },
+    {
+        "category": "tourist attractions",
+        "title": "40-step Culture & Tourism Theme Street",
+        "rating": 3.9,
+        "address": "83 Jungang-daero, Jungang-dong, Jung-gu, Busan, South Korea",
+        "latitude": 35.103955299999996,
+        "longitude": 129.0347152
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Beomeosa Temple",
+        "rating": 4.6,
+        "address": "250 Beomeosa-ro, Geumjeong-gu, Busan, South Korea",
+        "latitude": 35.2839899,
+        "longitude": 129.0687639
+    },
+    {
+        "category": "tourist attractions",
+        "title": "부산민주공원",
+        "rating": 4.4,
+        "address": "19 Minjugongwon-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.1101186,
+        "longitude": 129.0280611
+    },
+    {
+        "category": "tourist attractions",
+        "title": "깡깡이 예술마을",
+        "rating": 3.8,
+        "address": "36 Daepyeongbuk-ro, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0918144,
+        "longitude": 129.03385029999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Songdo Cloud Trails",
+        "rating": 4.4,
+        "address": "129-4 암남동, Seo-gu, Busan, South Korea",
+        "latitude": 35.0759423,
+        "longitude": 129.02157309999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Choryang Ibagu-gil Alley",
+        "rating": 4.2,
+        "address": "49 Choryangsang-ro, Dong-gu, Busan, South Korea",
+        "latitude": 35.1168609,
+        "longitude": 129.036664
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Busan Chinatown",
+        "rating": 4.1,
+        "address": "1209-13 초량제1동, Dong-gu, Busan, South Korea",
+        "latitude": 35.1136875,
+        "longitude": 129.0379375
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Gwangan Beach Park",
+        "rating": 4.6,
+        "address": "민락동, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1553916,
+        "longitude": 129.12336
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Oryukdo Islets",
+        "rating": 4.5,
+        "address": "936 Yongho-dong, Nam-gu, Busan, South Korea",
+        "latitude": 35.093793399999996,
+        "longitude": 129.12642359999998
+    },
+    {
+        "category": "parks",
+        "title": "Busan Citizens Park",
+        "rating": 4.6,
+        "address": "73 Simingongwon-ro, Busanjin District, Busan, South Korea",
+        "latitude": 35.168160799999995,
+        "longitude": 129.0573853
+    },
+    {
+        "category": "parks",
+        "title": "Yongdusan Park",
+        "rating": 4.3,
+        "address": "37-55 Yongdusan-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.1006536,
+        "longitude": 129.0326226
+    },
+    {
+        "category": "parks",
+        "title": "부산민주공원",
+        "rating": 4.4,
+        "address": "19 Minjugongwon-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.1101186,
+        "longitude": 129.0280611
+    },
+    {
+        "category": "parks",
+        "title": "Millak Waterside Park",
+        "rating": 4.2,
+        "address": "361 Gwanganhaebyeon-ro, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1545716,
+        "longitude": 129.1329907
+    },
+    {
+        "category": "parks",
+        "title": "Geumgang Park",
+        "rating": 4.4,
+        "address": "155 Ujangchun-ro, Dongnae-gu, Busan, South Korea",
+        "latitude": 35.2198358,
+        "longitude": 129.0760831
+    },
+    {
+        "category": "parks",
+        "title": "부산어린이대공원",
+        "rating": 4.5,
+        "address": "295 Saessak-ro, Busanjin District, Busan, South Korea",
+        "latitude": 35.1846343,
+        "longitude": 129.0434794
+    },
+    {
+        "category": "parks",
+        "title": "Taejongdae",
+        "rating": 4.4,
+        "address": "24 Jeonmang-ro, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.05307,
+        "longitude": 129.0872
+    },
+    {
+        "category": "parks",
+        "title": "Samnak Ecological Park",
+        "rating": 4.4,
+        "address": "686 삼락동, Sasang-gu, Busan, South Korea",
+        "latitude": 35.1687484,
+        "longitude": 128.9735403
+    },
+    {
+        "category": "parks",
+        "title": "Peace Park",
+        "rating": 4.5,
+        "address": "677-3 Daeyeon-dong, Nam-gu, Busan, South Korea",
+        "latitude": 35.1269223,
+        "longitude": 129.10089059999999
+    },
+    {
+        "category": "parks",
+        "title": "APEC Naru Park",
+        "rating": 4.5,
+        "address": "93 Suyeonggangbyeon-daero, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1706486,
+        "longitude": 129.12542729999998
+    },
+    {
+        "category": "parks",
+        "title": "Gwangan Beach Park",
+        "rating": 4.6,
+        "address": "민락동, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1553916,
+        "longitude": 129.12336
+    },
+    {
+        "category": "parks",
+        "title": "온천천 시민공원",
+        "rating": 4.4,
+        "address": "South Korea, Busan, Yeonje-gu, Yeonsan-dong",
+        "latitude": 35.1925373,
+        "longitude": 129.0950823
+    },
+    {
+        "category": "parks",
+        "title": "Dongbaek Park",
+        "rating": 4.6,
+        "address": "99 Dongbaek-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1537867,
+        "longitude": 129.1522058
+    },
+    {
+        "category": "parks",
+        "title": "대천공원",
+        "rating": 4.5,
+        "address": "331-19 Jangsan-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1811394,
+        "longitude": 129.167494
+    },
+    {
+        "category": "parks",
+        "title": "Busanjinseong Park (Jaseongdae Park)",
+        "rating": 4.1,
+        "address": "99 Jaseong-ro, Dong-gu, Busan, South Korea",
+        "latitude": 35.1361462,
+        "longitude": 129.0612265
+    },
+    {
+        "category": "parks",
+        "title": "화명생태공원",
+        "rating": 4.4,
+        "address": "1718-17 Hwamyeong-dong, Buk-gu, Busan, South Korea",
+        "latitude": 35.226711,
+        "longitude": 129.003513
+    },
+    {
+        "category": "parks",
+        "title": "다대포 해변공원",
+        "rating": 4.5,
+        "address": "Dadae-dong, Saha-gu, Busan, South Korea",
+        "latitude": 35.045711499999996,
+        "longitude": 128.9676791
+    },
+    {
+        "category": "parks",
+        "title": "Maekdo Ecological Park",
+        "rating": 4.5,
+        "address": "4390 대저2동, Gangseo-gu, Busan, South Korea",
+        "latitude": 35.1498233,
+        "longitude": 128.9558365
+    },
+    {
+        "category": "parks",
+        "title": "거울연못",
+        "rating": 4.5,
+        "address": "73 Simingongwon-ro, Busanjin District, Busan, South Korea",
+        "latitude": 35.1652408,
+        "longitude": 129.05576879999998
+    },
+    {
+        "category": "parks",
+        "title": "Eulsukdo Park",
+        "rating": 4.3,
+        "address": "1142-10 Hadan-dong, Saha-gu, Busan, South Korea",
+        "latitude": 35.1123908,
+        "longitude": 128.94640569999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Namaste Haeundae",
+        "rating": 4.8,
+        "address": "7 Haeundaehaebyeon-ro 265beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.160153699999995,
+        "longitude": 129.16063929999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Hi asia Pakistani & Indian halal restaurant 펀자브",
+        "rating": 4.7,
+        "address": "31 Gunam-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1613821,
+        "longitude": 129.1610316
+    },
+    {
+        "category": "restaurants",
+        "title": "Geumsubokguk, Haeundae Head Store",
+        "rating": 4.2,
+        "address": "23 Jungdong 1-ro 43beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.162420499999996,
+        "longitude": 129.16450609999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Samojeong",
+        "rating": 4.4,
+        "address": "11 Seomyeon-ro 68beon-gil, Busanjin District, Busan, South Korea",
+        "latitude": 35.1565813,
+        "longitude": 129.0584166
+    },
+    {
+        "category": "restaurants",
+        "title": "Jangsusam",
+        "rating": 4.6,
+        "address": "7 Suyeongseong-ro 3beon-gil, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1695,
+        "longitude": 129.119634
+    },
+    {
+        "category": "restaurants",
+        "title": "Yeonhwa dupbab [Fusion Korean Rice Bowl]",
+        "rating": 4.9,
+        "address": "2층, 연화덮밥 (Second floor, 20 Jungang-daero 756beon-gil, Busanjin District, Busan, South Korea",
+        "latitude": 35.159307,
+        "longitude": 129.0617322
+    },
+    {
+        "category": "restaurants",
+        "title": "온밥",
+        "rating": 4.7,
+        "address": "1 층, 49 Suyeong-ro 540beon-gil, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1534939,
+        "longitude": 129.114901
+    },
+    {
+        "category": "restaurants",
+        "title": "HASH TABLE",
+        "rating": 4.8,
+        "address": "74 Seojeon-ro, Busanjin District, Busan, South Korea",
+        "latitude": 35.1576884,
+        "longitude": 129.0677287
+    },
+    {
+        "category": "restaurants",
+        "title": "el olive",
+        "rating": 4.2,
+        "address": "129-1 Jwasuyeong-ro, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.175697299999996,
+        "longitude": 129.1179853
+    },
+    {
+        "category": "restaurants",
+        "title": "Korean casual dining dongnyeok",
+        "rating": 4.9,
+        "address": "5 Chungmu-daero 82beon-gil, Seo-gu, Busan, South Korea",
+        "latitude": 35.079186199999995,
+        "longitude": 129.0214875
+    },
+    {
+        "category": "restaurants",
+        "title": "Bonjeon Dwaeji Gukbap",
+        "rating": 4.1,
+        "address": "3-8 Jungang-daero 214beon-gil, Dong-gu, Busan, South Korea",
+        "latitude": 35.116595,
+        "longitude": 129.0414111
+    },
+    {
+        "category": "restaurants",
+        "title": "Gaemi-jip Seomyeon 1st street branch",
+        "rating": 4.2,
+        "address": "73 Sincheon-daero 62beon-gil, Busanjin District, Busan, South Korea",
+        "latitude": 35.1540323,
+        "longitude": 129.0582795
+    },
+    {
+        "category": "restaurants",
+        "title": "Dining Room Park Hyatt Busan",
+        "rating": 4.4,
+        "address": "51 Marine city 1-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1564055,
+        "longitude": 129.1421938
+    },
+    {
+        "category": "restaurants",
+        "title": "Piggy Bistro",
+        "rating": 4.7,
+        "address": "12 Dalmaji-gil, Jung-dong, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1620116,
+        "longitude": 129.1663132
+    },
+    {
+        "category": "restaurants",
+        "title": "Matchandeul Wang Sogeumgui, Seomyeon",
+        "rating": 4.4,
+        "address": "24-3 Jungang-daero 691beonga-gil, Busanjin District, Busan, South Korea",
+        "latitude": 35.1554917,
+        "longitude": 129.0556616
+    },
+    {
+        "category": "restaurants",
+        "title": "Jejuga",
+        "rating": 4.1,
+        "address": "8 Gwangbok-ro 85beon-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.0987741,
+        "longitude": 129.0342243
+    },
+    {
+        "category": "restaurants",
+        "title": "THE PARTY Haeundae",
+        "rating": 4.1,
+        "address": "팔레드시즈 B1F, 24 Haeundaehaebyeon-ro 298beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1602037,
+        "longitude": 129.16659719999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Haeundae Obok Dwaeji-gukbap Restaurant",
+        "rating": 4.4,
+        "address": "15 Gunam-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1626121,
+        "longitude": 129.1600382
+    },
+    {
+        "category": "restaurants",
+        "title": "Choryang Milmyeon",
+        "rating": 3.9,
+        "address": "225 Jungang-daero, Dong-gu, Busan, South Korea",
+        "latitude": 35.117359,
+        "longitude": 129.040609
+    },
+    {
+        "category": "restaurants",
+        "title": "Kitchen dongbaek",
+        "rating": 4.4,
+        "address": "85 Dalmaji-gil 117beonga-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.157781899999996,
+        "longitude": 129.1787818
+    },
+    {
+        "category": "cafes",
+        "title": "ZM-ILLENNIAL",
+        "rating": 4.7,
+        "address": "135 Jinnam-ro, Nam-gu, Busan, South Korea",
+        "latitude": 35.138874699999995,
+        "longitude": 129.08017189999998
+    },
+    {
+        "category": "cafes",
+        "title": "Waveon Coffee",
+        "rating": 4.2,
+        "address": "286 Haemaji-ro, Gijang-gun, Busan, South Korea",
+        "latitude": 35.3223106,
+        "longitude": 129.2696854
+    },
+    {
+        "category": "cafes",
+        "title": "더프커피(DUF Coffee)",
+        "rating": 5,
+        "address": "195 Gamnae 1-ro, Saha-gu, Busan, South Korea",
+        "latitude": 35.0962779,
+        "longitude": 129.009235
+    },
+    {
+        "category": "cafes",
+        "title": "Momos Coffee Flagship Store",
+        "rating": 4.4,
+        "address": "20 Osige-ro, Geumjeong-gu, Busan, South Korea",
+        "latitude": 35.219310799999995,
+        "longitude": 129.0864105
+    },
+    {
+        "category": "cafes",
+        "title": "Lisboa Cafeteria Busan",
+        "rating": 4.8,
+        "address": "F1, F2, 198 Jeoryeong-ro, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0796766,
+        "longitude": 129.0439591
+    },
+    {
+        "category": "cafes",
+        "title": "TIDE Coffee Roasters",
+        "rating": 4.9,
+        "address": "2층 타이드, 53 Dalmaji-gil 62beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.157617,
+        "longitude": 129.1729163
+    },
+    {
+        "category": "cafes",
+        "title": "Jeonpo Cafe Street",
+        "rating": 4.2,
+        "address": "92 Dongcheon-ro, Busanjin District, Busan, South Korea",
+        "latitude": 35.155398999999996,
+        "longitude": 129.0673266
+    },
+    {
+        "category": "cafes",
+        "title": "DIART coffee",
+        "rating": 4.5,
+        "address": "12 Cheongsapo-ro 128beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.160738099999996,
+        "longitude": 129.1918892
+    },
+    {
+        "category": "cafes",
+        "title": "Oldmug",
+        "rating": 4.5,
+        "address": "122 Songjeonggudeokpo-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1703499,
+        "longitude": 129.197057
+    },
+    {
+        "category": "cafes",
+        "title": "Blackup Coffee, Seomyeon",
+        "rating": 4.5,
+        "address": "41 Seojeon-ro 10beon-gil, Busanjin District, Busan, South Korea",
+        "latitude": 35.156058,
+        "longitude": 129.0600014
+    },
+    {
+        "category": "cafes",
+        "title": "Dongbaek dessert cafe",
+        "rating": 4.9,
+        "address": "18-19 Dalmaji-gil 104beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1577084,
+        "longitude": 129.1736666
+    },
+    {
+        "category": "cafes",
+        "title": "WERK ROASTERS",
+        "rating": 4.8,
+        "address": "566 Suyeong-ro, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1561203,
+        "longitude": 129.11300839999998
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Whiterock",
+        "rating": 4.8,
+        "address": "161 Cheongsapo-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1629267,
+        "longitude": 129.1948826
+    },
+    {
+        "category": "cafes",
+        "title": "Brown Hands Baekje Cafe",
+        "rating": 4.2,
+        "address": "16 Jungang-daero 209beon-gil, Dong-gu, Busan, South Korea",
+        "latitude": 35.116349299999996,
+        "longitude": 129.039158
+    },
+    {
+        "category": "cafes",
+        "title": "OFF COURSE Bakery Cafe",
+        "rating": 4.4,
+        "address": "30 Jeonpo-daero 199beon-gil, Busanjin District, Busan, South Korea",
+        "latitude": 35.1546154,
+        "longitude": 129.0635475
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Rabbit",
+        "rating": 4.9,
+        "address": "1 층, 5-57 Dalmaji-gil 62beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.158556,
+        "longitude": 129.1729495
+    },
+    {
+        "category": "cafes",
+        "title": "커피잇집",
+        "rating": 4.7,
+        "address": "115 Okcheon-ro, Saha-gu, Busan, South Korea",
+        "latitude": 35.0963171,
+        "longitude": 129.0100129
+    },
+    {
+        "category": "cafes",
+        "title": "Kiki rooftop cafe",
+        "rating": 4.8,
+        "address": "2 층, 16 Dalmaji-gil 50beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1606137,
+        "longitude": 129.1705493
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Rooftop Cheongsapo",
+        "rating": 4.3,
+        "address": "139-4 Cheongsapo-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1611366,
+        "longitude": 129.1936685
+    },
+    {
+        "category": "cafes",
+        "title": "Momos Yeongdo Roastery & Coffee bar",
+        "rating": 4.5,
+        "address": "160 Bongnaenaru-ro, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0961199,
+        "longitude": 129.042549
+    },
+    {
+        "category": "mountains",
+        "title": "Jangsan",
+        "rating": 4.4,
+        "address": "Busan, South Korea",
+        "latitude": 35.1944152,
+        "longitude": 129.14469019999999
+    },
+    {
+        "category": "mountains",
+        "title": "Geumjeongsan",
+        "rating": 4.6,
+        "address": "Busan, South Korea",
+        "latitude": 35.2830419,
+        "longitude": 129.05547389999998
+    },
+    {
+        "category": "mountains",
+        "title": "Seunghaksan Mountain",
+        "rating": 4.5,
+        "address": "산41 Dangni-dong, Saha-gu, Busan, South Korea",
+        "latitude": 35.1167314,
+        "longitude": 128.97975399999999
+    },
+    {
+        "category": "mountains",
+        "title": "Hwangnyeongsan",
+        "rating": 4.7,
+        "address": "Busan, South Korea",
+        "latitude": 35.1580572,
+        "longitude": 129.0822526
+    },
+    {
+        "category": "mountains",
+        "title": "Shihei-zan",
+        "rating": null,
+        "address": "Busan, South Korea",
+        "latitude": 35.1,
+        "longitude": 129.03333329999998
+    },
+    {
+        "category": "mountains",
+        "title": "Kokkaru San",
+        "rating": 3.3,
+        "address": "Busan, South Korea",
+        "latitude": 35.0833333,
+        "longitude": 129.06666669999998
+    },
+    {
+        "category": "mountains",
+        "title": "봉래산",
+        "rating": 4.5,
+        "address": "South Korea, Busan",
+        "latitude": 35.081954599999996,
+        "longitude": 129.0552017
+    },
+    {
+        "category": "mountains",
+        "title": "Fukuhei-san",
+        "rating": null,
+        "address": "Busan, South Korea",
+        "latitude": 35.1,
+        "longitude": 129.03333329999998
+    },
+    {
+        "category": "mountains",
+        "title": "황령산 봉수대",
+        "rating": 4.7,
+        "address": "산50-1 Jeonpo-dong, Busanjin District, Busan, South Korea",
+        "latitude": 35.1571056,
+        "longitude": 129.0820778
+    },
+    {
+        "category": "mountains",
+        "title": "승학산",
+        "rating": 4.5,
+        "address": "South Korea, Busan",
+        "latitude": 35.1317807,
+        "longitude": 128.98537349999998
+    },
+    {
+        "category": "mountains",
+        "title": "Sunghak-san",
+        "rating": 4.5,
+        "address": "Busan, South Korea",
+        "latitude": 35.116666699999996,
+        "longitude": 128.98
+    },
+    {
+        "category": "mountains",
+        "title": "금정산성 북문",
+        "rating": 4.5,
+        "address": "122 Bungmun-ro, Geumjeong-gu, Busan, South Korea",
+        "latitude": 35.2755,
+        "longitude": 129.05750419999998
+    },
+    {
+        "category": "mountains",
+        "title": "Kubong-san",
+        "rating": 4.2,
+        "address": "Busan, South Korea",
+        "latitude": 35.1255556,
+        "longitude": 129.0258333
+    },
+    {
+        "category": "mountains",
+        "title": "Yeondaebong",
+        "rating": 4.4,
+        "address": "Busan, South Korea",
+        "latitude": 35.0266667,
+        "longitude": 128.8338889
+    },
+    {
+        "category": "mountains",
+        "title": "금정산 고당봉",
+        "rating": 4.6,
+        "address": "73J2+3G, Busan, South Korea",
+        "latitude": 35.2800814,
+        "longitude": 129.0507402
+    },
+    {
+        "category": "mountains",
+        "title": "Ami-san",
+        "rating": 4.4,
+        "address": "Busan, South Korea",
+        "latitude": 35.0658333,
+        "longitude": 128.9688889
+    },
+    {
+        "category": "mountains",
+        "title": "Kumnyon-san",
+        "rating": 4.1,
+        "address": "Busan, South Korea",
+        "latitude": 35.1616667,
+        "longitude": 129.0961111
+    },
+    {
+        "category": "mountains",
+        "title": "Sansong",
+        "rating": 3.9,
+        "address": "Busan, South Korea",
+        "latitude": 35.2422222,
+        "longitude": 129.1933333
+    },
+    {
+        "category": "mountains",
+        "title": "Pongnae-san",
+        "rating": 4.5,
+        "address": "Busan, South Korea",
+        "latitude": 35.0822222,
+        "longitude": 129.0552778
+    },
+    {
+        "category": "mountains",
+        "title": "Geomunsan",
+        "rating": 5,
+        "address": "Busan, South Korea",
+        "latitude": 35.3019027,
+        "longitude": 129.1552418
+    },
+    {
+        "category": "waterfalls",
+        "title": "Yangun Waterfall",
+        "rating": 4.5,
+        "address": "Jangsan-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.190384099999996,
+        "longitude": 129.1606509
+    },
+    {
+        "category": "waterfalls",
+        "title": "송도폭포",
+        "rating": 4.2,
+        "address": "231-3 Amnam-dong, Seo-gu, Busan, South Korea",
+        "latitude": 35.0772725,
+        "longitude": 129.01879259999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "양운폭포",
+        "rating": 4.1,
+        "address": "Jwa-dong, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.190495999999996,
+        "longitude": 129.1600631
+    },
+    {
+        "category": "waterfalls",
+        "title": "애기소폭포",
+        "rating": 4.2,
+        "address": "Hwamyeong-dong, Buk-gu, Busan, South Korea",
+        "latitude": 35.2441016,
+        "longitude": 129.0275609
+    },
+    {
+        "category": "waterfalls",
+        "title": "홍연폭포",
+        "rating": 3.5,
+        "address": "South Korea, Busan, Gijang-gun, Cheolma-myeon, Gomnae-gil",
+        "latitude": 35.2969827,
+        "longitude": 129.1665818
+    },
+    {
+        "category": "waterfalls",
+        "title": "양산 무지개폭포",
+        "rating": 3.9,
+        "address": "산187 Pyeongsan-dong, Yangsan-si, Gyeongsangnam-do, South Korea",
+        "latitude": 35.383170199999995,
+        "longitude": 129.1215205
+    },
+    {
+        "category": "waterfalls",
+        "title": "폭포사",
+        "rating": 4.2,
+        "address": "331-112 Jangsan-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.187833,
+        "longitude": 129.1620777
+    },
+    {
+        "category": "waterfalls",
+        "title": "거울연못",
+        "rating": 4.5,
+        "address": "73 Simingongwon-ro, Busanjin District, Busan, South Korea",
+        "latitude": 35.1652408,
+        "longitude": 129.05576879999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "Jangsan",
+        "rating": 4.4,
+        "address": "Busan, South Korea",
+        "latitude": 35.1944152,
+        "longitude": 129.14469019999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "장산 중봉",
+        "rating": 4.3,
+        "address": "Jangsan-ro, U-dong, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1871483,
+        "longitude": 129.1491342
+    },
+    {
+        "category": "waterfalls",
+        "title": "Haeparang-gil starting point (from Oryukdo to Igidae)",
+        "rating": 4.6,
+        "address": "산196 용호제2동, Nam-gu, Busan, South Korea",
+        "latitude": 35.1045967,
+        "longitude": 129.123366
+    },
+    {
+        "category": "waterfalls",
+        "title": "Dadaepo Beach",
+        "rating": 4.3,
+        "address": "680 Dadae-ro, Dadae-dong, Saha-gu, Busan, South Korea",
+        "latitude": 35.0462468,
+        "longitude": 128.9631538
+    },
+    {
+        "category": "waterfalls",
+        "title": "다대포해수욕장",
+        "rating": 4.5,
+        "address": "South Korea",
+        "latitude": 35.0469015,
+        "longitude": 128.9662387
+    },
+    {
+        "category": "waterfalls",
+        "title": "Jeoryeong Coastal Walk",
+        "rating": 4.5,
+        "address": "650-4 Yeongseon-dong 4(sa)-ga, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0732314,
+        "longitude": 129.05140129999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "Oryukdo Skywalk",
+        "rating": 4.2,
+        "address": "137 Oryukdo-ro, Nam-gu, Busan, South Korea",
+        "latitude": 35.1006767,
+        "longitude": 129.12440089999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "구시폭포",
+        "rating": 5,
+        "address": "Jangsan-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1894774,
+        "longitude": 129.1613657
+    },
+    {
+        "category": "waterfalls",
+        "title": "홍룡폭포",
+        "rating": 4.5,
+        "address": "South Korea, Gyeongsangnam-do, Yangsan-si, Sangbuk-myeon, Daeseok-ri, 1",
+        "latitude": 35.3973678,
+        "longitude": 129.08730789999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "Gimhae Lotte Water Park",
+        "rating": 4.2,
+        "address": "555 Jangyu-ro, Gimhae-si, Gyeongsangnam-do, South Korea",
+        "latitude": 35.1808236,
+        "longitude": 128.82927469999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "장산산림욕장",
+        "rating": 4.5,
+        "address": "South Korea, Busan, Haeundae-gu, Jwa-dong, 1381",
+        "latitude": 35.1851389,
+        "longitude": 129.165133
+    },
+    {
+        "category": "waterfalls",
+        "title": "Igidae Coastal Trail",
+        "rating": 4.6,
+        "address": "산 129-1 Yongho-dong, Nam-gu, Busan, South Korea",
+        "latitude": 35.1180695,
+        "longitude": 129.12785119999998
+    },
+    {
+        "category": "lakes",
+        "title": "Hoedong-suwonji",
+        "rating": 3,
+        "address": "Busan",
+        "latitude": 35.2466667,
+        "longitude": 129.12222219999998
+    },
+    {
+        "category": "lakes",
+        "title": "Ungch'on-josuji",
+        "rating": null,
+        "address": "Busan",
+        "latitude": 35.2988889,
+        "longitude": 129.1930556
+    },
+    {
+        "category": "lakes",
+        "title": "Popki Suwonji",
+        "rating": null,
+        "address": "Yangsan-si",
+        "latitude": 35.351388899999996,
+        "longitude": 129.1033333
+    },
+    {
+        "category": "beaches",
+        "title": "Haeundae Beach",
+        "rating": 4.5,
+        "address": "264 Haeundaehaebyeon-ro, 중제1동, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.158697499999995,
+        "longitude": 129.16038419999998
+    },
+    {
+        "category": "beaches",
+        "title": "Haeundae Beach",
+        "rating": 4.6,
+        "address": "South Korea",
+        "latitude": 35.158697499999995,
+        "longitude": 129.16038419999998
+    },
+    {
+        "category": "beaches",
+        "title": "Gwangalli Beach",
+        "rating": 4.5,
+        "address": "219 Gwanganhaebyeon-ro, 광안제2동, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1531794,
+        "longitude": 129.11866089999998
+    },
+    {
+        "category": "beaches",
+        "title": "Dadaepo Beach",
+        "rating": 4.3,
+        "address": "680 Dadae-ro, Dadae-dong, Saha-gu, Busan, South Korea",
+        "latitude": 35.0462468,
+        "longitude": 128.9631538
+    },
+    {
+        "category": "beaches",
+        "title": "Haeundae Beach",
+        "rating": 4.7,
+        "address": "1415-27 Jung-dong, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.159023499999996,
+        "longitude": 129.16033729999998
+    },
+    {
+        "category": "beaches",
+        "title": "Gwangalli Beach",
+        "rating": 4.7,
+        "address": "Busan, South Korea",
+        "latitude": 35.1531696,
+        "longitude": 129.118666
+    },
+    {
+        "category": "beaches",
+        "title": "Songdo Beach",
+        "rating": 4.4,
+        "address": "135-5 Amnam-dong, Seo-gu, Busan, South Korea",
+        "latitude": 35.075406199999996,
+        "longitude": 129.0167859
+    },
+    {
+        "category": "beaches",
+        "title": "Ilgwang Beach",
+        "rating": 4.2,
+        "address": "115-20 Samseong-ri, Ilgwang-myeon, Gijang-gun, Busan, South Korea",
+        "latitude": 35.2622451,
+        "longitude": 129.2336003
+    },
+    {
+        "category": "beaches",
+        "title": "Songdo Beach",
+        "rating": 4.4,
+        "address": "South Korea",
+        "latitude": 35.0754546,
+        "longitude": 129.016761
+    },
+    {
+        "category": "swimming pools",
+        "title": "부산사직 실내수영장",
+        "rating": 4.2,
+        "address": "Sajik Indoor Pool, 29 Jonghabundongjang-ro, Dongnae-gu, Busan, South Korea",
+        "latitude": 35.192827699999995,
+        "longitude": 129.0634436
+    },
+    {
+        "category": "swimming pools",
+        "title": "광안해수월드",
+        "rating": 4.1,
+        "address": "7 Gwanganhaebyeon-ro 370beon-gil, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1558694,
+        "longitude": 129.1336059
+    },
+    {
+        "category": "swimming pools",
+        "title": "해운대교육지원청 수영장",
+        "rating": 4.2,
+        "address": "137 Sesil-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1768211,
+        "longitude": 129.1750076
+    },
+    {
+        "category": "swimming pools",
+        "title": "부산 북항 마리나",
+        "rating": 4.4,
+        "address": "72 Isunsin-daero, Jung-gu, Busan, South Korea",
+        "latitude": 35.1060082,
+        "longitude": 129.0432202
+    },
+    {
+        "category": "swimming pools",
+        "title": "삼락공원 야외수영장",
+        "rating": 4.1,
+        "address": "South Korea, Busan, Sasang-gu, Samnak-dong, 29-71",
+        "latitude": 35.157914999999996,
+        "longitude": 128.9700935
+    },
+    {
+        "category": "swimming pools",
+        "title": "Ananti Cove Waterhouse",
+        "rating": 4.6,
+        "address": "268-32 Gijanghaean-ro, Gijang-eup, Gijang-gun, Busan, South Korea",
+        "latitude": 35.1978551,
+        "longitude": 129.22836569999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Club D Oasis",
+        "rating": 3.7,
+        "address": "30 Dalmaji-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1600514,
+        "longitude": 129.1684719
+    },
+    {
+        "category": "swimming pools",
+        "title": "화명생태공원야외수영장",
+        "rating": 3.9,
+        "address": "-dong,, 599 덕천제2동, Buk-gu, Busan, South Korea",
+        "latitude": 35.2228326,
+        "longitude": 129.0021545
+    },
+    {
+        "category": "swimming pools",
+        "title": "Paradise Hotel Busan",
+        "rating": 4.5,
+        "address": "296 Haeundaehaebyeon-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1601338,
+        "longitude": 129.16468749999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "부산시어린이대공원 실내수영장",
+        "rating": 4.2,
+        "address": "South Korea, Busan, Busanjin District, 초읍동 43-1",
+        "latitude": 35.1840852,
+        "longitude": 129.0466894
+    },
+    {
+        "category": "swimming pools",
+        "title": "한국해양대학교레포츠센터(코리아서비스커뮤니케이션)",
+        "rating": 4,
+        "address": "South Korea, Busan, Yeongdo-gu, Dongsam-dong, 1",
+        "latitude": 35.074285499999995,
+        "longitude": 129.0882762
+    },
+    {
+        "category": "swimming pools",
+        "title": "Park Hyatt Busan",
+        "rating": 4.6,
+        "address": "51 Marine city 1-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.156544499999995,
+        "longitude": 129.1419018
+    },
+    {
+        "category": "swimming pools",
+        "title": "Grand Josun Busan",
+        "rating": 4.3,
+        "address": "292 Haeundaehaebyeon-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1600161,
+        "longitude": 129.1630504
+    },
+    {
+        "category": "swimming pools",
+        "title": "아시아선수촌스포츠센타",
+        "rating": 3.7,
+        "address": "South Korea, Busan, Haeundae-gu, Seonsuchon-ro, 122",
+        "latitude": 35.2006145,
+        "longitude": 129.12297709999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "J&P어린이전용수영장",
+        "rating": 5,
+        "address": "South Korea, Busan, Haeundae-gu, Jwa-dong, 지하1층 1461-7",
+        "latitude": 35.1721777,
+        "longitude": 129.1759962
+    },
+    {
+        "category": "swimming pools",
+        "title": "부산곰두리스포츠센터",
+        "rating": 4.2,
+        "address": "South Korea, Busan, Yeonje-gu, Hwaji-ro, 109",
+        "latitude": 35.1850492,
+        "longitude": 129.0660455
+    },
+    {
+        "category": "swimming pools",
+        "title": "동해수영장",
+        "rating": 2.3,
+        "address": "South Korea, 부산 부산진구 당감3동(산) 516-6",
+        "latitude": 35.1644444,
+        "longitude": 129.03567379999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Ananti at Busan Cove",
+        "rating": 4.5,
+        "address": "268-32 Gijanghaean-ro, Gijang-gun, Busan, South Korea",
+        "latitude": 35.1976638,
+        "longitude": 129.22808609999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hotel Aqua Palace",
+        "rating": 3.8,
+        "address": "225 Gwanganhaebyeon-ro, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1540793,
+        "longitude": 129.1188051
+    },
+    {
+        "category": "swimming pools",
+        "title": "LOTTE HOTEL BUSAN",
+        "rating": 4.4,
+        "address": "772 Gaya-daero, Busanjin District, Busan, South Korea",
+        "latitude": 35.156766,
+        "longitude": 129.05587
+    },
+    {
+        "category": "resorts",
+        "title": "Paradise Hotel Busan",
+        "rating": 4.5,
+        "address": "296 Haeundaehaebyeon-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1601338,
+        "longitude": 129.16468749999999
+    },
+    {
+        "category": "resorts",
+        "title": "Hanhwa Resort Haeundae",
+        "rating": 4.3,
+        "address": "52 Marine city 3-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.154493099999996,
+        "longitude": 129.14510199999998
+    },
+    {
+        "category": "resorts",
+        "title": "SIGNIEL BUSAN",
+        "rating": 4.6,
+        "address": "30 Dalmaji-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1599375,
+        "longitude": 129.1698125
+    },
+    {
+        "category": "resorts",
+        "title": "Park Hyatt Busan",
+        "rating": 4.6,
+        "address": "51 Marine city 1-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.156544499999995,
+        "longitude": 129.1419018
+    },
+    {
+        "category": "resorts",
+        "title": "Grand Josun Busan",
+        "rating": 4.3,
+        "address": "292 Haeundaehaebyeon-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1600161,
+        "longitude": 129.1630504
+    },
+    {
+        "category": "resorts",
+        "title": "LOTTE HOTEL BUSAN",
+        "rating": 4.4,
+        "address": "772 Gaya-daero, Busanjin District, Busan, South Korea",
+        "latitude": 35.156766,
+        "longitude": 129.05587
+    },
+    {
+        "category": "resorts",
+        "title": "Wyndham Grand Busan Ljin",
+        "rating": 4.6,
+        "address": "27 Deungdae-r, Seo-gu, Busan, South Korea",
+        "latitude": 35.0785287,
+        "longitude": 129.02441579999999
+    },
+    {
+        "category": "resorts",
+        "title": "LOTTE HOTELS & RESORTS GIMHAE",
+        "rating": 4.5,
+        "address": "505 Jangyu-ro, Gimhae-si, Gyeongsangnam-do, South Korea",
+        "latitude": 35.181135999999995,
+        "longitude": 128.8255388
+    },
+    {
+        "category": "resorts",
+        "title": "Ananti at Busan Cove",
+        "rating": 4.5,
+        "address": "268-32 Gijanghaean-ro, Gijang-gun, Busan, South Korea",
+        "latitude": 35.1976638,
+        "longitude": 129.22808609999998
+    },
+    {
+        "category": "resorts",
+        "title": "IJE Busan",
+        "rating": 4.1,
+        "address": "70 Yeonhwa-gil, Gijang-gun, Busan, South Korea",
+        "latitude": 35.219781999999995,
+        "longitude": 129.226732
+    },
+    {
+        "category": "resorts",
+        "title": "Ananti at Busan Village",
+        "rating": 4.8,
+        "address": "733 Sirang-ri, Gijang-eup, Gijang-gun, Busan, South Korea",
+        "latitude": 35.1988117,
+        "longitude": 129.2222653
+    },
+    {
+        "category": "resorts",
+        "title": "Paledecz Condominium",
+        "rating": 4.3,
+        "address": "24 Haeundaehaebyeon-ro 298beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.160128,
+        "longitude": 129.1665765
+    },
+    {
+        "category": "resorts",
+        "title": "Ananti Cove",
+        "rating": 4.6,
+        "address": "268-31 Gijanghaean-ro, Gijang-gun, Busan, South Korea",
+        "latitude": 35.1995894,
+        "longitude": 129.2286581
+    },
+    {
+        "category": "resorts",
+        "title": "Baymond Hotel",
+        "rating": 4.4,
+        "address": "27 Haeundaehaebyeon-ro 209beonga-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1595278,
+        "longitude": 129.15671849999998
+    },
+    {
+        "category": "resorts",
+        "title": "Gwangan Hound Hotel",
+        "rating": 4.3,
+        "address": "12 Namcheonbada-ro 33beon-gil, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.148902,
+        "longitude": 129.1145355
+    },
+    {
+        "category": "resorts",
+        "title": "DOAN KIDS POOL VILLA HOTEL",
+        "rating": null,
+        "address": "27 World cup-daero 474beon-gil, Busan, South Korea",
+        "latitude": 35.182463999999996,
+        "longitude": 129.048265
+    },
+    {
+        "category": "resorts",
+        "title": "L7 HAEUNDAE",
+        "rating": 4.3,
+        "address": "55 Haeun-daero 570beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1600959,
+        "longitude": 129.1600932
+    },
+    {
+        "category": "resorts",
+        "title": "Busan Hotel February Songdo Amnam",
+        "rating": 4.2,
+        "address": "247 Amnamgongwon-ro, Seo-gu, Busan, South Korea",
+        "latitude": 35.065272,
+        "longitude": 129.013622
+    },
+    {
+        "category": "resorts",
+        "title": "AG405 Hotel",
+        "rating": 4.6,
+        "address": "141 Millaksubyeon-ro, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1564887,
+        "longitude": 129.1345016
+    },
+    {
+        "category": "resorts",
+        "title": "Best Western Haeundae Hotel",
+        "rating": 4.1,
+        "address": "42 Gunam-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.160328199999995,
+        "longitude": 129.16133159999998
+    },
+    {
+        "category": "camping sites",
+        "title": "Yeongdo Marino Auto Camping Site",
+        "rating": 4.5,
+        "address": "13-16 Haeyang-ro, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.1018002,
+        "longitude": 129.0611296
+    },
+    {
+        "category": "camping sites",
+        "title": "Busan Port Healing Campground",
+        "rating": 3.7,
+        "address": "1185-1 초량제3동, Dong-gu, Busan, South Korea",
+        "latitude": 35.111984899999996,
+        "longitude": 129.05096799999998
+    },
+    {
+        "category": "camping sites",
+        "title": "더 무빙",
+        "rating": 4.1,
+        "address": "South Korea, Busan, Gijang-gun, Jangan-eup, Wollae-ri, 553",
+        "latitude": 35.3225878,
+        "longitude": 129.2699943
+    },
+    {
+        "category": "camping sites",
+        "title": "Samnak Auto Camping Site",
+        "rating": 4.1,
+        "address": "29-59 Samnak-dong, Sasang-gu, Busan, South Korea",
+        "latitude": 35.1661261,
+        "longitude": 128.96957
+    },
+    {
+        "category": "camping sites",
+        "title": "Gaya Land Moonlight campsites",
+        "rating": 3.9,
+        "address": "67 Sineosan-gil, Sambang-dong, Gimhae-si, Gyeongsangnam-do, South Korea",
+        "latitude": 35.259268899999995,
+        "longitude": 128.9053629
+    },
+    {
+        "category": "camping sites",
+        "title": "대저캠핑장",
+        "rating": 4.2,
+        "address": "South Korea, Busan, Gangseo-gu, 대저1동 1-12",
+        "latitude": 35.214927599999996,
+        "longitude": 128.9901935
+    },
+    {
+        "category": "camping sites",
+        "title": "Imnang Beach",
+        "rating": 4.3,
+        "address": "Imnanghaean-gil, Jangan-eup, Gijang-gun, Busan, South Korea",
+        "latitude": 35.316341,
+        "longitude": 129.2623466
+    },
+    {
+        "category": "camping sites",
+        "title": "장안캠프",
+        "rating": 4,
+        "address": "South Korea, Busan, Gijang-gun, Jangan-eup, Jangan-ro, 18",
+        "latitude": 35.3424384,
+        "longitude": 129.2516053
+    },
+    {
+        "category": "camping sites",
+        "title": "화명오토캠핑장",
+        "rating": 4.2,
+        "address": "763 Deokcheon-dong, Buk-gu, Busan, South Korea",
+        "latitude": 35.216629999999995,
+        "longitude": 128.99918
+    },
+    {
+        "category": "camping sites",
+        "title": "나비암",
+        "rating": 4.1,
+        "address": "산4-9 Guseo-dong, Geumjeong-gu, Busan, South Korea",
+        "latitude": 35.256990099999996,
+        "longitude": 129.067925
+    },
+    {
+        "category": "camping sites",
+        "title": "(주)캠프라인",
+        "rating": 4.2,
+        "address": "South Korea, Busan, Sasang-gu, Samnak-dong, 356-20",
+        "latitude": 35.184826799999996,
+        "longitude": 128.97730389999998
+    },
+    {
+        "category": "camping sites",
+        "title": "낙원농원",
+        "rating": 4.3,
+        "address": "South Korea, Busan, Gijang-gun, Cheolma-myeon, Imgi-ri, 240",
+        "latitude": 35.336325099999996,
+        "longitude": 129.1269169
+    },
+    {
+        "category": "camping sites",
+        "title": "marketours2",
+        "rating": null,
+        "address": "South Korea, Busan, Gijang-gun, Banggok 2-ro, 5-1",
+        "latitude": 35.3257749,
+        "longitude": 129.1891925
+    },
+    {
+        "category": "camping sites",
+        "title": "송도오션파크",
+        "rating": 4.3,
+        "address": "135-23 Amnam-dong, Seo-gu, Busan, South Korea",
+        "latitude": 35.0730128,
+        "longitude": 129.0174075
+    },
+    {
+        "category": "camping sites",
+        "title": "임랑카라반파크팬션",
+        "rating": 3.6,
+        "address": "South Korea, Busan, Gijang-gun, Ilgwang-myeon, Mundong-ri, 70-3번지",
+        "latitude": 35.3091686,
+        "longitude": 129.2594192
+    },
+    {
+        "category": "camping sites",
+        "title": "만석꾼캠핑장",
+        "rating": 3.7,
+        "address": "South Korea, Busan, Gijang-gun, Jangan-eup, Wollae-ri, 368-1번지",
+        "latitude": 35.3310977,
+        "longitude": 129.2712675
+    },
+    {
+        "category": "camping sites",
+        "title": "황산 캠핑장",
+        "rating": 4.6,
+        "address": "South Korea, Gyeongsangnam-do, Yangsan-si, Mulgeum-eup, Mulgeum-ri, 225-1",
+        "latitude": 35.301449399999996,
+        "longitude": 128.9894338
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Site",
+        "rating": null,
+        "address": "963-24 Yongpyeong-dong, Miryang-si, Gyeongsangnam-do, South Korea",
+        "latitude": 35.4902161,
+        "longitude": 128.7813463
+    },
+    {
+        "category": "camping sites",
+        "title": "신어산장",
+        "rating": 4.3,
+        "address": "South Korea, Gyeongsangnam-do, Gimhae-si, Sangdong-myeon, Jangcheok-ro 462beon-gil, 196",
+        "latitude": 35.278962799999995,
+        "longitude": 128.9229487
+    },
+    {
+        "category": "hiking trails",
+        "title": "Igidae Coastal Trail",
+        "rating": 4.6,
+        "address": "산 129-1 Yongho-dong, Nam-gu, Busan, South Korea",
+        "latitude": 35.1180695,
+        "longitude": 129.12785119999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Seunghaksan Mountain",
+        "rating": 4.5,
+        "address": "산41 Dangni-dong, Saha-gu, Busan, South Korea",
+        "latitude": 35.1167314,
+        "longitude": 128.97975399999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Haeparang-gil starting point (from Oryukdo to Igidae)",
+        "rating": 4.6,
+        "address": "산196 용호제2동, Nam-gu, Busan, South Korea",
+        "latitude": 35.1045967,
+        "longitude": 129.123366
+    },
+    {
+        "category": "hiking trails",
+        "title": "절영해안 산책로입구",
+        "rating": 4.4,
+        "address": "186-84 Yeongseon-dong 4(sa)-ga, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0814064,
+        "longitude": 129.0409703
+    },
+    {
+        "category": "hiking trails",
+        "title": "애진봉",
+        "rating": 4.4,
+        "address": "부암제3동, Busanjin District, Busan, South Korea",
+        "latitude": 35.1798879,
+        "longitude": 129.0197543
+    },
+    {
+        "category": "hiking trails",
+        "title": "Osiria Coastal Walk",
+        "rating": 4.6,
+        "address": "62-15 Sirang-ri, Gijang-eup, Gijang-gun, Busan, South Korea",
+        "latitude": 35.1964237,
+        "longitude": 129.2284464
+    },
+    {
+        "category": "hiking trails",
+        "title": "Songdo Cloud Trails",
+        "rating": 4.4,
+        "address": "129-4 암남동, Seo-gu, Busan, South Korea",
+        "latitude": 35.0759423,
+        "longitude": 129.02157309999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "금정산성 등산로",
+        "rating": 4.7,
+        "address": "62FX+9Q8, Busan, South Korea",
+        "latitude": 35.223412499999995,
+        "longitude": 129.0494531
+    },
+    {
+        "category": "hiking trails",
+        "title": "Igidae",
+        "rating": 4.6,
+        "address": "105-20 Igidaegongwon-ro, 용호제3동, Nam-gu, Busan, South Korea",
+        "latitude": 35.132210799999996,
+        "longitude": 129.1210029
+    },
+    {
+        "category": "hiking trails",
+        "title": "Jeoryeong Coastal Walk",
+        "rating": 4.5,
+        "address": "650-4 Yeongseon-dong 4(sa)-ga, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0732314,
+        "longitude": 129.05140129999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "장산 중봉",
+        "rating": 4.3,
+        "address": "Jangsan-ro, U-dong, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1871483,
+        "longitude": 129.1491342
+    },
+    {
+        "category": "hiking trails",
+        "title": "금정산 고당봉",
+        "rating": 4.6,
+        "address": "73J2+3G, Busan, South Korea",
+        "latitude": 35.2800814,
+        "longitude": 129.0507402
+    },
+    {
+        "category": "hiking trails",
+        "title": "Jangsan",
+        "rating": 4.4,
+        "address": "Busan, South Korea",
+        "latitude": 35.1944152,
+        "longitude": 129.14469019999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Jeoryeong Coastal Trail",
+        "rating": 4.5,
+        "address": "Yeongseon-dong 4(sa)-ga, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0806657,
+        "longitude": 129.0415521
+    },
+    {
+        "category": "hiking trails",
+        "title": "Oryukdo Skywalk",
+        "rating": 4.2,
+        "address": "137 Oryukdo-ro, Nam-gu, Busan, South Korea",
+        "latitude": 35.1006767,
+        "longitude": 129.12440089999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Yangun Waterfall",
+        "rating": 4.5,
+        "address": "Jangsan-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.190384099999996,
+        "longitude": 129.1606509
+    },
+    {
+        "category": "hiking trails",
+        "title": "부산그린레일웨이",
+        "rating": 4.4,
+        "address": "South Korea, Busan, Haeundae-gu, Songjeong-dong, 753-1",
+        "latitude": 35.176052299999995,
+        "longitude": 129.1969232
+    },
+    {
+        "category": "hiking trails",
+        "title": "장산산림욕장",
+        "rating": 4.5,
+        "address": "South Korea, Busan, Haeundae-gu, Jwa-dong, 1381",
+        "latitude": 35.1851389,
+        "longitude": 129.165133
+    },
+    {
+        "category": "hiking trails",
+        "title": "Igidae Seopjari",
+        "rating": 4.5,
+        "address": "산1 Yongho-dong, Nam-gu, Busan, South Korea",
+        "latitude": 35.1318453,
+        "longitude": 129.1211447
+    },
+    {
+        "category": "hiking trails",
+        "title": "달맞이동산",
+        "rating": 4.3,
+        "address": "Jung-dong, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1569797,
+        "longitude": 129.18220209999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Igidae Coastal Trail",
+        "rating": 4.6,
+        "address": "산 129-1 Yongho-dong, Nam-gu, Busan, South Korea",
+        "latitude": 35.1180695,
+        "longitude": 129.12785119999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "대저생태공원",
+        "rating": 4.2,
+        "address": "2314-11 Daejeo 1(il)-dong, Gangseo-gu, Busan, South Korea",
+        "latitude": 35.204890899999995,
+        "longitude": 128.982775
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Osiria Coastal Walk",
+        "rating": 4.6,
+        "address": "62-15 Sirang-ri, Gijang-eup, Gijang-gun, Busan, South Korea",
+        "latitude": 35.1964237,
+        "longitude": 129.2284464
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Jeoryeong Coastal Walk",
+        "rating": 4.5,
+        "address": "650-4 Yeongseon-dong 4(sa)-ga, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0732314,
+        "longitude": 129.05140129999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Gamcheon Culture Village",
+        "rating": 4.4,
+        "address": "203 Gamnae 2-ro, Saha-gu, Busan, South Korea",
+        "latitude": 35.0973904,
+        "longitude": 129.0105924
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Samnak Ecological Park",
+        "rating": 4.4,
+        "address": "686 삼락동, Sasang-gu, Busan, South Korea",
+        "latitude": 35.1687484,
+        "longitude": 128.9735403
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "우암동도시숲",
+        "rating": 4.4,
+        "address": "산12 Uam 2(i)-dong, Nam-gu, Busan, South Korea",
+        "latitude": 35.1273176,
+        "longitude": 129.0741691
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "화명생태공원",
+        "rating": 4.4,
+        "address": "1718-17 Hwamyeong-dong, Buk-gu, Busan, South Korea",
+        "latitude": 35.226711,
+        "longitude": 129.003513
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Oryukdo Skywalk",
+        "rating": 4.2,
+        "address": "137 Oryukdo-ro, Nam-gu, Busan, South Korea",
+        "latitude": 35.1006767,
+        "longitude": 129.12440089999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ahopsan Forest",
+        "rating": 4,
+        "address": "37-1 Midong-gil, Cheolma-myeon, Gijang-gun, Busan, South Korea",
+        "latitude": 35.2871145,
+        "longitude": 129.1715058
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Taejongdae",
+        "rating": 4.4,
+        "address": "24 Jeonmang-ro, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.05307,
+        "longitude": 129.0872
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Haedong Yonggungsa Temple",
+        "rating": 4.4,
+        "address": "86 Yonggung-gil, Gijang-gun, Busan, South Korea",
+        "latitude": 35.188349099999996,
+        "longitude": 129.2233197
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Oryukdo Islets",
+        "rating": 4.5,
+        "address": "936 Yongho-dong, Nam-gu, Busan, South Korea",
+        "latitude": 35.093793399999996,
+        "longitude": 129.12642359999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Jagalchi Market",
+        "rating": 4,
+        "address": "52 Jagalchihaean-ro, Jung-gu, Busan, South Korea",
+        "latitude": 35.0966339,
+        "longitude": 129.0307965
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Yongdusan Park",
+        "rating": 4.3,
+        "address": "37-55 Yongdusan-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.1006536,
+        "longitude": 129.0326226
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Igidae",
+        "rating": 4.6,
+        "address": "105-20 Igidaegongwon-ro, 용호제3동, Nam-gu, Busan, South Korea",
+        "latitude": 35.132210799999996,
+        "longitude": 129.1210029
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "부산 치유의 숲",
+        "rating": 3.9,
+        "address": "South Korea, Busan, Gijang-gun, Cheolma-myeon, Cheolmacheon-ro, 101",
+        "latitude": 35.272895,
+        "longitude": 129.138057
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Busan Citizens Park",
+        "rating": 4.6,
+        "address": "73 Simingongwon-ro, Busanjin District, Busan, South Korea",
+        "latitude": 35.168160799999995,
+        "longitude": 129.0573853
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "온천천 시민공원",
+        "rating": 4.4,
+        "address": "South Korea, Busan, Yeonje-gu, Yeonsan-dong",
+        "latitude": 35.1925373,
+        "longitude": 129.0950823
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "APEC Naru Park",
+        "rating": 4.5,
+        "address": "93 Suyeonggangbyeon-daero, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1706486,
+        "longitude": 129.12542729999998
+    },
+    {
+        "category": "temples",
+        "title": "Haedong Yonggungsa Temple",
+        "rating": 4.4,
+        "address": "86 Yonggung-gil, Gijang-gun, Busan, South Korea",
+        "latitude": 35.188349099999996,
+        "longitude": 129.2233197
+    },
+    {
+        "category": "temples",
+        "title": "Beomeosa Temple",
+        "rating": 4.6,
+        "address": "250 Beomeosa-ro, Geumjeong-gu, Busan, South Korea",
+        "latitude": 35.2839899,
+        "longitude": 129.0687639
+    },
+    {
+        "category": "temples",
+        "title": "Seokbulsa",
+        "rating": 4.5,
+        "address": "143-79 Mandeokgogae-gil, Buk-gu, Busan, South Korea",
+        "latitude": 35.221508299999996,
+        "longitude": 129.0488444
+    },
+    {
+        "category": "temples",
+        "title": "Samgwangsa",
+        "rating": 4.6,
+        "address": "77 Choeupcheon-ro 43beon-gil, Busanjin District, Busan, South Korea",
+        "latitude": 35.1754288,
+        "longitude": 129.04338819999998
+    },
+    {
+        "category": "temples",
+        "title": "홍법사",
+        "rating": 4.4,
+        "address": "202 Dugu-ro 33beon-gil, Geumjeong-gu, Busan, South Korea",
+        "latitude": 35.303593899999996,
+        "longitude": 129.1101843
+    },
+    {
+        "category": "temples",
+        "title": "Daegaksa Temple",
+        "rating": 4.3,
+        "address": "19 Gwangbokjungang-ro, Jung-gu, Busan, South Korea",
+        "latitude": 35.1010159,
+        "longitude": 129.0306802
+    },
+    {
+        "category": "temples",
+        "title": "장안사",
+        "rating": 4.3,
+        "address": "482 Jangan-ro, Jangan-eup, Gijang-gun, Busan, South Korea",
+        "latitude": 35.3745942,
+        "longitude": 129.2329263
+    },
+    {
+        "category": "temples",
+        "title": "태종사",
+        "rating": 4.2,
+        "address": "119 Jeonmang-ro, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.055923199999995,
+        "longitude": 129.0881545
+    },
+    {
+        "category": "temples",
+        "title": "내원정사",
+        "rating": 4.3,
+        "address": "80 Eomgwangsan-ro 40beon-gil, Seo-gu, Busan, South Korea",
+        "latitude": 35.1264371,
+        "longitude": 129.01227839999999
+    },
+    {
+        "category": "temples",
+        "title": "Haeunjeongsa",
+        "rating": 4.4,
+        "address": "40-6 Udong 2-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1684741,
+        "longitude": 129.1590785
+    },
+    {
+        "category": "temples",
+        "title": "해광사",
+        "rating": 4.4,
+        "address": "340 Gijanghaean-ro, Gijang-gun, Busan, South Korea",
+        "latitude": 35.205737299999996,
+        "longitude": 129.2256018
+    },
+    {
+        "category": "temples",
+        "title": "청련암",
+        "rating": 4.4,
+        "address": "250 Beomeosa-ro, Geumjeong-gu, Busan, South Korea",
+        "latitude": 35.2873583,
+        "longitude": 129.0684158
+    },
+    {
+        "category": "temples",
+        "title": "성불사",
+        "rating": 4.4,
+        "address": "1108-11 U-dong, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1816473,
+        "longitude": 129.1436803
+    },
+    {
+        "category": "temples",
+        "title": "옥련선원",
+        "rating": 4.6,
+        "address": "South Korea, Busan, Suyeong-gu, Gwangnam-ro 257beon-gil, 58",
+        "latitude": 35.1628075,
+        "longitude": 129.1258318
+    },
+    {
+        "category": "temples",
+        "title": "마하사",
+        "rating": 4.4,
+        "address": "138 Bongsu-ro, Yeonje-gu, Busan, South Korea",
+        "latitude": 35.163622499999995,
+        "longitude": 129.0875541
+    },
+    {
+        "category": "temples",
+        "title": "금련사",
+        "rating": 4.5,
+        "address": "16 Gwangil-ro 67beon-gil, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.162276,
+        "longitude": 129.1058717
+    },
+    {
+        "category": "temples",
+        "title": "안적사",
+        "rating": 4.5,
+        "address": "461-16 Naeri-gil, Gijang-eup, Gijang-gun, Busan, South Korea",
+        "latitude": 35.2141405,
+        "longitude": 129.1698949
+    },
+    {
+        "category": "temples",
+        "title": "폭포사",
+        "rating": 4.2,
+        "address": "331-112 Jangsan-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.187833,
+        "longitude": 129.1620777
+    },
+    {
+        "category": "temples",
+        "title": "구명사",
+        "rating": 4,
+        "address": "316 Jeonmang-ro, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0553123,
+        "longitude": 129.0846609
+    },
+    {
+        "category": "temples",
+        "title": "Gyemyeong-Am",
+        "rating": 4.6,
+        "address": "244 Beomeosa-ro, Geumjeong-gu, Busan, South Korea",
+        "latitude": 35.285691199999995,
+        "longitude": 129.07293289999998
+    },
+    {
+        "category": "museums",
+        "title": "Busan Museum",
+        "rating": 4.4,
+        "address": "63 UN pyeonghwa-ro, Nam-gu, Busan, South Korea",
+        "latitude": 35.129517799999995,
+        "longitude": 129.09415099999998
+    },
+    {
+        "category": "museums",
+        "title": "National Maritime Museum of Korea",
+        "rating": 4.3,
+        "address": "45 Haeyang-ro 301beon-gil, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0783256,
+        "longitude": 129.0798565
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Contemporary Art, Busan",
+        "rating": 4.3,
+        "address": "1191 Nakdongnam-ro, Saha-gu, Busan, South Korea",
+        "latitude": 35.1092764,
+        "longitude": 128.9427503
+    },
+    {
+        "category": "museums",
+        "title": "Busan Museum of Movies",
+        "rating": 4.2,
+        "address": "12 Daecheong-ro 126beon-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.101701999999996,
+        "longitude": 129.0337655
+    },
+    {
+        "category": "museums",
+        "title": "복천박물관",
+        "rating": 4.3,
+        "address": "South Korea, Busan, Dongnae-gu, Bokcheon-ro, 63",
+        "latitude": 35.2088384,
+        "longitude": 129.0911855
+    },
+    {
+        "category": "museums",
+        "title": "Busan Modern and Contemporary History Museum Annex",
+        "rating": 4.3,
+        "address": "104 Daecheong-ro, Jung-gu, Busan, South Korea",
+        "latitude": 35.1026453,
+        "longitude": 129.0312644
+    },
+    {
+        "category": "museums",
+        "title": "United Nations Peace Memorial Hall",
+        "rating": 4.6,
+        "address": "106 Honggok-ro 320beon-gil, Nam-gu, Busan, South Korea",
+        "latitude": 35.1248837,
+        "longitude": 129.0932515
+    },
+    {
+        "category": "museums",
+        "title": "Trick Eye Museum, Busan",
+        "rating": 4.1,
+        "address": "2층, 12 Daecheong-ro 126beon-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.1017777,
+        "longitude": 129.0336557
+    },
+    {
+        "category": "museums",
+        "title": "Provisional Capital Memorial Hall",
+        "rating": 4.4,
+        "address": "45 Imsisudoginyeom-ro, Seo-gu, Busan, South Korea",
+        "latitude": 35.103541,
+        "longitude": 129.01743059999998
+    },
+    {
+        "category": "museums",
+        "title": "국립부산과학관",
+        "rating": 4.6,
+        "address": "59 동부산관광6로, Gijang-gun, Busan, South Korea",
+        "latitude": 35.2046875,
+        "longitude": 129.21268899999998
+    },
+    {
+        "category": "museums",
+        "title": "Seokdang Museum, Dong-a University",
+        "rating": 4.5,
+        "address": "225 Gudeok-ro, Seo-gu, Busan, South Korea",
+        "latitude": 35.1048512,
+        "longitude": 129.0195335
+    },
+    {
+        "category": "museums",
+        "title": "부산해양자연사박물관",
+        "rating": 4.4,
+        "address": "175 Ujangchun-ro, Dongnae-gu, Busan, South Korea",
+        "latitude": 35.2219498,
+        "longitude": 129.07564689999998
+    },
+    {
+        "category": "museums",
+        "title": "Busan Science Center",
+        "rating": 4.3,
+        "address": "11 Jungang-daero 260beon-gil, Dong-gu, Busan, South Korea",
+        "latitude": 35.120219999999996,
+        "longitude": 129.0440363
+    },
+    {
+        "category": "museums",
+        "title": "국립일제강제동원역사관",
+        "rating": 4.5,
+        "address": "Daeyeon-dong, Nam-gu, Busan, South Korea",
+        "latitude": 35.12499,
+        "longitude": 129.092335
+    },
+    {
+        "category": "museums",
+        "title": "International Coffee Museum",
+        "rating": 3.6,
+        "address": "380 Jungang-daero, Dong-gu, Busan, South Korea",
+        "latitude": 35.128607699999996,
+        "longitude": 129.0494141
+    },
+    {
+        "category": "museums",
+        "title": "Busan Israel House",
+        "rating": 4,
+        "address": "Millak-ro 33beon-gil, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1579177,
+        "longitude": 129.1213163
+    },
+    {
+        "category": "museums",
+        "title": "ARTE MUSEUM Busan",
+        "rating": 4.9,
+        "address": "29 Haeyang-ro 247beon-gil, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0870682,
+        "longitude": 129.076373
+    },
+    {
+        "category": "museums",
+        "title": "Dongsam-dong Shell Midden Museum",
+        "rating": 4.1,
+        "address": "729 Taejong-ro, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0712598,
+        "longitude": 129.07978169999998
+    },
+    {
+        "category": "museums",
+        "title": "고은사진미술관",
+        "rating": 4.4,
+        "address": "16 Haeun-daero 452beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1631644,
+        "longitude": 129.1410513
+    },
+    {
+        "category": "museums",
+        "title": "정관박물관",
+        "rating": 4.5,
+        "address": "122 Jeonggwanjungang-ro, Jeonggwan-eup, Gijang-gun, Busan, South Korea",
+        "latitude": 35.3269928,
+        "longitude": 129.1823403
+    },
+    {
+        "category": "night markets",
+        "title": "Bupyeong Kkangtong Market",
+        "rating": 4.1,
+        "address": "39 Bupyeong 1-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.101853999999996,
+        "longitude": 129.0258719
+    },
+    {
+        "category": "night markets",
+        "title": "Gukje Market",
+        "rating": 4.1,
+        "address": "55 Gukjesijang 2-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.1013575,
+        "longitude": 129.0281978
+    },
+    {
+        "category": "night markets",
+        "title": "Haeundae Traditional Market",
+        "rating": 4.2,
+        "address": "22-1 Gunam-ro 41beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.161453699999996,
+        "longitude": 129.16224889999998
+    },
+    {
+        "category": "night markets",
+        "title": "수영팔도시장",
+        "rating": 4.1,
+        "address": "36 Suyeong-ro 705beon-gil, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1687826,
+        "longitude": 129.1169088
+    },
+    {
+        "category": "night markets",
+        "title": "Choryang Traditional Market",
+        "rating": 4.1,
+        "address": "308-1 초량제2동, Dong-gu, Busan, South Korea",
+        "latitude": 35.1180556,
+        "longitude": 129.0397222
+    },
+    {
+        "category": "night markets",
+        "title": "Jagalchi Market",
+        "rating": 4,
+        "address": "52 Jagalchihaean-ro, Jung-gu, Busan, South Korea",
+        "latitude": 35.0966339,
+        "longitude": 129.0307965
+    },
+    {
+        "category": "night markets",
+        "title": "Seomyeon Market",
+        "rating": 4.1,
+        "address": "56 Seomyeon-ro, Busanjin District, Busan, South Korea",
+        "latitude": 35.1557374,
+        "longitude": 129.0581664
+    },
+    {
+        "category": "night markets",
+        "title": "Gijang Market",
+        "rating": 4,
+        "address": "16 Eumnae-ro 104beon-gil, Gijang-gun, Busan, South Korea",
+        "latitude": 35.2438418,
+        "longitude": 129.2151228
+    },
+    {
+        "category": "night markets",
+        "title": "Bujeon Market",
+        "rating": 4.2,
+        "address": "23 Jungang-daero 783beon-gil, Busanjin District, Busan, South Korea",
+        "latitude": 35.1633105,
+        "longitude": 129.061034
+    },
+    {
+        "category": "night markets",
+        "title": "Busanjin Market",
+        "rating": 4,
+        "address": "24 Jinsijang-ro, Dong-gu, Busan, South Korea",
+        "latitude": 35.1364215,
+        "longitude": 129.0587319
+    },
+    {
+        "category": "night markets",
+        "title": "뉴욕야시장",
+        "rating": 4.4,
+        "address": "South Korea, KR 부산광역시 해운대구 반여동 1632번지 상가동 1층 101호, 아시아선수촌프레스센터",
+        "latitude": 35.2034555,
+        "longitude": 129.1233794
+    },
+    {
+        "category": "night markets",
+        "title": "좌동재래시장",
+        "rating": 4.1,
+        "address": "20 Jwadong-ro 91beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1730343,
+        "longitude": 129.1744835
+    },
+    {
+        "category": "night markets",
+        "title": "Millac The Market",
+        "rating": 4.2,
+        "address": "56 Millaksubyeon-ro 17beon-gil, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1541919,
+        "longitude": 129.1270348
+    },
+    {
+        "category": "night markets",
+        "title": "Buoying Khangtong Night Market",
+        "rating": 5,
+        "address": "39 Bupyeong 1-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.101264199999996,
+        "longitude": 129.025714
+    },
+    {
+        "category": "night markets",
+        "title": "BIFF Square",
+        "rating": 4.1,
+        "address": "58-1 Gudeok-ro, Jung-gu, Busan, South Korea",
+        "latitude": 35.098243,
+        "longitude": 129.029212
+    },
+    {
+        "category": "night markets",
+        "title": "초량시장",
+        "rating": 4,
+        "address": "219-1 초량제2동, Dong-gu, Busan, South Korea",
+        "latitude": 35.1181863,
+        "longitude": 129.039917
+    },
+    {
+        "category": "night markets",
+        "title": "남포동 64번장마차",
+        "rating": null,
+        "address": "South Korea, Busan, Jung-gu, Gudeok-ro 84beon-gil",
+        "latitude": 35.097952899999996,
+        "longitude": 129.0264983
+    },
+    {
+        "category": "viewpoints",
+        "title": "Oryukdo Skywalk",
+        "rating": 4.2,
+        "address": "137 Oryukdo-ro, Nam-gu, Busan, South Korea",
+        "latitude": 35.1006767,
+        "longitude": 129.12440089999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Cheongsapo Daritdol Skywalk",
+        "rating": 4.4,
+        "address": "산3-9 Jung-dong, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1640365,
+        "longitude": 129.1967173
+    },
+    {
+        "category": "viewpoints",
+        "title": "청학배수지전망대",
+        "rating": 4.5,
+        "address": "475-6 청학제2동, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0881987,
+        "longitude": 129.0596902
+    },
+    {
+        "category": "viewpoints",
+        "title": "City Viewpoint",
+        "rating": 5,
+        "address": "산99-57 Gamcheon-dong, Saha-gu, Busan, South Korea",
+        "latitude": 35.0921922,
+        "longitude": 129.014423
+    },
+    {
+        "category": "viewpoints",
+        "title": "Igidae Coastal Trail",
+        "rating": 4.6,
+        "address": "산 129-1 Yongho-dong, Nam-gu, Busan, South Korea",
+        "latitude": 35.1180695,
+        "longitude": 129.12785119999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Busan Tower",
+        "rating": 4.2,
+        "address": "37-55 Yongdusan-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.1011934,
+        "longitude": 129.0323676
+    },
+    {
+        "category": "viewpoints",
+        "title": "BUSAN X the SKY",
+        "rating": 4.5,
+        "address": "30 Dalmaji-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.159486199999996,
+        "longitude": 129.1701677
+    },
+    {
+        "category": "viewpoints",
+        "title": "Igidae Haeparang-gil Promenade",
+        "rating": 4.6,
+        "address": "산8-1 용호제3동, Nam-gu, Busan, South Korea",
+        "latitude": 35.1294269,
+        "longitude": 129.12199999999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Songdo Cloud Trails",
+        "rating": 4.4,
+        "address": "129-4 암남동, Seo-gu, Busan, South Korea",
+        "latitude": 35.0759423,
+        "longitude": 129.02157309999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Gwangan Bridge",
+        "rating": 4.6,
+        "address": "Busan, South Korea",
+        "latitude": 35.147551,
+        "longitude": 129.1302088
+    },
+    {
+        "category": "viewpoints",
+        "title": "Gwangan Beach Park",
+        "rating": 4.6,
+        "address": "민락동, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1553916,
+        "longitude": 129.12336
+    },
+    {
+        "category": "viewpoints",
+        "title": "Gwangan Bridge View Point",
+        "rating": 4.5,
+        "address": "용호제3동, Nam-gu, Busan, South Korea",
+        "latitude": 35.1322739,
+        "longitude": 129.1206004
+    },
+    {
+        "category": "viewpoints",
+        "title": "Nuribaragi Observatory",
+        "rating": 4.4,
+        "address": "50-620 Nambumin-dong, Seo-gu, Busan, South Korea",
+        "latitude": 35.090706,
+        "longitude": 129.0200945
+    },
+    {
+        "category": "viewpoints",
+        "title": "Busan Harbor Bridge",
+        "rating": 4.6,
+        "address": "감만제1동, Busan, South Korea",
+        "latitude": 35.1037587,
+        "longitude": 129.06305369999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Kim Min-Bu Ovservatory",
+        "rating": 4.4,
+        "address": "14, Yeongchowit-gil 26beon-gil, Dong-gu, Busan, South Korea",
+        "latitude": 35.1175869,
+        "longitude": 129.0353293
+    },
+    {
+        "category": "viewpoints",
+        "title": "Haewol Observatory",
+        "rating": 4.6,
+        "address": "산42-66 Jung-dong, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1558101,
+        "longitude": 129.1826874
+    },
+    {
+        "category": "viewpoints",
+        "title": "168계단",
+        "rating": 4.2,
+        "address": "South Korea, Busan, Dong-gu, Yeongcho-gil, 191",
+        "latitude": 35.1172177,
+        "longitude": 129.0354571
+    },
+    {
+        "category": "viewpoints",
+        "title": "Igidae Seopjari",
+        "rating": 4.5,
+        "address": "산1 Yongho-dong, Nam-gu, Busan, South Korea",
+        "latitude": 35.1318453,
+        "longitude": 129.1211447
+    },
+    {
+        "category": "viewpoints",
+        "title": "황령산 봉수대",
+        "rating": 4.7,
+        "address": "산50-1 Jeonpo-dong, Busanjin District, Busan, South Korea",
+        "latitude": 35.1571056,
+        "longitude": 129.0820778
+    },
+    {
+        "category": "viewpoints",
+        "title": "Yongdusan Park",
+        "rating": 4.3,
+        "address": "37-55 Yongdusan-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.1006536,
+        "longitude": 129.0326226
+    },
+    {
+        "category": "gardens",
+        "title": "화명수목원",
+        "rating": 4.4,
+        "address": "299 Sanseong-ro, Buk-gu, Busan, South Korea",
+        "latitude": 35.251004699999996,
+        "longitude": 129.0427975
+    },
+    {
+        "category": "gardens",
+        "title": "Geumgang Park",
+        "rating": 4.4,
+        "address": "155 Ujangchun-ro, Dongnae-gu, Busan, South Korea",
+        "latitude": 35.2198358,
+        "longitude": 129.0760831
+    },
+    {
+        "category": "gardens",
+        "title": "해운대수목원",
+        "rating": 4.3,
+        "address": "24 Seokdae-dong, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.229742699999996,
+        "longitude": 129.1344469
+    },
+    {
+        "category": "gardens",
+        "title": "Busan Citizens Park",
+        "rating": 4.6,
+        "address": "73 Simingongwon-ro, Busanjin District, Busan, South Korea",
+        "latitude": 35.168160799999995,
+        "longitude": 129.0573853
+    },
+    {
+        "category": "gardens",
+        "title": "Yongdusan Park",
+        "rating": 4.3,
+        "address": "37-55 Yongdusan-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.1006536,
+        "longitude": 129.0326226
+    },
+    {
+        "category": "gardens",
+        "title": "부산광역시 수목전시원",
+        "rating": 4.2,
+        "address": "713 Daeyeon-dong, Nam-gu, Busan, South Korea",
+        "latitude": 35.1255017,
+        "longitude": 129.09892829999998
+    },
+    {
+        "category": "gardens",
+        "title": "롯데몰 동부산점 옥상정원",
+        "rating": 4,
+        "address": "66 Dangsa-ri, Gijang-eup, Gijang-gun, Busan, South Korea",
+        "latitude": 35.192950599999996,
+        "longitude": 129.2128323
+    },
+    {
+        "category": "gardens",
+        "title": "목석원예관",
+        "rating": 3.8,
+        "address": "South Korea, Busan, Seo-gu, Seodaesin-dong 3(sam)-ga",
+        "latitude": 35.126420599999996,
+        "longitude": 129.00523289999998
+    },
+    {
+        "category": "gardens",
+        "title": "Ahopsan Forest",
+        "rating": 4,
+        "address": "37-1 Midong-gil, Cheolma-myeon, Gijang-gun, Busan, South Korea",
+        "latitude": 35.2871145,
+        "longitude": 129.1715058
+    },
+    {
+        "category": "gardens",
+        "title": "Peace Park",
+        "rating": 4.5,
+        "address": "677-3 Daeyeon-dong, Nam-gu, Busan, South Korea",
+        "latitude": 35.1269223,
+        "longitude": 129.10089059999999
+    },
+    {
+        "category": "gardens",
+        "title": "송림공원",
+        "rating": 4.3,
+        "address": "702 U-dong, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1577547,
+        "longitude": 129.1545815
+    },
+    {
+        "category": "gardens",
+        "title": "감전야생화단지",
+        "rating": 4.3,
+        "address": "South Korea, Busan, Sasang-gu, Gamjeon-dong",
+        "latitude": 35.155902999999995,
+        "longitude": 128.9719247
+    },
+    {
+        "category": "gardens",
+        "title": "허브랑야생화",
+        "rating": 4,
+        "address": "South Korea, Busan, Geumjeong-gu, Geumseong-dong, Bungmun-ro, 73",
+        "latitude": 35.2542038,
+        "longitude": 129.0518188
+    },
+    {
+        "category": "gardens",
+        "title": "화명장미공원",
+        "rating": 4.4,
+        "address": "South Korea, Busan, Buk-gu, 화명제3동 2280",
+        "latitude": 35.2333572,
+        "longitude": 129.0098884
+    },
+    {
+        "category": "gardens",
+        "title": "Charlotte Garden",
+        "rating": 3.8,
+        "address": "79 Jungang-dong 7(chil)-ga, Jung-gu, Busan, South Korea",
+        "latitude": 35.0984978,
+        "longitude": 129.03681699999999
+    },
+    {
+        "category": "gardens",
+        "title": "부산화훼",
+        "rating": 4.3,
+        "address": "South Korea, 엄궁동 642-2번지 농협부산화훼공판장 사상구 부산광역시 KR",
+        "latitude": 35.1305656,
+        "longitude": 128.9648595
+    },
+    {
+        "category": "gardens",
+        "title": "Taejongdae Jagalmadang",
+        "rating": 4.2,
+        "address": "24 Jeonmang-ro, 동삼제2동, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.056265599999996,
+        "longitude": 129.0810741
+    },
+    {
+        "category": "gardens",
+        "title": "가야공원",
+        "rating": 4.1,
+        "address": "Gaya-dong, Busanjin District, Busan, South Korea",
+        "latitude": 35.145057699999995,
+        "longitude": 129.0278136
+    },
+    {
+        "category": "gardens",
+        "title": "남천동 벚꽃길",
+        "rating": 4.4,
+        "address": "South Korea, Busan, Suyeong-gu, 남천제2동",
+        "latitude": 35.1450782,
+        "longitude": 129.1164819
+    },
+    {
+        "category": "gardens",
+        "title": "상하이정원",
+        "rating": 4,
+        "address": "South Korea, Busan, Busanjin District, Beomjeon-dong, 75",
+        "latitude": 35.169605499999996,
+        "longitude": 129.0611604
+    },
+    {
+        "category": "zoo",
+        "title": "라라쥬 동물원",
+        "rating": 4.6,
+        "address": "South Korea, Busan, Gangseo-gu, Myeongjigukje 8-ro 10beon-gil, 38, 4층, 명지 cgv, 1동 4층 6호 404호~411호",
+        "latitude": 35.0944372,
+        "longitude": 128.90312079999998
+    },
+    {
+        "category": "zoo",
+        "title": "울산대공원 동물원",
+        "rating": 4.5,
+        "address": "94 Daegongwon-ro, Nam-gu, Ulsan, South Korea",
+        "latitude": 35.529916799999995,
+        "longitude": 129.276576
+    },
+    {
+        "category": "zoo",
+        "title": "SEALIFE Busan Aquarium",
+        "rating": 4.2,
+        "address": "266 Haeundaehaebyeon-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1592713,
+        "longitude": 129.1610038
+    },
+    {
+        "category": "zoo",
+        "title": "마리앤쥬",
+        "rating": 3.5,
+        "address": "South Korea, Busan, Busanjin District, Jeonpo-dong, 683-11",
+        "latitude": 35.154948499999996,
+        "longitude": 129.0626844
+    },
+    {
+        "category": "zoo",
+        "title": "부산어린이대공원",
+        "rating": 4.5,
+        "address": "295 Saessak-ro, Busanjin District, Busan, South Korea",
+        "latitude": 35.1846343,
+        "longitude": 129.0434794
+    },
+    {
+        "category": "zoo",
+        "title": "주주타임 동물원",
+        "rating": 5,
+        "address": "South Korea, Busan, Geumjeong-gu, Busandaehak-ro, 29, 404 호",
+        "latitude": 35.230790999999996,
+        "longitude": 129.0880157
+    },
+    {
+        "category": "zoo",
+        "title": "약수터",
+        "rating": 2.5,
+        "address": "산84 Sammun-ri, 장유면, Gimhae-si, Gyeongsangnam-do, South Korea",
+        "latitude": 35.2074093,
+        "longitude": 128.7740631
+    },
+    {
+        "category": "zoo",
+        "title": "진짜야수",
+        "rating": null,
+        "address": "South Korea, Busan, Busanjin District, Danggam-dong, 2, 동태화현대",
+        "latitude": 35.156629099999996,
+        "longitude": 129.0419502
+    },
+    {
+        "category": "zoo",
+        "title": "Taejongdae",
+        "rating": 4.4,
+        "address": "24 Jeonmang-ro, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.05307,
+        "longitude": 129.0872
+    },
+    {
+        "category": "zoo",
+        "title": "Wasjyu",
+        "rating": null,
+        "address": "209-6번지 Gilcheon-ri, Jangan-eup, Gijang-gun, Busan, South Korea",
+        "latitude": 35.3289196,
+        "longitude": 129.2824065
+    },
+    {
+        "category": "zoo",
+        "title": "Yongjibong",
+        "rating": 4.2,
+        "address": "Sammun-ri, 장유면, Gimhae-si, Gyeongsangnam-do, South Korea",
+        "latitude": 35.2064905,
+        "longitude": 128.7848862
+    },
+    {
+        "category": "zoo",
+        "title": "Nakdong River Estuary trail cheheomjang",
+        "rating": 4.4,
+        "address": "1240-10 Nakdongnam-ro, Hadan-dong, Saha-gu, Busan, South Korea",
+        "latitude": 35.088453099999995,
+        "longitude": 128.9436964
+    },
+    {
+        "category": "zoo",
+        "title": "Jagalchi Market",
+        "rating": 4,
+        "address": "52 Jagalchihaean-ro, Jung-gu, Busan, South Korea",
+        "latitude": 35.0966339,
+        "longitude": 129.0307965
+    },
+    {
+        "category": "zoo",
+        "title": "해운대수목원",
+        "rating": 4.3,
+        "address": "24 Seokdae-dong, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.229742699999996,
+        "longitude": 129.1344469
+    },
+    {
+        "category": "zoo",
+        "title": "부산정관 와우쥬 실내동물원",
+        "rating": 4.4,
+        "address": "South Korea, KR 부산광역시 기장군 정관읍 정관중앙로 45 탑스퀘어, 히어로테마파크 정관점, 5층",
+        "latitude": 35.321221699999995,
+        "longitude": 129.1783357
+    },
+    {
+        "category": "zoo",
+        "title": "Jeonju Zoo",
+        "rating": 4.3,
+        "address": "68 Sori-ro, Deokjin-dong 1(il)-ga, Deokjin-gu, Jeonju-si, Jeonbuk State, South Korea",
+        "latitude": 35.8551475,
+        "longitude": 127.1443503
+    },
+    {
+        "category": "zoo",
+        "title": "Selin",
+        "rating": null,
+        "address": "South Korea, 신관 714번지, KR 부산광역시 서구 암남동, 4층 401호",
+        "latitude": 35.064948199999996,
+        "longitude": 129.0126995
+    },
+    {
+        "category": "zoo",
+        "title": "Wideujyu",
+        "rating": 3.9,
+        "address": "26 Gudeok-ro, Jung-gu, Busan, South Korea",
+        "latitude": 35.0980201,
+        "longitude": 129.0326279
+    },
+    {
+        "category": "zoo",
+        "title": "ZOORAJI Shinsegae Centum City",
+        "rating": 4.5,
+        "address": "South Korea, Busan, Haeundae-gu, Centum nam-daero, 35 신세계백화점센텀시티점 9F",
+        "latitude": 35.1688496,
+        "longitude": 129.1291427
+    },
+    {
+        "category": "zoo",
+        "title": "Zoo Bounce",
+        "rating": null,
+        "address": "South Korea, Busan, Haeundae-gu, Jwa-dong, Haeun-daero, 813",
+        "latitude": 35.170569199999996,
+        "longitude": 129.1772904
+    },
+    {
+        "category": "adventure parks",
+        "title": "Lotte World Adventure Busan",
+        "rating": 4.1,
+        "address": "42 Dongbusangwangwang-ro, Gijang-gun, Busan, South Korea",
+        "latitude": 35.1962453,
+        "longitude": 129.2149345
+    },
+    {
+        "category": "adventure parks",
+        "title": "다이나믹메이즈 부산점",
+        "rating": 5,
+        "address": "South Korea, Busan, Busanjin District, Jungang-daero, 672, 삼정타워, 10층",
+        "latitude": 35.1530115,
+        "longitude": 129.05960579999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "부산솔로몬로파크",
+        "rating": 4.4,
+        "address": "755 Nakdongbuk-ro, Buk-gu, Busan, South Korea",
+        "latitude": 35.2006097,
+        "longitude": 129.0021734
+    },
+    {
+        "category": "adventure parks",
+        "title": "BRICK CAMPUS BUSAN",
+        "rating": 4.5,
+        "address": "8 Dongbusangwangwang-ro, Gijang-gun, Busan, South Korea",
+        "latitude": 35.1934293,
+        "longitude": 129.2146411
+    },
+    {
+        "category": "adventure parks",
+        "title": "Taejongdae Ocean Flying Theme Park",
+        "rating": 4.4,
+        "address": "Dongsam-dong, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0598226,
+        "longitude": 129.0716234
+    },
+    {
+        "category": "adventure parks",
+        "title": "Kidzania Busan",
+        "rating": 4.3,
+        "address": "4층, Centum City Mall, 15 센텀4로, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.169945,
+        "longitude": 129.1282951
+    },
+    {
+        "category": "adventure parks",
+        "title": "Gimhae Gaya Theme Park",
+        "rating": 4.1,
+        "address": "161 Gaya thema-gil, Gimhae-si, Gyeongsangnam-do, South Korea",
+        "latitude": 35.2507263,
+        "longitude": 128.89308409999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "키드키득파크",
+        "rating": 4.2,
+        "address": "35 Choeup-dong, Busanjin District, Busan, South Korea",
+        "latitude": 35.1894177,
+        "longitude": 129.0407059
+    },
+    {
+        "category": "adventure parks",
+        "title": "부산어린이대공원",
+        "rating": 4.5,
+        "address": "295 Saessak-ro, Busanjin District, Busan, South Korea",
+        "latitude": 35.1846343,
+        "longitude": 129.0434794
+    },
+    {
+        "category": "adventure parks",
+        "title": "Poopoo Land",
+        "rating": 4.1,
+        "address": "672 Jungang-daero, Busanjin District, Busan, South Korea",
+        "latitude": 35.153008299999996,
+        "longitude": 129.0596228
+    },
+    {
+        "category": "adventure parks",
+        "title": "Running Man Busan",
+        "rating": 4.5,
+        "address": "삼정타워 10F, 672 Jungang-daero, Busanjin District, Busan, South Korea",
+        "latitude": 35.152888499999996,
+        "longitude": 129.0596857
+    },
+    {
+        "category": "adventure parks",
+        "title": "몬스터파크",
+        "rating": 4.5,
+        "address": "South Korea, Busan, Gangseo-gu, 국제1로 60 1, 7층",
+        "latitude": 35.0942479,
+        "longitude": 128.9054062
+    },
+    {
+        "category": "adventure parks",
+        "title": "Skyline Luge Busan",
+        "rating": 4.6,
+        "address": "205 Gijanghaean-ro, Gijang-gun, Busan, South Korea",
+        "latitude": 35.1940567,
+        "longitude": 129.2186386
+    },
+    {
+        "category": "adventure parks",
+        "title": "Morundae Amusement Park",
+        "rating": 4.4,
+        "address": "산 144 Dadae-dong, Saha-gu, Busan, South Korea",
+        "latitude": 35.042013,
+        "longitude": 128.970183
+    },
+    {
+        "category": "adventure parks",
+        "title": "Gimhae Lotte Water Park",
+        "rating": 4.2,
+        "address": "555 Jangyu-ro, Gimhae-si, Gyeongsangnam-do, South Korea",
+        "latitude": 35.1808236,
+        "longitude": 128.82927469999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Vaunce Bounce Trampoline Park",
+        "rating": 4.2,
+        "address": "B102호, W스퀘어, 145 Bunpo-ro, Nam-gu, Busan, South Korea",
+        "latitude": 35.1338388,
+        "longitude": 129.1126857
+    },
+    {
+        "category": "adventure parks",
+        "title": "Oh My Land Busan",
+        "rating": 3.4,
+        "address": "470 Sanseong-ro, Geumjeong-gu, Busan, South Korea",
+        "latitude": 35.249380699999996,
+        "longitude": 129.0541544
+    },
+    {
+        "category": "adventure parks",
+        "title": "ZOORAJI Shinsegae Centum City",
+        "rating": 4.5,
+        "address": "South Korea, Busan, Haeundae-gu, Centum nam-daero, 35 신세계백화점센텀시티점 9F",
+        "latitude": 35.1688496,
+        "longitude": 129.1291427
+    },
+    {
+        "category": "adventure parks",
+        "title": "Gaya Land Angel Park",
+        "rating": 4,
+        "address": "368 Inje-ro, Gimhae-si, Gyeongsangnam-do, South Korea",
+        "latitude": 35.2611913,
+        "longitude": 128.9014005
+    },
+    {
+        "category": "adventure parks",
+        "title": "Haeundae Blueline Park - Songjeong Station",
+        "rating": 4.4,
+        "address": "60 Songjeongjungang-ro 6beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.180879499999996,
+        "longitude": 129.20027489999998
+    },
+    {
+        "category": "hot springs",
+        "title": "허심청 온천탕",
+        "rating": 4.3,
+        "address": "23 Geumganggongwon-ro 20beon-gil, Dongnae-gu, Busan, South Korea",
+        "latitude": 35.2210076,
+        "longitude": 129.0826365
+    },
+    {
+        "category": "hot springs",
+        "title": "태종대온천・찜질방",
+        "rating": 4,
+        "address": "808 Taejong-ro, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0645854,
+        "longitude": 129.0788689
+    },
+    {
+        "category": "hot springs",
+        "title": "SPA LAND Centum City",
+        "rating": 4.5,
+        "address": "35 Centum nam-daero, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.168233799999996,
+        "longitude": 129.1295279
+    },
+    {
+        "category": "hot springs",
+        "title": "해운대온천센터",
+        "rating": 4.2,
+        "address": "16 Jungdong 2-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1634148,
+        "longitude": 129.1645019
+    },
+    {
+        "category": "hot springs",
+        "title": "Dae Young Sauna & Fitness",
+        "rating": 4.3,
+        "address": "10 Hwangnyeong-daero 492beon-gil, Nam-gu, Busan, South Korea",
+        "latitude": 35.1379197,
+        "longitude": 129.1068247
+    },
+    {
+        "category": "hot springs",
+        "title": "파라다이스 호텔 스파 씨메르",
+        "rating": 4.6,
+        "address": "296 Haeundaehaebyeon-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1599291,
+        "longitude": 129.1640967
+    },
+    {
+        "category": "hot springs",
+        "title": "Halmaetang",
+        "rating": 4.4,
+        "address": "7 Jungdong 2-ro 10beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.163503399999996,
+        "longitude": 129.164975
+    },
+    {
+        "category": "hot springs",
+        "title": "금샘해수온천(GeumSaem HotSpring)",
+        "rating": 4.4,
+        "address": "South Korea, Busan, Gangseo-gu, Myeongji-dong, 국제8로 237",
+        "latitude": 35.0984386,
+        "longitude": 128.9189356
+    },
+    {
+        "category": "hot springs",
+        "title": "HILL SPA",
+        "rating": 4.1,
+        "address": "11 Dalmaji-gil 117beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1584686,
+        "longitude": 129.1753048
+    },
+    {
+        "category": "hot springs",
+        "title": "온천천",
+        "rating": 4.5,
+        "address": "연산제9동, Yeonje-gu, Busan, South Korea",
+        "latitude": 35.190394999999995,
+        "longitude": 129.10785099999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Haeundae Hot Spring Foot Bath",
+        "rating": 4,
+        "address": "620-3 U-dong, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1589917,
+        "longitude": 129.1601216
+    },
+    {
+        "category": "hot springs",
+        "title": "Bally Aqua Land Sauna",
+        "rating": 3.7,
+        "address": "542 초량제2동, Dong-gu, Busan, South Korea",
+        "latitude": 35.115505899999995,
+        "longitude": 129.0379801
+    },
+    {
+        "category": "hot springs",
+        "title": "대영해수온천",
+        "rating": 4.2,
+        "address": "South Korea, Busan, Yeonje-gu, Yeonan-ro, 25",
+        "latitude": 35.1898584,
+        "longitude": 129.1068042
+    },
+    {
+        "category": "hot springs",
+        "title": "Paradise Hotel Busan",
+        "rating": 4.5,
+        "address": "296 Haeundaehaebyeon-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1601338,
+        "longitude": 129.16468749999999
+    },
+    {
+        "category": "hot springs",
+        "title": "화명온천레포츠",
+        "rating": 4.5,
+        "address": "South Korea, Busan, Buk-gu, Waseokjangteo-ro, 20",
+        "latitude": 35.235638699999996,
+        "longitude": 129.0159887
+    },
+    {
+        "category": "hot springs",
+        "title": "Dongnae Spa Outdoor Foot Bath",
+        "rating": 3.6,
+        "address": "135-5 Oncheon-dong, Dongnae-gu, Busan, South Korea",
+        "latitude": 35.2200224,
+        "longitude": 129.0814519
+    },
+    {
+        "category": "hot springs",
+        "title": "냉정온천사우나",
+        "rating": 3.7,
+        "address": "South Korea, Busan, Sasang-gu, Gaya-daero, 384",
+        "latitude": 35.1510245,
+        "longitude": 129.0146308
+    },
+    {
+        "category": "hot springs",
+        "title": "승학온천스포츠랜드",
+        "rating": 4.3,
+        "address": "South Korea, Busan, Saha-gu, Goejeong-dong, 764-90",
+        "latitude": 35.1003956,
+        "longitude": 128.9862632
+    },
+    {
+        "category": "hot springs",
+        "title": "(주)중앙레포츠 중앙해수랜드",
+        "rating": 3.9,
+        "address": "64 Yongho-ro, Nam-gu, Busan, South Korea",
+        "latitude": 35.1256955,
+        "longitude": 129.11070709999998
+    },
+    {
+        "category": "hot springs",
+        "title": "에메랄드사상해수온천",
+        "rating": 3.5,
+        "address": "South Korea, Busan, Sasang-gu, Saebyeok-ro 202beon-gil, 10",
+        "latitude": 35.158749799999995,
+        "longitude": 128.98453949999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Lotte Premium Outlets - DongBusan",
+        "rating": 4.2,
+        "address": "147 Gijanghaean-ro, Gijang-gun, Busan, South Korea",
+        "latitude": 35.192426499999996,
+        "longitude": 129.2133929
+    },
+    {
+        "category": "shopping malls",
+        "title": "SEOMYEON MALL - Seomyeon Underground Shopping Center",
+        "rating": 4.1,
+        "address": "지하 717 Jungang-daero, Busanjin District, Busan, South Korea",
+        "latitude": 35.1562986,
+        "longitude": 129.059155
+    },
+    {
+        "category": "shopping malls",
+        "title": "Judies Taehwa",
+        "rating": 3.8,
+        "address": "694 Jungang-daero, Busanjin District, Busan, South Korea",
+        "latitude": 35.1547239,
+        "longitude": 129.05964369999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shopping Street",
+        "rating": 4.3,
+        "address": "-dong, 217-2 부전제2동, Busanjin District, Busan, South Korea",
+        "latitude": 35.1544819,
+        "longitude": 129.0613168
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shinsegae Simon Busan Premium Outlets",
+        "rating": 4.1,
+        "address": "1133 Jeonggwan-ro, Gijang-gun, Busan, South Korea",
+        "latitude": 35.323606,
+        "longitude": 129.23584
+    },
+    {
+        "category": "shopping malls",
+        "title": "삼정타워",
+        "rating": 4.3,
+        "address": "672 Jungang-daero, Busanjin District, Busan, South Korea",
+        "latitude": 35.1530115,
+        "longitude": 129.05960579999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shinsegae Department Store, Centum City",
+        "rating": 4.6,
+        "address": "35 Centum nam-daero, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1689218,
+        "longitude": 129.12963109999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Renecite",
+        "rating": 3.8,
+        "address": "7 Gwangjang-ro, Gwaebeop-dong, Sasang-gu, Busan, South Korea",
+        "latitude": 35.164362499999996,
+        "longitude": 128.9780222
+    },
+    {
+        "category": "shopping malls",
+        "title": "Nampo Underground Shopping Center",
+        "rating": 4,
+        "address": "South Korea, 부산광역시 중구 남포동6가 1",
+        "latitude": 35.0981969,
+        "longitude": 129.03062889999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "IFC Busan Mall",
+        "rating": 4.1,
+        "address": "133 Jeonpo-daero, Nam-gu, Busan, South Korea",
+        "latitude": 35.148277199999995,
+        "longitude": 129.0654374
+    },
+    {
+        "category": "shopping malls",
+        "title": "Millac The Market",
+        "rating": 4.2,
+        "address": "56 Millaksubyeon-ro 17beon-gil, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1541919,
+        "longitude": 129.1270348
+    },
+    {
+        "category": "shopping malls",
+        "title": "BIFC Mall",
+        "rating": 4.2,
+        "address": "40 Munhyeongeumyung-ro, Nam-gu, Busan, South Korea",
+        "latitude": 35.1465205,
+        "longitude": 129.0658279
+    },
+    {
+        "category": "shopping malls",
+        "title": "Starfield City Myeongji",
+        "rating": 4.2,
+        "address": "168 Myeongjigukje 6-ro, Gangseo-gu, Busan, South Korea",
+        "latitude": 35.0931631,
+        "longitude": 128.9181554
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centum City Mall",
+        "rating": 4.6,
+        "address": "15 Centum 4-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1698588,
+        "longitude": 129.1282597
+    },
+    {
+        "category": "shopping malls",
+        "title": "Gwangbok Underground Shopping Center",
+        "rating": 4.2,
+        "address": "Busan, South Korea",
+        "latitude": 35.0988359,
+        "longitude": 129.03611899999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Busan Station Underground Shopping Center",
+        "rating": 3.7,
+        "address": "Busan, South Korea",
+        "latitude": 35.1147306,
+        "longitude": 129.0394427
+    },
+    {
+        "category": "shopping malls",
+        "title": "Save Zone Haeundae",
+        "rating": 3.8,
+        "address": "21 Gunam-ro 29beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1623611,
+        "longitude": 129.1613539
+    },
+    {
+        "category": "shopping malls",
+        "title": "해운대로데오아울렛",
+        "rating": 3.5,
+        "address": "473 Jwadongsunhwan-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1636989,
+        "longitude": 129.1694329
+    },
+    {
+        "category": "shopping malls",
+        "title": "Busan Open Market, Near Lotte",
+        "rating": 4.1,
+        "address": "6 Bujeon-ro 158beon-gil, 부전제1동, Busanjin District, Busan, South Korea",
+        "latitude": 35.1622828,
+        "longitude": 129.0585808
+    },
+    {
+        "category": "shopping malls",
+        "title": "Busan Building Material Complex",
+        "rating": 3.9,
+        "address": "Gonghang-ro, Gangseo-gu, Busan, South Korea",
+        "latitude": 35.1673894,
+        "longitude": 128.95393439999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Busan Modern and Contemporary History Museum Annex",
+        "rating": 4.3,
+        "address": "104 Daecheong-ro, Jung-gu, Busan, South Korea",
+        "latitude": 35.1026453,
+        "longitude": 129.0312644
+    },
+    {
+        "category": "historical sites",
+        "title": "Dongnae Eupseong Fortress Site",
+        "rating": 4.4,
+        "address": "Allak-dong, Dongnae-gu, Busan, South Korea",
+        "latitude": 35.2095123,
+        "longitude": 129.08958959999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Gamcheon Culture Village",
+        "rating": 4.4,
+        "address": "203 Gamnae 2-ro, Saha-gu, Busan, South Korea",
+        "latitude": 35.0973904,
+        "longitude": 129.0105924
+    },
+    {
+        "category": "historical sites",
+        "title": "Haedong Yonggungsa Temple",
+        "rating": 4.4,
+        "address": "86 Yonggung-gil, Gijang-gun, Busan, South Korea",
+        "latitude": 35.188349099999996,
+        "longitude": 129.2233197
+    },
+    {
+        "category": "historical sites",
+        "title": "40-step Culture & Tourism Theme Street",
+        "rating": 3.9,
+        "address": "83 Jungang-daero, Jungang-dong, Jung-gu, Busan, South Korea",
+        "latitude": 35.103955299999996,
+        "longitude": 129.0347152
+    },
+    {
+        "category": "historical sites",
+        "title": "Provisional Capital Presidential Residence",
+        "rating": 4.5,
+        "address": "45 Imsisudoginyeom-ro, Seo-gu, Busan, South Korea",
+        "latitude": 35.1034532,
+        "longitude": 129.01745209999999
+    },
+    {
+        "category": "historical sites",
+        "title": "United Nations Peace Memorial Hall",
+        "rating": 4.6,
+        "address": "106 Honggok-ro 320beon-gil, Nam-gu, Busan, South Korea",
+        "latitude": 35.1248837,
+        "longitude": 129.0932515
+    },
+    {
+        "category": "historical sites",
+        "title": "Provisional Capital Memorial Hall",
+        "rating": 4.4,
+        "address": "45 Imsisudoginyeom-ro, Seo-gu, Busan, South Korea",
+        "latitude": 35.103541,
+        "longitude": 129.01743059999998
+    },
+    {
+        "category": "historical sites",
+        "title": "금정산성 동문",
+        "rating": 4.4,
+        "address": "산41-8 Geumseong-dong, Geumjeong-gu, Busan, South Korea",
+        "latitude": 35.2454225,
+        "longitude": 129.0637112
+    },
+    {
+        "category": "historical sites",
+        "title": "168계단",
+        "rating": 4.2,
+        "address": "South Korea, Busan, Dong-gu, Yeongcho-gil, 191",
+        "latitude": 35.1172177,
+        "longitude": 129.0354571
+    },
+    {
+        "category": "historical sites",
+        "title": "Citizens Park History Museum",
+        "rating": 4.4,
+        "address": "73 Simingongwon-ro, Busanjin District, Busan, South Korea",
+        "latitude": 35.16715,
+        "longitude": 129.0543175
+    },
+    {
+        "category": "historical sites",
+        "title": "BIFF Square",
+        "rating": 4.1,
+        "address": "58-1 Gudeok-ro, Jung-gu, Busan, South Korea",
+        "latitude": 35.098243,
+        "longitude": 129.029212
+    },
+    {
+        "category": "historical sites",
+        "title": "국립일제강제동원역사관",
+        "rating": 4.5,
+        "address": "Daeyeon-dong, Nam-gu, Busan, South Korea",
+        "latitude": 35.12499,
+        "longitude": 129.092335
+    },
+    {
+        "category": "historical sites",
+        "title": "Busan Tower",
+        "rating": 4.2,
+        "address": "37-55 Yongdusan-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.1011934,
+        "longitude": 129.0323676
+    },
+    {
+        "category": "historical sites",
+        "title": "금정산성 북문",
+        "rating": 4.5,
+        "address": "122 Bungmun-ro, Geumjeong-gu, Busan, South Korea",
+        "latitude": 35.2755,
+        "longitude": 129.05750419999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Busanjinseong Fortress (Jaseongdae Japanese Fortress)",
+        "rating": 4.2,
+        "address": "99 Jaseong-ro, Dong-gu, Busan, South Korea",
+        "latitude": 35.1356745,
+        "longitude": 129.0605264
+    },
+    {
+        "category": "historical sites",
+        "title": "수영사적공원",
+        "rating": 4.1,
+        "address": "43 Suyeongseong-ro, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1710871,
+        "longitude": 129.1139105
+    },
+    {
+        "category": "historical sites",
+        "title": "황령산 봉수대",
+        "rating": 4.7,
+        "address": "산50-1 Jeonpo-dong, Busanjin District, Busan, South Korea",
+        "latitude": 35.1571056,
+        "longitude": 129.0820778
+    },
+    {
+        "category": "historical sites",
+        "title": "Cheongsapo Daritdol Skywalk",
+        "rating": 4.4,
+        "address": "산3-9 Jung-dong, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1640365,
+        "longitude": 129.1967173
+    },
+    {
+        "category": "historical sites",
+        "title": "Busan Museum",
+        "rating": 4.4,
+        "address": "63 UN pyeonghwa-ro, Nam-gu, Busan, South Korea",
+        "latitude": 35.129517799999995,
+        "longitude": 129.09415099999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum of Contemporary Art, Busan",
+        "rating": 4.3,
+        "address": "1191 Nakdongnam-ro, Saha-gu, Busan, South Korea",
+        "latitude": 35.1092764,
+        "longitude": 128.9427503
+    },
+    {
+        "category": "art galleries",
+        "title": "SOUL ART SPACE",
+        "rating": 4.1,
+        "address": "South Korea, Busan, Haeundae-gu, Haeundaehaebyeon-ro, 30, 엑소디움 상가",
+        "latitude": 35.1629351,
+        "longitude": 129.1372158
+    },
+    {
+        "category": "art galleries",
+        "title": "ARTE MUSEUM Busan",
+        "rating": 4.9,
+        "address": "29 Haeyang-ro 247beon-gil, Yeongdo-gu, Busan, South Korea",
+        "latitude": 35.0870682,
+        "longitude": 129.076373
+    },
+    {
+        "category": "art galleries",
+        "title": "Busan Museum of Movies",
+        "rating": 4.2,
+        "address": "12 Daecheong-ro 126beon-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.101701999999996,
+        "longitude": 129.0337655
+    },
+    {
+        "category": "art galleries",
+        "title": "Johyun Gallery",
+        "rating": 4.5,
+        "address": "171 Dalmaji-gil 65beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1568089,
+        "longitude": 129.17950059999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Busan Museum",
+        "rating": 4.4,
+        "address": "63 UN pyeonghwa-ro, Nam-gu, Busan, South Korea",
+        "latitude": 35.129517799999995,
+        "longitude": 129.09415099999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Trick Eye Museum, Busan",
+        "rating": 4.1,
+        "address": "2층, 12 Daecheong-ro 126beon-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.1017777,
+        "longitude": 129.0336557
+    },
+    {
+        "category": "art galleries",
+        "title": "고은사진미술관",
+        "rating": 4.4,
+        "address": "16 Haeun-daero 452beon-gil, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1631644,
+        "longitude": 129.1410513
+    },
+    {
+        "category": "art galleries",
+        "title": "갤러리플레이리스트",
+        "rating": 5,
+        "address": "South Korea, Busan, Jung-gu, Jungang-dong 2(i)-ga, 49-7",
+        "latitude": 35.1025378,
+        "longitude": 129.0351931
+    },
+    {
+        "category": "art galleries",
+        "title": "Busan Museum of Art",
+        "rating": 4.3,
+        "address": "58 APEC-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1667329,
+        "longitude": 129.1370714
+    },
+    {
+        "category": "art galleries",
+        "title": "MUSEUM 1",
+        "rating": 4.3,
+        "address": "20 Centum seo-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1713288,
+        "longitude": 129.1289794
+    },
+    {
+        "category": "theaters",
+        "title": "CGV 서면",
+        "rating": 4.1,
+        "address": "지오플레이스 6F, 4 Dongcheon-ro, Busanjin District, Busan, South Korea",
+        "latitude": 35.1492915,
+        "longitude": 129.0637629
+    },
+    {
+        "category": "theaters",
+        "title": "LOTTE CINEMA Busan Main",
+        "rating": 4.2,
+        "address": "롯데백화점부산본점 10F, 772 Gaya-daero, Busanjin District, Busan, South Korea",
+        "latitude": 35.1568526,
+        "longitude": 129.0566466
+    },
+    {
+        "category": "theaters",
+        "title": "Busan Cinema Center",
+        "rating": 4.5,
+        "address": "120 Suyeonggangbyeon-daero, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.171177799999995,
+        "longitude": 129.1271956
+    },
+    {
+        "category": "theaters",
+        "title": "LOTTE CINEMA Gwangbok",
+        "rating": 4.3,
+        "address": "롯데백화점 아쿠아몰 9F, 2 Jungang-daero, Jung-gu, Busan, South Korea",
+        "latitude": 35.097994,
+        "longitude": 129.0361033
+    },
+    {
+        "category": "theaters",
+        "title": "CGV 대연",
+        "rating": 3.9,
+        "address": "5층, 스파크빌딩, 305 Suyeong-ro, Nam-gu, Busan, South Korea",
+        "latitude": 35.1374357,
+        "longitude": 129.0993799
+    },
+    {
+        "category": "theaters",
+        "title": "CGV 해운대",
+        "rating": 4.1,
+        "address": "2층, 라뮤에뜨빌딩, 620 Haeun-daero, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.162976799999996,
+        "longitude": 129.158492
+    },
+    {
+        "category": "theaters",
+        "title": "Lotte Cinema",
+        "rating": 4.2,
+        "address": "8F, LOTTE Department Store, 59 Centum nam-daero, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1696956,
+        "longitude": 129.13141439999998
+    },
+    {
+        "category": "theaters",
+        "title": "LOTTE CINEMA Daeyeong",
+        "rating": 4.2,
+        "address": "37 BIFF gwangjang-ro, Jung-gu, Busan, South Korea",
+        "latitude": 35.098646599999995,
+        "longitude": 129.02945359999998
+    },
+    {
+        "category": "theaters",
+        "title": "Lotte Cinema",
+        "rating": 4,
+        "address": "1607 Jungang-daero, Geumjeong-gu, Busan, South Korea",
+        "latitude": 35.228306499999995,
+        "longitude": 129.0898358
+    },
+    {
+        "category": "theaters",
+        "title": "Megabox",
+        "rating": 4.2,
+        "address": "813 Haeun-daero, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1705843,
+        "longitude": 129.1770927
+    },
+    {
+        "category": "theaters",
+        "title": "롯데시네마 동래",
+        "rating": 4.2,
+        "address": "1393 Jungang-daero, Dongnae-gu, Busan, South Korea",
+        "latitude": 35.2114828,
+        "longitude": 129.0776055
+    },
+    {
+        "category": "theaters",
+        "title": "CGV Centum City",
+        "rating": 4.4,
+        "address": "신세계센텀시티 7F, 35 Centum nam-daero, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.168703199999996,
+        "longitude": 129.1297466
+    },
+    {
+        "category": "theaters",
+        "title": "Dream Theatre, Busan",
+        "rating": 4.4,
+        "address": "133 Jeonpo-daero, Nam-gu, Busan, South Korea",
+        "latitude": 35.1484309,
+        "longitude": 129.0653997
+    },
+    {
+        "category": "theaters",
+        "title": "Megabox",
+        "rating": 4.1,
+        "address": "South Korea, Busan, Sasang-gu, Sasang-ro, 201, 동 4층 -5층, 시외버스터미널 애플아울렛 본관",
+        "latitude": 35.163176899999996,
+        "longitude": 128.9835424
+    },
+    {
+        "category": "theaters",
+        "title": "CGV Seomyeon Samjung tower",
+        "rating": 4.4,
+        "address": "삼정타워 11F, 672 Jungang-daero, Busanjin District, Busan, South Korea",
+        "latitude": 35.1529425,
+        "longitude": 129.0595638
+    },
+    {
+        "category": "theaters",
+        "title": "Lotte Cinema",
+        "rating": 4.3,
+        "address": "3층, 롯데몰, 147 Gijanghaean-ro, Gijang-gun, Busan, South Korea",
+        "latitude": 35.1922242,
+        "longitude": 129.2128069
+    },
+    {
+        "category": "theaters",
+        "title": "CGV 하단아트몰링",
+        "rating": 4.2,
+        "address": "아트몰링 7F, 1413 Nakdongnam-ro, Saha-gu, Busan, South Korea",
+        "latitude": 35.1065693,
+        "longitude": 128.96633599999998
+    },
+    {
+        "category": "theaters",
+        "title": "Cinematheque Busan",
+        "rating": 4.8,
+        "address": "영화의전당 시네마운틴, 120 Suyeonggangbyeon-daero, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1716514,
+        "longitude": 129.1272385
+    },
+    {
+        "category": "theaters",
+        "title": "Busan National Gugak Center 국립부산국악원",
+        "rating": 4.7,
+        "address": "2 Gugak-ro, Busanjin District, Busan, South Korea",
+        "latitude": 35.171332899999996,
+        "longitude": 129.0543104
+    },
+    {
+        "category": "theaters",
+        "title": "Haneulyeon Theatre",
+        "rating": 4.7,
+        "address": "120 Suyeonggangbyeon-daero, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.171177799999995,
+        "longitude": 129.1271956
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir kedai cenderahati Nampodong",
+        "rating": 4.9,
+        "address": "18 Gukjesijang 2-gil, Jung-gu, Busan, South Korea",
+        "latitude": 35.1008391,
+        "longitude": 129.0285699
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Busan Souvenir Heaundae Gift Shop",
+        "rating": 4.4,
+        "address": "1 층, 264 Haeundaehaebyeon-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1590395,
+        "longitude": 129.160183
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gamcheon Cultural Village ART SHOP",
+        "rating": 4.3,
+        "address": "178-1 Gamnae 2-ro, Saha-gu, Busan, South Korea",
+        "latitude": 35.098421099999996,
+        "longitude": 129.0099699
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Little planet",
+        "rating": 4.9,
+        "address": "건물 사이 골목 안, Busanjin District, Busan, South Korea",
+        "latitude": 35.1561215,
+        "longitude": 129.05817539999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Boonhongene",
+        "rating": 4.6,
+        "address": "1층, 2 지하 Gwangan-ro 45beon-gil, 광안제2동, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.1554298,
+        "longitude": 129.1173682
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Orange Bada",
+        "rating": 4.5,
+        "address": "245-1 Gwanganhaebyeon-ro, Suyeong-gu, Busan, South Korea",
+        "latitude": 35.154938,
+        "longitude": 129.1207541
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Over Cloud Souvenir Shop, Busan Haeundae",
+        "rating": 5,
+        "address": "264 Haeundaehaebyeon-ro, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1591466,
+        "longitude": 129.16038469999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "(Souvenir) YEOHAENGGIL",
+        "rating": 5,
+        "address": "South Korea, Busan, Saha-gu, 감천제2동 Okcheon-ro 75beon-gil, 17, 시장 여행길",
+        "latitude": 35.0937038,
+        "longitude": 129.0087742
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gamcheon Culture souvenir shop",
+        "rating": 4.5,
+        "address": "168 Gamnae 2-ro, Saha-gu, Busan, South Korea",
+        "latitude": 35.0989115,
+        "longitude": 129.0097475
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Artbox Busan Gwangbok 1st store",
+        "rating": 4.3,
+        "address": "28 BIFF gwangjang-ro, Jung-gu, Busan, South Korea",
+        "latitude": 35.0985434,
+        "longitude": 129.0282307
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Artbox Busan Gwangbok 2nd store",
+        "rating": 4.3,
+        "address": "73 Gwangbok-ro, Jung-gu, Busan, South Korea",
+        "latitude": 35.0988245,
+        "longitude": 129.0330195
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Artbox Busan Seomyeon",
+        "rating": 4.1,
+        "address": "39 Jungang-daero 692beon-gil, Busanjin District, Busan, South Korea",
+        "latitude": 35.1545621,
+        "longitude": 129.0613605
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Seomyeon GACHA SHOP",
+        "rating": 3.8,
+        "address": "2F,3F, 23 Jungang-daero 702beon-gil, Busanjin District, Busan, South Korea",
+        "latitude": 35.1554386,
+        "longitude": 129.0604515
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Dongbaek Shop Souvenir Store Busan stn.",
+        "rating": 3.1,
+        "address": "105호, 부산역 유라시아플렛폼, 210 Jungang-daero, Dong-gu, Busan, South Korea",
+        "latitude": 35.1151129,
+        "longitude": 129.0408246
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Blue Step",
+        "rating": 4.5,
+        "address": "1018 중제1동, Haeundae-gu, Busan, South Korea",
+        "latitude": 35.1580791,
+        "longitude": 129.17247369999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "감천문화마을 기념품솝",
+        "rating": 4.4,
+        "address": "South Korea, Busan, Saha-gu, Gamcheon-dong, Gamnae 2-ro, 201",
+        "latitude": 35.097596599999996,
+        "longitude": 129.0105827
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Asteroid B612",
+        "rating": 3,
+        "address": "6-1102 Gamcheon-dong, Saha-gu, Busan, South Korea",
+        "latitude": 35.0976662,
+        "longitude": 129.008617
+    },
+    {
+        "category": "souvenir counters",
+        "title": "꽃술 Stamen",
+        "rating": 5,
+        "address": "South Korea, Busan, Saha-gu, Okcheon-ro, 121, 1층 Stamen",
+        "latitude": 35.097037799999995,
+        "longitude": 129.01007149999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Busan Tourist Souvenir",
+        "rating": null,
+        "address": "206 Jungang-daero, Dong-gu, Busan, South Korea",
+        "latitude": 35.114402999999996,
+        "longitude": 129.04204769999998
+    }
+]

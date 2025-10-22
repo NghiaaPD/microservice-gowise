@@ -1,0 +1,3834 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Vasa Museum",
+        "rating": 4.8,
+        "address": "Galärvarvsvägen 14, 115 21 Stockholm, Sweden",
+        "latitude": 59.3280233,
+        "longitude": 18.0913964
+    },
+    {
+        "category": "tourist attractions",
+        "title": "The Royal Palace",
+        "rating": 4.5,
+        "address": "Kungliga slottet, 107 70 Stockholm, Sweden",
+        "latitude": 59.326821499999994,
+        "longitude": 18.0717194
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Skansen",
+        "rating": 4.5,
+        "address": "Djurgårdsslätten 49-51, 115 21 Stockholm, Sweden",
+        "latitude": 59.3263227,
+        "longitude": 18.1058582
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Royal Djurgården",
+        "rating": 4.7,
+        "address": "115 21 Stockholm, Sweden",
+        "latitude": 59.3267016,
+        "longitude": 18.126789199999997
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Storkyrkan",
+        "rating": 4.5,
+        "address": "Trångsund 1, 111 29 Stockholm, Sweden",
+        "latitude": 59.3257658,
+        "longitude": 18.070386499999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Kungsträdgården",
+        "rating": 4.5,
+        "address": "Jussi Björlings allé, 111 47 Stockholm, Sweden",
+        "latitude": 59.3310904,
+        "longitude": 18.071865
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Fotografiska Museum Stockholm",
+        "rating": 4.4,
+        "address": "Stadsgårdshamnen 22, 116 45 Stockholm, Sweden",
+        "latitude": 59.3179619,
+        "longitude": 18.0848269
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Brunkeberg Tunnel",
+        "rating": 4.1,
+        "address": "Brunkebergstunneln, 111 38 Stockholm, Sweden",
+        "latitude": 59.3371821,
+        "longitude": 18.0650831
+    },
+    {
+        "category": "tourist attractions",
+        "title": "St. George & The Dragon Statue",
+        "rating": 4.5,
+        "address": "Köpmantorget, 111 31 Stockholm, Sweden",
+        "latitude": 59.325123899999994,
+        "longitude": 18.0737451
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Stockholm's narrowest street (Mårten Trotzigs gränd)",
+        "rating": 4.4,
+        "address": "Mårten Trotzigs gränd 1, 111 29 Stockholm, Sweden",
+        "latitude": 59.3230076,
+        "longitude": 18.072766599999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Valborg",
+        "rating": null,
+        "address": "115 53 Stockholm, Sweden",
+        "latitude": 59.341760699999995,
+        "longitude": 18.1058694
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Stockholm City Hall",
+        "rating": 4.7,
+        "address": "Hantverkargatan 1, 111 52 Stockholm, Sweden",
+        "latitude": 59.327788999999996,
+        "longitude": 18.0551788
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Takvandring Sverige AB",
+        "rating": 4.3,
+        "address": "Stora Gråmunkegränd 14, 111 27 Stockholm, Sweden",
+        "latitude": 59.3253499,
+        "longitude": 18.0673271
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Moderna Museet",
+        "rating": 4.3,
+        "address": "Exercisplan 4, 111 49 Stockholm, Sweden",
+        "latitude": 59.3260466,
+        "longitude": 18.084687799999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Visita guiada por el Ayuntamiento de Estocolmo en español",
+        "rating": null,
+        "address": "Stadshuset, 112 21 Stockholm, Sweden",
+        "latitude": 59.327988,
+        "longitude": 18.055198
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Katarina Elevator",
+        "rating": 4.5,
+        "address": "Katarinavägen 3, 116 45 Stockholm, Sweden",
+        "latitude": 59.319887699999995,
+        "longitude": 18.0731535
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Stockholm Ghost Walk AB",
+        "rating": 4.8,
+        "address": "Järntorget 84, 111 29 Stockholm, Sweden",
+        "latitude": 59.3239959,
+        "longitude": 18.0712197
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Stadshuset",
+        "rating": 4.7,
+        "address": "Ragnar Östbergs plan 1, 112 20 Stockholm, Sweden",
+        "latitude": 59.327563,
+        "longitude": 18.0536417
+    },
+    {
+        "category": "tourist attractions",
+        "title": "ABBA The Museum",
+        "rating": 4.5,
+        "address": "Djurgårdsvägen 68, 115 21 Stockholm, Sweden",
+        "latitude": 59.324912999999995,
+        "longitude": 18.0969658
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Viking Walking Tour",
+        "rating": 5,
+        "address": "Stortorget 7, 111 31 Stockholm, Sweden",
+        "latitude": 59.324961699999996,
+        "longitude": 18.0707247
+    },
+    {
+        "category": "parks",
+        "title": "Kungsträdgården",
+        "rating": 4.5,
+        "address": "Jussi Björlings allé, 111 47 Stockholm, Sweden",
+        "latitude": 59.3310904,
+        "longitude": 18.071865
+    },
+    {
+        "category": "parks",
+        "title": "Humlegården",
+        "rating": 4.5,
+        "address": "Karlavägen 32, 114 31 Stockholm, Sweden",
+        "latitude": 59.339834399999994,
+        "longitude": 18.073357899999998
+    },
+    {
+        "category": "parks",
+        "title": "Berzelii Park",
+        "rating": 4.3,
+        "address": "111 47 Stockholm, Sweden",
+        "latitude": 59.3325803,
+        "longitude": 18.0745944
+    },
+    {
+        "category": "parks",
+        "title": "Hagaparken",
+        "rating": 4.5,
+        "address": "Hagalund, Solna, Sweden",
+        "latitude": 59.364452799999995,
+        "longitude": 18.0332534
+    },
+    {
+        "category": "parks",
+        "title": "Royal Djurgården",
+        "rating": 4.7,
+        "address": "115 21 Stockholm, Sweden",
+        "latitude": 59.3267016,
+        "longitude": 18.126789199999997
+    },
+    {
+        "category": "parks",
+        "title": "Rålambshovsparken",
+        "rating": 4.3,
+        "address": "Smedsuddsvägen 6, 112 35 Stockholm, Sweden",
+        "latitude": 59.328732699999996,
+        "longitude": 18.0247731
+    },
+    {
+        "category": "parks",
+        "title": "Tantolunden",
+        "rating": 4.3,
+        "address": "Zinkens Väg 20, 117 41 Stockholm, Sweden",
+        "latitude": 59.313183099999996,
+        "longitude": 18.0491469
+    },
+    {
+        "category": "parks",
+        "title": "Vasaparken",
+        "rating": 4.4,
+        "address": "Dalagatan 11C, 113 24 Stockholm, Sweden",
+        "latitude": 59.3401375,
+        "longitude": 18.0429191
+    },
+    {
+        "category": "parks",
+        "title": "Vanadislunden",
+        "rating": 4.4,
+        "address": "Ingemarsgatan 8, 113 54 Stockholm, Sweden",
+        "latitude": 59.349472999999996,
+        "longitude": 18.0535346
+    },
+    {
+        "category": "parks",
+        "title": "Tegnérlunden",
+        "rating": 4.3,
+        "address": "8, 113 59 Stockholm, Sweden",
+        "latitude": 59.3382137,
+        "longitude": 18.054503099999998
+    },
+    {
+        "category": "parks",
+        "title": "Observatorielunden",
+        "rating": 4.4,
+        "address": "Drottninggatan, 113 60 Stockholm, Sweden",
+        "latitude": 59.3421811,
+        "longitude": 18.0546792
+    },
+    {
+        "category": "parks",
+        "title": "Gröna Lund",
+        "rating": 4.2,
+        "address": "Lilla Allmänna Gränd 9, 115 21 Stockholm, Sweden",
+        "latitude": 59.323356399999994,
+        "longitude": 18.0963901
+    },
+    {
+        "category": "parks",
+        "title": "Vitabergsparken",
+        "rating": 4.5,
+        "address": "Skånegatan/Malmgårdsvägen, 116 38 Stockholm, Sweden",
+        "latitude": 59.311371799999996,
+        "longitude": 18.0898353
+    },
+    {
+        "category": "parks",
+        "title": "Vasaparken playground",
+        "rating": 4.5,
+        "address": "Dalagatan 11C, 113 24 Stockholm, Sweden",
+        "latitude": 59.3399449,
+        "longitude": 18.042002399999998
+    },
+    {
+        "category": "parks",
+        "title": "Bryggartäppan",
+        "rating": 4.4,
+        "address": "Bjurholmsgatan 1A, 116 38 Stockholm, Sweden",
+        "latitude": 59.3103099,
+        "longitude": 18.079940099999998
+    },
+    {
+        "category": "parks",
+        "title": "Skinnarviksparken",
+        "rating": 4.6,
+        "address": "Skinnarbacken, 117 27 Stockholm, Sweden",
+        "latitude": 59.319509999999994,
+        "longitude": 18.0483246
+    },
+    {
+        "category": "parks",
+        "title": "Lusthusportens Park",
+        "rating": 4.6,
+        "address": "Djurgårdsvägen 10, 115 21 Stockholm, Sweden",
+        "latitude": 59.329579599999995,
+        "longitude": 18.0968102
+    },
+    {
+        "category": "parks",
+        "title": "Högalidsparken",
+        "rating": 4.3,
+        "address": "Högalids kyrkväg 17, 117 30 Stockholm, Sweden",
+        "latitude": 59.3171968,
+        "longitude": 18.035854699999998
+    },
+    {
+        "category": "parks",
+        "title": "Luma Park",
+        "rating": 4.2,
+        "address": "120 64 Stockholm, Sweden",
+        "latitude": 59.3043711,
+        "longitude": 18.096136299999998
+    },
+    {
+        "category": "parks",
+        "title": "Anna Lindhs park",
+        "rating": 4.2,
+        "address": "116 43 Stockholm, Sweden",
+        "latitude": 59.3073981,
+        "longitude": 18.093522099999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Stockholms Gästabud",
+        "rating": 4.7,
+        "address": "Österlånggatan 7, 111 31 Stockholm, Sweden",
+        "latitude": 59.32568,
+        "longitude": 18.073991799999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Tradition",
+        "rating": 4.6,
+        "address": "Österlånggatan 1, 113 53 Stockholm, Sweden",
+        "latitude": 59.325952699999995,
+        "longitude": 18.0738533
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurang Kryp In Gamla Stan",
+        "rating": 4.6,
+        "address": "Prästgatan 17, 111 29 Stockholm, Sweden",
+        "latitude": 59.3246672,
+        "longitude": 18.0702473
+    },
+    {
+        "category": "restaurants",
+        "title": "Lilla Ego",
+        "rating": 4.7,
+        "address": "Västmannagatan 69, 113 26 Stockholm, Sweden",
+        "latitude": 59.3436209,
+        "longitude": 18.0454792
+    },
+    {
+        "category": "restaurants",
+        "title": "Rolfs Kök",
+        "rating": 4.5,
+        "address": "Tegnérgatan 41, 111 61 Stockholm, Sweden",
+        "latitude": 59.338704299999996,
+        "longitude": 18.057052199999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Ekstedt",
+        "rating": 4.8,
+        "address": "Humlegårdsgatan 17, 114 46 Stockholm, Sweden",
+        "latitude": 59.336786599999996,
+        "longitude": 18.0749207
+    },
+    {
+        "category": "restaurants",
+        "title": "Nomad | Swedish Food & Bar",
+        "rating": 4.4,
+        "address": "Upplandsgatan 2, 111 23 Stockholm, Sweden",
+        "latitude": 59.336107,
+        "longitude": 18.055291699999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Aifur",
+        "rating": 4.6,
+        "address": "Västerlånggatan 68b, 111 27 Stockholm, Sweden",
+        "latitude": 59.3231165,
+        "longitude": 18.0718328
+    },
+    {
+        "category": "restaurants",
+        "title": "Adam/Albin",
+        "rating": 4.8,
+        "address": "Rådmansgatan 16, 114 25 Stockholm, Sweden",
+        "latitude": 59.343072299999996,
+        "longitude": 18.0661649
+    },
+    {
+        "category": "restaurants",
+        "title": "The Hairy Pig Restaurant",
+        "rating": 4.2,
+        "address": "Lilla Nygatan 13, 111 28 Stockholm, Sweden",
+        "latitude": 59.3237975,
+        "longitude": 18.0687575
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Operakällaren",
+        "rating": 4.5,
+        "address": "Karl XII:s torg 3, 111 47 Stockholm, Sweden",
+        "latitude": 59.3298266,
+        "longitude": 18.0713389
+    },
+    {
+        "category": "restaurants",
+        "title": "Smak",
+        "rating": 4.5,
+        "address": "Oxtorgsgatan 14, 111 57 Stockholm, Sweden",
+        "latitude": 59.3352274,
+        "longitude": 18.0653041
+    },
+    {
+        "category": "restaurants",
+        "title": "Slingerbulten",
+        "rating": 4.6,
+        "address": "Stora Nygatan 24, 111 27 Stockholm, Sweden",
+        "latitude": 59.324313499999995,
+        "longitude": 18.0687916
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurang Hantverket",
+        "rating": 4.6,
+        "address": "Sturegatan 15a, 114 36 Stockholm, Sweden",
+        "latitude": 59.3414578,
+        "longitude": 18.0767585
+    },
+    {
+        "category": "restaurants",
+        "title": "Wedholms Fisk",
+        "rating": 4.6,
+        "address": "Arsenalsgatan 1, 111 47 Stockholm, Sweden",
+        "latitude": 59.3317744,
+        "longitude": 18.0752196
+    },
+    {
+        "category": "restaurants",
+        "title": "Woodstockholm",
+        "rating": 4.6,
+        "address": "Mosebacke Torg 9, 116 46 Stockholm, Sweden",
+        "latitude": 59.3177696,
+        "longitude": 18.0750584
+    },
+    {
+        "category": "restaurants",
+        "title": "Frantzén",
+        "rating": 4.8,
+        "address": "Klara Norra kyrkogata 26, 111 22 Stockholm, Sweden",
+        "latitude": 59.3339101,
+        "longitude": 18.058612399999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Bistro Bestick City",
+        "rating": 4.5,
+        "address": "Bryggargatan 8, 111 21 Stockholm, Sweden",
+        "latitude": 59.333087199999994,
+        "longitude": 18.0594349
+    },
+    {
+        "category": "restaurants",
+        "title": "Matbaren Mathias Dahlgren",
+        "rating": 4.5,
+        "address": "Södra Blasieholmshamnen 6, 111 48 Stockholm, Sweden",
+        "latitude": 59.3293423,
+        "longitude": 18.0762112
+    },
+    {
+        "category": "restaurants",
+        "title": "Den Gyldene Freden",
+        "rating": 4.3,
+        "address": "Österlånggatan 51, 111 31 Stockholm, Sweden",
+        "latitude": 59.3231727,
+        "longitude": 18.0737898
+    },
+    {
+        "category": "cafes",
+        "title": "Kaffekoppen",
+        "rating": 4.2,
+        "address": "Stortorget 20, 111 29 Stockholm, Sweden",
+        "latitude": 59.324905599999994,
+        "longitude": 18.0703528
+    },
+    {
+        "category": "cafes",
+        "title": "FIKA & WINE",
+        "rating": 4.8,
+        "address": "Österlånggatan 26, 111 31 Stockholm, Sweden",
+        "latitude": 59.323884,
+        "longitude": 18.073632
+    },
+    {
+        "category": "cafes",
+        "title": "Café Schweizer",
+        "rating": 4.4,
+        "address": "Västerlånggatan 9, 111 29 Stockholm, Sweden",
+        "latitude": 59.3260983,
+        "longitude": 18.0688496
+    },
+    {
+        "category": "cafes",
+        "title": "Café Pascal",
+        "rating": 4.5,
+        "address": "Norrtullsgatan 4, 113 29 Stockholm, Sweden",
+        "latitude": 59.3421357,
+        "longitude": 18.0520902
+    },
+    {
+        "category": "cafes",
+        "title": "Komet Café Stockholm",
+        "rating": 4.8,
+        "address": "Kungsholmsgatan 10, 112 27 Stockholm, Sweden",
+        "latitude": 59.331131,
+        "longitude": 18.0485187
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee Stop",
+        "rating": 4.4,
+        "address": "Skomakargatan 9, 111 29 Stockholm, Sweden",
+        "latitude": 59.324401699999996,
+        "longitude": 18.0709397
+    },
+    {
+        "category": "cafes",
+        "title": "Caffellini",
+        "rating": 4.8,
+        "address": "Västerlånggatan 60, 111 29 Stockholm, Sweden",
+        "latitude": 59.3235099,
+        "longitude": 18.0715082
+    },
+    {
+        "category": "cafes",
+        "title": "Drop Coffee Roasters",
+        "rating": 4.4,
+        "address": "Wollmar Yxkullsgatan 10, 118 50 Stockholm, Sweden",
+        "latitude": 59.316913,
+        "longitude": 18.0627939
+    },
+    {
+        "category": "cafes",
+        "title": "Johan & Nyström - Swedenborgsgatan",
+        "rating": 4.4,
+        "address": "Swedenborgsgatan 7, 118 48 Stockholm, Sweden",
+        "latitude": 59.316337399999995,
+        "longitude": 18.0640546
+    },
+    {
+        "category": "cafes",
+        "title": "Volca Coffee Roaster",
+        "rating": 4.7,
+        "address": "Hantverkargatan 8, 112 21 Stockholm, Sweden",
+        "latitude": 59.3286459,
+        "longitude": 18.0466739
+    },
+    {
+        "category": "cafes",
+        "title": "Café Cronan",
+        "rating": 4.1,
+        "address": "Stora Nygatan 37, 111 27 Stockholm, Sweden",
+        "latitude": 59.323576599999996,
+        "longitude": 18.0703647
+    },
+    {
+        "category": "cafes",
+        "title": "Mellqvist Cafe & Bar",
+        "rating": 4.4,
+        "address": "Rörstrandsgatan 4, 113 40 Stockholm, Sweden",
+        "latitude": 59.339798699999996,
+        "longitude": 18.0356612
+    },
+    {
+        "category": "cafes",
+        "title": "Café",
+        "rating": 4.8,
+        "address": "Hornsgatan 33, 118 49 Stockholm, Sweden",
+        "latitude": 59.3186399,
+        "longitude": 18.0614183
+    },
+    {
+        "category": "cafes",
+        "title": "Kladdkakan Café & Bistro",
+        "rating": 4.2,
+        "address": "Stora Nygatan 32, 111 27 Stockholm, Sweden",
+        "latitude": 59.323862399999996,
+        "longitude": 18.0696261
+    },
+    {
+        "category": "cafes",
+        "title": "Vete-Katten",
+        "rating": 4.4,
+        "address": "Kungsgatan 55, 111 22 Stockholm, Sweden",
+        "latitude": 59.334106,
+        "longitude": 18.0583098
+    },
+    {
+        "category": "cafes",
+        "title": "Sundbergs Konditori",
+        "rating": 4.3,
+        "address": "Järntorget 83, 111 29 Stockholm, Sweden",
+        "latitude": 59.322814199999996,
+        "longitude": 18.072986099999998
+    },
+    {
+        "category": "cafes",
+        "title": "Karla Cafe",
+        "rating": 4.2,
+        "address": "Karlavägen 71, 114 43 Stockholm, Sweden",
+        "latitude": 59.3393093,
+        "longitude": 18.0831832
+    },
+    {
+        "category": "cafes",
+        "title": "Café Albert",
+        "rating": 4.2,
+        "address": "Birger Jarlsgatan 5, 111 45 Stockholm, Sweden",
+        "latitude": 59.3335405,
+        "longitude": 18.0749971
+    },
+    {
+        "category": "cafes",
+        "title": "Älskade traditioner",
+        "rating": 4.5,
+        "address": "Södermannagatan 42, 116 40 Stockholm, Sweden",
+        "latitude": 59.3110414,
+        "longitude": 18.0814369
+    },
+    {
+        "category": "cafes",
+        "title": "Kaffegillet Restaurang och Café",
+        "rating": 4.4,
+        "address": "Trångsund 4, 111 29 Stockholm, Sweden",
+        "latitude": 59.3255096,
+        "longitude": 18.069797299999998
+    },
+    {
+        "category": "mountains",
+        "title": "Lindarangsknosen",
+        "rating": null,
+        "address": "115 25 Stockholm, Sweden",
+        "latitude": 59.3333333,
+        "longitude": 18.1333333
+    },
+    {
+        "category": "mountains",
+        "title": "Hammarbybacken ski slope",
+        "rating": 4.2,
+        "address": "Sweden",
+        "latitude": 59.300318,
+        "longitude": 18.1104563
+    },
+    {
+        "category": "waterfalls",
+        "title": "Tännforsen Waterfall",
+        "rating": 4.7,
+        "address": "Åreälven, Sweden",
+        "latitude": 63.4453877,
+        "longitude": 12.7387226
+    },
+    {
+        "category": "waterfalls",
+        "title": "Styggforsen",
+        "rating": 4.6,
+        "address": "Unnamed Rd,, 795 96, Sweden",
+        "latitude": 61.0072037,
+        "longitude": 15.1915313
+    },
+    {
+        "category": "waterfalls",
+        "title": "Njupeskär Waterfall",
+        "rating": 4.8,
+        "address": "Njupeskär, 797 91 Särna, Sweden",
+        "latitude": 61.6344776,
+        "longitude": 12.6847514
+    },
+    {
+        "category": "waterfalls",
+        "title": "Silverfallet",
+        "rating": 4.5,
+        "address": "V, 541 97 Skövde, Sweden",
+        "latitude": 58.492283099999995,
+        "longitude": 13.744370499999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Ramhultafallet",
+        "rating": 4.5,
+        "address": "Ramhultavägen, Sweden",
+        "latitude": 57.5101759,
+        "longitude": 12.3885141
+    },
+    {
+        "category": "waterfalls",
+        "title": "Tyresta National Park and Nature Reserve",
+        "rating": 4.7,
+        "address": "136 59 Vendelsö, Sweden",
+        "latitude": 59.1843103,
+        "longitude": 18.281182599999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "Hallamölla Vattenfall",
+        "rating": 4.4,
+        "address": "HALLAMÖLLA 102, 273 57 Brösarp, Sweden",
+        "latitude": 55.7081041,
+        "longitude": 14.0178935
+    },
+    {
+        "category": "waterfalls",
+        "title": "Hällingsåfallet",
+        "rating": 4.8,
+        "address": "833 98 Strömsund, Sweden",
+        "latitude": 64.34891859999999,
+        "longitude": 14.3841291
+    },
+    {
+        "category": "waterfalls",
+        "title": "Fettjeåfallet",
+        "rating": 4.8,
+        "address": "845 97 Klövsjö, Sweden",
+        "latitude": 62.539443999999996,
+        "longitude": 14.105556
+    },
+    {
+        "category": "waterfalls",
+        "title": "Stora Sjöfallets / Stuor Muorkke National Park",
+        "rating": 4.6,
+        "address": "982 99 Gällivare, Sweden",
+        "latitude": 67.560248,
+        "longitude": 18.037653799999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "Silverfallet",
+        "rating": 4,
+        "address": "Bergviksgatan 23, 152 50 Södertälje, Sweden",
+        "latitude": 59.210142999999995,
+        "longitude": 17.621536
+    },
+    {
+        "category": "waterfalls",
+        "title": "Storstupet",
+        "rating": 4.4,
+        "address": "Ö, Orsa, Sweden",
+        "latitude": 61.2271424,
+        "longitude": 14.789338299999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Linafallet",
+        "rating": 4.4,
+        "address": "Ö, Sweden",
+        "latitude": 66.81175999999999,
+        "longitude": 22.1629137
+    },
+    {
+        "category": "waterfalls",
+        "title": "Fulufjället National Park",
+        "rating": 4.8,
+        "address": "Älvdalen, Sweden",
+        "latitude": 61.547290499999995,
+        "longitude": 12.7529779
+    },
+    {
+        "category": "waterfalls",
+        "title": "The Green Trails",
+        "rating": 4.7,
+        "address": "Tideliusgatan 62, 118 69 Stockholm, Sweden",
+        "latitude": 59.309548899999996,
+        "longitude": 18.0640188
+    },
+    {
+        "category": "waterfalls",
+        "title": "Stockholm Adventures / ICEguide",
+        "rating": 4.9,
+        "address": "Kungsbro strand 21, 112 26 Stockholm, Sweden",
+        "latitude": 59.3308604,
+        "longitude": 18.0507047
+    },
+    {
+        "category": "waterfalls",
+        "title": "Brattfallet",
+        "rating": 4.7,
+        "address": "Unnamed Road, 683 62 Ekshärads socken, Sweden",
+        "latitude": 60.2933758,
+        "longitude": 13.4677554
+    },
+    {
+        "category": "waterfalls",
+        "title": "Brakkåfallet",
+        "rating": 4.5,
+        "address": "833 98 Gäddede, Sweden",
+        "latitude": 64.7984956,
+        "longitude": 14.054962399999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Silverfallet, Björkliden",
+        "rating": 4.7,
+        "address": "E10, 981 93 Björkliden, Sweden",
+        "latitude": 68.4020781,
+        "longitude": 18.6968881
+    },
+    {
+        "category": "waterfalls",
+        "title": "Fjätfallen",
+        "rating": 4.6,
+        "address": "797 91 Särna, Sweden",
+        "latitude": 61.939535899999996,
+        "longitude": 13.049826699999999
+    },
+    {
+        "category": "lakes",
+        "title": "Klara Sjo",
+        "rating": 5,
+        "address": "112 26 Stockholm, Sweden",
+        "latitude": 59.3333333,
+        "longitude": 18.05
+    },
+    {
+        "category": "lakes",
+        "title": "Lillsjön",
+        "rating": 4,
+        "address": "115 42 Stockholm, Sweden",
+        "latitude": 59.361999999999995,
+        "longitude": 18.085
+    },
+    {
+        "category": "lakes",
+        "title": "Trekanten",
+        "rating": 4.3,
+        "address": "Hägersten-Liljeholmen, Stockholm, Sweden",
+        "latitude": 59.3120391,
+        "longitude": 18.0155878
+    },
+    {
+        "category": "lakes",
+        "title": "Lillsjön",
+        "rating": 4.3,
+        "address": "Bromma, Sweden",
+        "latitude": 59.341409199999994,
+        "longitude": 17.9582283
+    },
+    {
+        "category": "lakes",
+        "title": "Laduviken",
+        "rating": 4.7,
+        "address": "115 42 Stockholm, Sweden",
+        "latitude": 59.3606724,
+        "longitude": 18.0761716
+    },
+    {
+        "category": "lakes",
+        "title": "Sandasjön",
+        "rating": 4.4,
+        "address": "138 37 Älta, Sweden",
+        "latitude": 59.2754218,
+        "longitude": 18.192947399999998
+    },
+    {
+        "category": "lakes",
+        "title": "Långsjön",
+        "rating": 4.4,
+        "address": "Sweden",
+        "latitude": 59.2677785,
+        "longitude": 17.9661529
+    },
+    {
+        "category": "lakes",
+        "title": "Kyrksjön",
+        "rating": 4.5,
+        "address": "Bromma, Sweden",
+        "latitude": 59.349289299999995,
+        "longitude": 17.9158241
+    },
+    {
+        "category": "lakes",
+        "title": "Lötsjön",
+        "rating": 4.6,
+        "address": "Sundbyberg, Sweden",
+        "latitude": 59.3716308,
+        "longitude": 17.9667377
+    },
+    {
+        "category": "lakes",
+        "title": "Flaten",
+        "rating": 4.6,
+        "address": "Sweden",
+        "latitude": 59.2496428,
+        "longitude": 18.1524495
+    },
+    {
+        "category": "lakes",
+        "title": "Liljeholmsviken",
+        "rating": 4,
+        "address": "Stockholm, Sweden",
+        "latitude": 59.3144141,
+        "longitude": 18.0302103
+    },
+    {
+        "category": "lakes",
+        "title": "Spegeldammen",
+        "rating": 4.5,
+        "address": "115 42 Stockholm, Sweden",
+        "latitude": 59.365504599999994,
+        "longitude": 18.0775123
+    },
+    {
+        "category": "lakes",
+        "title": "Mörtsjön",
+        "rating": 4.5,
+        "address": "141 91 Huddinge, Sweden",
+        "latitude": 59.213852499999994,
+        "longitude": 18.0314665
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Stockholm",
+        "rating": 4.3,
+        "address": "Hardyston, NJ 07460",
+        "latitude": 41.0686377,
+        "longitude": -74.5294834
+    },
+    {
+        "category": "lakes",
+        "title": "Ulvsjön",
+        "rating": 4.2,
+        "address": "138 33 Älta, Sweden",
+        "latitude": 59.2774298,
+        "longitude": 18.163544299999998
+    },
+    {
+        "category": "lakes",
+        "title": "Långholmen",
+        "rating": 4.5,
+        "address": "117 33 Stockholm, Sweden",
+        "latitude": 59.321045399999996,
+        "longitude": 18.028053099999997
+    },
+    {
+        "category": "lakes",
+        "title": "Källtorpssjön",
+        "rating": 4.6,
+        "address": "131 33 Nacka, Sweden",
+        "latitude": 59.291281299999994,
+        "longitude": 18.1629471
+    },
+    {
+        "category": "lakes",
+        "title": "Söderbysjön",
+        "rating": 4.6,
+        "address": "Älta, Sweden",
+        "latitude": 59.2816639,
+        "longitude": 18.1509356
+    },
+    {
+        "category": "lakes",
+        "title": "Klara Sjö",
+        "rating": 3.8,
+        "address": "Sweden",
+        "latitude": 59.347488899999995,
+        "longitude": 18.000704499999998
+    },
+    {
+        "category": "lakes",
+        "title": "Lappkärret",
+        "rating": 4.7,
+        "address": "114 17 Stockholm, Sweden",
+        "latitude": 59.3686035,
+        "longitude": 18.0688587
+    },
+    {
+        "category": "beaches",
+        "title": "Ekhagen strandbad",
+        "rating": 4.3,
+        "address": "114 17 Stockholm, Sweden",
+        "latitude": 59.3723914,
+        "longitude": 18.0690122
+    },
+    {
+        "category": "beaches",
+        "title": "Solviksbadet",
+        "rating": 4.4,
+        "address": "167 63 Bromma, Sweden",
+        "latitude": 59.3151781,
+        "longitude": 17.966165999999998
+    },
+    {
+        "category": "beaches",
+        "title": "Långholmsbadet",
+        "rating": 4.2,
+        "address": "Långholmsmuren 21, 117 33 Stockholm, Sweden",
+        "latitude": 59.3219,
+        "longitude": 18.024229899999998
+    },
+    {
+        "category": "beaches",
+        "title": "Smedsuddsbadet",
+        "rating": 4.2,
+        "address": "Smedsuddsvägen, 112 35 Stockholm, Sweden",
+        "latitude": 59.325128,
+        "longitude": 18.0214191
+    },
+    {
+        "category": "beaches",
+        "title": "Hökarängsbadet",
+        "rating": 4.1,
+        "address": "123 63 Stockholm, Sweden",
+        "latitude": 59.246604399999995,
+        "longitude": 18.109432899999998
+    },
+    {
+        "category": "beaches",
+        "title": "Trekantsbadet",
+        "rating": 4.4,
+        "address": "117 65 Stockholm, Sweden",
+        "latitude": 59.312581699999996,
+        "longitude": 18.0106452
+    },
+    {
+        "category": "beaches",
+        "title": "Badplats Stora Flaten, Flatenbadet",
+        "rating": 4.3,
+        "address": "138 31 Älta, Sweden",
+        "latitude": 59.2530479,
+        "longitude": 18.1597673
+    },
+    {
+        "category": "beaches",
+        "title": "Alviks strand",
+        "rating": 4.8,
+        "address": "167 51 Bromma, Sweden",
+        "latitude": 59.3301758,
+        "longitude": 17.9853523
+    },
+    {
+        "category": "beaches",
+        "title": "Brunnsviksbadet",
+        "rating": 4.2,
+        "address": "Frescati Hagväg 18, 114 19 Stockholm, Sweden",
+        "latitude": 59.3619561,
+        "longitude": 18.0487485
+    },
+    {
+        "category": "beaches",
+        "title": "Trekantens strandbad",
+        "rating": 4,
+        "address": "Lövholmsvägen 65, 117 65 Stockholm, Sweden",
+        "latitude": 59.3127377,
+        "longitude": 18.0105432
+    },
+    {
+        "category": "beaches",
+        "title": "Tanto strandbad",
+        "rating": 4.3,
+        "address": "Skarpskyttestigen 6, 117 41 Stockholm, Sweden",
+        "latitude": 59.3120358,
+        "longitude": 18.0380988
+    },
+    {
+        "category": "beaches",
+        "title": "Minnebergsbadet",
+        "rating": 4.3,
+        "address": "Bromma, Sweden",
+        "latitude": 59.3409737,
+        "longitude": 17.9864475
+    },
+    {
+        "category": "beaches",
+        "title": "Ågesta nudist beach (Ågesta naturist beach)",
+        "rating": 4.6,
+        "address": "59°13'36, 18° 05'49, 2 8, 123 52 Farsta, Sweden",
+        "latitude": 59.226858699999994,
+        "longitude": 18.096982699999998
+    },
+    {
+        "category": "beaches",
+        "title": "Långholmens klippbad och hundstrand",
+        "rating": 4.1,
+        "address": "Långholmsbacken 9, 117 33 Stockholm, Sweden",
+        "latitude": 59.3227978,
+        "longitude": 18.035048
+    },
+    {
+        "category": "beaches",
+        "title": "Mälarhöjdsbadet",
+        "rating": 4.2,
+        "address": "Bredängs badväg, 127 31 Skärholmen, Sweden",
+        "latitude": 59.300148699999994,
+        "longitude": 17.9256641
+    },
+    {
+        "category": "beaches",
+        "title": "Johannelund bath",
+        "rating": 4.1,
+        "address": "Missionsvägen 16, 167 33 Bromma, Sweden",
+        "latitude": 59.341066,
+        "longitude": 17.9863893
+    },
+    {
+        "category": "beaches",
+        "title": "Oxhålsbadet",
+        "rating": 4.3,
+        "address": "Gammelgårdsvägen 41, 112 64 Stockholm, Sweden",
+        "latitude": 59.3222819,
+        "longitude": 17.9845831
+    },
+    {
+        "category": "beaches",
+        "title": "Vinterviksbadet",
+        "rating": 4.4,
+        "address": "Vinterviksvägen, 117 65 Stockholm, Sweden",
+        "latitude": 59.3113569,
+        "longitude": 17.987844
+    },
+    {
+        "category": "beaches",
+        "title": "Ålstensängen beach",
+        "rating": 4.4,
+        "address": "Brantstigen 14, 167 65 Bromma, Sweden",
+        "latitude": 59.316226,
+        "longitude": 17.9526347
+    },
+    {
+        "category": "beaches",
+        "title": "Fredhällsbadet",
+        "rating": 4.5,
+        "address": "Kungsholms strandstig 602, 112 26 Stockholm, Sweden",
+        "latitude": 59.330446599999995,
+        "longitude": 17.9960189
+    },
+    {
+        "category": "swimming pools",
+        "title": "Eriksdalsbadet",
+        "rating": 4,
+        "address": "Hammarby Slussväg 20, 118 60 Stockholm, Sweden",
+        "latitude": 59.304942,
+        "longitude": 18.0750797
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kronobergsbadet",
+        "rating": 4.1,
+        "address": "Bergsgatan 58, 112 31 Stockholm, Sweden",
+        "latitude": 59.3309291,
+        "longitude": 18.0377159
+    },
+    {
+        "category": "swimming pools",
+        "title": "Smedsuddsbadet",
+        "rating": 4.2,
+        "address": "Smedsuddsvägen, 112 35 Stockholm, Sweden",
+        "latitude": 59.325128,
+        "longitude": 18.0214191
+    },
+    {
+        "category": "swimming pools",
+        "title": "Älvsjöbadet Swimming Pool",
+        "rating": 3.8,
+        "address": "Ormkärrsvägen, 124 71 Bandhagen, Sweden",
+        "latitude": 59.268598499999996,
+        "longitude": 18.0105123
+    },
+    {
+        "category": "swimming pools",
+        "title": "Tanto strandbad",
+        "rating": 4.3,
+        "address": "Skarpskyttestigen 6, 117 41 Stockholm, Sweden",
+        "latitude": 59.3120358,
+        "longitude": 18.0380988
+    },
+    {
+        "category": "swimming pools",
+        "title": "Gamla Stans Simskola",
+        "rating": 4.9,
+        "address": "Svartmangatan 20, 111 29 Stockholm, Sweden",
+        "latitude": 59.323726099999995,
+        "longitude": 18.0726889
+    },
+    {
+        "category": "swimming pools",
+        "title": "Forsgrénska Badet",
+        "rating": 4.2,
+        "address": "Medborgarplatsen 4, 118 26 Stockholm, Sweden",
+        "latitude": 59.314409,
+        "longitude": 18.072426
+    },
+    {
+        "category": "swimming pools",
+        "title": "Husby bath",
+        "rating": 4,
+        "address": "Edvard Griegsgången 30, 164 32 Kista, Sweden",
+        "latitude": 59.4117883,
+        "longitude": 17.922829099999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Trampoolin",
+        "rating": 4.4,
+        "address": "Södra Agnegatan 20, 112 21 Stockholm, Sweden",
+        "latitude": 59.3288593,
+        "longitude": 18.0413271
+    },
+    {
+        "category": "swimming pools",
+        "title": "Långholmsbadet",
+        "rating": 4.2,
+        "address": "Långholmsmuren 21, 117 33 Stockholm, Sweden",
+        "latitude": 59.3219,
+        "longitude": 18.024229899999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Trekantens strandbad",
+        "rating": 4,
+        "address": "Lövholmsvägen 65, 117 65 Stockholm, Sweden",
+        "latitude": 59.3127377,
+        "longitude": 18.0105432
+    },
+    {
+        "category": "swimming pools",
+        "title": "Fredhäll park's wading pool",
+        "rating": 4.3,
+        "address": "Adlerbethsgatan 25, 112 55 Stockholm, Sweden",
+        "latitude": 59.331986199999996,
+        "longitude": 18.0030714
+    },
+    {
+        "category": "swimming pools",
+        "title": "GIH-Badet",
+        "rating": 4.2,
+        "address": "Drottning Sofias väg 20, 114 33 Stockholm, Sweden",
+        "latitude": 59.347338199999996,
+        "longitude": 18.0786742
+    },
+    {
+        "category": "swimming pools",
+        "title": "Oxhålsbadet",
+        "rating": 4.3,
+        "address": "Gammelgårdsvägen 41, 112 64 Stockholm, Sweden",
+        "latitude": 59.3222819,
+        "longitude": 17.9845831
+    },
+    {
+        "category": "swimming pools",
+        "title": "Centralbadet",
+        "rating": 4.1,
+        "address": "Drottninggatan 88, 111 36 Stockholm, Sweden",
+        "latitude": 59.336575999999994,
+        "longitude": 18.0599025
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sundbyberg’s swimming pool and gym",
+        "rating": 4.2,
+        "address": "Bergaliden 1, 172 77 Sundbyberg, Sweden",
+        "latitude": 59.3686546,
+        "longitude": 17.9670091
+    },
+    {
+        "category": "swimming pools",
+        "title": "Plaskdamm Tengdalsparken",
+        "rating": 5,
+        "address": "Barnängsgatan 52E, 116 48 Stockholm, Sweden",
+        "latitude": 59.311545499999994,
+        "longitude": 18.093506299999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Vanadisbadet",
+        "rating": 3.9,
+        "address": "Sveavägen 142, 113 46 Stockholm, Sweden",
+        "latitude": 59.3476644,
+        "longitude": 18.053383
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kampementsbadet",
+        "rating": 4,
+        "address": "Sandhamnsgatan 64, 115 40 Stockholm, Sweden",
+        "latitude": 59.3427492,
+        "longitude": 18.1086103
+    },
+    {
+        "category": "swimming pools",
+        "title": "Nytorp swimming pool",
+        "rating": 3.8,
+        "address": "Ulricehamnsvägens förlängning, 121 49 Johanneshov, Sweden",
+        "latitude": 59.2896565,
+        "longitude": 18.106766999999998
+    },
+    {
+        "category": "resorts",
+        "title": "Grand Hôtel",
+        "rating": 4.6,
+        "address": "Södra Blasieholmshamnen 8, 103 27 Stockholm, Sweden",
+        "latitude": 59.3297258,
+        "longitude": 18.075713399999998
+    },
+    {
+        "category": "resorts",
+        "title": "Hôtel Reisen - The Unbound Collection by Hyatt",
+        "rating": 4.3,
+        "address": "Skeppsbron 12, 111 30 Stockholm, Sweden",
+        "latitude": 59.3254337,
+        "longitude": 18.075363199999998
+    },
+    {
+        "category": "resorts",
+        "title": "The Winery Hotel, WorldHotels Crafted",
+        "rating": 4.4,
+        "address": "Rosenborgsgatan 20, 169 74 Solna, Sweden",
+        "latitude": 59.3775128,
+        "longitude": 18.0123131
+    },
+    {
+        "category": "resorts",
+        "title": "Elite Hotel Marina Tower, Stockholm",
+        "rating": 4.4,
+        "address": "Saltsjöqvarns kaj 25, 131 71 Nacka, Sweden",
+        "latitude": 59.314605099999994,
+        "longitude": 18.109972
+    },
+    {
+        "category": "resorts",
+        "title": "Ett Hem",
+        "rating": 4.7,
+        "address": "Sköldungagatan 2, 114 27 Stockholm, Sweden",
+        "latitude": 59.345602799999995,
+        "longitude": 18.0677011
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Rival",
+        "rating": 4.4,
+        "address": "Mariatorget 3, 118 48 Stockholm, Sweden",
+        "latitude": 59.3181838,
+        "longitude": 18.0637996
+    },
+    {
+        "category": "resorts",
+        "title": "Elite Palace Hotel, Stockholm",
+        "rating": 4.1,
+        "address": "Sankt Eriksgatan 115, 113 43 Stockholm, Sweden",
+        "latitude": 59.346626199999996,
+        "longitude": 18.0395503
+    },
+    {
+        "category": "resorts",
+        "title": "Sheraton Stockholm Hotel",
+        "rating": 4.2,
+        "address": "Tegelbacken 6, 101 23, 101 23 Stockholm, Sweden",
+        "latitude": 59.3290727,
+        "longitude": 18.0616157
+    },
+    {
+        "category": "resorts",
+        "title": "Hilton Stockholm Slussen",
+        "rating": 4.2,
+        "address": "Guldgränd 8, 104 65 Stockholm, Sweden",
+        "latitude": 59.3204765,
+        "longitude": 18.0692835
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Diplomat",
+        "rating": 4.3,
+        "address": "Strandvägen 7C, 114 56 Stockholm, Sweden",
+        "latitude": 59.3319889,
+        "longitude": 18.080275
+    },
+    {
+        "category": "resorts",
+        "title": "Clas på Hörnet Hotell",
+        "rating": 4.6,
+        "address": "Surbrunnsgatan 20, 113 48 Stockholm, Sweden",
+        "latitude": 59.346526,
+        "longitude": 18.061096499999998
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Ruth, member of WorldHotels Crafted",
+        "rating": 4.7,
+        "address": "Surbrunnsgatan 38, 113 48 Stockholm, Sweden",
+        "latitude": 59.3453199,
+        "longitude": 18.056611099999998
+    },
+    {
+        "category": "resorts",
+        "title": "Collector's Victory Hotel",
+        "rating": 4.5,
+        "address": "Lilla Nygatan 5, 111 28 Stockholm, Sweden",
+        "latitude": 59.3243952,
+        "longitude": 18.0678829
+    },
+    {
+        "category": "resorts",
+        "title": "Bank Hotel",
+        "rating": 4.5,
+        "address": "Arsenalsgatan 6, 111 47 Stockholm, Sweden",
+        "latitude": 59.331388999999994,
+        "longitude": 18.074651799999998
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Frantz, member of WorldHotels Crafted",
+        "rating": 4.5,
+        "address": "Peter Myndes backe 5, 116 46 Stockholm, Sweden",
+        "latitude": 59.319412,
+        "longitude": 18.071362999999998
+    },
+    {
+        "category": "resorts",
+        "title": "Clarion Hotel Stockholm",
+        "rating": 4.2,
+        "address": "Ringvägen 98, 118 60 Stockholm, Sweden",
+        "latitude": 59.3070649,
+        "longitude": 18.0748087
+    },
+    {
+        "category": "resorts",
+        "title": "Radisson Collection Strand Hotel, Stockholm",
+        "rating": 4.3,
+        "address": "Nybrokajen 9, 103 27 Stockholm, Sweden",
+        "latitude": 59.3309162,
+        "longitude": 18.0769777
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Kungsträdgården",
+        "rating": 4.5,
+        "address": "Västra Trädgårdsgatan 11B, 111 53 Stockholm, Sweden",
+        "latitude": 59.3313232,
+        "longitude": 18.0696826
+    },
+    {
+        "category": "resorts",
+        "title": "Nobis Hotel Stockholm",
+        "rating": 4.4,
+        "address": "Norrmalmstorg 2-4, 111 46 Stockholm, Sweden",
+        "latitude": 59.3334848,
+        "longitude": 18.0738338
+    },
+    {
+        "category": "resorts",
+        "title": "Hellstens Glashus",
+        "rating": 4.2,
+        "address": "Wollmar Yxkullsgatan 13, 118 50 Stockholm, Sweden",
+        "latitude": 59.316647499999995,
+        "longitude": 18.0623251
+    },
+    {
+        "category": "camping sites",
+        "title": "Bredäng Camping Stockholm",
+        "rating": 4,
+        "address": "Stora Sällskapets Väg 60, 127 31 Skärholmen, Sweden",
+        "latitude": 59.2956132,
+        "longitude": 17.9231665
+    },
+    {
+        "category": "camping sites",
+        "title": "First Camp City - Stockholm",
+        "rating": 3.7,
+        "address": "Flatens skogsväg 30, 138 31 Älta, Sweden",
+        "latitude": 59.248174199999994,
+        "longitude": 18.1616323
+    },
+    {
+        "category": "camping sites",
+        "title": "Ängby Camping",
+        "rating": 3,
+        "address": "Blackebergsvägen 25, 168 52 Bromma, Sweden",
+        "latitude": 59.3373716,
+        "longitude": 17.901049
+    },
+    {
+        "category": "camping sites",
+        "title": "Askrike Camping",
+        "rating": 4.4,
+        "address": "Askrikevägen, 185 93 Vaxholm, Sweden",
+        "latitude": 59.3895244,
+        "longitude": 18.2438956
+    },
+    {
+        "category": "camping sites",
+        "title": "Tantolundens husbilscamping",
+        "rating": 3.8,
+        "address": "Ringvägen 24, 118 67 Stockholm, Sweden",
+        "latitude": 59.3124696,
+        "longitude": 18.0532976
+    },
+    {
+        "category": "camping sites",
+        "title": "Stockholm Swecamp Flottsbro",
+        "rating": 3.8,
+        "address": "Häggstavägen 20, 141 32 Tullinge, Sweden",
+        "latitude": 59.2305438,
+        "longitude": 17.8879309
+    },
+    {
+        "category": "camping sites",
+        "title": "Ställplats Stockholm",
+        "rating": 4.3,
+        "address": "Flatens skogsväg 30, 128 31, 128 31 Älta, Sweden",
+        "latitude": 59.2500122,
+        "longitude": 18.1617739
+    },
+    {
+        "category": "camping sites",
+        "title": "Rösjöbaden camping och stugby",
+        "rating": 3.7,
+        "address": "Rösjötorpsvägen 1, 192 56 Sollentuna, Sweden",
+        "latitude": 59.4382692,
+        "longitude": 17.9919557
+    },
+    {
+        "category": "camping sites",
+        "title": "Gålö Havsbad",
+        "rating": 4.2,
+        "address": "Skälåkersvägen 11, 137 96 Gålö, Sweden",
+        "latitude": 59.0951361,
+        "longitude": 18.3184029
+    },
+    {
+        "category": "camping sites",
+        "title": "Flottsbro",
+        "rating": 4.3,
+        "address": "Häggstavägen, 141 32 Huddinge, Sweden",
+        "latitude": 59.2309523,
+        "longitude": 17.8824002
+    },
+    {
+        "category": "camping sites",
+        "title": "Alvsjö Camping",
+        "rating": 2.5,
+        "address": "Parkeringsvägen 10, 125 44 Älvsjö, Sweden",
+        "latitude": 59.281076999999996,
+        "longitude": 18.0196888
+    },
+    {
+        "category": "camping sites",
+        "title": "Waxholms Camping",
+        "rating": 3.4,
+        "address": "Eriksövägen 44-46, 185 37 Vaxholm, Sweden",
+        "latitude": 59.405151599999996,
+        "longitude": 18.3044086
+    },
+    {
+        "category": "camping sites",
+        "title": "Klubbensborg",
+        "rating": 3.9,
+        "address": "Klubbensborgsvägen 27, 129 39 Hägersten, Sweden",
+        "latitude": 59.307751499999995,
+        "longitude": 17.9606195
+    },
+    {
+        "category": "camping sites",
+        "title": "Resting area",
+        "rating": 3,
+        "address": "Unnamed Road, 174 62 Sundbyberg, Sweden",
+        "latitude": 59.3901654,
+        "longitude": 17.961915599999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Sörmlandsleden Stage 1",
+        "rating": 4.5,
+        "address": "Helsingborgsvägen 2, 121 53 Johanneshov, Sweden",
+        "latitude": 59.291890699999996,
+        "longitude": 18.116740399999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Lush valleys - Guide to silence Stockholm",
+        "rating": 4.8,
+        "address": "Bränningevägen, 120 60 Årsta, Sweden",
+        "latitude": 59.3034405,
+        "longitude": 18.0440784
+    },
+    {
+        "category": "hiking trails",
+        "title": "Tyresta National Park and Nature Reserve",
+        "rating": 4.7,
+        "address": "136 59 Vendelsö, Sweden",
+        "latitude": 59.1843103,
+        "longitude": 18.281182599999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Flatens naturreservat",
+        "rating": 4.6,
+        "address": "Orhemsvägen 400, 138 31 Älta, Sweden",
+        "latitude": 59.2423678,
+        "longitude": 18.156914
+    },
+    {
+        "category": "hiking trails",
+        "title": "The Älvsjö Forest Nature Preserve",
+        "rating": 4.5,
+        "address": "125 51 Stockholm, Sweden",
+        "latitude": 59.2655306,
+        "longitude": 17.9934775
+    },
+    {
+        "category": "hiking trails",
+        "title": "Gröna spåret (Hellasgården - Solsidan)",
+        "rating": 4.1,
+        "address": "Unnamed Road, 131 33 Nacka, Sweden",
+        "latitude": 59.2906621,
+        "longitude": 18.153977299999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Rekreationsområde",
+        "rating": 5,
+        "address": "Atterbomsvägen 42, 112 57 Stockholm, Sweden",
+        "latitude": 59.327774999999995,
+        "longitude": 18.0055098
+    },
+    {
+        "category": "hiking trails",
+        "title": "The Årsta Forest Nature Reserve",
+        "rating": 4.5,
+        "address": "Orrfjärdsgränd 11, 120 51 Johanneshov, Sweden",
+        "latitude": 59.302104299999996,
+        "longitude": 18.0619402
+    },
+    {
+        "category": "hiking trails",
+        "title": "Oak forest at the canal - Guide to silence Stockholm",
+        "rating": 4.4,
+        "address": "Rusthållarvägen, 128 48 Bagarmossen, Sweden",
+        "latitude": 59.2749812,
+        "longitude": 18.1521659
+    },
+    {
+        "category": "hiking trails",
+        "title": "The Green Trails",
+        "rating": 4.7,
+        "address": "Tideliusgatan 62, 118 69 Stockholm, Sweden",
+        "latitude": 59.309548899999996,
+        "longitude": 18.0640188
+    },
+    {
+        "category": "hiking trails",
+        "title": "Paradiset",
+        "rating": 4.6,
+        "address": "Vandrarstigen 3, 141 91 Huddinge, Sweden",
+        "latitude": 59.1542719,
+        "longitude": 18.02153
+    },
+    {
+        "category": "hiking trails",
+        "title": "Fiskartorpet Hopparbacke",
+        "rating": 4.2,
+        "address": "Björnnäsbacken 15, 115 42 Stockholm, Sweden",
+        "latitude": 59.358831599999995,
+        "longitude": 18.0765055
+    },
+    {
+        "category": "hiking trails",
+        "title": "Solbergaskogen",
+        "rating": 4.7,
+        "address": "Solberga Älvsjö, 126 40 Stockholm, Sweden",
+        "latitude": 59.285157399999996,
+        "longitude": 18.001727
+    },
+    {
+        "category": "hiking trails",
+        "title": "Nackareservatet",
+        "rating": 4.7,
+        "address": "128 47 Nacka, Sweden",
+        "latitude": 59.2849131,
+        "longitude": 18.1469472
+    },
+    {
+        "category": "hiking trails",
+        "title": "Hälsans Stig - Brunnsviken",
+        "rating": 4.7,
+        "address": "Brunnsviken, 169 70 Solna, Sweden",
+        "latitude": 59.371499799999995,
+        "longitude": 18.027075699999997
+    },
+    {
+        "category": "hiking trails",
+        "title": "Nackareservatet i Stockholm",
+        "rating": 4.7,
+        "address": "121 52 Johanneshov, Sweden",
+        "latitude": 59.2842707,
+        "longitude": 18.1274867
+    },
+    {
+        "category": "hiking trails",
+        "title": "Rågsveds naturreservat",
+        "rating": 4.6,
+        "address": "124 59 Stockholm, Sweden",
+        "latitude": 59.253434399999996,
+        "longitude": 18.044147499999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Skinnarviksberget",
+        "rating": 4.7,
+        "address": "118 23 Stockholm, Sweden",
+        "latitude": 59.3199665,
+        "longitude": 18.0507276
+    },
+    {
+        "category": "hiking trails",
+        "title": "Stora Skuggan",
+        "rating": 4.6,
+        "address": "Unnamed Road, 115 42 Stockholm, Sweden",
+        "latitude": 59.365503,
+        "longitude": 18.0749709
+    },
+    {
+        "category": "hiking trails",
+        "title": "Björnö nature reserve",
+        "rating": 4.7,
+        "address": "SV, Värmdö, Sweden",
+        "latitude": 59.2231837,
+        "longitude": 18.5441233
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Skansen",
+        "rating": 4.5,
+        "address": "Djurgårdsslätten 49-51, 115 21 Stockholm, Sweden",
+        "latitude": 59.3263227,
+        "longitude": 18.1058582
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Royal Djurgården",
+        "rating": 4.7,
+        "address": "115 21 Stockholm, Sweden",
+        "latitude": 59.3267016,
+        "longitude": 18.126789199999997
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "True Nature Sweden AB",
+        "rating": 4.8,
+        "address": "Tideliusgatan 62, 118 69 Stockholm, Sweden",
+        "latitude": 59.3095673,
+        "longitude": 18.0639702
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Nackareservatet",
+        "rating": 4.7,
+        "address": "128 47 Nacka, Sweden",
+        "latitude": 59.2849131,
+        "longitude": 18.1469472
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Judarnskogen Nature Preserve",
+        "rating": 4.5,
+        "address": "Judarskogens naturereservat, 168 38 Stockholm, Sweden",
+        "latitude": 59.3381097,
+        "longitude": 17.9133689
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Stockholm Nature | Kayak & Outdoor Tours",
+        "rating": 4.9,
+        "address": "Vikstensvägen 71, 121 56 Stockholm, Sweden",
+        "latitude": 59.2820945,
+        "longitude": 18.1216163
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Flatens naturreservat",
+        "rating": 4.6,
+        "address": "Orhemsvägen 400, 138 31 Älta, Sweden",
+        "latitude": 59.2423678,
+        "longitude": 18.156914
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Tyresta National Park and Nature Reserve",
+        "rating": 4.7,
+        "address": "136 59 Vendelsö, Sweden",
+        "latitude": 59.1843103,
+        "longitude": 18.281182599999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Järvafältets naturreservat",
+        "rating": 4.6,
+        "address": "192 73 Sollentuna, Sweden",
+        "latitude": 59.452134799999996,
+        "longitude": 17.8747164
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Anders Franzens Park",
+        "rating": 4.5,
+        "address": "Båtklubbsgatan 2, 120 71 Stockholm, Sweden",
+        "latitude": 59.310944899999996,
+        "longitude": 18.1058458
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Stockholm Archipelago Tour",
+        "rating": 3.9,
+        "address": "Strandvägen, 103 16 Stockholm, Sweden",
+        "latitude": 59.331804999999996,
+        "longitude": 18.0881769
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "The Wooden Bike Tour",
+        "rating": 4.5,
+        "address": "Klara Mälarstrand 4, 111 20 Stockholm, Sweden",
+        "latitude": 59.3310574,
+        "longitude": 18.0600171
+    },
+    {
+        "category": "temples",
+        "title": "Ganesha Temple",
+        "rating": 4.8,
+        "address": "Brunskogsbacken 17, 123 71 Farsta, Sweden",
+        "latitude": 59.2339195,
+        "longitude": 18.1020661
+    },
+    {
+        "category": "temples",
+        "title": "Hindu Mandir of Stockholm",
+        "rating": 4.7,
+        "address": "Åkervägen 1, 191 40 Sollentuna, Sweden",
+        "latitude": 59.4119447,
+        "longitude": 17.9604466
+    },
+    {
+        "category": "temples",
+        "title": "ISKCON Stockholm",
+        "rating": 4.6,
+        "address": "Lövåsvägen 8, 167 33 Bromma, Sweden",
+        "latitude": 59.338567299999994,
+        "longitude": 17.9672575
+    },
+    {
+        "category": "temples",
+        "title": "Hare Krishna Temple",
+        "rating": 5,
+        "address": "Lövåsvägen 8, 167 33 Bromma, Sweden",
+        "latitude": 59.338567999999995,
+        "longitude": 17.9672584
+    },
+    {
+        "category": "temples",
+        "title": "Diana Temple",
+        "rating": 4.3,
+        "address": "Karlbergs slottsväg 12, 171 73 Solna, Sweden",
+        "latitude": 59.342541,
+        "longitude": 18.0202
+    },
+    {
+        "category": "temples",
+        "title": "Haga Echo Temple",
+        "rating": 4.5,
+        "address": "Hagalund, 169 70 Solna, Sweden",
+        "latitude": 59.3627597,
+        "longitude": 18.0412604
+    },
+    {
+        "category": "temples",
+        "title": "Kadampa Meditationscenter Stockholm",
+        "rating": 4.9,
+        "address": "Upplandsgatan 18, 113 60 Stockholm, Sweden",
+        "latitude": 59.338583199999995,
+        "longitude": 18.0527941
+    },
+    {
+        "category": "temples",
+        "title": "Stockholm Buddhist Center",
+        "rating": 4.7,
+        "address": "Hornsgatan 89, 117 26 Stockholm, Sweden",
+        "latitude": 59.316989299999996,
+        "longitude": 18.0484269
+    },
+    {
+        "category": "temples",
+        "title": "Sweden Balaji Devasthanam",
+        "rating": 4.8,
+        "address": "Flintvägen 1A, 175 68 Järfälla, Sweden",
+        "latitude": 59.3912487,
+        "longitude": 17.8484092
+    },
+    {
+        "category": "temples",
+        "title": "Storkyrkan",
+        "rating": 4.5,
+        "address": "Trångsund 1, 111 29 Stockholm, Sweden",
+        "latitude": 59.3257658,
+        "longitude": 18.070386499999998
+    },
+    {
+        "category": "temples",
+        "title": "Shiv Dham",
+        "rating": 5,
+        "address": "Skrubba allé 1, 135 59 Tyresö, Sweden",
+        "latitude": 59.2386023,
+        "longitude": 18.1834573
+    },
+    {
+        "category": "temples",
+        "title": "Frälsningsarmén Templet",
+        "rating": 4.5,
+        "address": "Östermalmsgatan 69, 114 50 Stockholm, Sweden",
+        "latitude": 59.3411943,
+        "longitude": 18.0814773
+    },
+    {
+        "category": "temples",
+        "title": "ISKCON New Radhakunda Stockholm",
+        "rating": 5,
+        "address": "Korsnäs gård, 147 92 Grödinge, Sweden",
+        "latitude": 59.1542355,
+        "longitude": 17.803003399999998
+    },
+    {
+        "category": "temples",
+        "title": "Buddhistiska Gemenskapen KTG",
+        "rating": 4.6,
+        "address": "Hökarvägen 2A, 129 41 Hägersten, Sweden",
+        "latitude": 59.3035649,
+        "longitude": 17.961869699999998
+    },
+    {
+        "category": "temples",
+        "title": "Stockholm Buddhist Vihara",
+        "rating": 4.9,
+        "address": "Sångvägen 9, 177 36 Järfälla, Sweden",
+        "latitude": 59.427749999999996,
+        "longitude": 17.834707899999998
+    },
+    {
+        "category": "temples",
+        "title": "Diamond Way Buddhist Center Stockholm",
+        "rating": 4.9,
+        "address": "Flottbrovägen 5, 112 64 Stockholm, Sweden",
+        "latitude": 59.3221372,
+        "longitude": 17.9948186
+    },
+    {
+        "category": "temples",
+        "title": "Jewish Community of Stockholm",
+        "rating": 4.6,
+        "address": "Wahrendorffsgatan 3B, 111 47 Stockholm, Sweden",
+        "latitude": 59.3317239,
+        "longitude": 18.0739231
+    },
+    {
+        "category": "temples",
+        "title": "Adat Jeschurun",
+        "rating": 4.9,
+        "address": "Östermalmsgatan 19, 114 39 Stockholm, Sweden",
+        "latitude": 59.335241499999995,
+        "longitude": 18.0766065
+    },
+    {
+        "category": "temples",
+        "title": "Wat Santinivas Sweden",
+        "rating": 4.3,
+        "address": "Almvägen 11, 136 72 Vendelsö, Sweden",
+        "latitude": 59.2011578,
+        "longitude": 18.193492199999998
+    },
+    {
+        "category": "temples",
+        "title": "Buddharama Temple",
+        "rating": 4.4,
+        "address": "Torsbyvägen 42, 139 51 Värmdö, Sweden",
+        "latitude": 59.3457577,
+        "longitude": 18.474928
+    },
+    {
+        "category": "museums",
+        "title": "Nobel Prize Museum",
+        "rating": 4.1,
+        "address": "Stortorget 2, 103 16 Stockholm, Sweden",
+        "latitude": 59.3253103,
+        "longitude": 18.0706657
+    },
+    {
+        "category": "museums",
+        "title": "ABBA The Museum",
+        "rating": 4.5,
+        "address": "Djurgårdsvägen 68, 115 21 Stockholm, Sweden",
+        "latitude": 59.324912999999995,
+        "longitude": 18.0969658
+    },
+    {
+        "category": "museums",
+        "title": "Vasa Museum",
+        "rating": 4.8,
+        "address": "Galärvarvsvägen 14, 115 21 Stockholm, Sweden",
+        "latitude": 59.3280233,
+        "longitude": 18.0913964
+    },
+    {
+        "category": "museums",
+        "title": "The Hallwyl Museum",
+        "rating": 4.5,
+        "address": "Hamngatan 4, 111 47 Stockholm, Sweden",
+        "latitude": 59.333140799999995,
+        "longitude": 18.0745424
+    },
+    {
+        "category": "museums",
+        "title": "The Royal Palace",
+        "rating": 4.5,
+        "address": "Kungliga slottet, 107 70 Stockholm, Sweden",
+        "latitude": 59.326821499999994,
+        "longitude": 18.0717194
+    },
+    {
+        "category": "museums",
+        "title": "Swedish History Museum",
+        "rating": 4.5,
+        "address": "Narvavägen 13-17, 114 84 Stockholm, Sweden",
+        "latitude": 59.334771999999994,
+        "longitude": 18.0909615
+    },
+    {
+        "category": "museums",
+        "title": "Stockholm City Museum",
+        "rating": 4.5,
+        "address": "Ryssgården, 116 46 Stockholm, Sweden",
+        "latitude": 59.319694999999996,
+        "longitude": 18.070904
+    },
+    {
+        "category": "museums",
+        "title": "Nordic Museum",
+        "rating": 4.3,
+        "address": "Djurgårdsvägen 6-16, 115 93 Stockholm, Sweden",
+        "latitude": 59.329007999999995,
+        "longitude": 18.094268
+    },
+    {
+        "category": "museums",
+        "title": "National Museum",
+        "rating": 4.6,
+        "address": "Södra Blasieholmshamnen 2, 111 48 Stockholm, Sweden",
+        "latitude": 59.328538099999996,
+        "longitude": 18.0781954
+    },
+    {
+        "category": "museums",
+        "title": "The Viking Museum",
+        "rating": 4.3,
+        "address": "Djurgårdsstrand 15, 115 21 Stockholm, Sweden",
+        "latitude": 59.326570499999995,
+        "longitude": 18.0948118
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Technology",
+        "rating": 4.3,
+        "address": "Museivägen 7, 115 27 Stockholm, Sweden",
+        "latitude": 59.3324417,
+        "longitude": 18.1188036
+    },
+    {
+        "category": "museums",
+        "title": "Skansen",
+        "rating": 4.5,
+        "address": "Djurgårdsslätten 49-51, 115 21 Stockholm, Sweden",
+        "latitude": 59.3263227,
+        "longitude": 18.1058582
+    },
+    {
+        "category": "museums",
+        "title": "Fotografiska Museum Stockholm",
+        "rating": 4.4,
+        "address": "Stadsgårdshamnen 22, 116 45 Stockholm, Sweden",
+        "latitude": 59.3179619,
+        "longitude": 18.0848269
+    },
+    {
+        "category": "museums",
+        "title": "The Royal Armoury",
+        "rating": 4.6,
+        "address": "Slottsbacken 3, 111 30 Stockholm, Sweden",
+        "latitude": 59.326653199999996,
+        "longitude": 18.0730363
+    },
+    {
+        "category": "museums",
+        "title": "Moderna Museet",
+        "rating": 4.3,
+        "address": "Exercisplan 4, 111 49 Stockholm, Sweden",
+        "latitude": 59.3260466,
+        "longitude": 18.084687799999998
+    },
+    {
+        "category": "museums",
+        "title": "Vrak - Museum of Wrecks",
+        "rating": 4.1,
+        "address": "Djurgårdsstrand 17, 115 21 Stockholm, Sweden",
+        "latitude": 59.326361399999996,
+        "longitude": 18.095272599999998
+    },
+    {
+        "category": "museums",
+        "title": "Maritime Museum",
+        "rating": 4.3,
+        "address": "Djurgårdsbrunnsvägen 24, 115 27 Stockholm, Sweden",
+        "latitude": 59.3324893,
+        "longitude": 18.1156207
+    },
+    {
+        "category": "museums",
+        "title": "Medelhavsmuseet",
+        "rating": 4.4,
+        "address": "Fredsgatan 2, 111 52 Stockholm, Sweden",
+        "latitude": 59.329391199999996,
+        "longitude": 18.067367
+    },
+    {
+        "category": "museums",
+        "title": "Army Museum",
+        "rating": 4.6,
+        "address": "Riddargatan 13, 114 51 Stockholm, Sweden",
+        "latitude": 59.334748999999995,
+        "longitude": 18.0802332
+    },
+    {
+        "category": "museums",
+        "title": "Junibacken",
+        "rating": 4.4,
+        "address": "Galärvarvsvägen 8, 115 21 Stockholm, Sweden",
+        "latitude": 59.3295295,
+        "longitude": 18.0896431
+    },
+    {
+        "category": "night markets",
+        "title": "Night market",
+        "rating": null,
+        "address": "Sveavägen 17, 111 57 Stockholm, Sweden",
+        "latitude": 59.3346021,
+        "longitude": 18.0635303
+    },
+    {
+        "category": "night markets",
+        "title": "Sergels torg",
+        "rating": 4,
+        "address": "111 57 Stockholm, Sweden",
+        "latitude": 59.332356499999996,
+        "longitude": 18.064544899999998
+    },
+    {
+        "category": "night markets",
+        "title": "Hötorgshallen",
+        "rating": 4.4,
+        "address": "Sergels Torg 29, 111 57 Stockholm, Sweden",
+        "latitude": 59.334267399999995,
+        "longitude": 18.062734799999998
+    },
+    {
+        "category": "night markets",
+        "title": "Östermalms Food Hall",
+        "rating": 4.4,
+        "address": "Östermalmsgatan, 114 39 Stockholm, Sweden",
+        "latitude": 59.3360006,
+        "longitude": 18.0780049
+    },
+    {
+        "category": "night markets",
+        "title": "Hötorgets loppmarknad",
+        "rating": 3.7,
+        "address": "111 57 Stockholm, Sweden",
+        "latitude": 59.3348215,
+        "longitude": 18.0622205
+    },
+    {
+        "category": "night markets",
+        "title": "NK Saluhall",
+        "rating": 4.2,
+        "address": "18-20, Hamngatan 18-20, 111 47 Stockholm, Sweden",
+        "latitude": 59.332912099999994,
+        "longitude": 18.0689583
+    },
+    {
+        "category": "night markets",
+        "title": "Hötorget torghandel",
+        "rating": 3.7,
+        "address": "Hötorget 15, 111 57 Stockholm, Sweden",
+        "latitude": 59.3346811,
+        "longitude": 18.061255499999998
+    },
+    {
+        "category": "night markets",
+        "title": "Vårbergs Flea Market",
+        "rating": 3.6,
+        "address": "Vårberg Centrum, Fjärdholmsgränd 4, 127 44 Skärholmen, Sweden",
+        "latitude": 59.276113699999996,
+        "longitude": 17.887446399999998
+    },
+    {
+        "category": "night markets",
+        "title": "Stortorget",
+        "rating": 4.6,
+        "address": "111 29 Stockholm, Sweden",
+        "latitude": 59.325015199999996,
+        "longitude": 18.0707233
+    },
+    {
+        "category": "night markets",
+        "title": "Karlaplan",
+        "rating": 4.4,
+        "address": "Karlavägen 43, 114 31 Stockholm, Sweden",
+        "latitude": 59.337675,
+        "longitude": 18.0900434
+    },
+    {
+        "category": "night markets",
+        "title": "Market",
+        "rating": 4,
+        "address": "Birger Jarlsgatan 61, 4tr, 113 56 Stockholm, Sweden",
+        "latitude": 59.3420968,
+        "longitude": 18.0638136
+    },
+    {
+        "category": "night markets",
+        "title": "Söderhallarna",
+        "rating": 3.9,
+        "address": "Medborgarplatsen 3, 118 26 Stockholm, Sweden",
+        "latitude": 59.3144998,
+        "longitude": 18.0708423
+    },
+    {
+        "category": "night markets",
+        "title": "Hornstulls Marknad",
+        "rating": 3.9,
+        "address": "Hornstulls strand 4A, 117 39 Stockholm, Sweden",
+        "latitude": 59.3148651,
+        "longitude": 18.030859
+    },
+    {
+        "category": "night markets",
+        "title": "Bondens egen Marknad Östermalm",
+        "rating": 4.3,
+        "address": "De Geersgatan 13, 115 29 Stockholm, Sweden",
+        "latitude": 59.3410661,
+        "longitude": 18.093094
+    },
+    {
+        "category": "night markets",
+        "title": "Westfield Mall of Scandinavia",
+        "rating": 4.3,
+        "address": "Stjärntorget 2, 169 79 Solna, Sweden",
+        "latitude": 59.3703277,
+        "longitude": 18.003342399999998
+    },
+    {
+        "category": "night markets",
+        "title": "Stockholm's narrowest street (Mårten Trotzigs gränd)",
+        "rating": 4.4,
+        "address": "Mårten Trotzigs gränd 1, 111 29 Stockholm, Sweden",
+        "latitude": 59.3230076,
+        "longitude": 18.072766599999998
+    },
+    {
+        "category": "night markets",
+        "title": "Shotluckan Stockholm",
+        "rating": 4.4,
+        "address": "Götgatan 68, 118 26 Stockholm, Sweden",
+        "latitude": 59.3131121,
+        "longitude": 18.0736979
+    },
+    {
+        "category": "night markets",
+        "title": "Solvalla Loppis",
+        "rating": 3.9,
+        "address": "161, Travbaneplan 20, 168 64 Bromma, Sweden",
+        "latitude": 59.3657002,
+        "longitude": 17.942121399999998
+    },
+    {
+        "category": "night markets",
+        "title": "Liljeholmshamnen-Street Food market",
+        "rating": null,
+        "address": "Liljeholmsstranden, 117 43 Stockholm, Sweden",
+        "latitude": 59.313638399999995,
+        "longitude": 18.0294025
+    },
+    {
+        "category": "night markets",
+        "title": "SSK Marknad AB",
+        "rating": null,
+        "address": "111 52 Stockholm, Sweden",
+        "latitude": 59.328975899999996,
+        "longitude": 18.065114899999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Skinnarviksberget",
+        "rating": 4.7,
+        "address": "118 23 Stockholm, Sweden",
+        "latitude": 59.3199665,
+        "longitude": 18.0507276
+    },
+    {
+        "category": "viewpoints",
+        "title": "Mariaberget",
+        "rating": 4.8,
+        "address": "Monteliusvägen, 118 25 Stockholm, Sweden",
+        "latitude": 59.3208688,
+        "longitude": 18.0628129
+    },
+    {
+        "category": "viewpoints",
+        "title": "Monteliusvägen",
+        "rating": 4.8,
+        "address": "118 25 Stockholm, Sweden",
+        "latitude": 59.3207434,
+        "longitude": 18.0601971
+    },
+    {
+        "category": "viewpoints",
+        "title": "Skeppsholmen Viewpoint",
+        "rating": 4.9,
+        "address": "Saltsjön, Sweden",
+        "latitude": 59.324461,
+        "longitude": 18.0810469
+    },
+    {
+        "category": "viewpoints",
+        "title": "Predikstolen",
+        "rating": 4.6,
+        "address": "Unnamed Road, 116 20 Stockholm, Sweden",
+        "latitude": 59.3175872,
+        "longitude": 18.081912499999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Observatorielunden",
+        "rating": 4.4,
+        "address": "Drottninggatan, 113 60 Stockholm, Sweden",
+        "latitude": 59.3421811,
+        "longitude": 18.0546792
+    },
+    {
+        "category": "viewpoints",
+        "title": "City Hall Viewpoint",
+        "rating": 4.8,
+        "address": "Hantverkargatan 1, 112 21 Stockholm, Sweden",
+        "latitude": 59.3269434,
+        "longitude": 18.0561301
+    },
+    {
+        "category": "viewpoints",
+        "title": "Sofiakyrkan utsiktspunkt",
+        "rating": 4.6,
+        "address": "Klefbecks backe 1, 116 35 Stockholm, Sweden",
+        "latitude": 59.3121393,
+        "longitude": 18.087613299999997
+    },
+    {
+        "category": "viewpoints",
+        "title": "Strömkajen",
+        "rating": 4.6,
+        "address": "Södra Blasieholmshamnen, 111 48 Stockholm, Sweden",
+        "latitude": 59.327908699999995,
+        "longitude": 18.0776133
+    },
+    {
+        "category": "viewpoints",
+        "title": "Kastellholmens utsiktsplats",
+        "rating": 4.8,
+        "address": "Kastellbacken, 111 49 Stockholm, Sweden",
+        "latitude": 59.3223851,
+        "longitude": 18.0906756
+    },
+    {
+        "category": "viewpoints",
+        "title": "Artificial Beach",
+        "rating": 4.9,
+        "address": "Stadsholmen, 111 28 Stockholm, Sweden",
+        "latitude": 59.3234156,
+        "longitude": 18.0660846
+    },
+    {
+        "category": "viewpoints",
+        "title": "Skansen",
+        "rating": 4.5,
+        "address": "Djurgårdsslätten 49-51, 115 21 Stockholm, Sweden",
+        "latitude": 59.3263227,
+        "longitude": 18.1058582
+    },
+    {
+        "category": "viewpoints",
+        "title": "Katarina Elevator",
+        "rating": 4.5,
+        "address": "Katarinavägen 3, 116 45 Stockholm, Sweden",
+        "latitude": 59.319887699999995,
+        "longitude": 18.0731535
+    },
+    {
+        "category": "viewpoints",
+        "title": "Viewpoint with the Royal Crown",
+        "rating": 4.8,
+        "address": "Skeppsholmsbron, 111 48 Stockholm, Sweden",
+        "latitude": 59.327208999999996,
+        "longitude": 18.0792663
+    },
+    {
+        "category": "viewpoints",
+        "title": "Evert Taubes Terrass",
+        "rating": 4.7,
+        "address": "111 28 Stockholm, Sweden",
+        "latitude": 59.3248793,
+        "longitude": 18.0615719
+    },
+    {
+        "category": "viewpoints",
+        "title": "Slussen",
+        "rating": 4.3,
+        "address": "Stadsgårdsleden 1, 116 45 Stockholm, Sweden",
+        "latitude": 59.3207587,
+        "longitude": 18.0717081
+    },
+    {
+        "category": "viewpoints",
+        "title": "Kärleksudden",
+        "rating": 4.5,
+        "address": "115 21 Stockholm, Sweden",
+        "latitude": 59.329562499999994,
+        "longitude": 18.105121
+    },
+    {
+        "category": "viewpoints",
+        "title": "Långholmsklippan",
+        "rating": 4.4,
+        "address": "Karlshällsvägen 7, 117 33 Stockholm, Sweden",
+        "latitude": 59.3217092,
+        "longitude": 18.0194579
+    },
+    {
+        "category": "viewpoints",
+        "title": "Skyview",
+        "rating": 4.3,
+        "address": "Avicii Arena, Arenatorget 2, 121 77 Johanneshov, Sweden",
+        "latitude": 59.2934991,
+        "longitude": 18.0822675
+    },
+    {
+        "category": "viewpoints",
+        "title": "Kungsträdgården",
+        "rating": 4.5,
+        "address": "Jussi Björlings allé, 111 47 Stockholm, Sweden",
+        "latitude": 59.3310904,
+        "longitude": 18.071865
+    },
+    {
+        "category": "gardens",
+        "title": "Kungsträdgården",
+        "rating": 4.5,
+        "address": "Jussi Björlings allé, 111 47 Stockholm, Sweden",
+        "latitude": 59.3310904,
+        "longitude": 18.071865
+    },
+    {
+        "category": "gardens",
+        "title": "Bergianska trädgården",
+        "rating": 4.6,
+        "address": "Gustafsborgsvägen 4, 114 18 Stockholm, Sweden",
+        "latitude": 59.3693879,
+        "longitude": 18.0455161
+    },
+    {
+        "category": "gardens",
+        "title": "Humlegården",
+        "rating": 4.5,
+        "address": "Karlavägen 32, 114 31 Stockholm, Sweden",
+        "latitude": 59.339834399999994,
+        "longitude": 18.073357899999998
+    },
+    {
+        "category": "gardens",
+        "title": "Rosendals Trädgård",
+        "rating": 4.4,
+        "address": "Rosendalsterrassen 12, 115 21 Stockholm, Sweden",
+        "latitude": 59.3274562,
+        "longitude": 18.1148482
+    },
+    {
+        "category": "gardens",
+        "title": "Rålambshovsparken",
+        "rating": 4.3,
+        "address": "Smedsuddsvägen 6, 112 35 Stockholm, Sweden",
+        "latitude": 59.328732699999996,
+        "longitude": 18.0247731
+    },
+    {
+        "category": "gardens",
+        "title": "Vasa Museum's garden",
+        "rating": 4.8,
+        "address": "Galärvarvet, 115 27 Stockholm, Sweden",
+        "latitude": 59.327722699999995,
+        "longitude": 18.0924806
+    },
+    {
+        "category": "gardens",
+        "title": "Skansen",
+        "rating": 4.5,
+        "address": "Djurgårdsslätten 49-51, 115 21 Stockholm, Sweden",
+        "latitude": 59.3263227,
+        "longitude": 18.1058582
+    },
+    {
+        "category": "gardens",
+        "title": "Hagaparken",
+        "rating": 4.5,
+        "address": "Hagalund, Solna, Sweden",
+        "latitude": 59.364452799999995,
+        "longitude": 18.0332534
+    },
+    {
+        "category": "gardens",
+        "title": "The Japanese Pond",
+        "rating": 4.6,
+        "address": "Veit Wittrocks väg 12, 114 18 Stockholm, Sweden",
+        "latitude": 59.371045599999995,
+        "longitude": 18.0448025
+    },
+    {
+        "category": "gardens",
+        "title": "Edvard Andersons greenhouse",
+        "rating": 4.6,
+        "address": "Veit Wittrocks väg 5, 114 18 Stockholm, Sweden",
+        "latitude": 59.3692913,
+        "longitude": 18.046395099999998
+    },
+    {
+        "category": "gardens",
+        "title": "Tantolunden",
+        "rating": 4.3,
+        "address": "Zinkens Väg 20, 117 41 Stockholm, Sweden",
+        "latitude": 59.313183099999996,
+        "longitude": 18.0491469
+    },
+    {
+        "category": "gardens",
+        "title": "Observatorielunden",
+        "rating": 4.4,
+        "address": "Drottninggatan, 113 60 Stockholm, Sweden",
+        "latitude": 59.3421811,
+        "longitude": 18.0546792
+    },
+    {
+        "category": "gardens",
+        "title": "Forumdammen",
+        "rating": 4.5,
+        "address": "111 47 Stockholm, Sweden",
+        "latitude": 59.332035999999995,
+        "longitude": 18.071029499999998
+    },
+    {
+        "category": "gardens",
+        "title": "Vasaparken",
+        "rating": 4.4,
+        "address": "Dalagatan 11C, 113 24 Stockholm, Sweden",
+        "latitude": 59.3401375,
+        "longitude": 18.0429191
+    },
+    {
+        "category": "gardens",
+        "title": "Royal Djurgården",
+        "rating": 4.7,
+        "address": "115 21 Stockholm, Sweden",
+        "latitude": 59.3267016,
+        "longitude": 18.126789199999997
+    },
+    {
+        "category": "gardens",
+        "title": "Logården",
+        "rating": 4.5,
+        "address": "Skeppsbron 2, 111 30 Stockholm, Sweden",
+        "latitude": 59.3271977,
+        "longitude": 18.07295
+    },
+    {
+        "category": "zoo",
+        "title": "Skansen",
+        "rating": 4.5,
+        "address": "Djurgårdsslätten 49-51, 115 21 Stockholm, Sweden",
+        "latitude": 59.3263227,
+        "longitude": 18.1058582
+    },
+    {
+        "category": "zoo",
+        "title": "The Children's Zoo",
+        "rating": 4.5,
+        "address": "Djurgårdsslätten 49-51, 115 21 Stockholm, Sweden",
+        "latitude": 59.327193099999995,
+        "longitude": 18.106893
+    },
+    {
+        "category": "zoo",
+        "title": "Skansen Aquarium",
+        "rating": 4.4,
+        "address": "Djurgårdsslätten 49-51, 115 21 Stockholm, Sweden",
+        "latitude": 59.324535399999995,
+        "longitude": 18.1036272
+    },
+    {
+        "category": "zoo",
+        "title": "Kolmården Zoo",
+        "rating": 4.5,
+        "address": "Kolmårdens Djurpark, 618 92 Kolmården, Sweden",
+        "latitude": 58.6651776,
+        "longitude": 16.466249599999998
+    },
+    {
+        "category": "zoo",
+        "title": "Bardarnas Zoo",
+        "rating": 3.3,
+        "address": "Kungsgatan 7, 111 43 Stockholm, Sweden",
+        "latitude": 59.3359113,
+        "longitude": 18.0702718
+    },
+    {
+        "category": "zoo",
+        "title": "Baltic Sea Science Center",
+        "rating": 4.4,
+        "address": "Skansen, 115 21 Stockholm, Sweden",
+        "latitude": 59.3245532,
+        "longitude": 18.104408499999998
+    },
+    {
+        "category": "zoo",
+        "title": "Parken Zoo",
+        "rating": 3.9,
+        "address": "Flackstavägen 13B, 632 22 Eskilstuna, Sweden",
+        "latitude": 59.3728164,
+        "longitude": 16.482249499999998
+    },
+    {
+        "category": "zoo",
+        "title": "Starrmyrans parklek",
+        "rating": 4.4,
+        "address": "Onsdagsvägen 11, 123 60 Farsta, Sweden",
+        "latitude": 59.257830399999996,
+        "longitude": 18.0911817
+    },
+    {
+        "category": "zoo",
+        "title": "Gröna Lund",
+        "rating": 4.2,
+        "address": "Lilla Allmänna Gränd 9, 115 21 Stockholm, Sweden",
+        "latitude": 59.323356399999994,
+        "longitude": 18.0963901
+    },
+    {
+        "category": "zoo",
+        "title": "Eolshälls 4H",
+        "rating": 4.3,
+        "address": "Eolshällsvägen 10, 129 37 Hägersten, Sweden",
+        "latitude": 59.3078778,
+        "longitude": 17.9695349
+    },
+    {
+        "category": "zoo",
+        "title": "Årsta Zoo",
+        "rating": 5,
+        "address": "Årstavägen, 120 53 Stockholm, Sweden",
+        "latitude": 59.297804299999996,
+        "longitude": 18.0522739
+    },
+    {
+        "category": "zoo",
+        "title": "Borås Zoo",
+        "rating": 4.4,
+        "address": "Alidelundsgatan 11, 506 31 Borås, Sweden",
+        "latitude": 57.740638399999995,
+        "longitude": 12.941293
+    },
+    {
+        "category": "zoo",
+        "title": "Vasa Museum",
+        "rating": 4.8,
+        "address": "Galärvarvsvägen 14, 115 21 Stockholm, Sweden",
+        "latitude": 59.3280233,
+        "longitude": 18.0913964
+    },
+    {
+        "category": "zoo",
+        "title": "Skånes Djurpark",
+        "rating": 4.3,
+        "address": "150, 243 93 Jularp, Sweden",
+        "latitude": 55.963173399999995,
+        "longitude": 13.5365293
+    },
+    {
+        "category": "zoo",
+        "title": "Royal Djurgården",
+        "rating": 4.7,
+        "address": "115 21 Stockholm, Sweden",
+        "latitude": 59.3267016,
+        "longitude": 18.126789199999997
+    },
+    {
+        "category": "zoo",
+        "title": "Arken Zoo",
+        "rating": 4.5,
+        "address": "Norrtullsgatan 21, 113 27 Stockholm, Sweden",
+        "latitude": 59.3436288,
+        "longitude": 18.0500625
+    },
+    {
+        "category": "zoo",
+        "title": "Södermalms Zoo",
+        "rating": 4.5,
+        "address": "Hornsgatan 79, 118 49 Stockholm, Sweden",
+        "latitude": 59.3173355,
+        "longitude": 18.0514922
+    },
+    {
+        "category": "zoo",
+        "title": "ZOO.se Fältöversten",
+        "rating": 4.2,
+        "address": "Karlaplan 13, 115 20 Stockholm, Sweden",
+        "latitude": 59.3391224,
+        "longitude": 18.0909832
+    },
+    {
+        "category": "zoo",
+        "title": "Arken Zoo",
+        "rating": 4.2,
+        "address": "Inedalsgatan 5, 112 33 Stockholm, Sweden",
+        "latitude": 59.3337096,
+        "longitude": 18.0352542
+    },
+    {
+        "category": "zoo",
+        "title": "Arken Zoo",
+        "rating": 4.3,
+        "address": "Östgötagatan 26, 116 25 Stockholm, Sweden",
+        "latitude": 59.314166699999994,
+        "longitude": 18.076388899999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Gröna Lund",
+        "rating": 4.2,
+        "address": "Lilla Allmänna Gränd 9, 115 21 Stockholm, Sweden",
+        "latitude": 59.323356399999994,
+        "longitude": 18.0963901
+    },
+    {
+        "category": "adventure parks",
+        "title": "Äventyrsbanan Stockholm AB",
+        "rating": 4.5,
+        "address": "Ältavägen 109, 138 37 Älta, Sweden",
+        "latitude": 59.280815499999996,
+        "longitude": 18.1832658
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventure park in Årstabergsparken",
+        "rating": 4.1,
+        "address": "Sturehillsvägen 46, 117 56 Stockholm, Sweden",
+        "latitude": 59.3046261,
+        "longitude": 18.0356086
+    },
+    {
+        "category": "adventure parks",
+        "title": "Eclipse",
+        "rating": 4,
+        "address": "Gröna Lund, Lilla Allmänna Gränd 9, 115 21 Stockholm, Sweden",
+        "latitude": 59.3229763,
+        "longitude": 18.096370099999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Skansen",
+        "rating": 4.5,
+        "address": "Djurgårdsslätten 49-51, 115 21 Stockholm, Sweden",
+        "latitude": 59.3263227,
+        "longitude": 18.1058582
+    },
+    {
+        "category": "adventure parks",
+        "title": "Bodyflight Stockholm",
+        "rating": 4.7,
+        "address": "Bryggerivägen 16, 168 67 Bromma, Sweden",
+        "latitude": 59.3520909,
+        "longitude": 17.9668269
+    },
+    {
+        "category": "adventure parks",
+        "title": "Kristinebergs slottspark (Uggleparken)",
+        "rating": 4.4,
+        "address": "112 51 Stockholm, Sweden",
+        "latitude": 59.334311199999995,
+        "longitude": 18.004151099999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Anders Franzens Park",
+        "rating": 4.5,
+        "address": "Båtklubbsgatan 2, 120 71 Stockholm, Sweden",
+        "latitude": 59.310944899999996,
+        "longitude": 18.1058458
+    },
+    {
+        "category": "adventure parks",
+        "title": "Royal Djurgården",
+        "rating": 4.7,
+        "address": "115 21 Stockholm, Sweden",
+        "latitude": 59.3267016,
+        "longitude": 18.126789199999997
+    },
+    {
+        "category": "adventure parks",
+        "title": "Stockholm Adventures / ICEguide",
+        "rating": 4.9,
+        "address": "Kungsbro strand 21, 112 26 Stockholm, Sweden",
+        "latitude": 59.3308604,
+        "longitude": 18.0507047
+    },
+    {
+        "category": "adventure parks",
+        "title": "Evenemangsparken Södra Djurgården",
+        "rating": 4.7,
+        "address": "Djurgården, 115 21 Stockholm, Sweden",
+        "latitude": 59.3304319,
+        "longitude": 18.0937706
+    },
+    {
+        "category": "adventure parks",
+        "title": "Giant Drop",
+        "rating": 4.5,
+        "address": "Lilla Allmänna Gränd 6, 115 21 Stockholm, Sweden",
+        "latitude": 59.3232869,
+        "longitude": 18.0970624
+    },
+    {
+        "category": "adventure parks",
+        "title": "Yoump",
+        "rating": 4,
+        "address": "Månskärsvägen 1, 141 75 Kungens Kurva, Sweden",
+        "latitude": 59.2655448,
+        "longitude": 17.909088099999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Parks & Resorts Scandinavia AB",
+        "rating": 3.6,
+        "address": "Lilla Allmänna Gränd 9, 115 21 Stockholm, Sweden",
+        "latitude": 59.323481699999995,
+        "longitude": 18.0971947
+    },
+    {
+        "category": "adventure parks",
+        "title": "Hagaparken",
+        "rating": 4.5,
+        "address": "Hagalund, Solna, Sweden",
+        "latitude": 59.364452799999995,
+        "longitude": 18.0332534
+    },
+    {
+        "category": "adventure parks",
+        "title": "Visit Djurgården",
+        "rating": 4.3,
+        "address": "Djurgårdsvägen 2, 115 21 Stockholm, Sweden",
+        "latitude": 59.330526299999995,
+        "longitude": 18.093467099999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Skypark Vaxholm",
+        "rating": 4.7,
+        "address": "Eriksövägen 46, 185 37 Vaxholm, Sweden",
+        "latitude": 59.4051403,
+        "longitude": 18.304420699999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Kastellparken",
+        "rating": 4.6,
+        "address": "Örlogsvägen 6, 111 49 Stockholm, Sweden",
+        "latitude": 59.3222216,
+        "longitude": 18.0894647
+    },
+    {
+        "category": "adventure parks",
+        "title": "Lådbilslandet Nykvarn",
+        "rating": 4.1,
+        "address": "Södertäljevägen, nedre bruket, 155 32 Nykvarn, Sweden",
+        "latitude": 59.185057,
+        "longitude": 17.452137
+    },
+    {
+        "category": "hot springs",
+        "title": "Yasuragi Spa Hotel",
+        "rating": 4.3,
+        "address": "Hamndalsvägen 8, 132 81 Saltsjö-boo, Sweden",
+        "latitude": 59.345535999999996,
+        "longitude": 18.2405226
+    },
+    {
+        "category": "hot springs",
+        "title": "Centralbadet",
+        "rating": 4.1,
+        "address": "Drottninggatan 88, 111 36 Stockholm, Sweden",
+        "latitude": 59.336575999999994,
+        "longitude": 18.0599025
+    },
+    {
+        "category": "hot springs",
+        "title": "Norwegian Spa AB",
+        "rating": 3.7,
+        "address": "Drottningholmsvägen 197, 167 53 Bromma, Sweden",
+        "latitude": 59.3339673,
+        "longitude": 17.970436499999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Sparadiset Spakedjan i Sverige AB",
+        "rating": 3.9,
+        "address": "Sibyllegatan 50b, 114 43 Stockholm, Sweden",
+        "latitude": 59.341166199999996,
+        "longitude": 18.0844466
+    },
+    {
+        "category": "hot springs",
+        "title": "Sturebadet AB",
+        "rating": 4.2,
+        "address": "Sturegallerian 36, 114 46 Stockholm, Sweden",
+        "latitude": 59.3361035,
+        "longitude": 18.074101199999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Grand Hôtel Nordic Spa & Fitness",
+        "rating": 4.6,
+        "address": "Södra Blasieholmshamnen 4B, 111 48 Stockholm, Sweden",
+        "latitude": 59.329269,
+        "longitude": 18.0764176
+    },
+    {
+        "category": "hot springs",
+        "title": "Selma City Spa",
+        "rating": 3.5,
+        "address": "Östra Järnvägsgatan 35, 111 20 Stockholm, Sweden",
+        "latitude": 59.3345351,
+        "longitude": 18.0534046
+    },
+    {
+        "category": "hot springs",
+        "title": "Elements Spa",
+        "rating": 3.7,
+        "address": "Ringvägen 98, 118 60 Stockholm, Sweden",
+        "latitude": 59.3073109,
+        "longitude": 18.0745957
+    },
+    {
+        "category": "hot springs",
+        "title": "Njuta Spa & Klinik",
+        "rating": 4.4,
+        "address": "Augustendalsvägen 54, 131 52 Nacka Strand, Sweden",
+        "latitude": 59.3179732,
+        "longitude": 18.1563668
+    },
+    {
+        "category": "hot springs",
+        "title": "Sickla Sauna",
+        "rating": 5,
+        "address": "Nackanäsbron 4, 131 33 Nacka, Sweden",
+        "latitude": 59.3009135,
+        "longitude": 18.1371492
+    },
+    {
+        "category": "hot springs",
+        "title": "Djurönäset Conference Hotel",
+        "rating": 4.2,
+        "address": "Seregårdsvägen 1, 139 73 Djurhamn, Sweden",
+        "latitude": 59.2978472,
+        "longitude": 18.6727417
+    },
+    {
+        "category": "hot springs",
+        "title": "Vana Spa, Vasastan (Stockholm)",
+        "rating": 4.3,
+        "address": "Sankt Eriksgatan 115, 113 43 Stockholm, Sweden",
+        "latitude": 59.346626199999996,
+        "longitude": 18.0395503
+    },
+    {
+        "category": "hot springs",
+        "title": "Skepparholmen Nacka",
+        "rating": 4.1,
+        "address": "Franckes väg, 132 39 Saltsjö-boo, Sweden",
+        "latitude": 59.3465145,
+        "longitude": 18.2520448
+    },
+    {
+        "category": "hot springs",
+        "title": "Aungun Spa Therapy",
+        "rating": 4.7,
+        "address": "Västmannagatan 11, 111 24 Stockholm, Sweden",
+        "latitude": 59.3365942,
+        "longitude": 18.0525058
+    },
+    {
+        "category": "hot springs",
+        "title": "Högberga Gård",
+        "rating": 4.4,
+        "address": "Grindstigen 5-6, 181 62 Lidingö, Sweden",
+        "latitude": 59.339390599999994,
+        "longitude": 18.2037103
+    },
+    {
+        "category": "hot springs",
+        "title": "Palace Paradise Spa Relax",
+        "rating": 3.8,
+        "address": "Sankt Eriksgatan 99, 113 31 Stockholm, Sweden",
+        "latitude": 59.3436392,
+        "longitude": 18.0387603
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield Mall of Scandinavia",
+        "rating": 4.3,
+        "address": "Stjärntorget 2, 169 79 Solna, Sweden",
+        "latitude": 59.3703277,
+        "longitude": 18.003342399999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "MOOD",
+        "rating": 4.1,
+        "address": "Regeringsgatan 48, 111 44 Stockholm, Sweden",
+        "latitude": 59.3341832,
+        "longitude": 18.0680607
+    },
+    {
+        "category": "shopping malls",
+        "title": "Skrapan",
+        "rating": 3.8,
+        "address": "Götgatan 78, 118 30 Stockholm, Sweden",
+        "latitude": 59.3120493,
+        "longitude": 18.0738923
+    },
+    {
+        "category": "shopping malls",
+        "title": "Gallerian",
+        "rating": 3.8,
+        "address": "Hamngatan 37, 111 53 Stockholm, Sweden",
+        "latitude": 59.332346099999995,
+        "longitude": 18.067244499999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "Sturegallerian",
+        "rating": 4,
+        "address": "Sturegatan 4, 114 35 Stockholm, Sweden",
+        "latitude": 59.336086099999996,
+        "longitude": 18.073407
+    },
+    {
+        "category": "shopping malls",
+        "title": "Hötorgspassagen",
+        "rating": 4,
+        "address": "Drottninggatan 60, 111 21 Stockholm, Sweden",
+        "latitude": 59.333305499999994,
+        "longitude": 18.062166299999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Farsta Shopping Centre",
+        "rating": 4.1,
+        "address": "Farstaplan, 123 47 Stockholm, Sweden",
+        "latitude": 59.2428599,
+        "longitude": 18.0919125
+    },
+    {
+        "category": "shopping malls",
+        "title": "Lindhagen Galleria",
+        "rating": 3.9,
+        "address": "Lindhagensgatan 118, 112 51 Stockholm, Sweden",
+        "latitude": 59.337370199999995,
+        "longitude": 18.0093881
+    },
+    {
+        "category": "shopping malls",
+        "title": "Globen Shopping",
+        "rating": 3.6,
+        "address": "Arenavägen 61, 121 28 Johanneshov, Sweden",
+        "latitude": 59.2933046,
+        "longitude": 18.081148799999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Liljeholmstorget Galleria",
+        "rating": 4,
+        "address": "Nybohovsbacken 38, 117 61 Stockholm, Sweden",
+        "latitude": 59.309691799999996,
+        "longitude": 18.022050699999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Kista Galleria",
+        "rating": 3.9,
+        "address": "Hanstavägen 55 F, 164 53 Kista, Sweden",
+        "latitude": 59.4024778,
+        "longitude": 17.9467283
+    },
+    {
+        "category": "shopping malls",
+        "title": "Västermalmsgallerian",
+        "rating": 3.7,
+        "address": "Sankt Eriksgatan 45-51, 112 34 Stockholm, Sweden",
+        "latitude": 59.3346482,
+        "longitude": 18.0323371
+    },
+    {
+        "category": "shopping malls",
+        "title": "Solna centrum",
+        "rating": 4,
+        "address": "Solnavägen 13, 171 45 Solna, Sweden",
+        "latitude": 59.3596729,
+        "longitude": 18.000539399999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "Royal Platinum Stockholm Mall of Scandinavia",
+        "rating": 4.9,
+        "address": "Stjärntorget 2, 169 79 Solna, Sweden",
+        "latitude": 59.370314799999996,
+        "longitude": 18.0034337
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield Täby Centrum",
+        "rating": 4.3,
+        "address": "Stora Marknadsvägen 15, 183 70 Täby, Sweden",
+        "latitude": 59.445102399999996,
+        "longitude": 18.0717171
+    },
+    {
+        "category": "shopping malls",
+        "title": "Sickla Köpkvarter",
+        "rating": 4,
+        "address": "Simbagatan, 131 34 Nacka, Sweden",
+        "latitude": 59.3058397,
+        "longitude": 18.123057
+    },
+    {
+        "category": "shopping malls",
+        "title": "Fältöversten",
+        "rating": 4,
+        "address": "Karlaplan 13, 115 20 Stockholm, Sweden",
+        "latitude": 59.3389028,
+        "longitude": 18.0909215
+    },
+    {
+        "category": "shopping malls",
+        "title": "SKHLM Skärholmen Centrum",
+        "rating": 4,
+        "address": "Storholmsgatan 3, 127 48 Skärholmen, Sweden",
+        "latitude": 59.2760104,
+        "longitude": 17.9078953
+    },
+    {
+        "category": "shopping malls",
+        "title": "Hötorgscity",
+        "rating": 4,
+        "address": "Sergels Torg 33-17, 111 57 Stockholm, Sweden",
+        "latitude": 59.334298,
+        "longitude": 18.063028
+    },
+    {
+        "category": "shopping malls",
+        "title": "Birger Jarlspassagen",
+        "rating": 4.1,
+        "address": "Smålandsgatan 10, 111 46 Stockholm, Sweden",
+        "latitude": 59.333739699999995,
+        "longitude": 18.073979899999998
+    },
+    {
+        "category": "historical sites",
+        "title": "The Royal Palace",
+        "rating": 4.5,
+        "address": "Kungliga slottet, 107 70 Stockholm, Sweden",
+        "latitude": 59.326821499999994,
+        "longitude": 18.0717194
+    },
+    {
+        "category": "historical sites",
+        "title": "Vasa Museum",
+        "rating": 4.8,
+        "address": "Galärvarvsvägen 14, 115 21 Stockholm, Sweden",
+        "latitude": 59.3280233,
+        "longitude": 18.0913964
+    },
+    {
+        "category": "historical sites",
+        "title": "Skansen",
+        "rating": 4.5,
+        "address": "Djurgårdsslätten 49-51, 115 21 Stockholm, Sweden",
+        "latitude": 59.3263227,
+        "longitude": 18.1058582
+    },
+    {
+        "category": "historical sites",
+        "title": "Swedish History Museum",
+        "rating": 4.5,
+        "address": "Narvavägen 13-17, 114 84 Stockholm, Sweden",
+        "latitude": 59.334771999999994,
+        "longitude": 18.0909615
+    },
+    {
+        "category": "historical sites",
+        "title": "Stockholm Ghost Walk AB",
+        "rating": 4.8,
+        "address": "Järntorget 84, 111 29 Stockholm, Sweden",
+        "latitude": 59.3239959,
+        "longitude": 18.0712197
+    },
+    {
+        "category": "historical sites",
+        "title": "Storkyrkan",
+        "rating": 4.5,
+        "address": "Trångsund 1, 111 29 Stockholm, Sweden",
+        "latitude": 59.3257658,
+        "longitude": 18.070386499999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Slussen",
+        "rating": 4.3,
+        "address": "Stadsgårdsleden 1, 116 45 Stockholm, Sweden",
+        "latitude": 59.3207587,
+        "longitude": 18.0717081
+    },
+    {
+        "category": "historical sites",
+        "title": "Stortorget",
+        "rating": 4.6,
+        "address": "111 29 Stockholm, Sweden",
+        "latitude": 59.325015199999996,
+        "longitude": 18.0707233
+    },
+    {
+        "category": "historical sites",
+        "title": "House of Nobility",
+        "rating": 4.5,
+        "address": "Riddarhustorget 10, 111 28 Stockholm, Sweden",
+        "latitude": 59.3259361,
+        "longitude": 18.065711099999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Birger Jarls statue",
+        "rating": 4.4,
+        "address": "Birger Jarls Torg 4, 111 28 Stockholm, Sweden",
+        "latitude": 59.325125199999995,
+        "longitude": 18.0638617
+    },
+    {
+        "category": "historical sites",
+        "title": "Kungsträdgården",
+        "rating": 4.5,
+        "address": "Jussi Björlings allé, 111 47 Stockholm, Sweden",
+        "latitude": 59.3310904,
+        "longitude": 18.071865
+    },
+    {
+        "category": "historical sites",
+        "title": "The Royal Armoury",
+        "rating": 4.6,
+        "address": "Slottsbacken 3, 111 30 Stockholm, Sweden",
+        "latitude": 59.326653199999996,
+        "longitude": 18.0730363
+    },
+    {
+        "category": "historical sites",
+        "title": "Drottningholm Palace",
+        "rating": 4.5,
+        "address": "178 93 Drottningholm, Sweden",
+        "latitude": 59.3216878,
+        "longitude": 17.886829799999997
+    },
+    {
+        "category": "historical sites",
+        "title": "Stockholm's narrowest street (Mårten Trotzigs gränd)",
+        "rating": 4.4,
+        "address": "Mårten Trotzigs gränd 1, 111 29 Stockholm, Sweden",
+        "latitude": 59.3230076,
+        "longitude": 18.072766599999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Västerlångatan",
+        "rating": 4.4,
+        "address": "Västerlånggatan 64-66, 111 29 Stockholm, Sweden",
+        "latitude": 59.3233841,
+        "longitude": 18.071824799999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Stockholm City Hall",
+        "rating": 4.7,
+        "address": "Hantverkargatan 1, 111 52 Stockholm, Sweden",
+        "latitude": 59.327788999999996,
+        "longitude": 18.0551788
+    },
+    {
+        "category": "historical sites",
+        "title": "Army Museum",
+        "rating": 4.6,
+        "address": "Riddargatan 13, 114 51 Stockholm, Sweden",
+        "latitude": 59.334748999999995,
+        "longitude": 18.0802332
+    },
+    {
+        "category": "historical sites",
+        "title": "Kastellet Stockholm",
+        "rating": 4.5,
+        "address": "Kastellbacken 1, 111 49 Stockholm, Sweden",
+        "latitude": 59.322704599999994,
+        "longitude": 18.0901389
+    },
+    {
+        "category": "historical sites",
+        "title": "Medelhavsmuseet",
+        "rating": 4.4,
+        "address": "Fredsgatan 2, 111 52 Stockholm, Sweden",
+        "latitude": 59.329391199999996,
+        "longitude": 18.067367
+    },
+    {
+        "category": "historical sites",
+        "title": "Stockholm City Museum",
+        "rating": 4.5,
+        "address": "Ryssgården, 116 46 Stockholm, Sweden",
+        "latitude": 59.319694999999996,
+        "longitude": 18.070904
+    },
+    {
+        "category": "art galleries",
+        "title": "Moderna Museet",
+        "rating": 4.3,
+        "address": "Exercisplan 4, 111 49 Stockholm, Sweden",
+        "latitude": 59.3260466,
+        "longitude": 18.084687799999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Fotografiska Museum Stockholm",
+        "rating": 4.4,
+        "address": "Stadsgårdshamnen 22, 116 45 Stockholm, Sweden",
+        "latitude": 59.3179619,
+        "longitude": 18.0848269
+    },
+    {
+        "category": "art galleries",
+        "title": "ABBA The Museum",
+        "rating": 4.5,
+        "address": "Djurgårdsvägen 68, 115 21 Stockholm, Sweden",
+        "latitude": 59.324912999999995,
+        "longitude": 18.0969658
+    },
+    {
+        "category": "art galleries",
+        "title": "National Museum",
+        "rating": 4.6,
+        "address": "Södra Blasieholmshamnen 2, 111 48 Stockholm, Sweden",
+        "latitude": 59.328538099999996,
+        "longitude": 18.0781954
+    },
+    {
+        "category": "art galleries",
+        "title": "Sven-Harrys Konstmuseum",
+        "rating": 4.1,
+        "address": "Eastmansvägen 10, 113 61 Stockholm, Sweden",
+        "latitude": 59.3395784,
+        "longitude": 18.0438185
+    },
+    {
+        "category": "art galleries",
+        "title": "Andetag",
+        "rating": 4.8,
+        "address": "Kungsgatan 39, 111 56 Stockholm, Sweden",
+        "latitude": 59.3355539,
+        "longitude": 18.0641328
+    },
+    {
+        "category": "art galleries",
+        "title": "Thielska Galleriet",
+        "rating": 4.5,
+        "address": "Sjötullsbacken 8, 115 25 Stockholm, Sweden",
+        "latitude": 59.322489999999995,
+        "longitude": 18.1484091
+    },
+    {
+        "category": "art galleries",
+        "title": "Prins Eugens Waldemarsudde",
+        "rating": 4.5,
+        "address": "Prins Eugens Väg 6, 115 21 Stockholm, Sweden",
+        "latitude": 59.319947,
+        "longitude": 18.113673
+    },
+    {
+        "category": "art galleries",
+        "title": "Liljevalchs",
+        "rating": 4.3,
+        "address": "Djurgårdsvägen 60, Falkenbergsgatan 3, 115 21 Stockholm, Sweden",
+        "latitude": 59.325614599999994,
+        "longitude": 18.0960203
+    },
+    {
+        "category": "art galleries",
+        "title": "Millesgården Museum",
+        "rating": 4.6,
+        "address": "Herserudsvägen 32, 181 50 Lidingö, Sweden",
+        "latitude": 59.358681499999996,
+        "longitude": 18.1224329
+    },
+    {
+        "category": "art galleries",
+        "title": "Carl Eldhs Ateljémuseum",
+        "rating": 4.6,
+        "address": "Lögebodavägen 10, 113 47 Stockholm, Sweden",
+        "latitude": 59.352894299999996,
+        "longitude": 18.051627
+    },
+    {
+        "category": "art galleries",
+        "title": "Accelerator | Stockholm University",
+        "rating": 4.4,
+        "address": "Frescativägen 26A, 114 18 Stockholm, Sweden",
+        "latitude": 59.3660237,
+        "longitude": 18.0561144
+    },
+    {
+        "category": "art galleries",
+        "title": "Bonniers konsthall",
+        "rating": 4.1,
+        "address": "Torsgatan 19, 113 21 Stockholm, Sweden",
+        "latitude": 59.337169499999995,
+        "longitude": 18.0424529
+    },
+    {
+        "category": "art galleries",
+        "title": "The Performing Arts Museum",
+        "rating": 4.4,
+        "address": "Sibyllegatan 2, 114 51 Stockholm, Sweden",
+        "latitude": 59.333255799999996,
+        "longitude": 18.077784599999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum of Spirits",
+        "rating": 4,
+        "address": "Djurgårdsstrand 9, 115 21 Stockholm, Sweden",
+        "latitude": 59.326977799999995,
+        "longitude": 18.0938765
+    },
+    {
+        "category": "art galleries",
+        "title": "Marabouparken",
+        "rating": 4.2,
+        "address": "Löfströms allé 8, 172 66 Sundbyberg, Sweden",
+        "latitude": 59.364379199999995,
+        "longitude": 17.957489799999998
+    },
+    {
+        "category": "art galleries",
+        "title": "The Hallwyl Museum",
+        "rating": 4.5,
+        "address": "Hamngatan 4, 111 47 Stockholm, Sweden",
+        "latitude": 59.333140799999995,
+        "longitude": 18.0745424
+    },
+    {
+        "category": "art galleries",
+        "title": "The Art Gallery",
+        "rating": 4.1,
+        "address": "Köpmanbrinken 2, 111 31 Stockholm, Sweden",
+        "latitude": 59.3252344,
+        "longitude": 18.073637899999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Artipelag",
+        "rating": 4.5,
+        "address": "Artipelagstigen 1, 134 40 Gustavsberg, Sweden",
+        "latitude": 59.306718,
+        "longitude": 18.3471592
+    },
+    {
+        "category": "art galleries",
+        "title": "The Viking Museum",
+        "rating": 4.3,
+        "address": "Djurgårdsstrand 15, 115 21 Stockholm, Sweden",
+        "latitude": 59.326570499999995,
+        "longitude": 18.0948118
+    },
+    {
+        "category": "theaters",
+        "title": "The Royal Dramatic Theatre",
+        "rating": 4.5,
+        "address": "Nybroplan, 111 47 Stockholm, Sweden",
+        "latitude": 59.3332118,
+        "longitude": 18.076929
+    },
+    {
+        "category": "theaters",
+        "title": "Stockholm City Theatre",
+        "rating": 4.3,
+        "address": "Sergels Torg, 111 57 Stockholm, Sweden",
+        "latitude": 59.332041999999994,
+        "longitude": 18.0649439
+    },
+    {
+        "category": "theaters",
+        "title": "Royal Swedish Opera",
+        "rating": 4.6,
+        "address": "Gustav Adolfs torg 2, 111 52 Stockholm, Sweden",
+        "latitude": 59.3297318,
+        "longitude": 18.0704829
+    },
+    {
+        "category": "theaters",
+        "title": "Oscar Theater",
+        "rating": 4.4,
+        "address": "Kungsgatan 63, 111 22 Stockholm, Sweden",
+        "latitude": 59.333472099999994,
+        "longitude": 18.0559643
+    },
+    {
+        "category": "theaters",
+        "title": "Folkoperan",
+        "rating": 4.4,
+        "address": "Hornsgatan 72, 118 21 Stockholm, Sweden",
+        "latitude": 59.318515,
+        "longitude": 18.0582742
+    },
+    {
+        "category": "theaters",
+        "title": "Göta Lejon",
+        "rating": 4.3,
+        "address": "Götgatan 55, 116 21 Stockholm, Sweden",
+        "latitude": 59.3138404,
+        "longitude": 18.0738307
+    },
+    {
+        "category": "theaters",
+        "title": "China Teatern",
+        "rating": 4.3,
+        "address": "Berzelii park 9, 111 47 Stockholm, Sweden",
+        "latitude": 59.332496799999994,
+        "longitude": 18.073352
+    },
+    {
+        "category": "theaters",
+        "title": "Playhouse Teater, Stockholm",
+        "rating": 4.3,
+        "address": "Drottninggatan 71A, 111 36 Stockholm, Sweden",
+        "latitude": 59.335924999999996,
+        "longitude": 18.059271499999998
+    },
+    {
+        "category": "theaters",
+        "title": "Intiman",
+        "rating": 4.4,
+        "address": "Odengatan 81, 113 22 Stockholm, Sweden",
+        "latitude": 59.342071499999996,
+        "longitude": 18.048465699999998
+    },
+    {
+        "category": "theaters",
+        "title": "Stockholm Improvisationsteater",
+        "rating": 4.6,
+        "address": "Sigtunagatan 12, 113 22 Stockholm, Sweden",
+        "latitude": 59.3418516,
+        "longitude": 18.041487
+    },
+    {
+        "category": "theaters",
+        "title": "Teater Pero",
+        "rating": 4.3,
+        "address": "Besök kontor:, Postadress: Box 706 120 02 Årsta, Palmfeltsvägen 5, 121 62 Johanneshov, Sweden",
+        "latitude": 59.2938415,
+        "longitude": 18.077910799999998
+    },
+    {
+        "category": "theaters",
+        "title": "Maxim Stockholm",
+        "rating": 4.3,
+        "address": "Karlaplan 4, 114 60 Stockholm, Sweden",
+        "latitude": 59.3369444,
+        "longitude": 18.088888999999998
+    },
+    {
+        "category": "theaters",
+        "title": "Strindbergs Intima Teater",
+        "rating": 4.5,
+        "address": "Barnhusgatan 20, 111 23 Stockholm, Sweden",
+        "latitude": 59.335513799999994,
+        "longitude": 18.0537212
+    },
+    {
+        "category": "theaters",
+        "title": "Södra Teatern",
+        "rating": 4.2,
+        "address": "Mosebacke Torg 1, 3, 116 46 Stockholm, Sweden",
+        "latitude": 59.3183836,
+        "longitude": 18.0743121
+    },
+    {
+        "category": "theaters",
+        "title": "Teater Galeasen ek för",
+        "rating": 4.7,
+        "address": "Slupskjulsvägen 32, 111 49 Stockholm, Sweden",
+        "latitude": 59.327337299999996,
+        "longitude": 18.0836635
+    },
+    {
+        "category": "theaters",
+        "title": "Vasateatern",
+        "rating": 4.4,
+        "address": "Vasagatan 19, 111 22 Stockholm, Sweden",
+        "latitude": 59.3339316,
+        "longitude": 18.0561264
+    },
+    {
+        "category": "theaters",
+        "title": "Teater Brunnsgatan Fyra",
+        "rating": 4.4,
+        "address": "Brunnsgatan 4, 111 38 Stockholm, Sweden",
+        "latitude": 59.336762799999995,
+        "longitude": 18.0698638
+    },
+    {
+        "category": "theaters",
+        "title": "Boulevardteatern",
+        "rating": 4.3,
+        "address": "Skånegatan 63, 116 37 Stockholm, Sweden",
+        "latitude": 59.312427299999996,
+        "longitude": 18.0797717
+    },
+    {
+        "category": "theaters",
+        "title": "Cirkus",
+        "rating": 4.3,
+        "address": "Djurgårdsslätten 43-45, 115 21 Stockholm, Sweden",
+        "latitude": 59.3246269,
+        "longitude": 18.0995865
+    },
+    {
+        "category": "theaters",
+        "title": "Orionteatern AB",
+        "rating": 4.5,
+        "address": "Katarina Bangata 77, 116 42 Stockholm, Sweden",
+        "latitude": 59.3082424,
+        "longitude": 18.090287099999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Style Council Souvenir Shop",
+        "rating": 4.2,
+        "address": "Drottninggatan 11, 111 51 Stockholm, Sweden",
+        "latitude": 59.329347299999995,
+        "longitude": 18.065792599999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "The Old Town Souvenir",
+        "rating": 4.2,
+        "address": "Västerlånggatan 15, 111 29 Stockholm, Sweden",
+        "latitude": 59.3258764,
+        "longitude": 18.0688705
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Classic Swedish Souvenir AB",
+        "rating": 4.1,
+        "address": "Västerlånggatan 17, 111 29 Stockholm, Sweden",
+        "latitude": 59.325807399999995,
+        "longitude": 18.068975899999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Style Council Souvenir Västerlånggatan",
+        "rating": 3.6,
+        "address": "Västerlånggatan 54, 111 29 Stockholm, Sweden",
+        "latitude": 59.3237531,
+        "longitude": 18.0711034
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Dala Shop",
+        "rating": 4.8,
+        "address": "Västerlånggatan 42, 111 29 Stockholm, Sweden",
+        "latitude": 59.3242735,
+        "longitude": 18.0702095
+    },
+    {
+        "category": "souvenir counters",
+        "title": "The Palace",
+        "rating": 3.9,
+        "address": "Västerlånggatan 20, 111 29 Stockholm, Sweden",
+        "latitude": 59.3253938,
+        "longitude": 18.0689682
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir & Gift Shop",
+        "rating": 4.3,
+        "address": "Västerlånggatan 76, 111 29 Stockholm, Sweden",
+        "latitude": 59.322811699999995,
+        "longitude": 18.072441899999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Noble Swedish Souvenirs",
+        "rating": 3.6,
+        "address": "Västerlånggatan 43, 111 29 Stockholm, Sweden",
+        "latitude": 59.324621099999995,
+        "longitude": 18.0698249
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Sol Handkraft",
+        "rating": 4.7,
+        "address": "Köpmangatan 18, 111 31 Stockholm, Sweden",
+        "latitude": 59.3251316,
+        "longitude": 18.072017799999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Indus The Gift Shop",
+        "rating": 3.6,
+        "address": "Västerlånggatan 34, 111 29 Stockholm, Sweden",
+        "latitude": 59.324728099999994,
+        "longitude": 18.069593599999997
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Wasa Crystal & Souvenirs",
+        "rating": 5,
+        "address": "Järntorgsgatan 6, 111 29 Stockholm, Sweden",
+        "latitude": 59.322199999999995,
+        "longitude": 18.072874499999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Wasa Crystal Comp.HB",
+        "rating": 2.6,
+        "address": "Västerlånggatan 56, 111 29 Stockholm, Sweden",
+        "latitude": 59.324833299999995,
+        "longitude": 18.069606399999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Sol Art",
+        "rating": 5,
+        "address": "Västerlånggatan 45, 111 29 Stockholm, Sweden",
+        "latitude": 59.3244988,
+        "longitude": 18.0699668
+    },
+    {
+        "category": "souvenir counters",
+        "title": "No.11",
+        "rating": 4.6,
+        "address": "Västerlånggatan 11, 111 29 Stockholm, Sweden",
+        "latitude": 59.3260374,
+        "longitude": 18.0688594
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Nordic Design",
+        "rating": 4.4,
+        "address": "Drottninggatan 7, 111 51 Stockholm, Sweden",
+        "latitude": 59.329133999999996,
+        "longitude": 18.066023899999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Butik Royal Home",
+        "rating": 3.7,
+        "address": "Drottninggatan 9, 111 51 Stockholm, Sweden",
+        "latitude": 59.329217199999995,
+        "longitude": 18.0658747
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Oh So Sofo",
+        "rating": 5,
+        "address": "Street level, Östgötagatan 55, 116 25 Stockholm, Sweden",
+        "latitude": 59.312505599999994,
+        "longitude": 18.077671199999997
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Amandas Stockholm",
+        "rating": 4.1,
+        "address": "Drottninggatan 24, 111 51 Stockholm, Sweden",
+        "latitude": 59.3305138,
+        "longitude": 18.0649195
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Skansenbutiken",
+        "rating": 4.4,
+        "address": "Djurgårdsslätten 49, 115 21 Stockholm, Sweden",
+        "latitude": 59.3244718,
+        "longitude": 18.100444
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Alka Design AB",
+        "rating": 3.5,
+        "address": "B, Trångsund 2, 111 29 Stockholm, Sweden",
+        "latitude": 59.3257865,
+        "longitude": 18.0687103
+    }
+]

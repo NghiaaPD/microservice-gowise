@@ -1,0 +1,3578 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Brandenburg Gate",
+        "rating": 4.7,
+        "address": "Pariser Platz, 10117 Berlin, Germany",
+        "latitude": 52.516274599999996,
+        "longitude": 13.377704099999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Berlin Cathedral",
+        "rating": 4.6,
+        "address": "Am Lustgarten, 10178 Berlin, Germany",
+        "latitude": 52.5190608,
+        "longitude": 13.401078
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Berlin TV Tower",
+        "rating": 4.4,
+        "address": "Panoramastraße 1A, 10178 Berlin, Germany",
+        "latitude": 52.520815,
+        "longitude": 13.4094191
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Memorial to the Murdered Jews of Europe",
+        "rating": 4.6,
+        "address": "Cora-Berliner-Straße 1, 10117 Berlin, Germany",
+        "latitude": 52.5139474,
+        "longitude": 13.3787127
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Berlin Wall Memorial",
+        "rating": 4.6,
+        "address": "Bernauer Str. 111, 13355 Berlin, Germany",
+        "latitude": 52.535052099999994,
+        "longitude": 13.3901898
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Checkpoint Charlie",
+        "rating": 4.1,
+        "address": "Friedrichstraße 43-45, 10117 Berlin, Germany",
+        "latitude": 52.5074434,
+        "longitude": 13.3903913
+    },
+    {
+        "category": "tourist attractions",
+        "title": "World Time Clock",
+        "rating": 4.4,
+        "address": "Alexanderpl. 1, 10178 Berlin, Germany",
+        "latitude": 52.5211743,
+        "longitude": 13.413297
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Alexanderplatz",
+        "rating": 4.3,
+        "address": "10178 Berlin, Germany",
+        "latitude": 52.521981399999994,
+        "longitude": 13.413305999999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Reichstag Building",
+        "rating": 4.7,
+        "address": "Platz der Republik 1, 11011 Berlin, Germany",
+        "latitude": 52.5186202,
+        "longitude": 13.376187199999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "East Side Gallery",
+        "rating": 4.6,
+        "address": "Mühlenstraße, 10243 Berlin, Germany",
+        "latitude": 52.505022399999994,
+        "longitude": 13.4396952
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Potsdamer Platz",
+        "rating": 4.4,
+        "address": "10785 Berlin, Germany",
+        "latitude": 52.509231199999995,
+        "longitude": 13.376105299999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Victory Column",
+        "rating": 4.6,
+        "address": "Großer Stern 1, 10557 Berlin, Germany",
+        "latitude": 52.514522899999996,
+        "longitude": 13.3501085
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Carillon",
+        "rating": 4.3,
+        "address": "John-Foster-Dulles-Allee, 10557 Berlin, Germany",
+        "latitude": 52.5177787,
+        "longitude": 13.3669462
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Gray Line Munich DAYTRIPS",
+        "rating": 5,
+        "address": "Europaplatz, 10557 Berlin, Germany",
+        "latitude": 52.523533799999996,
+        "longitude": 13.3683973
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Reichstagskuppel",
+        "rating": 4.7,
+        "address": "Reichstag Building, Platz d. Republik 1, 10557 Berlin, Germany",
+        "latitude": 52.5186832,
+        "longitude": 13.3760815
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Wandbilder Berlin",
+        "rating": 4.6,
+        "address": "Wilhelmstraße 4-6, 10963 Berlin, Germany",
+        "latitude": 52.500391,
+        "longitude": 13.3903298
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Schlüterhof",
+        "rating": 4.6,
+        "address": "Museumsinsel, 10178 Berlin, Germany",
+        "latitude": 52.5174684,
+        "longitude": 13.402096199999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Schlossbrücke",
+        "rating": 4.5,
+        "address": "Unter den Linden 1, 10117 Berlin, Germany",
+        "latitude": 52.5176509,
+        "longitude": 13.3985147
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Berlin Wall Tour",
+        "rating": null,
+        "address": "Agricolastraße 5, 10555 Berlin, Germany",
+        "latitude": 52.520630999999995,
+        "longitude": 13.3321559
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Raum Der Stille",
+        "rating": 4.9,
+        "address": "Pariser Platz 8, 10117 Berlin, Germany",
+        "latitude": 52.516494699999996,
+        "longitude": 13.377911399999999
+    },
+    {
+        "category": "parks",
+        "title": "Treptower Park",
+        "rating": 4.6,
+        "address": "12435 Berlin, Germany",
+        "latitude": 52.4884754,
+        "longitude": 13.469784599999999
+    },
+    {
+        "category": "parks",
+        "title": "Viktoria Park",
+        "rating": 4.5,
+        "address": "Katzbachstraße, 10965 Berlin, Germany",
+        "latitude": 52.488226999999995,
+        "longitude": 13.380014399999999
+    },
+    {
+        "category": "parks",
+        "title": "Tiergarten",
+        "rating": 4.6,
+        "address": "Str. des 17. Juni, 10785 Berlin, Germany",
+        "latitude": 52.5141516,
+        "longitude": 13.3591634
+    },
+    {
+        "category": "parks",
+        "title": "James-Simon-Park",
+        "rating": 4.5,
+        "address": "Burgstraße 28, 10178 Berlin, Germany",
+        "latitude": 52.521926099999995,
+        "longitude": 13.399294
+    },
+    {
+        "category": "parks",
+        "title": "Volkspark Friedrichshain",
+        "rating": 4.6,
+        "address": "10249 Berlin, Germany",
+        "latitude": 52.5280353,
+        "longitude": 13.4363934
+    },
+    {
+        "category": "parks",
+        "title": "Tempelhofer Feld",
+        "rating": 4.6,
+        "address": "Tempelhofer Damm, 12101 Berlin, Germany",
+        "latitude": 52.4748569,
+        "longitude": 13.4005926
+    },
+    {
+        "category": "parks",
+        "title": "Schlossgarten Charlottenburg",
+        "rating": 4.7,
+        "address": "Spandauer Damm 10-22, 14059 Berlin, Germany",
+        "latitude": 52.523866399999996,
+        "longitude": 13.2924939
+    },
+    {
+        "category": "parks",
+        "title": "Park am Gleisdreieck",
+        "rating": 4.5,
+        "address": "Möckernstraße 26, 10963 Berlin, Germany",
+        "latitude": 52.494525599999996,
+        "longitude": 13.3765945
+    },
+    {
+        "category": "parks",
+        "title": "Görlitzer Park",
+        "rating": 4,
+        "address": "Görlitzer Str. 3, 10997 Berlin, Germany",
+        "latitude": 52.496592799999995,
+        "longitude": 13.4374489
+    },
+    {
+        "category": "parks",
+        "title": "Monbijoupark",
+        "rating": 4.4,
+        "address": "Oranienburger Str., 10178 Berlin, Germany",
+        "latitude": 52.5231643,
+        "longitude": 13.3963109
+    },
+    {
+        "category": "parks",
+        "title": "Gardens of the World",
+        "rating": 4.5,
+        "address": "Blumberger Damm 44, 12685 Berlin, Germany",
+        "latitude": 52.5379611,
+        "longitude": 13.5692782
+    },
+    {
+        "category": "parks",
+        "title": "Körnerpark",
+        "rating": 4.6,
+        "address": "Schierker Str., 12051 Berlin, Germany",
+        "latitude": 52.471517,
+        "longitude": 13.4382047
+    },
+    {
+        "category": "parks",
+        "title": "Jungfernheide Public Park",
+        "rating": 4.6,
+        "address": "Jungfernheideweg 60, 13629 Berlin, Germany",
+        "latitude": 52.5447171,
+        "longitude": 13.284556199999999
+    },
+    {
+        "category": "parks",
+        "title": "Lietzenseepark",
+        "rating": 4.6,
+        "address": "Wundtstraße 40, 14057 Berlin, Germany",
+        "latitude": 52.5091421,
+        "longitude": 13.2897194
+    },
+    {
+        "category": "parks",
+        "title": "Park am Weißen See",
+        "rating": 4.3,
+        "address": "Berliner Allee 173a, 13086 Berlin, Germany",
+        "latitude": 52.5540179,
+        "longitude": 13.4663448
+    },
+    {
+        "category": "parks",
+        "title": "Mauerpark",
+        "rating": 4.4,
+        "address": "Bernauer Str. 63, 13355 Berlin, Germany",
+        "latitude": 52.5427179,
+        "longitude": 13.402652
+    },
+    {
+        "category": "parks",
+        "title": "Britzer Garten",
+        "rating": 4.7,
+        "address": "Sangerhauser Weg 1, 12349 Berlin, Germany",
+        "latitude": 52.438720599999996,
+        "longitude": 13.4128989
+    },
+    {
+        "category": "parks",
+        "title": "Rudolph-Wilde-Park",
+        "rating": 4.5,
+        "address": "Kufsteiner Str., 10825 Berlin, Germany",
+        "latitude": 52.482847199999995,
+        "longitude": 13.341148899999999
+    },
+    {
+        "category": "parks",
+        "title": "Hasenheide Park",
+        "rating": 4.2,
+        "address": "Columbiadamm 160, 12049 Berlin, Germany",
+        "latitude": 52.4842015,
+        "longitude": 13.4167277
+    },
+    {
+        "category": "parks",
+        "title": "Kienberg Park",
+        "rating": 4.6,
+        "address": "Hellersdorfer Str. 159, 12619 Berlin, Germany",
+        "latitude": 52.530574599999994,
+        "longitude": 13.590145999999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Facil",
+        "rating": 4.8,
+        "address": "Potsdamer Str. 3, 10785 Berlin",
+        "latitude": 52.5089804,
+        "longitude": 13.37369
+    },
+    {
+        "category": "restaurants",
+        "title": "Nante-Eck | Restaurant Berlin Mitte",
+        "rating": 4.6,
+        "address": "Unter den Linden 35, 10117 Berlin",
+        "latitude": 52.516672199999995,
+        "longitude": 13.388301
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Trattoria Portofino",
+        "rating": 4.7,
+        "address": "Gubener Str. 48, 10243 Berlin",
+        "latitude": 52.5123562,
+        "longitude": 13.448413599999999
+    },
+    {
+        "category": "restaurants",
+        "title": "A Mano",
+        "rating": 4.8,
+        "address": "Strausberger Pl. 2, 10243 Berlin",
+        "latitude": 52.5193916,
+        "longitude": 13.427386499999999
+    },
+    {
+        "category": "restaurants",
+        "title": "BLESS Restaurant",
+        "rating": 4.7,
+        "address": "Hausvogteipl. 10, 10117 Berlin",
+        "latitude": 52.5124086,
+        "longitude": 13.396790399999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Schnitzelei Mitte",
+        "rating": 4.5,
+        "address": "Chausseestr. 8 Hinterhof erreichbar über: Chausseestr. 8 oder, Novalisstraße 11, 10115 Berlin",
+        "latitude": 52.5285831,
+        "longitude": 13.387885299999999
+    },
+    {
+        "category": "restaurants",
+        "title": "POTS",
+        "rating": 4.6,
+        "address": "Potsdamer Platz 3, 10785 Berlin",
+        "latitude": 52.5102754,
+        "longitude": 13.375254799999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Night Kitchen",
+        "rating": 4.7,
+        "address": "Heckmann Höfe, Oranienburger Str. 32, 10115 Berlin",
+        "latitude": 52.5255777,
+        "longitude": 13.393979499999999
+    },
+    {
+        "category": "restaurants",
+        "title": "PeterPaul",
+        "rating": 4.7,
+        "address": "Torstraße 99, 10119 Berlin",
+        "latitude": 52.529979399999995,
+        "longitude": 13.404265899999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Flamingo Fresh Food Bar",
+        "rating": 4.7,
+        "address": "Neustädtische Kirchstraße 8, 10117 Berlin",
+        "latitude": 52.519566399999995,
+        "longitude": 13.3855463
+    },
+    {
+        "category": "restaurants",
+        "title": "Elefant",
+        "rating": 4.5,
+        "address": "Fuggerstraße 18, 10777 Berlin",
+        "latitude": 52.499055399999996,
+        "longitude": 13.3453728
+    },
+    {
+        "category": "restaurants",
+        "title": "Skykitchen",
+        "rating": 4.7,
+        "address": "Landsberger Allee 106, 10369 Berlin",
+        "latitude": 52.528366,
+        "longitude": 13.457008
+    },
+    {
+        "category": "restaurants",
+        "title": "Gaffel Haus Berlin - Das Kölsche Konsulat in der Hauptstadt",
+        "rating": 4.5,
+        "address": "Direkt neben dem Maritim proArte Hotel, Dorotheenstraße 65, 10117 Berlin",
+        "latitude": 52.5184794,
+        "longitude": 13.386779599999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Ganymed Brasserie",
+        "rating": 4.6,
+        "address": "Schiffbauerdamm 5, 10117 Berlin",
+        "latitude": 52.5217314,
+        "longitude": 13.386344
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Dae Mon",
+        "rating": 4.8,
+        "address": "Monbijoupl. 11, 10178 Berlin",
+        "latitude": 52.5227699,
+        "longitude": 13.399358
+    },
+    {
+        "category": "restaurants",
+        "title": "Hackethal's",
+        "rating": 4.7,
+        "address": "Pflugstraße 11, 10115 Berlin",
+        "latitude": 52.536408599999994,
+        "longitude": 13.3795799
+    },
+    {
+        "category": "restaurants",
+        "title": "Zur Gerichtslaube",
+        "rating": 4.4,
+        "address": "Poststraße 28, 10178 Berlin",
+        "latitude": 52.5170542,
+        "longitude": 13.4063319
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Maximilians Berlin",
+        "rating": 4.4,
+        "address": "Friedrichstraße 185-190, 10117 Berlin",
+        "latitude": 52.511405499999995,
+        "longitude": 13.3892688
+    },
+    {
+        "category": "restaurants",
+        "title": "Restauration 1840",
+        "rating": 4.6,
+        "address": "Am Zwirngraben 8-10, 10178 Berlin",
+        "latitude": 52.5227808,
+        "longitude": 13.402641099999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Salamat",
+        "rating": 4.6,
+        "address": "Gartenstraße 1, 10115 Berlin",
+        "latitude": 52.528736599999995,
+        "longitude": 13.393801
+    },
+    {
+        "category": "cafes",
+        "title": "Cappuccino Grand Café - Mitte",
+        "rating": 4.7,
+        "address": "Tucholskystraße 36, 10117 Berlin, Germany",
+        "latitude": 52.5266063,
+        "longitude": 13.3936742
+    },
+    {
+        "category": "cafes",
+        "title": "WhyNot Kaffee",
+        "rating": 4.7,
+        "address": "Pohlstraße 74, 10785 Berlin, Germany",
+        "latitude": 52.501709899999994,
+        "longitude": 13.3611689
+    },
+    {
+        "category": "cafes",
+        "title": "ama Café",
+        "rating": 4.7,
+        "address": "Dorotheenstraße 83, 10117 Berlin, Germany",
+        "latitude": 52.5183219,
+        "longitude": 13.384144099999999
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Latrio-Berlin",
+        "rating": 4.7,
+        "address": "Monbijoupl. 4, 10178 Berlin, Germany",
+        "latitude": 52.5233415,
+        "longitude": 13.3990792
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee and Cookies - Berlin",
+        "rating": 4.5,
+        "address": "Stresemannstraße 107, 10963 Berlin, Germany",
+        "latitude": 52.506106599999995,
+        "longitude": 13.37995
+    },
+    {
+        "category": "cafes",
+        "title": "Refinery High End Coffee",
+        "rating": 4.5,
+        "address": "Albrechtstraße 11B, 10117 Berlin, Germany",
+        "latitude": 52.5213117,
+        "longitude": 13.3849173
+    },
+    {
+        "category": "cafes",
+        "title": "Garçon de Café - Specialty coffee shop - Kaffee",
+        "rating": 4.8,
+        "address": "Invalidenstraße 65, 10557 Berlin, Germany",
+        "latitude": 52.5254884,
+        "longitude": 13.3670035
+    },
+    {
+        "category": "cafes",
+        "title": "cafe neundrei",
+        "rating": 4.6,
+        "address": "Monbijoupl. 2, 10178 Berlin, Germany",
+        "latitude": 52.5231054,
+        "longitude": 13.399805599999999
+    },
+    {
+        "category": "cafes",
+        "title": "Café Kalwil Berlin",
+        "rating": 4.4,
+        "address": "Motzstraße 30, 10777 Berlin, Germany",
+        "latitude": 52.497802799999995,
+        "longitude": 13.347697199999999
+    },
+    {
+        "category": "cafes",
+        "title": "Café Minouche",
+        "rating": 4.8,
+        "address": "Budapester Str. 6, 10787 Berlin, Germany",
+        "latitude": 52.506411899999996,
+        "longitude": 13.343678599999999
+    },
+    {
+        "category": "cafes",
+        "title": "THE BARN Café Mitte",
+        "rating": 4.2,
+        "address": "Auguststraße 58, 10119 Berlin, Germany",
+        "latitude": 52.5274383,
+        "longitude": 13.39818
+    },
+    {
+        "category": "cafes",
+        "title": "nur coffee Berlin",
+        "rating": 4.8,
+        "address": "Friedrichstraße 183, 10117 Berlin, Germany",
+        "latitude": 52.5122979,
+        "longitude": 13.3894288
+    },
+    {
+        "category": "cafes",
+        "title": "Distrikt coffee",
+        "rating": 4.4,
+        "address": "Bergstraße 68, 10115 Berlin, Germany",
+        "latitude": 52.531603,
+        "longitude": 13.3941146
+    },
+    {
+        "category": "cafes",
+        "title": "Father Carpenter",
+        "rating": 4.4,
+        "address": "Münzstraße 21, 10178 Berlin, Germany",
+        "latitude": 52.5244875,
+        "longitude": 13.406528199999999
+    },
+    {
+        "category": "cafes",
+        "title": "Oslo Kaffebar",
+        "rating": 4.5,
+        "address": "Eichendorffstraße 13, 10115 Berlin, Germany",
+        "latitude": 52.530989399999996,
+        "longitude": 13.3867522
+    },
+    {
+        "category": "cafes",
+        "title": "Café Fleury",
+        "rating": 4.4,
+        "address": "Weinbergsweg 20, 10119 Berlin, Germany",
+        "latitude": 52.5312105,
+        "longitude": 13.402244099999999
+    },
+    {
+        "category": "cafes",
+        "title": "Silo Coffee",
+        "rating": 4.5,
+        "address": "Gabriel-Max-Straße 4, 10245 Berlin, Germany",
+        "latitude": 52.5100753,
+        "longitude": 13.458378
+    },
+    {
+        "category": "cafes",
+        "title": "Káffee Büro",
+        "rating": 4.6,
+        "address": "Wallstraße 38, 10179 Berlin, Germany",
+        "latitude": 52.512547399999995,
+        "longitude": 13.4113182
+    },
+    {
+        "category": "cafes",
+        "title": "The Rabbit Café",
+        "rating": 4.8,
+        "address": "Strelitzer Str. 62, 10115 Berlin, Germany",
+        "latitude": 52.5354019,
+        "longitude": 13.3948757
+    },
+    {
+        "category": "cafes",
+        "title": "Mandarin Coffee Roastery",
+        "rating": 4.7,
+        "address": "Sophienstraße 10, 10178 Berlin, Germany",
+        "latitude": 52.525086599999995,
+        "longitude": 13.4025245
+    },
+    {
+        "category": "mountains",
+        "title": "Drachenberg",
+        "rating": 4.7,
+        "address": "14055 Berlin, Germany",
+        "latitude": 52.502778,
+        "longitude": 13.248056
+    },
+    {
+        "category": "mountains",
+        "title": "Ahrensfelder Berge",
+        "rating": 4.5,
+        "address": "12689 Berlin, Germany",
+        "latitude": 52.556316499999994,
+        "longitude": 13.5816526
+    },
+    {
+        "category": "mountains",
+        "title": "Fichtenberg",
+        "rating": 4.9,
+        "address": "12165 Berlin, Germany",
+        "latitude": 52.456388999999994,
+        "longitude": 13.311667
+    },
+    {
+        "category": "mountains",
+        "title": "Kreuzberg",
+        "rating": 4.5,
+        "address": "10965 Berlin, Germany",
+        "latitude": 52.4876613,
+        "longitude": 13.3814081
+    },
+    {
+        "category": "mountains",
+        "title": "Kienberg",
+        "rating": 4.6,
+        "address": "Berlin, Germany",
+        "latitude": 52.534642,
+        "longitude": 13.5813761
+    },
+    {
+        "category": "mountains",
+        "title": "Rehberge",
+        "rating": 4.6,
+        "address": "13587 Spandau, Germany",
+        "latitude": 52.579166699999995,
+        "longitude": 13.1827778
+    },
+    {
+        "category": "mountains",
+        "title": "Müggelberge",
+        "rating": 4.7,
+        "address": "12559 Berlin, Germany",
+        "latitude": 52.4163889,
+        "longitude": 13.635277799999999
+    },
+    {
+        "category": "mountains",
+        "title": "Alpengipfel",
+        "rating": 5,
+        "address": "12277 Berlin, Germany",
+        "latitude": 52.4016874,
+        "longitude": 13.3669657
+    },
+    {
+        "category": "mountains",
+        "title": "Stolper Berge",
+        "rating": 5,
+        "address": "14109 Berlin, Germany",
+        "latitude": 52.4166667,
+        "longitude": 13.133333299999999
+    },
+    {
+        "category": "mountains",
+        "title": "Dörferblick",
+        "rating": 4.8,
+        "address": "12355 Berlin, Germany",
+        "latitude": 52.397222,
+        "longitude": 13.481110999999999
+    },
+    {
+        "category": "mountains",
+        "title": "Biesdorfer Höhe",
+        "rating": 4,
+        "address": "12683 Berlin, Germany",
+        "latitude": 52.507777999999995,
+        "longitude": 13.5725
+    },
+    {
+        "category": "mountains",
+        "title": "Schäferberg",
+        "rating": 4.5,
+        "address": "14109 Berlin, Germany",
+        "latitude": 52.4172222,
+        "longitude": 13.126666799999999
+    },
+    {
+        "category": "mountains",
+        "title": "Hahneberg",
+        "rating": 4.6,
+        "address": "13591 Spandau, Germany",
+        "latitude": 52.5216667,
+        "longitude": 13.1375
+    },
+    {
+        "category": "mountains",
+        "title": "Arkenberge",
+        "rating": 4.2,
+        "address": "13127 Berlin, Germany",
+        "latitude": 52.6385015,
+        "longitude": 13.4087187
+    },
+    {
+        "category": "mountains",
+        "title": "Humboldthöhe",
+        "rating": 5,
+        "address": "13355 Berlin, Germany",
+        "latitude": 52.547346999999995,
+        "longitude": 13.384355999999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Wasserfall Viktoriapark",
+        "rating": 4.5,
+        "address": "Am Weinhang 1, 10965 Berlin, Germany",
+        "latitude": 52.4883168,
+        "longitude": 13.3817186
+    },
+    {
+        "category": "waterfalls",
+        "title": "Wasserfall am Steinbergsee",
+        "rating": 4.5,
+        "address": "Unnamed Road, 13469 Berlin, Germany",
+        "latitude": 52.5982053,
+        "longitude": 13.3089932
+    },
+    {
+        "category": "waterfalls",
+        "title": "Kleiner Wasserfall Viktoria Park",
+        "rating": 4.3,
+        "address": "Kreuzbergstraße 63, 10965 Berlin, Germany",
+        "latitude": 52.4889649,
+        "longitude": 13.3815773
+    },
+    {
+        "category": "waterfalls",
+        "title": "Shira Wasserfall",
+        "rating": 4.9,
+        "address": "Gottfried-Funeck-Weg, 12685 Berlin, Germany",
+        "latitude": 52.536508999999995,
+        "longitude": 13.576918599999999
+    },
+    {
+        "category": "lakes",
+        "title": "Müggelsee",
+        "rating": 4.6,
+        "address": "Berlin, Germany",
+        "latitude": 52.434877799999995,
+        "longitude": 13.6350558
+    },
+    {
+        "category": "lakes",
+        "title": "Krumme Lanke",
+        "rating": 4.6,
+        "address": "14163 Berlin, Germany",
+        "latitude": 52.452200999999995,
+        "longitude": 13.232695
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Tegel",
+        "rating": 4.6,
+        "address": "Berlin, Germany",
+        "latitude": 52.5749013,
+        "longitude": 13.257237499999999
+    },
+    {
+        "category": "lakes",
+        "title": "Plötzensee",
+        "rating": 4.2,
+        "address": "13351 Berlin, Germany",
+        "latitude": 52.543797299999994,
+        "longitude": 13.330485099999999
+    },
+    {
+        "category": "lakes",
+        "title": "Flughafensee",
+        "rating": 4.3,
+        "address": "Berlin, Germany",
+        "latitude": 52.568243499999994,
+        "longitude": 13.2858918
+    },
+    {
+        "category": "lakes",
+        "title": "Orankesee",
+        "rating": 4.4,
+        "address": "13053 Lichtenberg, Germany",
+        "latitude": 52.5487687,
+        "longitude": 13.4820693
+    },
+    {
+        "category": "lakes",
+        "title": "Groß Glienicker See",
+        "rating": 4.6,
+        "address": "Germany",
+        "latitude": 52.4644382,
+        "longitude": 13.112068299999999
+    },
+    {
+        "category": "lakes",
+        "title": "Seddinsee",
+        "rating": 4.6,
+        "address": "Berlin, Germany",
+        "latitude": 52.3846546,
+        "longitude": 13.681480599999999
+    },
+    {
+        "category": "lakes",
+        "title": "Großer Wannsee",
+        "rating": 4.6,
+        "address": "Berlin, Germany",
+        "latitude": 52.4310419,
+        "longitude": 13.1737902
+    },
+    {
+        "category": "lakes",
+        "title": "Nieder Neuendorfer See",
+        "rating": 4.6,
+        "address": "Germany",
+        "latitude": 52.612870799999996,
+        "longitude": 13.2099909
+    },
+    {
+        "category": "lakes",
+        "title": "Zeuthener See",
+        "rating": 4.6,
+        "address": "Germany",
+        "latitude": 52.354373499999994,
+        "longitude": 13.6391726
+    },
+    {
+        "category": "lakes",
+        "title": "Dämeritzsee",
+        "rating": 4.6,
+        "address": "Germany",
+        "latitude": 52.421748799999996,
+        "longitude": 13.735089499999999
+    },
+    {
+        "category": "lakes",
+        "title": "Langer See",
+        "rating": 4.6,
+        "address": "Berlin, Germany",
+        "latitude": 52.398351999999996,
+        "longitude": 13.6341558
+    },
+    {
+        "category": "lakes",
+        "title": "Jungfernsee",
+        "rating": 4.7,
+        "address": "Germany",
+        "latitude": 52.4204199,
+        "longitude": 13.085161099999999
+    },
+    {
+        "category": "lakes",
+        "title": "Weißer See",
+        "rating": 4.3,
+        "address": "13086 Berlin, Germany",
+        "latitude": 52.5546885,
+        "longitude": 13.4631908
+    },
+    {
+        "category": "lakes",
+        "title": "Sacrower See",
+        "rating": 4.6,
+        "address": "14469 Potsdam Nord, Germany",
+        "latitude": 52.445896399999995,
+        "longitude": 13.102172
+    },
+    {
+        "category": "lakes",
+        "title": "Heiligensee",
+        "rating": 3.4,
+        "address": "13503 Berlin, Germany",
+        "latitude": 52.6048531,
+        "longitude": 13.2147926
+    },
+    {
+        "category": "lakes",
+        "title": "Ziegeleisee",
+        "rating": 4.6,
+        "address": "13469 Berlin, Germany",
+        "latitude": 52.6173723,
+        "longitude": 13.3346664
+    },
+    {
+        "category": "lakes",
+        "title": "Heiliger See",
+        "rating": 4.7,
+        "address": "Potsdam, Germany",
+        "latitude": 52.4120803,
+        "longitude": 13.0715091
+    },
+    {
+        "category": "lakes",
+        "title": "Nymphensee",
+        "rating": 4.2,
+        "address": "14656 Brieselang, Germany",
+        "latitude": 52.5820994,
+        "longitude": 13.0185231
+    },
+    {
+        "category": "beaches",
+        "title": "Beach at Flughafensee",
+        "rating": 4.2,
+        "address": "Berlin, Germany",
+        "latitude": 52.5683175,
+        "longitude": 13.2837523
+    },
+    {
+        "category": "beaches",
+        "title": "Krumme Lanke flat sandy beach",
+        "rating": 4.4,
+        "address": "14163 Berlin, Germany",
+        "latitude": 52.4538388,
+        "longitude": 13.2388043
+    },
+    {
+        "category": "beaches",
+        "title": "Strandbad Tegeler See",
+        "rating": 4,
+        "address": "13505 Berlin, Germany",
+        "latitude": 52.5784241,
+        "longitude": 13.245664099999999
+    },
+    {
+        "category": "beaches",
+        "title": "Strandbad Grünau",
+        "rating": 3.8,
+        "address": "12527 Berlin, Germany",
+        "latitude": 52.4088651,
+        "longitude": 13.6073685
+    },
+    {
+        "category": "beaches",
+        "title": "Badestelle Große Steinlanke",
+        "rating": 4,
+        "address": "14129 Berlin, Germany",
+        "latitude": 52.449745,
+        "longitude": 13.189542
+    },
+    {
+        "category": "beaches",
+        "title": "BeachMitte",
+        "rating": 4.5,
+        "address": "Caroline-Michaelis-Straße 8, 10115 Berlin, Germany",
+        "latitude": 52.5336004,
+        "longitude": 13.3852269
+    },
+    {
+        "category": "beaches",
+        "title": "Arbeiterstrand",
+        "rating": 4.2,
+        "address": "Schwarzer Weg, 13505 Berlin, Germany",
+        "latitude": 52.575606699999994,
+        "longitude": 13.244018599999999
+    },
+    {
+        "category": "beaches",
+        "title": "Badestelle Saatwinkel",
+        "rating": 4.1,
+        "address": "13599 Berlin, Germany",
+        "latitude": 52.5622207,
+        "longitude": 13.247063299999999
+    },
+    {
+        "category": "beaches",
+        "title": "Strandpromenade",
+        "rating": 4.3,
+        "address": "13595 Spandau, Germany",
+        "latitude": 52.5127302,
+        "longitude": 13.193426299999999
+    },
+    {
+        "category": "beaches",
+        "title": "Badestelle Krumme Lanke",
+        "rating": 4.4,
+        "address": "14163 Berlin, Germany",
+        "latitude": 52.454513999999996,
+        "longitude": 13.2395859
+    },
+    {
+        "category": "beaches",
+        "title": "Teufelssee",
+        "rating": 4.5,
+        "address": "Germany",
+        "latitude": 52.490658599999996,
+        "longitude": 13.2343727
+    },
+    {
+        "category": "beaches",
+        "title": "FKK Strandbad Müggelsee",
+        "rating": 4.3,
+        "address": "Fürstenwalder Damm 838, 12589 Berlin, Germany",
+        "latitude": 52.4466281,
+        "longitude": 13.669597
+    },
+    {
+        "category": "beaches",
+        "title": "Weißer See",
+        "rating": 4.3,
+        "address": "13086 Berlin, Germany",
+        "latitude": 52.5546885,
+        "longitude": 13.4631908
+    },
+    {
+        "category": "beaches",
+        "title": "Havel - bathing area Schildhorn",
+        "rating": 4.3,
+        "address": "Str. am Schildhorn 7, 14193 Berlin, Germany",
+        "latitude": 52.49675,
+        "longitude": 13.196287499999999
+    },
+    {
+        "category": "beaches",
+        "title": "Strandbad Wannsee - Berliner Bäder",
+        "rating": 4.1,
+        "address": "Wannseebadweg 25, 14129 Berlin, Germany",
+        "latitude": 52.4381357,
+        "longitude": 13.1794242
+    },
+    {
+        "category": "swimming pools",
+        "title": "Stadtbad Mitte \"James Simon\"",
+        "rating": 4,
+        "address": "Gartenstraße 5, 10115 Berlin, Germany",
+        "latitude": 52.52946,
+        "longitude": 13.39289
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sommerbad Kreuzberg",
+        "rating": 3.9,
+        "address": "Prinzenstraße 113-119, 10969 Berlin, Germany",
+        "latitude": 52.4978905,
+        "longitude": 13.4057883
+    },
+    {
+        "category": "swimming pools",
+        "title": "Schwimmhalle Helene-Weigel-Platz \"Helmut Behrendt\"",
+        "rating": 4.1,
+        "address": "Helene-Weigel-Platz 9, 12681 Berlin, Germany",
+        "latitude": 52.527972399999996,
+        "longitude": 13.541560899999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Stadtbad Wilmersdorf I",
+        "rating": 3.8,
+        "address": "Mecklenburgische Str. 80, 10713 Berlin, Germany",
+        "latitude": 52.480470999999994,
+        "longitude": 13.3144961
+    },
+    {
+        "category": "swimming pools",
+        "title": "Schwimmhalle Finckensteinallee",
+        "rating": 4.4,
+        "address": "Finckensteinallee 73, 12205 Berlin, Germany",
+        "latitude": 52.431940399999995,
+        "longitude": 13.2978753
+    },
+    {
+        "category": "swimming pools",
+        "title": "Stadtbad Charlottenburg - Alte Halle - Berliner Bäder",
+        "rating": 3.8,
+        "address": "Krumme Str. 10, 10585 Berlin, Germany",
+        "latitude": 52.514472399999995,
+        "longitude": 13.3095565
+    },
+    {
+        "category": "swimming pools",
+        "title": "Schwimm- und Sprunghalle im Europasportpark",
+        "rating": 4.3,
+        "address": "Paul-Heyse-Straße 26, 10407 Berlin, Germany",
+        "latitude": 52.529170099999995,
+        "longitude": 13.4526408
+    },
+    {
+        "category": "swimming pools",
+        "title": "Stadtbad Tiergarten - Berliner Bäder",
+        "rating": 3.6,
+        "address": "Seydlitzstraße 7, 10557 Berlin, Germany",
+        "latitude": 52.5274929,
+        "longitude": 13.3597448
+    },
+    {
+        "category": "swimming pools",
+        "title": "Schwimmhalle Sewanstraße - Berliner Bäder",
+        "rating": 4.1,
+        "address": "Sewanstraße 229, 10319 Berlin, Germany",
+        "latitude": 52.495660699999995,
+        "longitude": 13.5158249
+    },
+    {
+        "category": "swimming pools",
+        "title": "Indoor Swimming Pool Fischerinsel",
+        "rating": 4.2,
+        "address": "Fischerinsel 11, 10179 Berlin, Germany",
+        "latitude": 52.5124487,
+        "longitude": 13.4044437
+    },
+    {
+        "category": "swimming pools",
+        "title": "Stadtbad Neukölln",
+        "rating": 3.8,
+        "address": "Ganghoferstraße 3, 12043 Berlin, Germany",
+        "latitude": 52.479197299999996,
+        "longitude": 13.4399283
+    },
+    {
+        "category": "swimming pools",
+        "title": "Stadtbad Lankwitz - Berliner Bäder",
+        "rating": 3.8,
+        "address": "Leonorenstraße 39, 12247 Berlin, Germany",
+        "latitude": 52.4419444,
+        "longitude": 13.3433333
+    },
+    {
+        "category": "swimming pools",
+        "title": "Schwimmhalle Ernst-Thälmann-Park - Berliner Bäder",
+        "rating": 3.8,
+        "address": "Lilli-Henoch-Straße 20, 10405 Berlin, Germany",
+        "latitude": 52.5409204,
+        "longitude": 13.433868499999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kombibad Seestraße Halle - Berliner Bäder",
+        "rating": 3.9,
+        "address": "Seestraße 80, 13347 Berlin, Germany",
+        "latitude": 52.5571194,
+        "longitude": 13.3634217
+    },
+    {
+        "category": "swimming pools",
+        "title": "Strandbad Weißensee",
+        "rating": 4.6,
+        "address": "Berliner Allee 155, 13088 Berlin, Germany",
+        "latitude": 52.553967799999995,
+        "longitude": 13.4655583
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sports and teaching swimming pool Schöneberg",
+        "rating": 3.9,
+        "address": "Sachsendamm 11, 10829 Berlin, Germany",
+        "latitude": 52.4765732,
+        "longitude": 13.3553686
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kombibad Gropiusstadt - Halle",
+        "rating": 3.9,
+        "address": "Hallenbad, Lipschitzallee 33, 12351 Berlin, Germany",
+        "latitude": 52.4276868,
+        "longitude": 13.468995999999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Stadtbad Wilmersdorf II",
+        "rating": 4.2,
+        "address": "Fritz-Wildung-Straße 7, 14199 Berlin, Germany",
+        "latitude": 52.4859838,
+        "longitude": 13.3010314
+    },
+    {
+        "category": "swimming pools",
+        "title": "Friends of the Lichtenberg Public Baths Association",
+        "rating": 4.6,
+        "address": "Hubertusstraße 47, 10365 Berlin, Germany",
+        "latitude": 52.513195499999995,
+        "longitude": 13.4938372
+    },
+    {
+        "category": "swimming pools",
+        "title": "Club Olympus Spa & Fitness",
+        "rating": 4.5,
+        "address": "Marlene-Dietrich-Platz 2, 10785 Berlin, Germany",
+        "latitude": 52.508209,
+        "longitude": 13.372753
+    },
+    {
+        "category": "resorts",
+        "title": "Grand Hyatt Berlin",
+        "rating": 4.6,
+        "address": "Marlene-Dietrich-Platz 2, 10785 Berlin, Germany",
+        "latitude": 52.5082844,
+        "longitude": 13.3724007
+    },
+    {
+        "category": "resorts",
+        "title": "The Ritz-Carlton, Berlin",
+        "rating": 4.6,
+        "address": "Potsdamer Platz 3, 10785 Berlin, Germany",
+        "latitude": 52.5103836,
+        "longitude": 13.375274399999999
+    },
+    {
+        "category": "resorts",
+        "title": "Schlosshotel Berlin",
+        "rating": 4.4,
+        "address": "Brahestraße 10, 10589 Berlin, Germany",
+        "latitude": 52.4802234,
+        "longitude": 13.2743857
+    },
+    {
+        "category": "resorts",
+        "title": "Havellandhalle Resort",
+        "rating": 4.4,
+        "address": "Am Berliner Bogen 1, 14624 Dallgow-Döberitz, Germany",
+        "latitude": 52.5095805,
+        "longitude": 13.127466499999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Mandala Hotel",
+        "rating": 4.8,
+        "address": "Potsdamer Str. 3, 10785 Berlin, Germany",
+        "latitude": 52.508980099999995,
+        "longitude": 13.3736812
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Adlon Kempinski Berlin",
+        "rating": 4.6,
+        "address": "Unter den Linden 77, 10117 Berlin, Germany",
+        "latitude": 52.5160431,
+        "longitude": 13.379944199999999
+    },
+    {
+        "category": "resorts",
+        "title": "CLUB Lodges",
+        "rating": 3.9,
+        "address": "Caroline-Michaelis-Straße 8, 10115 Berlin, Germany",
+        "latitude": 52.533695099999996,
+        "longitude": 13.3842064
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel de Rome, a Rocco Forte hotel",
+        "rating": 4.5,
+        "address": "Behrenstraße 37, 10117 Berlin, Germany",
+        "latitude": 52.5157859,
+        "longitude": 13.3940599
+    },
+    {
+        "category": "resorts",
+        "title": "Hapimag Resort Berlin Zoo",
+        "rating": 4.5,
+        "address": "Burggrafenstraße 13, 10787 Berlin, Germany",
+        "latitude": 52.5050592,
+        "longitude": 13.3442598
+    },
+    {
+        "category": "resorts",
+        "title": "Vienna House by Wyndham Andel's Berlin",
+        "rating": 4.3,
+        "address": "Landsberger Allee 106, 10369 Berlin, Germany",
+        "latitude": 52.5283695,
+        "longitude": 13.4566792
+    },
+    {
+        "category": "resorts",
+        "title": "Boutique Hotel Fährhaus",
+        "rating": 4.6,
+        "address": "Aalemannufer 31, 13587 Berlin, Germany",
+        "latitude": 52.573166099999995,
+        "longitude": 13.2232866
+    },
+    {
+        "category": "resorts",
+        "title": "Precise Tale Berlin",
+        "rating": 4.2,
+        "address": "Stresemannstraße 95, 10963 Berlin, Germany",
+        "latitude": 52.505725299999995,
+        "longitude": 13.380310399999999
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel NH Collection Berlin Mitte Friedrichstrasse",
+        "rating": 4.5,
+        "address": "Friedrichstraße 96, 10117 Berlin, Germany",
+        "latitude": 52.519628999999995,
+        "longitude": 13.388729999999999
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Luc, Autograph Collection",
+        "rating": 4.7,
+        "address": "Charlottenstraße 50, 10117 Berlin, Germany",
+        "latitude": 52.514489,
+        "longitude": 13.390906999999999
+    },
+    {
+        "category": "resorts",
+        "title": "AMERON Berlin Villa ABION",
+        "rating": 4.6,
+        "address": "Kirchstraße 13, 10557 Berlin, Germany",
+        "latitude": 52.5227964,
+        "longitude": 13.3468971
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel NH Collection Berlin Mitte am Checkpoint Charlie",
+        "rating": 4.4,
+        "address": "Leipziger Str. 106-111, 10117 Berlin, Germany",
+        "latitude": 52.510611999999995,
+        "longitude": 13.388186
+    },
+    {
+        "category": "resorts",
+        "title": "Roomers Berlin Steinplatz, Autograph Collection",
+        "rating": 4.7,
+        "address": "Steinpl. 4, 10623 Berlin, Germany",
+        "latitude": 52.5081881,
+        "longitude": 13.326423
+    },
+    {
+        "category": "resorts",
+        "title": "Myer's Hotel Berlin",
+        "rating": 4.6,
+        "address": "Metzer Str. 26, 10405 Berlin, Germany",
+        "latitude": 52.5313014,
+        "longitude": 13.4179023
+    },
+    {
+        "category": "resorts",
+        "title": "Hapimag Resort Berlin Gendarmenmarkt",
+        "rating": 4.7,
+        "address": "Kronenstraße 43, 10117 Berlin, Germany",
+        "latitude": 52.511705199999994,
+        "longitude": 13.394086999999999
+    },
+    {
+        "category": "resorts",
+        "title": "Provocateur Hotel, part of Sircle Collection",
+        "rating": 4.6,
+        "address": "Brandenburgische Str. 21, 10707 Berlin, Germany",
+        "latitude": 52.4957728,
+        "longitude": 13.3087238
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Krossinsee 1930 GmbH",
+        "rating": 3.9,
+        "address": "Wernsdorfer Str. 38, 12527 Berlin, Germany",
+        "latitude": 52.3699581,
+        "longitude": 13.684293799999999
+    },
+    {
+        "category": "camping sites",
+        "title": "DCC-Campingplatz Berlin-Gatow",
+        "rating": 4,
+        "address": "Kladower Damm 207 - 213, 14089 Berlin, Germany",
+        "latitude": 52.4655722,
+        "longitude": 13.16429
+    },
+    {
+        "category": "camping sites",
+        "title": "Hotel und City Camping Nord Hettler & Lange",
+        "rating": 4,
+        "address": "Gartenfelder Str. 1, 13599 Berlin, Germany",
+        "latitude": 52.5489998,
+        "longitude": 13.2566125
+    },
+    {
+        "category": "camping sites",
+        "title": "Campingplatz Kuhle Wampe",
+        "rating": 4.3,
+        "address": "Kuhle Wampe, Str. zur Krampenburg 2, 12559 Berlin, Germany",
+        "latitude": 52.389642699999996,
+        "longitude": 13.6516507
+    },
+    {
+        "category": "camping sites",
+        "title": "Campingplatz am Mahlower See bei Berlin",
+        "rating": 4.6,
+        "address": "Teltower Str. 56, 15831 Blankenfelde-Mahlow, Germany",
+        "latitude": 52.364497199999995,
+        "longitude": 13.375373399999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Wohnmobil-Oase-Berlin",
+        "rating": 3.6,
+        "address": "Hochstraße 4, 13357 Berlin, Germany",
+        "latitude": 52.548775299999996,
+        "longitude": 13.383242399999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Reisemobil Zentrum Berlin",
+        "rating": 4.1,
+        "address": "Waidmannsluster Damm 12-14, 13509 Berlin, Germany",
+        "latitude": 52.5955502,
+        "longitude": 13.289065299999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Campingplatz Berlin-Kladow",
+        "rating": 4.2,
+        "address": "Krampnitzer Weg 111-117, 14089 Berlin, Germany",
+        "latitude": 52.4537372,
+        "longitude": 13.113805999999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Flakensee in Berlin",
+        "rating": 4.2,
+        "address": "Fangschleusenstraße 40, 15569 Woltersdorf, Germany",
+        "latitude": 52.4346633,
+        "longitude": 13.7687951
+    },
+    {
+        "category": "camping sites",
+        "title": "A. Schönberg Camping Heiligensee",
+        "rating": 4.3,
+        "address": "Alt-Heiligensee 14, 13503 Berlin, Germany",
+        "latitude": 52.6104668,
+        "longitude": 13.214619299999999
+    },
+    {
+        "category": "camping sites",
+        "title": "German Camping Club eV",
+        "rating": 4.5,
+        "address": "Krampnitzer Weg 111, 14089 Berlin, Germany",
+        "latitude": 52.4537482,
+        "longitude": 13.1139171
+    },
+    {
+        "category": "camping sites",
+        "title": "Kinderwald Tegel Forest",
+        "rating": 4.2,
+        "address": "Ruppiner Ch 2-10, 13503 Berlin, Germany",
+        "latitude": 52.600254299999996,
+        "longitude": 13.2773899
+    },
+    {
+        "category": "camping sites",
+        "title": "RV parking Berlin - \"Historical Fährhaus\"",
+        "rating": 4.6,
+        "address": "Müggelbergallee 1, 12557 Berlin, Germany",
+        "latitude": 52.4188051,
+        "longitude": 13.5874136
+    },
+    {
+        "category": "camping sites",
+        "title": "Campingplatz Berlin",
+        "rating": 4.2,
+        "address": "Bäkehang 9, 14532 Kleinmachnow, Germany",
+        "latitude": 52.400037,
+        "longitude": 13.178918399999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Hotel und City Camping Süd Hettler & Lange",
+        "rating": 4.1,
+        "address": "Bäkehang 9A, 14532 Kleinmachnow, Germany",
+        "latitude": 52.40003,
+        "longitude": 13.17977
+    },
+    {
+        "category": "camping sites",
+        "title": "Wohnmobilstellplatz in der Marina Lanke",
+        "rating": 4.5,
+        "address": "Scharfe Lanke 109-131, 13595 Berlin, Germany",
+        "latitude": 52.502007299999995,
+        "longitude": 13.185948499999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Berlin camping Club e.V.",
+        "rating": 3.5,
+        "address": "Holsteinische Str. 50, 12163 Berlin, Germany",
+        "latitude": 52.4640279,
+        "longitude": 13.329159899999999
+    },
+    {
+        "category": "camping sites",
+        "title": "AWO Refugium Hausvaterweg - Hausvaterweg Refugee Camp",
+        "rating": 2.9,
+        "address": "Hausvaterweg 21, 13057 Berlin, Germany",
+        "latitude": 52.570403999999996,
+        "longitude": 13.544312999999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Campingfreunde Berlin e.V.",
+        "rating": 4.9,
+        "address": "Albrechts Teerofen 20, 14109 Berlin, Germany",
+        "latitude": 52.3953055,
+        "longitude": 13.1629887
+    },
+    {
+        "category": "camping sites",
+        "title": "Camperport-Berlin",
+        "rating": 3.8,
+        "address": "Zur alten Flussbadeanstalt 5, 10317 Berlin, Germany",
+        "latitude": 52.490633499999994,
+        "longitude": 13.489766399999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Wuhletal Hiking Trail",
+        "rating": 4.6,
+        "address": "Dorfstraße 27, 12621 Berlin, Germany",
+        "latitude": 52.508838499999996,
+        "longitude": 13.574473999999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Tegel forest (southern part)",
+        "rating": 4.6,
+        "address": "13505 Berlin, Germany",
+        "latitude": 52.591350299999995,
+        "longitude": 13.2439922
+    },
+    {
+        "category": "hiking trails",
+        "title": "Wuhletal Hiking Trail",
+        "rating": 4.4,
+        "address": "An d. Wuhle 6, 16356 Berlin, Germany",
+        "latitude": 52.4929504,
+        "longitude": 13.5682096
+    },
+    {
+        "category": "hiking trails",
+        "title": "Wuhletal-Wanderweg",
+        "rating": 4.6,
+        "address": "12685 Berlin, Germany",
+        "latitude": 52.5487166,
+        "longitude": 13.5861957
+    },
+    {
+        "category": "hiking trails",
+        "title": "Berliner Mauerweg",
+        "rating": 4.6,
+        "address": "12349, Unnamed Road, 12349 Berlin, Germany",
+        "latitude": 52.410611499999995,
+        "longitude": 13.4212682
+    },
+    {
+        "category": "hiking trails",
+        "title": "Teufelsseemoor Köpenick",
+        "rating": 4.7,
+        "address": "Müggelheimer Damm 101, 12559 Berlin, Germany",
+        "latitude": 52.420085199999995,
+        "longitude": 13.6310225
+    },
+    {
+        "category": "hiking trails",
+        "title": "Havelhöhenweg",
+        "rating": 4.7,
+        "address": "Havelchaussee, 14193 Berlin, Germany",
+        "latitude": 52.4641491,
+        "longitude": 13.1961301
+    },
+    {
+        "category": "hiking trails",
+        "title": "Spandauer Forst",
+        "rating": 4.6,
+        "address": "Niederneuendorfer Allee, 13587 Berlin, Germany",
+        "latitude": 52.5803789,
+        "longitude": 13.1729487
+    },
+    {
+        "category": "hiking trails",
+        "title": "Uferweg",
+        "rating": 4.4,
+        "address": "Am Generalshof 1, 12555 Berlin, Germany",
+        "latitude": 52.4515592,
+        "longitude": 13.5755283
+    },
+    {
+        "category": "hiking trails",
+        "title": "Hirschberg",
+        "rating": 4.1,
+        "address": "14109 Berlin, Germany",
+        "latitude": 52.4072719,
+        "longitude": 13.115822
+    },
+    {
+        "category": "hiking trails",
+        "title": "Wanderweg an der Panke",
+        "rating": 4.3,
+        "address": "Pasewalker Str. 111, 13127 Berlin, Germany",
+        "latitude": 52.5852691,
+        "longitude": 13.4309202
+    },
+    {
+        "category": "hiking trails",
+        "title": "Kleiner Müggelberg",
+        "rating": 4.5,
+        "address": "12559, Str. zum Müggelturm, 12559 Berlin, Germany",
+        "latitude": 52.4176019,
+        "longitude": 13.623108
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Natur Park Südgelände",
+        "rating": 4.6,
+        "address": "Prellerweg 47-49, 12157 Berlin, Germany",
+        "latitude": 52.459168399999996,
+        "longitude": 13.3569087
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Gardens of the World",
+        "rating": 4.5,
+        "address": "Blumberger Damm 44, 12685 Berlin, Germany",
+        "latitude": 52.5379611,
+        "longitude": 13.5692782
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Treptower Park",
+        "rating": 4.6,
+        "address": "12435 Berlin, Germany",
+        "latitude": 52.4884754,
+        "longitude": 13.469784599999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Grunewald",
+        "rating": 4.7,
+        "address": "14193 Berlin, Germany",
+        "latitude": 52.477024199999995,
+        "longitude": 13.220734799999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Naturpark Barnim",
+        "rating": 4.5,
+        "address": "Breitscheidstraße 8, 16348 Wandlitz, Germany",
+        "latitude": 52.751323,
+        "longitude": 13.4552652
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Tempelhofer Feld",
+        "rating": 4.6,
+        "address": "Tempelhofer Damm, 12101 Berlin, Germany",
+        "latitude": 52.4748569,
+        "longitude": 13.4005926
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Lübarser Höhe",
+        "rating": 4.5,
+        "address": "13469 Berlin, Germany",
+        "latitude": 52.6102304,
+        "longitude": 13.370538999999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Mauerpark",
+        "rating": 4.4,
+        "address": "Bernauer Str. 63, 13355 Berlin, Germany",
+        "latitude": 52.5427179,
+        "longitude": 13.402652
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Viktoria Park",
+        "rating": 4.5,
+        "address": "Katzbachstraße, 10965 Berlin, Germany",
+        "latitude": 52.488226999999995,
+        "longitude": 13.380014399999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Kienberg Park",
+        "rating": 4.6,
+        "address": "Hellersdorfer Str. 159, 12619 Berlin, Germany",
+        "latitude": 52.530574599999994,
+        "longitude": 13.590145999999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Spreewald Biosphere Reserve",
+        "rating": 4.7,
+        "address": "Lübbenau/Spreewald, Germany",
+        "latitude": 51.902993599999995,
+        "longitude": 13.967148499999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Alter Park",
+        "rating": 4.5,
+        "address": "Parkstraße 1A, 12103 Berlin, Germany",
+        "latitude": 52.4629671,
+        "longitude": 13.3840921
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Volkspark Humboldthain",
+        "rating": 4.4,
+        "address": "Brunnenstraße, 13357 Berlin, Germany",
+        "latitude": 52.5452109,
+        "longitude": 13.3847715
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "East Side Gallery",
+        "rating": 4.6,
+        "address": "Mühlenstraße, 10243 Berlin, Germany",
+        "latitude": 52.505022399999994,
+        "longitude": 13.4396952
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Conservation Centre Ökowerk Berlin e. V.",
+        "rating": 4.5,
+        "address": "Teufelsseechaussee 22, 14193 Berlin, Germany",
+        "latitude": 52.4921978,
+        "longitude": 13.235689299999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Spreepark",
+        "rating": 4.1,
+        "address": "Kiehnwerderallee 1-3, 12437 Berlin, Germany",
+        "latitude": 52.484099799999996,
+        "longitude": 13.491095099999999
+    },
+    {
+        "category": "temples",
+        "title": "Murugan Temple",
+        "rating": 4.7,
+        "address": "Blaschkoallee 48, 12359 Berlin, Germany",
+        "latitude": 52.452751899999996,
+        "longitude": 13.4446934
+    },
+    {
+        "category": "temples",
+        "title": "Sri Ganesha Hindu Tempel e.V.",
+        "rating": 4.6,
+        "address": "Hasenheide 106, 10967 Berlin, Germany",
+        "latitude": 52.4867676,
+        "longitude": 13.4207903
+    },
+    {
+        "category": "temples",
+        "title": "Radha Govinda Temple in Berlin",
+        "rating": 4.9,
+        "address": "Kopenhagener Str. 34, 13407 Berlin, Germany",
+        "latitude": 52.5765548,
+        "longitude": 13.3609507
+    },
+    {
+        "category": "temples",
+        "title": "Jagannatha Temple ISKCON Berlin e.V.",
+        "rating": 4.8,
+        "address": "Berliner Allee 209, 13088 Berlin, Germany",
+        "latitude": 52.5569099,
+        "longitude": 13.4665637
+    },
+    {
+        "category": "temples",
+        "title": "Wat Buddhavihara - Thai Buddhist Association Berlin",
+        "rating": 4.9,
+        "address": "Malchower Str. 23, 13089 Berlin, Germany",
+        "latitude": 52.568673999999994,
+        "longitude": 13.4460134
+    },
+    {
+        "category": "temples",
+        "title": "Kung Fu Shaolin Temple",
+        "rating": 4.6,
+        "address": "Bundesallee 215, 10719 Berlin, Germany",
+        "latitude": 52.497598499999995,
+        "longitude": 13.3310707
+    },
+    {
+        "category": "temples",
+        "title": "Shinnyo Center in Berlin",
+        "rating": 5,
+        "address": "Joachimsthaler Str. 10-12, 10719 Berlin, Germany",
+        "latitude": 52.502843299999995,
+        "longitude": 13.3305914
+    },
+    {
+        "category": "temples",
+        "title": "Gurudwara Sri Guru Singh Sabha",
+        "rating": 4.9,
+        "address": "Bahnstraße 2, 14513 Teltow, Germany",
+        "latitude": 52.3875629,
+        "longitude": 13.298685299999999
+    },
+    {
+        "category": "temples",
+        "title": "Das Buddhistische Haus",
+        "rating": 4.5,
+        "address": "Edelhofdamm 54, 13465 Berlin, Germany",
+        "latitude": 52.6358204,
+        "longitude": 13.3028546
+    },
+    {
+        "category": "temples",
+        "title": "Fo-Guang-Shan-Tempel, Berlin e.V. 柏林佛光山",
+        "rating": 4.7,
+        "address": "Ackerstraße 85-86, 13355 Berlin, Germany",
+        "latitude": 52.5397203,
+        "longitude": 13.3820719
+    },
+    {
+        "category": "temples",
+        "title": "NYÖNPA LOKESHVARA | Bön - UrTantra - Kundalini",
+        "rating": 5,
+        "address": "Fritz-Reuter-Straße 2, 10827 Berlin, Germany",
+        "latitude": 52.4809327,
+        "longitude": 13.3491974
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Silent Contemplation",
+        "rating": 3.6,
+        "address": "Otto-von-Bismarck-Allee, 10557 Berlin, Germany",
+        "latitude": 52.5215775,
+        "longitude": 13.373367
+    },
+    {
+        "category": "temples",
+        "title": "Buddhistisches Tor Berlin (Buddhistische Gemeinschaft Triratna Berlin e.V.)",
+        "rating": 4.9,
+        "address": "Grimmstraße 11B-C, 10967 Berlin, Germany",
+        "latitude": 52.492601199999996,
+        "longitude": 13.4124939
+    },
+    {
+        "category": "temples",
+        "title": "Hindugemeinde e.V.",
+        "rating": 4.5,
+        "address": "Kopenhagener Str. 34, 13407 Berlin, Germany",
+        "latitude": 52.5765548,
+        "longitude": 13.3609507
+    },
+    {
+        "category": "temples",
+        "title": "RadhaKrishna Temple",
+        "rating": 5,
+        "address": "Kopenhagener Str. 34, 13407 Berlin, Germany",
+        "latitude": 52.5765958,
+        "longitude": 13.3608677
+    },
+    {
+        "category": "temples",
+        "title": "Pura Tri Hita Karana",
+        "rating": 5,
+        "address": "Eisenacher Str. 100, 12685 Berlin, Germany",
+        "latitude": 52.5394404,
+        "longitude": 13.5776743
+    },
+    {
+        "category": "museums",
+        "title": "Alte Nationalgalerie",
+        "rating": 4.5,
+        "address": "Bodestraße 1-3, 10178 Berlin, Germany",
+        "latitude": 52.520810399999995,
+        "longitude": 13.398352899999999
+    },
+    {
+        "category": "museums",
+        "title": "Bode-Museum",
+        "rating": 4.5,
+        "address": "Am Kupfergraben 3, 10178 Berlin, Germany",
+        "latitude": 52.5219816,
+        "longitude": 13.394398299999999
+    },
+    {
+        "category": "museums",
+        "title": "Altes Museum",
+        "rating": 4.6,
+        "address": "Bodestraße 1-3, 10178 Berlin, Germany",
+        "latitude": 52.5194665,
+        "longitude": 13.3987445
+    },
+    {
+        "category": "museums",
+        "title": "Neues Museum",
+        "rating": 4.5,
+        "address": "Bodestraße 1-3, 10178 Berlin, Germany",
+        "latitude": 52.520134899999995,
+        "longitude": 13.397646199999999
+    },
+    {
+        "category": "museums",
+        "title": "DDR Museum",
+        "rating": 4.3,
+        "address": "Vera Britain Ufer, Karl-Liebknecht-Str. 1, 10178 Berlin, Germany",
+        "latitude": 52.5192243,
+        "longitude": 13.402636999999999
+    },
+    {
+        "category": "museums",
+        "title": "Gemäldegalerie",
+        "rating": 4.6,
+        "address": "Johanna und Eduard Arnhold Platz, 10785 Berlin, Germany",
+        "latitude": 52.5084982,
+        "longitude": 13.3651754
+    },
+    {
+        "category": "museums",
+        "title": "Samurai Museum Berlin",
+        "rating": 4.8,
+        "address": "Auguststraße 68, 10117 Berlin, Germany",
+        "latitude": 52.5268094,
+        "longitude": 13.3952948
+    },
+    {
+        "category": "museums",
+        "title": "German Spy Museum",
+        "rating": 4.3,
+        "address": "Leipziger Pl. 9, 10117 Berlin, Germany",
+        "latitude": 52.508922,
+        "longitude": 13.379308199999999
+    },
+    {
+        "category": "museums",
+        "title": "Deutschlandmuseum",
+        "rating": 4.6,
+        "address": "Leipziger Pl. 7, 10117 Berlin, Germany",
+        "latitude": 52.5087602,
+        "longitude": 13.3783614
+    },
+    {
+        "category": "museums",
+        "title": "Computer Games Museum",
+        "rating": 4.5,
+        "address": "Karl-Marx-Allee 93a, 10243 Berlin, Germany",
+        "latitude": 52.5174697,
+        "longitude": 13.4419545
+    },
+    {
+        "category": "museums",
+        "title": "German Historical Museum",
+        "rating": 4.4,
+        "address": "Unter den Linden 2, 10117 Berlin, Germany",
+        "latitude": 52.5186138,
+        "longitude": 13.396359799999999
+    },
+    {
+        "category": "museums",
+        "title": "Topography of Terror",
+        "rating": 4.6,
+        "address": "Niederkirchnerstraße 8, 10963 Berlin, Germany",
+        "latitude": 52.506747,
+        "longitude": 13.3837099
+    },
+    {
+        "category": "museums",
+        "title": "Stasi Museum",
+        "rating": 4.5,
+        "address": "Normannenstraße 20/Haus 1, 10365 Berlin, Germany",
+        "latitude": 52.514527,
+        "longitude": 13.4872818
+    },
+    {
+        "category": "museums",
+        "title": "Jewish Museum Berlin",
+        "rating": 4.3,
+        "address": "Lindenstraße 9-14, 10969 Berlin, Germany",
+        "latitude": 52.5023115,
+        "longitude": 13.3954469
+    },
+    {
+        "category": "museums",
+        "title": "German Museum of Technology",
+        "rating": 4.6,
+        "address": "Trebbiner Str. 9, 10963 Berlin, Germany",
+        "latitude": 52.4986982,
+        "longitude": 13.3778846
+    },
+    {
+        "category": "museums",
+        "title": "Berlinische Galerie",
+        "rating": 4.5,
+        "address": "Alte Jakobstraße 124-128, 10969 Berlin, Germany",
+        "latitude": 52.5039563,
+        "longitude": 13.3981579
+    },
+    {
+        "category": "museums",
+        "title": "Hamburger Bahnhof - Contemporary Art National Gallery",
+        "rating": 4.2,
+        "address": "Invalidenstraße 50, 10557 Berlin, Germany",
+        "latitude": 52.5283411,
+        "longitude": 13.372136999999999
+    },
+    {
+        "category": "museums",
+        "title": "Berlin Story Bunker",
+        "rating": 4.7,
+        "address": "Schöneberger Str. 23A, 10963 Berlin, Germany",
+        "latitude": 52.5029008,
+        "longitude": 13.3803901
+    },
+    {
+        "category": "museums",
+        "title": "House of the Wannsee Conference",
+        "rating": 4.6,
+        "address": "Am Großen Wannsee 56-58, 14109 Berlin, Germany",
+        "latitude": 52.432919299999995,
+        "longitude": 13.165461299999999
+    },
+    {
+        "category": "museums",
+        "title": "Madame Tussauds Berlin",
+        "rating": 4.4,
+        "address": "Unter den Linden 74, 10117 Berlin, Germany",
+        "latitude": 52.5168889,
+        "longitude": 13.381591799999999
+    },
+    {
+        "category": "night markets",
+        "title": "Markthalle Neun",
+        "rating": 4.4,
+        "address": "Eisenbahnstraße 42/43, 10997 Berlin, Germany",
+        "latitude": 52.502134999999996,
+        "longitude": 13.4315988
+    },
+    {
+        "category": "night markets",
+        "title": "Marheineke Markthalle",
+        "rating": 4.4,
+        "address": "Marheinekepl. 15, 10961 Berlin, Germany",
+        "latitude": 52.489209699999996,
+        "longitude": 13.3944035
+    },
+    {
+        "category": "night markets",
+        "title": "The Berlin Art Market by the Zeughaus",
+        "rating": 4.4,
+        "address": "Am Zeughaus 1-2, 10117 Berlin, Germany",
+        "latitude": 52.5182876,
+        "longitude": 13.397729199999999
+    },
+    {
+        "category": "night markets",
+        "title": "Arminiusmarkthalle",
+        "rating": 4.3,
+        "address": "Arminiusstraße 2-4, 10551 Berlin, Germany",
+        "latitude": 52.5276885,
+        "longitude": 13.3383945
+    },
+    {
+        "category": "night markets",
+        "title": "Spätkauf",
+        "rating": null,
+        "address": "Swinemünder Str. 86, 13355 Berlin, Germany",
+        "latitude": 52.543417299999994,
+        "longitude": 13.3969037
+    },
+    {
+        "category": "night markets",
+        "title": "Day and Night Shop",
+        "rating": 3.6,
+        "address": "Grünberger Str. 32, 10245 Berlin, Germany",
+        "latitude": 52.512427599999995,
+        "longitude": 13.451916899999999
+    },
+    {
+        "category": "night markets",
+        "title": "Berliner Trödelmarkt",
+        "rating": 4.1,
+        "address": "Str. des 17. Juni 110, 10623 Berlin, Germany",
+        "latitude": 52.513940299999994,
+        "longitude": 13.334273
+    },
+    {
+        "category": "night markets",
+        "title": "Markt am Maybachufer",
+        "rating": 4.5,
+        "address": "Maybachufer, 12047 Berlin, Germany",
+        "latitude": 52.4950918,
+        "longitude": 13.422902299999999
+    },
+    {
+        "category": "night markets",
+        "title": "Bollywood mini market",
+        "rating": 1.6,
+        "address": "Schönhauser Allee 120, 10437 Berlin, Germany",
+        "latitude": 52.548457899999995,
+        "longitude": 13.41316
+    },
+    {
+        "category": "viewpoints",
+        "title": "Drachenberg Viewpoint",
+        "rating": 4.8,
+        "address": "Unnamed Road, 14055 Berlin, Germany",
+        "latitude": 52.5024191,
+        "longitude": 13.249719899999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Victory Column",
+        "rating": 4.6,
+        "address": "Großer Stern 1, 10557 Berlin, Germany",
+        "latitude": 52.514522899999996,
+        "longitude": 13.3501085
+    },
+    {
+        "category": "viewpoints",
+        "title": "Drachenberg",
+        "rating": 4.7,
+        "address": "Teufelsseechaussee 2, 14193 Berlin, Germany",
+        "latitude": 52.5022387,
+        "longitude": 13.2486413
+    },
+    {
+        "category": "viewpoints",
+        "title": "Berlin TV Tower",
+        "rating": 4.4,
+        "address": "Panoramastraße 1A, 10178 Berlin, Germany",
+        "latitude": 52.520815,
+        "longitude": 13.4094191
+    },
+    {
+        "category": "viewpoints",
+        "title": "Panoramapunkt Berlin",
+        "rating": 4.6,
+        "address": "Panorama Punkt, Potsdamer Platz 1, 10785 Berlin, Germany",
+        "latitude": 52.5091883,
+        "longitude": 13.374961299999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Grunewald Tower",
+        "rating": 4.4,
+        "address": "Havelchaussee 61, 14193 Berlin, Germany",
+        "latitude": 52.478233499999995,
+        "longitude": 13.196794599999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Teufelsberg",
+        "rating": 4.3,
+        "address": "Teufelsseechaussee 10, 14193 Berlin, Germany",
+        "latitude": 52.4971524,
+        "longitude": 13.239678699999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Wolkenhain auf dem Kienberg",
+        "rating": 4.5,
+        "address": "Hellersdorfer Straße, Auf dem Kienberg 159, 12619 Berlin, Germany",
+        "latitude": 52.534805299999995,
+        "longitude": 13.581152999999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Viktoria Park",
+        "rating": 4.5,
+        "address": "Katzbachstraße, 10965 Berlin, Germany",
+        "latitude": 52.488226999999995,
+        "longitude": 13.380014399999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Brandenburg Gate",
+        "rating": 4.7,
+        "address": "Pariser Platz, 10117 Berlin, Germany",
+        "latitude": 52.516274599999996,
+        "longitude": 13.377704099999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Volkspark Humboldthain",
+        "rating": 4.4,
+        "address": "Brunnenstraße, 13357 Berlin, Germany",
+        "latitude": 52.5452109,
+        "longitude": 13.3847715
+    },
+    {
+        "category": "viewpoints",
+        "title": "Potsdamer Platz",
+        "rating": 4.4,
+        "address": "10785 Berlin, Germany",
+        "latitude": 52.509231199999995,
+        "longitude": 13.376105299999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Spreebalkon",
+        "rating": 4.2,
+        "address": "Brommystraße 1, 10997 Berlin, Germany",
+        "latitude": 52.505337499999996,
+        "longitude": 13.436038
+    },
+    {
+        "category": "viewpoints",
+        "title": "Platz der Republik",
+        "rating": 4.6,
+        "address": "Scheidemannstraße 2, 10557 Berlin, Germany",
+        "latitude": 52.518584999999995,
+        "longitude": 13.373185099999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Lustgarten",
+        "rating": 4.6,
+        "address": "Unter den Linden 1, 10178 Berlin, Germany",
+        "latitude": 52.518699999999995,
+        "longitude": 13.399199999999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Alexanderplatz",
+        "rating": 4.3,
+        "address": "10178 Berlin, Germany",
+        "latitude": 52.521981399999994,
+        "longitude": 13.413305999999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Mitte Lookout",
+        "rating": 4,
+        "address": "B96a, 10243 Berlin, Germany",
+        "latitude": 52.506566199999995,
+        "longitude": 13.449381299999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Checkpoint Charlie",
+        "rating": 4.1,
+        "address": "Friedrichstraße 43-45, 10117 Berlin, Germany",
+        "latitude": 52.5074434,
+        "longitude": 13.3903913
+    },
+    {
+        "category": "viewpoints",
+        "title": "Rolandufer",
+        "rating": 4.3,
+        "address": "10179 Berlin, Germany",
+        "latitude": 52.5151489,
+        "longitude": 13.4152565
+    },
+    {
+        "category": "viewpoints",
+        "title": "Funkturm Berlin",
+        "rating": 4.4,
+        "address": "Hammarskjöldpl., 14055 Berlin, Germany",
+        "latitude": 52.5050326,
+        "longitude": 13.2781892
+    },
+    {
+        "category": "gardens",
+        "title": "Gardens of the World",
+        "rating": 4.5,
+        "address": "Blumberger Damm 44, 12685 Berlin, Germany",
+        "latitude": 52.5379611,
+        "longitude": 13.5692782
+    },
+    {
+        "category": "gardens",
+        "title": "Botanical Garden and Botanical Museum",
+        "rating": 4.5,
+        "address": "Königin-Luise-Straße 6-8, 14195 Berlin, Germany",
+        "latitude": 52.4543806,
+        "longitude": 13.3056024
+    },
+    {
+        "category": "gardens",
+        "title": "Britzer Garten",
+        "rating": 4.7,
+        "address": "Sangerhauser Weg 1, 12349 Berlin, Germany",
+        "latitude": 52.438720599999996,
+        "longitude": 13.4128989
+    },
+    {
+        "category": "gardens",
+        "title": "Schlossgarten Charlottenburg",
+        "rating": 4.7,
+        "address": "Spandauer Damm 10-22, 14059 Berlin, Germany",
+        "latitude": 52.523866399999996,
+        "longitude": 13.2924939
+    },
+    {
+        "category": "gardens",
+        "title": "Lustgarten",
+        "rating": 4.6,
+        "address": "Unter den Linden 1, 10178 Berlin, Germany",
+        "latitude": 52.518699999999995,
+        "longitude": 13.399199999999999
+    },
+    {
+        "category": "gardens",
+        "title": "Britz Garden - Rose Garden",
+        "rating": 4.7,
+        "address": "Sangerhauser Weg 1, 12349 Berlin, Germany",
+        "latitude": 52.4322258,
+        "longitude": 13.4141169
+    },
+    {
+        "category": "gardens",
+        "title": "Tiergarten",
+        "rating": 4.6,
+        "address": "Str. des 17. Juni, 10785 Berlin, Germany",
+        "latitude": 52.5141516,
+        "longitude": 13.3591634
+    },
+    {
+        "category": "gardens",
+        "title": "Botanical Volkspark Pankow Blankenfelde",
+        "rating": 4.6,
+        "address": "Blankenfelder Ch 5, 13159 Berlin, Germany",
+        "latitude": 52.6048251,
+        "longitude": 13.4005674
+    },
+    {
+        "category": "gardens",
+        "title": "Rose Garden in Humboldthain",
+        "rating": 4.6,
+        "address": "13355 Berlin, Germany",
+        "latitude": 52.5476417,
+        "longitude": 13.3872866
+    },
+    {
+        "category": "gardens",
+        "title": "Berlin Zoological Garden",
+        "rating": 4.5,
+        "address": "Hardenbergpl. 8, 10787 Berlin, Germany",
+        "latitude": 52.507830299999995,
+        "longitude": 13.3394157
+    },
+    {
+        "category": "gardens",
+        "title": "Palace Park",
+        "rating": 4.5,
+        "address": "Tschaikowskistraße 1, 13156 Berlin, Germany",
+        "latitude": 52.578587899999995,
+        "longitude": 13.4069443
+    },
+    {
+        "category": "gardens",
+        "title": "Rosengarten",
+        "rating": 4.6,
+        "address": "Tiergarten, 10785 Berlin, Germany",
+        "latitude": 52.513852199999995,
+        "longitude": 13.3568926
+    },
+    {
+        "category": "gardens",
+        "title": "James-Simon-Park",
+        "rating": 4.5,
+        "address": "Burgstraße 28, 10178 Berlin, Germany",
+        "latitude": 52.521926099999995,
+        "longitude": 13.399294
+    },
+    {
+        "category": "gardens",
+        "title": "Späth-Arboretum",
+        "rating": 4.6,
+        "address": "Späthstraße 80/81, 12437 Berlin, Germany",
+        "latitude": 52.454473899999996,
+        "longitude": 13.473465899999999
+    },
+    {
+        "category": "gardens",
+        "title": "Christmas Garden Berlin",
+        "rating": 4,
+        "address": "Königin-Luise-Straße 6, 14195 Berlin, Germany",
+        "latitude": 52.456281499999996,
+        "longitude": 13.3060374
+    },
+    {
+        "category": "gardens",
+        "title": "Japanischer Garten",
+        "rating": 4.6,
+        "address": "Eisenacher Str. 99, 12685 Berlin, Germany",
+        "latitude": 52.5384983,
+        "longitude": 13.5802549
+    },
+    {
+        "category": "gardens",
+        "title": "Englischer Garten",
+        "rating": 4.4,
+        "address": "12685 Berlin, Germany",
+        "latitude": 52.5392102,
+        "longitude": 13.5732517
+    },
+    {
+        "category": "gardens",
+        "title": "Englischer Garten im Tiergarten",
+        "rating": 4.6,
+        "address": "Altonaer Str. 2/2a, 10557 Berlin, Germany",
+        "latitude": 52.5167879,
+        "longitude": 13.348040899999999
+    },
+    {
+        "category": "gardens",
+        "title": "Mauerpark",
+        "rating": 4.4,
+        "address": "Bernauer Str. 63, 13355 Berlin, Germany",
+        "latitude": 52.5427179,
+        "longitude": 13.402652
+    },
+    {
+        "category": "gardens",
+        "title": "Gewächshäuser Botanischer Garten Berlin",
+        "rating": 4.8,
+        "address": "Botanical Garden and Botanical Museum, 14195 Berlin, Germany",
+        "latitude": 52.456588599999996,
+        "longitude": 13.3074303
+    },
+    {
+        "category": "adventure parks",
+        "title": "Waldhochseilgarten Jungfernheide",
+        "rating": 4.7,
+        "address": "Heckerdamm 260, 13627 Berlin, Germany",
+        "latitude": 52.542741299999996,
+        "longitude": 13.290695699999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "BergWerk.Berlin",
+        "rating": 4.4,
+        "address": "Stendaler Str. 25, 12627 Berlin, Germany",
+        "latitude": 52.5378349,
+        "longitude": 13.603936099999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Jungfernheide Public Park",
+        "rating": 4.6,
+        "address": "Jungfernheideweg 60, 13629 Berlin, Germany",
+        "latitude": 52.5447171,
+        "longitude": 13.284556199999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Freizeitpark Marienfelde",
+        "rating": 4.6,
+        "address": "12277 Berlin, Germany",
+        "latitude": 52.401743599999996,
+        "longitude": 13.3686715
+    },
+    {
+        "category": "adventure parks",
+        "title": "Tropical Islands",
+        "rating": 4,
+        "address": "Tropical-Islands-Allee 1, 15910 Krausnick-Groß Wasserburg, Germany",
+        "latitude": 52.038993,
+        "longitude": 13.748653
+    },
+    {
+        "category": "adventure parks",
+        "title": "WINDOBONA Indoor Skydiving Berlin",
+        "rating": 4.9,
+        "address": "Landsberger Allee 268, 10367 Berlin, Germany",
+        "latitude": 52.533002599999996,
+        "longitude": 13.493893799999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "High Swing Berlin",
+        "rating": 4.9,
+        "address": "Alexanderpl. 7, 10178 Berlin, Germany",
+        "latitude": 52.5230222,
+        "longitude": 13.4124047
+    },
+    {
+        "category": "adventure parks",
+        "title": "Erlebniswelt Tier und Natur im Jungfernheide Park",
+        "rating": 4.7,
+        "address": "Heckerdamm 274, 13627 Berlin, Germany",
+        "latitude": 52.542523599999996,
+        "longitude": 13.282395099999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Holland-Park",
+        "rating": 4.2,
+        "address": "Dorfstraße 30, 16341 Panketal, Germany",
+        "latitude": 52.6214855,
+        "longitude": 13.54459
+    },
+    {
+        "category": "adventure parks",
+        "title": "Tier-, Freizeit- und Saurierpark Germendorf",
+        "rating": 4.6,
+        "address": "An den Waldseen 1A, 16515 Oranienburg, Germany",
+        "latitude": 52.747317499999994,
+        "longitude": 13.156448399999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "ModellPark Berlin-Brandenburg",
+        "rating": 4.2,
+        "address": "An d. Wuhlheide 81, 12459 Berlin, Germany",
+        "latitude": 52.467878999999996,
+        "longitude": 13.527598099999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Treptower Park",
+        "rating": 4.6,
+        "address": "12435 Berlin, Germany",
+        "latitude": 52.4884754,
+        "longitude": 13.469784599999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Rhododendronhain",
+        "rating": 4.8,
+        "address": "Tiergartengewässer, 10785 Berlin, Germany",
+        "latitude": 52.511937599999996,
+        "longitude": 13.3604652
+    },
+    {
+        "category": "adventure parks",
+        "title": "Explor Games Berlin",
+        "rating": 5,
+        "address": "An d. Wuhlheide 199, 12459 Berlin, Germany",
+        "latitude": 52.458059399999996,
+        "longitude": 13.5489847
+    },
+    {
+        "category": "adventure parks",
+        "title": "Kienberg Park",
+        "rating": 4.6,
+        "address": "Hellersdorfer Str. 159, 12619 Berlin, Germany",
+        "latitude": 52.530574599999994,
+        "longitude": 13.590145999999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Tiergarten",
+        "rating": 4.6,
+        "address": "Str. des 17. Juni, 10785 Berlin, Germany",
+        "latitude": 52.5141516,
+        "longitude": 13.3591634
+    },
+    {
+        "category": "adventure parks",
+        "title": "Krausnick park",
+        "rating": 4.6,
+        "address": "Oranienburger Str. 19, 10178 Berlin, Germany",
+        "latitude": 52.5246427,
+        "longitude": 13.397207799999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Beachvolleyballplatz Freizeitpark Tegel an der Malche",
+        "rating": 4.4,
+        "address": "Campestraße 11, 13507 Berlin, Germany",
+        "latitude": 52.593201799999996,
+        "longitude": 13.2674512
+    },
+    {
+        "category": "adventure parks",
+        "title": "CLIMB UP! - Kletterwald in Strausberg",
+        "rating": 4.5,
+        "address": "Sport- und Erholungspark 32, 15344 Strausberg, Germany",
+        "latitude": 52.540162099999996,
+        "longitude": 13.841866699999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Kletterwald Wuhlheide",
+        "rating": 4.5,
+        "address": "An d. Wuhlheide 199, 12459 Berlin, Germany",
+        "latitude": 52.458158499999996,
+        "longitude": 13.5489739
+    },
+    {
+        "category": "hot springs",
+        "title": "Vabali",
+        "rating": 4.6,
+        "address": "Seydlitzstraße 6, 10557 Berlin, Germany",
+        "latitude": 52.5272399,
+        "longitude": 13.3600499
+    },
+    {
+        "category": "hot springs",
+        "title": "Fontane Therme",
+        "rating": 4.2,
+        "address": "An d. Seepromenade 21, 16816 Neuruppin, Germany",
+        "latitude": 52.924245,
+        "longitude": 12.8147022
+    },
+    {
+        "category": "hot springs",
+        "title": "Liquidrom",
+        "rating": 4.1,
+        "address": "Möckernstraße 10, 10963 Berlin, Germany",
+        "latitude": 52.5015803,
+        "longitude": 13.3811599
+    },
+    {
+        "category": "hot springs",
+        "title": "Waldorf Astoria Spa",
+        "rating": 4.4,
+        "address": "Hardenbergstraße 28/Floor 5, 10623 Berlin, Germany",
+        "latitude": 52.505481499999995,
+        "longitude": 13.332766999999999
+    },
+    {
+        "category": "hot springs",
+        "title": "SaarowTherme",
+        "rating": 4.1,
+        "address": "Am Kurpark 1, 15526 Bad Saarow, Germany",
+        "latitude": 52.2910173,
+        "longitude": 14.060492799999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Tropical Islands",
+        "rating": 4,
+        "address": "Tropical-Islands-Allee 1, 15910 Krausnick-Groß Wasserburg, Germany",
+        "latitude": 52.038993,
+        "longitude": 13.748653
+    },
+    {
+        "category": "hot springs",
+        "title": "BOILER Sauna Berlin",
+        "rating": 4.1,
+        "address": "Mehringdamm 34, 10961 Berlin, Germany",
+        "latitude": 52.4936635,
+        "longitude": 13.3873692
+    },
+    {
+        "category": "hot springs",
+        "title": "Gezer Massage",
+        "rating": 4.3,
+        "address": "Alexanderpl. 7, 10178 Berlin, Germany",
+        "latitude": 52.5228494,
+        "longitude": 13.412920699999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Kristall Kur- und Gradier-Therme Bad Wilsnack",
+        "rating": 4.5,
+        "address": "Am Kähling 1, 19336 Bad Wilsnack, Germany",
+        "latitude": 52.963511999999994,
+        "longitude": 11.9482327
+    },
+    {
+        "category": "hot springs",
+        "title": "Adlon Spa by Resense",
+        "rating": 4.2,
+        "address": "Unter den Linden 77, 10117 Berlin, Germany",
+        "latitude": 52.5150795,
+        "longitude": 13.380656799999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Yi-Spa",
+        "rating": 4.5,
+        "address": "Monbijoupl. 3A, 10178 Berlin, Germany",
+        "latitude": 52.5232385,
+        "longitude": 13.399398399999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Spreewald Thermal Baths",
+        "rating": 4.7,
+        "address": "Ringchaussee 152, 03096 Burg (Spreewald), Germany",
+        "latitude": 51.8380605,
+        "longitude": 14.1376522
+    },
+    {
+        "category": "hot springs",
+        "title": "SPREEWALD THERME",
+        "rating": 4.6,
+        "address": "Ringchaussee 152, 03096 Burg (Spreewald), Germany",
+        "latitude": 51.8380738,
+        "longitude": 14.135709299999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Resort Mark Brandenburg",
+        "rating": 4.5,
+        "address": "An d. Seepromenade 20, 16816 Neuruppin, Germany",
+        "latitude": 52.923873799999996,
+        "longitude": 12.813150499999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Therme Erding",
+        "rating": 4.4,
+        "address": "Thermenallee 1-5, 85435 Erding, Germany",
+        "latitude": 48.290231,
+        "longitude": 11.8885776
+    },
+    {
+        "category": "hot springs",
+        "title": "Friedrichsbad Baden-Baden",
+        "rating": 4.3,
+        "address": "Römerpl. 1, 76530 Baden-Baden, Germany",
+        "latitude": 48.7629938,
+        "longitude": 8.2420786
+    },
+    {
+        "category": "hot springs",
+        "title": "LAKANA Thai Massage & Fish Spa- Klimatisiert!!!in Berlin",
+        "rating": 4.8,
+        "address": "Greifswalder Str. 11, 10405 Berlin, Germany",
+        "latitude": 52.5298294,
+        "longitude": 13.426219699999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Das Halensee | Strand.Park.Restaurant.",
+        "rating": 3.8,
+        "address": "Koenigsallee 5, 14193 Berlin, Germany",
+        "latitude": 52.4938392,
+        "longitude": 13.282127299999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Charlottenburg Palace",
+        "rating": 4.6,
+        "address": "Spandauer Damm 10-22, 14059 Berlin, Germany",
+        "latitude": 52.5209319,
+        "longitude": 13.2956165
+    },
+    {
+        "category": "hot springs",
+        "title": "Botanical Garden and Botanical Museum",
+        "rating": 4.5,
+        "address": "Königin-Luise-Straße 6-8, 14195 Berlin, Germany",
+        "latitude": 52.4543806,
+        "longitude": 13.3056024
+    },
+    {
+        "category": "shopping malls",
+        "title": "Mall of Berlin",
+        "rating": 4.4,
+        "address": "Leipziger Pl. 12, 10117 Berlin, Germany",
+        "latitude": 52.5105246,
+        "longitude": 13.3811047
+    },
+    {
+        "category": "shopping malls",
+        "title": "ALEXA Berlin",
+        "rating": 4.3,
+        "address": "Grunerstraße 20, 10179 Berlin, Germany",
+        "latitude": 52.5199703,
+        "longitude": 13.4147251
+    },
+    {
+        "category": "shopping malls",
+        "title": "Boulevard Berlin",
+        "rating": 4.1,
+        "address": "Schloßstraße 10, 12163 Berlin, Germany",
+        "latitude": 52.4627274,
+        "longitude": 13.3246775
+    },
+    {
+        "category": "shopping malls",
+        "title": "Ring-Center Berlin 2 + 3",
+        "rating": 4,
+        "address": "Frankfurter Allee 113-117, 10365 Berlin, Germany",
+        "latitude": 52.514264,
+        "longitude": 13.476491999999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Playce",
+        "rating": 4.1,
+        "address": "Alte Potsdamer Str. 7, 10785 Berlin, Germany",
+        "latitude": 52.5074806,
+        "longitude": 13.3741512
+    },
+    {
+        "category": "shopping malls",
+        "title": "Bikini Berlin",
+        "rating": 4.2,
+        "address": "Budapester Str. 38-50, 10787 Berlin, Germany",
+        "latitude": 52.5056242,
+        "longitude": 13.3354229
+    },
+    {
+        "category": "shopping malls",
+        "title": "Europa-Center",
+        "rating": 4.1,
+        "address": "Tauentzienstraße 9-12, 10789 Berlin, Germany",
+        "latitude": 52.504509,
+        "longitude": 13.337900099999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Einkaufsbahnhof Berlin Hbf",
+        "rating": 4.2,
+        "address": "Europaplatz 1, 10557 Berlin, Germany",
+        "latitude": 52.525203,
+        "longitude": 13.369552899999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Gesundbrunnen-Center Berlin",
+        "rating": 4.1,
+        "address": "Badstraße 4, 13357 Berlin, Germany",
+        "latitude": 52.5497824,
+        "longitude": 13.3875842
+    },
+    {
+        "category": "shopping malls",
+        "title": "WILMA Shoppen",
+        "rating": 4,
+        "address": "Wilmersdorfer Str. 46, 10627 Berlin, Germany",
+        "latitude": 52.5090675,
+        "longitude": 13.3046206
+    },
+    {
+        "category": "shopping malls",
+        "title": "Neukölln Arcaden",
+        "rating": 3.9,
+        "address": "Karl-Marx-Straße 66, 12043 Berlin, Germany",
+        "latitude": 52.4820895,
+        "longitude": 13.432862499999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "EAST SIDE MALL",
+        "rating": 4,
+        "address": "Tamara-Danz-Straße 11, 10243 Berlin, Germany",
+        "latitude": 52.5060212,
+        "longitude": 13.4466282
+    },
+    {
+        "category": "shopping malls",
+        "title": "Quartier 205 Stadtmitte",
+        "rating": 4.1,
+        "address": "Friedrichstraße 67-70, 10117 Berlin, Germany",
+        "latitude": 52.512365499999994,
+        "longitude": 13.3899481
+    },
+    {
+        "category": "shopping malls",
+        "title": "Hackesche Höfe",
+        "rating": 4.5,
+        "address": "Rosenthaler Str. 40, 10178 Berlin, Germany",
+        "latitude": 52.524022099999996,
+        "longitude": 13.4024126
+    },
+    {
+        "category": "shopping malls",
+        "title": "Linden-Centre",
+        "rating": 4.1,
+        "address": "Wustrower Str. 1, 13051 Berlin, Germany",
+        "latitude": 52.5641484,
+        "longitude": 13.505679299999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Designer Outlet Berlin",
+        "rating": 4.4,
+        "address": "Alter Spandauer Weg 1, 14641 Wustermark, Germany",
+        "latitude": 52.541759899999995,
+        "longitude": 12.9783426
+    },
+    {
+        "category": "shopping malls",
+        "title": "EASTGATE Berlin",
+        "rating": 4.3,
+        "address": "Marzahner Promenade 1A, 12679 Berlin, Germany",
+        "latitude": 52.543948199999996,
+        "longitude": 13.5446989
+    },
+    {
+        "category": "shopping malls",
+        "title": "das Schloss",
+        "rating": 4.3,
+        "address": "Schloßstraße 34, 12163 Berlin, Germany",
+        "latitude": 52.457813599999994,
+        "longitude": 13.3207668
+    },
+    {
+        "category": "shopping malls",
+        "title": "Zentrum Schöneweide",
+        "rating": 4,
+        "address": "Schnellerstraße 21, 12439 Berlin, Germany",
+        "latitude": 52.457375299999995,
+        "longitude": 13.5075459
+    },
+    {
+        "category": "shopping malls",
+        "title": "Spandau Arcaden",
+        "rating": 4.2,
+        "address": "Klosterstraße 3, 13581 Berlin, Germany",
+        "latitude": 52.5337569,
+        "longitude": 13.196546399999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Brandenburg Gate",
+        "rating": 4.7,
+        "address": "Pariser Platz, 10117 Berlin, Germany",
+        "latitude": 52.516274599999996,
+        "longitude": 13.377704099999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Berlin TV Tower",
+        "rating": 4.4,
+        "address": "Panoramastraße 1A, 10178 Berlin, Germany",
+        "latitude": 52.520815,
+        "longitude": 13.4094191
+    },
+    {
+        "category": "historical sites",
+        "title": "Charlottenburg Palace",
+        "rating": 4.6,
+        "address": "Spandauer Damm 10-22, 14059 Berlin, Germany",
+        "latitude": 52.5209319,
+        "longitude": 13.2956165
+    },
+    {
+        "category": "historical sites",
+        "title": "Berlin Wall Memorial",
+        "rating": 4.6,
+        "address": "Bernauer Str. 111, 13355 Berlin, Germany",
+        "latitude": 52.535052099999994,
+        "longitude": 13.3901898
+    },
+    {
+        "category": "historical sites",
+        "title": "German Historical Museum",
+        "rating": 4.4,
+        "address": "Unter den Linden 2, 10117 Berlin, Germany",
+        "latitude": 52.5186138,
+        "longitude": 13.396359799999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Tränenpalast",
+        "rating": 4.6,
+        "address": "Reichstagufer 17, 10117 Berlin, Germany",
+        "latitude": 52.5209565,
+        "longitude": 13.3872123
+    },
+    {
+        "category": "historical sites",
+        "title": "Berlin Wall",
+        "rating": 4.2,
+        "address": "393 S End Ave, New York, NY 10280",
+        "latitude": 40.7117091,
+        "longitude": -74.0166011
+    },
+    {
+        "category": "historical sites",
+        "title": "East Side Gallery",
+        "rating": 4.6,
+        "address": "Mühlenstraße, 10243 Berlin, Germany",
+        "latitude": 52.505022399999994,
+        "longitude": 13.4396952
+    },
+    {
+        "category": "historical sites",
+        "title": "UNESCO Weltkulturerbe Museumsinsel",
+        "rating": 4.8,
+        "address": "Bodestraße, 10178 Berlin, Germany",
+        "latitude": 52.5195605,
+        "longitude": 13.3988917
+    },
+    {
+        "category": "historical sites",
+        "title": "Altes Museum",
+        "rating": 4.6,
+        "address": "Bodestraße 1-3, 10178 Berlin, Germany",
+        "latitude": 52.5194665,
+        "longitude": 13.3987445
+    },
+    {
+        "category": "historical sites",
+        "title": "Alexanderplatz",
+        "rating": 4.3,
+        "address": "10178 Berlin, Germany",
+        "latitude": 52.521981399999994,
+        "longitude": 13.413305999999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Berlin Cathedral",
+        "rating": 4.6,
+        "address": "Am Lustgarten, 10178 Berlin, Germany",
+        "latitude": 52.5190608,
+        "longitude": 13.401078
+    },
+    {
+        "category": "historical sites",
+        "title": "Berlin Story Bunker",
+        "rating": 4.7,
+        "address": "Schöneberger Str. 23A, 10963 Berlin, Germany",
+        "latitude": 52.5029008,
+        "longitude": 13.3803901
+    },
+    {
+        "category": "historical sites",
+        "title": "Checkpoint Charlie",
+        "rating": 4.1,
+        "address": "Friedrichstraße 43-45, 10117 Berlin, Germany",
+        "latitude": 52.5074434,
+        "longitude": 13.3903913
+    },
+    {
+        "category": "historical sites",
+        "title": "Victory Column",
+        "rating": 4.6,
+        "address": "Großer Stern 1, 10557 Berlin, Germany",
+        "latitude": 52.514522899999996,
+        "longitude": 13.3501085
+    },
+    {
+        "category": "historical sites",
+        "title": "Bismarck-Nationaldenkmal",
+        "rating": 4.7,
+        "address": "Großer Stern, 10557 Berlin, Germany",
+        "latitude": 52.515895,
+        "longitude": 13.349750199999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Humboldt Forum",
+        "rating": 4.4,
+        "address": "Schloßpl., 10178 Berlin, Germany",
+        "latitude": 52.517252199999994,
+        "longitude": 13.401708699999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Pariser Platz",
+        "rating": 4.6,
+        "address": "10117 Berlin, Germany",
+        "latitude": 52.5163857,
+        "longitude": 13.378836199999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Nikolaiviertel",
+        "rating": 4.6,
+        "address": "Rathausstraße 21, 10178 Berlin, Germany",
+        "latitude": 52.5174032,
+        "longitude": 13.407029699999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Historic Traffic Light",
+        "rating": 4.5,
+        "address": "Potsdamer Platz 11, 10785 Berlin, Germany",
+        "latitude": 52.5092352,
+        "longitude": 13.3762894
+    },
+    {
+        "category": "art galleries",
+        "title": "East Side Gallery",
+        "rating": 4.6,
+        "address": "Mühlenstraße, 10243 Berlin, Germany",
+        "latitude": 52.505022399999994,
+        "longitude": 13.4396952
+    },
+    {
+        "category": "art galleries",
+        "title": "KÖNIG GALERIE",
+        "rating": 4.6,
+        "address": "Alexandrinenstraße 118-121, 10969 Berlin, Germany",
+        "latitude": 52.5006336,
+        "longitude": 13.4009082
+    },
+    {
+        "category": "art galleries",
+        "title": "P61 Gallery & Exhibition",
+        "rating": 4.6,
+        "address": "Potsdamer Str. 61, 10785 Berlin, Germany",
+        "latitude": 52.5040184,
+        "longitude": 13.366975
+    },
+    {
+        "category": "art galleries",
+        "title": "Contemporary Fine Arts",
+        "rating": 4.3,
+        "address": "Grolmanstraße 32-33, 10623 Berlin, Germany",
+        "latitude": 52.5037612,
+        "longitude": 13.3236565
+    },
+    {
+        "category": "art galleries",
+        "title": "Berlinische Galerie",
+        "rating": 4.5,
+        "address": "Alte Jakobstraße 124-128, 10969 Berlin, Germany",
+        "latitude": 52.5039563,
+        "longitude": 13.3981579
+    },
+    {
+        "category": "art galleries",
+        "title": "Alte Nationalgalerie",
+        "rating": 4.5,
+        "address": "Bodestraße 1-3, 10178 Berlin, Germany",
+        "latitude": 52.520810399999995,
+        "longitude": 13.398352899999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Kunstraum Kreuzberg/Bethanien",
+        "rating": 4.5,
+        "address": "Mariannenpl. 2, 10997 Berlin, Germany",
+        "latitude": 52.5044596,
+        "longitude": 13.423787299999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Eigen + Art",
+        "rating": 4.5,
+        "address": "Auguststraße 26, 10117 Berlin, Germany",
+        "latitude": 52.5269196,
+        "longitude": 13.397119799999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Galleri Heike Arndt DK (Galerie)",
+        "rating": 4.7,
+        "address": "Voigtstraße 12, 10247 Berlin, Germany",
+        "latitude": 52.517792799999995,
+        "longitude": 13.469130499999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Zozoville Gallery",
+        "rating": 4.8,
+        "address": "Simon-Dach-Straße 31, 10245 Berlin, Germany",
+        "latitude": 52.5089756,
+        "longitude": 13.45598
+    },
+    {
+        "category": "art galleries",
+        "title": "art4berlin GALERIE",
+        "rating": 4.7,
+        "address": "Wundtstraße 62, 14057 Berlin, Germany",
+        "latitude": 52.507312899999995,
+        "longitude": 13.2849544
+    },
+    {
+        "category": "art galleries",
+        "title": "Gemäldegalerie",
+        "rating": 4.6,
+        "address": "Johanna und Eduard Arnhold Platz, 10785 Berlin, Germany",
+        "latitude": 52.5084982,
+        "longitude": 13.3651754
+    },
+    {
+        "category": "art galleries",
+        "title": "CAMERA WORK Photogallery",
+        "rating": 4.7,
+        "address": "Kantstraße 149, 10623 Berlin, Germany",
+        "latitude": 52.505522299999996,
+        "longitude": 13.324570099999999
+    },
+    {
+        "category": "art galleries",
+        "title": "DITTRICH & Schlechtriem Gallery",
+        "rating": 4.7,
+        "address": "Linienstraße 23, 10178 Berlin, Germany",
+        "latitude": 52.527638499999995,
+        "longitude": 13.412347599999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Buchmann Galerie",
+        "rating": 4.4,
+        "address": "Charlottenstraße 13, 10969 Berlin, Germany",
+        "latitude": 52.5072505,
+        "longitude": 13.3926584
+    },
+    {
+        "category": "art galleries",
+        "title": "BBA Gallery",
+        "rating": 4.7,
+        "address": "Köpenicker Str. 96, 10179 Berlin, Germany",
+        "latitude": 52.51112,
+        "longitude": 13.4152685
+    },
+    {
+        "category": "art galleries",
+        "title": "Mojavari Gallery / Galerie Mojavari",
+        "rating": 5,
+        "address": "Koppenpl. 2, 10115 Berlin, Germany",
+        "latitude": 52.5276484,
+        "longitude": 13.3981271
+    },
+    {
+        "category": "art galleries",
+        "title": "Boros Collection",
+        "rating": 4.5,
+        "address": "Reinhardtstraße 20, 10117 Berlin, Germany",
+        "latitude": 52.5235298,
+        "longitude": 13.3841109
+    },
+    {
+        "category": "art galleries",
+        "title": "New National Gallery",
+        "rating": 4.6,
+        "address": "Potsdamer Str. 50, 10785 Berlin, Germany",
+        "latitude": 52.5069946,
+        "longitude": 13.367604
+    },
+    {
+        "category": "art galleries",
+        "title": "Pandora Art Gallery",
+        "rating": 4.7,
+        "address": "Mittenwalder Str. 6, 10961 Berlin, Germany",
+        "latitude": 52.4938821,
+        "longitude": 13.397127
+    },
+    {
+        "category": "theaters",
+        "title": "Friedrichstadt-Palast",
+        "rating": 4.7,
+        "address": "Friedrichstraße 107, 10117 Berlin, Germany",
+        "latitude": 52.52393,
+        "longitude": 13.388821
+    },
+    {
+        "category": "theaters",
+        "title": "Wintergarten Berlin",
+        "rating": 4.7,
+        "address": "Potsdamer Str. 96, 10785 Berlin, Germany",
+        "latitude": 52.502210299999994,
+        "longitude": 13.3645704
+    },
+    {
+        "category": "theaters",
+        "title": "Stage Theater des Westens",
+        "rating": 4.7,
+        "address": "Kantstraße 12, 10623 Berlin, Germany",
+        "latitude": 52.5056903,
+        "longitude": 13.3290618
+    },
+    {
+        "category": "theaters",
+        "title": "Admiralspalast",
+        "rating": 4.4,
+        "address": "Vorderhaus, Friedrichstraße 101, 10117 Berlin, Germany",
+        "latitude": 52.5208205,
+        "longitude": 13.3889924
+    },
+    {
+        "category": "theaters",
+        "title": "TIPI AM KANZLERAMT Theater",
+        "rating": 4.6,
+        "address": "Große Querallee, 10557 Berlin, Germany",
+        "latitude": 52.5184527,
+        "longitude": 13.3671312
+    },
+    {
+        "category": "theaters",
+        "title": "Deutsche Oper Berlin",
+        "rating": 4.6,
+        "address": "Bismarckstraße 35, 10627 Berlin, Germany",
+        "latitude": 52.512079299999996,
+        "longitude": 13.308347999999999
+    },
+    {
+        "category": "theaters",
+        "title": "Berliner Ensemble",
+        "rating": 4.6,
+        "address": "Bertolt-Brecht-Platz 1, 10117 Berlin, Germany",
+        "latitude": 52.5221356,
+        "longitude": 13.3860543
+    },
+    {
+        "category": "theaters",
+        "title": "English Theatre Berlin | International Performing Arts Center",
+        "rating": 4.5,
+        "address": "Fidicinstraße 40, 10965 Berlin, Germany",
+        "latitude": 52.487220699999995,
+        "longitude": 13.3884406
+    },
+    {
+        "category": "theaters",
+        "title": "Maxim Gorki Theater",
+        "rating": 4.5,
+        "address": "Am Festungsgraben 2, 10117 Berlin, Germany",
+        "latitude": 52.5188889,
+        "longitude": 13.395
+    },
+    {
+        "category": "theaters",
+        "title": "Schaubühne",
+        "rating": 4.7,
+        "address": "Kurfürstendamm 153, 10709 Berlin, Germany",
+        "latitude": 52.4987972,
+        "longitude": 13.302375
+    },
+    {
+        "category": "theaters",
+        "title": "Deutsches Theater",
+        "rating": 4.6,
+        "address": "Schumannstraße 13A, 10117 Berlin, Germany",
+        "latitude": 52.5243214,
+        "longitude": 13.3819381
+    },
+    {
+        "category": "theaters",
+        "title": "Berlin State Opera",
+        "rating": 4.7,
+        "address": "Unter den Linden 7, 10117 Berlin, Germany",
+        "latitude": 52.5171049,
+        "longitude": 13.394703
+    },
+    {
+        "category": "theaters",
+        "title": "Volksbühne am Rosa-Luxemburg-Platz",
+        "rating": 4.6,
+        "address": "Linienstraße 227, 10178 Berlin, Germany",
+        "latitude": 52.526732499999994,
+        "longitude": 13.411731999999999
+    },
+    {
+        "category": "theaters",
+        "title": "Ballhaus Naunynstrasse",
+        "rating": 4.5,
+        "address": "Naunynstraße 27, 10997 Berlin, Germany",
+        "latitude": 52.5020343,
+        "longitude": 13.421297899999999
+    },
+    {
+        "category": "theaters",
+        "title": "Komische Oper Berlin @Schillertheater",
+        "rating": 4.7,
+        "address": "Bismarckstraße 110, 10625 Berlin, Germany",
+        "latitude": 52.511625099999996,
+        "longitude": 13.3183943
+    },
+    {
+        "category": "theaters",
+        "title": "Berliner Kriminal Theater",
+        "rating": 4.5,
+        "address": "Palisadenstraße 48, 10243 Berlin, Germany",
+        "latitude": 52.5182484,
+        "longitude": 13.439999499999999
+    },
+    {
+        "category": "theaters",
+        "title": "Grips-Theater",
+        "rating": 4.6,
+        "address": "Altonaer Str. 22, 10557 Berlin, Germany",
+        "latitude": 52.518639,
+        "longitude": 13.3416114
+    },
+    {
+        "category": "theaters",
+        "title": "HAU Hebbel am Ufer (HAU2)",
+        "rating": 4.6,
+        "address": "Hallesches Ufer 34, 10963 Berlin, Germany",
+        "latitude": 52.499161099999995,
+        "longitude": 13.385837299999999
+    },
+    {
+        "category": "theaters",
+        "title": "Kulturfabrik Moabit",
+        "rating": 4.5,
+        "address": "Lehrter Str. 35, 10557 Berlin, Germany",
+        "latitude": 52.5342665,
+        "longitude": 13.3592104
+    },
+    {
+        "category": "theaters",
+        "title": "Prime Time Theater",
+        "rating": 4.7,
+        "address": "Eingang, Müllerstraße, Burgsdorfstraße 163, 13353 Berlin, Germany",
+        "latitude": 52.5434547,
+        "longitude": 13.3633891
+    },
+    {
+        "category": "souvenir counters",
+        "title": "I LOVE BERLIN - MUDDASTADT GmbH",
+        "rating": 4.1,
+        "address": "Alexanderpl. 2, 10178 Berlin, Germany",
+        "latitude": 52.5209234,
+        "longitude": 13.4130249
+    },
+    {
+        "category": "souvenir counters",
+        "title": "BERLIN Store - MUDDASTADT GmbH",
+        "rating": 4,
+        "address": "Alea 101, Rathausstraße 6, 10178 Berlin, Germany",
+        "latitude": 52.5209184,
+        "longitude": 13.410797299999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "BERLIN STORE",
+        "rating": 4.3,
+        "address": "Unter den Linden 41a, 10117 Berlin, Germany",
+        "latitude": 52.516575599999996,
+        "longitude": 13.3865854
+    },
+    {
+        "category": "souvenir counters",
+        "title": "AMPELMANN Shop Unter den Linden",
+        "rating": 4.4,
+        "address": "Unter den Linden 35, 10117 Berlin, Germany",
+        "latitude": 52.5166998,
+        "longitude": 13.3886798
+    },
+    {
+        "category": "souvenir counters",
+        "title": "AMPELMANN Shop am Berliner Dom",
+        "rating": 4.4,
+        "address": "Karl-Liebknecht-Str. 5, 10178 Berlin, Germany",
+        "latitude": 52.519541999999994,
+        "longitude": 13.4031031
+    },
+    {
+        "category": "souvenir counters",
+        "title": "I love Berlin",
+        "rating": 4.3,
+        "address": "LP12 Mall of Berlin, Leipziger Pl. 12, 10117 Berlin, Germany",
+        "latitude": 52.5102629,
+        "longitude": 13.3803399
+    },
+    {
+        "category": "souvenir counters",
+        "title": "BERLIN Souvenir-Store - DomAquarée",
+        "rating": 4.7,
+        "address": "Karl-Liebknecht-Str. 5, 10178 Berlin, Germany",
+        "latitude": 52.519993299999996,
+        "longitude": 13.4041629
+    },
+    {
+        "category": "souvenir counters",
+        "title": "AMPELMANN shop in the Hackescher Markt",
+        "rating": 4.4,
+        "address": "Hackesche Höfe, Rosenthaler Str. 40-41, 10178 Berlin, Germany",
+        "latitude": 52.524942599999996,
+        "longitude": 13.4008945
+    },
+    {
+        "category": "souvenir counters",
+        "title": "BERLIN Souvenir-Store - Mall of Berlin",
+        "rating": 4.2,
+        "address": "Leipziger Pl. 12, 10117 Berlin, Germany",
+        "latitude": 52.510110999999995,
+        "longitude": 13.3795904
+    },
+    {
+        "category": "souvenir counters",
+        "title": "SOUVENIRS",
+        "rating": 2.7,
+        "address": "Pariser Platz 4a, 10117 Berlin, Germany",
+        "latitude": 52.5168665,
+        "longitude": 13.3797014
+    },
+    {
+        "category": "souvenir counters",
+        "title": "BERLIN MOMENTS",
+        "rating": 4.2,
+        "address": "Unter den Linden 24, 10117 Berlin, Germany",
+        "latitude": 52.5172952,
+        "longitude": 13.3884408
+    },
+    {
+        "category": "souvenir counters",
+        "title": "T.O.T.S - The Original Tourist Store",
+        "rating": 4,
+        "address": "Unter den Linden 69c, 10117 Berlin, Germany",
+        "latitude": 52.5162592,
+        "longitude": 13.381848699999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirshop",
+        "rating": 4.1,
+        "address": "Unter den Linden 74, 10117 Berlin, Germany",
+        "latitude": 52.516895399999996,
+        "longitude": 13.381304
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Berlin Loves You",
+        "rating": 4.4,
+        "address": "Zimmerstraße 100, 10117 Berlin, Germany",
+        "latitude": 52.5076198,
+        "longitude": 13.3857772
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Berlin Souvenirs",
+        "rating": 2.7,
+        "address": "Erdgeschoss, Haupthalle, Am Ostbahnhof 9, 10243 Berlin, Germany",
+        "latitude": 52.5096795,
+        "longitude": 13.434861399999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Berlins Souvenirs x Kiosk",
+        "rating": 4.7,
+        "address": "Potsdamer Platz 10, 10785 Berlin, Germany",
+        "latitude": 52.5080102,
+        "longitude": 13.37754
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Berlin Souvenir Shop",
+        "rating": 4.3,
+        "address": "Joachimsthaler Str. 38, 10623 Berlin, Germany",
+        "latitude": 52.504435,
+        "longitude": 13.3317441
+    },
+    {
+        "category": "souvenir counters",
+        "title": "BERLIN Souvenir-Store - The Wall Store",
+        "rating": 3.9,
+        "address": "Mercedes Platz 1, 10243 Berlin, Germany",
+        "latitude": 52.504425499999996,
+        "longitude": 13.4423747
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Berlin Souvenirs",
+        "rating": 5,
+        "address": "Ebertstraße 2, 10117 Berlin, Germany",
+        "latitude": 52.5116916,
+        "longitude": 13.3767225
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Kiosk/Souvenir am Alexanderplatz",
+        "rating": 3.9,
+        "address": "Alexanderstraße 1, 10178 Berlin, Germany",
+        "latitude": 52.5241727,
+        "longitude": 13.413467899999999
+    }
+]

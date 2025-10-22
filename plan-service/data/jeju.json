@@ -1,0 +1,3778 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Seogwipo Jeongbang Waterfall",
+        "rating": 4.5,
+        "address": "37 Chilsimni-ro 214beon-gil, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.244852099999996,
+        "longitude": 126.57180319999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hallasan National Park",
+        "rating": 4.7,
+        "address": "2070-61 1100로, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3606281,
+        "longitude": 126.53583449999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hyeopjae Beach",
+        "rating": 4.6,
+        "address": "329-10 Hallim-ro, Hallim-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3942945,
+        "longitude": 126.2398813
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Maze Land",
+        "rating": 4.2,
+        "address": "2134-47 비자림로 Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.488741499999996,
+        "longitude": 126.80095139999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Sangumburi",
+        "rating": 4.4,
+        "address": "768 Bijarim-ro, Jocheon-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.433029999999995,
+        "longitude": 126.690658
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Jejumok Gwana",
+        "rating": 4.2,
+        "address": "13 Gwandeok-ro 7-gil, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.513622999999995,
+        "longitude": 126.5220324
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Mysterious Road",
+        "rating": 3.8,
+        "address": "2894-63 1100-ro, 노형동, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4511642,
+        "longitude": 126.48780819999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hallim Park",
+        "rating": 4.4,
+        "address": "300 Hallim-ro, Hallim-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3895279,
+        "longitude": 126.23928839999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "제주빅볼랜드",
+        "rating": 3.6,
+        "address": "South Korea, Jeju-do, Jeju-si, Aewol-eup, Sallokseo-ro, 15, 韓國 Jeju-do, Cheju, Aewol-eup",
+        "latitude": 33.389223199999996,
+        "longitude": 126.3780046
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Gimnyeong Maze Park",
+        "rating": 4.2,
+        "address": "122 Manjanggul-gil, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5368768,
+        "longitude": 126.7725371
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Spirited Garden",
+        "rating": 4.3,
+        "address": "675 Nokchabunjae-ro, Hangyeong-myeon, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3257082,
+        "longitude": 126.2552516
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hello Kitty Island",
+        "rating": 4,
+        "address": "340 Hanchang-ro, Andeok-myeon, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.2902148,
+        "longitude": 126.3520461
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Secret Forest",
+        "rating": 4,
+        "address": "2170 Songdang-ri, Gujwa-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4535329,
+        "longitude": 126.7557039
+    },
+    {
+        "category": "tourist attractions",
+        "title": "일출랜드",
+        "rating": 4.1,
+        "address": "4150-30 Jungsangandong-ro, Seongsan-eup, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3822761,
+        "longitude": 126.8418303
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Manjanggul Lava Tube",
+        "rating": 4.2,
+        "address": "182 Manjanggul-gil, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5282463,
+        "longitude": 126.7702874
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Cheonjiyeon Waterfalls",
+        "rating": 4.4,
+        "address": "2-15 Namseongjung-ro, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.246899899999995,
+        "longitude": 126.5545049
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Lee Jung Seop Street",
+        "rating": 3.9,
+        "address": "Seogwi-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2448955,
+        "longitude": 126.5644569
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Seopjikoji",
+        "rating": 4.4,
+        "address": "Seopjikoji-ro, Seongsan-eup, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.424209499999996,
+        "longitude": 126.931111
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Cherry blossom tunnel",
+        "rating": 4.6,
+        "address": "1121-4 Jangjeon-ri, Aewol-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4520422,
+        "longitude": 126.3843768
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Alive Museum Jeju",
+        "rating": 4.2,
+        "address": "42 Jungmungwangwang-ro, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.254917999999996,
+        "longitude": 126.4087189
+    },
+    {
+        "category": "parks",
+        "title": "Jeju Stone Park",
+        "rating": 4.4,
+        "address": "2023 Namjo-ro, Jocheon-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4485653,
+        "longitude": 126.65865819999999
+    },
+    {
+        "category": "parks",
+        "title": "Hallim Park",
+        "rating": 4.4,
+        "address": "300 Hallim-ro, Hallim-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3895279,
+        "longitude": 126.23928839999999
+    },
+    {
+        "category": "parks",
+        "title": "Hallasan National Park",
+        "rating": 4.7,
+        "address": "2070-61 1100로, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3606281,
+        "longitude": 126.53583449999999
+    },
+    {
+        "category": "parks",
+        "title": "Jeju 4 · 3 Peace Park",
+        "rating": 4.7,
+        "address": "430 Myeongnim-ro, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.451659899999996,
+        "longitude": 126.618983
+    },
+    {
+        "category": "parks",
+        "title": "Hueree Nature Life Park",
+        "rating": 3.9,
+        "address": "256 Sillyedong-ro, Namwon-eup, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3087565,
+        "longitude": 126.63379379999999
+    },
+    {
+        "category": "parks",
+        "title": "Gimnyeong Maze Park",
+        "rating": 4.2,
+        "address": "122 Manjanggul-gil, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5368768,
+        "longitude": 126.7725371
+    },
+    {
+        "category": "parks",
+        "title": "Sarabong Park",
+        "rating": 4.5,
+        "address": "74 Sarabongdong-gil, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.517740499999995,
+        "longitude": 126.54491349999999
+    },
+    {
+        "category": "parks",
+        "title": "제주신산근린공원",
+        "rating": 4.4,
+        "address": "885 Ildo 2(i)-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5059296,
+        "longitude": 126.53297599999999
+    },
+    {
+        "category": "parks",
+        "title": "제주절물자연휴양림",
+        "rating": 4.6,
+        "address": "584 Myeongnim-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4393622,
+        "longitude": 126.62991
+    },
+    {
+        "category": "parks",
+        "title": "삼무공원",
+        "rating": 4.2,
+        "address": "270-5 연동, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4918224,
+        "longitude": 126.4917277
+    },
+    {
+        "category": "parks",
+        "title": "Hwansang Forest",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Hangyeong-myeon, Nokchabunjae-ro, 594-1, KR",
+        "latitude": 33.322576399999996,
+        "longitude": 126.2633048
+    },
+    {
+        "category": "parks",
+        "title": "Halla Arboretum, Jeju Island,S.Korea",
+        "rating": 4.3,
+        "address": "72 Sumogwon-gil, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4699272,
+        "longitude": 126.49324449999999
+    },
+    {
+        "category": "parks",
+        "title": "Jaguri Park",
+        "rating": 4.3,
+        "address": "38-3 Songsan-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.242182899999996,
+        "longitude": 126.56719079999999
+    },
+    {
+        "category": "parks",
+        "title": "Maze Land",
+        "rating": 4.2,
+        "address": "2134-47 비자림로 Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.488741499999996,
+        "longitude": 126.80095139999999
+    },
+    {
+        "category": "parks",
+        "title": "한라 생태숲",
+        "rating": 4.5,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도 516-ro, 2596",
+        "latitude": 33.431635899999996,
+        "longitude": 126.603808
+    },
+    {
+        "category": "parks",
+        "title": "Spirited Garden",
+        "rating": 4.3,
+        "address": "675 Nokchabunjae-ro, Hangyeong-myeon, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3257082,
+        "longitude": 126.2552516
+    },
+    {
+        "category": "parks",
+        "title": "9.81 Park Jeju",
+        "rating": 4.4,
+        "address": "880-24 Cheondeok-ro, Aewol-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3899391,
+        "longitude": 126.3663248
+    },
+    {
+        "category": "parks",
+        "title": "Bijarim Forest",
+        "rating": 4.6,
+        "address": "55 Bijasup-gil, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.484272,
+        "longitude": 126.80647929999999
+    },
+    {
+        "category": "parks",
+        "title": "Jeju Dinosaur Theme Park",
+        "rating": 3.6,
+        "address": "1 Gwangnyeongpyeonghwa 2-gil, Aewol-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4412568,
+        "longitude": 126.4340338
+    },
+    {
+        "category": "parks",
+        "title": "사려니숲길 - 비자림로 입출구",
+        "rating": 4.4,
+        "address": "산 137-1 Gyorae-ri, Jocheon-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.422686999999996,
+        "longitude": 126.6264198
+    },
+    {
+        "category": "restaurants",
+        "title": "Gozip Dol Wooluck",
+        "rating": 4.6,
+        "address": "30 Imhang-ro, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5163089,
+        "longitude": 126.528071
+    },
+    {
+        "category": "restaurants",
+        "title": "Bada Punggyeong",
+        "rating": 4.4,
+        "address": "바다풍경 정육식당, 654 Seohaean-ro, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5162701,
+        "longitude": 126.5069544
+    },
+    {
+        "category": "restaurants",
+        "title": "Ujin Haejangguk",
+        "rating": 4.1,
+        "address": "11 Seosa-ro, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.511505,
+        "longitude": 126.52003189999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Jeju Asalam Restaurant",
+        "rating": 4.8,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Samdo-dong, 1-2, KR",
+        "latitude": 33.5165402,
+        "longitude": 126.524197
+    },
+    {
+        "category": "restaurants",
+        "title": "CHUNSHIM",
+        "rating": 4.2,
+        "address": "16 Changcheonjungang-ro 24beon-gil, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.264495,
+        "longitude": 126.37064699999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Gozip Dol Wooluck Jungmun",
+        "rating": 4.7,
+        "address": "879 Iljuseo-ro, 특별자치도 Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.257917299999995,
+        "longitude": 126.4168242
+    },
+    {
+        "category": "restaurants",
+        "title": "Donsadon (Main Branch)",
+        "rating": 4.1,
+        "address": "3086-3 노형동, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4788707,
+        "longitude": 126.46408369999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Myeongjin Jeonbok Abalone Restaurant",
+        "rating": 4.1,
+        "address": "1282 Haemajihaean-ro, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5324891,
+        "longitude": 126.8502082
+    },
+    {
+        "category": "restaurants",
+        "title": "Jeju Gommak Restaurant",
+        "rating": 4.3,
+        "address": "64 Gujwahaean-ro, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.556821,
+        "longitude": 126.720503
+    },
+    {
+        "category": "restaurants",
+        "title": "Indian Kitchen",
+        "rating": 4.5,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Aewol-eup, Aewon-ro, 191, KR",
+        "latitude": 33.4504215,
+        "longitude": 126.33078839999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Jong Ga Abalone Restaurant",
+        "rating": 4.9,
+        "address": "1296 Haemajihaean-ro, Gujwa-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.531892299999996,
+        "longitude": 126.8511343
+    },
+    {
+        "category": "restaurants",
+        "title": "Gozip Dol Wooluck Hamdeok",
+        "rating": 4.6,
+        "address": "2 층, 491-9 Sinbuk-ro, Jocheon-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5438111,
+        "longitude": 126.66301589999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Ollae Guksu",
+        "rating": 4.1,
+        "address": "24 Gwiarang-gil, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.491519499999995,
+        "longitude": 126.49725769999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Macho Grill",
+        "rating": 4.6,
+        "address": "39 중앙로, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5147489,
+        "longitude": 126.5249779
+    },
+    {
+        "category": "restaurants",
+        "title": "88 Pork",
+        "rating": 4.6,
+        "address": "261-10 연동, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4893284,
+        "longitude": 126.48956679999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Warda restaurant",
+        "rating": 4.7,
+        "address": "24-1 Gwandeok-ro 8-gil, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5110433,
+        "longitude": 126.52311669999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Sushi Hoshikai",
+        "rating": 4.6,
+        "address": "90 Onam-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4877968,
+        "longitude": 126.5176085
+    },
+    {
+        "category": "restaurants",
+        "title": "Zen Hideaway",
+        "rating": 4.4,
+        "address": "186-8 Sagyenam-ro, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2292312,
+        "longitude": 126.3086165
+    },
+    {
+        "category": "restaurants",
+        "title": "Yuri-ne Restaurant",
+        "rating": 3.8,
+        "address": "146 Yeonbuk-ro, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4813235,
+        "longitude": 126.49708129999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Sanbang Restaurant Jeju",
+        "rating": 4,
+        "address": "10-5 Gunam-ro 8-gil, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.490217,
+        "longitude": 126.53603969999999
+    },
+    {
+        "category": "cafes",
+        "title": "Haejigae Cafe",
+        "rating": 4.8,
+        "address": "52 Aewolbukseo-gil, Aewol-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4642136,
+        "longitude": 126.3089572
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Del Moondo",
+        "rating": 4.1,
+        "address": "519-10 Johamhaean-ro, Jocheon-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5437787,
+        "longitude": 126.6688353
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Lucia",
+        "rating": 4.4,
+        "address": "49-17 Nandeureu-ro, Andeok-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.235087,
+        "longitude": 126.3630682
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Hallasan",
+        "rating": 4.3,
+        "address": "48 Myeonsu 1-gil, Gujwa-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5246978,
+        "longitude": 126.8629837
+    },
+    {
+        "category": "cafes",
+        "title": "VIEWST",
+        "rating": 4.4,
+        "address": "30 Hyeongjehaean-ro, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.227813499999996,
+        "longitude": 126.303557
+    },
+    {
+        "category": "cafes",
+        "title": "Alice Cafe Jeju City Hall Location",
+        "rating": 4.6,
+        "address": "36-1 Seogwang-ro 32-gil, Ido 2(i)-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4975599,
+        "longitude": 126.52961549999999
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee Temple Jeju",
+        "rating": 4.5,
+        "address": "269 Yeongpyeong-gil, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4781416,
+        "longitude": 126.5702901
+    },
+    {
+        "category": "cafes",
+        "title": "Koriko Cafe Jeju Branch",
+        "rating": 4.9,
+        "address": "1199 Bijarim-ro, Gujwa-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4364566,
+        "longitude": 126.73259189999999
+    },
+    {
+        "category": "cafes",
+        "title": "Morebi Cafe",
+        "rating": 4.5,
+        "address": "462 Haemajihaean-ro, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5555867,
+        "longitude": 126.79623939999999
+    },
+    {
+        "category": "cafes",
+        "title": "Bomnal",
+        "rating": 4.2,
+        "address": "25 Aewol-ro 1-gil, Aewol-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4624302,
+        "longitude": 126.3096374
+    },
+    {
+        "category": "cafes",
+        "title": "ONE AND ONLY",
+        "rating": 4.2,
+        "address": "141 Sanbang-ro, Andeok-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2392241,
+        "longitude": 126.31937479999999
+    },
+    {
+        "category": "cafes",
+        "title": "Hueilot",
+        "rating": 4.4,
+        "address": "49-65 Nandeureu-ro, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2323988,
+        "longitude": 126.3662045
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Gyulkkot Darak",
+        "rating": 4.5,
+        "address": "34 Ieodo-ro 1027beon-gil, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2464249,
+        "longitude": 126.52259769999999
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee Finder",
+        "rating": 4.7,
+        "address": "20 Seogwang-ro 32-gil, Ido 2(i)-dong, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.498621,
+        "longitude": 126.5287237
+    },
+    {
+        "category": "cafes",
+        "title": "Mônsant",
+        "rating": 3.6,
+        "address": "25-4 Aewol-ro 1-gil, Aewol-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.462854799999995,
+        "longitude": 126.3092669
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe the Container",
+        "rating": 4.7,
+        "address": "513 Hamwa-ro, Jocheon-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.498136599999995,
+        "longitude": 126.67899639999999
+    },
+    {
+        "category": "cafes",
+        "title": "Honeymoon House",
+        "rating": 4.5,
+        "address": "228-13 Chilsimni-ro, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2441415,
+        "longitude": 126.57877409999999
+    },
+    {
+        "category": "cafes",
+        "title": "Blue Bottle Coffee Jeju Cafe",
+        "rating": 4.2,
+        "address": "2133-30 번영로 Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.43318,
+        "longitude": 126.7507907
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Glencoe",
+        "rating": 4,
+        "address": "886 Songdang-ri, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4335091,
+        "longitude": 126.7333688
+    },
+    {
+        "category": "cafes",
+        "title": "Oleun (Orrrn)",
+        "rating": 4.6,
+        "address": "394 Ojo-ri, Seongsan-eup, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.4717785,
+        "longitude": 126.9157889
+    },
+    {
+        "category": "mountains",
+        "title": "Hallasan",
+        "rating": 4.7,
+        "address": "Seogwipo-si, South Korea",
+        "latitude": 33.3616666,
+        "longitude": 126.5291666
+    },
+    {
+        "category": "mountains",
+        "title": "Seongsan Ilchulbong",
+        "rating": 4.7,
+        "address": "Seogwipo-si, South Korea",
+        "latitude": 33.458056,
+        "longitude": 126.9425
+    },
+    {
+        "category": "mountains",
+        "title": "Top of Hallasan Mountain",
+        "rating": 4.9,
+        "address": "Odeung-dong, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3623285,
+        "longitude": 126.5359841
+    },
+    {
+        "category": "mountains",
+        "title": "Maak-san",
+        "rating": 4.2,
+        "address": "Seogwipo, South Korea",
+        "latitude": 33.300555599999996,
+        "longitude": 126.5541667
+    },
+    {
+        "category": "mountains",
+        "title": "Hallasan National Park",
+        "rating": 4.7,
+        "address": "2070-61 1100로, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3606281,
+        "longitude": 126.53583449999999
+    },
+    {
+        "category": "mountains",
+        "title": "Chagunorum",
+        "rating": 3.8,
+        "address": "Cheju, South Korea",
+        "latitude": 33.3927778,
+        "longitude": 126.41749999999999
+    },
+    {
+        "category": "mountains",
+        "title": "Pulgun-orum",
+        "rating": 4.6,
+        "address": "Seogwipo-si, South Korea",
+        "latitude": 33.3997222,
+        "longitude": 126.6794444
+    },
+    {
+        "category": "mountains",
+        "title": "Ch'ona-orum",
+        "rating": null,
+        "address": "Cheju, South Korea",
+        "latitude": 33.404444399999996,
+        "longitude": 126.2980556
+    },
+    {
+        "category": "mountains",
+        "title": "Pulgun-orum",
+        "rating": 4.3,
+        "address": "Jeju-si, South Korea",
+        "latitude": 33.3752778,
+        "longitude": 126.45888889999999
+    },
+    {
+        "category": "mountains",
+        "title": "Nun-orum",
+        "rating": null,
+        "address": "Cheju, South Korea",
+        "latitude": 33.459444399999995,
+        "longitude": 126.4744444
+    },
+    {
+        "category": "mountains",
+        "title": "Isung-ak",
+        "rating": 4.3,
+        "address": "Seogwipo, South Korea",
+        "latitude": 33.339999999999996,
+        "longitude": 126.62194439999999
+    },
+    {
+        "category": "mountains",
+        "title": "Saebyor-orum",
+        "rating": 4.4,
+        "address": "Jeju-si, South Korea",
+        "latitude": 33.3661111,
+        "longitude": 126.35749999999999
+    },
+    {
+        "category": "mountains",
+        "title": "Kum-orum",
+        "rating": 3.8,
+        "address": "Cheju, South Korea",
+        "latitude": 33.3544444,
+        "longitude": 126.30555559999999
+    },
+    {
+        "category": "mountains",
+        "title": "Hug-ak",
+        "rating": 1,
+        "address": "Seogwipo, South Korea",
+        "latitude": 33.3491667,
+        "longitude": 126.6186111
+    },
+    {
+        "category": "mountains",
+        "title": "Saryoni",
+        "rating": 4.6,
+        "address": "Seogwipo-si, South Korea",
+        "latitude": 33.340277799999996,
+        "longitude": 126.6455556
+    },
+    {
+        "category": "mountains",
+        "title": "Sangyo-orum",
+        "rating": 4.7,
+        "address": "Cheju, South Korea",
+        "latitude": 33.4655556,
+        "longitude": 126.49138889999999
+    },
+    {
+        "category": "mountains",
+        "title": "Suryong-san",
+        "rating": 4.4,
+        "address": "Seogwipo-si, South Korea",
+        "latitude": 33.368333299999996,
+        "longitude": 126.6919444
+    },
+    {
+        "category": "mountains",
+        "title": "Sor-orum",
+        "rating": 5,
+        "address": "Seogwipo, South Korea",
+        "latitude": 33.3708333,
+        "longitude": 126.7694444
+    },
+    {
+        "category": "mountains",
+        "title": "송악산",
+        "rating": 4.6,
+        "address": "South Korea, Seogwipo-si",
+        "latitude": 33.1977951,
+        "longitude": 126.29192189999999
+    },
+    {
+        "category": "mountains",
+        "title": "Songaksan Mountain Trail",
+        "rating": 4.7,
+        "address": "421-1 Songakgwangwang-ro, Daejeong-eup, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2043511,
+        "longitude": 126.28961369999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cheonjeyeon Waterfalls",
+        "rating": 4.3,
+        "address": "2232 Jungmun-dong, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.250667799999995,
+        "longitude": 126.41677259999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cheonjiyeon Waterfall",
+        "rating": 4.4,
+        "address": "Seogwipo, South Korea",
+        "latitude": 33.246944,
+        "longitude": 126.554417
+    },
+    {
+        "category": "waterfalls",
+        "title": "Seogwipo Jeongbang Waterfall",
+        "rating": 4.5,
+        "address": "37 Chilsimni-ro 214beon-gil, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.244852099999996,
+        "longitude": 126.57180319999999
+    },
+    {
+        "category": "lakes",
+        "title": "Yongdang-mot",
+        "rating": 2,
+        "address": "Cheju",
+        "latitude": 33.3236111,
+        "longitude": 126.1847222
+    },
+    {
+        "category": "lakes",
+        "title": "Mot-mot",
+        "rating": null,
+        "address": "Cheju",
+        "latitude": 33.3525,
+        "longitude": 126.19277779999999
+    },
+    {
+        "category": "lakes",
+        "title": "Homunbat-chosuji",
+        "rating": 5,
+        "address": "Jeju-si",
+        "latitude": 33.2952778,
+        "longitude": 126.1816667
+    },
+    {
+        "category": "lakes",
+        "title": "Hanbalk-chosuji",
+        "rating": null,
+        "address": "Cheju",
+        "latitude": 33.4136111,
+        "longitude": 126.4822222
+    },
+    {
+        "category": "lakes",
+        "title": "Sobu-josuji",
+        "rating": 3,
+        "address": "Cheju",
+        "latitude": 33.317499999999995,
+        "longitude": 126.1872222
+    },
+    {
+        "category": "lakes",
+        "title": "Baengnokdam Lake",
+        "rating": 4.7,
+        "address": "San15-1, Topyeong-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.362246999999996,
+        "longitude": 126.5334223
+    },
+    {
+        "category": "lakes",
+        "title": "Sondang-mot",
+        "rating": 3,
+        "address": "Seogwipo",
+        "latitude": 33.2705556,
+        "longitude": 126.21
+    },
+    {
+        "category": "lakes",
+        "title": "Yonhwaji",
+        "rating": 3.5,
+        "address": "Seogwipo",
+        "latitude": 33.3311111,
+        "longitude": 126.3641667
+    },
+    {
+        "category": "lakes",
+        "title": "Wollang-ji",
+        "rating": null,
+        "address": "Seogwipo",
+        "latitude": 33.411944399999996,
+        "longitude": 126.8252778
+    },
+    {
+        "category": "lakes",
+        "title": "Taejong-josuji",
+        "rating": null,
+        "address": "Seogwipo",
+        "latitude": 33.2483333,
+        "longitude": 126.2363889
+    },
+    {
+        "category": "lakes",
+        "title": "Yangoe-mot",
+        "rating": null,
+        "address": "Seogwipo-si",
+        "latitude": 33.4361111,
+        "longitude": 126.7969444
+    },
+    {
+        "category": "lakes",
+        "title": "Kwangnyong-josuji",
+        "rating": 2.5,
+        "address": "Cheju",
+        "latitude": 33.4713889,
+        "longitude": 126.4261111
+    },
+    {
+        "category": "lakes",
+        "title": "Sindo-josuji",
+        "rating": 4.6,
+        "address": "Seogwipo",
+        "latitude": 33.2811111,
+        "longitude": 126.2038889
+    },
+    {
+        "category": "lakes",
+        "title": "Y'onhwa-ji",
+        "rating": null,
+        "address": "Cheju",
+        "latitude": 33.455,
+        "longitude": 126.3469444
+    },
+    {
+        "category": "lakes",
+        "title": "Hallim-josuji",
+        "rating": 2,
+        "address": "Cheju",
+        "latitude": 33.4036111,
+        "longitude": 126.27
+    },
+    {
+        "category": "lakes",
+        "title": "Kosan-josuji",
+        "rating": 5,
+        "address": "Cheju",
+        "latitude": 33.3011111,
+        "longitude": 126.1838889
+    },
+    {
+        "category": "beaches",
+        "title": "Hamdeok Beach",
+        "rating": 4.5,
+        "address": "Sinbuk-ro, Jocheon-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5434231,
+        "longitude": 126.66977519999999
+    },
+    {
+        "category": "beaches",
+        "title": "Woljeongri Beach",
+        "rating": 4.4,
+        "address": "Woljeong-ri, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5559739,
+        "longitude": 126.79617089999999
+    },
+    {
+        "category": "beaches",
+        "title": "Geumneung Beach",
+        "rating": 4.6,
+        "address": "Geumneung-ri, Hallim-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3898565,
+        "longitude": 126.23536399999999
+    },
+    {
+        "category": "beaches",
+        "title": "Gwakji Beach",
+        "rating": 4.4,
+        "address": "Gwakji-ri, Aewol-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.450902,
+        "longitude": 126.3057298
+    },
+    {
+        "category": "beaches",
+        "title": "Hyeopjae Beach",
+        "rating": 4.6,
+        "address": "329-10 Hallim-ro, Hallim-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3942945,
+        "longitude": 126.2398813
+    },
+    {
+        "category": "beaches",
+        "title": "Samyang Beach",
+        "rating": 4.2,
+        "address": "Seonsa-ro 8-gil, Samyangil-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5260277,
+        "longitude": 126.5869144
+    },
+    {
+        "category": "beaches",
+        "title": "Hagosudong beach",
+        "rating": 4.4,
+        "address": "Udo-myeon, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5145481,
+        "longitude": 126.95862509999999
+    },
+    {
+        "category": "beaches",
+        "title": "한담해변",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Jeju-si, Aewol-eup, Gwakji-ri, 1359",
+        "latitude": 33.461608999999996,
+        "longitude": 126.3105212
+    },
+    {
+        "category": "beaches",
+        "title": "김녕해수욕장",
+        "rating": 4.5,
+        "address": "Gimnyeoung Beach, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5582774,
+        "longitude": 126.75978699999999
+    },
+    {
+        "category": "beaches",
+        "title": "Jungmun Saekdal Beach",
+        "rating": 4.3,
+        "address": "Saekdal-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.245196799999995,
+        "longitude": 126.4111861
+    },
+    {
+        "category": "beaches",
+        "title": "Black Sand Beach",
+        "rating": 4.3,
+        "address": "Udohaean-gil, Udo-myeon, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4972931,
+        "longitude": 126.96713559999999
+    },
+    {
+        "category": "beaches",
+        "title": "Hongjodangoe (Coralsand beach)",
+        "rating": 4.4,
+        "address": "264 Udohaean-gil, Udo-myeon, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5027452,
+        "longitude": 126.9432497
+    },
+    {
+        "category": "beaches",
+        "title": "협재해변",
+        "rating": 4.7,
+        "address": "South Korea",
+        "latitude": 33.3941325,
+        "longitude": 126.239728
+    },
+    {
+        "category": "beaches",
+        "title": "세화해수욕장",
+        "rating": 4.4,
+        "address": "South Korea",
+        "latitude": 33.5252938,
+        "longitude": 126.8611117
+    },
+    {
+        "category": "beaches",
+        "title": "이호테우해변",
+        "rating": 4.1,
+        "address": "South Korea",
+        "latitude": 33.4979571,
+        "longitude": 126.4531502
+    },
+    {
+        "category": "beaches",
+        "title": "Pyeongdaeri Beach",
+        "rating": 4.4,
+        "address": "1994-20 Pyeongdae-ri, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.533500499999995,
+        "longitude": 126.8409042
+    },
+    {
+        "category": "beaches",
+        "title": "Ihoteu Beach",
+        "rating": 4.2,
+        "address": "1665-13 Iho 1(il)-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4979363,
+        "longitude": 126.45315869999999
+    },
+    {
+        "category": "beaches",
+        "title": "함덕서우봉해변",
+        "rating": 4.6,
+        "address": "South Korea, Cheju",
+        "latitude": 33.5433163,
+        "longitude": 126.66985129999999
+    },
+    {
+        "category": "beaches",
+        "title": "Sinyang Beach",
+        "rating": 4.3,
+        "address": "Seopjikoji-ro, Seongsan-eup, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.4371203,
+        "longitude": 126.92317659999999
+    },
+    {
+        "category": "beaches",
+        "title": "Yongmeori Coast",
+        "rating": 4.4,
+        "address": "112-3 Sagye-ri, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2316155,
+        "longitude": 126.31483209999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Jeju Stadium Indoor Swimming Pool",
+        "rating": 4,
+        "address": "1163-4 Ora 1(il)-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4967916,
+        "longitude": 126.51678319999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "J Pool",
+        "rating": 4.4,
+        "address": "181 남광로, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5015138,
+        "longitude": 126.5529186
+    },
+    {
+        "category": "swimming pools",
+        "title": "Vadada",
+        "rating": 4.1,
+        "address": "2384 Daepo-dong, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2370096,
+        "longitude": 126.4367801
+    },
+    {
+        "category": "swimming pools",
+        "title": "Future indoor pool",
+        "rating": 4.1,
+        "address": "55 Gunam-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4915089,
+        "longitude": 126.5354527
+    },
+    {
+        "category": "swimming pools",
+        "title": "Haevichi Hotel&Resort Jeju",
+        "rating": 4.5,
+        "address": "537 Minsokhaean-ro, Pyoseon-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.323125,
+        "longitude": 126.84472509999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Phoenix Jeju Pool",
+        "rating": 4.3,
+        "address": "127-2 Goseong-ri, Seongsan-eup, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.430651399999995,
+        "longitude": 126.92698469999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "도두봉실내수영장",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Seohaean-ro, 202, KR, 도두봉실내수영장",
+        "latitude": 33.5063009,
+        "longitude": 126.46972729999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Estuary Pool",
+        "rating": 5,
+        "address": "3101-1 Saekdal-dong, 특별자치도 Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.244188099999995,
+        "longitude": 126.4056414
+    },
+    {
+        "category": "swimming pools",
+        "title": "Jeju Booyoung Hotel & Resort",
+        "rating": 4.4,
+        "address": "222 Jungmungwangwang-ro, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2423055,
+        "longitude": 126.4232514
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bayhill Pool & Villa",
+        "rating": 4.5,
+        "address": "424 Yerae-ro, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.237546099999996,
+        "longitude": 126.37217079999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Jeju Shinhwa World Marriott Resort",
+        "rating": 4.2,
+        "address": "South Korea, Jeju-do, Seogwipo-si, 특별자치도, 38 Sinhwayeoksa-Ro 304beon-Gil Andeok-Myeon,Seogwipo-Si",
+        "latitude": 33.3075638,
+        "longitude": 126.31763869999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Mosil Clubhouse",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Seogwipo-si, 특별자치도, Sinhwayeoksa-ro, 304번길 38, KR, 모실클럽하우스, 1층",
+        "latitude": 33.3064775,
+        "longitude": 126.31825889999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Dodu Haesu Park",
+        "rating": 3.8,
+        "address": "1729 Dodu 1(il)-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5084839,
+        "longitude": 126.47134279999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Outdoor swimming pool",
+        "rating": 4.2,
+        "address": "6347-17 Iljudong-ro, Pyoseon-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.304214,
+        "longitude": 126.79114729999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Nonjitmul Freshwater Beach",
+        "rating": 4.3,
+        "address": "568 Haye-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.237144199999996,
+        "longitude": 126.38934379999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Y RESORT Jeju",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Seogwipo-si, Andeok-myeon, Hwasunjungang-ro 124beon-gil, 75",
+        "latitude": 33.2425925,
+        "longitude": 126.32769809999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "HA-GWI Swimming Center",
+        "rating": 4.5,
+        "address": "7135-1 Iljuseo-ro, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4857565,
+        "longitude": 126.4113579
+    },
+    {
+        "category": "swimming pools",
+        "title": "Jeju Stadium",
+        "rating": 4.1,
+        "address": "24 Seogwang-ro 2-gil, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4970642,
+        "longitude": 126.5137122
+    },
+    {
+        "category": "swimming pools",
+        "title": "제주신라호텔 수영장",
+        "rating": 4.7,
+        "address": "South Korea, Jeju-do, Seogwipo-si, 특별자치도, Jungmungwangwang-ro 72beon-gil, 75",
+        "latitude": 33.2471631,
+        "longitude": 126.4079553
+    },
+    {
+        "category": "swimming pools",
+        "title": "Jeju GoldOne Hotel & Suites - 5 Star Award Winning Boutique Hotel",
+        "rating": 4.5,
+        "address": "South Korea, Jeju-do, Seogwipo-si, Daeryun-dong, Ieodo-ro, 1032",
+        "latitude": 33.2441957,
+        "longitude": 126.52195499999999
+    },
+    {
+        "category": "resorts",
+        "title": "JW Marriott Jeju Resort & Spa",
+        "rating": 4.6,
+        "address": "399 Hogeun-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.243829,
+        "longitude": 126.53863039999999
+    },
+    {
+        "category": "resorts",
+        "title": "Grand Hyatt Jeju",
+        "rating": 4.6,
+        "address": "12 Noyeon-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4853707,
+        "longitude": 126.4815713
+    },
+    {
+        "category": "resorts",
+        "title": "LOTTE HOTEL JEJU",
+        "rating": 4.5,
+        "address": "35 Jungmungwangwang-ro 72beon-gil, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.248446799999996,
+        "longitude": 126.4106058
+    },
+    {
+        "category": "resorts",
+        "title": "Parnas Hotel Jeju",
+        "rating": 4.6,
+        "address": "100 Jungmungwangwang-ro 72beon-gil, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2445996,
+        "longitude": 126.4059611
+    },
+    {
+        "category": "resorts",
+        "title": "Lotte Resort Jeju Art Villas",
+        "rating": 4.6,
+        "address": "124 Saekdaljungang-ro 252beon-gil, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2882586,
+        "longitude": 126.4155923
+    },
+    {
+        "category": "resorts",
+        "title": "The Shilla Jeju",
+        "rating": 4.6,
+        "address": "75 Jungmungwangwang-ro 72beon-gil, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2471631,
+        "longitude": 126.4079553
+    },
+    {
+        "category": "resorts",
+        "title": "Haevichi Hotel&Resort Jeju",
+        "rating": 4.5,
+        "address": "537 Minsokhaean-ro, Pyoseon-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.323125,
+        "longitude": 126.84472509999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Seaes Hotel & Resort, Jeju",
+        "rating": 4.4,
+        "address": "198 Jungmungwangwang-ro, 중문동, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.242959899999995,
+        "longitude": 126.41976419999999
+    },
+    {
+        "category": "resorts",
+        "title": "WE Hotel Jeju",
+        "rating": 4.4,
+        "address": "453-95 1100-ro, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2861399,
+        "longitude": 126.4442086
+    },
+    {
+        "category": "resorts",
+        "title": "Sono Calm Jeju",
+        "rating": 4.2,
+        "address": "6347-17 Iljudong-ro, Pyoseon-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3055558,
+        "longitude": 126.79209809999999
+    },
+    {
+        "category": "resorts",
+        "title": "Grand Josun Jeju",
+        "rating": 4.5,
+        "address": "60 Jungmungwangwang-ro 72beon-gil, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2524795,
+        "longitude": 126.4080501
+    },
+    {
+        "category": "resorts",
+        "title": "Jeju Shinhwa World Marriott Resort",
+        "rating": 4.2,
+        "address": "South Korea, Jeju-do, Seogwipo-si, 특별자치도, 38 Sinhwayeoksa-Ro 304beon-Gil Andeok-Myeon,Seogwipo-Si",
+        "latitude": 33.3075638,
+        "longitude": 126.31763869999999
+    },
+    {
+        "category": "resorts",
+        "title": "Kumho Jeju Resort",
+        "rating": 4.1,
+        "address": "522-12 Taewi-ro, Namwon-eup, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2732518,
+        "longitude": 126.7014602
+    },
+    {
+        "category": "resorts",
+        "title": "Hidden Cliff Hotel & Nature",
+        "rating": 4.3,
+        "address": "542 Yeraehaean-ro, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.254884499999996,
+        "longitude": 126.40234079999999
+    },
+    {
+        "category": "resorts",
+        "title": "서머셋 제주신화월드 SOMERSET JEJU SHINHWA WORLD",
+        "rating": 4.4,
+        "address": "서머셋 클럽하우스, 89 Sinhwayeoksa-ro 304beon-gil, Andeok-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3027097,
+        "longitude": 126.31699619999999
+    },
+    {
+        "category": "resorts",
+        "title": "Jeju Booyoung Hotel & Resort",
+        "rating": 4.4,
+        "address": "222 Jungmungwangwang-ro, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2423055,
+        "longitude": 126.4232514
+    },
+    {
+        "category": "resorts",
+        "title": "Bayhill Pool & Villa",
+        "rating": 4.5,
+        "address": "424 Yerae-ro, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.237546099999996,
+        "longitude": 126.37217079999999
+    },
+    {
+        "category": "resorts",
+        "title": "Phoenix jeju",
+        "rating": 4.3,
+        "address": "107 Seopjikoji-ro, Seongsan-eup, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.430310899999995,
+        "longitude": 126.92938989999999
+    },
+    {
+        "category": "resorts",
+        "title": "Toscana Hotel",
+        "rating": 4.8,
+        "address": "158-7 Yongheung-ro 66beon-gil, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2654967,
+        "longitude": 126.4842803
+    },
+    {
+        "category": "resorts",
+        "title": "Teddy Valley Golf & Resort",
+        "rating": 4.5,
+        "address": "365 Hanchang-ro, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.291769699999996,
+        "longitude": 126.3482597
+    },
+    {
+        "category": "camping sites",
+        "title": "Seo Woobong Hamdeok Beach Campsite",
+        "rating": 4.2,
+        "address": "250-3 Hamdeok-ri, Jocheon-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5439319,
+        "longitude": 126.6747877
+    },
+    {
+        "category": "camping sites",
+        "title": "표선해수욕장 야영장",
+        "rating": 4.3,
+        "address": "Pyoseon-ri, Pyoseon-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3259761,
+        "longitude": 126.8395857
+    },
+    {
+        "category": "camping sites",
+        "title": "Gwaneumsa Campsite",
+        "rating": 4.1,
+        "address": "Odeung-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4221064,
+        "longitude": 126.5505596
+    },
+    {
+        "category": "camping sites",
+        "title": "AroundFollie Camping",
+        "rating": 4.7,
+        "address": "2703-1 Nansan-ri, Seongsan-eup, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.4146596,
+        "longitude": 126.83561309999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Jeju Best Hill",
+        "rating": 4.3,
+        "address": "2109-36 Namjo-ro, Jocheon-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4538406,
+        "longitude": 126.6576709
+    },
+    {
+        "category": "camping sites",
+        "title": "붉은오름자연휴양림 숲속야영장",
+        "rating": 4.8,
+        "address": "South Korea, Jeju-do, Seogwipo-si, Pyoseon-myeon, Gasi-ri, 산158",
+        "latitude": 33.4030963,
+        "longitude": 126.6778691
+    },
+    {
+        "category": "camping sites",
+        "title": "금능해수욕장",
+        "rating": 4.7,
+        "address": "South Korea, Jeju-do, Jeju-si, Hallim-eup, Hyeopjae-ri, 2464",
+        "latitude": 33.3914659,
+        "longitude": 126.2369291
+    },
+    {
+        "category": "camping sites",
+        "title": "Seogwipo Natural Recreational Forest",
+        "rating": 4.6,
+        "address": "882 1100-ro, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3114287,
+        "longitude": 126.4588606
+    },
+    {
+        "category": "camping sites",
+        "title": "Jayeon-In",
+        "rating": 3.6,
+        "address": "Cheju, South Korea",
+        "latitude": 33.4683293,
+        "longitude": 126.5385409
+    },
+    {
+        "category": "camping sites",
+        "title": "편백숲 야영장",
+        "rating": 4.6,
+        "address": "South Korea, Jeju-do, Seogwipo-si, Jungmun-dong, 1100-ro",
+        "latitude": 33.3189285,
+        "longitude": 126.46729029999999
+    },
+    {
+        "category": "camping sites",
+        "title": "돌하르방 캠핑장",
+        "rating": 4.3,
+        "address": "South Korea, Jeju-do, Jeju-si, Hangyeong-myeon, Cheongsu-ri, 2130",
+        "latitude": 33.323887,
+        "longitude": 126.23909429999999
+    },
+    {
+        "category": "camping sites",
+        "title": "모구리야영장",
+        "rating": 4.5,
+        "address": "South Korea, Jeju-do, Seogwipo-si, Seoseongil-ro, 250",
+        "latitude": 33.4268965,
+        "longitude": 126.8647244
+    },
+    {
+        "category": "camping sites",
+        "title": "Around Follie",
+        "rating": 4.5,
+        "address": "South Korea, Jeju-do, Seogwipo-si, Seongsan-eup, 서성일로 433",
+        "latitude": 33.414969,
+        "longitude": 126.835842
+    },
+    {
+        "category": "camping sites",
+        "title": "제주 메이더 카라반",
+        "rating": 4,
+        "address": "South Korea, Jeju-do, Jeju-si, Gujwa-eup, Iljudong-ro, 1622",
+        "latitude": 33.5524062,
+        "longitude": 126.7058989
+    },
+    {
+        "category": "camping sites",
+        "title": "제주베이스캠프",
+        "rating": 4.3,
+        "address": "South Korea, Cheju",
+        "latitude": 33.50805,
+        "longitude": 126.69818
+    },
+    {
+        "category": "hiking trails",
+        "title": "사려니숲길 - 비자림로 입출구",
+        "rating": 4.4,
+        "address": "산 137-1 Gyorae-ri, Jocheon-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.422686999999996,
+        "longitude": 126.6264198
+    },
+    {
+        "category": "hiking trails",
+        "title": "Saryeoni Forest Path Red Ascension Entrance",
+        "rating": 4.6,
+        "address": "산 158-4 Gasi-ri, Pyoseon-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.394967799999996,
+        "longitude": 126.6839679
+    },
+    {
+        "category": "hiking trails",
+        "title": "Songaksan Mountain Trail",
+        "rating": 4.7,
+        "address": "421-1 Songakgwangwang-ro, Daejeong-eup, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2043511,
+        "longitude": 126.28961369999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "한라산국립공원 영실 탐방로",
+        "rating": 4.8,
+        "address": "246 Yeongsil-ro, Jungmun-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.349190199999995,
+        "longitude": 126.4970597
+    },
+    {
+        "category": "hiking trails",
+        "title": "Eoseungsaengak Trail",
+        "rating": 4.7,
+        "address": "South Korea, Jeju-do, Jeju-si, Haean-dong, 산 220-13",
+        "latitude": 33.3965932,
+        "longitude": 126.4890705
+    },
+    {
+        "category": "hiking trails",
+        "title": "한라산국립공원 관음사탐방지원센터",
+        "rating": 4.6,
+        "address": "Odeung-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4202376,
+        "longitude": 126.54909099999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Jeju Olle Trail - Route 15 (Hallim - Gonae Olle)",
+        "rating": 4.5,
+        "address": "196 Hallimhaean-ro, Hallim-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4190733,
+        "longitude": 126.26264359999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "한라산국립공원 영실 관리사무소",
+        "rating": 4.5,
+        "address": "Hawon-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3400849,
+        "longitude": 126.4803936
+    },
+    {
+        "category": "hiking trails",
+        "title": "Jeju Olle Trail - Route 16 (Gonae - Gwangnyeong Olle)",
+        "rating": 4.4,
+        "address": "Gonae-ri, Aewol-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4668464,
+        "longitude": 126.338134
+    },
+    {
+        "category": "hiking trails",
+        "title": "Jeju Olle Trail - Route 10 (Hwasun - Moseulpo)",
+        "rating": 4.6,
+        "address": "Hwasun-ri, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2395922,
+        "longitude": 126.33576889999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "한라 생태숲",
+        "rating": 4.5,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도 516-ro, 2596",
+        "latitude": 33.431635899999996,
+        "longitude": 126.603808
+    },
+    {
+        "category": "hiking trails",
+        "title": "Jeju Olle Course 1-1 (Udo Olle Trail)",
+        "rating": 4.5,
+        "address": "Yeonpyeong-ri, Udo-myeon, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.492992199999996,
+        "longitude": 126.9518677
+    },
+    {
+        "category": "hiking trails",
+        "title": "[제주올레 8코스] 월평-대평 올레",
+        "rating": 4.6,
+        "address": "738-1 Wolpyeong-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2434916,
+        "longitude": 126.45844939999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Seoubong Trail",
+        "rating": 4.6,
+        "address": "199 Hamdeok-ri, Jocheon-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.545344,
+        "longitude": 126.6747403
+    },
+    {
+        "category": "hiking trails",
+        "title": "Jeju Olle Trail - Route 13 (Yongsu - Jeoji)",
+        "rating": 4.5,
+        "address": "Yongsu-ri, Hangyeong-myeon, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.323427099999996,
+        "longitude": 126.1671039
+    },
+    {
+        "category": "hiking trails",
+        "title": "머체왓숲길",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Seogwipo-si, Namwon-eup, Hannam-ri, 1622",
+        "latitude": 33.3305697,
+        "longitude": 126.67406749999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Hallasan National Park",
+        "rating": 4.7,
+        "address": "2070-61 1100로, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3606281,
+        "longitude": 126.53583449999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "사려니숲길",
+        "rating": 4.6,
+        "address": "South Korea, Jeju-do, Seogwipo-si, Pyoseon-myeon, Gasi-ri",
+        "latitude": 33.3912159,
+        "longitude": 126.6772293
+    },
+    {
+        "category": "hiking trails",
+        "title": "어승생악 탐방로",
+        "rating": 4.7,
+        "address": "South Korea, Jeju-do, Jeju-si, Haean-dong",
+        "latitude": 33.393549199999995,
+        "longitude": 126.4950966
+    },
+    {
+        "category": "hiking trails",
+        "title": "[Jeju Olle Trail 4] Pyoseon-Namwon Olle",
+        "rating": 4.4,
+        "address": "Pyoseon-ri, Pyoseon-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3254568,
+        "longitude": 126.84246759999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "제주절물자연휴양림",
+        "rating": 4.6,
+        "address": "584 Myeongnim-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4393622,
+        "longitude": 126.62991
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Bijarim Forest",
+        "rating": 4.6,
+        "address": "55 Bijasup-gil, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.484272,
+        "longitude": 126.80647929999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Saryeoni Forest Path Red Ascension Entrance",
+        "rating": 4.6,
+        "address": "산 158-4 Gasi-ri, Pyoseon-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.394967799999996,
+        "longitude": 126.6839679
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Seogwipo Forest of Healing",
+        "rating": 4.6,
+        "address": "2271 Sallongnam-ro, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2988369,
+        "longitude": 126.5222283
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Secret Forest",
+        "rating": 4,
+        "address": "2170 Songdang-ri, Gujwa-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4535329,
+        "longitude": 126.7557039
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Hwansang Forest",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Hangyeong-myeon, Nokchabunjae-ro, 594-1, KR",
+        "latitude": 33.322576399999996,
+        "longitude": 126.2633048
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Spirited Garden",
+        "rating": 4.3,
+        "address": "675 Nokchabunjae-ro, Hangyeong-myeon, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3257082,
+        "longitude": 126.2552516
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Jeju World Natural Heritage Center",
+        "rating": 4.4,
+        "address": "569-36 Seongyo-ro, Jocheon-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.456960099999996,
+        "longitude": 126.7143895
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Soesokkak",
+        "rating": 4.2,
+        "address": "138 Soesokkak-ro, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.252469399999995,
+        "longitude": 126.62353329999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Baengnokdam Lake",
+        "rating": 4.7,
+        "address": "San15-1, Topyeong-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.362246999999996,
+        "longitude": 126.5334223
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Cheonjeyeon Waterfalls",
+        "rating": 4.3,
+        "address": "2232 Jungmun-dong, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.250667799999995,
+        "longitude": 126.41677259999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "시오름",
+        "rating": 4.6,
+        "address": "Hogeun-dong, Jeju-si, South Korea",
+        "latitude": 33.305833299999996,
+        "longitude": 126.5163889
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Hyeopjae Beach",
+        "rating": 4.6,
+        "address": "329-10 Hallim-ro, Hallim-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3942945,
+        "longitude": 126.2398813
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Yerae Eco Experience Center (예래생태체험관)",
+        "rating": 4.5,
+        "address": "24-1 Yerae-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.244469699999996,
+        "longitude": 126.3909781
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Jeju Stone Park",
+        "rating": 4.4,
+        "address": "2023 Namjo-ro, Jocheon-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4485653,
+        "longitude": 126.65865819999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ihoteu Beach",
+        "rating": 4.2,
+        "address": "1665-13 Iho 1(il)-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4979363,
+        "longitude": 126.45315869999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "9.81 Park Jeju",
+        "rating": 4.4,
+        "address": "880-24 Cheondeok-ro, Aewol-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3899391,
+        "longitude": 126.3663248
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "사려니숲길",
+        "rating": 4.2,
+        "address": "South Korea, Jeju-do, Jeju-si, Jocheon-eup, Gyorae-ri, 719-10",
+        "latitude": 33.4273021,
+        "longitude": 126.66165889999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Manjanggul Lava Tube",
+        "rating": 4.2,
+        "address": "182 Manjanggul-gil, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5282463,
+        "longitude": 126.7702874
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Bengduigul Cave",
+        "rating": 3.5,
+        "address": "산83-2 Seonheul-ri, Jocheon-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4748063,
+        "longitude": 126.71929429999999
+    },
+    {
+        "category": "temples",
+        "title": "약천사",
+        "rating": 4.4,
+        "address": "293-28 Ieodo-ro, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2461544,
+        "longitude": 126.44945969999999
+    },
+    {
+        "category": "temples",
+        "title": "Gwaneumsa Temple Jeju",
+        "rating": 4.5,
+        "address": "660 Sallokbuk-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.423746099999995,
+        "longitude": 126.5579748
+    },
+    {
+        "category": "temples",
+        "title": "Sanbangsan Bomunsa Temple",
+        "rating": 4.2,
+        "address": "218-10 Sanbang-ro, Andeok-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2366915,
+        "longitude": 126.3128108
+    },
+    {
+        "category": "temples",
+        "title": "Cheon-Wang SaTemple",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, 1100-ro, KR",
+        "latitude": 33.4076309,
+        "longitude": 126.494908
+    },
+    {
+        "category": "temples",
+        "title": "Sanbanggulsa Temple",
+        "rating": 4.2,
+        "address": "218-12 Sanbang-ro, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2380765,
+        "longitude": 126.313081
+    },
+    {
+        "category": "temples",
+        "title": "Bultapsa Temple",
+        "rating": 4.2,
+        "address": "41 Wondang-ro 16-gil, 특별자치도 Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5292607,
+        "longitude": 126.59797019999999
+    },
+    {
+        "category": "temples",
+        "title": "Seonunjeong Temple",
+        "rating": 3.8,
+        "address": "Cheju, South Korea",
+        "latitude": 33.4293517,
+        "longitude": 126.30719309999999
+    },
+    {
+        "category": "temples",
+        "title": "광명사",
+        "rating": 4.8,
+        "address": "Seogwipo, South Korea",
+        "latitude": 33.2491245,
+        "longitude": 126.41885339999999
+    },
+    {
+        "category": "temples",
+        "title": "Mungangsa",
+        "rating": 4.3,
+        "address": "16-30 Wondang-ro 16-gil, Jeju-si, South Korea",
+        "latitude": 33.5262616,
+        "longitude": 126.5984416
+    },
+    {
+        "category": "temples",
+        "title": "Cheonjesa",
+        "rating": 4.8,
+        "address": "2264 Jungmun-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2519329,
+        "longitude": 126.4158143
+    },
+    {
+        "category": "temples",
+        "title": "Yonghwasa",
+        "rating": 4.7,
+        "address": "7-6 Donghandugi-gil, 용담1동, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5155903,
+        "longitude": 126.51529009999999
+    },
+    {
+        "category": "temples",
+        "title": "구암굴사",
+        "rating": 4.5,
+        "address": "South Korea, Jeju-do, Jeju-si, Odeung-dong, 제주특별자치도",
+        "latitude": 33.4480304,
+        "longitude": 126.5513926
+    },
+    {
+        "category": "temples",
+        "title": "선림사",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도 Yeon-dong, 1308",
+        "latitude": 33.4679133,
+        "longitude": 126.4893505
+    },
+    {
+        "category": "temples",
+        "title": "Iljumun Gate",
+        "rating": null,
+        "address": "660 Sallokbuk-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4244272,
+        "longitude": 126.55682209999999
+    },
+    {
+        "category": "temples",
+        "title": "Bonglimsa",
+        "rating": 4.2,
+        "address": "186 Hogeun-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.250848399999995,
+        "longitude": 126.5395089
+    },
+    {
+        "category": "temples",
+        "title": "남국사",
+        "rating": 4.3,
+        "address": "South Korea, Cheju",
+        "latitude": 33.458990899999996,
+        "longitude": 126.5488089
+    },
+    {
+        "category": "temples",
+        "title": "Hyeonjisa Temple",
+        "rating": 5,
+        "address": "1164-2 Jocheon-ri, Jocheon-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.541033899999995,
+        "longitude": 126.64413809999999
+    },
+    {
+        "category": "temples",
+        "title": "무오법정사",
+        "rating": 5,
+        "address": "740-168 1100-ro, Dosun-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3098899,
+        "longitude": 126.4744626
+    },
+    {
+        "category": "temples",
+        "title": "Bomunsa",
+        "rating": 3,
+        "address": "2015-2 Pyeongdae-ri, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5335147,
+        "longitude": 126.8436131
+    },
+    {
+        "category": "temples",
+        "title": "존자암",
+        "rating": 4.6,
+        "address": "South Korea, Jeju-do, Seogwipo-si, Hawon-dong, 산1-1",
+        "latitude": 33.3475678,
+        "longitude": 126.48198909999999
+    },
+    {
+        "category": "museums",
+        "title": "Jeju National Museum",
+        "rating": 4.3,
+        "address": "17 Iljudong-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5133428,
+        "longitude": 126.54887839999999
+    },
+    {
+        "category": "museums",
+        "title": "Jeju Museum Of Art",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, 1100-ro, 2894-78, KR",
+        "latitude": 33.4526324,
+        "longitude": 126.48960729999999
+    },
+    {
+        "category": "museums",
+        "title": "Jeju Museum of Contemporary Art",
+        "rating": 4.3,
+        "address": "35 Jeoji 14-gil, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.33968,
+        "longitude": 126.2656583
+    },
+    {
+        "category": "museums",
+        "title": "Jeju Folklore and Natural History Museum",
+        "rating": 4.2,
+        "address": "40 Samseong-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.506506699999996,
+        "longitude": 126.5316239
+    },
+    {
+        "category": "museums",
+        "title": "Jeju Haenyeo Museum",
+        "rating": 4.3,
+        "address": "26 Haenyeobangmulgwan-gil, Gujwa-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.523525,
+        "longitude": 126.863486
+    },
+    {
+        "category": "museums",
+        "title": "Arario Museum Tapdong Cinema",
+        "rating": 4.5,
+        "address": "14 Tapdong-ro, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.517421899999995,
+        "longitude": 126.52343929999999
+    },
+    {
+        "category": "museums",
+        "title": "Nexon Computer Museum",
+        "rating": 4.3,
+        "address": "3198-8 1100-ro, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4718397,
+        "longitude": 126.4849459
+    },
+    {
+        "category": "museums",
+        "title": "Arte Museum Island Jeju",
+        "rating": 4.4,
+        "address": "478 Eorimbi-ro, Aewol-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.396470799999996,
+        "longitude": 126.3446147
+    },
+    {
+        "category": "museums",
+        "title": "Bunker des Lumières",
+        "rating": 4.4,
+        "address": "89-17 Seoseongil-ro 1168beon-gil, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.4398485,
+        "longitude": 126.89900279999999
+    },
+    {
+        "category": "museums",
+        "title": "Jeju Aerospace Museum",
+        "rating": 4.3,
+        "address": "218 Nokchabunjae-ro, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.304370999999996,
+        "longitude": 126.2997401
+    },
+    {
+        "category": "museums",
+        "title": "Jeju Glass Museum",
+        "rating": 3.4,
+        "address": "1403 Jungsanganseo-ro, 특별자치도 Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.278366,
+        "longitude": 126.3699424
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Sex and Health",
+        "rating": 3.7,
+        "address": "1611 Iljuseo-ro, Andeok-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2546582,
+        "longitude": 126.34670109999999
+    },
+    {
+        "category": "museums",
+        "title": "World Seashell Museum",
+        "rating": 4.2,
+        "address": "Seogwipo, South Korea",
+        "latitude": 33.2475156,
+        "longitude": 126.55172999999999
+    },
+    {
+        "category": "museums",
+        "title": "Teddy Bear Museum",
+        "rating": 4.2,
+        "address": "31 Jungmungwangwang-ro 110beon-gil, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2503549,
+        "longitude": 126.41217359999999
+    },
+    {
+        "category": "museums",
+        "title": "오설록 티 뮤지엄",
+        "rating": 4.1,
+        "address": "15 Sinhwayeoksa-ro, Andeok-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3059438,
+        "longitude": 126.28943699999999
+    },
+    {
+        "category": "museums",
+        "title": "감귤박물관",
+        "rating": 4,
+        "address": "Seogwipo, South Korea",
+        "latitude": 33.2715236,
+        "longitude": 126.6076604
+    },
+    {
+        "category": "museums",
+        "title": "African Museum In Jeju Island",
+        "rating": 3.8,
+        "address": "2485-2 중문동, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.239782,
+        "longitude": 126.42933339999999
+    },
+    {
+        "category": "museums",
+        "title": "Kim Tschang-Yeul Museum of Art",
+        "rating": 4.4,
+        "address": "883-5 Yonggeum-ro, Hangyeong-myeon, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3391085,
+        "longitude": 126.2687552
+    },
+    {
+        "category": "museums",
+        "title": "Kim Man-duk Memorial Hall",
+        "rating": 4.3,
+        "address": "7 Sanji-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5159804,
+        "longitude": 126.53042079999999
+    },
+    {
+        "category": "museums",
+        "title": "Jeju Hangil (Anti-Japanese) Memorial Museum",
+        "rating": 4.2,
+        "address": "303 Sinbuk-ro, Jocheon-eup, 특별자치도 Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5416465,
+        "longitude": 126.64274289999999
+    },
+    {
+        "category": "night markets",
+        "title": "Arboretum Night Market",
+        "rating": 4,
+        "address": "69 Eunsu-gil, 특별자치도 Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4701345,
+        "longitude": 126.4881995
+    },
+    {
+        "category": "night markets",
+        "title": "Dongmun Traditional Market",
+        "rating": 4.1,
+        "address": "20 Gwandeok-ro 14-gil, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5115133,
+        "longitude": 126.5262564
+    },
+    {
+        "category": "night markets",
+        "title": "Jeju Dongmun Market Food Street",
+        "rating": 4.2,
+        "address": "20 Gwandeok-ro 14-gil, 이도1동, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5115889,
+        "longitude": 126.5261829
+    },
+    {
+        "category": "night markets",
+        "title": "Seogwipo Maeil Olle Market",
+        "rating": 4.1,
+        "address": "18 Jungang-ro 62beon-gil, 특별자치도 Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2487163,
+        "longitude": 126.5640617
+    },
+    {
+        "category": "night markets",
+        "title": "동문재래시장",
+        "rating": 4.1,
+        "address": "South Korea, Jeju-do, Jeju-si, Dongmun-ro 4-gil, 9",
+        "latitude": 33.5120448,
+        "longitude": 126.52827939999999
+    },
+    {
+        "category": "night markets",
+        "title": "Dongmun Fish Market",
+        "rating": 4.2,
+        "address": "64-1 Gwandeok-ro, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5126937,
+        "longitude": 126.5262065
+    },
+    {
+        "category": "night markets",
+        "title": "제주민속오일시장",
+        "rating": 4.2,
+        "address": "South Korea, Jeju-do, Jeju-si, Oiljangseo-gil, 26",
+        "latitude": 33.496901799999996,
+        "longitude": 126.47539359999999
+    },
+    {
+        "category": "night markets",
+        "title": "Jungmun 5-Day Market",
+        "rating": 3.2,
+        "address": "12 Cheonjeyeon-ro 188beon-gil, Jungmun-dong, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2508555,
+        "longitude": 126.4242065
+    },
+    {
+        "category": "night markets",
+        "title": "서귀포향토오일시장",
+        "rating": 4.1,
+        "address": "18-5 Jungsangandong-ro 7894beon-gil, Donghong-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2671561,
+        "longitude": 126.5733776
+    },
+    {
+        "category": "night markets",
+        "title": "올레야시장",
+        "rating": 4.1,
+        "address": "South Korea, Jeju-do, Seogwipo-si, Jungjeong-ro 61beon-gil, 21",
+        "latitude": 33.2495575,
+        "longitude": 126.5630271
+    },
+    {
+        "category": "night markets",
+        "title": "제주서문공설시장",
+        "rating": 4,
+        "address": "South Korea, Jeju-do, Jeju-si, Seomun-ro 4-gil, 13-2",
+        "latitude": 33.5113829,
+        "longitude": 126.5179733
+    },
+    {
+        "category": "night markets",
+        "title": "Daejeong 5-Day Market",
+        "rating": 4.1,
+        "address": "Hamo-ri, Daejeong-eup, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2202085,
+        "longitude": 126.2485921
+    },
+    {
+        "category": "night markets",
+        "title": "Halla Arboretum, Jeju Island,S.Korea",
+        "rating": 4.3,
+        "address": "72 Sumogwon-gil, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4699272,
+        "longitude": 126.49324449999999
+    },
+    {
+        "category": "night markets",
+        "title": "동문재래시장번영회",
+        "rating": 4.1,
+        "address": "South Korea, Cheju",
+        "latitude": 33.5115818,
+        "longitude": 126.52609899999999
+    },
+    {
+        "category": "night markets",
+        "title": "Nuwemaru Street (Pedestrian Shopping Street)",
+        "rating": 3.8,
+        "address": "Yeondong 7-gil, 연동, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4860985,
+        "longitude": 126.49070769999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Seongsan Ilchulbong",
+        "rating": 4.6,
+        "address": "78 Seongsan-ri, Seongsan-eup, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.4584586,
+        "longitude": 126.94226599999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Seogwipo Jeongbang Waterfall",
+        "rating": 4.5,
+        "address": "37 Chilsimni-ro 214beon-gil, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.244852099999996,
+        "longitude": 126.57180319999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "거린사슴전망대",
+        "rating": 4.3,
+        "address": "South Korea, Jeju-do, Seogwipo-si, 특별자치도, Daepo-dong, 산2-1",
+        "latitude": 33.307316799999995,
+        "longitude": 126.45484409999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Dombenanggol",
+        "rating": 4.4,
+        "address": "1619 Hogeun-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.240071799999996,
+        "longitude": 126.5333708
+    },
+    {
+        "category": "viewpoints",
+        "title": "Seopjikoji",
+        "rating": 4.4,
+        "address": "Seopjikoji-ro, Seongsan-eup, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.424209499999996,
+        "longitude": 126.931111
+    },
+    {
+        "category": "viewpoints",
+        "title": "Udo Lighthouse",
+        "rating": 4.5,
+        "address": "105 Udobong-gil, Udo-myeon, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.493234799999996,
+        "longitude": 126.9661369
+    },
+    {
+        "category": "viewpoints",
+        "title": "에코랜드",
+        "rating": 4.3,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Jocheon-eup, 번영로 1278-169, KR",
+        "latitude": 33.4465682,
+        "longitude": 126.66705069999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Mysterious Road",
+        "rating": 3.8,
+        "address": "2894-63 1100-ro, 노형동, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4511642,
+        "longitude": 126.48780819999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Hill of Storms",
+        "rating": 4.7,
+        "address": "Cheonji-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2385751,
+        "longitude": 126.5473562
+    },
+    {
+        "category": "viewpoints",
+        "title": "Gwandeokjeong",
+        "rating": 4.3,
+        "address": "19 Gwandeok-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.513345,
+        "longitude": 126.521532
+    },
+    {
+        "category": "viewpoints",
+        "title": "Saeseom Island Saeyeongyo Bridge",
+        "rating": 4.4,
+        "address": "40 Namseongjung-ro, Seogwi-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2374705,
+        "longitude": 126.5597705
+    },
+    {
+        "category": "viewpoints",
+        "title": "Yongmeori Coast",
+        "rating": 4.4,
+        "address": "112-3 Sagye-ri, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2316155,
+        "longitude": 126.31483209999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Jeju Olle Trail - Route 07 (Jeju Olle Tourist Center - Wolpyeong)",
+        "rating": 4.5,
+        "address": "Seohong-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2413514,
+        "longitude": 126.54799799999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Cheonjiyeon Waterfalls",
+        "rating": 4.4,
+        "address": "2-15 Namseongjung-ro, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.246899899999995,
+        "longitude": 126.5545049
+    },
+    {
+        "category": "viewpoints",
+        "title": "Sangumburi",
+        "rating": 4.4,
+        "address": "768 Bijarim-ro, Jocheon-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.433029999999995,
+        "longitude": 126.690658
+    },
+    {
+        "category": "viewpoints",
+        "title": "Tapdong Plaza",
+        "rating": 4.2,
+        "address": "Geonip-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5180392,
+        "longitude": 126.5265318
+    },
+    {
+        "category": "viewpoints",
+        "title": "해안도로",
+        "rating": 4.5,
+        "address": "South Korea, Jeju-do, Jeju-si, Yongdam 3(sam)-dong, 1035",
+        "latitude": 33.5170488,
+        "longitude": 126.50339009999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "머체왓숲길",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Seogwipo-si, Namwon-eup, Hannam-ri, 1622",
+        "latitude": 33.3305697,
+        "longitude": 126.67406749999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Dodubong Peak",
+        "rating": 4.5,
+        "address": "산1 Dodu-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5081258,
+        "longitude": 126.4681694
+    },
+    {
+        "category": "viewpoints",
+        "title": "Jeju Light Garden",
+        "rating": 4,
+        "address": "2346 Pyeonghwa-ro, Aewol-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4222381,
+        "longitude": 126.409264
+    },
+    {
+        "category": "gardens",
+        "title": "Camellia Hill Botanical Garden",
+        "rating": 4.2,
+        "address": "166 Byeongak-ro, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2898049,
+        "longitude": 126.36829829999999
+    },
+    {
+        "category": "gardens",
+        "title": "Spirited Garden",
+        "rating": 4.3,
+        "address": "675 Nokchabunjae-ro, Hangyeong-myeon, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3257082,
+        "longitude": 126.2552516
+    },
+    {
+        "category": "gardens",
+        "title": "여미지 식물원",
+        "rating": 4,
+        "address": "93 Jungmungwangwang-ro, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2525901,
+        "longitude": 126.4143294
+    },
+    {
+        "category": "gardens",
+        "title": "Halla Arboretum, Jeju Island,S.Korea",
+        "rating": 4.3,
+        "address": "72 Sumogwon-gil, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4699272,
+        "longitude": 126.49324449999999
+    },
+    {
+        "category": "gardens",
+        "title": "Jeju Light Garden",
+        "rating": 4,
+        "address": "2346 Pyeonghwa-ro, Aewol-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4222381,
+        "longitude": 126.409264
+    },
+    {
+        "category": "gardens",
+        "title": "Hallim Park",
+        "rating": 4.4,
+        "address": "300 Hallim-ro, Hallim-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3895279,
+        "longitude": 126.23928839999999
+    },
+    {
+        "category": "gardens",
+        "title": "Jeju Camellia Arboretum",
+        "rating": 4.1,
+        "address": "South Korea, Jeju-do, Seogwipo-si, Namwon-eup, Wimi-ri, 929, 제주특별자치도",
+        "latitude": 33.2752541,
+        "longitude": 126.6780106
+    },
+    {
+        "category": "gardens",
+        "title": "보롬왓",
+        "rating": 4.2,
+        "address": "2350-104, Beonyeong-ro, Pyoseon-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.4136187,
+        "longitude": 126.7527705
+    },
+    {
+        "category": "gardens",
+        "title": "Jeju herb garden",
+        "rating": 4.2,
+        "address": "170 Donoreum-ro, Pyoseon-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3298498,
+        "longitude": 126.81485409999999
+    },
+    {
+        "category": "gardens",
+        "title": "Sanghyowon",
+        "rating": 4.1,
+        "address": "2847-37 Sallongnam-ro, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3063966,
+        "longitude": 126.58441909999999
+    },
+    {
+        "category": "gardens",
+        "title": "Father's Garden",
+        "rating": 4.3,
+        "address": "44-33 Byeongak-ro, Andeok-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2799277,
+        "longitude": 126.36582969999999
+    },
+    {
+        "category": "gardens",
+        "title": "스누피가든",
+        "rating": 4.6,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Gujwa-eup, Geumbaekjo-ro, 930",
+        "latitude": 33.4441972,
+        "longitude": 126.7783058
+    },
+    {
+        "category": "gardens",
+        "title": "Banglim-Won",
+        "rating": 4.2,
+        "address": "864 Yonggeum-ro, Hangyeong-myeon, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3370712,
+        "longitude": 126.2687794
+    },
+    {
+        "category": "gardens",
+        "title": "Bijarim Forest",
+        "rating": 4.6,
+        "address": "55 Bijasup-gil, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.484272,
+        "longitude": 126.80647929999999
+    },
+    {
+        "category": "gardens",
+        "title": "Moomin Land Jeju",
+        "rating": 4.5,
+        "address": "420 Byeongak-ro, Andeok-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.306567799999996,
+        "longitude": 126.3818063
+    },
+    {
+        "category": "gardens",
+        "title": "Jeju Stone Park",
+        "rating": 4.4,
+        "address": "2023 Namjo-ro, Jocheon-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4485653,
+        "longitude": 126.65865819999999
+    },
+    {
+        "category": "gardens",
+        "title": "Camellia Hill Green House",
+        "rating": 4.9,
+        "address": "250-1 Sangchang-ri, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.290437,
+        "longitude": 126.36997299999999
+    },
+    {
+        "category": "gardens",
+        "title": "Sumokwon theme park",
+        "rating": 4,
+        "address": "1320 연동, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4704475,
+        "longitude": 126.4885877
+    },
+    {
+        "category": "gardens",
+        "title": "Hallasan National Park",
+        "rating": 4.7,
+        "address": "2070-61 1100로, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3606281,
+        "longitude": 126.53583449999999
+    },
+    {
+        "category": "gardens",
+        "title": "Gwandeokjeong",
+        "rating": 4.3,
+        "address": "19 Gwandeok-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.513345,
+        "longitude": 126.521532
+    },
+    {
+        "category": "zoo",
+        "title": "Hwajowon / Flower Bird Park",
+        "rating": 4.4,
+        "address": "804 Aewon-ro, Aewol-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4113707,
+        "longitude": 126.37179289999999
+    },
+    {
+        "category": "zoo",
+        "title": "모모쥬 동물원 제주신화월드점",
+        "rating": 4.8,
+        "address": "South Korea, Jeju-do, Seogwipo-si, 특별자치도, 주소 Sinhwayeoksa-ro 304beon-gil, 98, F303",
+        "latitude": 33.305066599999996,
+        "longitude": 126.31259379999999
+    },
+    {
+        "category": "zoo",
+        "title": "Aqua Planet Jeju",
+        "rating": 4.4,
+        "address": "95 Seopjikoji-ro, Seongsan-eup, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.4327833,
+        "longitude": 126.92782229999999
+    },
+    {
+        "category": "zoo",
+        "title": "Father's Garden",
+        "rating": 4.3,
+        "address": "44-33 Byeongak-ro, Andeok-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2799277,
+        "longitude": 126.36582969999999
+    },
+    {
+        "category": "zoo",
+        "title": "새별프렌즈 동물원(saebyeol friends zoo)",
+        "rating": 4.1,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Aewol-eup, Bongseong-ri, 4554-20, 새별프렌즈",
+        "latitude": 33.3622832,
+        "longitude": 126.3639408
+    },
+    {
+        "category": "zoo",
+        "title": "말 방목공원",
+        "rating": 4.6,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Gujwa-eup, Songdang-ri, 2458, KR",
+        "latitude": 33.4420936,
+        "longitude": 126.7846821
+    },
+    {
+        "category": "zoo",
+        "title": "Jeju Rail Bike",
+        "rating": 3.9,
+        "address": "4639 Jongdal-ri, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4643125,
+        "longitude": 126.8365625
+    },
+    {
+        "category": "zoo",
+        "title": "Jeju Dinosaur Theme Park",
+        "rating": 3.6,
+        "address": "1 Gwangnyeongpyeonghwa 2-gil, Aewol-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4412568,
+        "longitude": 126.4340338
+    },
+    {
+        "category": "zoo",
+        "title": "스마일러",
+        "rating": 4.5,
+        "address": "South Korea, Jeju-do, Jeju-si, Aewol-eup, Hagwi 1(il)-ri, 1138-5",
+        "latitude": 33.468351,
+        "longitude": 126.41887589999999
+    },
+    {
+        "category": "zoo",
+        "title": "Dochidol Ranch",
+        "rating": 4.8,
+        "address": "98-1 Napeup-ri, Aewol-eup, 특별자치도 Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4099012,
+        "longitude": 126.3667667
+    },
+    {
+        "category": "zoo",
+        "title": "제주자연생태공원",
+        "rating": 4.7,
+        "address": "South Korea, Jeju-do, Seogwipo-si, 특별자치도, Seongsan-eup, Geumbaekjo-ro, 448",
+        "latitude": 33.4396787,
+        "longitude": 126.8227946
+    },
+    {
+        "category": "zoo",
+        "title": "Raon The Ma Park",
+        "rating": 4.3,
+        "address": "산8 Wolrim-ri, Hallim-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3542436,
+        "longitude": 126.243167
+    },
+    {
+        "category": "zoo",
+        "title": "9.81 Park Jeju",
+        "rating": 4.4,
+        "address": "880-24 Cheondeok-ro, Aewol-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3899391,
+        "longitude": 126.3663248
+    },
+    {
+        "category": "zoo",
+        "title": "한라 생태숲",
+        "rating": 4.5,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도 516-ro, 2596",
+        "latitude": 33.431635899999996,
+        "longitude": 126.603808
+    },
+    {
+        "category": "zoo",
+        "title": "Saebyeol Friends",
+        "rating": 4.3,
+        "address": "4554-20 Bongseong-ri, Aewol-eup, Jeju-si, South Korea",
+        "latitude": 33.3623328,
+        "longitude": 126.3639376
+    },
+    {
+        "category": "zoo",
+        "title": "Hello Kitty Island",
+        "rating": 4,
+        "address": "340 Hanchang-ro, Andeok-myeon, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.2902148,
+        "longitude": 126.3520461
+    },
+    {
+        "category": "zoo",
+        "title": "Gimnyeong Maze Park",
+        "rating": 4.2,
+        "address": "122 Manjanggul-gil, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5368768,
+        "longitude": 126.7725371
+    },
+    {
+        "category": "zoo",
+        "title": "탐라신화공원",
+        "rating": 4.1,
+        "address": "South Korea, Jeju-do, Jeju-si, Jocheon-eup, Seonheul-ri, 1818",
+        "latitude": 33.4636657,
+        "longitude": 126.7101385
+    },
+    {
+        "category": "zoo",
+        "title": "Jeju International Airport",
+        "rating": 4.4,
+        "address": "2 Gonghang-ro, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5070772,
+        "longitude": 126.4934311
+    },
+    {
+        "category": "zoo",
+        "title": "제주민속촌",
+        "rating": 4.1,
+        "address": "631-34 Minsokhaean-ro, Pyoseon-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.322511,
+        "longitude": 126.84186799999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Shinhwa Theme Park",
+        "rating": 4,
+        "address": "98 Sinhwayeoksa-ro 304beon-gil, Andeok-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3051791,
+        "longitude": 126.31520529999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "에코랜드",
+        "rating": 4.3,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Jocheon-eup, 번영로 1278-169, KR",
+        "latitude": 33.4465682,
+        "longitude": 126.66705069999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "9.81 Park Jeju",
+        "rating": 4.4,
+        "address": "880-24 Cheondeok-ro, Aewol-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3899391,
+        "longitude": 126.3663248
+    },
+    {
+        "category": "adventure parks",
+        "title": "Sumokwon theme park",
+        "rating": 4,
+        "address": "1320 연동, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4704475,
+        "longitude": 126.4885877
+    },
+    {
+        "category": "adventure parks",
+        "title": "Jeju Dinosaur Theme Park",
+        "rating": 3.6,
+        "address": "1 Gwangnyeongpyeonghwa 2-gil, Aewol-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4412568,
+        "longitude": 126.4340338
+    },
+    {
+        "category": "adventure parks",
+        "title": "Wind 1947",
+        "rating": 4.3,
+        "address": "78-27 Topyeonggongdan-ro, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.289656,
+        "longitude": 126.5887248
+    },
+    {
+        "category": "adventure parks",
+        "title": "Sanbangsan Land",
+        "rating": 4,
+        "address": "24-9 Sagyenam-ro 216beon-gil, Andeok-myeon, 특별자치도 Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2337761,
+        "longitude": 126.3117802
+    },
+    {
+        "category": "adventure parks",
+        "title": "LEPORTSLAND",
+        "rating": 4.5,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Jocheon-eup, Waheulsangseo 2-gil, 47, KR",
+        "latitude": 33.4823902,
+        "longitude": 126.6386812
+    },
+    {
+        "category": "adventure parks",
+        "title": "Maze Land",
+        "rating": 4.2,
+        "address": "2134-47 비자림로 Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.488741499999996,
+        "longitude": 126.80095139999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Pororo & Tayo Theme Park Jeju",
+        "rating": 4.3,
+        "address": "269 병악로 Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.300928899999995,
+        "longitude": 126.3710876
+    },
+    {
+        "category": "adventure parks",
+        "title": "Shinhwa Water Park",
+        "rating": 4.2,
+        "address": "신화워터파크, 38 Sinhwayeoksa-ro 304beon-gil, Andeok-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.305769999999995,
+        "longitude": 126.31538069999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Moomin Land Jeju",
+        "rating": 4.5,
+        "address": "420 Byeongak-ro, Andeok-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.306567799999996,
+        "longitude": 126.3818063
+    },
+    {
+        "category": "adventure parks",
+        "title": "Sungeup Land",
+        "rating": 4,
+        "address": "South Korea, Jeju-do, Seogwipo-si, 특별자치도, Seongeup-ri, 2045-1, KR",
+        "latitude": 33.3985311,
+        "longitude": 126.7875904
+    },
+    {
+        "category": "adventure parks",
+        "title": "액티브파크",
+        "rating": 4.5,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Hallim-eup, Geumneungnam-ro, 76, KR",
+        "latitude": 33.381214199999995,
+        "longitude": 126.23609379999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "스누피가든",
+        "rating": 4.6,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Gujwa-eup, Geumbaekjo-ro, 930",
+        "latitude": 33.4441972,
+        "longitude": 126.7783058
+    },
+    {
+        "category": "adventure parks",
+        "title": "Jeju Waterworld",
+        "rating": 3.8,
+        "address": "33 World cup-ro, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2452293,
+        "longitude": 126.5089155
+    },
+    {
+        "category": "adventure parks",
+        "title": "Wind 1979 Kart Theme Park",
+        "rating": 4,
+        "address": "78-14 Topyeonggongdan-ro, Topyeong-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.289454899999996,
+        "longitude": 126.5876107
+    },
+    {
+        "category": "adventure parks",
+        "title": "Fairy and Woodsman Theme Park",
+        "rating": 4.1,
+        "address": "267 Seongyo-ro, Jocheon-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.479010699999996,
+        "longitude": 126.7034736
+    },
+    {
+        "category": "adventure parks",
+        "title": "Soingook Theme Park",
+        "rating": 3.9,
+        "address": "347 Hwasunseodong-ro, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2820907,
+        "longitude": 126.3317874
+    },
+    {
+        "category": "adventure parks",
+        "title": "Vaunce Super Park Jeju Center",
+        "rating": 4.3,
+        "address": "1758 Ora 2(i)-dong, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4822728,
+        "longitude": 126.50960389999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Sanbangsan Mountain Carbonate Hot Springs",
+        "rating": 4.3,
+        "address": "192 Sagyebuk-ro 41beon-gil, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.248894799999995,
+        "longitude": 126.29882909999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Yongduam Seawater Land",
+        "rating": 3.7,
+        "address": "630 Seohaean-ro, 특별자치도 Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5159611,
+        "longitude": 126.5042356
+    },
+    {
+        "category": "hot springs",
+        "title": "O’Reve Hot Spring & Spa",
+        "rating": 4.4,
+        "address": "150 Taepyeong-ro, 특별자치도 Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2428673,
+        "longitude": 126.53812669999999
+    },
+    {
+        "category": "hot springs",
+        "title": "부림온천",
+        "rating": 3.6,
+        "address": "South Korea, Jeju-do, Jeju-si, Gwawon-ro, 70",
+        "latitude": 33.475919999999995,
+        "longitude": 126.4912686
+    },
+    {
+        "category": "shopping malls",
+        "title": "Jungang Underground Shopping Center",
+        "rating": 3.9,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Ildo 1(il)-dong, 1425-3, KR",
+        "latitude": 33.513174299999996,
+        "longitude": 126.5246997
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shopping st Jeju",
+        "rating": 5,
+        "address": "261-19 연동, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.488135299999996,
+        "longitude": 126.4899962
+    },
+    {
+        "category": "shopping malls",
+        "title": "Chilsungro Shopping Town",
+        "rating": 4,
+        "address": "Jungang-ro 5-gil, Ildo 1(il)-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.513214399999995,
+        "longitude": 126.5258674
+    },
+    {
+        "category": "shopping malls",
+        "title": "Jeju Auto Gallery",
+        "rating": 4.3,
+        "address": "3907-4 Hwabuk 1(il)-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5180684,
+        "longitude": 126.5630013
+    },
+    {
+        "category": "shopping malls",
+        "title": "Jeju premium center",
+        "rating": 3.8,
+        "address": "South Korea, Jeju-do, Seogwipo-si, 특별자치도, Andeok-myeon, Seogwang-ri, 산24, KR G층, B1층, 제주 프리미엄 전문점",
+        "latitude": 33.3072018,
+        "longitude": 126.317084
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shinhwa Shopping Street",
+        "rating": 3.8,
+        "address": "304번길 38 Sinhwayeoksa-ro, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.306817699999996,
+        "longitude": 126.31725139999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "This Jeju Nana Ako",
+        "rating": 4,
+        "address": "2263 Jungsangandong-ro, Gujwa-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4714741,
+        "longitude": 126.78463529999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Losde",
+        "rating": 3.9,
+        "address": "South Korea, Jeju-do, Jeju-si, Yeon-dong, 2324-6, Floor1-3,",
+        "latitude": 33.4905833,
+        "longitude": 126.4866639
+    },
+    {
+        "category": "shopping malls",
+        "title": "Jeju Electonic Cigarette Department Store",
+        "rating": 5,
+        "address": "709-1 Nohyeong-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.481968,
+        "longitude": 126.4816582
+    },
+    {
+        "category": "shopping malls",
+        "title": "Handammol",
+        "rating": 4.2,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Aewol-ro 1-gil, 7, KR",
+        "latitude": 33.462340999999995,
+        "longitude": 126.31190609999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "나인몰 복합쇼핑몰",
+        "rating": 4,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, 연동 1454",
+        "latitude": 33.4808197,
+        "longitude": 126.4947177
+    },
+    {
+        "category": "shopping malls",
+        "title": "Lotte Duty Free - Jeju Store",
+        "rating": 3.7,
+        "address": "83 Doryeong-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.490640899999995,
+        "longitude": 126.4866038
+    },
+    {
+        "category": "shopping malls",
+        "title": "HAN컬렉션",
+        "rating": 4.2,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Noyeon-ro, 12, Dream Tower, 3-4F",
+        "latitude": 33.4853867,
+        "longitude": 126.48185489999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Jejudo",
+        "rating": 5,
+        "address": "Namseong-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.504779899999996,
+        "longitude": 126.51460279999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Lideu",
+        "rating": 2.3,
+        "address": "262-15 연동, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4863201,
+        "longitude": 126.4898138
+    },
+    {
+        "category": "shopping malls",
+        "title": "JTO Duty Free Shop",
+        "rating": 3.7,
+        "address": "2700 중문동, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2413649,
+        "longitude": 126.4245153
+    },
+    {
+        "category": "shopping malls",
+        "title": "emart",
+        "rating": 4,
+        "address": "9209 Iljudong-ro, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2483333,
+        "longitude": 126.5091667
+    },
+    {
+        "category": "shopping malls",
+        "title": "LOTTEJTB",
+        "rating": 4,
+        "address": "Seogwipo, Jeju-do, South Korea",
+        "latitude": 33.292022599999996,
+        "longitude": 126.58515609999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shilla Duty Free(Jeju Store)",
+        "rating": 3.8,
+        "address": "69 Noyeon-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4863078,
+        "longitude": 126.4873872
+    },
+    {
+        "category": "shopping malls",
+        "title": "Dongmun Traditional Market",
+        "rating": 4.1,
+        "address": "20 Gwandeok-ro 14-gil, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5115133,
+        "longitude": 126.5262564
+    },
+    {
+        "category": "historical sites",
+        "title": "Museum of Chusa Kim Jeong Hyui",
+        "rating": 4.4,
+        "address": "Seogwipo, South Korea",
+        "latitude": 33.2499082,
+        "longitude": 126.2783243
+    },
+    {
+        "category": "historical sites",
+        "title": "Samseonghyeol",
+        "rating": 4.2,
+        "address": "22 Samseong-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.504702699999996,
+        "longitude": 126.52935799999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Jejumok Gwana",
+        "rating": 4.2,
+        "address": "13 Gwandeok-ro 7-gil, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.513622999999995,
+        "longitude": 126.5220324
+    },
+    {
+        "category": "historical sites",
+        "title": "Hangpaduri Hangmong Historic Site",
+        "rating": 4,
+        "address": "50 Hangpaduri-ro, Aewol-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4520718,
+        "longitude": 126.40773659999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Gwandeokjeong",
+        "rating": 4.3,
+        "address": "19 Gwandeok-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.513345,
+        "longitude": 126.521532
+    },
+    {
+        "category": "historical sites",
+        "title": "제주민속촌",
+        "rating": 4.1,
+        "address": "631-34 Minsokhaean-ro, Pyoseon-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.322511,
+        "longitude": 126.84186799999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Byeolbangjin Fortress",
+        "rating": 4.2,
+        "address": "3354 Hado-ri, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.526605599999996,
+        "longitude": 126.8840271
+    },
+    {
+        "category": "historical sites",
+        "title": "Jeju Samyang-dong Ruins",
+        "rating": 3.8,
+        "address": "Cheju, South Korea",
+        "latitude": 33.523123,
+        "longitude": 126.5878316
+    },
+    {
+        "category": "historical sites",
+        "title": "Lee Jung Seop Street",
+        "rating": 3.9,
+        "address": "Seogwi-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2448955,
+        "longitude": 126.5644569
+    },
+    {
+        "category": "historical sites",
+        "title": "Jeju 4 · 3 Peace Park",
+        "rating": 4.7,
+        "address": "430 Myeongnim-ro, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.451659899999996,
+        "longitude": 126.618983
+    },
+    {
+        "category": "historical sites",
+        "title": "Mysterious Road",
+        "rating": 3.8,
+        "address": "2894-63 1100-ro, 노형동, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4511642,
+        "longitude": 126.48780819999999
+    },
+    {
+        "category": "historical sites",
+        "title": "올림픽기념탑",
+        "rating": 4.1,
+        "address": "South Korea, Jeju-do, Jeju-si, Ildo 2(i)-dong, 913",
+        "latitude": 33.5050964,
+        "longitude": 126.5325871
+    },
+    {
+        "category": "historical sites",
+        "title": "Haesinsa",
+        "rating": 3.9,
+        "address": "1621 Hwabuk 1(il)-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.524316899999995,
+        "longitude": 126.5654725
+    },
+    {
+        "category": "historical sites",
+        "title": "Kim Man-duk Memorial Hall",
+        "rating": 4.3,
+        "address": "7 Sanji-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5159804,
+        "longitude": 126.53042079999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Ohyeondan",
+        "rating": 4,
+        "address": "1421-3 Ido 1(il)-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5103735,
+        "longitude": 126.5259487
+    },
+    {
+        "category": "historical sites",
+        "title": "Jeju Gosanri Historic Site Information Center",
+        "rating": 4.2,
+        "address": "South Korea, Jeju-si, KR특별자치도 제주시 고산리 한경면 노을해안로 1100",
+        "latitude": 33.3050274,
+        "longitude": 126.16670839999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Manjanggul Lava Tube",
+        "rating": 4.2,
+        "address": "182 Manjanggul-gil, Gujwa-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5282463,
+        "longitude": 126.7702874
+    },
+    {
+        "category": "historical sites",
+        "title": "Yongduam Rock",
+        "rating": 3.9,
+        "address": "15 Yongduam-gil, 용담2동, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5162323,
+        "longitude": 126.5120637
+    },
+    {
+        "category": "historical sites",
+        "title": "Cherry blossom tunnel",
+        "rating": 4.6,
+        "address": "1121-4 Jangjeon-ri, Aewol-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4520422,
+        "longitude": 126.3843768
+    },
+    {
+        "category": "historical sites",
+        "title": "Jeju World Natural Heritage Center",
+        "rating": 4.4,
+        "address": "569-36 Seongyo-ro, Jocheon-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.456960099999996,
+        "longitude": 126.7143895
+    },
+    {
+        "category": "art galleries",
+        "title": "Jeju Museum Of Art",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, 1100-ro, 2894-78, KR",
+        "latitude": 33.4526324,
+        "longitude": 126.48960729999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Jeju Museum of Contemporary Art",
+        "rating": 4.3,
+        "address": "35 Jeoji 14-gil, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.33968,
+        "longitude": 126.2656583
+    },
+    {
+        "category": "art galleries",
+        "title": "Arte Museum Island Jeju",
+        "rating": 4.4,
+        "address": "478 Eorimbi-ro, Aewol-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.396470799999996,
+        "longitude": 126.3446147
+    },
+    {
+        "category": "art galleries",
+        "title": "Bunker des Lumières",
+        "rating": 4.4,
+        "address": "89-17 Seoseongil-ro 1168beon-gil, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.4398485,
+        "longitude": 126.89900279999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Jeju Folklore and Natural History Museum",
+        "rating": 4.2,
+        "address": "40 Samseong-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.506506699999996,
+        "longitude": 126.5316239
+    },
+    {
+        "category": "art galleries",
+        "title": "Kim Tschang-Yeul Museum of Art",
+        "rating": 4.4,
+        "address": "883-5 Yonggeum-ro, Hangyeong-myeon, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3391085,
+        "longitude": 126.2687552
+    },
+    {
+        "category": "art galleries",
+        "title": "Arario Museum Tapdong Cinema",
+        "rating": 4.5,
+        "address": "14 Tapdong-ro, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.517421899999995,
+        "longitude": 126.52343929999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Yumin Art Nouveau Collection",
+        "rating": 4.4,
+        "address": "107 Seopjikoji-ro, Seongsan-eup, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.4291682,
+        "longitude": 126.9322911
+    },
+    {
+        "category": "art galleries",
+        "title": "본태박물관",
+        "rating": 4.3,
+        "address": "69 Sallongnam-ro 762beon-gil, Andeok-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3038302,
+        "longitude": 126.3925024
+    },
+    {
+        "category": "art galleries",
+        "title": "Jeju Haenyeo Museum",
+        "rating": 4.3,
+        "address": "26 Haenyeobangmulgwan-gil, Gujwa-eup, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.523525,
+        "longitude": 126.863486
+    },
+    {
+        "category": "art galleries",
+        "title": "오설록 티 뮤지엄",
+        "rating": 4.1,
+        "address": "15 Sinhwayeoksa-ro, Andeok-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3059438,
+        "longitude": 126.28943699999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Lee Jung Seob Art Gallery",
+        "rating": 4.2,
+        "address": "27-3 Ijungseop-ro, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2458403,
+        "longitude": 126.56493999999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Jeju National Museum",
+        "rating": 4.3,
+        "address": "17 Iljudong-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5133428,
+        "longitude": 126.54887839999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Nexon Computer Museum",
+        "rating": 4.3,
+        "address": "3198-8 1100-ro, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4718397,
+        "longitude": 126.4849459
+    },
+    {
+        "category": "art galleries",
+        "title": "그리스신화박물관",
+        "rating": 3.8,
+        "address": "942 Gwangsan-ro, Hallim-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3477344,
+        "longitude": 126.35763539999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Grimm Forest",
+        "rating": 4.1,
+        "address": "32 Jungmungwangwang-ro 110beon-gil, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2510617,
+        "longitude": 126.4128916
+    },
+    {
+        "category": "art galleries",
+        "title": "Artists' Village in Jeoji",
+        "rating": 4,
+        "address": "3675 Jungsanganseo-ro, Hangyeong-myeon, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3326415,
+        "longitude": 126.2559876
+    },
+    {
+        "category": "art galleries",
+        "title": "Jeju Stone Museum",
+        "rating": 4.6,
+        "address": "산119 Gyorae-ri, Jocheon-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4499444,
+        "longitude": 126.65857539999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Trickeye Museum",
+        "rating": 4,
+        "address": "산30-12, Geumak-ri, Hallim-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.3479375,
+        "longitude": 126.3566278
+    },
+    {
+        "category": "theaters",
+        "title": "CGV 제주",
+        "rating": 3.8,
+        "address": "288 Seogwang-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5000485,
+        "longitude": 126.5274244
+    },
+    {
+        "category": "theaters",
+        "title": "메가박스 제주아라",
+        "rating": 4.1,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도 Gusan-ro, 4, 메가타워 (아라일동",
+        "latitude": 33.4838697,
+        "longitude": 126.5358765
+    },
+    {
+        "category": "theaters",
+        "title": "CGV 제주노형",
+        "rating": 4,
+        "address": "407 Nohyeong-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4859033,
+        "longitude": 126.47837039999999
+    },
+    {
+        "category": "theaters",
+        "title": "Jeju NANTA",
+        "rating": 4.6,
+        "address": "South Korea, Jeju-si, KR특별자치도 제주시 선돌목동길56-26",
+        "latitude": 33.4455968,
+        "longitude": 126.54755779999999
+    },
+    {
+        "category": "theaters",
+        "title": "메가박스 제주삼화지구",
+        "rating": 4.3,
+        "address": "11 Sambong-ro, 특별자치도 Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5205543,
+        "longitude": 126.5882323
+    },
+    {
+        "category": "theaters",
+        "title": "메가박스 제주점",
+        "rating": 3.6,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Jungang-ro 14-gil, 18, KR 재밋섬타워 5층",
+        "latitude": 33.5115335,
+        "longitude": 126.5225153
+    },
+    {
+        "category": "theaters",
+        "title": "롯데시네마 제주연동",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Jeju-si, Gwawon-ro, 128 B1F",
+        "latitude": 33.480788499999996,
+        "longitude": 126.4947373
+    },
+    {
+        "category": "theaters",
+        "title": "롯데시네마 서귀포",
+        "rating": 3.9,
+        "address": "31 World cup-ro, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.246023099999995,
+        "longitude": 126.5083938
+    },
+    {
+        "category": "theaters",
+        "title": "Arario Museum Tapdong Cinema",
+        "rating": 4.5,
+        "address": "14 Tapdong-ro, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.517421899999995,
+        "longitude": 126.52343929999999
+    },
+    {
+        "category": "theaters",
+        "title": "Jeju Arts Center",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Jeju-si, Onam-ro, 231",
+        "latitude": 33.475155199999996,
+        "longitude": 126.5155061
+    },
+    {
+        "category": "theaters",
+        "title": "한림작은영화관",
+        "rating": 4.9,
+        "address": "71-9 Hallimjungang-ro, Hallim-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4088208,
+        "longitude": 126.2680474
+    },
+    {
+        "category": "theaters",
+        "title": "제주이야기 힐링극장",
+        "rating": 4.6,
+        "address": "South Korea, Jeju-do, Jeju-si, Aewol-eup, 제주관광대학 컨벤션홀",
+        "latitude": 33.450002999999995,
+        "longitude": 126.43700899999999
+    },
+    {
+        "category": "theaters",
+        "title": "제주자동차극장",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Jeju-si, Iho 2(i)-dong, Dogong-ro, 136",
+        "latitude": 33.4957789,
+        "longitude": 126.4668363
+    },
+    {
+        "category": "theaters",
+        "title": "스카이워터쇼",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Gujwa-eup, 번영로 2172-80, KR",
+        "latitude": 33.4239986,
+        "longitude": 126.7437738
+    },
+    {
+        "category": "theaters",
+        "title": "메가박스 제주서귀포",
+        "rating": 4.6,
+        "address": "South Korea, Jeju-do, Seogwipo-si, Jungang-ro 182beon-gil, 38",
+        "latitude": 33.2616809,
+        "longitude": 126.562906
+    },
+    {
+        "category": "theaters",
+        "title": "학교 시네마",
+        "rating": 4.3,
+        "address": "South Korea, Jeju-do, Jeju-si, Hangyeong-myeon, 315",
+        "latitude": 33.3357836,
+        "longitude": 126.2279109
+    },
+    {
+        "category": "theaters",
+        "title": "Shinhwa Theme Park",
+        "rating": 4,
+        "address": "98 Sinhwayeoksa-ro 304beon-gil, Andeok-myeon, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.3051791,
+        "longitude": 126.31520529999999
+    },
+    {
+        "category": "theaters",
+        "title": "JEJU ART CIRCUS (제주아트서커스)",
+        "rating": 4.3,
+        "address": "214 Donggwang-ro, Andeok-myeon, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.314340699999995,
+        "longitude": 126.3447396
+    },
+    {
+        "category": "theaters",
+        "title": "숏트롱시네마",
+        "rating": 5,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도 Aewol-eup, Sineom-ri, 2657-2",
+        "latitude": 33.4751222,
+        "longitude": 126.3642637
+    },
+    {
+        "category": "theaters",
+        "title": "Seyire Art Center",
+        "rating": 4.3,
+        "address": "South Korea, Jeju-do, Jeju-si, 서광로, 182-6 원앙빌딩 지하 세이레아트센터",
+        "latitude": 33.49922,
+        "longitude": 126.516044
+    },
+    {
+        "category": "souvenir counters",
+        "title": "더 아일랜더 (The Islander)",
+        "rating": 4.5,
+        "address": "7 Gwandeok-ro 4-gil, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.512386899999996,
+        "longitude": 126.5214218
+    },
+    {
+        "category": "souvenir counters",
+        "title": "JESTORY",
+        "rating": 4.4,
+        "address": "60 Maksukpo-ro, Daeryun-dong, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2360926,
+        "longitude": 126.51491929999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gift store Banana Jungmun",
+        "rating": 4.6,
+        "address": "South Korea, Jeju-do, Seogwipo-si, 특별자치도, Iljuseo-ro, 875, KR",
+        "latitude": 33.2580604,
+        "longitude": 126.41718449999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hi jeju Gift shop 하이제주기념품",
+        "rating": 4.4,
+        "address": "South Korea, Jeju-do, Jeju-si, 연동 Noyeon-ro, 81, 1층",
+        "latitude": 33.486044899999996,
+        "longitude": 126.4888642
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Moiso",
+        "rating": 4.2,
+        "address": "14 Singwang-ro 8-gil, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.487094,
+        "longitude": 126.4886112
+    },
+    {
+        "category": "souvenir counters",
+        "title": "종종제주",
+        "rating": 4.9,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Seongyo-ro, 66, KR",
+        "latitude": 33.4878473,
+        "longitude": 126.7124147
+    },
+    {
+        "category": "souvenir counters",
+        "title": "tote 토트 제주도 기념품샵 | Tote - Jeju Souvenir Shop",
+        "rating": 5,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Jungang-ro 13-gil, 35",
+        "latitude": 33.5116788,
+        "longitude": 126.527986
+    },
+    {
+        "category": "souvenir counters",
+        "title": "By Jeju",
+        "rating": 4.6,
+        "address": "1023-2 Yongdam 3(sam)-dong, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.516627,
+        "longitude": 126.5040466
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gift store Banana Hamdeok",
+        "rating": 4.5,
+        "address": "491-9 Sinbuk-ro, Jocheon-eup, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.543733599999996,
+        "longitude": 126.6631261
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gift store Banana SinJeju",
+        "rating": 5,
+        "address": "1층, 94 Noyeon-ro, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4857156,
+        "longitude": 126.4902149
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Syabjeju",
+        "rating": 4.1,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Aewol-eup, Aewolhaean-ro, 867, KR, 1층",
+        "latitude": 33.487617,
+        "longitude": 126.390509
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Jejustarstore",
+        "rating": 5,
+        "address": "1 층, 38 Jewon-gil, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.4865377,
+        "longitude": 126.4892052
+    },
+    {
+        "category": "souvenir counters",
+        "title": "제주 사월",
+        "rating": 4.2,
+        "address": "South Korea, Jeju-do, Jeju-si, 용담1동 Namseong-ro, 75",
+        "latitude": 33.5066132,
+        "longitude": 126.51455809999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "선물고팡 공항점",
+        "rating": 4.2,
+        "address": "South Korea, Jeju-si, KR특별자치도 제주시 월성로 15 1층",
+        "latitude": 33.50289,
+        "longitude": 126.5049275
+    },
+    {
+        "category": "souvenir counters",
+        "title": "JTO Duty Free Shop",
+        "rating": 3.7,
+        "address": "2700 중문동, 특별자치도, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2413649,
+        "longitude": 126.4245153
+    },
+    {
+        "category": "souvenir counters",
+        "title": "gyulgyulstore",
+        "rating": 2.6,
+        "address": "238 Seohaean-ro, 특별자치도, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.508790399999995,
+        "longitude": 126.471508
+    },
+    {
+        "category": "souvenir counters",
+        "title": "제스코관광마트",
+        "rating": 4.2,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도 Gujwa-eup, Bijarim-ro, 1191",
+        "latitude": 33.4352771,
+        "longitude": 126.73201949999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Sonjeju",
+        "rating": 5,
+        "address": "510 Seohaean-ro, Yongdam 3(sam)-dong, Jeju-si, Jeju-do, South Korea",
+        "latitude": 33.5195478,
+        "longitude": 126.4934887
+    },
+    {
+        "category": "souvenir counters",
+        "title": "오달콤제주 함덕점",
+        "rating": 4.3,
+        "address": "South Korea, Jeju-do, Jeju-si, 특별자치도, Jocheon-eup, Hamdeok-ri, 1278-1, KR",
+        "latitude": 33.5415971,
+        "longitude": 126.66626029999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Jeju Handmade Gift Shop",
+        "rating": 5,
+        "address": "521-2 Jeongbang-dong, Seogwipo-si, Jeju-do, South Korea",
+        "latitude": 33.2459042,
+        "longitude": 126.5642072
+    }
+]

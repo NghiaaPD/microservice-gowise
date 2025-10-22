@@ -1,0 +1,3474 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Ayala Museum",
+        "rating": 4.6,
+        "address": "Makati Avenue, corner Dela Rosa Street, Ayala Center, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5535827,
+        "longitude": 121.02332849999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ayala Triangle Gardens",
+        "rating": 4.5,
+        "address": "Paseo De Roxas St Cor Makati Ave, Cor Ayala Ave, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.5570493,
+        "longitude": 121.0244961
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Makati Museum",
+        "rating": 4.2,
+        "address": "986 J. P. Rizal St, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.567471,
+        "longitude": 121.03281539999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Greenbelt Park",
+        "rating": 4.6,
+        "address": "Makati Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.552727599999999,
+        "longitude": 121.0222429
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Washington Sycip Park",
+        "rating": 4.6,
+        "address": "Legazpi Street, Legaspi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.553861999999999,
+        "longitude": 121.01799199999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Yuchengco Museum",
+        "rating": 4.3,
+        "address": "RCBC Plaza, Corner Ayala Avenue and Senator Gil J. Puyat Avenue, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.560475799999999,
+        "longitude": 121.01621709999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Makati Park and Garden",
+        "rating": 4.2,
+        "address": "Bldg 6 Dr Jose P. Rizal Ext, Taguig, 1215 Metro Manila, Philippines",
+        "latitude": 14.5645019,
+        "longitude": 121.0563198
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Legazpi Active Park",
+        "rating": 4.6,
+        "address": "Rada, Legazpi Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.554124,
+        "longitude": 121.016831
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Jaime C. Velasquez Park",
+        "rating": 4.5,
+        "address": "H26F+247, Tordesillas, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.560039,
+        "longitude": 121.02278799999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Pio del Pilar Monument",
+        "rating": 4.3,
+        "address": "8735 Makati Ave, Makati City, 1227 Metro Manila, Philippines",
+        "latitude": 14.5586047,
+        "longitude": 121.0265946
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ninoy Aquino Monument - Makati City",
+        "rating": 3.9,
+        "address": "6766 Ayala Ave, Legazpi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5567009,
+        "longitude": 121.0215716
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Guadalupe Ruins",
+        "rating": 4.2,
+        "address": "7440 Bernardino, Makati City, 1211 Metro Manila, Philippines",
+        "latitude": 14.566109599999999,
+        "longitude": 121.04312399999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "The Mind Museum",
+        "rating": 4.4,
+        "address": "JY Campos Park, 3rd Ave, Taguig, 1634 Metro Manila, Philippines",
+        "latitude": 14.5522552,
+        "longitude": 121.0456396
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Tus sa Red House",
+        "rating": 5,
+        "address": "G2JC+9FW, Makati City, Metro Manila, Philippines",
+        "latitude": 14.530994199999999,
+        "longitude": 121.0212007
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Jose Yao Campos Park",
+        "rating": 4.4,
+        "address": "3rd Ave, Taguig, Metro Manila, Philippines",
+        "latitude": 14.5529041,
+        "longitude": 121.046099
+    },
+    {
+        "category": "tourist attractions",
+        "title": "SWATCH Watch Clock",
+        "rating": 5,
+        "address": "H23C+4QF, Greenbelt Park Walkways, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5528094,
+        "longitude": 121.0219116
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Fort Santiago",
+        "rating": 4.5,
+        "address": "Intramuros, Manila, 1002 Metro Manila, Philippines",
+        "latitude": 14.5942337,
+        "longitude": 120.970412
+    },
+    {
+        "category": "tourist attractions",
+        "title": "TARIK SIS",
+        "rating": null,
+        "address": "9261 B Dita, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5641488,
+        "longitude": 121.0055905
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Manila Ocean Park",
+        "rating": 4.2,
+        "address": "666 Behind, Quirino Grandstand, Ermita, Manila, 1000 Metro Manila, Philippines",
+        "latitude": 14.5793088,
+        "longitude": 120.9724475
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Leon Gallery",
+        "rating": 4.5,
+        "address": "G/F, 120, Corinthian Plaza, 121 Paseo de Roxas, Legazpi Village, Makati, Kalakhang Maynila, Philippines",
+        "latitude": 14.553288499999999,
+        "longitude": 121.0188551
+    },
+    {
+        "category": "parks",
+        "title": "Legazpi Active Park",
+        "rating": 4.6,
+        "address": "Rada, Legazpi Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.554124,
+        "longitude": 121.016831
+    },
+    {
+        "category": "parks",
+        "title": "Washington Sycip Park",
+        "rating": 4.6,
+        "address": "Legazpi Street, Legaspi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.553861999999999,
+        "longitude": 121.01799199999999
+    },
+    {
+        "category": "parks",
+        "title": "Jaime C. Velasquez Park",
+        "rating": 4.5,
+        "address": "H26F+247, Tordesillas, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.560039,
+        "longitude": 121.02278799999999
+    },
+    {
+        "category": "parks",
+        "title": "Makati Park and Garden",
+        "rating": 4.2,
+        "address": "Bldg 6 Dr Jose P. Rizal Ext, Taguig, 1215 Metro Manila, Philippines",
+        "latitude": 14.5645019,
+        "longitude": 121.0563198
+    },
+    {
+        "category": "parks",
+        "title": "Ayala Triangle Gardens",
+        "rating": 4.5,
+        "address": "Paseo De Roxas St Cor Makati Ave, Cor Ayala Ave, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.5570493,
+        "longitude": 121.0244961
+    },
+    {
+        "category": "parks",
+        "title": "Greenbelt Park",
+        "rating": 4.6,
+        "address": "Makati Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.552727599999999,
+        "longitude": 121.0222429
+    },
+    {
+        "category": "parks",
+        "title": "Guadalupe Nuevo Cloverleaf Park",
+        "rating": 3.7,
+        "address": "H28W+XF6, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5674183,
+        "longitude": 121.04614129999999
+    },
+    {
+        "category": "parks",
+        "title": "Makati Poblacion Park",
+        "rating": null,
+        "address": "Riverside J. P. Rizal St, Poblacion, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.5671833,
+        "longitude": 121.0337296
+    },
+    {
+        "category": "parks",
+        "title": "Mahogany Park",
+        "rating": 4.2,
+        "address": "G2PF+6XG, Mahogany Rd, Makati City, Metro Manila, Philippines",
+        "latitude": 14.535559,
+        "longitude": 121.02496239999999
+    },
+    {
+        "category": "parks",
+        "title": "Crane & Turtle Garden",
+        "rating": 4.5,
+        "address": "H239+G7V, Legazpi Street, Legazpi Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5538551,
+        "longitude": 121.01818619999999
+    },
+    {
+        "category": "parks",
+        "title": "Buendia Freedom Park",
+        "rating": 3.5,
+        "address": "H268+H3R, Sen. Gil J. Puyat Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5614821,
+        "longitude": 121.0151322
+    },
+    {
+        "category": "parks",
+        "title": "Magallanes Interchange Park",
+        "rating": 4,
+        "address": "G2R8+2PF, Makati City, Metro Manila, Philippines",
+        "latitude": 14.540073999999999,
+        "longitude": 121.01679159999999
+    },
+    {
+        "category": "parks",
+        "title": "BGC Greenway Park",
+        "rating": 4.6,
+        "address": "130 McKinley Rd, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5454115,
+        "longitude": 121.0450261
+    },
+    {
+        "category": "parks",
+        "title": "Makati Linear Park",
+        "rating": null,
+        "address": "H28P+PQW, Makati City, Metro Manila, Philippines",
+        "latitude": 14.566837,
+        "longitude": 121.0367897
+    },
+    {
+        "category": "parks",
+        "title": "Campanilla Park",
+        "rating": 4,
+        "address": "1417 Campanilla, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5368505,
+        "longitude": 121.03021179999999
+    },
+    {
+        "category": "parks",
+        "title": "Rizal Park",
+        "rating": 4.5,
+        "address": "Ermita, Manila, 1000 Metro Manila, Philippines",
+        "latitude": 14.5826446,
+        "longitude": 120.97868869999999
+    },
+    {
+        "category": "parks",
+        "title": "Legazpi Mini Park",
+        "rating": 4.7,
+        "address": "Legazpi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.553978599999999,
+        "longitude": 121.01678249999999
+    },
+    {
+        "category": "parks",
+        "title": "Glorietta 3 Park",
+        "rating": 4.3,
+        "address": "H22G+X2X, Parkway Dr, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5524965,
+        "longitude": 121.02510989999999
+    },
+    {
+        "category": "parks",
+        "title": "Jose Yao Campos Park",
+        "rating": 4.4,
+        "address": "3rd Ave, Taguig, Metro Manila, Philippines",
+        "latitude": 14.5529041,
+        "longitude": 121.046099
+    },
+    {
+        "category": "parks",
+        "title": "San Lorenzo Village",
+        "rating": 4.3,
+        "address": "G2X8+W6G, Antonio Arnaiz Ave, Makati, 1223 Kalakhang Maynila, Philippines",
+        "latitude": 14.549807999999999,
+        "longitude": 121.01558999999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Blackbird Makati",
+        "rating": 4.6,
+        "address": "6752 1229 Makati Ave, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5558591,
+        "longitude": 121.02464049999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Manam Greenbelt",
+        "rating": 4.7,
+        "address": "2/F Greenbelt 3, Esperanza St. cor. Greenbelt Dr, Esperanza St, Ayala Center, Makati City, Metro Manila, Philippines",
+        "latitude": 14.551921199999999,
+        "longitude": 121.0212591
+    },
+    {
+        "category": "restaurants",
+        "title": "Firefly Roofdeck Restaurant, Makati",
+        "rating": 4.5,
+        "address": "8008 Makati Ave. cor. Kalayaan Ave., 32/F City Garden Grand Hotel, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.564756599999999,
+        "longitude": 121.02925619999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Manam",
+        "rating": 4.9,
+        "address": "2nd Floor, Glorietta 4, Courtyard Dr, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5513569,
+        "longitude": 121.02607959999999
+    },
+    {
+        "category": "restaurants",
+        "title": "People's Palace",
+        "rating": 4.5,
+        "address": "Greenbelt 3, Esperanza St, Makati City, 1223 Metro Manila, Philippines",
+        "latitude": 14.552195699999999,
+        "longitude": 121.02232479999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Ember by Josh Boutwood",
+        "rating": 4.7,
+        "address": "3 Greenbelt Dr, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.552218799999999,
+        "longitude": 121.0221241
+    },
+    {
+        "category": "restaurants",
+        "title": "Encima Roofdeck Restaurant, Makati",
+        "rating": 4.7,
+        "address": "Topmost Floor City Garden Hotel Makati, 7870 Makati Avenue, corner Durban, Barangay Poblacion, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.564087599999999,
+        "longitude": 121.0294337
+    },
+    {
+        "category": "restaurants",
+        "title": "WG Restaurant",
+        "rating": 4.8,
+        "address": "5076 P Burgos St, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.566247299999999,
+        "longitude": 121.0309355
+    },
+    {
+        "category": "restaurants",
+        "title": "Las Flores",
+        "rating": 4.6,
+        "address": "Level 1, 3 Greenbelt Dr, Makati City, 1228 Metro Manila, Philippines",
+        "latitude": 14.5519755,
+        "longitude": 121.0215987
+    },
+    {
+        "category": "restaurants",
+        "title": "Mendokoro Ramenba Makati",
+        "rating": 4.6,
+        "address": "Unit 14 & 15, V Corporate Center, Salcedo Village, Soliman, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.560535199999999,
+        "longitude": 121.0247955
+    },
+    {
+        "category": "restaurants",
+        "title": "Manam at the Triangle",
+        "rating": 4.8,
+        "address": "Restaurant Arcade, Ayala Triangle Walkways, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5562215,
+        "longitude": 121.02416649999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Green Bar",
+        "rating": 4.6,
+        "address": "106 Aguirre, Legazpi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5526564,
+        "longitude": 121.01751709999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Tatatito",
+        "rating": 4.6,
+        "address": "Ground floor, OPL Building, 100 Don Carlos Palanca, Legazpi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5560686,
+        "longitude": 121.0197314
+    },
+    {
+        "category": "restaurants",
+        "title": "Vikings Luxury Buffet, SM Jazz Mall Makati",
+        "rating": 4.8,
+        "address": "Ground Floor, Jazz Mall, Metropolitan Ave, corner Nicanor Garcia St, Makati City, Metro Manila, Philippines",
+        "latitude": 14.564056299999999,
+        "longitude": 121.02205649999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Rumba",
+        "rating": 4.5,
+        "address": "Ground Floor, The Shops at Ayala Triangle Gardens, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5578281,
+        "longitude": 121.02575039999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Hummus Elijah",
+        "rating": 4.5,
+        "address": "G/F, 5059 P Burgos St, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.5650309,
+        "longitude": 121.0311953
+    },
+    {
+        "category": "restaurants",
+        "title": "Sicilian Roast by Giuseppe Genco",
+        "rating": 4.5,
+        "address": "C, Corner Dela Rosa Street, Legazpi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.556045999999998,
+        "longitude": 121.0196994
+    },
+    {
+        "category": "restaurants",
+        "title": "Finkels Makati",
+        "rating": 4.9,
+        "address": "Durban Hotel, 4875 Durban, Brgy. Poblacion, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.563976799999999,
+        "longitude": 121.0294455
+    },
+    {
+        "category": "restaurants",
+        "title": "Wildflour Restaurant - Salcedo",
+        "rating": 4.5,
+        "address": "V Corporate Center, Salcedo Village, Ground Floor, 125 L.P. Leviste Street, Makati City, 1227 Metro Manila, Philippines",
+        "latitude": 14.560288499999999,
+        "longitude": 121.02490359999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Spice Cafe",
+        "rating": 4.8,
+        "address": "7/F City Garden Grand Hotel, Kalayaan Avenue, corner Makati Ave, Poblacion, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.5647416,
+        "longitude": 121.0292906
+    },
+    {
+        "category": "cafes",
+        "title": "Odd Cafe | Makati",
+        "rating": 4.7,
+        "address": "7th floor Finman Centre Building 131 Tordesillas, cor Bautista, Salcedo Village, Makati City, 1227 Metro Manila, Philippines",
+        "latitude": 14.561012499999999,
+        "longitude": 121.0243855
+    },
+    {
+        "category": "cafes",
+        "title": "Panco Cafe - Legazpi Makati",
+        "rating": 4.8,
+        "address": "110 Don Carlos Palanca, Legazpi Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.555089299999999,
+        "longitude": 121.0191303
+    },
+    {
+        "category": "cafes",
+        "title": "El Mundo Cafe",
+        "rating": 4.8,
+        "address": "5091 P Burgos St, Makati City, Metro Manila, Philippines",
+        "latitude": 14.566801,
+        "longitude": 121.0310464
+    },
+    {
+        "category": "cafes",
+        "title": "Antipodean Coffee Roasters Legazpi Village",
+        "rating": 4.6,
+        "address": "111 Paseo de Roxas, Legazpi Village, Makati City, 1129 Metro Manila, Philippines",
+        "latitude": 14.554067,
+        "longitude": 121.0190701
+    },
+    {
+        "category": "cafes",
+        "title": "Commune Café + Bar + Roastery",
+        "rating": 4.4,
+        "address": "36 Polaris, Poblacion, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.562694899999999,
+        "longitude": 121.0300319
+    },
+    {
+        "category": "cafes",
+        "title": "Bad Cafe",
+        "rating": 4.4,
+        "address": "Unit 101-A, H258+2C8, Windsor Tower, 163 Legazpi Street, Legazpi Village, Makati City, 1223 Metro Manila, Philippines",
+        "latitude": 14.557431999999999,
+        "longitude": 121.0160042
+    },
+    {
+        "category": "cafes",
+        "title": "Nihon Cafe Bel Air",
+        "rating": 4.6,
+        "address": "78 Estrella, Brgy, Makati City, Metro Manila, Philippines",
+        "latitude": 14.560423199999999,
+        "longitude": 121.040076
+    },
+    {
+        "category": "cafes",
+        "title": "Sourdough Cafe Perea Makati",
+        "rating": 4.4,
+        "address": "Mayfair Mansion, 116 Perea, Legazpi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5544687,
+        "longitude": 121.02030889999999
+    },
+    {
+        "category": "cafes",
+        "title": "Solid Ground Coffee",
+        "rating": 4.8,
+        "address": "J.D. Villena St, Poblacion, Makati City, Metro Manila, Philippines",
+        "latitude": 14.565449599999999,
+        "longitude": 121.0333531
+    },
+    {
+        "category": "cafes",
+        "title": "Yardstick Coffee",
+        "rating": 4.5,
+        "address": "Universal LMS Building, 106 Esteban, Makati City, Metro Manila, Philippines",
+        "latitude": 14.556733,
+        "longitude": 121.01730599999999
+    },
+    {
+        "category": "cafes",
+        "title": "Good Sh*t Coffee",
+        "rating": 4.5,
+        "address": "5872 Enriquez, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5641625,
+        "longitude": 121.03193689999999
+    },
+    {
+        "category": "cafes",
+        "title": "H Proper Coffee Roasters - Ayala Triangle Garden",
+        "rating": 4.6,
+        "address": "Restaurant Arcade, Ayala Triangle Walkways, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5563211,
+        "longitude": 121.0239685
+    },
+    {
+        "category": "cafes",
+        "title": "Filling Station Bar And Cafe",
+        "rating": 4.5,
+        "address": "5012 P Burgos St, Brgy Poblacion, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.563452499999999,
+        "longitude": 121.02967419999999
+    },
+    {
+        "category": "cafes",
+        "title": "Pancho Cafe Makati",
+        "rating": 4.7,
+        "address": "Benavidez Street, Legazpi Village, Makati City, 2992 Metro Manila, Philippines",
+        "latitude": 14.5517085,
+        "longitude": 121.0183797
+    },
+    {
+        "category": "cafes",
+        "title": "Nomu Cafe Jupiter",
+        "rating": 4.8,
+        "address": "134 Jupiter, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.5629621,
+        "longitude": 121.02527389999999
+    },
+    {
+        "category": "cafes",
+        "title": "Spotted Pig Cafe Esteban",
+        "rating": 4.4,
+        "address": "109 Esteban, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.556858499999999,
+        "longitude": 121.0169799
+    },
+    {
+        "category": "cafes",
+        "title": "Habitual Coffee Salcedo Village",
+        "rating": 4.3,
+        "address": "Paseo Heights, Salcedo Village, L.P. Leviste Street, Makati City, 1230 Metro Manila, Philippines",
+        "latitude": 14.559277699999999,
+        "longitude": 121.0227417
+    },
+    {
+        "category": "cafes",
+        "title": "Beselu Cafe",
+        "rating": 4.8,
+        "address": "7850 Makati Ave, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.5651161,
+        "longitude": 121.0297375
+    },
+    {
+        "category": "cafes",
+        "title": "MOMENT COFFEE",
+        "rating": 4.7,
+        "address": "6762 Ayala Ave, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5558892,
+        "longitude": 121.0220804
+    },
+    {
+        "category": "cafes",
+        "title": "The Black Bean - Legazpi Village",
+        "rating": 4.7,
+        "address": "Cattleya Condominium Building, Salcedo, Legazpi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5523571,
+        "longitude": 121.0159738
+    },
+    {
+        "category": "mountains",
+        "title": "Trail Adventours",
+        "rating": 4.7,
+        "address": null,
+        "latitude": 12.7335786,
+        "longitude": 121.89598919999999
+    },
+    {
+        "category": "mountains",
+        "title": "Batulao Golf and Mountain Resorts Incorporated",
+        "rating": 5,
+        "address": "Loyola Plans Building, Antonio Arnaiz Ave, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.551419,
+        "longitude": 121.016893
+    },
+    {
+        "category": "mountains",
+        "title": "MOUNTAIN PEAK INTERNATIONAL HUMAN RESOURCES CORP.",
+        "rating": 4.6,
+        "address": "4TH Floor 1748, AMV Bldg, Evangelista St, Corner General Estrella, Makati City, 1233 Metro Manila, Philippines",
+        "latitude": 14.5452528,
+        "longitude": 121.0109875
+    },
+    {
+        "category": "mountains",
+        "title": "Makati City",
+        "rating": null,
+        "address": "Metro Manila, Philippines",
+        "latitude": 14.5573752,
+        "longitude": 121.0227371
+    },
+    {
+        "category": "mountains",
+        "title": "White Mountains",
+        "rating": null,
+        "address": "Makati Square, F8 Chino Roces Ave, Makati City, 1224 Metro Manila, Philippines",
+        "latitude": 14.5523861,
+        "longitude": 121.0139178
+    },
+    {
+        "category": "mountains",
+        "title": "Bujajorn Mountain Resort",
+        "rating": null,
+        "address": "Office 210, Residencias De Manila, Paco, Manila, 1011 Metro Manila, Philippines",
+        "latitude": 14.593634499999999,
+        "longitude": 121.0028165
+    },
+    {
+        "category": "mountains",
+        "title": "Ayala Triangle Bike Circuit",
+        "rating": 4.4,
+        "address": "H24G+W6G, Makati Avenue, Paseo de Roxas, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5573029,
+        "longitude": 121.0255718
+    },
+    {
+        "category": "mountains",
+        "title": "Still Mountain Taichi Kung (Still Mountains Publishing)",
+        "rating": 5,
+        "address": "H23C+V6P, Greenbelt Mansion, Perea Street, Legaspi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5547089,
+        "longitude": 121.02059179999999
+    },
+    {
+        "category": "mountains",
+        "title": "Washington Sycip Park",
+        "rating": 4.6,
+        "address": "Legazpi Street, Legaspi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.553861999999999,
+        "longitude": 121.01799199999999
+    },
+    {
+        "category": "mountains",
+        "title": "Wishing Stone",
+        "rating": 2.5,
+        "address": "Washington Sycip Park, Gamboa, Legazpi Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5536286,
+        "longitude": 121.01795519999999
+    },
+    {
+        "category": "mountains",
+        "title": "BGC Greenway Park",
+        "rating": 4.6,
+        "address": "130 McKinley Rd, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5454115,
+        "longitude": 121.0450261
+    },
+    {
+        "category": "mountains",
+        "title": "Mountain Ridge Resort And Development",
+        "rating": null,
+        "address": "2295 Chino Roces Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5351821,
+        "longitude": 121.022087
+    },
+    {
+        "category": "mountains",
+        "title": "Triple Global Mountain Star",
+        "rating": null,
+        "address": "105 L.P. Leviste Street, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5603053,
+        "longitude": 121.0199366
+    },
+    {
+        "category": "mountains",
+        "title": "Triple Global Mountain Star Incorporated",
+        "rating": null,
+        "address": "121, Under Ground Garden Level Corinthian Plaza, Paseo De Roxas, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.555380999999999,
+        "longitude": 121.01989599999999
+    },
+    {
+        "category": "mountains",
+        "title": "Blue Mountain Worldwide Distribution Inc.",
+        "rating": null,
+        "address": "1182 Chino Roces Ave, Makati City, 1203 Metro Manila, Philippines",
+        "latitude": 14.562256699999999,
+        "longitude": 121.0108108
+    },
+    {
+        "category": "mountains",
+        "title": "Mahogany Park",
+        "rating": 4.2,
+        "address": "G2PF+6XG, Mahogany Rd, Makati City, Metro Manila, Philippines",
+        "latitude": 14.535559,
+        "longitude": 121.02496239999999
+    },
+    {
+        "category": "mountains",
+        "title": "Moon by the Mountain Corporation",
+        "rating": null,
+        "address": "VGP Center, 12th Floor, 6772 Ayala Ave, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.5593212,
+        "longitude": 121.0176724
+    },
+    {
+        "category": "mountains",
+        "title": "The Bouldering Hive Makati",
+        "rating": 4.8,
+        "address": "Circuit Makati, Ayala Malls, Upper Ground Level, Circuit Lane, Makati City, 1207, Philippines",
+        "latitude": 14.574997999999999,
+        "longitude": 121.0195981
+    },
+    {
+        "category": "mountains",
+        "title": "Lake Mountain Water Station",
+        "rating": null,
+        "address": "2808 Bolivia, Makati City, 1234 Metro Manila, Philippines",
+        "latitude": 14.5551306,
+        "longitude": 121.0065558
+    },
+    {
+        "category": "mountains",
+        "title": "Mt. Daraitan",
+        "rating": 4.8,
+        "address": "JC7Q+FFH, General Nakar, Rizal, Philippines",
+        "latitude": 14.613685499999999,
+        "longitude": 121.43872999999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Daranak Falls",
+        "rating": 4.4,
+        "address": "G8V6+H9, Tanay, Rizal, Philippines",
+        "latitude": 14.543875,
+        "longitude": 121.3110238
+    },
+    {
+        "category": "waterfalls",
+        "title": "Hinulugang Taktak Protected Landscape",
+        "rating": 4.2,
+        "address": "H5V9+V35, Daang Bakal Rd, Antipolo, 1870 Rizal, Philippines",
+        "latitude": 14.5946381,
+        "longitude": 121.1677383
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cavinti Falls (Pagsanjan Falls)",
+        "rating": 4.5,
+        "address": "4013 Cavinti Bridge I, Cavinti, 4013 Laguna, Philippines",
+        "latitude": 14.262652,
+        "longitude": 121.498915
+    },
+    {
+        "category": "waterfalls",
+        "title": "Ambon-Ambon Falls",
+        "rating": 4.5,
+        "address": "Pangil, Laguna, Philippines",
+        "latitude": 14.412781299999999,
+        "longitude": 121.48413699999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Taytay falls",
+        "rating": 4.5,
+        "address": "4G83+9VC, Majayjay, Laguna, Philippines",
+        "latitude": 14.1150928,
+        "longitude": 121.50323519999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Hulugan Falls",
+        "rating": 4.6,
+        "address": "6F6H+9WQ, Luisiana, Laguna, Philippines",
+        "latitude": 14.2109525,
+        "longitude": 121.479844
+    },
+    {
+        "category": "waterfalls",
+        "title": "Batlag Falls",
+        "rating": 4.4,
+        "address": "G8W5+HWG, Tanay, Rizal, Philippines",
+        "latitude": 14.5464358,
+        "longitude": 121.3098181
+    },
+    {
+        "category": "waterfalls",
+        "title": "Aliw Falls",
+        "rating": 4.6,
+        "address": "6F6X+7J, Luisiana, Laguna, Philippines",
+        "latitude": 14.210673,
+        "longitude": 121.4990275
+    },
+    {
+        "category": "waterfalls",
+        "title": "Maranat Falls",
+        "rating": 4.6,
+        "address": "R5RP+2J3, Norzagaray, Bulakan, Philippines",
+        "latitude": 14.840001299999999,
+        "longitude": 121.1865485
+    },
+    {
+        "category": "waterfalls",
+        "title": "Kinabuan Falls",
+        "rating": 4.8,
+        "address": "Q85C+PH7, Tanay, 1870 Rizal, Philippines",
+        "latitude": 14.7592897,
+        "longitude": 121.321418
+    },
+    {
+        "category": "waterfalls",
+        "title": "Malibik-libik Falls",
+        "rating": 4.5,
+        "address": "6Q7H+P87, General Emilio Aguinaldo, Cavite, Philippines",
+        "latitude": 14.214298699999999,
+        "longitude": 120.7782945
+    },
+    {
+        "category": "waterfalls",
+        "title": "Balite Falls (MSSL)",
+        "rating": 4.2,
+        "address": "Balite Rd., Amadeo, 4119 Cavite, Philippines",
+        "latitude": 14.2110186,
+        "longitude": 120.922387
+    },
+    {
+        "category": "waterfalls",
+        "title": "Balagbag Falls",
+        "rating": 4.5,
+        "address": "GJWF+488, Real, Quezon, Philippines",
+        "latitude": 14.5452766,
+        "longitude": 121.6233274
+    },
+    {
+        "category": "waterfalls",
+        "title": "Buruwisan Falls",
+        "rating": 4.6,
+        "address": "FF4Q+JFX, Siniloan, Laguna, Philippines",
+        "latitude": 14.4566231,
+        "longitude": 121.4887261
+    },
+    {
+        "category": "waterfalls",
+        "title": "Ambon-Ambon Falls",
+        "rating": 4.4,
+        "address": "3W22+CW7, Laurel, Batangas, Philippines",
+        "latitude": 14.0510419,
+        "longitude": 120.90231209999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "KIPOT FALLS",
+        "rating": 4.8,
+        "address": "7G88+5VG, Kipot Acces Pathway, Cavinti, Laguna, Philippines",
+        "latitude": 14.265426999999999,
+        "longitude": 121.517201
+    },
+    {
+        "category": "waterfalls",
+        "title": "Panguil River Eco Park",
+        "rating": 4.4,
+        "address": "CF7J+8G8, Pangil, Laguna, Philippines",
+        "latitude": 14.4132898,
+        "longitude": 121.4813185
+    },
+    {
+        "category": "waterfalls",
+        "title": "Laktas Falls",
+        "rating": 4.6,
+        "address": "7935+6CQ, Dingalan, Aurora, Philippines",
+        "latitude": 15.253077999999999,
+        "longitude": 121.35860299999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Kipot Falls",
+        "rating": 4,
+        "address": "R64F+2V, Rodriguez, Rizal, Philippines",
+        "latitude": 14.805041699999999,
+        "longitude": 121.22465559999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Tappiyah Falls",
+        "rating": 4.7,
+        "address": "W4QP+QMM, Banaue, Ifugao, Philippines",
+        "latitude": 16.939462499999998,
+        "longitude": 121.1366647
+    },
+    {
+        "category": "lakes",
+        "title": "Zoo Lake",
+        "rating": 3.2,
+        "address": "Malate, Manila, 1004 Metro Manila, Philippines",
+        "latitude": 14.5645311,
+        "longitude": 120.9886617
+    },
+    {
+        "category": "lakes",
+        "title": "Manila Water Reservoir Water Tank",
+        "rating": 5,
+        "address": "Taguig, Metro Manila, Philippines",
+        "latitude": 14.5566971,
+        "longitude": 121.0597566
+    },
+    {
+        "category": "lakes",
+        "title": "Creak",
+        "rating": 5,
+        "address": "Taguig, Metro Manila, Philippines",
+        "latitude": 14.523535899999999,
+        "longitude": 121.05216539999999
+    },
+    {
+        "category": "lakes",
+        "title": "The Lagoon",
+        "rating": 3,
+        "address": "Taguig, Metro Manila, Philippines",
+        "latitude": 14.564490099999999,
+        "longitude": 121.0570247
+    },
+    {
+        "category": "lakes",
+        "title": "Taguig River",
+        "rating": 4.7,
+        "address": "Taguig, Metro Manila, Philippines",
+        "latitude": 14.5353277,
+        "longitude": 121.063496
+    },
+    {
+        "category": "lakes",
+        "title": "Taal Lake Yacht Club Makati office",
+        "rating": 5,
+        "address": "121 Paseo de Roxas, Legazpi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5537624,
+        "longitude": 121.01908549999999
+    },
+    {
+        "category": "lakes",
+        "title": "Maynilad PAGCOR Pumping-Station and Reservoir",
+        "rating": 3,
+        "address": "Parañaque, Metro Manila, Philippines",
+        "latitude": 14.5192699,
+        "longitude": 120.9852123
+    },
+    {
+        "category": "lakes",
+        "title": "Central Lagoon",
+        "rating": 4.7,
+        "address": "Ermita, Manila, 1000 Metro Manila, Philippines",
+        "latitude": 14.582927699999999,
+        "longitude": 120.97911409999999
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Mountain Water Station",
+        "rating": null,
+        "address": "2808 Bolivia, Makati City, 1234 Metro Manila, Philippines",
+        "latitude": 14.5551306,
+        "longitude": 121.0065558
+    },
+    {
+        "category": "lakes",
+        "title": "Marikina River",
+        "rating": 4.7,
+        "address": "Pasig, Metro Manila, Philippines",
+        "latitude": 14.5733584,
+        "longitude": 121.07560919999999
+    },
+    {
+        "category": "lakes",
+        "title": "West Lake",
+        "rating": null,
+        "address": "19 Kalayaan Ave, Taguig, 1214 Kalakhang Maynila, Philippines",
+        "latitude": 14.5625051,
+        "longitude": 121.0522898
+    },
+    {
+        "category": "lakes",
+        "title": "Makati Park and Garden",
+        "rating": 4.2,
+        "address": "Bldg 6 Dr Jose P. Rizal Ext, Taguig, 1215 Metro Manila, Philippines",
+        "latitude": 14.5645019,
+        "longitude": 121.0563198
+    },
+    {
+        "category": "lakes",
+        "title": "Jaime C. Velasquez Park",
+        "rating": 4.5,
+        "address": "H26F+247, Tordesillas, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.560039,
+        "longitude": 121.02278799999999
+    },
+    {
+        "category": "lakes",
+        "title": "Legazpi Active Park",
+        "rating": 4.6,
+        "address": "Rada, Legazpi Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.554124,
+        "longitude": 121.016831
+    },
+    {
+        "category": "lakes",
+        "title": "PUP Lagoon",
+        "rating": 4.5,
+        "address": "Santa Mesa, Manila, 1008 Metro Manila, Philippines",
+        "latitude": 14.597599899999999,
+        "longitude": 121.0103492
+    },
+    {
+        "category": "lakes",
+        "title": "Golden Lakes Corporation",
+        "rating": 5,
+        "address": "285 Vito Cruz Extension, Barangay La Paz Makati 1204, Makati City, 1630 Metro Manila, Philippines",
+        "latitude": 14.560573499999999,
+        "longitude": 120.9893611
+    },
+    {
+        "category": "lakes",
+        "title": "Ayala Triangle Gardens",
+        "rating": 4.5,
+        "address": "Paseo De Roxas St Cor Makati Ave, Cor Ayala Ave, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.5570493,
+        "longitude": 121.0244961
+    },
+    {
+        "category": "lakes",
+        "title": "Anglers Paradise (Army Anglers Paradise)",
+        "rating": 3,
+        "address": "G2MX+2CF, Taguig, Metro Manila, Philippines",
+        "latitude": 14.5325651,
+        "longitude": 121.0485327
+    },
+    {
+        "category": "lakes",
+        "title": "Greenbelt Park",
+        "rating": 4.6,
+        "address": "Makati Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.552727599999999,
+        "longitude": 121.0222429
+    },
+    {
+        "category": "lakes",
+        "title": "Washington Sycip Park",
+        "rating": 4.6,
+        "address": "Legazpi Street, Legaspi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.553861999999999,
+        "longitude": 121.01799199999999
+    },
+    {
+        "category": "beaches",
+        "title": "Coconut Palace",
+        "rating": 4.8,
+        "address": "Roxas Boulevard, Malate, Manila, 1000 Metro Manila, Philippines",
+        "latitude": 14.571175199999999,
+        "longitude": 120.98209969999999
+    },
+    {
+        "category": "beaches",
+        "title": "Manila Bay Beach",
+        "rating": 4.2,
+        "address": "Roxas Blvd, Malate, Manila, 1004 Metro Manila, Philippines",
+        "latitude": 14.574972899999999,
+        "longitude": 120.97956119999999
+    },
+    {
+        "category": "beaches",
+        "title": "Montemar Beach Club Inc., Reservations Office",
+        "rating": 3.7,
+        "address": "10th Flr., Telecom Plaza 1200, 316 Sen. Gil J. Puyat Ave, Makati, Kalakhang Maynila, Philippines",
+        "latitude": 14.5613028,
+        "longitude": 121.0186696
+    },
+    {
+        "category": "beaches",
+        "title": "Matabungkay Beach Resort And Hotel - Manila Office",
+        "rating": 4.6,
+        "address": "112 Legazpi Street, Legazpi Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.553809999999999,
+        "longitude": 121.021541
+    },
+    {
+        "category": "beaches",
+        "title": "Pearl Farm Beach Resort - Manila Sales Office",
+        "rating": 4.8,
+        "address": "139 Valero, Makati City, 1227 Metro Manila, Philippines",
+        "latitude": 14.558147799999999,
+        "longitude": 121.0218687
+    },
+    {
+        "category": "beaches",
+        "title": "The Seashore Beach Club Batangas",
+        "rating": 2,
+        "address": "Cityland Pasong Tamo Tower, Unit UG42, 6264 Calle Estacion, Makati City, 1235 Metro Manila, Philippines",
+        "latitude": 14.549793399999999,
+        "longitude": 121.013302
+    },
+    {
+        "category": "beaches",
+        "title": "Bluewater Maribago Beach Resort",
+        "rating": 4.8,
+        "address": "Makati City, Metro Manila, Philippines",
+        "latitude": 14.559102399999999,
+        "longitude": 121.0196769
+    },
+    {
+        "category": "beaches",
+        "title": "Munting Buhangin Beach Camp Incorporated",
+        "rating": 2.5,
+        "address": "4th Floor, Loyola Plans Building, 879 Antonio Arnaiz Ave, Makati City, 1223 Metro Manila, Philippines",
+        "latitude": 14.551362999999998,
+        "longitude": 121.0169799
+    },
+    {
+        "category": "beaches",
+        "title": "Laiya Beach Club, Inc.",
+        "rating": 3.4,
+        "address": "20th Floor, Unit 2 8737, BDO Plaza, 8737 Paseo de Roxas, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.5585772,
+        "longitude": 121.0256708
+    },
+    {
+        "category": "beaches",
+        "title": "Mandamus Beach",
+        "rating": 4.5,
+        "address": "2044 Roxas Blvd, Malate, Manila, 1004 Metro Manila, Philippines",
+        "latitude": 14.5662509,
+        "longitude": 120.984809
+    },
+    {
+        "category": "beaches",
+        "title": "La Consolacion Paradise Beach Resorts Incorporated",
+        "rating": 5,
+        "address": "9836a Legaspi, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5702246,
+        "longitude": 121.02193199999999
+    },
+    {
+        "category": "beaches",
+        "title": "Asia Divers El Galleon Beach Resort Dive Shop - Makati",
+        "rating": 4.8,
+        "address": "Makati City, Metro Manila, Philippines",
+        "latitude": 14.558411,
+        "longitude": 121.003554
+    },
+    {
+        "category": "beaches",
+        "title": "2 Tan Resort",
+        "rating": null,
+        "address": "G2Q6+57V, Estanislao, Pasay City, Metro Manila, Philippines",
+        "latitude": 14.5379992,
+        "longitude": 121.01068129999999
+    },
+    {
+        "category": "beaches",
+        "title": "Monte Vista Beach Resort - Manila Sales Office",
+        "rating": 5,
+        "address": "820 J. P. Rizal St, Poblacion, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.568869999999999,
+        "longitude": 121.02744899999999
+    },
+    {
+        "category": "beaches",
+        "title": "Cebu White Sands at Maribago Beach",
+        "rating": 4,
+        "address": "4th/F Morning Star Bldg 1600 Pedro Gil St Cor Jorge Bocobo St, Bgy 698, Zone 076 Malate, Manila, Philippines",
+        "latitude": 14.570198999999999,
+        "longitude": 120.9915848
+    },
+    {
+        "category": "beaches",
+        "title": "Crimson Beach Resort And Spa Mactan",
+        "rating": 4.5,
+        "address": "Unit 2202, Pbcom Tower 6795, Ayala Avenue Corner V.A. Rufino Street, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.558558999999999,
+        "longitude": 121.019173
+    },
+    {
+        "category": "beaches",
+        "title": "Laguna De Boracay Village",
+        "rating": 4,
+        "address": "Unit 208, Citiland Dela Rosa Land, 3648 Dela Rosa Street, Makati City, Metro Manila, Philippines",
+        "latitude": 14.558678299999999,
+        "longitude": 121.01574769999999
+    },
+    {
+        "category": "beaches",
+        "title": "Munting Buhangin Beach Camp",
+        "rating": 3.8,
+        "address": "7th Floor, Salcedo Village, 114 L.P. Leviste Street, Makati City, Metro Manila, Philippines",
+        "latitude": 14.559795999999999,
+        "longitude": 121.020067
+    },
+    {
+        "category": "beaches",
+        "title": "Oro B Beach Resort",
+        "rating": null,
+        "address": "2441 Oro-B, San Andres Bukid, Manila, Metro Manila, Philippines",
+        "latitude": 14.5744551,
+        "longitude": 121.00777289999999
+    },
+    {
+        "category": "beaches",
+        "title": "Muscle Beach",
+        "rating": 5,
+        "address": "H22C+PMV, Paseo de Roxas, Makati City, Metro Manila, Philippines",
+        "latitude": 14.551860999999999,
+        "longitude": 121.021677
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bert Lozada Swim School - The A-Venue Hotel, Makati City",
+        "rating": 4.9,
+        "address": "Antel Lifestyle City, Makati Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5660501,
+        "longitude": 121.02896009999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Rockwell Club, Amorsolo Square",
+        "rating": 4.4,
+        "address": "H28P+374, Amorsolo Dr, Makati City, Metro Manila, Philippines",
+        "latitude": 14.565247399999999,
+        "longitude": 121.0356712
+    },
+    {
+        "category": "swimming pools",
+        "title": "Aquamundo Sports (Pool)",
+        "rating": 4,
+        "address": "H29H+25V, B. Valdez, E Zobel, Makati City, Metro Manila, Philippines",
+        "latitude": 14.567611,
+        "longitude": 121.027924
+    },
+    {
+        "category": "swimming pools",
+        "title": "ABITRIA RESIDENCES",
+        "rating": 4.2,
+        "address": "1655 D. Benito, Makati City, 1206 Metro Manila, Philippines",
+        "latitude": 14.576321199999999,
+        "longitude": 121.01531449999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Makati Sports Club",
+        "rating": 4.3,
+        "address": "Gallardo Streets, Salcedo Village, L.P. Leviste Street, Makati City, 1227 Metro Manila, Philippines",
+        "latitude": 14.55951,
+        "longitude": 121.0212306
+    },
+    {
+        "category": "swimming pools",
+        "title": "Dansalan Gardens Swimming Pool",
+        "rating": 4.5,
+        "address": "L08LE Boni Ave, Mandaluyong City, Metro Manila, Philippines",
+        "latitude": 14.575671499999999,
+        "longitude": 121.0435883
+    },
+    {
+        "category": "swimming pools",
+        "title": "The City Club",
+        "rating": 4.3,
+        "address": "4F, 7232 Ayala Ave, Extension, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.5628625,
+        "longitude": 121.0160904
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bonifacio Heights Swimming Pool",
+        "rating": 4.3,
+        "address": "G2PP+8MQ, Taguig, Metro Manila, Philippines",
+        "latitude": 14.5358469,
+        "longitude": 121.0367471
+    },
+    {
+        "category": "swimming pools",
+        "title": "Rockwell Leisure Club, Incorporated",
+        "rating": 4.6,
+        "address": "#23 Amorsolo Building, Amorsolo Dr, Rockwell Center, Makati City, Philippines",
+        "latitude": 14.565542599999999,
+        "longitude": 121.03540819999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "SMDC Jazz Residences Pool",
+        "rating": 3.7,
+        "address": "H27C+7MF, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5631896,
+        "longitude": 121.0216634
+    },
+    {
+        "category": "swimming pools",
+        "title": "California Garden Square Swimming Pool",
+        "rating": 4.2,
+        "address": "H2HW+9VJ, Mandaluyong City, Metro Manila, Philippines",
+        "latitude": 14.5784548,
+        "longitude": 121.04712959999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "YMCA Makati",
+        "rating": 4.3,
+        "address": "7 Sacred Heart St, Village Brgy, Makati City, 1203 Metro Manila, Philippines",
+        "latitude": 14.564542,
+        "longitude": 121.0136994
+    },
+    {
+        "category": "swimming pools",
+        "title": "Philippine Army Swimming Pool",
+        "rating": 4.2,
+        "address": "G2MQ+GVH, Taguig, 1630 Metro Manila, Philippines",
+        "latitude": 14.5338099,
+        "longitude": 121.0397347
+    },
+    {
+        "category": "swimming pools",
+        "title": "City Oasis Makati",
+        "rating": 3.9,
+        "address": "1645 D. Benito, Makati City, 1206 Metro Manila, Philippines",
+        "latitude": 14.5762624,
+        "longitude": 121.015003
+    },
+    {
+        "category": "swimming pools",
+        "title": "KL Serviced Residences",
+        "rating": 4.4,
+        "address": "KL Tower, 117 Gamboa, Legazpi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5535275,
+        "longitude": 121.01693379999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Pool Bar at Makati Shangri-La, Manila",
+        "rating": 4.5,
+        "address": "Ayala Avenue corner Makati Avenue, 4th Level, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.553612,
+        "longitude": 121.02471109999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming Center",
+        "rating": 4,
+        "address": "Rizal Memorial Sports Complex, Adriatico St, Malate, Manila, 1004 Metro Manila, Philippines",
+        "latitude": 14.563731299999999,
+        "longitude": 120.9929197
+    },
+    {
+        "category": "swimming pools",
+        "title": "Ace Water Spa",
+        "rating": 4.4,
+        "address": "H3F5+8PH, United St, Pasig, 1603 Metro Manila, Philippines",
+        "latitude": 14.5735133,
+        "longitude": 121.059072
+    },
+    {
+        "category": "swimming pools",
+        "title": "Raffles fairmont Swimming pool",
+        "rating": null,
+        "address": "Philippines, Metro Manila, Makati City",
+        "latitude": 14.5506573,
+        "longitude": 121.02316069999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Mermaid Pool Bar",
+        "rating": 4.6,
+        "address": "2nd Floor, I'M Hotel, 7862 Makati Avenue corner, Kalayaan Ave, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.564694699999999,
+        "longitude": 121.0297025
+    },
+    {
+        "category": "resorts",
+        "title": "Makati Shangri-La",
+        "rating": 4.6,
+        "address": "Ayala Avenue, Makati Ave, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.5537428,
+        "longitude": 121.02471539999999
+    },
+    {
+        "category": "resorts",
+        "title": "Grand Hyatt Manila",
+        "rating": 4.7,
+        "address": "8th Avenue, corner 35th St, Bonifacio Global City, Taguig, 1634 Metro Manila, Philippines",
+        "latitude": 14.5565544,
+        "longitude": 121.0520219
+    },
+    {
+        "category": "resorts",
+        "title": "City Garden GRAND Hotel Makati",
+        "rating": 4.4,
+        "address": "8008 Makati Ave, Kalayaan Ave, Makati, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.5648298,
+        "longitude": 121.0291654
+    },
+    {
+        "category": "resorts",
+        "title": "Shangri-La The Fort, Manila",
+        "rating": 4.6,
+        "address": "30th Street, corner 5th Ave, Taguig, 1634 Metro Manila, Philippines",
+        "latitude": 14.5524816,
+        "longitude": 121.0468063
+    },
+    {
+        "category": "resorts",
+        "title": "New World Makati Hotel",
+        "rating": 4.6,
+        "address": "Esperanza Street, corner Makati Ave, Ayala Center, Makati City, 1228 Metro Manila, Philippines",
+        "latitude": 14.551174,
+        "longitude": 121.02142479999999
+    },
+    {
+        "category": "resorts",
+        "title": "Lime Resort Manila",
+        "rating": 4,
+        "address": "Seascape Village, CCP Complex, Atang Dela Rama, Pasay City, 1303 Metro Manila, Philippines",
+        "latitude": 14.5502959,
+        "longitude": 120.980622
+    },
+    {
+        "category": "resorts",
+        "title": "Raffles Makati",
+        "rating": 4.7,
+        "address": "1, Raffles Drive, Makati Ave, Makati City, 1224 Metro Manila, Philippines",
+        "latitude": 14.550830699999999,
+        "longitude": 121.02308
+    },
+    {
+        "category": "resorts",
+        "title": "Ascott Makati",
+        "rating": 4.5,
+        "address": "Glorietta 4, Ayala Center, Makati, Makati City, 1224 Metro Manila, Philippines",
+        "latitude": 14.5510313,
+        "longitude": 121.0264059
+    },
+    {
+        "category": "resorts",
+        "title": "Okada Manila",
+        "rating": 4.6,
+        "address": "Entertainment City, New Seaside Dr, Parañaque, 1701 Metro Manila, Philippines",
+        "latitude": 14.5151576,
+        "longitude": 120.9814988
+    },
+    {
+        "category": "resorts",
+        "title": "Discovery Primea",
+        "rating": 4.6,
+        "address": "6749 Ayala Ave, Makati City, 1226 Metro Manila, Philippines",
+        "latitude": 14.5537613,
+        "longitude": 121.0269433
+    },
+    {
+        "category": "resorts",
+        "title": "Makati Diamond Residences",
+        "rating": 4.7,
+        "address": "118 Legazpi Street, Legazpi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.553704199999999,
+        "longitude": 121.0210278
+    },
+    {
+        "category": "resorts",
+        "title": "Dusit Thani Manila",
+        "rating": 4.4,
+        "address": "Ayala Center, Makati City, 1223 Metro Manila, Philippines",
+        "latitude": 14.5486544,
+        "longitude": 121.0258777
+    },
+    {
+        "category": "resorts",
+        "title": "Solaire Resort",
+        "rating": 4.6,
+        "address": "Entertainment City, 1 Aseana Ave, Tambo, Parañaque, 1701 Metro Manila, Philippines",
+        "latitude": 14.523338899999999,
+        "longitude": 120.980075
+    },
+    {
+        "category": "resorts",
+        "title": "Diamond Hotel Philippines",
+        "rating": 4.5,
+        "address": "Roxas Boulevard, Corner Dr. J. Quintos Street, Manila, 1000 Metro Manila, Philippines",
+        "latitude": 14.572441999999999,
+        "longitude": 120.982176
+    },
+    {
+        "category": "resorts",
+        "title": "The Picasso Boutique Serviced Residences",
+        "rating": 4.4,
+        "address": "Salcedo Village, 119 L.P. Leviste Street, Makati City, 1227 Metro Manila, Philippines",
+        "latitude": 14.560071899999999,
+        "longitude": 121.02424699999999
+    },
+    {
+        "category": "resorts",
+        "title": "Conrad Manila",
+        "rating": 4.6,
+        "address": "Seaside Boulevard, Coral Way, Pasay City, 1300 Metro Manila, Philippines",
+        "latitude": 14.5315812,
+        "longitude": 120.98004379999999
+    },
+    {
+        "category": "resorts",
+        "title": "City Garden Hotel Makati",
+        "rating": 4.4,
+        "address": "7870 Makati, corner Durban, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.5642017,
+        "longitude": 121.0293097
+    },
+    {
+        "category": "resorts",
+        "title": "Nüwa Hotel - 5 Star Luxury Resort Hotel & Spa in Metro Manila, Philippines",
+        "rating": 4.7,
+        "address": "Aseana Avenue corner Roxas Boulevard, Entertainment City, Parañaque, Metro Manila, Philippines",
+        "latitude": 14.5250975,
+        "longitude": 120.99265609999999
+    },
+    {
+        "category": "resorts",
+        "title": "Sarasota Residential Resort",
+        "rating": 4.2,
+        "address": "G2C8+W7R, Newport Blvd, 183, Pasay City, 1309 Metro Manila, Philippines",
+        "latitude": 14.5223523,
+        "longitude": 121.0156289
+    },
+    {
+        "category": "resorts",
+        "title": "Novotel Suites Manila At Acqua",
+        "rating": 4.2,
+        "address": "Brgy, Novotel Tower, Coronado, Mandaluyong City, 1550 Metro Manila, Philippines",
+        "latitude": 14.567689999999999,
+        "longitude": 121.0353413
+    },
+    {
+        "category": "camping sites",
+        "title": "Maria's Deck - Urban Glamping",
+        "rating": 4.8,
+        "address": "9421 Magallanes, Makati City, Metro Manila, Philippines",
+        "latitude": 14.562147699999999,
+        "longitude": 121.0475074
+    },
+    {
+        "category": "camping sites",
+        "title": "C6 Campsite",
+        "rating": 4.9,
+        "address": "G3GR+XGQ, Taguig, Metro Manila, Philippines",
+        "latitude": 14.527474799999998,
+        "longitude": 121.0913642
+    },
+    {
+        "category": "camping sites",
+        "title": "Akanan accomodations for waiting ofw",
+        "rating": 5,
+        "address": "1090 C.Ayala, San Andres Bukid, Manila, Metro Manila, Philippines",
+        "latitude": 14.5657673,
+        "longitude": 120.99903599999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Munting Buhangin Beach Camp Incorporated",
+        "rating": 2.5,
+        "address": "4th Floor, Loyola Plans Building, 879 Antonio Arnaiz Ave, Makati City, 1223 Metro Manila, Philippines",
+        "latitude": 14.551362999999998,
+        "longitude": 121.0169799
+    },
+    {
+        "category": "camping sites",
+        "title": "Singalong Nature Campsite Hill",
+        "rating": 3.8,
+        "address": "Sitio Singalong, Barangay San Jose Rizal 1870, Antipolo, Philippines",
+        "latitude": 14.592172199999998,
+        "longitude": 121.240895
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Morri Farm",
+        "rating": 4.2,
+        "address": "M763+J2Q, Kaysakat, Antipolo, 1870 Rizal, Philippines",
+        "latitude": 14.661588,
+        "longitude": 121.25260589999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Recreation Camp",
+        "rating": 4.3,
+        "address": "92PP+J4R, Muntinlupa, Metro Manila, Philippines",
+        "latitude": 14.386608599999999,
+        "longitude": 121.0352781
+    },
+    {
+        "category": "camping sites",
+        "title": "POSO Outpost",
+        "rating": null,
+        "address": "G392+472, C5 Waterfun, Taguig, Metro Manila, Philippines",
+        "latitude": 14.5177635,
+        "longitude": 121.05063559999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Aerox Riders Club Manila",
+        "rating": null,
+        "address": "1587-A 8th st Fabie Estate Subdivision, Manila, 1000, Philippines",
+        "latitude": 14.5726304,
+        "longitude": 121.002366
+    },
+    {
+        "category": "camping sites",
+        "title": "Djhane Pastor Pajarin",
+        "rating": null,
+        "address": "12 Onyx, Makati City, 1204 Metro Manila, Philippines",
+        "latitude": 14.5698396,
+        "longitude": 121.00797809999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Munting Buhangin Beach Camp",
+        "rating": 3.8,
+        "address": "7th Floor, Salcedo Village, 114 L.P. Leviste Street, Makati City, Metro Manila, Philippines",
+        "latitude": 14.559795999999999,
+        "longitude": 121.020067
+    },
+    {
+        "category": "camping sites",
+        "title": "Ocampo private resort",
+        "rating": 5,
+        "address": "Zone 3, Makati City, Metro Manila, Philippines",
+        "latitude": 14.549442899999999,
+        "longitude": 121.012638
+    },
+    {
+        "category": "hiking trails",
+        "title": "Trail Adventours",
+        "rating": 4.7,
+        "address": null,
+        "latitude": 12.7335786,
+        "longitude": 121.89598919999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "BGC Greenway Park",
+        "rating": 4.6,
+        "address": "130 McKinley Rd, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5454115,
+        "longitude": 121.0450261
+    },
+    {
+        "category": "hiking trails",
+        "title": "Legazpi Active Park",
+        "rating": 4.6,
+        "address": "Rada, Legazpi Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.554124,
+        "longitude": 121.016831
+    },
+    {
+        "category": "hiking trails",
+        "title": "BGC Greenway Linear",
+        "rating": 4.6,
+        "address": "G2XV+FJ8, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5486507,
+        "longitude": 121.04409369999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Washington Sycip Park",
+        "rating": 4.6,
+        "address": "Legazpi Street, Legaspi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.553861999999999,
+        "longitude": 121.01799199999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ayala Triangle Gardens",
+        "rating": 4.5,
+        "address": "Paseo De Roxas St Cor Makati Ave, Cor Ayala Ave, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.5570493,
+        "longitude": 121.0244961
+    },
+    {
+        "category": "hiking trails",
+        "title": "Crane & Turtle Garden",
+        "rating": 4.5,
+        "address": "H239+G7V, Legazpi Street, Legazpi Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5538551,
+        "longitude": 121.01818619999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ayala Triangle Bike Circuit",
+        "rating": 4.4,
+        "address": "H24G+W6G, Makati Avenue, Paseo de Roxas, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5573029,
+        "longitude": 121.0255718
+    },
+    {
+        "category": "hiking trails",
+        "title": "Makati Park and Garden",
+        "rating": 4.2,
+        "address": "Bldg 6 Dr Jose P. Rizal Ext, Taguig, 1215 Metro Manila, Philippines",
+        "latitude": 14.5645019,
+        "longitude": 121.0563198
+    },
+    {
+        "category": "hiking trails",
+        "title": "Guadalupe Nuevo Cloverleaf Park",
+        "rating": 3.7,
+        "address": "H28W+XF6, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5674183,
+        "longitude": 121.04614129999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Greenway Park",
+        "rating": 4.8,
+        "address": "G2XV+VH3, Taguig, Metro Manila, Philippines",
+        "latitude": 14.5496463,
+        "longitude": 121.0439133
+    },
+    {
+        "category": "hiking trails",
+        "title": "Greenbelt Park",
+        "rating": 4.6,
+        "address": "Makati Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.552727599999999,
+        "longitude": 121.0222429
+    },
+    {
+        "category": "hiking trails",
+        "title": "Pasig River - Mandaluyong - Makati Area",
+        "rating": null,
+        "address": "H2CJ+JGX, Mandaluyong City, Metro Manila, Philippines",
+        "latitude": 14.571604299999999,
+        "longitude": 121.0313599
+    },
+    {
+        "category": "hiking trails",
+        "title": "Jaime C. Velasquez Park",
+        "rating": 4.5,
+        "address": "H26F+247, Tordesillas, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.560039,
+        "longitude": 121.02278799999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Circuit makati",
+        "rating": 4.8,
+        "address": "H2G9+PXM, Hippodromo St, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5768323,
+        "longitude": 121.0199068
+    },
+    {
+        "category": "hiking trails",
+        "title": "Magallanes Interchange Park",
+        "rating": 4,
+        "address": "G2R8+2PF, Makati City, Metro Manila, Philippines",
+        "latitude": 14.540073999999999,
+        "longitude": 121.01679159999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Campanilla Park",
+        "rating": 4,
+        "address": "1417 Campanilla, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5368505,
+        "longitude": 121.03021179999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Pandacan Linear Park",
+        "rating": 4.1,
+        "address": "2499 Beata, 835 Pandacan, Manila, 1011 Metro Manila, Philippines",
+        "latitude": 14.591653899999999,
+        "longitude": 121.0076162
+    },
+    {
+        "category": "hiking trails",
+        "title": "Burgos Circle Park",
+        "rating": 4.7,
+        "address": "Forbes Town Center, 29th St, Taguig, 1630 Metro Manila, Philippines",
+        "latitude": 14.552720899999999,
+        "longitude": 121.0443887
+    },
+    {
+        "category": "hiking trails",
+        "title": "Legazpi Mini Park",
+        "rating": 4.7,
+        "address": "Legazpi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.553978599999999,
+        "longitude": 121.01678249999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Las Piñas-Parañaque Wetland Park",
+        "rating": 4.2,
+        "address": "FXQH+829, Freedom Island Trail (Rail Road), Parañaque, Metro Manila, Philippines",
+        "latitude": 14.488298599999998,
+        "longitude": 120.977594
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Legazpi Active Park",
+        "rating": 4.6,
+        "address": "Rada, Legazpi Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.554124,
+        "longitude": 121.016831
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Washington Sycip Park",
+        "rating": 4.6,
+        "address": "Legazpi Street, Legaspi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.553861999999999,
+        "longitude": 121.01799199999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Greenbelt Park",
+        "rating": 4.6,
+        "address": "Makati Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.552727599999999,
+        "longitude": 121.0222429
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Makati Park and Garden",
+        "rating": 4.2,
+        "address": "Bldg 6 Dr Jose P. Rizal Ext, Taguig, 1215 Metro Manila, Philippines",
+        "latitude": 14.5645019,
+        "longitude": 121.0563198
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Paradise Eco Tourism Corporation (PRIVATE) Ltd.",
+        "rating": null,
+        "address": "Level 17, 6750, 1216 Ayala Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.558817699999999,
+        "longitude": 121.0177317
+    },
+    {
+        "category": "temples",
+        "title": "International Society for Krishna Consciousness",
+        "rating": 4.8,
+        "address": "9105 Banuyo, Makati City, 1203 Metro Manila, Philippines",
+        "latitude": 14.5632516,
+        "longitude": 121.0058689
+    },
+    {
+        "category": "temples",
+        "title": "Hindu Temple MANILA",
+        "rating": 4.8,
+        "address": "1426 M. Gandhi St, Paco, Manila, Metro Manila, Philippines",
+        "latitude": 14.5802734,
+        "longitude": 120.99163399999999
+    },
+    {
+        "category": "temples",
+        "title": "The Jewish Association of the Philippines",
+        "rating": 4.7,
+        "address": "110 H.V. Dela Costa, Makati City, 1227 Metro Manila, Philippines",
+        "latitude": 14.561235,
+        "longitude": 121.0242809
+    },
+    {
+        "category": "temples",
+        "title": "Fo Guang Shan Mabuhay Temple 佛光山萬年寺",
+        "rating": 4.6,
+        "address": "656 P.Ocampo St., Malate, Manila, 1004 Metro Manila, Philippines",
+        "latitude": 14.560585999999999,
+        "longitude": 120.9919067
+    },
+    {
+        "category": "temples",
+        "title": "Khalsa Diwan Temple gurdwara",
+        "rating": 4.8,
+        "address": "1350 United Nations Ave, Paco, Manila, 1000 Metro Manila, Philippines",
+        "latitude": 14.5850678,
+        "longitude": 120.9929203
+    },
+    {
+        "category": "temples",
+        "title": "Seng Guan Temple 信願寺",
+        "rating": 4.5,
+        "address": "JX5F+3V5, Narra St, Tondo, Manila, Metro Manila, Philippines",
+        "latitude": 14.607638199999998,
+        "longitude": 120.97472769999999
+    },
+    {
+        "category": "temples",
+        "title": "Jacobo Zobel Masonic Temple",
+        "rating": 4.8,
+        "address": "Sacred Heart St, Makati, Kalakhang Maynila, Philippines",
+        "latitude": 14.563827,
+        "longitude": 121.0135102
+    },
+    {
+        "category": "temples",
+        "title": "Manila Philippines Temple",
+        "rating": 4.9,
+        "address": "Greenmeadows Subdivision, 13 Temple Dr, Corner White Plains Ave, Quezon City, 1110 Metro Manila, Philippines",
+        "latitude": 14.6015144,
+        "longitude": 121.0696124
+    },
+    {
+        "category": "temples",
+        "title": "בית חב\"ד מנילה פיליפינים - Chabad Jewish center Manila Philippines",
+        "rating": 4.8,
+        "address": "2862 E Zobel, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.567972999999999,
+        "longitude": 121.02794499999999
+    },
+    {
+        "category": "temples",
+        "title": "Pao Ong Kong Chinese Temple",
+        "rating": 4.4,
+        "address": "1914 F.B. Harrison St, Pasay City, 1300 Metro Manila, Philippines",
+        "latitude": 14.556047,
+        "longitude": 120.99123519999999
+    },
+    {
+        "category": "temples",
+        "title": "Indian SIKH Temple",
+        "rating": 4.9,
+        "address": "1350 United Nations Ave, Paco, Manila, 1000 Metro Manila, Philippines",
+        "latitude": 14.5850663,
+        "longitude": 120.99277529999999
+    },
+    {
+        "category": "temples",
+        "title": "Dani and Alfonso",
+        "rating": null,
+        "address": "Rockwell Center, 1200 Amorsolo Dr, Makati City, Metro Manila, Philippines",
+        "latitude": 14.565641,
+        "longitude": 121.036536
+    },
+    {
+        "category": "temples",
+        "title": "Pasay Buddhism Temple 崇福寺",
+        "rating": 4.7,
+        "address": "57 Williams, Pasay City, 1300 Metro Manila, Philippines",
+        "latitude": 14.548343399999998,
+        "longitude": 120.9925272
+    },
+    {
+        "category": "temples",
+        "title": "Iskcon Manila Sri Sri Radhamadhava mandir",
+        "rating": 5,
+        "address": "Sitio Pusawan, Taguig, Metro Manila, Philippines",
+        "latitude": 14.5238613,
+        "longitude": 121.06208679999999
+    },
+    {
+        "category": "temples",
+        "title": "Shiv Mandir",
+        "rating": 4.5,
+        "address": "1166 Apacible St, Paco, Manila, Metro Manila, Philippines",
+        "latitude": 14.5807553,
+        "longitude": 120.9918378
+    },
+    {
+        "category": "temples",
+        "title": "International Sri Krishna Mandir Philippines Inc. (Hare Krishna Temple)",
+        "rating": 4.8,
+        "address": "23 Scout Castor St, Diliman, Quezon City, 1103 Metro Manila, Philippines",
+        "latitude": 14.6310726,
+        "longitude": 121.02578949999999
+    },
+    {
+        "category": "temples",
+        "title": "Glemarchen B Espanol",
+        "rating": null,
+        "address": "2745 Gen.M.Capinpin, Makati City, Metro Manila, Philippines",
+        "latitude": 14.541286,
+        "longitude": 121.0106206
+    },
+    {
+        "category": "temples",
+        "title": "Sto. Nino de Paz Greenbelt Chapel",
+        "rating": 4.8,
+        "address": "Ayala Center, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5527751,
+        "longitude": 121.0223413
+    },
+    {
+        "category": "temples",
+        "title": "Philippine Buddhist Tibetan Palyul Center Manila",
+        "rating": 5,
+        "address": "700 Piña Ave, Santa Mesa, Manila, 1016 Metro Manila, Philippines",
+        "latitude": 14.6069941,
+        "longitude": 121.01010489999999
+    },
+    {
+        "category": "temples",
+        "title": "Kim Luan Temple 金鑾大道觀",
+        "rating": 4,
+        "address": "HXFM+6WR, Adriatico St, Malate, Manila, 1004 Metro Manila, Philippines",
+        "latitude": 14.573115699999999,
+        "longitude": 120.98477829999999
+    },
+    {
+        "category": "museums",
+        "title": "Ayala Museum",
+        "rating": 4.6,
+        "address": "Makati Avenue, corner Dela Rosa Street, Ayala Center, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5535827,
+        "longitude": 121.02332849999999
+    },
+    {
+        "category": "museums",
+        "title": "Makati Museum",
+        "rating": 4.2,
+        "address": "986 J. P. Rizal St, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.567471,
+        "longitude": 121.03281539999999
+    },
+    {
+        "category": "museums",
+        "title": "Yuchengco Museum",
+        "rating": 4.3,
+        "address": "RCBC Plaza, Corner Ayala Avenue and Senator Gil J. Puyat Avenue, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.560475799999999,
+        "longitude": 121.01621709999999
+    },
+    {
+        "category": "museums",
+        "title": "Omniverse Museum",
+        "rating": 4.4,
+        "address": "Omniverse Museum Japan Town 4/F Glorietta 2, Ayala Center Makati Palm Dr, Makati Ave, Makati City, 1224 Metro Manila, Philippines",
+        "latitude": 14.5509171,
+        "longitude": 121.0254416
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Contemporary Art and Design",
+        "rating": 4.2,
+        "address": "Ground Floor, De La Salle-College of Saint Benilde, Design and Arts Campus (D+A Campus), Dominga Street, Malate, Manila, 1004 Kalakhang Maynila, Philippines",
+        "latitude": 14.562659799999999,
+        "longitude": 120.9966431
+    },
+    {
+        "category": "museums",
+        "title": "The Mind Museum",
+        "rating": 4.4,
+        "address": "JY Campos Park, 3rd Ave, Taguig, 1634 Metro Manila, Philippines",
+        "latitude": 14.5522552,
+        "longitude": 121.0456396
+    },
+    {
+        "category": "museums",
+        "title": "Metropolitan Museum of Manila at BGC",
+        "rating": 4.2,
+        "address": "30th St, Taguig, Metro Manila, Philippines",
+        "latitude": 14.5514721,
+        "longitude": 121.05087209999999
+    },
+    {
+        "category": "museums",
+        "title": "Museo ng Bangko Sentral ng Pilipinas (Money Museum)",
+        "rating": 4.6,
+        "address": "HX6P+WJ2, Bangko Sentral ng Pilipinas Complex, A. Mabini St, Malate, Manila, 1000 Metro Manila, Philippines",
+        "latitude": 14.562253799999999,
+        "longitude": 120.98652709999999
+    },
+    {
+        "category": "museums",
+        "title": "The Philippine Army Museum",
+        "rating": 3.9,
+        "address": "Headquarters Philippine Army, MGen Adalem St, Taguig, 1630 Metro Manila, Philippines",
+        "latitude": 14.533201799999999,
+        "longitude": 121.045137
+    },
+    {
+        "category": "museums",
+        "title": "Bahay Tsinoy, Museum of Chinese in Philippine Life",
+        "rating": 4.4,
+        "address": "32 Anda St, Intramuros, Manila, 1002 Metro Manila, Philippines",
+        "latitude": 14.590903599999999,
+        "longitude": 120.9750258
+    },
+    {
+        "category": "night markets",
+        "title": "A. Venue Outdoor Market",
+        "rating": 4.1,
+        "address": "905 JP Rizal Ave, Corner Santiago, Poblacion, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.565589699999999,
+        "longitude": 121.0296168
+    },
+    {
+        "category": "night markets",
+        "title": "Legazpi Sunday Market",
+        "rating": 4.4,
+        "address": "Legazpi Street, Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5536316,
+        "longitude": 121.0186882
+    },
+    {
+        "category": "night markets",
+        "title": "Salcedo Weekend Market",
+        "rating": 4.5,
+        "address": "H26F+56Q, Salcedo Village, Jaime C. Velasquez Park, Tordesillas St. Cor Toledo St., Salcedo Village, Makati, 1227 Kalakhang Maynila, Philippines",
+        "latitude": 14.559865799999999,
+        "longitude": 121.0235348
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ayala Triangle Gardens",
+        "rating": 4.5,
+        "address": "Paseo De Roxas St Cor Makati Ave, Cor Ayala Ave, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.5570493,
+        "longitude": 121.0244961
+    },
+    {
+        "category": "viewpoints",
+        "title": "Washington Sycip Park",
+        "rating": 4.6,
+        "address": "Legazpi Street, Legaspi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.553861999999999,
+        "longitude": 121.01799199999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Legazpi Active Park",
+        "rating": 4.6,
+        "address": "Rada, Legazpi Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.554124,
+        "longitude": 121.016831
+    },
+    {
+        "category": "viewpoints",
+        "title": "Greenbelt Park",
+        "rating": 4.6,
+        "address": "Makati Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.552727599999999,
+        "longitude": 121.0222429
+    },
+    {
+        "category": "viewpoints",
+        "title": "Makati Park and Garden",
+        "rating": 4.2,
+        "address": "Bldg 6 Dr Jose P. Rizal Ext, Taguig, 1215 Metro Manila, Philippines",
+        "latitude": 14.5645019,
+        "longitude": 121.0563198
+    },
+    {
+        "category": "viewpoints",
+        "title": "Jaime C. Velasquez Park",
+        "rating": 4.5,
+        "address": "H26F+247, Tordesillas, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.560039,
+        "longitude": 121.02278799999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Magallanes Interchange Park",
+        "rating": 4,
+        "address": "G2R8+2PF, Makati City, Metro Manila, Philippines",
+        "latitude": 14.540073999999999,
+        "longitude": 121.01679159999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Pio del Pilar Monument",
+        "rating": 4.3,
+        "address": "8735 Makati Ave, Makati City, 1227 Metro Manila, Philippines",
+        "latitude": 14.5586047,
+        "longitude": 121.0265946
+    },
+    {
+        "category": "viewpoints",
+        "title": "Makati Museum",
+        "rating": 4.2,
+        "address": "986 J. P. Rizal St, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.567471,
+        "longitude": 121.03281539999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "The Peak Tower",
+        "rating": 3.8,
+        "address": "107 L.P. Leviste Street, Makati City, 1227 Metro Manila, Philippines",
+        "latitude": 14.5601796,
+        "longitude": 121.01959249999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ninoy Aquino Monument - Makati City",
+        "rating": 3.9,
+        "address": "6766 Ayala Ave, Legazpi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5567009,
+        "longitude": 121.0215716
+    },
+    {
+        "category": "viewpoints",
+        "title": "Guadalupe Ruins",
+        "rating": 4.2,
+        "address": "7440 Bernardino, Makati City, 1211 Metro Manila, Philippines",
+        "latitude": 14.566109599999999,
+        "longitude": 121.04312399999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "BGC Greenway Park",
+        "rating": 4.6,
+        "address": "130 McKinley Rd, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5454115,
+        "longitude": 121.0450261
+    },
+    {
+        "category": "viewpoints",
+        "title": "Legazpi Mini Park",
+        "rating": 4.7,
+        "address": "Legazpi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.553978599999999,
+        "longitude": 121.01678249999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "One Legazpi Park",
+        "rating": 4.3,
+        "address": "121, 1229 Rada, Legazpi Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.555107999999999,
+        "longitude": 121.0174292
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ayala Triangle Gardens Tower 2",
+        "rating": 4.8,
+        "address": "Paseo de Roxas, corner Makati Ave, Makati City, 1226 Metro Manila, Philippines",
+        "latitude": 14.557800199999999,
+        "longitude": 121.02546609999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Baywalk - Sea View",
+        "rating": 4.2,
+        "address": "Baywalk, Ermita, Manila, 1004 Metro Manila, Philippines",
+        "latitude": 14.5705131,
+        "longitude": 120.98203079999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Legazpi Sunday Market",
+        "rating": 4.4,
+        "address": "Legazpi Street, Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5536316,
+        "longitude": 121.0186882
+    },
+    {
+        "category": "viewpoints",
+        "title": "Maria's Deck - Urban Glamping",
+        "rating": 4.8,
+        "address": "9421 Magallanes, Makati City, Metro Manila, Philippines",
+        "latitude": 14.562147699999999,
+        "longitude": 121.0475074
+    },
+    {
+        "category": "viewpoints",
+        "title": "Campanilla Park",
+        "rating": 4,
+        "address": "1417 Campanilla, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5368505,
+        "longitude": 121.03021179999999
+    },
+    {
+        "category": "gardens",
+        "title": "Ayala Triangle Gardens",
+        "rating": 4.5,
+        "address": "Paseo De Roxas St Cor Makati Ave, Cor Ayala Ave, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.5570493,
+        "longitude": 121.0244961
+    },
+    {
+        "category": "gardens",
+        "title": "Makati Park and Garden",
+        "rating": 4.2,
+        "address": "Bldg 6 Dr Jose P. Rizal Ext, Taguig, 1215 Metro Manila, Philippines",
+        "latitude": 14.5645019,
+        "longitude": 121.0563198
+    },
+    {
+        "category": "gardens",
+        "title": "Eternal Gardens Memorial Park Head Office",
+        "rating": 4.8,
+        "address": "Dominga Building III, 2113 Don Chino Roces Avenue, Corner Dela Rosa Street, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.5586953,
+        "longitude": 121.01268739999999
+    },
+    {
+        "category": "gardens",
+        "title": "City Garden GRAND Hotel Makati",
+        "rating": 4.4,
+        "address": "8008 Makati Ave, Kalayaan Ave, Makati, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.5648298,
+        "longitude": 121.0291654
+    },
+    {
+        "category": "gardens",
+        "title": "Crane & Turtle Garden",
+        "rating": 4.5,
+        "address": "H239+G7V, Legazpi Street, Legazpi Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5538551,
+        "longitude": 121.01818619999999
+    },
+    {
+        "category": "gardens",
+        "title": "Washington Sycip Park",
+        "rating": 4.6,
+        "address": "Legazpi Street, Legaspi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.553861999999999,
+        "longitude": 121.01799199999999
+    },
+    {
+        "category": "gardens",
+        "title": "Kasalikasan Garden",
+        "rating": 4.5,
+        "address": "G2XV+GMP, Taguig, Metro Manila, Philippines",
+        "latitude": 14.548833199999999,
+        "longitude": 121.0442154
+    },
+    {
+        "category": "gardens",
+        "title": "ADDI's GARDEN",
+        "rating": 5,
+        "address": "G2X9+732, Melantic, Makati City, 1223 Metro Manila, Philippines",
+        "latitude": 14.5481497,
+        "longitude": 121.01764209999999
+    },
+    {
+        "category": "gardens",
+        "title": "Garden Bldg",
+        "rating": 3.3,
+        "address": "2180 P. Binay St Cor Gen Lacuna, Makati, 1233 Kalakhang Maynila, Philippines",
+        "latitude": 14.542879,
+        "longitude": 121.009924
+    },
+    {
+        "category": "gardens",
+        "title": "Oriental Garden Condominium",
+        "rating": 4,
+        "address": "Don Chino Roces Avenue, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5587643,
+        "longitude": 121.01178139999999
+    },
+    {
+        "category": "gardens",
+        "title": "ASEAN Garden",
+        "rating": 4.4,
+        "address": "Malate, Manila, 1004 Metro Manila, Philippines",
+        "latitude": 14.5596967,
+        "longitude": 120.9864198
+    },
+    {
+        "category": "gardens",
+        "title": "Greenbelt Park",
+        "rating": 4.6,
+        "address": "Makati Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.552727599999999,
+        "longitude": 121.0222429
+    },
+    {
+        "category": "gardens",
+        "title": "St. Anthony's Convento Garden",
+        "rating": null,
+        "address": "3117 1220, 3117 McKinley Rd, Makati City, 1220 Metro Manila, Philippines",
+        "latitude": 14.5471414,
+        "longitude": 121.03332929999999
+    },
+    {
+        "category": "gardens",
+        "title": "The Shops Ayala Triangle Gardens",
+        "rating": 4.9,
+        "address": "1224 Makati Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.557812799999999,
+        "longitude": 121.0255499
+    },
+    {
+        "category": "gardens",
+        "title": "Ayala Triangle Gardens Tower 2",
+        "rating": 4.8,
+        "address": "Paseo de Roxas, corner Makati Ave, Makati City, 1226 Metro Manila, Philippines",
+        "latitude": 14.557800199999999,
+        "longitude": 121.02546609999999
+    },
+    {
+        "category": "gardens",
+        "title": "Luna Gardens",
+        "rating": 4.5,
+        "address": "Residential Dr, Makati City, Metro Manila, Philippines",
+        "latitude": 14.565135399999999,
+        "longitude": 121.03503649999999
+    },
+    {
+        "category": "gardens",
+        "title": "Garden Towers",
+        "rating": 4.5,
+        "address": "Ayala Center, East St, Makati City, 1224 Metro Manila, Philippines",
+        "latitude": 14.5494582,
+        "longitude": 121.0249072
+    },
+    {
+        "category": "gardens",
+        "title": "Ayala Triangle Gardens - North",
+        "rating": 4.2,
+        "address": "H25G+24R, Makati City, Metro Manila, Philippines",
+        "latitude": 14.557611,
+        "longitude": 121.0252512
+    },
+    {
+        "category": "gardens",
+        "title": "San Diego Gardens",
+        "rating": 4.4,
+        "address": "HXPG+87G, Sta. Lucia St, Intramuros, Manila, 1002 Metro Manila, Philippines",
+        "latitude": 14.585814,
+        "longitude": 120.9757118
+    },
+    {
+        "category": "gardens",
+        "title": "Lareza's Canteen And Garden",
+        "rating": 3,
+        "address": "1203, 83112 Mayapis, Makati City, 1203 Metro Manila, Philippines",
+        "latitude": 14.5646144,
+        "longitude": 121.00433269999999
+    },
+    {
+        "category": "zoo",
+        "title": "Manila Zoo",
+        "rating": 3.7,
+        "address": "HX7Q+W8H, Adriatico St, Malate, Manila, 1004 Metro Manila, Philippines",
+        "latitude": 14.5648118,
+        "longitude": 120.9883696
+    },
+    {
+        "category": "zoo",
+        "title": "Zoomanity Group Theme Parks Head Office",
+        "rating": 4.2,
+        "address": "3rd, Yupangco Building, 339 Sen. Gil J. Puyat Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5624173,
+        "longitude": 121.0226246
+    },
+    {
+        "category": "zoo",
+        "title": "Avilon Zoo",
+        "rating": 4.5,
+        "address": "9003 GP Sitio Gulod San Isidro, 1860, Rodriguez, Rizal, Philippines",
+        "latitude": 14.744145099999999,
+        "longitude": 121.15034469999999
+    },
+    {
+        "category": "zoo",
+        "title": "Malabon Zoo",
+        "rating": 3.8,
+        "address": "1 Gov. Pascual Ave, Malabon, Metro Manila, Philippines",
+        "latitude": 14.663390099999999,
+        "longitude": 120.9829025
+    },
+    {
+        "category": "zoo",
+        "title": "Wildlife Mini Zoo (Rescue Center)",
+        "rating": 4.3,
+        "address": "6512 Quezon Ave, Diliman, Quezon City, Metro Manila, Philippines",
+        "latitude": 14.650856099999999,
+        "longitude": 121.0459095
+    },
+    {
+        "category": "zoo",
+        "title": "Zam's Hideout",
+        "rating": 5,
+        "address": "399 Tanguile, Taguig, 1214 Metro Manila, Philippines",
+        "latitude": 14.565057,
+        "longitude": 121.0532757
+    },
+    {
+        "category": "zoo",
+        "title": "Zoobic Safari Corporation Office",
+        "rating": 3.8,
+        "address": "3/F Yupangco Building, 339 Sen. Gil Puyat Ave. 1200, Makati City, Philippines",
+        "latitude": 14.562453699999999,
+        "longitude": 121.02255219999999
+    },
+    {
+        "category": "zoo",
+        "title": "IDK",
+        "rating": null,
+        "address": "14th to 17th floor, H.V. Dela Costa, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5611073,
+        "longitude": 121.01801959999999
+    },
+    {
+        "category": "zoo",
+        "title": "Mett Teodoro",
+        "rating": 4,
+        "address": "2385 Laura St, Pandacan, Manila, 1011 Metro Manila, Philippines",
+        "latitude": 14.5891737,
+        "longitude": 121.0064737
+    },
+    {
+        "category": "adventure parks",
+        "title": "Zoomanity Group Theme Parks Head Office",
+        "rating": 4.2,
+        "address": "3rd, Yupangco Building, 339 Sen. Gil J. Puyat Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5624173,
+        "longitude": 121.0226246
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventure Zone",
+        "rating": 3.6,
+        "address": "Levels 6, Shangri-La The Fort, Manila 30th Street, cor 5th Ave, Taguig, 1634 Metro Manila, Philippines",
+        "latitude": 14.552302099999999,
+        "longitude": 121.0471429
+    },
+    {
+        "category": "adventure parks",
+        "title": "Legazpi Active Park",
+        "rating": 4.6,
+        "address": "Rada, Legazpi Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.554124,
+        "longitude": 121.016831
+    },
+    {
+        "category": "adventure parks",
+        "title": "Mystery Manila",
+        "rating": 4.4,
+        "address": "Unit L305, 3rd Floor Century City Mall Kalayaan Avenue cor. Salamanca St Brgy, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.5659453,
+        "longitude": 121.0279676
+    },
+    {
+        "category": "adventure parks",
+        "title": "Active Fun Taguig",
+        "rating": 4.3,
+        "address": "G3X2+V8P, 9th Ave, Taguig, Metro Manila, Philippines",
+        "latitude": 14.549707399999999,
+        "longitude": 121.0508311
+    },
+    {
+        "category": "adventure parks",
+        "title": "Star City",
+        "rating": 4.4,
+        "address": "Roxas Blvd, CCP, Pasay City, 1300 Metro Manila, Philippines",
+        "latitude": 14.5560978,
+        "longitude": 120.98602179999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Washington Sycip Park",
+        "rating": 4.6,
+        "address": "Legazpi Street, Legaspi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.553861999999999,
+        "longitude": 121.01799199999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Ayala Triangle Gardens",
+        "rating": 4.5,
+        "address": "Paseo De Roxas St Cor Makati Ave, Cor Ayala Ave, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.5570493,
+        "longitude": 121.0244961
+    },
+    {
+        "category": "adventure parks",
+        "title": "Ocean Park Aqua Adventure",
+        "rating": 4.3,
+        "address": "Manila Ocean Park, Ermita, Manila, 1000 Metro Manila, Philippines",
+        "latitude": 14.5797178,
+        "longitude": 120.9732059
+    },
+    {
+        "category": "adventure parks",
+        "title": "Manila Ocean Park",
+        "rating": 4.2,
+        "address": "666 Behind, Quirino Grandstand, Ermita, Manila, 1000 Metro Manila, Philippines",
+        "latitude": 14.5793088,
+        "longitude": 120.9724475
+    },
+    {
+        "category": "adventure parks",
+        "title": "DreamPlay",
+        "rating": 4.4,
+        "address": "Aseana Ave, Parañaque, Metro Manila, Philippines",
+        "latitude": 14.5246791,
+        "longitude": 120.99139299999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "SM MOA Eye",
+        "rating": 4.5,
+        "address": "GXMH+5P3, Seaside Blvd, Pasay City, Metro Manila, Philippines",
+        "latitude": 14.5328904,
+        "longitude": 120.97930819999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "SuperPark Philippines McKinley",
+        "rating": 4.6,
+        "address": "2F, The Piazza, Venice Grand Canal Mall, Upper McKinley Hl, Taguig, 1630 Metro Manila, Philippines",
+        "latitude": 14.5343682,
+        "longitude": 121.05154279999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Jaime C. Velasquez Park",
+        "rating": 4.5,
+        "address": "H26F+247, Tordesillas, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.560039,
+        "longitude": 121.02278799999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Greenbelt Park",
+        "rating": 4.6,
+        "address": "Makati Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.552727599999999,
+        "longitude": 121.0222429
+    },
+    {
+        "category": "adventure parks",
+        "title": "Dream Lab",
+        "rating": 4,
+        "address": "Ayala Malls, Hippodromo St, Makati City, Philippines",
+        "latitude": 14.5733248,
+        "longitude": 121.0184821
+    },
+    {
+        "category": "adventure parks",
+        "title": "The Fun City - Ayala Malls Circuit",
+        "rating": 3.4,
+        "address": "Philippines, Metro Manila, Makati City, 2F Ayala Circuit Mall",
+        "latitude": 14.572902299999999,
+        "longitude": 121.01958139999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "WiiJUMP Trampoline Park Venice Mall",
+        "rating": 4.2,
+        "address": "2nd floor Marcowing Venice Grand Canal Mall, Taguig, 1630 Metro Manila, Philippines",
+        "latitude": 14.5342972,
+        "longitude": 121.0520863
+    },
+    {
+        "category": "adventure parks",
+        "title": "Makati Park and Garden",
+        "rating": 4.2,
+        "address": "Bldg 6 Dr Jose P. Rizal Ext, Taguig, 1215 Metro Manila, Philippines",
+        "latitude": 14.5645019,
+        "longitude": 121.0563198
+    },
+    {
+        "category": "adventure parks",
+        "title": "Enchanted Kingdom",
+        "rating": 4.5,
+        "address": "San Lorenzo South, RSBS Boulevard, City of Santa Rosa, 4026 Laguna, Philippines",
+        "latitude": 14.2822456,
+        "longitude": 121.0966516
+    },
+    {
+        "category": "hot springs",
+        "title": "I'M Onsen Spa",
+        "rating": 4.1,
+        "address": "I'M Hotel, UG Floor, Makati Avenue Corner, Kalayaan Ave, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.564466999999999,
+        "longitude": 121.02978399999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Laguna Hot Spring Resort",
+        "rating": 4.2,
+        "address": "55HM+WGM, Purok 3, Calamba, 4027 Laguna, Philippines",
+        "latitude": 14.1798415,
+        "longitude": 121.18378519999999
+    },
+    {
+        "category": "hot springs",
+        "title": "88 Hotspring Resort And Hotel",
+        "rating": 4.2,
+        "address": "#9061 National Highway, Bagong Kalsada St, Calamba, 4030 Laguna, Philippines",
+        "latitude": 14.171963499999999,
+        "longitude": 121.20091239999999
+    },
+    {
+        "category": "hot springs",
+        "title": "New Lasema Spa Jjimjilbang",
+        "rating": 4.3,
+        "address": "8846 Sampaloc St, corner Estrella St, Makati City, 1203 Metro Manila, Philippines",
+        "latitude": 14.564757499999999,
+        "longitude": 121.00870619999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Puning Hot Spring and Restaurant",
+        "rating": 4.2,
+        "address": "Sitio Target, Barangay, Angeles, 2009 Pampanga, Philippines",
+        "latitude": 15.1658955,
+        "longitude": 120.49012049999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Maquinit Hot Spring",
+        "rating": 4.4,
+        "address": "Sitio Maquinit, Barangay, Coron, Palawan, Philippines",
+        "latitude": 11.9915909,
+        "longitude": 120.22815059999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Ace Water Spa",
+        "rating": 4.4,
+        "address": "H3F5+8PH, United St, Pasig, 1603 Metro Manila, Philippines",
+        "latitude": 14.5735133,
+        "longitude": 121.059072
+    },
+    {
+        "category": "hot springs",
+        "title": "Royal Oriental Wellness",
+        "rating": 4.6,
+        "address": "233 Nicanor Garcia St, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.563570599999998,
+        "longitude": 121.0225067
+    },
+    {
+        "category": "hot springs",
+        "title": "Panicuason Hot Springs Resort",
+        "rating": 4.5,
+        "address": "Zone 5 Panicuason Rd, Naga City, Camarines Sur, Philippines",
+        "latitude": 13.6712479,
+        "longitude": 123.32042709999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Hidden Valley Springs",
+        "rating": 4.4,
+        "address": "Calauan, Laguna, Philippines",
+        "latitude": 14.097587599999999,
+        "longitude": 121.2581
+    },
+    {
+        "category": "hot springs",
+        "title": "Devarana Spa, Manila",
+        "rating": 4.4,
+        "address": "2nd Floor, Dusit Thani Hotel, Theater Dr, Ayala Center, Makati City, 1223 Metro Manila, Philippines",
+        "latitude": 14.549190999999999,
+        "longitude": 121.0264653
+    },
+    {
+        "category": "hot springs",
+        "title": "Red Rock Hot Spring",
+        "rating": 4.4,
+        "address": "Caidiocan, Valencia, 6215 Negros Oriental, Philippines",
+        "latitude": 9.3142595,
+        "longitude": 123.19681539999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Makati Shangri-La",
+        "rating": 4.6,
+        "address": "Ayala Avenue, Makati Ave, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.5537428,
+        "longitude": 121.02471539999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Doña Jovita Garden Resort",
+        "rating": 4.2,
+        "address": "Km. 57 National Hwy, Calamba, 4027 Laguna, Philippines",
+        "latitude": 14.1730973,
+        "longitude": 121.198539
+    },
+    {
+        "category": "hot springs",
+        "title": "Siraan Hot Spring and Health Resort",
+        "rating": 3.7,
+        "address": "Anini-y, Antique, Philippines",
+        "latitude": 10.4216681,
+        "longitude": 121.9410893
+    },
+    {
+        "category": "hot springs",
+        "title": "Aramesh Spa",
+        "rating": 4.1,
+        "address": "Heart Tower 108, Valero, Makati City, Metro Manila, Philippines",
+        "latitude": 14.559968999999999,
+        "longitude": 121.01867299999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Greenbelt",
+        "rating": 4.5,
+        "address": "Legazpi Street, Legazpi Village, Makati City, Metro Manila, Philippines",
+        "latitude": 14.552754199999999,
+        "longitude": 121.0218716
+    },
+    {
+        "category": "shopping malls",
+        "title": "Century City Mall",
+        "rating": 4.3,
+        "address": "Century City Kalayaan Ave, Cor Salamanca, Brgy. Poblacion, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.565465999999999,
+        "longitude": 121.0276651
+    },
+    {
+        "category": "shopping malls",
+        "title": "Glorietta",
+        "rating": 4.5,
+        "address": "Ayala Center, Makati City, 1226 Metro Manila, Philippines",
+        "latitude": 14.551368,
+        "longitude": 121.0254848
+    },
+    {
+        "category": "shopping malls",
+        "title": "SM Makati",
+        "rating": 4.5,
+        "address": "Hotel Dr, East St, Ayala Center, Makati City, 12242 Metro Manila, Philippines",
+        "latitude": 14.549475699999999,
+        "longitude": 121.0270941
+    },
+    {
+        "category": "shopping malls",
+        "title": "Ayala Malls Circuit",
+        "rating": 4.5,
+        "address": "Hippodromo St, Makati City, 1207 Metro Manila, Philippines",
+        "latitude": 14.5729125,
+        "longitude": 121.0195608
+    },
+    {
+        "category": "shopping malls",
+        "title": "Power Plant Mall",
+        "rating": 4.7,
+        "address": "H27P+VH3, Rockwell Dr, Makati City, 12242 Metro Manila, Philippines",
+        "latitude": 14.564647899999999,
+        "longitude": 121.0364352
+    },
+    {
+        "category": "shopping malls",
+        "title": "Ayala Malls Circuit Lane",
+        "rating": 4.4,
+        "address": "Hippodromo, Makati City, 1207 Metro Manila, Philippines",
+        "latitude": 14.5753021,
+        "longitude": 121.01965779999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "One Ayala (Ayala Malls)",
+        "rating": 4.8,
+        "address": "1 Ayala Ave, Makati City, 1226 Metro Manila, Philippines",
+        "latitude": 14.550449299999999,
+        "longitude": 121.0278251
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Landmark Makati",
+        "rating": 4.4,
+        "address": "6751 Makati Ave, Ayala Center, Makati City, Metro Manila, Philippines",
+        "latitude": 14.552235099999999,
+        "longitude": 121.02354659999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Glorietta 3 - Ayala Malls Glorietta",
+        "rating": 4.4,
+        "address": "Parkway Dr, Makati City, 1223 Metro Manila, Philippines",
+        "latitude": 14.5522192,
+        "longitude": 121.0251962
+    },
+    {
+        "category": "shopping malls",
+        "title": "Makati Central Square",
+        "rating": 3.9,
+        "address": "2130 Chino Roces Ave, Legazpi Village, Makati City, 1230 Metro Manila, Philippines",
+        "latitude": 14.5527511,
+        "longitude": 121.01414009999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "SMDC Jazz Mall",
+        "rating": 4,
+        "address": "229 Nicanor Garcia St, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5636955,
+        "longitude": 121.0218984
+    },
+    {
+        "category": "shopping malls",
+        "title": "San Lorenzo Place Mall",
+        "rating": 4.4,
+        "address": "Chino Roces Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.54237,
+        "longitude": 121.0181039
+    },
+    {
+        "category": "shopping malls",
+        "title": "Glorietta 4 - Ayala Malls",
+        "rating": 4.6,
+        "address": "Ayala Center, Courtyard Dr, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.5511369,
+        "longitude": 121.0264665
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Shops Ayala Triangle Gardens",
+        "rating": 4.9,
+        "address": "1224 Makati Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.557812799999999,
+        "longitude": 121.0255499
+    },
+    {
+        "category": "shopping malls",
+        "title": "Southgate Mall",
+        "rating": 4,
+        "address": "2258 Chino Roces Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5409733,
+        "longitude": 121.0189989
+    },
+    {
+        "category": "shopping malls",
+        "title": "Cash & Carry Mall",
+        "rating": 4.4,
+        "address": "1200 Filmore Street, South super highway, cor filmore and emilia st, Makati City, Metro Manila, Philippines",
+        "latitude": 14.558593,
+        "longitude": 121.00578999999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Greenbelt 3 - Ayala Malls",
+        "rating": 4.6,
+        "address": "Greenbelt Park Walkways, Makati City, Metro Manila, Philippines",
+        "latitude": 14.551752899999999,
+        "longitude": 121.02168979999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Glorietta 2 - Ayala Malls",
+        "rating": 4.6,
+        "address": "Palm Dr, Makati City, Metro Manila, Philippines",
+        "latitude": 14.551781,
+        "longitude": 121.02429169999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Air Mall",
+        "rating": 4.2,
+        "address": "H267+RR2, Malugay, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5620008,
+        "longitude": 121.014529
+    },
+    {
+        "category": "historical sites",
+        "title": "Guadalupe Ruins",
+        "rating": 4.2,
+        "address": "7440 Bernardino, Makati City, 1211 Metro Manila, Philippines",
+        "latitude": 14.566109599999999,
+        "longitude": 121.04312399999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Pio del Pilar Monument",
+        "rating": 4.3,
+        "address": "8735 Makati Ave, Makati City, 1227 Metro Manila, Philippines",
+        "latitude": 14.5586047,
+        "longitude": 121.0265946
+    },
+    {
+        "category": "historical sites",
+        "title": "Nielson Tower Historical Marker",
+        "rating": 4.4,
+        "address": "Old Manila International Air Terminal Building, Makati Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.55586,
+        "longitude": 121.0246399
+    },
+    {
+        "category": "historical sites",
+        "title": "Tolentino Heritage House",
+        "rating": 5,
+        "address": "988 J. P. Rizal St, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.5671336,
+        "longitude": 121.0334879
+    },
+    {
+        "category": "historical sites",
+        "title": "Makati Museum",
+        "rating": 4.2,
+        "address": "986 J. P. Rizal St, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.567471,
+        "longitude": 121.03281539999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Cu-Unjieng Heritage House",
+        "rating": 3,
+        "address": "2957 A. Bonifacio St, Makati City, Metro Manila, Philippines",
+        "latitude": 14.569291199999999,
+        "longitude": 121.03118959999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Dr. Jose Rizal Monument",
+        "rating": 4.1,
+        "address": "789 J. P. Rizal St, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5693931,
+        "longitude": 121.0259834
+    },
+    {
+        "category": "historical sites",
+        "title": "Ninoy Aquino Monument - Makati City",
+        "rating": 3.9,
+        "address": "6766 Ayala Ave, Legazpi Village, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5567009,
+        "longitude": 121.0215716
+    },
+    {
+        "category": "historical sites",
+        "title": "Ayala Museum",
+        "rating": 4.6,
+        "address": "Makati Avenue, corner Dela Rosa Street, Ayala Center, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5535827,
+        "longitude": 121.02332849999999
+    },
+    {
+        "category": "historical sites",
+        "title": "McMicking Memorial & Courtyard",
+        "rating": 3.6,
+        "address": "Ayala Triangle Gardens, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5568773,
+        "longitude": 121.02322079999999
+    },
+    {
+        "category": "historical sites",
+        "title": "BRGY. RIZAL MAKATI CITY WELCOMING ARCH",
+        "rating": 2.5,
+        "address": "1-54 Amarillo, Taguig, Metro Manila, Philippines",
+        "latitude": 14.541053499999999,
+        "longitude": 121.0592475
+    },
+    {
+        "category": "historical sites",
+        "title": "\" The Spirit Of EDSA \" Monument",
+        "rating": 5,
+        "address": "RCBC Plaza Yuchengco Tower, RCBC Plaza H.V. Dela Costa, Makati City, Metro Manila, Philippines",
+        "latitude": 14.560490199999998,
+        "longitude": 121.01615629999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Clock Bell Tower Poblacion",
+        "rating": null,
+        "address": "987, 1209 J. P. Rizal St, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5675837,
+        "longitude": 121.0327027
+    },
+    {
+        "category": "historical sites",
+        "title": "Ayala Ave Corner Paseo De Roxas Ave Makati City",
+        "rating": 4.3,
+        "address": "H24C+HPG, Ayala Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.556441399999999,
+        "longitude": 121.02182529999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Church and Monastery of Guadalupe Historical Marker",
+        "rating": 5,
+        "address": "H28V+F6X, Unnamed Road, Makati City, Metro Manila, Philippines",
+        "latitude": 14.566239999999999,
+        "longitude": 121.0430999
+    },
+    {
+        "category": "historical sites",
+        "title": "Bas Relief of Landing of Don Miguel Lopez de Legazpi and Naming of Makati",
+        "rating": 2,
+        "address": "2915 A. Bonifacio St, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.567872999999999,
+        "longitude": 121.032696
+    },
+    {
+        "category": "historical sites",
+        "title": "Old Pamahalaang Bayan ng Makati - City Hall Building",
+        "rating": null,
+        "address": "H29G+RG4, J. P. Rizal St, Poblacion, Makati City, Metro Manila, Philippines",
+        "latitude": 14.569517699999999,
+        "longitude": 121.0263136
+    },
+    {
+        "category": "historical sites",
+        "title": "Manila City/Makati City District Boundary",
+        "rating": null,
+        "address": "H2G6+2W9, J. P. Rizal St, Makati City, 1204 Metro Manila, Philippines",
+        "latitude": 14.5750386,
+        "longitude": 121.01225219999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Makati Sign",
+        "rating": null,
+        "address": "H262+JWP Enrique St, Dian St, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5616246,
+        "longitude": 121.0022522
+    },
+    {
+        "category": "historical sites",
+        "title": "Ayala Ave. Makati City",
+        "rating": null,
+        "address": "H24C+HHC, Ayala Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.556439899999999,
+        "longitude": 121.02140419999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Ayala Museum",
+        "rating": 4.6,
+        "address": "Makati Avenue, corner Dela Rosa Street, Ayala Center, Makati City, 1229 Metro Manila, Philippines",
+        "latitude": 14.5535827,
+        "longitude": 121.02332849999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum of Contemporary Art and Design",
+        "rating": 4.2,
+        "address": "Ground Floor, De La Salle-College of Saint Benilde, Design and Arts Campus (D+A Campus), Dominga Street, Malate, Manila, 1004 Kalakhang Maynila, Philippines",
+        "latitude": 14.562659799999999,
+        "longitude": 120.9966431
+    },
+    {
+        "category": "art galleries",
+        "title": "Metropolitan Museum of Manila at BGC",
+        "rating": 4.2,
+        "address": "30th St, Taguig, Metro Manila, Philippines",
+        "latitude": 14.5514721,
+        "longitude": 121.05087209999999
+    },
+    {
+        "category": "art galleries",
+        "title": "The Mind Museum",
+        "rating": 4.4,
+        "address": "JY Campos Park, 3rd Ave, Taguig, 1634 Metro Manila, Philippines",
+        "latitude": 14.5522552,
+        "longitude": 121.0456396
+    },
+    {
+        "category": "art galleries",
+        "title": "Yuchengco Museum",
+        "rating": 4.3,
+        "address": "RCBC Plaza, Corner Ayala Avenue and Senator Gil J. Puyat Avenue, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.560475799999999,
+        "longitude": 121.01621709999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Makati Museum",
+        "rating": 4.2,
+        "address": "986 J. P. Rizal St, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.567471,
+        "longitude": 121.03281539999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Leon Gallery",
+        "rating": 4.5,
+        "address": "G/F, 120, Corinthian Plaza, 121 Paseo de Roxas, Legazpi Village, Makati, Kalakhang Maynila, Philippines",
+        "latitude": 14.553288499999999,
+        "longitude": 121.0188551
+    },
+    {
+        "category": "art galleries",
+        "title": "Omniverse Museum",
+        "rating": 4.4,
+        "address": "Omniverse Museum Japan Town 4/F Glorietta 2, Ayala Center Makati Palm Dr, Makati Ave, Makati City, 1224 Metro Manila, Philippines",
+        "latitude": 14.5509171,
+        "longitude": 121.0254416
+    },
+    {
+        "category": "art galleries",
+        "title": "Happy World Museum Miracle Art",
+        "rating": 4.2,
+        "address": "4th floor Market Market, McKinley Pkwy, Taguig, 1634 Metro Manila, Philippines",
+        "latitude": 14.549359899999999,
+        "longitude": 121.0557709
+    },
+    {
+        "category": "theaters",
+        "title": "Waltermart Cinemas - Makati",
+        "rating": 4.4,
+        "address": "5/F Walter Mart Makati, 790 Chino Roces Street, 12 Makati Ave, Makati City, 1230 Metro Manila, Philippines",
+        "latitude": 14.5511232,
+        "longitude": 121.012884
+    },
+    {
+        "category": "theaters",
+        "title": "Power Plant Cinema",
+        "rating": 4.7,
+        "address": "R3, Power Plant Mall, Rockwell Drive, Cor Estrella, Makati City, 1200, Philippines",
+        "latitude": 14.5654995,
+        "longitude": 121.036322
+    },
+    {
+        "category": "theaters",
+        "title": "Ayala Malls Cinemas Circuit",
+        "rating": 4.6,
+        "address": "H2F9+3X6, Ayala Malls Circuit, Hippodromo, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5726546,
+        "longitude": 121.01989789999999
+    },
+    {
+        "category": "theaters",
+        "title": "Century City Cinemas",
+        "rating": 4.4,
+        "address": "Century City Mall, Kalayaan Ave, Makati, 1210 Kalakhang Maynila, Philippines",
+        "latitude": 14.5654212,
+        "longitude": 121.02738889999999
+    },
+    {
+        "category": "theaters",
+        "title": "Glorietta 4 Cinemas",
+        "rating": 4.3,
+        "address": "4th Floor, Glorietta 4, Ayala Center, Makati City, Metro Manila, Philippines",
+        "latitude": 14.551258899999999,
+        "longitude": 121.02615069999999
+    },
+    {
+        "category": "theaters",
+        "title": "Bonifacio High Street Cinemas",
+        "rating": 4.6,
+        "address": "H22X+RGV, 30th St, Taguig, Metro Manila, Philippines",
+        "latitude": 14.552107399999999,
+        "longitude": 121.0487821
+    },
+    {
+        "category": "theaters",
+        "title": "Ayala Mall Cinemas Glorietta",
+        "rating": 4.3,
+        "address": "L4, G4, Glorietta 4, Ayala Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5512518,
+        "longitude": 121.02630189999999
+    },
+    {
+        "category": "theaters",
+        "title": "Cinema - Cash & Carry Mall",
+        "rating": 4.5,
+        "address": "Cash & Carry Mall, 1200 Filmore St, Makati City, Metro Manila, Philippines",
+        "latitude": 14.559083999999999,
+        "longitude": 121.00602529999999
+    },
+    {
+        "category": "theaters",
+        "title": "Samsung Performing Arts Theater",
+        "rating": 4.7,
+        "address": "Hippodromo St, Makati City, 1630 Metro Manila, Philippines",
+        "latitude": 14.57261,
+        "longitude": 121.0189408
+    },
+    {
+        "category": "theaters",
+        "title": "One Eye Studio",
+        "rating": 5,
+        "address": "5022 P Burgos St, Poblacion, Makati City, 1210 Metro Manila, Philippines",
+        "latitude": 14.5637077,
+        "longitude": 121.030334
+    },
+    {
+        "category": "theaters",
+        "title": "Power Mac Center Spotlight Blackbox Theater",
+        "rating": 4.8,
+        "address": "Ayala Malls Circuit, 2F Circuit Lane, Makati City, Metro Manila, Philippines",
+        "latitude": 14.5753021,
+        "longitude": 121.01965779999999
+    },
+    {
+        "category": "theaters",
+        "title": "SM Cinema Aura",
+        "rating": 4.3,
+        "address": "4/F SM Aura Premier, 26th Street corner, McKinley Pkwy, The Fort, Taguig, Metro Manila, Philippines",
+        "latitude": 14.54628,
+        "longitude": 121.05402099999999
+    },
+    {
+        "category": "theaters",
+        "title": "Uptown Mall Cinema",
+        "rating": 4.5,
+        "address": "9th Ave., Ave, Uptown Mall, 11th Dr, Taguig, Metro Manila, Philippines",
+        "latitude": 14.556278299999999,
+        "longitude": 121.05471019999999
+    },
+    {
+        "category": "theaters",
+        "title": "Newport Cinema, Resorts World Manila",
+        "rating": 4.5,
+        "address": "20 Newport Blvd, 183, Pasay, 1309 Newport Blvd, 183, Pasay City, 1309 Metro Manila, Philippines",
+        "latitude": 14.519252799999999,
+        "longitude": 121.01950599999999
+    },
+    {
+        "category": "theaters",
+        "title": "SureSeats",
+        "rating": 3.4,
+        "address": "Ayala Malls Cinemas, 4th floor Glorietta 4, Ayala Center, Countryard Drive 1224, Makati City, Metro Manila, Philippines",
+        "latitude": 14.551148999999999,
+        "longitude": 121.026201
+    },
+    {
+        "category": "theaters",
+        "title": "Makati Central Square",
+        "rating": 3.9,
+        "address": "2130 Chino Roces Ave, Legazpi Village, Makati City, 1230 Metro Manila, Philippines",
+        "latitude": 14.5527511,
+        "longitude": 121.01414009999999
+    },
+    {
+        "category": "theaters",
+        "title": "Le Ciné Club Manila",
+        "rating": 5,
+        "address": "Alliance Française de Manille, 209 Nicanor Garcia St, Makati City, 1209 Metro Manila, Philippines",
+        "latitude": 14.565328099999999,
+        "longitude": 121.02332899999999
+    },
+    {
+        "category": "theaters",
+        "title": "Ayala Malls Cinemas The 30th",
+        "rating": 4.6,
+        "address": "H3J7+5QH, Pasig, Metro Manila, Philippines",
+        "latitude": 14.580441899999999,
+        "longitude": 121.0644815
+    },
+    {
+        "category": "theaters",
+        "title": "安迪私人影院 Andy T. CAFE",
+        "rating": 3.6,
+        "address": "Philippines, Metro Manila, Makati City",
+        "latitude": 14.561091,
+        "longitude": 121.00853599999999
+    },
+    {
+        "category": "theaters",
+        "title": "Venice Cineplex Cinema",
+        "rating": 4.5,
+        "address": "G3M2+88P, Venezia Drive, Taguig, Metro Manila, Philippines",
+        "latitude": 14.5331548,
+        "longitude": 121.05057719999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Tesoros Philippine Handicrafts",
+        "rating": 4.6,
+        "address": "Antonio Arnaiz Ave, Makati City, 1223 Metro Manila, Philippines",
+        "latitude": 14.5493279,
+        "longitude": 121.0239867
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Kultura Filipino",
+        "rating": 4.4,
+        "address": "1223 Palm Dr, Makati, Kalakhang Maynila, Philippines",
+        "latitude": 14.549811199999999,
+        "longitude": 121.02692049999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Balikbayan Handicrafts - The Landmark",
+        "rating": 4.6,
+        "address": "3rd Floor The Landmark, 1200 Makati Ave, Makati City, Metro Manila, Philippines",
+        "latitude": 14.552239,
+        "longitude": 121.02374979999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs Idea Workshop",
+        "rating": 5,
+        "address": "1441, A Newton, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.552836999999998,
+        "longitude": 121.006379
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Balikbayan Handicrafts",
+        "rating": 4.6,
+        "address": "1010 Antonio Arnaiz Ave, Village, Makati City, 1223 Metro Manila, Philippines",
+        "latitude": 14.549711499999999,
+        "longitude": 121.02347809999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir Island General Merchandise",
+        "rating": 4.4,
+        "address": "135 Carlos Palanca, Brgy. 306, Quiapo, 1001 Metro Manila, Philippines",
+        "latitude": 14.5977809,
+        "longitude": 120.9824709
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Regalong Pambahay - Balikbayan Handicrafts",
+        "rating": 1,
+        "address": "2nd Floor, Balikbayan Handicrafts, 1010 Antonio Arnaiz Ave, Makati City, 1200 Metro Manila, Philippines",
+        "latitude": 14.549711499999999,
+        "longitude": 121.02347809999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "SM Store",
+        "rating": 4.4,
+        "address": "SM Makati, Courtyard Dr, Makati City, 1223 Metro Manila, Philippines",
+        "latitude": 14.5500966,
+        "longitude": 121.0271477
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir Items",
+        "rating": null,
+        "address": "Vernida1 Tower, 120 Amorsolo Street, Makati, 1229 Kalakhang Maynila, Philippines",
+        "latitude": 14.556041599999999,
+        "longitude": 121.0148294
+    }
+]

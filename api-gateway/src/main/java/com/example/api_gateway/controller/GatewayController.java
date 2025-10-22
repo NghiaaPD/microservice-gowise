@@ -16,8 +16,11 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RequestPart;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.HttpClientErrorException;
+import org.springframework.web.client.HttpServerErrorException;
+import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.client.HttpServerErrorException;
 import org.springframework.web.client.RestTemplate;
 import org.slf4j.Logger;
@@ -1249,6 +1252,199 @@ public class GatewayController {
                     "success", false,
                     "message", "Chatbot chat service temporarily unavailable",
                     "error", e.getMessage()));
+        }
+    }
+
+    // ==========================================
+    // GALLERY SERVICE ROUTING
+    // ==========================================
+
+    /**
+     * Forward upload photo request to gallery service.
+     */
+    @PostMapping(value = "/api/gallery/upload", consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
+    public ResponseEntity<Object> forwardGalleryUpload(
+            @RequestParam("userId") String userId,
+            @RequestParam("galleryId") String galleryId,
+            @RequestParam("file") MultipartFile file,
+            @RequestParam(value = "caption", required = false) String caption,
+            @RequestParam(value = "location", required = false) String location,
+            @RequestParam(value = "takenAt", required = false) String takenAt) {
+        try {
+            String serviceUrl = loadBalancer.choose("gallery-service").getUri().toString();
+            String url = serviceUrl + "/api/gallery/upload";
+
+            // Create multipart body
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.MULTIPART_FORM_DATA);
+
+            org.springframework.util.MultiValueMap<String, Object> body = new org.springframework.util.LinkedMultiValueMap<>();
+            body.add("userId", userId);
+            body.add("galleryId", galleryId);
+            body.add("file", file.getResource());
+            if (caption != null)
+                body.add("caption", caption);
+            if (location != null)
+                body.add("location", location);
+            if (takenAt != null)
+                body.add("takenAt", takenAt);
+
+            HttpEntity<org.springframework.util.MultiValueMap<String, Object>> requestEntity = new HttpEntity<>(body,
+                    headers);
+
+            // Forward to gallery-service
+            ResponseEntity<Object> response = restTemplate.postForEntity(url, requestEntity, Object.class);
+            return response;
+        } catch (Exception e) {
+            logger.error("Error forwarding gallery upload request: {}", e.getMessage());
+            return ResponseEntity.status(500)
+                    .body(Map.of(
+                            "success", false,
+                            "message", "Gallery upload service temporarily unavailable",
+                            "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward get galleries by user request to gallery service.
+     */
+    @GetMapping("/api/gallery/user/{userId}/galleries")
+    public ResponseEntity<Object> forwardGetGalleriesByUser(@PathVariable String userId) {
+        try {
+            String serviceUrl = loadBalancer.choose("gallery-service").getUri().toString();
+            String url = serviceUrl + "/api/gallery/user/" + userId + "/galleries";
+
+            ResponseEntity<Object> response = restTemplate.getForEntity(url, Object.class);
+            return ResponseEntity.status(response.getStatusCode()).body(response.getBody());
+        } catch (HttpClientErrorException | HttpServerErrorException e) {
+            logger.error("Error forwarding get galleries by user request: {}", e.getMessage());
+            return ResponseEntity.status(e.getStatusCode())
+                    .body(Map.of(
+                            "success", false,
+                            "message", "Gallery service temporarily unavailable",
+                            "error", e.getMessage()));
+        } catch (Exception e) {
+            logger.error("Unexpected error forwarding get galleries by user request: {}", e.getMessage());
+            return ResponseEntity.status(500)
+                    .body(Map.of(
+                            "success", false,
+                            "message", "Gallery service temporarily unavailable",
+                            "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward get photos by user and trip request to gallery service.
+     */
+    @GetMapping("/api/gallery/user/{userId}/trip/{tripId}")
+    public ResponseEntity<Object> forwardGetPhotosByUserAndTrip(@PathVariable String userId,
+            @PathVariable String tripId) {
+        try {
+            String serviceUrl = loadBalancer.choose("gallery-service").getUri().toString();
+            String url = serviceUrl + "/api/gallery/user/" + userId + "/trip/" + tripId;
+
+            ResponseEntity<Object> response = restTemplate.getForEntity(url, Object.class);
+            return ResponseEntity.status(response.getStatusCode()).body(response.getBody());
+        } catch (HttpClientErrorException | HttpServerErrorException e) {
+            logger.error("Error forwarding get photos by user and trip request: {}", e.getMessage());
+            return ResponseEntity.status(e.getStatusCode())
+                    .body(Map.of(
+                            "success", false,
+                            "message", "Gallery service temporarily unavailable",
+                            "error", e.getMessage()));
+        } catch (Exception e) {
+            logger.error("Unexpected error forwarding get photos by user and trip request: {}", e.getMessage());
+            return ResponseEntity.status(500)
+                    .body(Map.of(
+                            "success", false,
+                            "message", "Gallery service temporarily unavailable",
+                            "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward get photos by gallery request to gallery service.
+     */
+    @GetMapping("/api/gallery/gallery/{galleryId}")
+    public ResponseEntity<Object> forwardGetPhotosByGallery(@PathVariable String galleryId) {
+        try {
+            String serviceUrl = loadBalancer.choose("gallery-service").getUri().toString();
+            String url = serviceUrl + "/api/gallery/gallery/" + galleryId;
+
+            ResponseEntity<Object> response = restTemplate.getForEntity(url, Object.class);
+            return ResponseEntity.status(response.getStatusCode()).body(response.getBody());
+        } catch (HttpClientErrorException | HttpServerErrorException e) {
+            logger.error("Error forwarding get photos by gallery request: {}", e.getMessage());
+            return ResponseEntity.status(e.getStatusCode())
+                    .body(Map.of(
+                            "success", false,
+                            "message", "Gallery service temporarily unavailable",
+                            "error", e.getMessage()));
+        } catch (Exception e) {
+            logger.error("Unexpected error forwarding get photos by gallery request: {}", e.getMessage());
+            return ResponseEntity.status(500)
+                    .body(Map.of(
+                            "success", false,
+                            "message", "Gallery service temporarily unavailable",
+                            "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward get photo by id request to gallery service.
+     */
+    @GetMapping("/api/gallery/{photoId}")
+    public ResponseEntity<Object> forwardGetPhotoById(@PathVariable String photoId) {
+        try {
+            String serviceUrl = loadBalancer.choose("gallery-service").getUri().toString();
+            String url = serviceUrl + "/api/gallery/" + photoId;
+
+            ResponseEntity<Object> response = restTemplate.getForEntity(url, Object.class);
+            return ResponseEntity.status(response.getStatusCode()).body(response.getBody());
+        } catch (HttpClientErrorException | HttpServerErrorException e) {
+            logger.error("Error forwarding get photo by id request: {}", e.getMessage());
+            return ResponseEntity.status(e.getStatusCode())
+                    .body(Map.of(
+                            "success", false,
+                            "message", "Gallery service temporarily unavailable",
+                            "error", e.getMessage()));
+        } catch (Exception e) {
+            logger.error("Unexpected error forwarding get photo by id request: {}", e.getMessage());
+            return ResponseEntity.status(500)
+                    .body(Map.of(
+                            "success", false,
+                            "message", "Gallery service temporarily unavailable",
+                            "error", e.getMessage()));
+        }
+    }
+
+    /**
+     * Forward delete photo request to gallery service.
+     */
+    @DeleteMapping("/api/gallery/{photoId}")
+    public ResponseEntity<Object> forwardDeletePhoto(@PathVariable String photoId) {
+        try {
+            String serviceUrl = loadBalancer.choose("gallery-service").getUri().toString();
+            String url = serviceUrl + "/api/gallery/" + photoId;
+
+            restTemplate.delete(url);
+            return ResponseEntity.ok(Map.of(
+                    "success", true,
+                    "message", "Photo deleted successfully"));
+        } catch (HttpClientErrorException | HttpServerErrorException e) {
+            logger.error("Error forwarding delete photo request: {}", e.getMessage());
+            return ResponseEntity.status(e.getStatusCode())
+                    .body(Map.of(
+                            "success", false,
+                            "message", "Gallery service temporarily unavailable",
+                            "error", e.getMessage()));
+        } catch (Exception e) {
+            logger.error("Unexpected error forwarding delete photo request: {}", e.getMessage());
+            return ResponseEntity.status(500)
+                    .body(Map.of(
+                            "success", false,
+                            "message", "Gallery service temporarily unavailable",
+                            "error", e.getMessage()));
         }
     }
 }

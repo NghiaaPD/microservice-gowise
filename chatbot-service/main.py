@@ -87,7 +87,7 @@ def chat_with_agent(request: Dict[str, Any]):
     2. Travel plan analysis and discussion (summarizes plans and focuses conversation within them)
 
     Args:
-        request: JSON object with "message" field containing user's message
+        request: JSON object with "message" field and optional "plan_content" field
 
     Returns:
         AI response focused on travel and tourism topics
@@ -96,50 +96,50 @@ def chat_with_agent(request: Dict[str, Any]):
         return {"error": "Chat agent not initialized"}
 
     try:
-        message = request.get("message", "")
-        logger.info(f"Received message: {message}")
-        logger.info(f"Message type: {type(message)}")
-
-        if not message:
-            return {"error": "Message field is required"}
-
-        # Check if this looks like a travel plan (has destination or plan_id)
         import json
-
-        # If message is already a dict (from frontend object), use it directly
-        if isinstance(message, dict):
-            plan_data = message
-            logger.info("Message is dict object from frontend")
-
-            # Check for travel indicators
-            travel_indicators = ['destination', 'startDate', 'endDate', 'budget', 'plan_id', 'selectedInterests']
-            has_travel_data = any(key in plan_data for key in travel_indicators)
-
-            if has_travel_data:
-                logger.info("Detected travel plan data, sending for summary")
-                # Send the plan data as JSON string for summarization
-                response = chat_agent.chat(json.dumps(plan_data, ensure_ascii=False))
-            else:
-                logger.info("No travel indicators found, treating as regular message")
-                response = chat_agent.chat(str(plan_data))
-        else:
-            # Try to parse as JSON string
-            try:
-                plan_data = json.loads(message)
-                logger.info(f"Parsed JSON string: {plan_data}")
-
+        
+        message = request.get("message", "")
+        plan_content = request.get("plan_content", None)
+        
+        logger.info(f"Received request - message: {message}, has plan_content: {plan_content is not None}")
+        
+        # Check if plan_content exists (travel plan scenario)
+        if plan_content and isinstance(plan_content, dict):
+            logger.info(f"Processing travel plan with content: {plan_content}")
+            # Send plan_content as JSON string for summarization
+            response = chat_agent.chat(json.dumps(plan_content, ensure_ascii=False))
+        elif message:
+            # Regular message scenario
+            logger.info(f"Processing regular message: {message}")
+            
+            # Check if message itself is a dict (backwards compatibility)
+            if isinstance(message, dict):
                 travel_indicators = ['destination', 'startDate', 'endDate', 'budget', 'plan_id', 'selectedInterests']
-                has_travel_data = any(key in plan_data for key in travel_indicators)
-
+                has_travel_data = any(key in message for key in travel_indicators)
+                
                 if has_travel_data:
-                    logger.info("Detected travel plan from JSON string")
-                    response = chat_agent.chat(message)  # Send original JSON string
+                    logger.info("Message contains travel plan data")
+                    response = chat_agent.chat(json.dumps(message, ensure_ascii=False))
                 else:
-                    response = chat_agent.chat(message)
-            except (json.JSONDecodeError, TypeError, ValueError):
-                # Not JSON, treat as regular text message
-                logger.info("Not JSON, treating as regular text message")
-                response = chat_agent.chat(str(message))
+                    response = chat_agent.chat(str(message))
+            else:
+                # Try to parse as JSON string
+                try:
+                    plan_data = json.loads(message)
+                    travel_indicators = ['destination', 'startDate', 'endDate', 'budget', 'plan_id', 'selectedInterests']
+                    has_travel_data = any(key in plan_data for key in travel_indicators)
+                    
+                    if has_travel_data:
+                        logger.info("Parsed travel plan from JSON string")
+                        response = chat_agent.chat(message)
+                    else:
+                        response = chat_agent.chat(message)
+                except (json.JSONDecodeError, TypeError, ValueError):
+                    # Not JSON, treat as regular text message
+                    logger.info("Processing as regular text message")
+                    response = chat_agent.chat(str(message))
+        else:
+            return {"error": "Either 'message' or 'plan_content' field is required"}
 
         logger.info(f"Final response: {response[:200]}...")
         return {"response": response}

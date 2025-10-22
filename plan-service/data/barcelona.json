@@ -1,0 +1,3418 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Park Güell",
+        "rating": 4.4,
+        "address": "Gràcia, 08024 Barcelona, Spain",
+        "latitude": 41.4144948,
+        "longitude": 2.1526945
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Casa Batlló",
+        "rating": 4.7,
+        "address": "Pg. de Gràcia, 43, L'Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.3917,
+        "longitude": 2.164918
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Plaça de Gaudí",
+        "rating": 4.6,
+        "address": "Carrer de Lepant, 278, L'Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.4044039,
+        "longitude": 2.1754121
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Basílica de la Sagrada Família",
+        "rating": 4.8,
+        "address": "Carrer de Mallorca, 401, L'Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.4036299,
+        "longitude": 2.1743558
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Rambla De Mar",
+        "rating": 4.6,
+        "address": "Rambla de Mar, s/n, 08039 Barcelona, Spain",
+        "latitude": 41.3751582,
+        "longitude": 2.1806791999999997
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Poble Espanyol",
+        "rating": 4.2,
+        "address": "Av. de Francesc Ferrer i Guàrdia, 13, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3690713,
+        "longitude": 2.1467419
+    },
+    {
+        "category": "tourist attractions",
+        "title": "La Pedrera - Casa Milà",
+        "rating": 4.6,
+        "address": "Pg. de Gràcia, 92, L'Eixample, 08008 Barcelona, Spain",
+        "latitude": 41.3952155,
+        "longitude": 2.1619024
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Escalinata monumental",
+        "rating": 4.5,
+        "address": "Carrer d'Olot, 78, Gràcia, 08024 Barcelona, Spain",
+        "latitude": 41.413713099999995,
+        "longitude": 2.1528294999999997
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Plaça de Catalunya",
+        "rating": 4.5,
+        "address": "L'Eixample, 08002 Barcelona, Spain",
+        "latitude": 41.387015399999996,
+        "longitude": 2.1700471
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Illa de la Discòrdia",
+        "rating": 4.6,
+        "address": "Pg. de Gràcia, 41, L'Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.3915608,
+        "longitude": 2.1650348999999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Tower of the Virgin Mary",
+        "rating": 4.8,
+        "address": "Carrer de Provença, L'Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.4039302,
+        "longitude": 2.1741577
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Pont del Bisbe",
+        "rating": 4.7,
+        "address": "Carrer del Bisbe, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.383302,
+        "longitude": 2.1764228
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Gaudi & Modernism Walking Tour",
+        "rating": 4.3,
+        "address": "L'Eixample, 08002 Barcelona, Spain",
+        "latitude": 41.3879801,
+        "longitude": 2.1696918
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Basílica de Santa Maria del Mar",
+        "rating": 4.7,
+        "address": "Plaça de Santa Maria, 1, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.383887099999995,
+        "longitude": 2.1820711
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Montjuïc Castle",
+        "rating": 4.4,
+        "address": "Ctra. de Montjuïc, 66, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.362959,
+        "longitude": 2.1650636
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Arc de Triomf",
+        "rating": 4.6,
+        "address": "Passeig de Lluís Companys, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3910524,
+        "longitude": 2.1806449
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Cathedral of Barcelona",
+        "rating": 4.6,
+        "address": "Pla de la Seu, s/n, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.383962,
+        "longitude": 2.1761991
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Font Pla de la Boqueria",
+        "rating": 4.3,
+        "address": "Pla de la Boqueria, 3, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.381198499999996,
+        "longitude": 2.173508
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Picasso Museum Barcelona",
+        "rating": 4.4,
+        "address": "Carrer de Montcada, 15-23, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3852706,
+        "longitude": 2.1809472
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Barcelona Segway Glides",
+        "rating": 5,
+        "address": "Carrer del Correu Vell, 3, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3815357,
+        "longitude": 2.1796754
+    },
+    {
+        "category": "parks",
+        "title": "Ciutadella Park",
+        "rating": 4.6,
+        "address": "Passeig de Picasso, 21, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.388123,
+        "longitude": 2.1860152
+    },
+    {
+        "category": "parks",
+        "title": "Park Güell",
+        "rating": 4.4,
+        "address": "Gràcia, 08024 Barcelona, Spain",
+        "latitude": 41.4144948,
+        "longitude": 2.1526945
+    },
+    {
+        "category": "parks",
+        "title": "Parc del Laberint d'Horta",
+        "rating": 4.4,
+        "address": "Passeig dels Castanyers, 1, Horta-Guinardó, 08035 Barcelona, Spain",
+        "latitude": 41.4399698,
+        "longitude": 2.1455713
+    },
+    {
+        "category": "parks",
+        "title": "Parc de Cervantes",
+        "rating": 4.5,
+        "address": "Av. Diagonal, 706, Les Corts, 08034 Barcelona, Spain",
+        "latitude": 41.3832306,
+        "longitude": 2.1067299999999998
+    },
+    {
+        "category": "parks",
+        "title": "Parc del Guinardó",
+        "rating": 4.5,
+        "address": "Horta-Guinardó, 08032 Barcelona, Spain",
+        "latitude": 41.4199675,
+        "longitude": 2.1667967
+    },
+    {
+        "category": "parks",
+        "title": "Parc del Mirador del Poble-sec",
+        "rating": 4.5,
+        "address": "Passeig de Montjuïc, 28, Sants-Montjuïc, 08005 Barcelona, Spain",
+        "latitude": 41.371799599999996,
+        "longitude": 2.1718933
+    },
+    {
+        "category": "parks",
+        "title": "Barceloneta Park",
+        "rating": 4.3,
+        "address": "Pg. Marítim de la Barceloneta, 15, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3825712,
+        "longitude": 2.1926235
+    },
+    {
+        "category": "parks",
+        "title": "Parc del Clot",
+        "rating": 4.2,
+        "address": "Carrer dels Escultors Claperós, 55, 63, Sant Martí, 08018 Barcelona, Spain",
+        "latitude": 41.4086104,
+        "longitude": 2.1904931
+    },
+    {
+        "category": "parks",
+        "title": "Jardins de Laribal",
+        "rating": 4.5,
+        "address": "Passeig de Santa Madrona, 2, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.368354,
+        "longitude": 2.1569403
+    },
+    {
+        "category": "parks",
+        "title": "Parc del Turó",
+        "rating": 4.4,
+        "address": "Av. de Pau Casals, 19, Sarrià-Sant Gervasi, 08021 Barcelona, Spain",
+        "latitude": 41.3945509,
+        "longitude": 2.1407144
+    },
+    {
+        "category": "parks",
+        "title": "Parc de Les Aigües",
+        "rating": 4.4,
+        "address": "Ronda del Guinardó, 49, Horta-Guinardó, 08024 Barcelona, Spain",
+        "latitude": 41.413113599999996,
+        "longitude": 2.1654071999999998
+    },
+    {
+        "category": "parks",
+        "title": "Parc Central de Nou Barris",
+        "rating": 4.3,
+        "address": "Plaça Major de Nou Barris, 1, Nou Barris, 08042 Barcelona, Spain",
+        "latitude": 41.4365386,
+        "longitude": 2.1677429
+    },
+    {
+        "category": "parks",
+        "title": "Jardins de Joan Brossa",
+        "rating": 4.4,
+        "address": "Plaça de Dante, 9999, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3682618,
+        "longitude": 2.1650693
+    },
+    {
+        "category": "parks",
+        "title": "Jardins de la Tamarita",
+        "rating": 4.3,
+        "address": "Pg. de St. Gervasi, 47, Sarrià-Sant Gervasi, 08022 Barcelona, Spain",
+        "latitude": 41.410731899999995,
+        "longitude": 2.1355264
+    },
+    {
+        "category": "parks",
+        "title": "Parc de Carles I",
+        "rating": 4.2,
+        "address": "Av. d'Icària, 121, Sant Martí, 08005 Barcelona, Spain",
+        "latitude": 41.3886415,
+        "longitude": 2.1938078
+    },
+    {
+        "category": "parks",
+        "title": "Parc de l'Espanya Industrial",
+        "rating": 4.1,
+        "address": "Carrer de Muntadas, 1, Sants-Montjuïc, 08014 Barcelona, Spain",
+        "latitude": 41.377655499999996,
+        "longitude": 2.1408583
+    },
+    {
+        "category": "parks",
+        "title": "Parc del Centre del Poblenou",
+        "rating": 4.2,
+        "address": "Av. Diagonal, 130, Sant Martí, 08018 Barcelona, Spain",
+        "latitude": 41.4075066,
+        "longitude": 2.2008913
+    },
+    {
+        "category": "parks",
+        "title": "Parc de la Creueta del Coll",
+        "rating": 4.2,
+        "address": "Passeig de la Mare de Déu del Coll, 77, Gràcia, 08023 Barcelona, Spain",
+        "latitude": 41.4189809,
+        "longitude": 2.1462901999999997
+    },
+    {
+        "category": "parks",
+        "title": "Plaça de Gaudí",
+        "rating": 4.6,
+        "address": "Carrer de Lepant, 278, L'Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.4044039,
+        "longitude": 2.1754121
+    },
+    {
+        "category": "parks",
+        "title": "Parc Natural de la Serra de Collserola",
+        "rating": 4.5,
+        "address": "Ctra. de l'Església, 92, 08017 Barcelona, Spain",
+        "latitude": 41.442550399999995,
+        "longitude": 2.1016603
+    },
+    {
+        "category": "restaurants",
+        "title": "El Nacional Barcelona",
+        "rating": 4.4,
+        "address": "Pg. de Gràcia, 24 Bis, L'Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.390583,
+        "longitude": 2.1683914
+    },
+    {
+        "category": "restaurants",
+        "title": "Sagradas Tapas",
+        "rating": 4.7,
+        "address": "Av. de Gaudí, 48, L'Eixample, 08025 Barcelona, Spain",
+        "latitude": 41.4085159,
+        "longitude": 2.1745107
+    },
+    {
+        "category": "restaurants",
+        "title": "Viana Barcelona",
+        "rating": 4.8,
+        "address": "Carrer del Vidre, 7, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3798315,
+        "longitude": 2.1762981999999997
+    },
+    {
+        "category": "restaurants",
+        "title": "BODEGA OLIVA",
+        "rating": 4.8,
+        "address": "Carrer del Vidre, 8, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.379779299999996,
+        "longitude": 2.1761334999999997
+    },
+    {
+        "category": "restaurants",
+        "title": "RAO Restaurant",
+        "rating": 4.7,
+        "address": "Carrer de les Sitges, 3, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.384267099999995,
+        "longitude": 2.1696744
+    },
+    {
+        "category": "restaurants",
+        "title": "Casa Lolea Barcelona",
+        "rating": 4.5,
+        "address": "Carrer de Sant Pere Més Alt, 49, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3889,
+        "longitude": 2.1771556
+    },
+    {
+        "category": "restaurants",
+        "title": "Bodega Biarritz 1881",
+        "rating": 4.7,
+        "address": "Carrer Nou de Sant Francesc, 7, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3791891,
+        "longitude": 2.1770567
+    },
+    {
+        "category": "restaurants",
+        "title": "Típico Asador Argentino",
+        "rating": 4.9,
+        "address": "Carrer de Villarroel, 31, L'Eixample, 08011 Barcelona, Spain",
+        "latitude": 41.3816613,
+        "longitude": 2.1612134
+    },
+    {
+        "category": "restaurants",
+        "title": "Casa Amàlia",
+        "rating": 4.7,
+        "address": "Ptge. del Mercat, 14, L'Eixample, 08009 Barcelona, Spain",
+        "latitude": 41.3962655,
+        "longitude": 2.1685205
+    },
+    {
+        "category": "restaurants",
+        "title": "Xera Restaurant",
+        "rating": 4.8,
+        "address": "Carrer de les Sitges, 10, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.38455,
+        "longitude": 2.1696814
+    },
+    {
+        "category": "restaurants",
+        "title": "Colom Restaurant",
+        "rating": 4.7,
+        "address": "Carrer dels Escudellers, 33, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.379852799999995,
+        "longitude": 2.1765
+    },
+    {
+        "category": "restaurants",
+        "title": "Prado de Flores Restaurant",
+        "rating": 4.7,
+        "address": "Carrer de Santa Anna, 11, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3851526,
+        "longitude": 2.1711624
+    },
+    {
+        "category": "restaurants",
+        "title": "Güell Tapas Restaurant",
+        "rating": 4.7,
+        "address": "Carrer Nou de la Rambla, 20, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3786784,
+        "longitude": 2.173736
+    },
+    {
+        "category": "restaurants",
+        "title": "Nix Tapas & Drinks",
+        "rating": 4.8,
+        "address": "Carrer dels Escudellers, 12, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3795328,
+        "longitude": 2.1763996999999997
+    },
+    {
+        "category": "restaurants",
+        "title": "Jamón y Vino",
+        "rating": 4.6,
+        "address": "Carrer de Sardenya, 310, Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.402508399999995,
+        "longitude": 2.1747022
+    },
+    {
+        "category": "restaurants",
+        "title": "Petit Tapas",
+        "rating": 4.8,
+        "address": "Carrer Ample, 26, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3803248,
+        "longitude": 2.1800471
+    },
+    {
+        "category": "restaurants",
+        "title": "La Terraza Miró",
+        "rating": 4.7,
+        "address": "Carrer de Tarragona, 129, Sants-Montjuïc, 08014 Barcelona, Spain",
+        "latitude": 41.377438999999995,
+        "longitude": 2.1460809
+    },
+    {
+        "category": "restaurants",
+        "title": "Cera 23",
+        "rating": 4.8,
+        "address": "Carrer de la Cera, 23, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3788811,
+        "longitude": 2.1663227
+    },
+    {
+        "category": "restaurants",
+        "title": "Nine Barcelona",
+        "rating": 4.5,
+        "address": "Carrer de València, 334, Local 1, Eixample, 08009 Barcelona, Spain",
+        "latitude": 41.3963752,
+        "longitude": 2.1683746999999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Con Gracia",
+        "rating": 4.8,
+        "address": "Carrer de Martínez de la Rosa, 8, Gràcia, 08012 Barcelona, Spain",
+        "latitude": 41.3990681,
+        "longitude": 2.1600541
+    },
+    {
+        "category": "cafes",
+        "title": "Dalston Coffee Barcelona - Cafè d'especialitat - Coffee Roasters",
+        "rating": 4.7,
+        "address": "Carrer de les Ramelleres, 16, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3845342,
+        "longitude": 2.1684742999999997
+    },
+    {
+        "category": "cafes",
+        "title": "Molinet Cafè Antic - Bistro & Brunch",
+        "rating": 4.9,
+        "address": "Carrer d'Elkano, 69, Distrito de Sants-Montjuïc, 08004 Barcelona, Spain",
+        "latitude": 41.3740653,
+        "longitude": 2.1599452
+    },
+    {
+        "category": "cafes",
+        "title": "Cafès El Magnífico",
+        "rating": 4.6,
+        "address": "Carrer de l'Argenteria, 64, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3834953,
+        "longitude": 2.1810332
+    },
+    {
+        "category": "cafes",
+        "title": "LITTLE FERN",
+        "rating": 4.7,
+        "address": "Carrer de Pere IV, 168, Sant Martí, 08005 Barcelona, Spain",
+        "latitude": 41.402343699999996,
+        "longitude": 2.1975263
+    },
+    {
+        "category": "cafes",
+        "title": "paradero | Barcelona",
+        "rating": 4.7,
+        "address": "Carrer del Comte Borrell, 107, L'Eixample, 08015 Barcelona, Spain",
+        "latitude": 41.379722199999996,
+        "longitude": 2.1591667
+    },
+    {
+        "category": "cafes",
+        "title": "Couleur Café Barcelona",
+        "rating": 4.8,
+        "address": "Carrer de Sant Pere Més Baix, 54, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3878214,
+        "longitude": 2.1781509999999997
+    },
+    {
+        "category": "cafes",
+        "title": "The Coffee House Barcelona",
+        "rating": 4.7,
+        "address": "Carrer de València, 143, Eixample, 08011 Barcelona, Spain",
+        "latitude": 41.3872639,
+        "longitude": 2.1559371
+    },
+    {
+        "category": "cafes",
+        "title": "Morrow Coffee",
+        "rating": 4.5,
+        "address": "Av. Gran Vía de les Corts Catalanes 403 Barcelona, Spain, 08015 Barcelona, Spain",
+        "latitude": 41.3771887,
+        "longitude": 2.1512728
+    },
+    {
+        "category": "cafes",
+        "title": "Three Marks Coffee",
+        "rating": 4.5,
+        "address": "Carrer d'Ausiàs Marc, 151, L'Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.397245,
+        "longitude": 2.183157
+    },
+    {
+        "category": "cafes",
+        "title": "FEDERAL Brunch y Café de Especialidad - Gòtic",
+        "rating": 4.2,
+        "address": "Ptge. de la Pau, 11, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3780022,
+        "longitude": 2.1777241
+    },
+    {
+        "category": "cafes",
+        "title": "Hidden Coffee Roasters - Les Corts",
+        "rating": 4.5,
+        "address": "C/ Constança, Carrer de Déu i Mata, esquina, 08029 Barcelona, Spain",
+        "latitude": 41.3883431,
+        "longitude": 2.1358581
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee Casa",
+        "rating": 4.8,
+        "address": "Carrer dels Carders, 25, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3868096,
+        "longitude": 2.1801767
+    },
+    {
+        "category": "cafes",
+        "title": "Caravelle",
+        "rating": 4.7,
+        "address": "Carrer del Pintor Fortuny, 31, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.382275799999995,
+        "longitude": 2.1688169
+    },
+    {
+        "category": "cafes",
+        "title": "Citizen Café Barcelona",
+        "rating": 4.4,
+        "address": "Pl. d'Urquinaona, 4, L'Eixample, 08010 Barcelona, Spain",
+        "latitude": 41.3894258,
+        "longitude": 2.1727998
+    },
+    {
+        "category": "cafes",
+        "title": "ARTiSA | Barcelona",
+        "rating": 4.4,
+        "address": "Carrer de Colom, 2, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3797283,
+        "longitude": 2.1748844
+    },
+    {
+        "category": "cafes",
+        "title": "Right Side Coffee Bar",
+        "rating": 4.2,
+        "address": "Carrer de l'Arc de Sant Ramon del Call, 11, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3826099,
+        "longitude": 2.1752634
+    },
+    {
+        "category": "cafes",
+        "title": "Usagui cafe",
+        "rating": 4.7,
+        "address": "Carrer de les Santjoanistes, 28, Sarrià-Sant Gervasi, 08006 Barcelona, Spain",
+        "latitude": 41.4022503,
+        "longitude": 2.1463541
+    },
+    {
+        "category": "cafes",
+        "title": "Vera Cafè",
+        "rating": 4.7,
+        "address": "Carrer d'En Mònec, 6, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.388415099999996,
+        "longitude": 2.1779033
+    },
+    {
+        "category": "cafes",
+        "title": "Tostaderos Bon Mercat Llibreteria",
+        "rating": 4.6,
+        "address": "Baixada de la Llibreteria, 1, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3836033,
+        "longitude": 2.1777507
+    },
+    {
+        "category": "cafes",
+        "title": "Brew Coffee",
+        "rating": 4.7,
+        "address": "Carrer de Roger de Flor, 102, Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.394622399999996,
+        "longitude": 2.1784703
+    },
+    {
+        "category": "mountains",
+        "title": "Montserrat",
+        "rating": 4.8,
+        "address": "08691, Barcelona, Spain",
+        "latitude": 41.5957765,
+        "longitude": 1.8298142
+    },
+    {
+        "category": "mountains",
+        "title": "Montjuïc",
+        "rating": 4.6,
+        "address": "Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3640002,
+        "longitude": 2.1674930999999997
+    },
+    {
+        "category": "mountains",
+        "title": "San Pedro Martir",
+        "rating": 5,
+        "address": "08950, Barcelona, Spain",
+        "latitude": 41.3936111,
+        "longitude": 2.0972222
+    },
+    {
+        "category": "waterfalls",
+        "title": "Salt d'aigua de La Foradada",
+        "rating": 4.3,
+        "address": "Camí de la Foradada, 08569, Barcelona, Spain",
+        "latitude": 42.0407047,
+        "longitude": 2.3946574
+    },
+    {
+        "category": "waterfalls",
+        "title": "Gorg de la Mola",
+        "rating": 3.9,
+        "address": "Carrer de la Llum, 08757 La Soleia, Barcelona, Spain",
+        "latitude": 41.4403764,
+        "longitude": 1.9750505999999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Salt de Sallent - Rupit",
+        "rating": 4.7,
+        "address": "Camí del Salt de Sallent, s/n, 08569 Rupit, Barcelona, Spain",
+        "latitude": 42.015969299999995,
+        "longitude": 2.4734798
+    },
+    {
+        "category": "waterfalls",
+        "title": "Salt d’aigua de la Rierada",
+        "rating": 4.3,
+        "address": "Carrer Estefania de Requesens, 41, 08750 Molins de Rei, Barcelona, Spain",
+        "latitude": 41.4308098,
+        "longitude": 2.0317274
+    },
+    {
+        "category": "waterfalls",
+        "title": "La cascada",
+        "rating": 4.4,
+        "address": "C4RV+4F, Horta-Guinardó, 08035 Barcelona, Spain",
+        "latitude": 41.4402688,
+        "longitude": 2.1437038999999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascada de La Font del gat",
+        "rating": 4.5,
+        "address": "Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.368110699999995,
+        "longitude": 2.1583202999999997
+    },
+    {
+        "category": "waterfalls",
+        "title": "Fonts del Llobregat",
+        "rating": 4.7,
+        "address": "08696 Castellar de n'Hug, Barcelona, Spain",
+        "latitude": 42.282601899999996,
+        "longitude": 2.0129158
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascada ornamental",
+        "rating": 4.1,
+        "address": "Les Corts, 08028 Barcelona, Spain",
+        "latitude": 41.3849926,
+        "longitude": 2.1273089
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascada monumental",
+        "rating": 4.8,
+        "address": "Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3901658,
+        "longitude": 2.1865593
+    },
+    {
+        "category": "waterfalls",
+        "title": "Fonts de Montjuïc",
+        "rating": 4.2,
+        "address": "Sants-Montjuïc, 08004 Montjuïc, Barcelona, Spain",
+        "latitude": 41.371502899999996,
+        "longitude": 2.1515209
+    },
+    {
+        "category": "waterfalls",
+        "title": "Parc Natural de la Serra de Collserola",
+        "rating": 4.5,
+        "address": "Ctra. de l'Església, 92, 08017 Barcelona, Spain",
+        "latitude": 41.442550399999995,
+        "longitude": 2.1016603
+    },
+    {
+        "category": "waterfalls",
+        "title": "Parc de les Cascades",
+        "rating": 4.1,
+        "address": "Av. del Litoral, 9991, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3862345,
+        "longitude": 2.1941254
+    },
+    {
+        "category": "waterfalls",
+        "title": "Gorg de la Plana",
+        "rating": 4.4,
+        "address": "El Brugent,, Girona, Spain",
+        "latitude": 42.0640187,
+        "longitude": 2.5282394999999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "Riera de Vallvidrera",
+        "rating": 4.1,
+        "address": "Barcelona, Spain",
+        "latitude": 41.4333398,
+        "longitude": 2.0481012
+    },
+    {
+        "category": "waterfalls",
+        "title": "Dona en cascada (escultura)",
+        "rating": 5,
+        "address": "Sants-Montjuïc, 08038 Montjuïc, Barcelona, Spain",
+        "latitude": 41.3667885,
+        "longitude": 2.1552777
+    },
+    {
+        "category": "waterfalls",
+        "title": "Jardins de Laribal",
+        "rating": 4.5,
+        "address": "Passeig de Santa Madrona, 2, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.368354,
+        "longitude": 2.1569403
+    },
+    {
+        "category": "waterfalls",
+        "title": "Sant Miquel del Fai",
+        "rating": 4.4,
+        "address": "BV-1485, Km. 7, 08416 Riells del fai, Barcelona, Spain",
+        "latitude": 41.7160351,
+        "longitude": 2.19054
+    },
+    {
+        "category": "waterfalls",
+        "title": "Fonts de l'Algar",
+        "rating": 4.2,
+        "address": "CV-715, s/n, 03510 Callosa d'en Sarrià, Alicante, Spain",
+        "latitude": 38.6604652,
+        "longitude": -0.0948788
+    },
+    {
+        "category": "waterfalls",
+        "title": "Ciutadella Park",
+        "rating": 4.6,
+        "address": "Passeig de Picasso, 21, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.388123,
+        "longitude": 2.1860152
+    },
+    {
+        "category": "waterfalls",
+        "title": "Jardins del Mirador",
+        "rating": 4.6,
+        "address": "Plaça de la Sardana, 717, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.367197499999996,
+        "longitude": 2.1688392
+    },
+    {
+        "category": "lakes",
+        "title": "Llacuna dels Alous",
+        "rating": 3.5,
+        "address": "08195, Barcelona, Spain",
+        "latitude": 41.4776361,
+        "longitude": 2.0407073
+    },
+    {
+        "category": "lakes",
+        "title": "Artificial lake of the Spain Industrial Park",
+        "rating": 4,
+        "address": "Carrer de Muntadas, 1, Sants-Montjuïc, 08014 Barcelona, Spain",
+        "latitude": 41.377945499999996,
+        "longitude": 2.1408876
+    },
+    {
+        "category": "lakes",
+        "title": "Vallvidrera Reservoir",
+        "rating": 4,
+        "address": "Camí del Pantà, s/n, Sarrià-Sant Gervasi, 08017 Barcelona, Spain",
+        "latitude": 41.4151996,
+        "longitude": 2.0974361999999998
+    },
+    {
+        "category": "lakes",
+        "title": "Llac Can Dragó",
+        "rating": 2.7,
+        "address": "Passeig d'Andreu Nin, 50, Distrito de Nou Barris, 08016 Barcelona, Spain",
+        "latitude": 41.435859,
+        "longitude": 2.1828689
+    },
+    {
+        "category": "lakes",
+        "title": "Estany de la Roberta",
+        "rating": null,
+        "address": "08820, Barcelona, Spain",
+        "latitude": 41.2819715,
+        "longitude": 2.0844472
+    },
+    {
+        "category": "lakes",
+        "title": "Llac del Parc Central",
+        "rating": null,
+        "address": "Carrer d'Albert Einstein, 8, Nou Barris, 08042 Barcelona, Spain",
+        "latitude": 41.4364366,
+        "longitude": 2.1688014
+    },
+    {
+        "category": "lakes",
+        "title": "Llac de Torreblanca",
+        "rating": 4.6,
+        "address": "Carrer de Torreblanca, 3, 08970 Sant Joan Despí, Barcelona, Spain",
+        "latitude": 41.3776997,
+        "longitude": 2.0569744
+    },
+    {
+        "category": "lakes",
+        "title": "Llac Petit de Terrassa",
+        "rating": 4.1,
+        "address": "08225 Terrassa, Barcelona, Spain",
+        "latitude": 41.5958702,
+        "longitude": 2.0000039
+    },
+    {
+        "category": "lakes",
+        "title": "Estany de la Ricarda",
+        "rating": 4.3,
+        "address": "08820, Barcelona, Spain",
+        "latitude": 41.295151399999995,
+        "longitude": 2.1097417
+    },
+    {
+        "category": "lakes",
+        "title": "Llac",
+        "rating": null,
+        "address": "Plaça Major de Nou Barris, Nou Barris, Barcelona, Spain",
+        "latitude": 41.4368828,
+        "longitude": 2.1640471
+    },
+    {
+        "category": "lakes",
+        "title": "Parc de la Creueta del Coll",
+        "rating": 4.2,
+        "address": "Passeig de la Mare de Déu del Coll, 77, Gràcia, 08023 Barcelona, Spain",
+        "latitude": 41.4189809,
+        "longitude": 2.1462901999999997
+    },
+    {
+        "category": "lakes",
+        "title": "Parc Natural de la Serra de Collserola",
+        "rating": 4.5,
+        "address": "Ctra. de l'Església, 92, 08017 Barcelona, Spain",
+        "latitude": 41.442550399999995,
+        "longitude": 2.1016603
+    },
+    {
+        "category": "lakes",
+        "title": "Llac Europa",
+        "rating": 4.1,
+        "address": "Carrer del Marquès de Monistrol, 08980 Sant Feliu de Llobregat, Barcelona, Spain",
+        "latitude": 41.3855164,
+        "longitude": 2.0574691
+    },
+    {
+        "category": "lakes",
+        "title": "Llac",
+        "rating": null,
+        "address": "Carrer d'Albert Einstein, 43, Nou Barris, 08031 Barcelona, Spain",
+        "latitude": 41.4365625,
+        "longitude": 2.1651776
+    },
+    {
+        "category": "beaches",
+        "title": "Barceloneta Beach",
+        "rating": 4.4,
+        "address": "Spain",
+        "latitude": 41.3783713,
+        "longitude": 2.1924685
+    },
+    {
+        "category": "beaches",
+        "title": "Sant Miquel Beach",
+        "rating": 4.4,
+        "address": "Ciutat Vella, Barcelona, Spain",
+        "latitude": 41.376806599999995,
+        "longitude": 2.1912409
+    },
+    {
+        "category": "beaches",
+        "title": "San Sebastian Beach",
+        "rating": 4.3,
+        "address": "Spain",
+        "latitude": 41.3712333,
+        "longitude": 2.1892774999999998
+    },
+    {
+        "category": "beaches",
+        "title": "Platja de la Mar Bella",
+        "rating": 4.3,
+        "address": "Spain",
+        "latitude": 41.3986632,
+        "longitude": 2.2122102
+    },
+    {
+        "category": "beaches",
+        "title": "Playa de Bogatell",
+        "rating": 4.4,
+        "address": "Sant Martí, Barcelona, Spain",
+        "latitude": 41.3943735,
+        "longitude": 2.2070108999999998
+    },
+    {
+        "category": "beaches",
+        "title": "Nova Icaria beach",
+        "rating": 4.4,
+        "address": "Spain",
+        "latitude": 41.390367399999995,
+        "longitude": 2.2023036
+    },
+    {
+        "category": "beaches",
+        "title": "Llevant",
+        "rating": 4.3,
+        "address": "Sant Martí, Barcelona, Spain",
+        "latitude": 41.404762999999996,
+        "longitude": 2.2185939
+    },
+    {
+        "category": "beaches",
+        "title": "Platja de la Nova Mar Bella",
+        "rating": 4.4,
+        "address": "Sant Martí, Barcelona, Spain",
+        "latitude": 41.401699099999995,
+        "longitude": 2.2152122999999997
+    },
+    {
+        "category": "beaches",
+        "title": "Playa de Bogatell",
+        "rating": 4.3,
+        "address": "Paseo Maritimo del Bogatell, s/n, Sant Martí, 08005 Barcelona, Spain",
+        "latitude": 41.394661899999996,
+        "longitude": 2.2062375999999997
+    },
+    {
+        "category": "beaches",
+        "title": "Llevant beach",
+        "rating": 4.2,
+        "address": "Passeig Marítim del Bogatell, 145, Sant Martí, 08005 Barcelona, Spain",
+        "latitude": 41.404167799999996,
+        "longitude": 2.2175083
+    },
+    {
+        "category": "beaches",
+        "title": "Prat Beach",
+        "rating": 4.2,
+        "address": "Spain",
+        "latitude": 41.2836533,
+        "longitude": 2.0954829999999998
+    },
+    {
+        "category": "beaches",
+        "title": "Zona de Banys Fòrum",
+        "rating": 4.1,
+        "address": "Barcelona, Spain",
+        "latitude": 41.411270099999996,
+        "longitude": 2.227734
+    },
+    {
+        "category": "beaches",
+        "title": "PLAYA MAR",
+        "rating": 4.4,
+        "address": "Pg. Marítim de la Barceloneta, 22, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.383428099999996,
+        "longitude": 2.1952134
+    },
+    {
+        "category": "beaches",
+        "title": "Somorrostro beach",
+        "rating": 4.3,
+        "address": "Spain",
+        "latitude": 41.383721099999995,
+        "longitude": 2.1957567
+    },
+    {
+        "category": "beaches",
+        "title": "Platja del Fòrum",
+        "rating": 3.9,
+        "address": "Forum, Barcelona, Spain",
+        "latitude": 41.416562299999995,
+        "longitude": 2.2315299
+    },
+    {
+        "category": "beaches",
+        "title": "Playa de la Barceloneta",
+        "rating": 4.5,
+        "address": "Ciutat Vella, Barcelona, Spain",
+        "latitude": 41.378597299999996,
+        "longitude": 2.1927437999999997
+    },
+    {
+        "category": "beaches",
+        "title": "Platges de Barcelona",
+        "rating": 4.4,
+        "address": "Sant Martí, Barcelona, Spain",
+        "latitude": 41.393364999999996,
+        "longitude": 2.2066976
+    },
+    {
+        "category": "beaches",
+        "title": "Playa de la Nova Mar Bella",
+        "rating": 4.6,
+        "address": "Sant Martí, 08005 Barcelona, Spain",
+        "latitude": 41.4016746,
+        "longitude": 2.2152113
+    },
+    {
+        "category": "beaches",
+        "title": "Beach",
+        "rating": 4.6,
+        "address": "Llevant, Sant Martí, 08005 Barcelona, Spain",
+        "latitude": 41.404762999999996,
+        "longitude": 2.2185939
+    },
+    {
+        "category": "beaches",
+        "title": "Platja de la Mar Bella",
+        "rating": 4.4,
+        "address": "Av. del Litoral, s/n, Sant Martí, 08005 Barcelona, Spain",
+        "latitude": 41.3986632,
+        "longitude": 2.2122102
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscines Bernat Picornell",
+        "rating": 3.9,
+        "address": "Av. de l'Estadi, 30-38, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3659107,
+        "longitude": 2.1509321999999997
+    },
+    {
+        "category": "swimming pools",
+        "title": "Llac Piscina de la Creueta del Coll",
+        "rating": 3.8,
+        "address": "Gràcia, 08023 Barcelona, Spain",
+        "latitude": 41.4185617,
+        "longitude": 2.1464824
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina Municipal de Montjuïc",
+        "rating": 3.9,
+        "address": "Avinguda Miramar, 31, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3692359,
+        "longitude": 2.1652812
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina Can Dragó",
+        "rating": 3.8,
+        "address": "Carrer de Rosselló i Pòrcel, 7-11, Nou Barris, 08016 Barcelona, Spain",
+        "latitude": 41.436157699999995,
+        "longitude": 2.1832677
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina Sant Jordi",
+        "rating": 4.1,
+        "address": "Carrer de París, 114, L'Eixample, 08029 Barcelona, Spain",
+        "latitude": 41.3884343,
+        "longitude": 2.1468775
+    },
+    {
+        "category": "swimming pools",
+        "title": "Llac Can Dragó",
+        "rating": 2.7,
+        "address": "Passeig d'Andreu Nin, 50, Distrito de Nou Barris, 08016 Barcelona, Spain",
+        "latitude": 41.435859,
+        "longitude": 2.1828689
+    },
+    {
+        "category": "swimming pools",
+        "title": "Parc de la Creueta del Coll",
+        "rating": 4.2,
+        "address": "Passeig de la Mare de Déu del Coll, 77, Gràcia, 08023 Barcelona, Spain",
+        "latitude": 41.4189809,
+        "longitude": 2.1462901999999997
+    },
+    {
+        "category": "swimming pools",
+        "title": "Club Natació Barcelona",
+        "rating": 4.3,
+        "address": "Pg. de Joan de Borbó, 93, Ciutat Vella, 08039 Barcelona, Spain",
+        "latitude": 41.370931,
+        "longitude": 2.187788
+    },
+    {
+        "category": "swimming pools",
+        "title": "Aiguajoc",
+        "rating": 4,
+        "address": "Carrer del Comte Borrell, 21, 33, L'Eixample, 08015 Barcelona, Spain",
+        "latitude": 41.376424799999995,
+        "longitude": 2.1637277999999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "CEM Can Toda",
+        "rating": 4.4,
+        "address": "Ctra. del Carmel, 5, Gràcia, 08024 Barcelona, Spain",
+        "latitude": 41.415769,
+        "longitude": 2.1576353999999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sports Centre CEM Guinardó",
+        "rating": 4.3,
+        "address": "Carrer del Telègraf, 31-45, Horta-Guinardó, 08041 Barcelona, Spain",
+        "latitude": 41.4166637,
+        "longitude": 2.174083
+    },
+    {
+        "category": "swimming pools",
+        "title": "CN Montjuïc",
+        "rating": 3.9,
+        "address": "Carrer del Segura, 36 | Accés peatonal per C/ De la Mare de Déu de port |, 08038 Barcelona, Spain",
+        "latitude": 41.362268199999995,
+        "longitude": 2.1443339
+    },
+    {
+        "category": "swimming pools",
+        "title": "CEM Bac de Roda",
+        "rating": 3.9,
+        "address": "Carrer de Guipúscoa, 25, Sant Martí, 08018 Barcelona, Spain",
+        "latitude": 41.4144028,
+        "longitude": 2.1940234999999997
+    },
+    {
+        "category": "swimming pools",
+        "title": "Club Natació Atlètic Barceloneta",
+        "rating": 4.4,
+        "address": "Plaça del Mar, s/n, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3732712,
+        "longitude": 2.1888163
+    },
+    {
+        "category": "swimming pools",
+        "title": "CE Mediterrani",
+        "rating": 3.5,
+        "address": "Carrer de Begur, 44, Sants-Montjuïc, 08028 Barcelona, Spain",
+        "latitude": 41.3733412,
+        "longitude": 2.1304674
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina La Floresta",
+        "rating": 3.9,
+        "address": "Carrer Ginjoler, 08198 Barcelona, Spain",
+        "latitude": 41.4467828,
+        "longitude": 2.0700897
+    },
+    {
+        "category": "swimming pools",
+        "title": "Club Metropolitan Sagrada Familia",
+        "rating": 3.5,
+        "address": "Carrer de Provença, 408, L'Eixample, 08025 Barcelona, Spain",
+        "latitude": 41.4017984,
+        "longitude": 2.1713044999999997
+    },
+    {
+        "category": "swimming pools",
+        "title": "Marítim by Claror - CEM Marítim",
+        "rating": 4.1,
+        "address": "Pg. Marítim de la Barceloneta, 33, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3844755,
+        "longitude": 2.1948439
+    },
+    {
+        "category": "swimming pools",
+        "title": "Eurofitness",
+        "rating": 4.2,
+        "address": "Carrer del Perill, 16, Gràcia, 08012 Barcelona, Spain",
+        "latitude": 41.399544999999996,
+        "longitude": 2.1617254
+    },
+    {
+        "category": "swimming pools",
+        "title": "Escola de natació Penguins",
+        "rating": 4.9,
+        "address": "Carrer d'Horaci, 7, Sarrià-Sant Gervasi, 08022 Barcelona, Spain",
+        "latitude": 41.404508799999995,
+        "longitude": 2.1309188999999997
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Arts Barcelona",
+        "rating": 4.5,
+        "address": "Carrer de la Marina, 19-21, Ciutat Vella, 08005 Barcelona, Spain",
+        "latitude": 41.387056699999995,
+        "longitude": 2.1964207
+    },
+    {
+        "category": "resorts",
+        "title": "W Barcelona",
+        "rating": 4.4,
+        "address": "Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona, Spain",
+        "latitude": 41.368437,
+        "longitude": 2.1901534
+    },
+    {
+        "category": "resorts",
+        "title": "Mandarin Oriental, Barcelona",
+        "rating": 4.6,
+        "address": "Pg. de Gràcia, 38-40, L'Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.391167599999996,
+        "longitude": 2.1665772999999997
+    },
+    {
+        "category": "resorts",
+        "title": "Seventy Barcelona",
+        "rating": 4.7,
+        "address": "Carrer de Còrsega, 344, 352, Eixample, 08037 Barcelona, Spain",
+        "latitude": 41.398061399999996,
+        "longitude": 2.161556
+    },
+    {
+        "category": "resorts",
+        "title": "Eurostars Grand Marina",
+        "rating": 4.2,
+        "address": "Moll de Barcelona, S/N, Ciutat Vella, 08039 Barcelona, Spain",
+        "latitude": 41.3713523,
+        "longitude": 2.1817303999999997
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel REC Barcelona",
+        "rating": 4.6,
+        "address": "Carrer del Rec Comtal, 19, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3901615,
+        "longitude": 2.1798623999999998
+    },
+    {
+        "category": "resorts",
+        "title": "The One Barcelona",
+        "rating": 4.6,
+        "address": "Carrer de Provença, 277, Eixample, 08037 Barcelona, Spain",
+        "latitude": 41.396113,
+        "longitude": 2.163037
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel 1898",
+        "rating": 4.6,
+        "address": "La Rambla, 109, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3834945,
+        "longitude": 2.1710008
+    },
+    {
+        "category": "resorts",
+        "title": "Majestic Hotel & Spa Barcelona",
+        "rating": 4.6,
+        "address": "Pg. de Gràcia, 68, Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.3934401,
+        "longitude": 2.1639871
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Soho Barcelona",
+        "rating": 4.6,
+        "address": "Gran Via de les Corts Catalanes, 543, 545, L'Eixample, 08011 Barcelona, Spain",
+        "latitude": 41.3834388,
+        "longitude": 2.1598504
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Condes de Barcelona",
+        "rating": 4.7,
+        "address": "Pg. de Gràcia, 73, Eixample, 08008 Barcelona, Spain",
+        "latitude": 41.3934937,
+        "longitude": 2.1623475
+    },
+    {
+        "category": "resorts",
+        "title": "Lamaro Hotel Barcelona",
+        "rating": 4.3,
+        "address": "Av. de la Catedral, 7, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3850019,
+        "longitude": 2.1758341999999997
+    },
+    {
+        "category": "resorts",
+        "title": "H10 Madison",
+        "rating": 4.7,
+        "address": "Carrer del Dr. Joaquim Pou, 2, 4-6, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.386089299999995,
+        "longitude": 2.1754321
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Catalonia Rambles",
+        "rating": 4.6,
+        "address": "Carrer de Pelai, 28, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3856387,
+        "longitude": 2.1668281
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Casa Camper",
+        "rating": 4.8,
+        "address": "Carrer d'Elisabets, 11, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.383241399999996,
+        "longitude": 2.1685298
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel España",
+        "rating": 4.5,
+        "address": "Carrer de Sant Pau, 9-11, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3799105,
+        "longitude": 2.1728411999999997
+    },
+    {
+        "category": "resorts",
+        "title": "Le Méridien Barcelona",
+        "rating": 4.4,
+        "address": "La Rambla 111, Carrer del Pintor Fortuny, 4-6, 08001 Barcelona, Spain",
+        "latitude": 41.3836088,
+        "longitude": 2.1705219
+    },
+    {
+        "category": "resorts",
+        "title": "Andante",
+        "rating": 4.4,
+        "address": "Av. de les Drassanes, 23, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3764627,
+        "longitude": 2.1726126
+    },
+    {
+        "category": "resorts",
+        "title": "Barcelo Raval",
+        "rating": 4.3,
+        "address": "Rambla del Raval, 17, 21, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.379070999999996,
+        "longitude": 2.169666
+    },
+    {
+        "category": "resorts",
+        "title": "Kimpton Vividora Barcelona",
+        "rating": 4.6,
+        "address": "Carrer del Duc, 15, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3846614,
+        "longitude": 2.1728777999999997
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping 3 Estrelles",
+        "rating": 3.8,
+        "address": "C-31, km 186,2, 08850, Barcelona, Spain",
+        "latitude": 41.272400999999995,
+        "longitude": 2.0427398
+    },
+    {
+        "category": "camping sites",
+        "title": "Càmping BARCELONA",
+        "rating": 4.2,
+        "address": "Costa de Barcelona, Avinguda del Maresme, 665, 08304 Mataró, Barcelona, Spain",
+        "latitude": 41.5513733,
+        "longitude": 2.4828059
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Estrella de Mar",
+        "rating": 3.6,
+        "address": "Autovía Castelldefels, C-31, km 16, 7, 08860 Castelldefels, Barcelona, Spain",
+        "latitude": 41.269876,
+        "longitude": 1.9992206
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Globo Barcelona",
+        "rating": 4.4,
+        "address": "Carrer Drassanes de Pla, 46, 08360 Canet de Mar, Barcelona, Spain",
+        "latitude": 41.5913202,
+        "longitude": 2.5917749
+    },
+    {
+        "category": "camping sites",
+        "title": "El Vedado Càmping",
+        "rating": 3.4,
+        "address": "Carretera Masnou Granollers, Km 7, 08188 Vallromanes, Barcelona, Spain",
+        "latitude": 41.5222232,
+        "longitude": 2.2926138
+    },
+    {
+        "category": "camping sites",
+        "title": "Càmping Enmar",
+        "rating": 4.4,
+        "address": "Avinguda Ntra Sra de la Mercè, s/n, 08397 Pineda de Mar, Barcelona, Spain",
+        "latitude": 41.6219696,
+        "longitude": 2.6863926
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Resort Els Pins",
+        "rating": 3.9,
+        "address": "Camí de Mas Bagés, 08380 Malgrat de Mar, Barcelona, Spain",
+        "latitude": 41.6486871,
+        "longitude": 2.7695947
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Bellsol",
+        "rating": 4.2,
+        "address": "Passeig Marítim, 46, 08397 Pineda de Mar, Barcelona, Spain",
+        "latitude": 41.619099,
+        "longitude": 2.6791795
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Sènia Caballo de Mar",
+        "rating": 4.1,
+        "address": "Passeig Marítim, 52, 08397 Pineda de Mar, Barcelona, Spain",
+        "latitude": 41.6185311,
+        "longitude": 2.6764801
+    },
+    {
+        "category": "camping sites",
+        "title": "HolaCamp Headquarters",
+        "rating": 4,
+        "address": "Rambla de Catalunya, 2, Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.3876598,
+        "longitude": 2.168402
+    },
+    {
+        "category": "camping sites",
+        "title": "Càmping Bon Repòs",
+        "rating": 4.1,
+        "address": "Passeig Marítim, 17, 08398 Santa Susanna, Barcelona, Spain",
+        "latitude": 41.6317495,
+        "longitude": 2.7210796999999998
+    },
+    {
+        "category": "camping sites",
+        "title": "Vilanova Park",
+        "rating": 4.2,
+        "address": "6MJV+XV, Ctra Arboç BV-2115, 2.5, 08800 Vilanova i la Geltrú, Barcelona, Spain",
+        "latitude": 41.2320253,
+        "longitude": 1.6928816
+    },
+    {
+        "category": "camping sites",
+        "title": "PROCAMP HUB",
+        "rating": 4.8,
+        "address": "Carrer de Casp, 130, Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.395372099999996,
+        "longitude": 2.1790882
+    },
+    {
+        "category": "camping sites",
+        "title": "HolaCamp Barcelona",
+        "rating": 3.2,
+        "address": "C-31, Km. 186,2, 08850, Barcelona, Spain",
+        "latitude": 41.2722461,
+        "longitude": 2.0433489
+    },
+    {
+        "category": "hiking trails",
+        "title": "Parc Natural de la Serra de Collserola",
+        "rating": 4.5,
+        "address": "Ctra. de l'Església, 92, 08017 Barcelona, Spain",
+        "latitude": 41.442550399999995,
+        "longitude": 2.1016603
+    },
+    {
+        "category": "hiking trails",
+        "title": "Catalan Trails | Hiking Experiences from Barcelona",
+        "rating": 5,
+        "address": "Pg. de Gràcia, 26, L'Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.3902553,
+        "longitude": 2.1678138
+    },
+    {
+        "category": "hiking trails",
+        "title": "Torre del Moro",
+        "rating": 4.6,
+        "address": "08960 Sant Just Desvern, Barcelona, Spain",
+        "latitude": 41.3968499,
+        "longitude": 2.0689612
+    },
+    {
+        "category": "hiking trails",
+        "title": "Fornot de les Torres",
+        "rating": 4.5,
+        "address": "08980 Sant Feliu de Llobregat, Barcelona, Spain",
+        "latitude": 41.4056506,
+        "longitude": 2.0684012
+    },
+    {
+        "category": "hiking trails",
+        "title": "Puig d'Olorda",
+        "rating": 4.6,
+        "address": "Carrer St Cruz Old Sar, 389, Sarrià-Sant Gervasi, 08750 Barcelona, Spain",
+        "latitude": 41.4121966,
+        "longitude": 2.0551833
+    },
+    {
+        "category": "hiking trails",
+        "title": "Spanish Trails",
+        "rating": 5,
+        "address": "Av del Portal de l'Àngel, 42, 2A, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3868356,
+        "longitude": 2.1719271
+    },
+    {
+        "category": "hiking trails",
+        "title": "Passeig Marítim Barceloneta (Jogging-Running)",
+        "rating": 4.4,
+        "address": "Pg. Marítim de la Barceloneta, 30, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.384546799999995,
+        "longitude": 2.1958149
+    },
+    {
+        "category": "hiking trails",
+        "title": "Parking Itineraris La Budellera",
+        "rating": 4.2,
+        "address": "Ctra. de l'Església, 60b, Sarrià-Sant Gervasi, 08017 Barcelona, Spain",
+        "latitude": 41.420746,
+        "longitude": 2.1084761
+    },
+    {
+        "category": "hiking trails",
+        "title": "Barceloneta",
+        "rating": 4.5,
+        "address": "Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3750085,
+        "longitude": 2.1896716
+    },
+    {
+        "category": "hiking trails",
+        "title": "Pantà de Can Borrell",
+        "rating": 3.9,
+        "address": "08198, Barcelona, Spain",
+        "latitude": 41.451601499999995,
+        "longitude": 2.1114115
+    },
+    {
+        "category": "hiking trails",
+        "title": "Font Groga",
+        "rating": 4.3,
+        "address": "08196 Sant Cugat del Vallès, Barcelona, Spain",
+        "latitude": 41.431387099999995,
+        "longitude": 2.1217724
+    },
+    {
+        "category": "hiking trails",
+        "title": "Barraca del Carxant",
+        "rating": 5,
+        "address": "Turó de l’Angla, Unnamed Road, 08849, 08849, Barcelona, Spain",
+        "latitude": 41.3503901,
+        "longitude": 2.0012592
+    },
+    {
+        "category": "hiking trails",
+        "title": "Barcelona Hiking Guides",
+        "rating": 5,
+        "address": "Carrer dels Caponata, 15, Sarrià-Sant Gervasi, 08034 Barcelona, Spain",
+        "latitude": 41.3954363,
+        "longitude": 2.1217424
+    },
+    {
+        "category": "hiking trails",
+        "title": "Font de la Llet",
+        "rating": 4.7,
+        "address": "Horta-Guinardó, 08035 Barcelona, Spain",
+        "latitude": 41.4355273,
+        "longitude": 2.1340529
+    },
+    {
+        "category": "hiking trails",
+        "title": "NATURAL DEL GARRAF Park",
+        "rating": 4.5,
+        "address": "Camí Parc del Garraf, 08859 Begues, Barcelona, Spain",
+        "latitude": 41.3127789,
+        "longitude": 1.9010254
+    },
+    {
+        "category": "hiking trails",
+        "title": "Espigó del Gas",
+        "rating": 4.4,
+        "address": "Espigó Del Gas, Ciutat Vella, Barcelona, Spain",
+        "latitude": 41.381096199999995,
+        "longitude": 2.19699
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Park Güell",
+        "rating": 4.4,
+        "address": "Gràcia, 08024 Barcelona, Spain",
+        "latitude": 41.4144948,
+        "longitude": 2.1526945
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Parc Natural de Sant Llorenç del Munt i l'Obac",
+        "rating": 4.6,
+        "address": "Ctra. de Terrassa a Navarcles, km 14.8, 08230, Barcelona, Spain",
+        "latitude": 41.666392599999995,
+        "longitude": 1.9903829
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Basílica de la Sagrada Família",
+        "rating": 4.8,
+        "address": "Carrer de Mallorca, 401, L'Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.4036299,
+        "longitude": 2.1743558
+    },
+    {
+        "category": "temples",
+        "title": "ISKCON Barcelona Hare Krishna Hindu Temple",
+        "rating": 4.8,
+        "address": "Pl. Reial, 12, Entresuelo 2º, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.379981699999995,
+        "longitude": 2.1757744
+    },
+    {
+        "category": "temples",
+        "title": "Temple of the Sacred Heart of Jesus",
+        "rating": 4.7,
+        "address": "Ctra. de Vallvidrera al Tibidabo, 111, Sarrià-Sant Gervasi, 08035 Barcelona, Spain",
+        "latitude": 41.422075199999995,
+        "longitude": 2.1187872999999997
+    },
+    {
+        "category": "temples",
+        "title": "Temple d'August",
+        "rating": 4.6,
+        "address": "Carrer del Paradís, 10, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3833997,
+        "longitude": 2.1771849
+    },
+    {
+        "category": "temples",
+        "title": "Basílica de la Sagrada Família",
+        "rating": 4.8,
+        "address": "Carrer de Mallorca, 401, L'Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.4036299,
+        "longitude": 2.1743558
+    },
+    {
+        "category": "temples",
+        "title": "Sinagoga Major de Barcelona",
+        "rating": 4.4,
+        "address": "Carrer de Marlet, 5, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.382553,
+        "longitude": 2.1758029999999997
+    },
+    {
+        "category": "temples",
+        "title": "Cumbre del Tibidabo",
+        "rating": 4.7,
+        "address": "Cumbre del Tibidabo, 08035 Barcelona, Испания, Ctra. de Vallvidrera al Tibidabo, 111, 08035 Barcelona, Spain",
+        "latitude": 41.422075199999995,
+        "longitude": 2.1187872999999997
+    },
+    {
+        "category": "temples",
+        "title": "Kagyu Samye Dzong Barcelona",
+        "rating": 4.9,
+        "address": "Rambla de la Muntanya, 97, Horta-Guinardó, 08041 Barcelona, Spain",
+        "latitude": 41.419513599999995,
+        "longitude": 2.1745967999999998
+    },
+    {
+        "category": "temples",
+        "title": "Private Recidence Above Supermarket",
+        "rating": 5,
+        "address": "Carrer dels Pins, 15, 1* 3*, 08905 L'Hospitalet de Llobregat, Barcelona, Spain",
+        "latitude": 41.3679075,
+        "longitude": 2.1080166
+    },
+    {
+        "category": "temples",
+        "title": "Gurdwara Nanaksar Sahib",
+        "rating": 4.9,
+        "address": "Carrer de Rafael Campalans, 23, 08903 L'Hospitalet de Llobregat, Barcelona, Spain",
+        "latitude": 41.3736433,
+        "longitude": 2.1215617
+    },
+    {
+        "category": "temples",
+        "title": "Centro Budista Tara Barcelona",
+        "rating": 4.8,
+        "address": "Plaça de Gal·la Placídia, 10, Gràcia, 08006 Barcelona, Spain",
+        "latitude": 41.3991111,
+        "longitude": 2.1534234999999997
+    },
+    {
+        "category": "temples",
+        "title": "Sikh Gurudwara Gurdarshan Sahib Ji",
+        "rating": 4.8,
+        "address": "Carrer de l'Hospital, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3800819,
+        "longitude": 2.1692695
+    },
+    {
+        "category": "temples",
+        "title": "Synagogue of Barcelona",
+        "rating": 4.4,
+        "address": "Carrer de l'Avenir, 24, Sarrià-Sant Gervasi, 08021 Barcelona, Spain",
+        "latitude": 41.396637399999996,
+        "longitude": 2.1480937
+    },
+    {
+        "category": "temples",
+        "title": "Chabad Barcelona",
+        "rating": 4.7,
+        "address": "Carrer del Montnegre, 14, Distrito de Les Corts, 08029 Barcelona, Spain",
+        "latitude": 41.3868272,
+        "longitude": 2.1382513
+    },
+    {
+        "category": "temples",
+        "title": "Gurudwara Gursangat Sahib",
+        "rating": 4.9,
+        "address": "Carrer d'Arquímedes, 27, 08930 Sant Adrià de Besòs, Barcelona, Spain",
+        "latitude": 41.4302778,
+        "longitude": 2.2283333
+    },
+    {
+        "category": "temples",
+        "title": "Fahim vhaier office",
+        "rating": 5,
+        "address": "Av. Diagonal, 520, 2º 3ª, Sarrià-Sant Gervasi, 08006 Barcelona, Spain",
+        "latitude": 41.3950281,
+        "longitude": 2.1526301
+    },
+    {
+        "category": "temples",
+        "title": "Centro Budista Camino del Diamante Barcelona",
+        "rating": 4.9,
+        "address": "Carrer d'Amigó, 67, 3º1ª, Distrito de Sarrià-Sant Gervasi, 08021 Barcelona, Spain",
+        "latitude": 41.396721899999996,
+        "longitude": 2.1425076
+    },
+    {
+        "category": "temples",
+        "title": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+        "rating": 4.7,
+        "address": "Carrer de Cantàbria, 31, Sant Martí, 08020 Barcelona, Spain",
+        "latitude": 41.4198954,
+        "longitude": 2.2008183
+    },
+    {
+        "category": "temples",
+        "title": "Kadampa Mahakaruna",
+        "rating": 4.8,
+        "address": "Carrer de Girona, 102, L'Eixample, 08009 Barcelona, Spain",
+        "latitude": 41.396527999999996,
+        "longitude": 2.169298
+    },
+    {
+        "category": "temples",
+        "title": "Comunidad Bahá'í de Barcelona",
+        "rating": 4.9,
+        "address": "Carrer de Galileu, 336, Distrito de Les Corts, 08028 Barcelona, Spain",
+        "latitude": 41.3865084,
+        "longitude": 2.1311503
+    },
+    {
+        "category": "temples",
+        "title": "Mejor simple del mundo",
+        "rating": null,
+        "address": "Carrer de Roger de Llúria, Eixample, 08009 Barcelona, Spain",
+        "latitude": 41.393319999999996,
+        "longitude": 2.1683524999999997
+    },
+    {
+        "category": "museums",
+        "title": "Casa Padellàs (Barcelona History Museum MUHBA)",
+        "rating": 4.6,
+        "address": "Pl. del Rei, s/n, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.383922999999996,
+        "longitude": 2.1776676999999998
+    },
+    {
+        "category": "museums",
+        "title": "Picasso Museum Barcelona",
+        "rating": 4.4,
+        "address": "Carrer de Montcada, 15-23, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3852706,
+        "longitude": 2.1809472
+    },
+    {
+        "category": "museums",
+        "title": "Museu Nacional d'Art de Catalunya",
+        "rating": 4.7,
+        "address": "Palau Nacional, Parc de Montjuïc, s/n, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3684399,
+        "longitude": 2.1535699999999998
+    },
+    {
+        "category": "museums",
+        "title": "Barcelona Maritime Museum",
+        "rating": 4.4,
+        "address": "Av. de les Drassanes, s/n, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3755604,
+        "longitude": 2.1767282999999997
+    },
+    {
+        "category": "museums",
+        "title": "Fundació Joan Miró",
+        "rating": 4.5,
+        "address": "Parc de Montjuïc, s/n, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3686304,
+        "longitude": 2.1598509
+    },
+    {
+        "category": "museums",
+        "title": "Museu Frederic Marès",
+        "rating": 4.5,
+        "address": "Plaça Sant Iu, 5, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3842687,
+        "longitude": 2.1767597999999997
+    },
+    {
+        "category": "museums",
+        "title": "CaixaForum Barcelona",
+        "rating": 4.5,
+        "address": "Av. de Francesc Ferrer i Guàrdia, 6-8, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.371308,
+        "longitude": 2.149575
+    },
+    {
+        "category": "museums",
+        "title": "European Museum of Modern Art",
+        "rating": 4.5,
+        "address": "Carrer de la Barra de Ferro, 5, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.385010699999995,
+        "longitude": 2.1802788
+    },
+    {
+        "category": "museums",
+        "title": "Design Museum of Barcelona",
+        "rating": 4.4,
+        "address": "Plaça de les Glòries Catalanes, 38, c, Sant Martí, 08018 Barcelona, Spain",
+        "latitude": 41.402451,
+        "longitude": 2.1880918
+    },
+    {
+        "category": "museums",
+        "title": "White Rabbit · The Off-Museum of Barcelona",
+        "rating": 4.8,
+        "address": "Pg. de Gràcia, 55, Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.392311199999995,
+        "longitude": 2.1642173
+    },
+    {
+        "category": "museums",
+        "title": "Museum of the History of Catalonia",
+        "rating": 4.5,
+        "address": "Pça. de Pau Vila, 3, Ciutat Vella, 08039 Barcelona, Spain",
+        "latitude": 41.380804,
+        "longitude": 2.185873
+    },
+    {
+        "category": "museums",
+        "title": "Gaudí House Museum",
+        "rating": 4.3,
+        "address": "Parc Güell, Gràcia, 08013 Barcelona, Spain",
+        "latitude": 41.414432999999995,
+        "longitude": 2.1535140999999998
+    },
+    {
+        "category": "museums",
+        "title": "Poble Espanyol",
+        "rating": 4.2,
+        "address": "Av. de Francesc Ferrer i Guàrdia, 13, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3690713,
+        "longitude": 2.1467419
+    },
+    {
+        "category": "museums",
+        "title": "Museu Egipci de Barcelona",
+        "rating": 4.2,
+        "address": "Carrer de València, 284, L'Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.3936164,
+        "longitude": 2.1647197
+    },
+    {
+        "category": "museums",
+        "title": "Museu de Cera de Barcelona",
+        "rating": 4.3,
+        "address": "Passatge de la Banca, 7, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.377402599999996,
+        "longitude": 2.177358
+    },
+    {
+        "category": "museums",
+        "title": "Gaudí Experiència",
+        "rating": 4.1,
+        "address": "Carrer de Larrard, 41, Gràcia, 08024 Barcelona, Spain",
+        "latitude": 41.4123977,
+        "longitude": 2.1536352
+    },
+    {
+        "category": "museums",
+        "title": "CosmoCaixa Museum of Science",
+        "rating": 4.7,
+        "address": "Carrer d'Isaac Newton, 26, Sarrià-Sant Gervasi, 08022 Barcelona, Spain",
+        "latitude": 41.413180499999996,
+        "longitude": 2.131123
+    },
+    {
+        "category": "museums",
+        "title": "Casa Vicens Gaudí",
+        "rating": 4.6,
+        "address": "Carrer de les Carolines, 20-26, Gràcia, 08012 Barcelona, Spain",
+        "latitude": 41.4034978,
+        "longitude": 2.1506455
+    },
+    {
+        "category": "museums",
+        "title": "Museu de la Xocolata",
+        "rating": 3.9,
+        "address": "Carrer del Comerç, 36, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3871117,
+        "longitude": 2.1817528
+    },
+    {
+        "category": "museums",
+        "title": "Banksy Museum",
+        "rating": 4.6,
+        "address": "Carrer de Trafalgar, 34, Ciutat Vella, 08010 Barcelona, Spain",
+        "latitude": 41.3890519,
+        "longitude": 2.1762460999999997
+    },
+    {
+        "category": "night markets",
+        "title": "Mercat de la Boqueria",
+        "rating": 4.5,
+        "address": "La Rambla, 91, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3817399,
+        "longitude": 2.1715853
+    },
+    {
+        "category": "night markets",
+        "title": "La Concepció Market",
+        "rating": 4.4,
+        "address": "311 bis, Carrer d'Aragó, L'Eixample, 08009 Barcelona, Spain",
+        "latitude": 41.395907799999996,
+        "longitude": 2.1686521
+    },
+    {
+        "category": "night markets",
+        "title": "Mercat de Santa Caterina",
+        "rating": 4.4,
+        "address": "Av. de Francesc Cambó, 16, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.386361099999995,
+        "longitude": 2.1781566
+    },
+    {
+        "category": "night markets",
+        "title": "Mercat del Ninot",
+        "rating": 4.4,
+        "address": "Carrer de Mallorca, 133, L'Eixample, 08036 Barcelona, Spain",
+        "latitude": 41.387851399999995,
+        "longitude": 2.1543196
+    },
+    {
+        "category": "night markets",
+        "title": "Mercat de Sant Antoni",
+        "rating": 4.4,
+        "address": "Carrer del Comte d'Urgell, 1, L'Eixample, 08011 Barcelona, Spain",
+        "latitude": 41.3786358,
+        "longitude": 2.1620492
+    },
+    {
+        "category": "night markets",
+        "title": "Mercat de la Barceloneta",
+        "rating": 4.2,
+        "address": "Pl. del Poeta Boscà, 1, 2, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3803674,
+        "longitude": 2.1892217
+    },
+    {
+        "category": "night markets",
+        "title": "Mercat de Sants",
+        "rating": 4.5,
+        "address": "Carrer de Sant Jordi, 6, Sants-Montjuïc, 08028 Barcelona, Spain",
+        "latitude": 41.3747031,
+        "longitude": 2.1333873
+    },
+    {
+        "category": "night markets",
+        "title": "Mercat dels Encants",
+        "rating": 4.2,
+        "address": "Carrer de los Castillejos, 158, L'Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.400984799999996,
+        "longitude": 2.1863562
+    },
+    {
+        "category": "night markets",
+        "title": "Lesseps Market",
+        "rating": 4.4,
+        "address": "Trav. de Dalt, 69, Gràcia, 08024 Barcelona, Spain",
+        "latitude": 41.4100008,
+        "longitude": 2.1554734
+    },
+    {
+        "category": "night markets",
+        "title": "Mercat de la Sagrada Família",
+        "rating": 4.2,
+        "address": "C/ de Padilla, 255, L'Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.4056129,
+        "longitude": 2.1769754999999997
+    },
+    {
+        "category": "night markets",
+        "title": "Sunday market",
+        "rating": 3.8,
+        "address": "Carrer dels Ferrocarrils Catalans, 10, Distrito de Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3584629,
+        "longitude": 2.1449476
+    },
+    {
+        "category": "night markets",
+        "title": "Mercat de la Llibertat",
+        "rating": 4.3,
+        "address": "Plaça de la Llibertat, 27, Gràcia, 08012 Barcelona, Spain",
+        "latitude": 41.399836099999995,
+        "longitude": 2.1535784
+    },
+    {
+        "category": "night markets",
+        "title": "Sarrià Market",
+        "rating": 4.2,
+        "address": "Passeig de la Reina Elisenda de Montcada, 8, Sarrià-Sant Gervasi, 08034 Barcelona, Spain",
+        "latitude": 41.3999162,
+        "longitude": 2.1206655
+    },
+    {
+        "category": "night markets",
+        "title": "Mercat de l'Abaceria",
+        "rating": 4.3,
+        "address": "Pg. de St. Joan, 168, Gràcia, 08037 Barcelona, Spain",
+        "latitude": 41.403106099999995,
+        "longitude": 2.1647803999999997
+    },
+    {
+        "category": "night markets",
+        "title": "Mercat de Galvany",
+        "rating": 4.4,
+        "address": "Carrer de Santaló, 65, Sarrià-Sant Gervasi, 08021 Barcelona, Spain",
+        "latitude": 41.3966825,
+        "longitude": 2.1437288999999997
+    },
+    {
+        "category": "night markets",
+        "title": "Les Corts Market",
+        "rating": 4.3,
+        "address": "Travessera de les Corts, 215, Les Corts, 08028 Barcelona, Spain",
+        "latitude": 41.3839493,
+        "longitude": 2.1295733
+    },
+    {
+        "category": "night markets",
+        "title": "Mercat del Fort Pienc",
+        "rating": 4.2,
+        "address": "Plaza, 3, L'Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.3956794,
+        "longitude": 2.1826925
+    },
+    {
+        "category": "night markets",
+        "title": "BeBil",
+        "rating": null,
+        "address": "Carrer del Consell de Cent, 397, L'Eixample, 08009 Barcelona, Spain",
+        "latitude": 41.3949085,
+        "longitude": 2.1706023
+    },
+    {
+        "category": "viewpoints",
+        "title": "Barcelona viewpoint",
+        "rating": 4.6,
+        "address": "Carrer del Mirador del Palau Nacional, 19, Distrito de Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3695082,
+        "longitude": 2.1549665
+    },
+    {
+        "category": "viewpoints",
+        "title": "Mirador de Montjuic",
+        "rating": 4.7,
+        "address": "Ctra. de Montjuïc, 66, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3632002,
+        "longitude": 2.1672883
+    },
+    {
+        "category": "viewpoints",
+        "title": "Mirador de l'Alcalde",
+        "rating": 4.6,
+        "address": "Ctra. de Montjuïc, 43, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3667094,
+        "longitude": 2.1694179
+    },
+    {
+        "category": "viewpoints",
+        "title": "Parc del Mirador del Poble-sec",
+        "rating": 4.5,
+        "address": "Passeig de Montjuïc, 28, Sants-Montjuïc, 08005 Barcelona, Spain",
+        "latitude": 41.371799599999996,
+        "longitude": 2.1718933
+    },
+    {
+        "category": "viewpoints",
+        "title": "Mirador del Migdia",
+        "rating": 4.5,
+        "address": "Passeig del Migdia, s/n, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3584643,
+        "longitude": 2.1593464
+    },
+    {
+        "category": "viewpoints",
+        "title": "City view point",
+        "rating": 4.9,
+        "address": "Carrer de Mühlberg, Horta-Guinardó, 08024 Barcelona, Spain",
+        "latitude": 41.418182699999996,
+        "longitude": 2.1612154
+    },
+    {
+        "category": "viewpoints",
+        "title": "View point",
+        "rating": 4.8,
+        "address": "Plaça de les Cascades, 3, 5, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3695099,
+        "longitude": 2.1525159
+    },
+    {
+        "category": "viewpoints",
+        "title": "Mirador d'Horta",
+        "rating": 4.3,
+        "address": "Ctra. Horta a Cerdanyola, pk 10, 5, Horta-Guinardó, 08035 Barcelona, Spain",
+        "latitude": 41.4415674,
+        "longitude": 2.151666
+    },
+    {
+        "category": "viewpoints",
+        "title": "Mirador del Nen de la Rutlla",
+        "rating": 4.6,
+        "address": "Carrer de Sant Joan de les Abadesses, Horta-Guinardó, 08032 Barcelona, Spain",
+        "latitude": 41.418299399999995,
+        "longitude": 2.1664909999999997
+    },
+    {
+        "category": "viewpoints",
+        "title": "Finestrelles scenic viewpoint",
+        "rating": 4.8,
+        "address": "Cami Finestrelles, 6I, Distrito de Les Corts, 08034 Barcelona, Spain",
+        "latitude": 41.3872666,
+        "longitude": 2.1030668
+    },
+    {
+        "category": "viewpoints",
+        "title": "MUHBA Turó de la Rovira",
+        "rating": 4.6,
+        "address": "Carrer de Marià Labèrnia, s/n, Horta-Guinardó, 08032 Barcelona, Spain",
+        "latitude": 41.419300299999996,
+        "longitude": 2.1618258999999997
+    },
+    {
+        "category": "viewpoints",
+        "title": "Tibidabo Panoramic Area",
+        "rating": 4.7,
+        "address": "Pl. del Tibidabo, 3, 4, Sarrià-Sant Gervasi, 08035 Barcelona, Spain",
+        "latitude": 41.4215617,
+        "longitude": 2.1202196
+    },
+    {
+        "category": "viewpoints",
+        "title": "Columbus Monument",
+        "rating": 4.5,
+        "address": "Plaça Portal de la Pau, s/n, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3758087,
+        "longitude": 2.1777606
+    },
+    {
+        "category": "viewpoints",
+        "title": "Mirador de Joan Sales",
+        "rating": 4.8,
+        "address": "Carrer de Pau Ferran, 44I, Gràcia, 08023 Barcelona, Spain",
+        "latitude": 41.4162633,
+        "longitude": 2.1528652999999998
+    },
+    {
+        "category": "gardens",
+        "title": "Jardins de Laribal",
+        "rating": 4.5,
+        "address": "Passeig de Santa Madrona, 2, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.368354,
+        "longitude": 2.1569403
+    },
+    {
+        "category": "gardens",
+        "title": "Barcelona Botanical Garden",
+        "rating": 4.3,
+        "address": "Carrer Doctor Font i Quer, 2, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3621881,
+        "longitude": 2.1574698
+    },
+    {
+        "category": "gardens",
+        "title": "Jardins del Mirador",
+        "rating": 4.6,
+        "address": "Plaça de la Sardana, 717, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.367197499999996,
+        "longitude": 2.1688392
+    },
+    {
+        "category": "gardens",
+        "title": "Jardins de Mossèn Costa i Llobera",
+        "rating": 4.5,
+        "address": "Ctra. de Miramar, 38, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3673412,
+        "longitude": 2.1715049
+    },
+    {
+        "category": "gardens",
+        "title": "Jardi Botanic Historic",
+        "rating": 4.5,
+        "address": "Av. dels Montanyans, 26, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3672991,
+        "longitude": 2.1528571
+    },
+    {
+        "category": "gardens",
+        "title": "Heures Palace Gardens",
+        "rating": 4.4,
+        "address": "Passeig de la Vall d'Hebron, 171, 08035 Barcelona, Spain",
+        "latitude": 41.4364851,
+        "longitude": 2.1410301
+    },
+    {
+        "category": "gardens",
+        "title": "Jardins de la Rambla de Sants",
+        "rating": 4,
+        "address": "Carrer d'Antoni de Capmany, s/n, Sants-Montjuïc, 08014 Barcelona, Spain",
+        "latitude": 41.372696,
+        "longitude": 2.1330861
+    },
+    {
+        "category": "gardens",
+        "title": "Jardins de la Tamarita",
+        "rating": 4.3,
+        "address": "Pg. de St. Gervasi, 47, Sarrià-Sant Gervasi, 08022 Barcelona, Spain",
+        "latitude": 41.410731899999995,
+        "longitude": 2.1355264
+    },
+    {
+        "category": "gardens",
+        "title": "Jardins de Joan Maragall",
+        "rating": 4.5,
+        "address": "Av. de l'Estadi, 69, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3671779,
+        "longitude": 2.1555643
+    },
+    {
+        "category": "gardens",
+        "title": "Jardines de pedralbes",
+        "rating": 4.5,
+        "address": "Av. Diagonal, 686, Les Corts, 08034 Barcelona, Spain",
+        "latitude": 41.3873818,
+        "longitude": 2.1187924
+    },
+    {
+        "category": "gardens",
+        "title": "Jardí de la Casa Ignasi de Puig",
+        "rating": 4.5,
+        "address": "Carrer d'en Quintana, 4, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3810061,
+        "longitude": 2.1742157
+    },
+    {
+        "category": "gardens",
+        "title": "Villa Cecilia Gardens",
+        "rating": 4.4,
+        "address": "Carrer de Santa Amèlia, 9I, Sarrià-Sant Gervasi, 08034 Barcelona, Spain",
+        "latitude": 41.3924374,
+        "longitude": 2.1227271
+    },
+    {
+        "category": "gardens",
+        "title": "Jardins de Joan Brossa",
+        "rating": 4.4,
+        "address": "Plaça de Dante, 9999, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3682618,
+        "longitude": 2.1650693
+    },
+    {
+        "category": "gardens",
+        "title": "Jardins de Rubió i Lluch",
+        "rating": 4.3,
+        "address": "Hospital, 56, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3810499,
+        "longitude": 2.1699162
+    },
+    {
+        "category": "gardens",
+        "title": "Jardins de Mossèn Cinto Verdaguer",
+        "rating": 4.6,
+        "address": "Avinguda Miramar, 30, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3673533,
+        "longitude": 2.1651338
+    },
+    {
+        "category": "gardens",
+        "title": "Park Güell",
+        "rating": 4.4,
+        "address": "Gràcia, 08024 Barcelona, Spain",
+        "latitude": 41.4144948,
+        "longitude": 2.1526945
+    },
+    {
+        "category": "gardens",
+        "title": "Parc de Les Aigües",
+        "rating": 4.4,
+        "address": "Ronda del Guinardó, 49, Horta-Guinardó, 08024 Barcelona, Spain",
+        "latitude": 41.413113599999996,
+        "longitude": 2.1654071999999998
+    },
+    {
+        "category": "gardens",
+        "title": "Ciutadella Park",
+        "rating": 4.6,
+        "address": "Passeig de Picasso, 21, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.388123,
+        "longitude": 2.1860152
+    },
+    {
+        "category": "gardens",
+        "title": "Jardins de Walter Benjamin",
+        "rating": 4.1,
+        "address": "Plaça de les Drassanes, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3733907,
+        "longitude": 2.1753131999999997
+    },
+    {
+        "category": "gardens",
+        "title": "Jardines del Vivero de Can Borni",
+        "rating": 4.1,
+        "address": "Camí de Can Borni, Horta-Guinardó, 08035 Barcelona, Spain",
+        "latitude": 41.4232276,
+        "longitude": 2.1227005
+    },
+    {
+        "category": "adventure parks",
+        "title": "Tibidabo Amusement Park",
+        "rating": 4.4,
+        "address": "Pl. del Tibidabo, 3, 4, Sarrià-Sant Gervasi, 08035 Barcelona, Spain",
+        "latitude": 41.421631999999995,
+        "longitude": 2.1194490999999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Aventura Park Barcelona: Avda Roma",
+        "rating": 4.3,
+        "address": "Avinguda de Roma, 35, Eixample, 08029 Barcelona, Spain",
+        "latitude": 41.3820086,
+        "longitude": 2.1461683
+    },
+    {
+        "category": "adventure parks",
+        "title": "Barcelona Bosc Urbà",
+        "rating": 4.2,
+        "address": "Parc del Forum, s/n, 08019 Barcelona, Spain",
+        "latitude": 41.4109426,
+        "longitude": 2.2238512
+    },
+    {
+        "category": "adventure parks",
+        "title": "Sould Park",
+        "rating": 3.7,
+        "address": "Avinguda de la Granvia de l’Hospitalet, 75, 08908 L'Hospitalet de Llobregat, Barcelona, Spain",
+        "latitude": 41.3575344,
+        "longitude": 2.1287369
+    },
+    {
+        "category": "adventure parks",
+        "title": "CATALUNYA EN MINIATURA",
+        "rating": 4.1,
+        "address": "Can Balasch de Baix, s/n, 08629 Torrelles de Llobregat, Barcelona, Spain",
+        "latitude": 41.3591537,
+        "longitude": 1.9859966999999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Aventura Park Barcelona: Gran Via",
+        "rating": 4.1,
+        "address": "Gran Via de les Corts Catalanes, 754, Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.397645499999996,
+        "longitude": 2.1797933
+    },
+    {
+        "category": "adventure parks",
+        "title": "PortAventura World",
+        "rating": 4.2,
+        "address": "Av. Pere Molas, s/n, 43480 Vila-seca, Tarragona, Spain",
+        "latitude": 41.0879066,
+        "longitude": 1.1573704999999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Magic Mountain - Slides",
+        "rating": 4,
+        "address": "Unnamed Road, Barcelona, Spain",
+        "latitude": 41.407314,
+        "longitude": 2.2136955
+    },
+    {
+        "category": "adventure parks",
+        "title": "JumpYard | Barcelona",
+        "rating": 4.5,
+        "address": "C/. de Sant Ferran, 4, 08940 Cornellà de Llobregat, Barcelona, Spain",
+        "latitude": 41.3547029,
+        "longitude": 2.0837716
+    },
+    {
+        "category": "adventure parks",
+        "title": "Talaia",
+        "rating": 4.4,
+        "address": "Parc d'Atraccions Tibidabo, Spain",
+        "latitude": 41.4215814,
+        "longitude": 2.1196033
+    },
+    {
+        "category": "adventure parks",
+        "title": "Interactibi",
+        "rating": 3.3,
+        "address": "Parc d'Atraccions Tibidabo, Spain",
+        "latitude": 41.4217905,
+        "longitude": 2.1196827
+    },
+    {
+        "category": "adventure parks",
+        "title": "Sapakara Fun Parcs",
+        "rating": 4.4,
+        "address": "Carrer del Silici, 9, 08940 Cornellà de Llobregat, Barcelona, Spain",
+        "latitude": 41.356355099999995,
+        "longitude": 2.0915597999999997
+    },
+    {
+        "category": "adventure parks",
+        "title": "Refugi Climàtic - Jocs d'aigua Plaça Maresme",
+        "rating": 5,
+        "address": "Plaça del Maresme, 1, Sant Martí, 08019 Barcelona, Spain",
+        "latitude": 41.4126323,
+        "longitude": 2.2161132
+    },
+    {
+        "category": "adventure parks",
+        "title": "Parc Diagonal Mar",
+        "rating": 4.3,
+        "address": "Carrer de Llull, 350, Sant Martí, 08019 Barcelona, Spain",
+        "latitude": 41.4083523,
+        "longitude": 2.2133864
+    },
+    {
+        "category": "adventure parks",
+        "title": "PortAventura Park",
+        "rating": 4.1,
+        "address": "Avinguda de l'Alcade Pere Molas, s/n, 43480 Vila-seca, Tarragona, Spain",
+        "latitude": 41.0858616,
+        "longitude": 1.1539409
+    },
+    {
+        "category": "adventure parks",
+        "title": "Sould Park L’Illa Diagonal",
+        "rating": 3.6,
+        "address": "Av. Diagonal, 557, Distrito de Les Corts, 08029 Barcelona, Spain",
+        "latitude": 41.3897854,
+        "longitude": 2.1355044999999997
+    },
+    {
+        "category": "adventure parks",
+        "title": "Montjuïc Slides",
+        "rating": 4.3,
+        "address": "Passeig del Migdia, 199, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3657566,
+        "longitude": 2.1669566
+    },
+    {
+        "category": "adventure parks",
+        "title": "Tibidabo Panoramic Area",
+        "rating": 4.7,
+        "address": "Pl. del Tibidabo, 3, 4, Sarrià-Sant Gervasi, 08035 Barcelona, Spain",
+        "latitude": 41.4215617,
+        "longitude": 2.1202196
+    },
+    {
+        "category": "adventure parks",
+        "title": "Planeta Màgic Barcelona",
+        "rating": 4.3,
+        "address": "Carrer de Viladomat, 124, Eixample, 08015 Barcelona, Spain",
+        "latitude": 41.3809817,
+        "longitude": 2.1558043
+    },
+    {
+        "category": "adventure parks",
+        "title": "Parc Natural de la Serra de Collserola",
+        "rating": 4.5,
+        "address": "Ctra. de l'Església, 92, 08017 Barcelona, Spain",
+        "latitude": 41.442550399999995,
+        "longitude": 2.1016603
+    },
+    {
+        "category": "hot springs",
+        "title": "Aire de Barcelona",
+        "rating": 4.6,
+        "address": "Passeig de Picasso, 22, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3870319,
+        "longitude": 2.1834724
+    },
+    {
+        "category": "hot springs",
+        "title": "1850 Urban Spa Barcelona",
+        "rating": 4.4,
+        "address": "Carrer de la Diputació, 75, Eixample, 08015 Barcelona, Spain",
+        "latitude": 41.381109099999996,
+        "longitude": 2.1545389
+    },
+    {
+        "category": "hot springs",
+        "title": "Banys Termals El Safareig",
+        "rating": 4.3,
+        "address": "Carrer Pau Surell, s/n, 08140 Caldes de Montbui, Barcelona, Spain",
+        "latitude": 41.6320526,
+        "longitude": 2.1624179
+    },
+    {
+        "category": "hot springs",
+        "title": "ESPAI CEL",
+        "rating": 4.6,
+        "address": "Carrer de Barcelona, 10, 08140 Caldes de Montbui, Barcelona, Spain",
+        "latitude": 41.633898099999996,
+        "longitude": 2.1617658
+    },
+    {
+        "category": "hot springs",
+        "title": "Hotel Blancafort Spa Termal",
+        "rating": 4,
+        "address": "Carrer de la Mina, 7, 08530 La Garriga, Barcelona, Spain",
+        "latitude": 41.6819627,
+        "longitude": 2.2869496
+    },
+    {
+        "category": "shopping malls",
+        "title": "Maremagnum",
+        "rating": 4.2,
+        "address": "Moll d'Espanya, 5, Ciutat Vella, 08039 Barcelona, Spain",
+        "latitude": 41.3746496,
+        "longitude": 2.1823721
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield | Glòries",
+        "rating": 4.3,
+        "address": "Av. Diagonal, 208, Sant Martí, 08018 Barcelona, Spain",
+        "latitude": 41.405450599999995,
+        "longitude": 2.1912675
+    },
+    {
+        "category": "shopping malls",
+        "title": "L'illa | Diagonal",
+        "rating": 4.3,
+        "address": "Av. Diagonal, 557, Les Corts, 08029 Barcelona, Spain",
+        "latitude": 41.3895833,
+        "longitude": 2.1352154999999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "Arenas de Barcelona",
+        "rating": 4.2,
+        "address": "Gran Via de les Corts Catalanes, 385, L'Eixample, 08015 Barcelona, Spain",
+        "latitude": 41.3763031,
+        "longitude": 2.1493854999999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "Diagonal Mar",
+        "rating": 4.3,
+        "address": "Av. Diagonal, 3, Sant Martí, 08019 Barcelona, Spain",
+        "latitude": 41.4098468,
+        "longitude": 2.2165097
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centre Comercial El Triangle",
+        "rating": 4,
+        "address": "Pl. de Catalunya, 1, 4, Eixample, 08002 Barcelona, Spain",
+        "latitude": 41.3858752,
+        "longitude": 2.1691162999999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield La Maquinista",
+        "rating": 4.4,
+        "address": "Carrer de Potosí, 2, Sant Andreu, 08030 Barcelona, Spain",
+        "latitude": 41.440199199999995,
+        "longitude": 2.1985226
+    },
+    {
+        "category": "shopping malls",
+        "title": "Les Galeries Maldà",
+        "rating": 4.4,
+        "address": "Carrer de la Portaferrissa, 22, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.383010999999996,
+        "longitude": 2.1735010999999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "Gran Via 2",
+        "rating": 4.3,
+        "address": "Avinguda de la Granvia de l’Hospitalet, 75, 08908 L'Hospitalet de Llobregat, Barcelona, Spain",
+        "latitude": 41.3588512,
+        "longitude": 2.1296874
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centre Comercial \"El Centre de la Vila\"",
+        "rating": 3.7,
+        "address": "Carrer de Salvador Espriu, 61, Sant Martí, 08005 Barcelona, Spain",
+        "latitude": 41.390274,
+        "longitude": 2.1983383
+    },
+    {
+        "category": "shopping malls",
+        "title": "La Roca Village",
+        "rating": 4.2,
+        "address": "La Roca Village s/n, 08430 Santa Agnès de Malanyanes, Barcelona, Spain",
+        "latitude": 41.6112208,
+        "longitude": 2.3442788
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Comercial Splau",
+        "rating": 4.3,
+        "address": "Av. del Baix Llobregat, s/n, 08940 Cornellà de Llobregat, Barcelona, Spain",
+        "latitude": 41.3474393,
+        "longitude": 2.0777658
+    },
+    {
+        "category": "shopping malls",
+        "title": "EL CORTE INGLES | Plaça Catalunya",
+        "rating": 4.2,
+        "address": "Pl. de Catalunya, 14, L'Eixample, 08002 Barcelona, Spain",
+        "latitude": 41.3876381,
+        "longitude": 2.171023
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shopping Centre",
+        "rating": 4.5,
+        "address": "Eixample, 08002 Barcelona, Spain",
+        "latitude": 41.385805399999995,
+        "longitude": 2.1694386999999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "La Farga",
+        "rating": 3.8,
+        "address": "Av. de Josep Tarradellas i Joan, 08901 L'Hospitalet de Llobregat, Barcelona, Spain",
+        "latitude": 41.363273899999996,
+        "longitude": 2.1047702999999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield La Maquinista",
+        "rating": 4.5,
+        "address": "Carrer de São Paulo, Sant Andreu, 08030 Barcelona, Spain",
+        "latitude": 41.4390405,
+        "longitude": 2.1975776
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shopping glòries",
+        "rating": 4.4,
+        "address": "Plaça de les Contel·lacions, 2, Sant Martí, 08018 Barcelona, Spain",
+        "latitude": 41.405219699999996,
+        "longitude": 2.1905896
+    },
+    {
+        "category": "shopping malls",
+        "title": "Souvenirs barcelona",
+        "rating": 4.8,
+        "address": "Av. de Gaudí, 40, Eixample, 08025 Barcelona, Spain",
+        "latitude": 41.4073007,
+        "longitude": 2.1746336
+    },
+    {
+        "category": "shopping malls",
+        "title": "El Corte Inglés Diagonal",
+        "rating": 4.1,
+        "address": "617-619, Av. Diagonal, Les Corts, 08028 Barcelona, Spain",
+        "latitude": 41.3875408,
+        "longitude": 2.1278791999999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "La rambla",
+        "rating": 3.6,
+        "address": "Spain, Barcelona, Ciutat Vella, La Rambla, 郵區編號: 08002",
+        "latitude": 41.378631999999996,
+        "longitude": 2.1756725
+    },
+    {
+        "category": "historical sites",
+        "title": "Casa Padellàs (Barcelona History Museum MUHBA)",
+        "rating": 4.6,
+        "address": "Pl. del Rei, s/n, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.383922999999996,
+        "longitude": 2.1776676999999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Casa Batlló",
+        "rating": 4.7,
+        "address": "Pg. de Gràcia, 43, L'Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.3917,
+        "longitude": 2.164918
+    },
+    {
+        "category": "historical sites",
+        "title": "Recinte Modernista de Sant Pau",
+        "rating": 4.6,
+        "address": "Carrer de Sant Antoni Maria Claret, 167, Horta-Guinardó, 08025 Barcelona, Spain",
+        "latitude": 41.411707199999995,
+        "longitude": 2.1743395
+    },
+    {
+        "category": "historical sites",
+        "title": "Columbus Monument",
+        "rating": 4.5,
+        "address": "Plaça Portal de la Pau, s/n, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3758087,
+        "longitude": 2.1777606
+    },
+    {
+        "category": "historical sites",
+        "title": "Poble Espanyol",
+        "rating": 4.2,
+        "address": "Av. de Francesc Ferrer i Guàrdia, 13, Sants-Montjuïc, 08038 Barcelona, Spain",
+        "latitude": 41.3690713,
+        "longitude": 2.1467419
+    },
+    {
+        "category": "historical sites",
+        "title": "Campanar de Gràcia",
+        "rating": 4.6,
+        "address": "Gràcia, 08012 Barcelona, Spain",
+        "latitude": 41.400168699999995,
+        "longitude": 2.1576141
+    },
+    {
+        "category": "historical sites",
+        "title": "La Pedrera - Casa Milà",
+        "rating": 4.6,
+        "address": "Pg. de Gràcia, 92, L'Eixample, 08008 Barcelona, Spain",
+        "latitude": 41.3952155,
+        "longitude": 2.1619024
+    },
+    {
+        "category": "historical sites",
+        "title": "MUHBA Turó de la Rovira",
+        "rating": 4.6,
+        "address": "Carrer de Marià Labèrnia, s/n, Horta-Guinardó, 08032 Barcelona, Spain",
+        "latitude": 41.419300299999996,
+        "longitude": 2.1618258999999997
+    },
+    {
+        "category": "historical sites",
+        "title": "Barcelona Roman city walls",
+        "rating": 4.6,
+        "address": "Carrer de la Tapineria, 5, 19, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3840711,
+        "longitude": 2.1778971
+    },
+    {
+        "category": "historical sites",
+        "title": "Muralla romana",
+        "rating": 4.5,
+        "address": "Baixada de Viladecols, s/n, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3820003,
+        "longitude": 2.1797665999999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Palau Güell",
+        "rating": 4.6,
+        "address": "Carrer Nou de la Rambla, 3-5, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3788851,
+        "longitude": 2.1742398
+    },
+    {
+        "category": "historical sites",
+        "title": "Casa Vicens Gaudí",
+        "rating": 4.6,
+        "address": "Carrer de les Carolines, 20-26, Gràcia, 08012 Barcelona, Spain",
+        "latitude": 41.4034978,
+        "longitude": 2.1506455
+    },
+    {
+        "category": "historical sites",
+        "title": "Pla de Palau Lampposts Antoni Gaudí",
+        "rating": 4.4,
+        "address": "Pla de Palau, 9997, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.383010299999995,
+        "longitude": 2.1841388
+    },
+    {
+        "category": "historical sites",
+        "title": "MUHBA Via Sepulcral Romana",
+        "rating": 4.3,
+        "address": "Pl. de la Vila de Madrid, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3843531,
+        "longitude": 2.1721444
+    },
+    {
+        "category": "historical sites",
+        "title": "Basílica de la Sagrada Família",
+        "rating": 4.8,
+        "address": "Carrer de Mallorca, 401, L'Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.4036299,
+        "longitude": 2.1743558
+    },
+    {
+        "category": "historical sites",
+        "title": "Casa Amatller",
+        "rating": 4.6,
+        "address": "Pg. de Gràcia, 41, L'Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.3916433,
+        "longitude": 2.1651062999999997
+    },
+    {
+        "category": "historical sites",
+        "title": "Monumental",
+        "rating": 4.2,
+        "address": "Gran Via de les Corts Catalanes, 749, L'Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.4001033,
+        "longitude": 2.181227
+    },
+    {
+        "category": "historical sites",
+        "title": "Temple d'August",
+        "rating": 4.6,
+        "address": "Carrer del Paradís, 10, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3833997,
+        "longitude": 2.1771849
+    },
+    {
+        "category": "historical sites",
+        "title": "Casa del Guarda",
+        "rating": 4.4,
+        "address": "Carrer d'Olot, Gràcia, 08024 Barcelona, Spain",
+        "latitude": 41.413576899999995,
+        "longitude": 2.1532063999999997
+    },
+    {
+        "category": "historical sites",
+        "title": "Faroles modernistes d'Antoni Gaudí",
+        "rating": 4.6,
+        "address": "Pl. Reial, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3799706,
+        "longitude": 2.1754629999999997
+    },
+    {
+        "category": "art galleries",
+        "title": "Art Gallery Barcelona - Artevistas Gallery",
+        "rating": 4.6,
+        "address": "Passatge del Crèdit, 4, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3817914,
+        "longitude": 2.1764188
+    },
+    {
+        "category": "art galleries",
+        "title": "Vila de l'Art Galleries Barcelona",
+        "rating": 4.8,
+        "address": "Carrer de la Tapineria, 39, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.384693899999995,
+        "longitude": 2.1764495
+    },
+    {
+        "category": "art galleries",
+        "title": "Sala Parés",
+        "rating": 4.6,
+        "address": "Carrer de Petritxol, 5, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3827,
+        "longitude": 2.1730329999999998
+    },
+    {
+        "category": "art galleries",
+        "title": "BienCuadrado Art Gallery",
+        "rating": 4.8,
+        "address": "Carrer d'Ataülf, 14, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3809952,
+        "longitude": 2.1790366999999997
+    },
+    {
+        "category": "art galleries",
+        "title": "Villa del Arte Galleries Barcelona (at Mandarin Oriental)",
+        "rating": 4.7,
+        "address": "Pg. de Gràcia, 38-40, L'Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.3912786,
+        "longitude": 2.1667383
+    },
+    {
+        "category": "art galleries",
+        "title": "Art Gallery Barcelona - Base Elements Gallery",
+        "rating": 4.9,
+        "address": "Carrer d'Avinyó, 31, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3805063,
+        "longitude": 2.1787128
+    },
+    {
+        "category": "art galleries",
+        "title": "Pigment Gallery",
+        "rating": 4.6,
+        "address": "Carrer de Trafalgar, 70, Ciutat Vella, 08010 Barcelona, Spain",
+        "latitude": 41.3905349,
+        "longitude": 2.1789053
+    },
+    {
+        "category": "art galleries",
+        "title": "Galeria SENDA - Art Gallery",
+        "rating": 4.5,
+        "address": "Carrer de Trafalgar, 32, Ciutat Vella, 08010 Barcelona, Spain",
+        "latitude": 41.389019399999995,
+        "longitude": 2.1761486999999997
+    },
+    {
+        "category": "art galleries",
+        "title": "3 Punts Gallery",
+        "rating": 4.5,
+        "address": "Carrer del Consell de Cent, 317, Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.3894345,
+        "longitude": 2.1633009
+    },
+    {
+        "category": "art galleries",
+        "title": "🖼️ Maison Cactus Art Gallery",
+        "rating": 4.8,
+        "address": "Carrer de la Bòria, 22, Local 1, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3845609,
+        "longitude": 2.1788719999999997
+    },
+    {
+        "category": "art galleries",
+        "title": "Galeria d'art Jordi Barnadas",
+        "rating": 4.7,
+        "address": "Carrer del Consell de Cent, 347, L'Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.3909059,
+        "longitude": 2.1652652999999997
+    },
+    {
+        "category": "art galleries",
+        "title": "Museu d’Art Contemporani de Barcelona",
+        "rating": 4.3,
+        "address": "Plaça dels Àngels, 1, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3831913,
+        "longitude": 2.1668667999999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Mayoral Gallery",
+        "rating": 4.4,
+        "address": "Carrer del Consell de Cent, 286, L'Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.3895354,
+        "longitude": 2.1638645999999997
+    },
+    {
+        "category": "art galleries",
+        "title": "àngels barcelona",
+        "rating": 5,
+        "address": "Carrer del Pintor Fortuny, 27, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3824182,
+        "longitude": 2.169364
+    },
+    {
+        "category": "art galleries",
+        "title": "Carles Taché Gallery",
+        "rating": 4.3,
+        "address": "Carrer de Trafalgar, 70, Ciutat Vella, 08010 Barcelona, Spain",
+        "latitude": 41.3904907,
+        "longitude": 2.1788031
+    },
+    {
+        "category": "art galleries",
+        "title": "Bombon projects -Art gallery",
+        "rating": 4.4,
+        "address": "Carrer de Trafalgar, 53, local B, Eixample, 08010 Barcelona, Spain",
+        "latitude": 41.3907531,
+        "longitude": 2.1787682
+    },
+    {
+        "category": "art galleries",
+        "title": "Espais Volart",
+        "rating": 4.6,
+        "address": "Carrer d'Ausiàs Marc, 22, L'Eixample, 08010 Barcelona, Spain",
+        "latitude": 41.390932,
+        "longitude": 2.1752962
+    },
+    {
+        "category": "art galleries",
+        "title": "Fousion Gallery",
+        "rating": 4.6,
+        "address": "Carrer del Comerç, 15, Local B, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3872961,
+        "longitude": 2.1820616
+    },
+    {
+        "category": "art galleries",
+        "title": "Galeria Joan Gaspar",
+        "rating": 4.6,
+        "address": "Carrer del Consell de Cent, 284, Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.389477199999995,
+        "longitude": 2.1637379
+    },
+    {
+        "category": "art galleries",
+        "title": "GALERIA MAXÓ",
+        "rating": 4.9,
+        "address": "Carrer de la Princesa, 38, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.385966599999996,
+        "longitude": 2.181345
+    },
+    {
+        "category": "theaters",
+        "title": "Palau de la Música Catalana",
+        "rating": 4.7,
+        "address": "C/ Palau de la Música, 4-6, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3875752,
+        "longitude": 2.1753128
+    },
+    {
+        "category": "theaters",
+        "title": "Gran Teatre del Liceu",
+        "rating": 4.7,
+        "address": "La Rambla, 59, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3801969,
+        "longitude": 2.1732948
+    },
+    {
+        "category": "theaters",
+        "title": "Teatre Tívoli",
+        "rating": 4.5,
+        "address": "Carrer de Casp, 8, L'Eixample, 08010 Barcelona, Spain",
+        "latitude": 41.3889275,
+        "longitude": 2.1703653
+    },
+    {
+        "category": "theaters",
+        "title": "Sala Beckett",
+        "rating": 4.5,
+        "address": "Carrer de Pere IV, 228, 232, Sant Martí, 08005 Barcelona, Spain",
+        "latitude": 41.404705199999995,
+        "longitude": 2.1994265
+    },
+    {
+        "category": "theaters",
+        "title": "National Theater of Catalonia",
+        "rating": 4.5,
+        "address": "Plaça de les Arts, 1, L'Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.3999431,
+        "longitude": 2.1857706
+    },
+    {
+        "category": "theaters",
+        "title": "Teatre Victoria",
+        "rating": 4.6,
+        "address": "Av. del Paral·lel, 67, Sants-Montjuïc, 08004 Barcelona, Spain",
+        "latitude": 41.3747756,
+        "longitude": 2.1687885
+    },
+    {
+        "category": "theaters",
+        "title": "Teatreneu",
+        "rating": 4.5,
+        "address": "Carrer de Terol, 26, Gràcia, 08012 Barcelona, Spain",
+        "latitude": 41.4032145,
+        "longitude": 2.1586488999999998
+    },
+    {
+        "category": "theaters",
+        "title": "Teatre Condal",
+        "rating": 4.4,
+        "address": "Av. del Paral·lel, 91, Sants-Montjuïc, 08004 Barcelona, Spain",
+        "latitude": 41.3747939,
+        "longitude": 2.1646372
+    },
+    {
+        "category": "theaters",
+        "title": "Teatre Romea",
+        "rating": 4.4,
+        "address": "Carrer de l'Hospital, 51, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3805361,
+        "longitude": 2.1711109
+    },
+    {
+        "category": "theaters",
+        "title": "Teatre Goya",
+        "rating": 4.4,
+        "address": "Carrer de Joaquín Costa, 68, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3841006,
+        "longitude": 2.1642251999999997
+    },
+    {
+        "category": "theaters",
+        "title": "Apolo theatre",
+        "rating": 4.5,
+        "address": "Av. del Paral·lel, 59, Sants-Montjuïc, 08004 Barcelona, Spain",
+        "latitude": 41.374716899999996,
+        "longitude": 2.1704608
+    },
+    {
+        "category": "theaters",
+        "title": "Teatre Poliorama",
+        "rating": 4.4,
+        "address": "Rambla dels Estudis, 115, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3841507,
+        "longitude": 2.1706933999999998
+    },
+    {
+        "category": "theaters",
+        "title": "Antic Teatre",
+        "rating": 4.4,
+        "address": "Carrer de Verdaguer i Callís, 12, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3871958,
+        "longitude": 2.1759573
+    },
+    {
+        "category": "theaters",
+        "title": "Teatre Borràs",
+        "rating": 4.3,
+        "address": "Pl. d'Urquinaona, 9, Ciutat Vella, 08010 Barcelona, Spain",
+        "latitude": 41.388780499999996,
+        "longitude": 2.1736154
+    },
+    {
+        "category": "theaters",
+        "title": "Eixample Teatre",
+        "rating": 4.5,
+        "address": "Carrer d'Aragó, 140, 1, L'Eixample, 08011 Barcelona, Spain",
+        "latitude": 41.385309,
+        "longitude": 2.1559901
+    },
+    {
+        "category": "theaters",
+        "title": "SALA BARTS",
+        "rating": 4.4,
+        "address": "Av. del Paral·lel, 62, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.375198999999995,
+        "longitude": 2.1695894
+    },
+    {
+        "category": "theaters",
+        "title": "Aquitània Teatre",
+        "rating": 4.4,
+        "address": "Av. de Sarrià, 33, L'Eixample, 08029 Barcelona, Spain",
+        "latitude": 41.3900821,
+        "longitude": 2.144756
+    },
+    {
+        "category": "theaters",
+        "title": "L'Auditori",
+        "rating": 4.6,
+        "address": "Carrer de Lepant, 150, L'Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.3986326,
+        "longitude": 2.1852999
+    },
+    {
+        "category": "theaters",
+        "title": "Teatre Principal de Barcelona",
+        "rating": 4.1,
+        "address": "La Rambla, 27-29, Ciutat Vella, 08001 Barcelona, Spain",
+        "latitude": 41.3786268,
+        "longitude": 2.175322
+    },
+    {
+        "category": "theaters",
+        "title": "Aribau Multicines",
+        "rating": 4,
+        "address": "Carrer d'Aribau, 8, 10, Eixample, 08011 Barcelona, Spain",
+        "latitude": 41.386125,
+        "longitude": 2.1625929999999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs barcelona",
+        "rating": 4.8,
+        "address": "Av. de Gaudí, 40, Eixample, 08025 Barcelona, Spain",
+        "latitude": 41.4073007,
+        "longitude": 2.1746336
+    },
+    {
+        "category": "souvenir counters",
+        "title": "B de Barcelona souvenir shop Barcelona",
+        "rating": 4.6,
+        "address": "Av. de Gaudí, 43, Eixample, 08025 Barcelona, Spain",
+        "latitude": 41.4073259,
+        "longitude": 2.1741782
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Little Barcelona Souvenirs (The Gift Shop)",
+        "rating": 4.8,
+        "address": "Ronda de la Univ., 4, Eixample, 08007 Barcelona, Spain",
+        "latitude": 41.3862139,
+        "longitude": 2.1658839
+    },
+    {
+        "category": "souvenir counters",
+        "title": "MaxMax Souvenirs",
+        "rating": 4.8,
+        "address": "Galeries Maldà, Carrer de la Portaferrissa, 22, Local B12, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3832082,
+        "longitude": 2.1732852
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Sagrada Familia Souvenir Shop",
+        "rating": 4,
+        "address": "Carrer de la Marina, s/n, L'Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.4037194,
+        "longitude": 2.1751537
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Flor de Barcelona",
+        "rating": 5,
+        "address": "Plaça de la Llana, 7, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3850737,
+        "longitude": 2.1792624
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Emporio Souvenirs Barcelona",
+        "rating": 3.6,
+        "address": "Carrer de Mallorca, 416, Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.4032408,
+        "longitude": 2.175323
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Tourist treats Gift Shop barcelona",
+        "rating": 3.6,
+        "address": "Carrer de l'Espaseria, 4-6-8, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3832617,
+        "longitude": 2.1821989999999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Àngels Souvenirs",
+        "rating": 4.2,
+        "address": "Pg. de St. Joan, 36, Eixample, 08010 Barcelona, Spain",
+        "latitude": 41.3934997,
+        "longitude": 2.1778223
+    },
+    {
+        "category": "souvenir counters",
+        "title": "I Am Barcelona",
+        "rating": 2.5,
+        "address": "Carrer de la Marina, 264, Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.403503199999996,
+        "longitude": 2.175929
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gaudí Art BARCELONA",
+        "rating": 4.5,
+        "address": "239 Carrer de la Marina, Bis, 08013 Barcelona, Spain",
+        "latitude": 41.402934699999996,
+        "longitude": 2.1763006
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Art Catala",
+        "rating": 4.6,
+        "address": "Carrer Comtal, 25, Local 2, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3866253,
+        "longitude": 2.1739303
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gaudí Barcelona Shop",
+        "rating": 4.5,
+        "address": "Metro L4: Selva de Mar, Tram: T4 Fluvià, Carrer de Provençals, 72, 08019 Barcelona, Spain",
+        "latitude": 41.408695699999996,
+        "longitude": 2.2071727
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Botiga Souvenirs",
+        "rating": 4,
+        "address": "Av. de Gaudí, 17, L'Eixample, 08025 Barcelona, Spain",
+        "latitude": 41.4055574,
+        "longitude": 2.1742615
+    },
+    {
+        "category": "souvenir counters",
+        "title": "I love Barcelona 129",
+        "rating": 3.4,
+        "address": "La Rambla, 129, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3850256,
+        "longitude": 2.1700407999999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "ARTESANÍA MARINA",
+        "rating": 5,
+        "address": "Carrer de la Marina, 262, local-2, Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.4035194,
+        "longitude": 2.1760541
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gaudi Barcelona",
+        "rating": 4.3,
+        "address": "Plaça Sagrada Família, 16, Eixample, 08025 Barcelona, Spain",
+        "latitude": 41.403469099999995,
+        "longitude": 2.1728868
+    },
+    {
+        "category": "souvenir counters",
+        "title": "BCN ART GALLERY",
+        "rating": 4.5,
+        "address": "Carrer de Montcada, 18, Ciutat Vella, 08003 Barcelona, Spain",
+        "latitude": 41.3845677,
+        "longitude": 2.1810258
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Artgaudí",
+        "rating": 4.6,
+        "address": "Carrer de la Tapineria, 10, Ciutat Vella, 08002 Barcelona, Spain",
+        "latitude": 41.3846673,
+        "longitude": 2.17699
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Ringels",
+        "rating": 3.4,
+        "address": "Carrer de Mallorca, 418, Eixample, 08013 Barcelona, Spain",
+        "latitude": 41.403293999999995,
+        "longitude": 2.1754073
+    }
+]

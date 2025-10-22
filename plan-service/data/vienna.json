@@ -1,0 +1,3490 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Hofburg",
+        "rating": 4.7,
+        "address": "1010 Wien, Austria",
+        "latitude": 48.2056578,
+        "longitude": 16.3647803
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Schönbrunn Palace",
+        "rating": 4.7,
+        "address": "Schönbrunner Schloßstraße 47, 1130 Wien, Austria",
+        "latitude": 48.185812399999996,
+        "longitude": 16.312763999999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Schwarzenberg-Denkmal",
+        "rating": 4.5,
+        "address": "Schwarzenbergpl. 17, 1010 Wien, Austria",
+        "latitude": 48.2008953,
+        "longitude": 16.3746929
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Equitable",
+        "rating": 4.7,
+        "address": "Stock-im-Eisen-Platz 3, 1010 Wien, Austria",
+        "latitude": 48.207832599999996,
+        "longitude": 16.3714476
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Belvedere Palace",
+        "rating": 4.7,
+        "address": "1030 Wien, Austria",
+        "latitude": 48.1914751,
+        "longitude": 16.3809322
+    },
+    {
+        "category": "tourist attractions",
+        "title": "St. Stephen's Cathedral",
+        "rating": 4.7,
+        "address": "Stephansplatz 3, 1010 Wien, Austria",
+        "latitude": 48.208411399999996,
+        "longitude": 16.3734707
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Otto-Wagner-Haus",
+        "rating": 4.3,
+        "address": "Schottenring 23, 1010 Wien, Austria",
+        "latitude": 48.2165714,
+        "longitude": 16.3674775
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Donnerbrunnen",
+        "rating": 4.5,
+        "address": "Neuer Markt, 1010 Wien, Austria",
+        "latitude": 48.2061461,
+        "longitude": 16.3707219
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Neue Burg - Teil der Wiener Hofburg",
+        "rating": 4.7,
+        "address": "Heldenplatz, 1010 Wien, Austria",
+        "latitude": 48.205177199999994,
+        "longitude": 16.3645756
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Prater",
+        "rating": 4.5,
+        "address": "1020 Wien, Austria",
+        "latitude": 48.2154648,
+        "longitude": 16.4001739
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Heldenplatz",
+        "rating": 4.7,
+        "address": "21/4, 1010 Wien, Austria",
+        "latitude": 48.2063576,
+        "longitude": 16.3631746
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Viennese Giant Ferris Wheel",
+        "rating": 4.5,
+        "address": "Gaudeegasse 1, 1020 Wien, Austria",
+        "latitude": 48.2166995,
+        "longitude": 16.3959008
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Albrechtsbrunnen",
+        "rating": 4.8,
+        "address": "1010 Wien, Austria",
+        "latitude": 48.204223899999995,
+        "longitude": 16.3685747
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Time Travel Vienna",
+        "rating": 4.6,
+        "address": "Habsburgergasse 10A, 1010 Wien, Austria",
+        "latitude": 48.2082592,
+        "longitude": 16.3682589
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Kunsthistorisches Museum Wien",
+        "rating": 4.8,
+        "address": "Maria-Theresien-Platz, 1010 Wien, Austria",
+        "latitude": 48.2038016,
+        "longitude": 16.3617874
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Prater Turm",
+        "rating": 4.7,
+        "address": "Prater 59, 1010 Wien, Austria",
+        "latitude": 48.2145278,
+        "longitude": 16.401401
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Burggarten",
+        "rating": 4.7,
+        "address": "Josefsplatz 1, 1010 Wien, Austria",
+        "latitude": 48.204338199999995,
+        "longitude": 16.3658336
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Kabinettpassage",
+        "rating": 4.1,
+        "address": "Mariahilfer Str. 2, 1070 Wien, Austria",
+        "latitude": 48.2020725,
+        "longitude": 16.360046
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Platz der Menschenrechte",
+        "rating": 4.4,
+        "address": "Mariahilfer Str. 1, 1070 Wien, Austria",
+        "latitude": 48.2023072,
+        "longitude": 16.3608075
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Lessing-Denkmal",
+        "rating": 4.4,
+        "address": "Judenpl. 1010, 1010 Wien, Austria",
+        "latitude": 48.2115283,
+        "longitude": 16.369863
+    },
+    {
+        "category": "parks",
+        "title": "Stadtpark",
+        "rating": 4.6,
+        "address": "Parkring 1, 1010 Wien, Austria",
+        "latitude": 48.204733499999996,
+        "longitude": 16.3796601
+    },
+    {
+        "category": "parks",
+        "title": "Schönbrunn Palace Park",
+        "rating": 4.8,
+        "address": "Schönbrunner Schloßstraße 47, 1130 Wien, Austria",
+        "latitude": 48.1802626,
+        "longitude": 16.3098086
+    },
+    {
+        "category": "parks",
+        "title": "Rathauspark",
+        "rating": 4.7,
+        "address": "W, 1010 Wien, Austria",
+        "latitude": 48.209719299999996,
+        "longitude": 16.3590674
+    },
+    {
+        "category": "parks",
+        "title": "Türkenschanz Park",
+        "rating": 4.8,
+        "address": "Hasenauerstraße Türkenschanzpark, 1180 Wien, Austria",
+        "latitude": 48.2348279,
+        "longitude": 16.3338496
+    },
+    {
+        "category": "parks",
+        "title": "Volksgarten",
+        "rating": 4.6,
+        "address": "1010 Wien, Austria",
+        "latitude": 48.2080439,
+        "longitude": 16.3613967
+    },
+    {
+        "category": "parks",
+        "title": "Setagayapark",
+        "rating": 4.6,
+        "address": "Gallmeyergasse 4, 1190 Wien, Austria",
+        "latitude": 48.2452183,
+        "longitude": 16.356215499999998
+    },
+    {
+        "category": "parks",
+        "title": "Belvedere-Schlossgarten",
+        "rating": 4.7,
+        "address": "Prinz-Eugen-Straße 27, 1030 Wien, Austria",
+        "latitude": 48.1925403,
+        "longitude": 16.3807188
+    },
+    {
+        "category": "parks",
+        "title": "Donaupark",
+        "rating": 4.6,
+        "address": "Wallenberggasse, Am Donaupark, 1220 Wien, Austria",
+        "latitude": 48.239337299999995,
+        "longitude": 16.411300999999998
+    },
+    {
+        "category": "parks",
+        "title": "Burggarten",
+        "rating": 4.7,
+        "address": "Josefsplatz 1, 1010 Wien, Austria",
+        "latitude": 48.204338199999995,
+        "longitude": 16.3658336
+    },
+    {
+        "category": "parks",
+        "title": "Sigmund Freud Park",
+        "rating": 4.5,
+        "address": "Universitätsstraße 6, 1090 Wien, Austria",
+        "latitude": 48.2147222,
+        "longitude": 16.3602778
+    },
+    {
+        "category": "parks",
+        "title": "Esterházypark",
+        "rating": 4.5,
+        "address": "Fritz-Grünbaum-Platz, 1060 Wien, Austria",
+        "latitude": 48.197518599999995,
+        "longitude": 16.3533738
+    },
+    {
+        "category": "parks",
+        "title": "Schwarzenbergpark",
+        "rating": 4.7,
+        "address": "Neuwaldegger Str., 1170 Wien, Austria",
+        "latitude": 48.245044799999995,
+        "longitude": 16.2745651
+    },
+    {
+        "category": "parks",
+        "title": "Pötzleinsdorfer Schlosspark",
+        "rating": 4.7,
+        "address": "Pötzleinsdorfer Str. 65, 1180 Wien, Austria",
+        "latitude": 48.2412413,
+        "longitude": 16.303183999999998
+    },
+    {
+        "category": "parks",
+        "title": "Augarten",
+        "rating": 4.6,
+        "address": "1020 Wien, Austria",
+        "latitude": 48.2261111,
+        "longitude": 16.3766669
+    },
+    {
+        "category": "parks",
+        "title": "Votiv Park",
+        "rating": 4.6,
+        "address": "Rooseveltplatz 8, 1090 Wien, Austria",
+        "latitude": 48.215709399999994,
+        "longitude": 16.3583405
+    },
+    {
+        "category": "parks",
+        "title": "Kurpark Oberlaa",
+        "rating": 4.7,
+        "address": "Laaer-Berg-Straße, 1100 Wien, Austria",
+        "latitude": 48.148622499999995,
+        "longitude": 16.399745799999998
+    },
+    {
+        "category": "parks",
+        "title": "Prater",
+        "rating": 4.5,
+        "address": "1020 Wien, Austria",
+        "latitude": 48.2154648,
+        "longitude": 16.4001739
+    },
+    {
+        "category": "parks",
+        "title": "Swiss Garden",
+        "rating": 4.5,
+        "address": "Landgutgasse 1, 1100 Wien, Austria",
+        "latitude": 48.1872835,
+        "longitude": 16.3849795
+    },
+    {
+        "category": "parks",
+        "title": "University of Vienna Botanical Garden",
+        "rating": 4.7,
+        "address": "Rennweg 14, 1030 Wien, Austria",
+        "latitude": 48.1916711,
+        "longitude": 16.3839679
+    },
+    {
+        "category": "parks",
+        "title": "Ostarrichipark",
+        "rating": 4.5,
+        "address": "Otto-Wagner-Platz, 1090 Wien, Austria",
+        "latitude": 48.2154854,
+        "longitude": 16.354522199999998
+    },
+    {
+        "category": "restaurants",
+        "title": "ef16 Restaurant Weinbar",
+        "rating": 4.7,
+        "address": "Fleischmarkt 16, 1010 Wien, Austria",
+        "latitude": 48.210441599999996,
+        "longitude": 16.3767052
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Vienne/OnurChefs",
+        "rating": 4.8,
+        "address": "Fleischmarkt 20/22, 1010 Wien, Austria",
+        "latitude": 48.2103471,
+        "longitude": 16.377622199999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Reinthaler's Beisl",
+        "rating": 4.5,
+        "address": "Dorotheergasse 2-4, 1010 Wien, Austria",
+        "latitude": 48.2079768,
+        "longitude": 16.3699139
+    },
+    {
+        "category": "restaurants",
+        "title": "Figlmüller – Restaurant Bäckerstraße",
+        "rating": 4.4,
+        "address": "Bäckerstraße 6, 1010 Wien, Austria",
+        "latitude": 48.2092519,
+        "longitude": 16.3755254
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Al Borgo",
+        "rating": 4.6,
+        "address": "An der Hülben 1, 1010 Wien, Austria",
+        "latitude": 48.2067619,
+        "longitude": 16.3773885
+    },
+    {
+        "category": "restaurants",
+        "title": "Wiener Wiazhaus",
+        "rating": 4.7,
+        "address": "Karlsgasse 22, 1040 Wien, Austria",
+        "latitude": 48.1967126,
+        "longitude": 16.3694477
+    },
+    {
+        "category": "restaurants",
+        "title": "Griechenbeisl",
+        "rating": 4.5,
+        "address": "Fleischmarkt 11, 1010 Wien, Austria",
+        "latitude": 48.210745499999994,
+        "longitude": 16.3772573
+    },
+    {
+        "category": "restaurants",
+        "title": "Steirereck",
+        "rating": 4.4,
+        "address": "Am Heumarkt 2A, 1030 Wien, Austria",
+        "latitude": 48.2044578,
+        "longitude": 16.3813958
+    },
+    {
+        "category": "restaurants",
+        "title": "Hungry Guy",
+        "rating": 4.3,
+        "address": "Rabensteig 1, 1010 Wien, Austria",
+        "latitude": 48.211219,
+        "longitude": 16.375066
+    },
+    {
+        "category": "restaurants",
+        "title": "Huth Gastwirtschaft",
+        "rating": 4.6,
+        "address": "Schellinggasse 5, 1010 Wien, Austria",
+        "latitude": 48.2043495,
+        "longitude": 16.375368899999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Rote Bar",
+        "rating": 4.7,
+        "address": "Philharmoniker Str. 4, 1010 Wien, Austria",
+        "latitude": 48.2039459,
+        "longitude": 16.3698418
+    },
+    {
+        "category": "restaurants",
+        "title": "Puerstner",
+        "rating": 4.3,
+        "address": "Riemergasse 10, 1010 Wien, Austria",
+        "latitude": 48.2070167,
+        "longitude": 16.3764583
+    },
+    {
+        "category": "restaurants",
+        "title": "Schachtelwirt",
+        "rating": 4.6,
+        "address": "Judengasse 5, 1010 Wien, Austria",
+        "latitude": 48.2114663,
+        "longitude": 16.3735295
+    },
+    {
+        "category": "restaurants",
+        "title": "Apron",
+        "rating": 4.8,
+        "address": "Am Heumarkt 35, 1030 Wien, Austria",
+        "latitude": 48.1995776,
+        "longitude": 16.3771844
+    },
+    {
+        "category": "restaurants",
+        "title": "Pulkautaler Winehouse and Restaurant",
+        "rating": 4.7,
+        "address": "Felberstraße 2, 1150 Wien, Austria",
+        "latitude": 48.1983216,
+        "longitude": 16.3380211
+    },
+    {
+        "category": "restaurants",
+        "title": "SIXTA",
+        "rating": 4.9,
+        "address": "Schönbrunner Str. 21, 1050 Wien, Austria",
+        "latitude": 48.194011599999996,
+        "longitude": 16.3596359
+    },
+    {
+        "category": "restaurants",
+        "title": "Mraz & Sohn",
+        "rating": 4.8,
+        "address": "Wallensteinstraße 59, 1200 Wien, Austria",
+        "latitude": 48.2313852,
+        "longitude": 16.3762172
+    },
+    {
+        "category": "restaurants",
+        "title": "Melker Stiftskeller",
+        "rating": 4.5,
+        "address": "Schottengasse 3, 1010 Wien, Austria",
+        "latitude": 48.2124433,
+        "longitude": 16.3637771
+    },
+    {
+        "category": "restaurants",
+        "title": "Lugeck",
+        "rating": 4.3,
+        "address": "4, 1010 Wien, Austria",
+        "latitude": 48.209679099999995,
+        "longitude": 16.375215
+    },
+    {
+        "category": "restaurants",
+        "title": "Moment Cafe and Restaurant",
+        "rating": 4.9,
+        "address": "Fasangasse 34/G2, 1030 Wien, Austria",
+        "latitude": 48.190695,
+        "longitude": 16.3855002
+    },
+    {
+        "category": "cafes",
+        "title": "Café Central",
+        "rating": 4.3,
+        "address": "Herrengasse 14, 1010 Wien, Austria",
+        "latitude": 48.2104274,
+        "longitude": 16.3654339
+    },
+    {
+        "category": "cafes",
+        "title": "Café Landtmann",
+        "rating": 4.4,
+        "address": "Universitätsring 4, 1010 Wien, Austria",
+        "latitude": 48.211546899999995,
+        "longitude": 16.3615167
+    },
+    {
+        "category": "cafes",
+        "title": "Fenster Café",
+        "rating": 4.6,
+        "address": "Griechengasse 10, 1010 Wien, Austria",
+        "latitude": 48.2109524,
+        "longitude": 16.3770858
+    },
+    {
+        "category": "cafes",
+        "title": "Café Schwarzenberg",
+        "rating": 4.2,
+        "address": "Kärntner Ring 17, 1010 Wien, Austria",
+        "latitude": 48.201794299999996,
+        "longitude": 16.3738665
+    },
+    {
+        "category": "cafes",
+        "title": "Kaffee Alt Wien",
+        "rating": 4.3,
+        "address": "Bäckerstraße 9, 1010 Wien, Austria",
+        "latitude": 48.2091907,
+        "longitude": 16.376213
+    },
+    {
+        "category": "cafes",
+        "title": "Café Hawelka",
+        "rating": 4,
+        "address": "Dorotheergasse 6, 1010 Wien, Austria",
+        "latitude": 48.207931599999995,
+        "longitude": 16.3697835
+    },
+    {
+        "category": "cafes",
+        "title": "phil - Café, bookshop & bar",
+        "rating": 4.6,
+        "address": "Gumpendorfer Str. 10 - 12, 1060 Wien, Austria",
+        "latitude": 48.200229199999995,
+        "longitude": 16.3611401
+    },
+    {
+        "category": "cafes",
+        "title": "Café Diglas",
+        "rating": 4.2,
+        "address": "Wollzeile 10, 1010 Wien, Austria",
+        "latitude": 48.208636899999995,
+        "longitude": 16.37526
+    },
+    {
+        "category": "cafes",
+        "title": "Kleines Café",
+        "rating": 4.1,
+        "address": "Franziskanerpl. 3, 1010 Wien, Austria",
+        "latitude": 48.206583599999995,
+        "longitude": 16.3743355
+    },
+    {
+        "category": "cafes",
+        "title": "Café Museum",
+        "rating": 4.3,
+        "address": "Operngasse 7, 1010 Wien, Austria",
+        "latitude": 48.2013755,
+        "longitude": 16.3675443
+    },
+    {
+        "category": "cafes",
+        "title": "Café Prückel",
+        "rating": 4,
+        "address": "Stubenring 24, 1010 Wien, Austria",
+        "latitude": 48.2075943,
+        "longitude": 16.3804047
+    },
+    {
+        "category": "cafes",
+        "title": "Demel Vienna cafe",
+        "rating": 4.2,
+        "address": "Kohlmarkt 14, 1010 Wien, Austria",
+        "latitude": 48.208596199999995,
+        "longitude": 16.3672185
+    },
+    {
+        "category": "cafes",
+        "title": "Café Goldegg",
+        "rating": 4.4,
+        "address": "Argentinierstraße 49, 1040 Wien, Austria",
+        "latitude": 48.1896662,
+        "longitude": 16.3761635
+    },
+    {
+        "category": "cafes",
+        "title": "Gerstner K. u. K. Hofzuckerbäcker",
+        "rating": 4.3,
+        "address": "Kärntner Str. 51, 1010 Wien, Austria",
+        "latitude": 48.203382999999995,
+        "longitude": 16.3704336
+    },
+    {
+        "category": "cafes",
+        "title": "Café Westend",
+        "rating": 4.2,
+        "address": "Mariahilfer Str. 128, 1070 Wien, Austria",
+        "latitude": 48.196224099999995,
+        "longitude": 16.3401742
+    },
+    {
+        "category": "cafes",
+        "title": "Café Benedikt",
+        "rating": 4.6,
+        "address": "Sechskrügelgasse 2, 1030 Wien, Austria",
+        "latitude": 48.202355,
+        "longitude": 16.3899273
+    },
+    {
+        "category": "cafes",
+        "title": "Café Savoy",
+        "rating": 4.5,
+        "address": "Linke Wienzeile 36, 1060 Wien, Austria",
+        "latitude": 48.1975961,
+        "longitude": 16.3601647
+    },
+    {
+        "category": "cafes",
+        "title": "Balthasar Coffee Bar",
+        "rating": 4.7,
+        "address": "Praterstraße 38, 1020 Wien, Austria",
+        "latitude": 48.214836999999996,
+        "longitude": 16.385303999999998
+    },
+    {
+        "category": "cafes",
+        "title": "Café Schopenhauer",
+        "rating": 4.6,
+        "address": "Staudgasse 1, 1180 Wien, Austria",
+        "latitude": 48.223587099999996,
+        "longitude": 16.3466976
+    },
+    {
+        "category": "cafes",
+        "title": "Café Imperial Wien",
+        "rating": 4.4,
+        "address": "Kärntner Ring 16, 1010 Wien, Austria",
+        "latitude": 48.2010175,
+        "longitude": 16.3733366
+    },
+    {
+        "category": "mountains",
+        "title": "Kahlenberg",
+        "rating": 4.8,
+        "address": "1190 Vienna, Austria",
+        "latitude": 48.2763433,
+        "longitude": 16.333285
+    },
+    {
+        "category": "mountains",
+        "title": "Grautberg",
+        "rating": null,
+        "address": "1140 Vienna, Austria",
+        "latitude": 48.2333333,
+        "longitude": 16.2166666
+    },
+    {
+        "category": "mountains",
+        "title": "Zugberg",
+        "rating": 4,
+        "address": "1230 Vienna, Austria",
+        "latitude": 48.1333333,
+        "longitude": 16.25
+    },
+    {
+        "category": "mountains",
+        "title": "Nussberg",
+        "rating": 4.9,
+        "address": "1190 Vienna, Austria",
+        "latitude": 48.266666699999995,
+        "longitude": 16.349999999999998
+    },
+    {
+        "category": "mountains",
+        "title": "Hackenberg",
+        "rating": 5,
+        "address": "1130 Vienna, Austria",
+        "latitude": 48.1833333,
+        "longitude": 16.2499999
+    },
+    {
+        "category": "mountains",
+        "title": "Latisberg",
+        "rating": 5,
+        "address": "1190 Vienna, Austria",
+        "latitude": 48.266666699999995,
+        "longitude": 16.3166667
+    },
+    {
+        "category": "mountains",
+        "title": "Hermannskogel",
+        "rating": 4.7,
+        "address": "1190 Vienna, Austria",
+        "latitude": 48.270482099999995,
+        "longitude": 16.2937778
+    },
+    {
+        "category": "mountains",
+        "title": "Hohe Warte",
+        "rating": 4.5,
+        "address": "1190 Vienna, Austria",
+        "latitude": 48.249444,
+        "longitude": 16.357778
+    },
+    {
+        "category": "mountains",
+        "title": "Wilder Berg",
+        "rating": 5,
+        "address": "1230 Vienna, Austria",
+        "latitude": 48.1526521,
+        "longitude": 16.2427819
+    },
+    {
+        "category": "mountains",
+        "title": "Kaufberg",
+        "rating": null,
+        "address": "1230 Vienna, Austria",
+        "latitude": 48.15,
+        "longitude": 16.216666699999998
+    },
+    {
+        "category": "mountains",
+        "title": "Hamea",
+        "rating": 4.7,
+        "address": "1170 Vienna, Austria",
+        "latitude": 48.2547363,
+        "longitude": 16.2652558
+    },
+    {
+        "category": "mountains",
+        "title": "Ganserlberg",
+        "rating": 4.8,
+        "address": "1180 Vienna, Austria",
+        "latitude": 48.222249999999995,
+        "longitude": 16.340028
+    },
+    {
+        "category": "mountains",
+        "title": "Kaltbründlberg",
+        "rating": null,
+        "address": "1130 Vienna, Austria",
+        "latitude": 48.169035099999995,
+        "longitude": 16.219365
+    },
+    {
+        "category": "mountains",
+        "title": "Hochbruckenberg",
+        "rating": 1,
+        "address": "1140 Vienna, Austria",
+        "latitude": 48.2333333,
+        "longitude": 16.233333299999998
+    },
+    {
+        "category": "mountains",
+        "title": "Schutzengelberg",
+        "rating": null,
+        "address": "1140 Vienna, Austria",
+        "latitude": 48.25,
+        "longitude": 16.216666699999998
+    },
+    {
+        "category": "mountains",
+        "title": "Schafberg",
+        "rating": 4.6,
+        "address": "1170 Vienna, Austria",
+        "latitude": 48.2333333,
+        "longitude": 16.3
+    },
+    {
+        "category": "mountains",
+        "title": "Hungerberg",
+        "rating": 4.3,
+        "address": "1190 Vienna, Austria",
+        "latitude": 48.25,
+        "longitude": 16.349999999999998
+    },
+    {
+        "category": "mountains",
+        "title": "Pfaffenberg",
+        "rating": 5,
+        "address": "1190 Vienna, Austria",
+        "latitude": 48.259443999999995,
+        "longitude": 16.308611
+    },
+    {
+        "category": "mountains",
+        "title": "Heuberg",
+        "rating": 4.5,
+        "address": "1170 Vienna, Austria",
+        "latitude": 48.229586,
+        "longitude": 16.2749509
+    },
+    {
+        "category": "mountains",
+        "title": "Georgenberg",
+        "rating": 4.7,
+        "address": "1230 Vienna, Austria",
+        "latitude": 48.146667,
+        "longitude": 16.252778
+    },
+    {
+        "category": "waterfalls",
+        "title": "Myra Waterfalls",
+        "rating": 4.7,
+        "address": "Myrafälle 1, 2763 Muggendorf, Austria",
+        "latitude": 47.9138125,
+        "longitude": 15.9351542
+    },
+    {
+        "category": "waterfalls",
+        "title": "Wasserfall Stadt Park",
+        "rating": 4.5,
+        "address": "Am Stadtpark, 1010 Wien, Austria",
+        "latitude": 48.2048972,
+        "longitude": 16.3805059
+    },
+    {
+        "category": "lakes",
+        "title": "Dechantlacke",
+        "rating": 4.7,
+        "address": "1220 Vienna, Austria",
+        "latitude": 48.190975699999996,
+        "longitude": 16.4766282
+    },
+    {
+        "category": "lakes",
+        "title": "Schellensee",
+        "rating": 4.3,
+        "address": "1230 Vienna, Austria",
+        "latitude": 48.123540899999995,
+        "longitude": 16.305374
+    },
+    {
+        "category": "lakes",
+        "title": "Wienerbergteich",
+        "rating": 4.5,
+        "address": "1100 Vienna, Austria",
+        "latitude": 48.161445199999996,
+        "longitude": 16.3503963
+    },
+    {
+        "category": "lakes",
+        "title": "Russwasser",
+        "rating": 4.5,
+        "address": "1220 Vienna, Austria",
+        "latitude": 48.25,
+        "longitude": 16.5166666
+    },
+    {
+        "category": "lakes",
+        "title": "Steinsee",
+        "rating": 5,
+        "address": "1230 Vienna, Austria",
+        "latitude": 48.15,
+        "longitude": 16.3333333
+    },
+    {
+        "category": "lakes",
+        "title": "Hanslteich",
+        "rating": 5,
+        "address": "1170 Vienna, Austria",
+        "latitude": 48.2333333,
+        "longitude": 16.2833333
+    },
+    {
+        "category": "lakes",
+        "title": "Schmatelkateich",
+        "rating": 5,
+        "address": "1220 Vienna, Austria",
+        "latitude": 48.283333299999995,
+        "longitude": 16.483333299999998
+    },
+    {
+        "category": "lakes",
+        "title": "Lusthauswasser",
+        "rating": 4.8,
+        "address": "1020 Vienna, Austria",
+        "latitude": 48.1915688,
+        "longitude": 16.442750099999998
+    },
+    {
+        "category": "lakes",
+        "title": "Kaiserwasser",
+        "rating": 4.7,
+        "address": "1220 Vienna, Austria",
+        "latitude": 48.232324399999996,
+        "longitude": 16.4217594
+    },
+    {
+        "category": "lakes",
+        "title": "Oberes Heustadelwasser",
+        "rating": 4.5,
+        "address": "1020 Vienna, Austria",
+        "latitude": 48.1988068,
+        "longitude": 16.4224887
+    },
+    {
+        "category": "lakes",
+        "title": "Pappelteich",
+        "rating": 4,
+        "address": "1230 Vienna, Austria",
+        "latitude": 48.15,
+        "longitude": 16.25
+    },
+    {
+        "category": "lakes",
+        "title": "Mauthnerwasser",
+        "rating": 4.9,
+        "address": "1020 Vienna, Austria",
+        "latitude": 48.190319699999996,
+        "longitude": 16.4479512
+    },
+    {
+        "category": "lakes",
+        "title": "Butterteich",
+        "rating": 4.3,
+        "address": "1100 Vienna, Austria",
+        "latitude": 48.1660931,
+        "longitude": 16.396093999999998
+    },
+    {
+        "category": "lakes",
+        "title": "Beim Fischbassin",
+        "rating": 4.3,
+        "address": "1130 Vienna, Austria",
+        "latitude": 48.1845869,
+        "longitude": 16.310409099999998
+    },
+    {
+        "category": "lakes",
+        "title": "Konstantinteich",
+        "rating": 4.6,
+        "address": "1020 Vienna, Austria",
+        "latitude": 48.2105721,
+        "longitude": 16.4022886
+    },
+    {
+        "category": "lakes",
+        "title": "Asperner See",
+        "rating": 4.3,
+        "address": "1220 Vienna, Austria",
+        "latitude": 48.2277444,
+        "longitude": 16.5066593
+    },
+    {
+        "category": "lakes",
+        "title": "Wienerwaldsee",
+        "rating": 4.3,
+        "address": "Austria",
+        "latitude": 48.181428,
+        "longitude": 16.117558199999998
+    },
+    {
+        "category": "lakes",
+        "title": "Najadenbassin",
+        "rating": 4.7,
+        "address": "1130 Vienna, Austria",
+        "latitude": 48.1823009,
+        "longitude": 16.3142037
+    },
+    {
+        "category": "lakes",
+        "title": "Schwanensee",
+        "rating": 4.7,
+        "address": "1100 Vienna, Austria",
+        "latitude": 48.1497203,
+        "longitude": 16.4001195
+    },
+    {
+        "category": "lakes",
+        "title": "Russwasser",
+        "rating": 4.6,
+        "address": "1220 Vienna, Austria",
+        "latitude": 48.256194199999996,
+        "longitude": 16.5087214
+    },
+    {
+        "category": "beaches",
+        "title": "Pirates Cove",
+        "rating": 4.5,
+        "address": "1220 Wien, Austria",
+        "latitude": 48.215981899999996,
+        "longitude": 16.432603399999998
+    },
+    {
+        "category": "beaches",
+        "title": "Donau beach",
+        "rating": 4.6,
+        "address": "Unnamed Road, 1220 Wien, Austria",
+        "latitude": 48.229270199999995,
+        "longitude": 16.4128357
+    },
+    {
+        "category": "beaches",
+        "title": "Public Beach - Badestrand",
+        "rating": 4.5,
+        "address": "Finsterbuschstraße, Neue Donau km 3,6, 1220 Wien, Austria",
+        "latitude": 48.1741937,
+        "longitude": 16.4953295
+    },
+    {
+        "category": "beaches",
+        "title": "Strombucht",
+        "rating": 4.5,
+        "address": "Dampfschiffhaufen 10, 1220 Wien, Austria",
+        "latitude": 48.2204578,
+        "longitude": 16.430891199999998
+    },
+    {
+        "category": "beaches",
+        "title": "Strandbad Gänsehäufel",
+        "rating": 4.6,
+        "address": "Moissigasse 21, 1220 Wien, Austria",
+        "latitude": 48.2284996,
+        "longitude": 16.429242
+    },
+    {
+        "category": "beaches",
+        "title": "Vienna City Beach Club",
+        "rating": 4.4,
+        "address": "Am Kaisermühlendamm 106, 1220 Wien, Austria",
+        "latitude": 48.2176161,
+        "longitude": 16.429069
+    },
+    {
+        "category": "swimming pools",
+        "title": "Stadthallenbad",
+        "rating": 4.2,
+        "address": "Hütteldorfer Str. 2H, 1150 Wien, Austria",
+        "latitude": 48.2007804,
+        "longitude": 16.3319892
+    },
+    {
+        "category": "swimming pools",
+        "title": "Amalienbad",
+        "rating": 3.9,
+        "address": "Reumannpl. 23, 1100 Wien, Austria",
+        "latitude": 48.1742931,
+        "longitude": 16.378948599999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Theresienbad",
+        "rating": 3.9,
+        "address": "Hufelandgasse 3, 1120 Wien, Austria",
+        "latitude": 48.181738599999996,
+        "longitude": 16.3280577
+    },
+    {
+        "category": "swimming pools",
+        "title": "Jörgerbad",
+        "rating": 4.1,
+        "address": "Jörgerstraße 42-44, 1170 Wien, Austria",
+        "latitude": 48.2180849,
+        "longitude": 16.335208299999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hütteldorfer Bad",
+        "rating": 4,
+        "address": "Linzer Str. 376, 1140 Wien, Austria",
+        "latitude": 48.2029134,
+        "longitude": 16.2644531
+    },
+    {
+        "category": "swimming pools",
+        "title": "Ottakringer Bad",
+        "rating": 4,
+        "address": "Johann-Staud-Straße 11, 1160 Wien, Austria",
+        "latitude": 48.2123049,
+        "longitude": 16.2906832
+    },
+    {
+        "category": "swimming pools",
+        "title": "Großfeldsiedlungsbad",
+        "rating": 3.9,
+        "address": "Oswald Redlich Str. 44, 1210 Wien, Austria",
+        "latitude": 48.2741428,
+        "longitude": 16.448543
+    },
+    {
+        "category": "swimming pools",
+        "title": "Badeschiff Wien",
+        "rating": 4.2,
+        "address": "Wolfgang-Schmitz-Promenade, 1010 Wien, Austria",
+        "latitude": 48.2117934,
+        "longitude": 16.3811212
+    },
+    {
+        "category": "swimming pools",
+        "title": "Donaustädter Bad",
+        "rating": 3.9,
+        "address": "Portnergasse 38, 1220 Wien, Austria",
+        "latitude": 48.242736099999995,
+        "longitude": 16.443241699999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Simmeringer Bad",
+        "rating": 4.1,
+        "address": "Florian-Hedorfer-Straße 5, 1110 Wien, Austria",
+        "latitude": 48.163401799999995,
+        "longitude": 16.4294094
+    },
+    {
+        "category": "swimming pools",
+        "title": "RUSH Swimming",
+        "rating": 4.6,
+        "address": "Vally-Weigl-Gasse 1/Stiege 2, 1100 Wien, Austria",
+        "latitude": 48.1811471,
+        "longitude": 16.3803713
+    },
+    {
+        "category": "swimming pools",
+        "title": "Badestelle Donau-Oder-Kanal",
+        "rating": 4.5,
+        "address": "1220 Wien, Austria",
+        "latitude": 48.175054599999996,
+        "longitude": 16.5293325
+    },
+    {
+        "category": "swimming pools",
+        "title": "Vienna Aquatic Schwimmclub",
+        "rating": 4.8,
+        "address": "Klosterneuburger Str. 93-97, 1200 Wien, Austria",
+        "latitude": 48.2356312,
+        "longitude": 16.3650202
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hietzinger Bad",
+        "rating": 4,
+        "address": "Atzgersdorfer Str. 14, 1130 Wien, Austria",
+        "latitude": 48.168942799999996,
+        "longitude": 16.294310199999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Brigittenauer Bad",
+        "rating": 4,
+        "address": "Klosterneuburger Str. 93-97, 1200 Wien, Austria",
+        "latitude": 48.235558999999995,
+        "longitude": 16.3649696
+    },
+    {
+        "category": "swimming pools",
+        "title": "Apostelbad",
+        "rating": 4.2,
+        "address": "Apostelgasse 18, 1030 Wien, Austria",
+        "latitude": 48.198937699999995,
+        "longitude": 16.3965627
+    },
+    {
+        "category": "swimming pools",
+        "title": "Floridsdorfer Bad",
+        "rating": 4.1,
+        "address": "Franklinstraße 22, 1210 Wien, Austria",
+        "latitude": 48.2544554,
+        "longitude": 16.402453899999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hermannbad",
+        "rating": 4.2,
+        "address": "Hermanngasse 28, 1070 Wien, Austria",
+        "latitude": 48.2029383,
+        "longitude": 16.347341699999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Strandbad Wiener Linien",
+        "rating": 4.3,
+        "address": "Dampfschiffhaufen 7, 1220 Wien, Austria",
+        "latitude": 48.222276199999996,
+        "longitude": 16.4312769
+    },
+    {
+        "category": "swimming pools",
+        "title": "Familienbad Einsiedlerplatz und Saunabad Einsiedlerbad",
+        "rating": 3.9,
+        "address": "Einsiedlerpl. 18, 1050 Wien, Austria",
+        "latitude": 48.185684699999996,
+        "longitude": 16.3494972
+    },
+    {
+        "category": "resorts",
+        "title": "Le Méridien Vienna",
+        "rating": 4.4,
+        "address": "Robert-Stolz-Platz 1, 1010 Wien, Austria",
+        "latitude": 48.2026298,
+        "longitude": 16.3659918
+    },
+    {
+        "category": "resorts",
+        "title": "Anantara Palais Hansen Vienna Hotel",
+        "rating": 4.6,
+        "address": "Schottenring 24/1010, 1010 Wien, Austria",
+        "latitude": 48.2164302,
+        "longitude": 16.3687977
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Imperial, a Luxury Collection Hotel, Vienna",
+        "rating": 4.7,
+        "address": "Kärntner Ring 16, 1015 Wien, Austria",
+        "latitude": 48.20111,
+        "longitude": 16.3728713
+    },
+    {
+        "category": "resorts",
+        "title": "Park Hyatt Vienna",
+        "rating": 4.7,
+        "address": "Am Hof 2, 1010 Wien, Austria",
+        "latitude": 48.210524299999996,
+        "longitude": 16.3683592
+    },
+    {
+        "category": "resorts",
+        "title": "The Ritz-Carlton, Vienna",
+        "rating": 4.6,
+        "address": "Schubertring 5-7, 1010 Wien, Austria",
+        "latitude": 48.2021957,
+        "longitude": 16.3763532
+    },
+    {
+        "category": "resorts",
+        "title": "Andaz Vienna Am Belvedere, by Hyatt",
+        "rating": 4.6,
+        "address": "Arsenalstraße 10, 1100 Wien, Austria",
+        "latitude": 48.185270499999994,
+        "longitude": 16.3833476
+    },
+    {
+        "category": "resorts",
+        "title": "The Amauris Vienna - Relais & Châteaux",
+        "rating": 4.8,
+        "address": "Kärntner Ring 8, 1010 Wien, Austria",
+        "latitude": 48.201709,
+        "longitude": 16.3710315
+    },
+    {
+        "category": "resorts",
+        "title": "The Leo Grand",
+        "rating": 4.8,
+        "address": "1, Bauernmarkt 1010, 1010 Wien, Austria",
+        "latitude": 48.209446899999996,
+        "longitude": 16.3710959
+    },
+    {
+        "category": "resorts",
+        "title": "Grand Hotel Wien",
+        "rating": 4.6,
+        "address": "Kärntner Ring 9, 1010 Wien, Austria",
+        "latitude": 48.202180299999995,
+        "longitude": 16.3720699
+    },
+    {
+        "category": "resorts",
+        "title": "O11 Boutique Hotel Vienna",
+        "rating": 4.5,
+        "address": "Opernring 11, 1010 Wien, Austria",
+        "latitude": 48.202541,
+        "longitude": 16.3669615
+    },
+    {
+        "category": "resorts",
+        "title": "Imperial Riding School Renaissance Vienna Hotel",
+        "rating": 4.2,
+        "address": "Ungargasse 60, 1030 Wien, Austria",
+        "latitude": 48.197137999999995,
+        "longitude": 16.386395699999998
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Grand Ferdinand Wien",
+        "rating": 4.3,
+        "address": "Schubertring 10-12, 1010 Wien, Austria",
+        "latitude": 48.202242,
+        "longitude": 16.3749339
+    },
+    {
+        "category": "resorts",
+        "title": "Small Luxury Hotel Das Tyrol",
+        "rating": 4.8,
+        "address": "Mariahilfer Str. 15, 1060 Wien, Austria",
+        "latitude": 48.200945399999995,
+        "longitude": 16.3593093
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Sans Souci Wien",
+        "rating": 4.8,
+        "address": "Burggasse 2, 1070 Wien, Austria",
+        "latitude": 48.204720099999996,
+        "longitude": 16.356524699999998
+    },
+    {
+        "category": "resorts",
+        "title": "Altstadt Vienna, an SLH Hotel",
+        "rating": 4.7,
+        "address": "Kirchengasse 41, 1070 Wien, Austria",
+        "latitude": 48.2048789,
+        "longitude": 16.3514589
+    },
+    {
+        "category": "resorts",
+        "title": "Schlosshotel Römischer Kaiser",
+        "rating": 4.5,
+        "address": "Annagasse 16, 1010 Wien, Austria",
+        "latitude": 48.2040754,
+        "longitude": 16.3724195
+    },
+    {
+        "category": "resorts",
+        "title": "Do&Co Hotel Vienna",
+        "rating": 4.3,
+        "address": "Stephansplatz 12, 1010 Wien, Austria",
+        "latitude": 48.208366999999996,
+        "longitude": 16.3718471
+    },
+    {
+        "category": "resorts",
+        "title": "Steigenberger Hotel Herrenhof, Wien",
+        "rating": 4.5,
+        "address": "Herrengasse 10, 1010 Wien, Austria",
+        "latitude": 48.2097951,
+        "longitude": 16.3658912
+    },
+    {
+        "category": "resorts",
+        "title": "voco Vienna Prater by IHG",
+        "rating": 4.4,
+        "address": "Engerthstr. 173/175, 1020 Wien, Austria",
+        "latitude": 48.2272648,
+        "longitude": 16.4002919
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Topazz Lamee",
+        "rating": 4.4,
+        "address": "Lichtensteg 2/3, 1010 Wien, Austria",
+        "latitude": 48.2103286,
+        "longitude": 16.373635699999998
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Neue Donau",
+        "rating": 3.7,
+        "address": "Am Kaisermühlendamm 123, 1220 Wien, Austria",
+        "latitude": 48.208556099999996,
+        "longitude": 16.4470492
+    },
+    {
+        "category": "camping sites",
+        "title": "Donaupark Camping Klosterneuburg",
+        "rating": 4.3,
+        "address": "In der Au 1, 3400 Klosterneuburg, Austria",
+        "latitude": 48.3109134,
+        "longitude": 16.3275068
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Wien West",
+        "rating": 3.8,
+        "address": "Hüttelbergstraße 80, 1140 Wien, Austria",
+        "latitude": 48.2139455,
+        "longitude": 16.2505381
+    },
+    {
+        "category": "camping sites",
+        "title": "Motorhome - parking space Vienna",
+        "rating": 4.4,
+        "address": "Perfektastraße 49, 1230 Wien, Austria",
+        "latitude": 48.1367982,
+        "longitude": 16.315922
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Wien Süd",
+        "rating": 3.6,
+        "address": "Breitenfurter Str. 269-279, 1230 Wien, Austria",
+        "latitude": 48.149488,
+        "longitude": 16.300781
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Wienerwald",
+        "rating": 4.4,
+        "address": "Leopoldigasse 2, 2392 Sulz im Wienerwald, Austria",
+        "latitude": 48.104966399999995,
+        "longitude": 16.1339604
+    },
+    {
+        "category": "hiking trails",
+        "title": "Stadtwanderweg 9",
+        "rating": 4.8,
+        "address": "Meiereistraße 136, 1020 Wien, Austria",
+        "latitude": 48.2068258,
+        "longitude": 16.4146756
+    },
+    {
+        "category": "hiking trails",
+        "title": "Stadtwanderweg 2",
+        "rating": 4.7,
+        "address": "Sieveringer Str. 219/217, 1190 Wien, Austria",
+        "latitude": 48.2545013,
+        "longitude": 16.316765699999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Einstieg Nasenweg",
+        "rating": 4.7,
+        "address": "Bloschgasse 13-15, 1190 Wien, Austria",
+        "latitude": 48.2756441,
+        "longitude": 16.355075199999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Stadtwanderweg 1",
+        "rating": 4.7,
+        "address": "Zahnradbahnstraße, 1190 Wien, Austria",
+        "latitude": 48.2596698,
+        "longitude": 16.3620913
+    },
+    {
+        "category": "hiking trails",
+        "title": "Schwarzenbergpark",
+        "rating": 4.7,
+        "address": "Neuwaldegger Str., 1170 Wien, Austria",
+        "latitude": 48.245044799999995,
+        "longitude": 16.2745651
+    },
+    {
+        "category": "hiking trails",
+        "title": "Cobenzl Aussicht",
+        "rating": 4.7,
+        "address": "Am Cobenzl 94, 1190 Wien, Austria",
+        "latitude": 48.263345699999995,
+        "longitude": 16.3222199
+    },
+    {
+        "category": "hiking trails",
+        "title": "Stadtwanderweg 5",
+        "rating": 4.7,
+        "address": "Brünner Str. neben, 1210 Wien, Austria",
+        "latitude": 48.2980045,
+        "longitude": 16.4206398
+    },
+    {
+        "category": "hiking trails",
+        "title": "Lobau Nature Reserve",
+        "rating": 4.8,
+        "address": "Lobau, 1220 Wien, Austria",
+        "latitude": 48.1886927,
+        "longitude": 16.5126584
+    },
+    {
+        "category": "hiking trails",
+        "title": "Aussichtspunkt Nasenweg",
+        "rating": 4.7,
+        "address": "Heiligenstädter Str. 359, 1190 Wien, Austria",
+        "latitude": 48.277152099999995,
+        "longitude": 16.351145499999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Am Himmel",
+        "rating": 4.6,
+        "address": "Himmelstraße 125, 1190 Wien, Austria",
+        "latitude": 48.263231999999995,
+        "longitude": 16.312189999999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ottakringer Wald",
+        "rating": 4.6,
+        "address": "Unnamed Road, Wien, Austria",
+        "latitude": 48.223853,
+        "longitude": 16.272353
+    },
+    {
+        "category": "hiking trails",
+        "title": "Naturpark Föhrenberge",
+        "rating": 4.7,
+        "address": "Austria",
+        "latitude": 48.092841799999995,
+        "longitude": 16.2136422
+    },
+    {
+        "category": "hiking trails",
+        "title": "Kreuzeichenwiese",
+        "rating": 4.6,
+        "address": "1170 Wien, Austria",
+        "latitude": 48.2254065,
+        "longitude": 16.2713921
+    },
+    {
+        "category": "hiking trails",
+        "title": "Stadtwanderweg 8",
+        "rating": 4.7,
+        "address": "Mauerbachstraße 47, 1140 Wien, Austria",
+        "latitude": 48.2246423,
+        "longitude": 16.2099392
+    },
+    {
+        "category": "hiking trails",
+        "title": "Maurerwald",
+        "rating": 4.7,
+        "address": "1230 Wien, Austria",
+        "latitude": 48.149418499999996,
+        "longitude": 16.2482026
+    },
+    {
+        "category": "hiking trails",
+        "title": "Promenade Hörndlwald",
+        "rating": 4.6,
+        "address": "Sp-Hörndlwald 337, 1130 Wien, Austria",
+        "latitude": 48.1714209,
+        "longitude": 16.265235
+    },
+    {
+        "category": "hiking trails",
+        "title": "Stadtwanderweg 3",
+        "rating": 4.7,
+        "address": "Waldegghofgasse, 1170 Wien, Austria",
+        "latitude": 48.2336044,
+        "longitude": 16.2913188
+    },
+    {
+        "category": "hiking trails",
+        "title": "Nationalpark Donau-Auen - Eingang Wien-Lobau",
+        "rating": 4.7,
+        "address": "Dechantweg 10, 1220 Wien, Austria",
+        "latitude": 48.194417099999995,
+        "longitude": 16.468985
+    },
+    {
+        "category": "hiking trails",
+        "title": "Waldgebiet",
+        "rating": 4.9,
+        "address": "Höhenstraße 214, 1170 Wien, Austria",
+        "latitude": 48.256131499999995,
+        "longitude": 16.275648699999998
+    },
+    {
+        "category": "hiking trails",
+        "title": "Lainzer Tiergarten - Gütenbachtor",
+        "rating": 4.7,
+        "address": "Gütenbachstraße, 1230 Wien, Austria",
+        "latitude": 48.153252699999996,
+        "longitude": 16.2225218
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Belvedere-Schlossgarten",
+        "rating": 4.7,
+        "address": "Prinz-Eugen-Straße 27, 1030 Wien, Austria",
+        "latitude": 48.1925403,
+        "longitude": 16.3807188
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Lobau Nature Reserve",
+        "rating": 4.8,
+        "address": "Lobau, 1220 Wien, Austria",
+        "latitude": 48.1886927,
+        "longitude": 16.5126584
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Museum of Natural History Vienna",
+        "rating": 4.8,
+        "address": "Burgring 7, 1010 Wien, Austria",
+        "latitude": 48.205211999999996,
+        "longitude": 16.359845099999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Lainzer Tiergarten",
+        "rating": 4.7,
+        "address": "Lainzer Tor, 1130 Wien, Austria",
+        "latitude": 48.1696965,
+        "longitude": 16.2205256
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Volksgarten",
+        "rating": 4.6,
+        "address": "1010 Wien, Austria",
+        "latitude": 48.2080439,
+        "longitude": 16.3613967
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Schönbrunn Palace Park",
+        "rating": 4.8,
+        "address": "Schönbrunner Schloßstraße 47, 1130 Wien, Austria",
+        "latitude": 48.1802626,
+        "longitude": 16.3098086
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Burggarten",
+        "rating": 4.7,
+        "address": "Josefsplatz 1, 1010 Wien, Austria",
+        "latitude": 48.204338199999995,
+        "longitude": 16.3658336
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Prater",
+        "rating": 4.5,
+        "address": "1020 Wien, Austria",
+        "latitude": 48.2154648,
+        "longitude": 16.4001739
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Myra Waterfalls",
+        "rating": 4.7,
+        "address": "Myrafälle 1, 2763 Muggendorf, Austria",
+        "latitude": 47.9138125,
+        "longitude": 15.9351542
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Stadtpark",
+        "rating": 4.6,
+        "address": "Parkring 1, 1010 Wien, Austria",
+        "latitude": 48.204733499999996,
+        "longitude": 16.3796601
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Hofburg",
+        "rating": 4.7,
+        "address": "1010 Wien, Austria",
+        "latitude": 48.2056578,
+        "longitude": 16.3647803
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Waldseilpark Kahlenberg",
+        "rating": 4.7,
+        "address": "Josefsdorf 47, 1190 Wien, Austria",
+        "latitude": 48.2806175,
+        "longitude": 16.3340629
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Schönbrunn Palace",
+        "rating": 4.7,
+        "address": "Schönbrunner Schloßstraße 47, 1130 Wien, Austria",
+        "latitude": 48.185812399999996,
+        "longitude": 16.312763999999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Kurpark Oberlaa",
+        "rating": 4.7,
+        "address": "Laaer-Berg-Straße, 1100 Wien, Austria",
+        "latitude": 48.148622499999995,
+        "longitude": 16.399745799999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Tourist-Info Wien",
+        "rating": 4.2,
+        "address": "Albertinapl. 1, 1010 Wien, Austria",
+        "latitude": 48.2045034,
+        "longitude": 16.3693916
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Imperial Treasury",
+        "rating": 4.6,
+        "address": "Schweizerhof, Hofburg, 1010 Wien, Austria",
+        "latitude": 48.206739299999995,
+        "longitude": 16.365773
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Kunst Haus Wien. Museum Hundertwasser",
+        "rating": 4.6,
+        "address": "Untere Weißgerberstraße 13, 1030 Wien, Austria",
+        "latitude": 48.211076,
+        "longitude": 16.3932861
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "VPG Vienna PASS GmbH",
+        "rating": 4,
+        "address": "Opernring 3-5 17/24, 1010 Wien, Austria",
+        "latitude": 48.2024031,
+        "longitude": 16.368078399999998
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Nationalparkboot",
+        "rating": 3.9,
+        "address": "Franz-Josefs-Kai 45, 1010 Wien, Austria",
+        "latitude": 48.214928799999996,
+        "longitude": 16.3722726
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "State Hall",
+        "rating": 4.7,
+        "address": "Josefsplatz 1, 1010 Wien, Austria",
+        "latitude": 48.206240799999996,
+        "longitude": 16.3666822
+    },
+    {
+        "category": "temples",
+        "title": "Shaolin Temple",
+        "rating": 4.6,
+        "address": "Bacherpl. 10/3a, 1050 Wien, Austria",
+        "latitude": 48.187934899999995,
+        "longitude": 16.354628299999998
+    },
+    {
+        "category": "temples",
+        "title": "Hindu Mandir Association",
+        "rating": 4.5,
+        "address": "Lammgasse 1, 1080 Wien, Austria",
+        "latitude": 48.212153199999996,
+        "longitude": 16.3519555
+    },
+    {
+        "category": "temples",
+        "title": "Stadttempel",
+        "rating": 4.5,
+        "address": "Seitenstettengasse 4, 1010 Wien, Austria",
+        "latitude": 48.211666699999995,
+        "longitude": 16.3747222
+    },
+    {
+        "category": "temples",
+        "title": "Vienna Peace Pagoda",
+        "rating": 4.7,
+        "address": "Hafenzufahrtsstraße F, 1020 Wien, Austria",
+        "latitude": 48.1911785,
+        "longitude": 16.4547998
+    },
+    {
+        "category": "temples",
+        "title": "Fo Guang Shan Wien Tempel",
+        "rating": 4.6,
+        "address": "Sechshauser Str. 50, 1150 Wien, Austria",
+        "latitude": 48.1877192,
+        "longitude": 16.3312937
+    },
+    {
+        "category": "temples",
+        "title": "Hindu Mandir Vienna",
+        "rating": 5,
+        "address": "Josef-Ruston-Gasse 31, 1210 Wien, Austria",
+        "latitude": 48.259287699999994,
+        "longitude": 16.3838596
+    },
+    {
+        "category": "temples",
+        "title": "Sanatan Dharma Mandir",
+        "rating": 5,
+        "address": "Herbststraße 47/1-5, Ground Floor, 1160 Wien, Austria",
+        "latitude": 48.2062509,
+        "longitude": 16.3272265
+    },
+    {
+        "category": "temples",
+        "title": "Shri Guru Ravidass Temple Vienna",
+        "rating": 4.9,
+        "address": "Pelzgasse 17, 1150 Wien, Austria",
+        "latitude": 48.1996465,
+        "longitude": 16.3353394
+    },
+    {
+        "category": "temples",
+        "title": "Vedisches Zentrum ISKCON Wien",
+        "rating": 4.9,
+        "address": "Loquaipl. 2, 1060 Wien, Austria",
+        "latitude": 48.1945189,
+        "longitude": 16.3484698
+    },
+    {
+        "category": "temples",
+        "title": "St. Stephen's Cathedral",
+        "rating": 4.7,
+        "address": "Stephansplatz 3, 1010 Wien, Austria",
+        "latitude": 48.208411399999996,
+        "longitude": 16.3734707
+    },
+    {
+        "category": "temples",
+        "title": "AISÖ",
+        "rating": 5,
+        "address": "Wiedner Hauptstraße 68, 1040 Wien, Austria",
+        "latitude": 48.1901684,
+        "longitude": 16.365844199999998
+    },
+    {
+        "category": "temples",
+        "title": "Sikh Temple",
+        "rating": 5,
+        "address": "Langobardenstraße 40-44, 1220 Wien, Austria",
+        "latitude": 48.222812399999995,
+        "longitude": 16.457323499999998
+    },
+    {
+        "category": "temples",
+        "title": "Vienna Austria Temple",
+        "rating": 4.5,
+        "address": "Silbergasse 2, 1190 Wien, Austria",
+        "latitude": 48.2429548,
+        "longitude": 16.349150599999998
+    },
+    {
+        "category": "museums",
+        "title": "Kunsthistorisches Museum Wien",
+        "rating": 4.8,
+        "address": "Maria-Theresien-Platz, 1010 Wien, Austria",
+        "latitude": 48.2038016,
+        "longitude": 16.3617874
+    },
+    {
+        "category": "museums",
+        "title": "Wien Museum Karlsplatz",
+        "rating": 4.7,
+        "address": "Karlsplatz 8, 1040 Wien, Austria",
+        "latitude": 48.199436999999996,
+        "longitude": 16.37296
+    },
+    {
+        "category": "museums",
+        "title": "Albertina",
+        "rating": 4.7,
+        "address": "Albertinapl. 1, 1010 Wien, Austria",
+        "latitude": 48.2046992,
+        "longitude": 16.3681824
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Applied Arts",
+        "rating": 4.5,
+        "address": "Stubenring 5, 1010 Wien, Austria",
+        "latitude": 48.207614799999995,
+        "longitude": 16.381547599999998
+    },
+    {
+        "category": "museums",
+        "title": "Kunst Haus Wien. Museum Hundertwasser",
+        "rating": 4.6,
+        "address": "Untere Weißgerberstraße 13, 1030 Wien, Austria",
+        "latitude": 48.211076,
+        "longitude": 16.3932861
+    },
+    {
+        "category": "museums",
+        "title": "House of Music",
+        "rating": 4.6,
+        "address": "Seilerstätte 30, 1010 Wien, Austria",
+        "latitude": 48.203874299999995,
+        "longitude": 16.3730462
+    },
+    {
+        "category": "museums",
+        "title": "Hofburg",
+        "rating": 4.7,
+        "address": "1010 Wien, Austria",
+        "latitude": 48.2056578,
+        "longitude": 16.3647803
+    },
+    {
+        "category": "museums",
+        "title": "Wien Museum Mozart apartment",
+        "rating": 4,
+        "address": "Mozarthaus, Domgasse 5, 1010 Wien, Austria",
+        "latitude": 48.2081643,
+        "longitude": 16.3749633
+    },
+    {
+        "category": "museums",
+        "title": "Vienna Museum of Science & Technology",
+        "rating": 4.7,
+        "address": "Mariahilfer Str. 212, 1140 Wien, Austria",
+        "latitude": 48.1906371,
+        "longitude": 16.317878999999998
+    },
+    {
+        "category": "museums",
+        "title": "Ernst Fuchs-Museum (Otto-Wagner-Villa)",
+        "rating": 4.6,
+        "address": "Hüttelbergstraße 26, 1140 Wien, Austria",
+        "latitude": 48.2098468,
+        "longitude": 16.255847
+    },
+    {
+        "category": "museums",
+        "title": "Wien Museum Beethoven Museum",
+        "rating": 4.6,
+        "address": "Probusgasse 6, 1190 Wien, Austria",
+        "latitude": 48.2548478,
+        "longitude": 16.3561609
+    },
+    {
+        "category": "museums",
+        "title": "Leopold Museum",
+        "rating": 4.7,
+        "address": "Museumsplatz 1, 1070 Wien, Austria",
+        "latitude": 48.2026499,
+        "longitude": 16.3591421
+    },
+    {
+        "category": "museums",
+        "title": "Belvedere Palace",
+        "rating": 4.7,
+        "address": "1030 Wien, Austria",
+        "latitude": 48.1914751,
+        "longitude": 16.3809322
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Military History",
+        "rating": 4.6,
+        "address": "Arsenal 1, 1030 Wien, Austria",
+        "latitude": 48.1842718,
+        "longitude": 16.388935699999998
+    },
+    {
+        "category": "museums",
+        "title": "Jewish Museum of the City of Vienna",
+        "rating": 4.4,
+        "address": "Dorotheergasse 11, 1010 Wien, Austria",
+        "latitude": 48.2072113,
+        "longitude": 16.3694568
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Natural History Vienna",
+        "rating": 4.8,
+        "address": "Burgring 7, 1010 Wien, Austria",
+        "latitude": 48.205211999999996,
+        "longitude": 16.359845099999998
+    },
+    {
+        "category": "museums",
+        "title": "Austrian National Library",
+        "rating": 4.5,
+        "address": "Josefsplatz 1, 1015 Wien, Austria",
+        "latitude": 48.2062609,
+        "longitude": 16.3668953
+    },
+    {
+        "category": "museums",
+        "title": "Austrian Gallery Belvedere",
+        "rating": 4.7,
+        "address": "Prinz-Eugen-Straße 27, 1030 Wien, Austria",
+        "latitude": 48.191530799999995,
+        "longitude": 16.380914
+    },
+    {
+        "category": "museums",
+        "title": "mumok - Museum moderner Kunst Stiftung Ludwig Wien",
+        "rating": 4,
+        "address": "Museumsplatz 1, 1070 Wien, Austria",
+        "latitude": 48.2037823,
+        "longitude": 16.3578331
+    },
+    {
+        "category": "museums",
+        "title": "Secession",
+        "rating": 4.2,
+        "address": "Friedrichstraße 12, 1010 Wien, Austria",
+        "latitude": 48.2005106,
+        "longitude": 16.3657857
+    },
+    {
+        "category": "night markets",
+        "title": "Brunnenmarkt",
+        "rating": 4.4,
+        "address": "Brunnengasse 16, 1160 Wien, Austria",
+        "latitude": 48.212317299999995,
+        "longitude": 16.3362901
+    },
+    {
+        "category": "night markets",
+        "title": "Snacki | 24/7 Automatenshop",
+        "rating": 5,
+        "address": "Barawitzkagasse 3, 1190 Wien, Austria",
+        "latitude": 48.2446961,
+        "longitude": 16.356494899999998
+    },
+    {
+        "category": "night markets",
+        "title": "Naschmarkt",
+        "rating": 3.6,
+        "address": "Technical university Vienna, Mariedlgasse, 1060 Wien, Austria",
+        "latitude": 48.198301699999995,
+        "longitude": 16.3627204
+    },
+    {
+        "category": "night markets",
+        "title": "Kettenbrückengasse flea market",
+        "rating": 4.2,
+        "address": "Kettenbrückengasse 5, 1050 Wien, Austria",
+        "latitude": 48.19679,
+        "longitude": 16.3585775
+    },
+    {
+        "category": "night markets",
+        "title": "Kutschkermarkt",
+        "rating": 4.5,
+        "address": "Kutschkergasse, 1180 Wien, Austria",
+        "latitude": 48.225035999999996,
+        "longitude": 16.3445443
+    },
+    {
+        "category": "night markets",
+        "title": "Karmelitermarket",
+        "rating": 4.4,
+        "address": "Karmelitermarkt 21, 1020 Wien, Austria",
+        "latitude": 48.2173387,
+        "longitude": 16.3769524
+    },
+    {
+        "category": "night markets",
+        "title": "Studio Am Tabor 15B",
+        "rating": null,
+        "address": "Am Tabor 15, 1020 Wien, Austria",
+        "latitude": 48.2241718,
+        "longitude": 16.3885064
+    },
+    {
+        "category": "night markets",
+        "title": "24/7 Automaten -ByProjekt Shop 1030",
+        "rating": 4.1,
+        "address": "Löwengasse 42, 1030 Wien, Austria",
+        "latitude": 48.206066799999995,
+        "longitude": 16.394253499999998
+    },
+    {
+        "category": "night markets",
+        "title": "Alladean - Immer für Deine Wünsche offen 24/7",
+        "rating": 4,
+        "address": "Geiselbergstraße 28, 1110 Wien, Austria",
+        "latitude": 48.174783299999994,
+        "longitude": 16.401776899999998
+    },
+    {
+        "category": "night markets",
+        "title": "Riesenflohmarkt Wienerberg",
+        "rating": 3.9,
+        "address": "Wienerbergstraße 27a, 1100 Wien, Austria",
+        "latitude": 48.1703501,
+        "longitude": 16.3392995
+    },
+    {
+        "category": "night markets",
+        "title": "Getränkeautomat",
+        "rating": 4.3,
+        "address": "U2 Stadion, Hardeggasse 55, 1220 Wien, Austria",
+        "latitude": 48.2208489,
+        "longitude": 16.45777
+    },
+    {
+        "category": "night markets",
+        "title": "Grelle Forelle",
+        "rating": 3.8,
+        "address": "Spittelauer Lände 12, 1090 Wien, Austria",
+        "latitude": 48.2342754,
+        "longitude": 16.3608934
+    },
+    {
+        "category": "night markets",
+        "title": "Viennese Giant Ferris Wheel",
+        "rating": 4.5,
+        "address": "Gaudeegasse 1, 1020 Wien, Austria",
+        "latitude": 48.2166995,
+        "longitude": 16.3959008
+    },
+    {
+        "category": "night markets",
+        "title": "Prater",
+        "rating": 4.5,
+        "address": "1020 Wien, Austria",
+        "latitude": 48.2154648,
+        "longitude": 16.4001739
+    },
+    {
+        "category": "night markets",
+        "title": "Cabaret Fledermaus",
+        "rating": 4.2,
+        "address": "Spiegelgasse 2, 1010 Wien, Austria",
+        "latitude": 48.207845299999995,
+        "longitude": 16.370368199999998
+    },
+    {
+        "category": "night markets",
+        "title": "MuseumsQuartier Wien",
+        "rating": 4.6,
+        "address": "1070 Wien, Austria",
+        "latitude": 48.2033369,
+        "longitude": 16.358616599999998
+    },
+    {
+        "category": "night markets",
+        "title": "Alladean - Immer für Deine Wünsche offen 24/7",
+        "rating": 3.6,
+        "address": "Judengasse 1A, 1010 Wien, Austria",
+        "latitude": 48.211264299999996,
+        "longitude": 16.3732509
+    },
+    {
+        "category": "night markets",
+        "title": "24/7 Automaten - ByProjekt Shop 1100",
+        "rating": 4.7,
+        "address": "Waldgasse 32, 1100 Wien, Austria",
+        "latitude": 48.1749125,
+        "longitude": 16.381308699999998
+    },
+    {
+        "category": "night markets",
+        "title": "Vending MTP 24/7 Automatenshop - Getränke, Snacks, Süßigkeiten, Hygieneartikel, CBD und Raucherzubehör",
+        "rating": 4.5,
+        "address": "Blumauergasse 25/6, 1020 Wien, Austria",
+        "latitude": 48.218239499999996,
+        "longitude": 16.385871599999998
+    },
+    {
+        "category": "night markets",
+        "title": "Black Market",
+        "rating": 3.9,
+        "address": "21, Heiligenstädter Lände 21, 1190 Wien, Austria",
+        "latitude": 48.2401646,
+        "longitude": 16.3633174
+    },
+    {
+        "category": "viewpoints",
+        "title": "Belvedere-Schlossgarten",
+        "rating": 4.7,
+        "address": "Prinz-Eugen-Straße 27, 1030 Wien, Austria",
+        "latitude": 48.1925403,
+        "longitude": 16.3807188
+    },
+    {
+        "category": "viewpoints",
+        "title": "Wien River Viewpoint",
+        "rating": 4.1,
+        "address": "1020 Wien, Austria",
+        "latitude": 48.2134694,
+        "longitude": 16.3912712
+    },
+    {
+        "category": "viewpoints",
+        "title": "Danube Tower",
+        "rating": 4.6,
+        "address": "Donauturmplatz 1, 1220 Wien, Austria",
+        "latitude": 48.2403397,
+        "longitude": 16.4100505
+    },
+    {
+        "category": "viewpoints",
+        "title": "Panoramic View",
+        "rating": 4.9,
+        "address": "Häuserl-am-Roan-Brücke 371, 1190 Wien, Austria",
+        "latitude": 48.2582872,
+        "longitude": 16.285892699999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Hochstrahlbrunnen",
+        "rating": 4.6,
+        "address": "Schwarzenbergpl., 1030 Wien, Austria",
+        "latitude": 48.1983806,
+        "longitude": 16.376122199999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Schönbrunn Palace Park",
+        "rating": 4.8,
+        "address": "Schönbrunner Schloßstraße 47, 1130 Wien, Austria",
+        "latitude": 48.1802626,
+        "longitude": 16.3098086
+    },
+    {
+        "category": "viewpoints",
+        "title": "Heldenplatz",
+        "rating": 4.7,
+        "address": "21/4, 1010 Wien, Austria",
+        "latitude": 48.2063576,
+        "longitude": 16.3631746
+    },
+    {
+        "category": "viewpoints",
+        "title": "Viennese Giant Ferris Wheel",
+        "rating": 4.5,
+        "address": "Gaudeegasse 1, 1020 Wien, Austria",
+        "latitude": 48.2166995,
+        "longitude": 16.3959008
+    },
+    {
+        "category": "viewpoints",
+        "title": "Volksgarten",
+        "rating": 4.6,
+        "address": "1010 Wien, Austria",
+        "latitude": 48.2080439,
+        "longitude": 16.3613967
+    },
+    {
+        "category": "viewpoints",
+        "title": "Aussichtsturm Paulinenwarte im Türkenschanzpark",
+        "rating": 4.5,
+        "address": "Feistmantelstraße 2, 1180 Wien, Austria",
+        "latitude": 48.235082,
+        "longitude": 16.3351903
+    },
+    {
+        "category": "viewpoints",
+        "title": "Jubiläumswarte",
+        "rating": 4.7,
+        "address": "Johann-Staud-Straße 80, 1160 Wien, Austria",
+        "latitude": 48.2212603,
+        "longitude": 16.2656575
+    },
+    {
+        "category": "viewpoints",
+        "title": "Photo Point Donauufer Wien",
+        "rating": 4.6,
+        "address": "Unnamed Road, 1020 Wien, Austria",
+        "latitude": 48.226165599999995,
+        "longitude": 16.4059749
+    },
+    {
+        "category": "viewpoints",
+        "title": "St. Stephen's Cathedral",
+        "rating": 4.7,
+        "address": "Stephansplatz 3, 1010 Wien, Austria",
+        "latitude": 48.208411399999996,
+        "longitude": 16.3734707
+    },
+    {
+        "category": "viewpoints",
+        "title": "Burggarten",
+        "rating": 4.7,
+        "address": "Josefsplatz 1, 1010 Wien, Austria",
+        "latitude": 48.204338199999995,
+        "longitude": 16.3658336
+    },
+    {
+        "category": "viewpoints",
+        "title": "Prater Turm",
+        "rating": 4.7,
+        "address": "Prater 59, 1010 Wien, Austria",
+        "latitude": 48.2145278,
+        "longitude": 16.401401
+    },
+    {
+        "category": "viewpoints",
+        "title": "Column of Pest",
+        "rating": 4.6,
+        "address": "Graben 28, 1010 Wien, Austria",
+        "latitude": 48.2087219,
+        "longitude": 16.369807299999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Aussichtspunkt Nasenweg",
+        "rating": 4.7,
+        "address": "Heiligenstädter Str. 359, 1190 Wien, Austria",
+        "latitude": 48.277152099999995,
+        "longitude": 16.351145499999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Augarten",
+        "rating": 4.6,
+        "address": "1020 Wien, Austria",
+        "latitude": 48.2261111,
+        "longitude": 16.3766669
+    },
+    {
+        "category": "viewpoints",
+        "title": "Millennium Tower",
+        "rating": 4.3,
+        "address": "Handelskai, 1200 Wien, Austria",
+        "latitude": 48.2404121,
+        "longitude": 16.3869491
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ankeruhr",
+        "rating": 4.4,
+        "address": "Hoher Markt 10-11, 1010 Wien, Austria",
+        "latitude": 48.210794899999996,
+        "longitude": 16.373668
+    },
+    {
+        "category": "gardens",
+        "title": "Belvedere-Schlossgarten",
+        "rating": 4.7,
+        "address": "Prinz-Eugen-Straße 27, 1030 Wien, Austria",
+        "latitude": 48.1925403,
+        "longitude": 16.3807188
+    },
+    {
+        "category": "gardens",
+        "title": "University of Vienna Botanical Garden",
+        "rating": 4.7,
+        "address": "Rennweg 14, 1030 Wien, Austria",
+        "latitude": 48.1916711,
+        "longitude": 16.3839679
+    },
+    {
+        "category": "gardens",
+        "title": "Swiss Garden",
+        "rating": 4.5,
+        "address": "Landgutgasse 1, 1100 Wien, Austria",
+        "latitude": 48.1872835,
+        "longitude": 16.3849795
+    },
+    {
+        "category": "gardens",
+        "title": "Schönbrunn Palace Park",
+        "rating": 4.8,
+        "address": "Schönbrunner Schloßstraße 47, 1130 Wien, Austria",
+        "latitude": 48.1802626,
+        "longitude": 16.3098086
+    },
+    {
+        "category": "gardens",
+        "title": "Botanical Garden",
+        "rating": 4.8,
+        "address": "1130 Wien, Austria",
+        "latitude": 48.1818507,
+        "longitude": 16.300144799999998
+    },
+    {
+        "category": "gardens",
+        "title": "Burggarten",
+        "rating": 4.7,
+        "address": "Josefsplatz 1, 1010 Wien, Austria",
+        "latitude": 48.204338199999995,
+        "longitude": 16.3658336
+    },
+    {
+        "category": "gardens",
+        "title": "Gartenpalais Liechtenstein",
+        "rating": 4.7,
+        "address": "Fürstengasse 1, 1090 Wien, Austria",
+        "latitude": 48.2225283,
+        "longitude": 16.3595988
+    },
+    {
+        "category": "gardens",
+        "title": "Irrgarten",
+        "rating": 4.5,
+        "address": "Rustenallee, 1130 Wien, Austria",
+        "latitude": 48.182609,
+        "longitude": 16.3097486
+    },
+    {
+        "category": "gardens",
+        "title": "Rosarium",
+        "rating": 4.7,
+        "address": "1130 Wien, Austria",
+        "latitude": 48.1842018,
+        "longitude": 16.3062762
+    },
+    {
+        "category": "gardens",
+        "title": "Volksgarten",
+        "rating": 4.6,
+        "address": "1010 Wien, Austria",
+        "latitude": 48.2080439,
+        "longitude": 16.3613967
+    },
+    {
+        "category": "gardens",
+        "title": "Palm House Garden",
+        "rating": 4.6,
+        "address": "Kastanienallee, 1130 Wien, Austria",
+        "latitude": 48.1851823,
+        "longitude": 16.303444
+    },
+    {
+        "category": "gardens",
+        "title": "Orangery",
+        "rating": 4.1,
+        "address": "Schönbrunner Schloßstraße 47, 1130 Wien, Austria",
+        "latitude": 48.1849121,
+        "longitude": 16.3167595
+    },
+    {
+        "category": "gardens",
+        "title": "Augarten",
+        "rating": 4.6,
+        "address": "1020 Wien, Austria",
+        "latitude": 48.2261111,
+        "longitude": 16.3766669
+    },
+    {
+        "category": "gardens",
+        "title": "Setagayapark",
+        "rating": 4.6,
+        "address": "Gallmeyergasse 4, 1190 Wien, Austria",
+        "latitude": 48.2452183,
+        "longitude": 16.356215499999998
+    },
+    {
+        "category": "gardens",
+        "title": "Japanese Garden",
+        "rating": 4.6,
+        "address": "Rustenallee, 1130 Wien, Austria",
+        "latitude": 48.1835747,
+        "longitude": 16.302649499999998
+    },
+    {
+        "category": "gardens",
+        "title": "Chamber Garden",
+        "rating": 4.8,
+        "address": "Lichte Allee, 1130 Wien, Austria",
+        "latitude": 48.1853128,
+        "longitude": 16.310579099999998
+    },
+    {
+        "category": "gardens",
+        "title": "Kurpark Oberlaa",
+        "rating": 4.7,
+        "address": "Laaer-Berg-Straße, 1100 Wien, Austria",
+        "latitude": 48.148622499999995,
+        "longitude": 16.399745799999998
+    },
+    {
+        "category": "gardens",
+        "title": "Crown Prince Garden",
+        "rating": 3.6,
+        "address": "Lichte Allee, 1130 Wien, Austria",
+        "latitude": 48.1844441,
+        "longitude": 16.3144071
+    },
+    {
+        "category": "gardens",
+        "title": "Schönbrunn Palace",
+        "rating": 4.7,
+        "address": "Schönbrunner Schloßstraße 47, 1130 Wien, Austria",
+        "latitude": 48.185812399999996,
+        "longitude": 16.312763999999998
+    },
+    {
+        "category": "gardens",
+        "title": "Rudolf-Bednar-Park",
+        "rating": 4.5,
+        "address": "Krakauer Str. 17, 1020 Wien, Austria",
+        "latitude": 48.226145599999995,
+        "longitude": 16.396755499999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Prater",
+        "rating": 4.5,
+        "address": "1020 Wien, Austria",
+        "latitude": 48.2154648,
+        "longitude": 16.4001739
+    },
+    {
+        "category": "adventure parks",
+        "title": "Waldseilpark Kahlenberg",
+        "rating": 4.7,
+        "address": "Josefsdorf 47, 1190 Wien, Austria",
+        "latitude": 48.2806175,
+        "longitude": 16.3340629
+    },
+    {
+        "category": "adventure parks",
+        "title": "Kern & Waldmann GmbH",
+        "rating": 4.7,
+        "address": "Prater 3, 1020 Wien, Austria",
+        "latitude": 48.2170293,
+        "longitude": 16.3976103
+    },
+    {
+        "category": "adventure parks",
+        "title": "Wurstelprater Vergnügungspark",
+        "rating": 4.6,
+        "address": "Kratky-Baschik-Weg 16, 1020 Wien, Austria",
+        "latitude": 48.2167283,
+        "longitude": 16.3980386
+    },
+    {
+        "category": "adventure parks",
+        "title": "Motorikpark 10",
+        "rating": 4.6,
+        "address": "Helmut-Zilk-Park, Marianne-Pollak-Gasse, 1100 Wien, Austria",
+        "latitude": 48.1790313,
+        "longitude": 16.3840245
+    },
+    {
+        "category": "adventure parks",
+        "title": "Black Mamba",
+        "rating": 4.6,
+        "address": "Str. des Ersten Mai 105, 1020 Wien, Austria",
+        "latitude": 48.215547799999996,
+        "longitude": 16.3987212
+    },
+    {
+        "category": "adventure parks",
+        "title": "Floridsdorfer Wasserpark",
+        "rating": 4.6,
+        "address": "1210 Wien, Austria",
+        "latitude": 48.2520376,
+        "longitude": 16.394376599999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Esterházypark",
+        "rating": 4.5,
+        "address": "Fritz-Grünbaum-Platz, 1060 Wien, Austria",
+        "latitude": 48.197518599999995,
+        "longitude": 16.3533738
+    },
+    {
+        "category": "adventure parks",
+        "title": "CopaBeach",
+        "rating": 4.5,
+        "address": "1220 Wien, Austria",
+        "latitude": 48.2312115,
+        "longitude": 16.4107303
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventure Park",
+        "rating": 4.3,
+        "address": "Höhenstraße, 3400 Wien, Austria",
+        "latitude": 48.2806552,
+        "longitude": 16.3340523
+    },
+    {
+        "category": "adventure parks",
+        "title": "FLIP LAB",
+        "rating": 4.4,
+        "address": "Wehlistraße 66, 1200 Wien, Austria",
+        "latitude": 48.2401641,
+        "longitude": 16.385341699999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Familypark",
+        "rating": 4.7,
+        "address": "Märchenparkweg 1, 7062 St. Margarethen im Burgenland, Austria",
+        "latitude": 47.8018012,
+        "longitude": 16.6474534
+    },
+    {
+        "category": "adventure parks",
+        "title": "Baggerpark Wien",
+        "rating": 4.2,
+        "address": "Alberner Hafenzufahrtsstraße 21, 1110 Wien, Austria",
+        "latitude": 48.170947899999994,
+        "longitude": 16.4757302
+    },
+    {
+        "category": "adventure parks",
+        "title": "Viennese Giant Ferris Wheel",
+        "rating": 4.5,
+        "address": "Gaudeegasse 1, 1020 Wien, Austria",
+        "latitude": 48.2166995,
+        "longitude": 16.3959008
+    },
+    {
+        "category": "adventure parks",
+        "title": "AquaGaudi",
+        "rating": 4.2,
+        "address": "Prater 99/a, 1020 Wien, Austria",
+        "latitude": 48.2162241,
+        "longitude": 16.397102
+    },
+    {
+        "category": "adventure parks",
+        "title": "Hochseilklettergarten in Gänsehäufelbad",
+        "rating": 4.4,
+        "address": "Moissigasse 21, 1220 Wien, Austria",
+        "latitude": 48.2291932,
+        "longitude": 16.4306595
+    },
+    {
+        "category": "adventure parks",
+        "title": "Böhmischer Prater | Riedl's Funpark",
+        "rating": 4.5,
+        "address": "Laaer Wald 30C, 1100 Wien, Austria",
+        "latitude": 48.166534899999995,
+        "longitude": 16.4001901
+    },
+    {
+        "category": "adventure parks",
+        "title": "Family Fun",
+        "rating": 3.8,
+        "address": "Breitenleer Str. 77, 1220 Wien, Austria",
+        "latitude": 48.2526264,
+        "longitude": 16.462384099999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Augarten",
+        "rating": 4.6,
+        "address": "1020 Wien, Austria",
+        "latitude": 48.2261111,
+        "longitude": 16.3766669
+    },
+    {
+        "category": "adventure parks",
+        "title": "Park Prater",
+        "rating": 4.7,
+        "address": "1020 Wien, Austria",
+        "latitude": 48.209499699999995,
+        "longitude": 16.4067976
+    },
+    {
+        "category": "hot springs",
+        "title": "Therme Wien",
+        "rating": 4.3,
+        "address": "Kurbadstraße 14, 1100 Wien, Austria",
+        "latitude": 48.143006899999996,
+        "longitude": 16.4018129
+    },
+    {
+        "category": "hot springs",
+        "title": "Arany Spa Vienna",
+        "rating": 4.5,
+        "address": "Am Hof 2, 1010 Wien, Austria",
+        "latitude": 48.210477499999996,
+        "longitude": 16.3683895
+    },
+    {
+        "category": "hot springs",
+        "title": "Central Bathhouse Vienna",
+        "rating": 4.5,
+        "address": "1010 Wien, Austria",
+        "latitude": 48.2059785,
+        "longitude": 16.3745917
+    },
+    {
+        "category": "hot springs",
+        "title": "Sans Souci Spa",
+        "rating": 4.5,
+        "address": "Burggasse 2, 1070 Wien, Austria",
+        "latitude": 48.2046038,
+        "longitude": 16.356328599999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Silent Spa",
+        "rating": 4.4,
+        "address": "Thermenpl. 1, 2136 Laa an der Thaya, Austria",
+        "latitude": 48.723866,
+        "longitude": 16.394084199999998
+    },
+    {
+        "category": "hot springs",
+        "title": "St Martins Therme & Lodge",
+        "rating": 4.5,
+        "address": "Im Seewinkel 1, 7132 Frauenkirchen, Austria",
+        "latitude": 47.808354,
+        "longitude": 16.9180387
+    },
+    {
+        "category": "hot springs",
+        "title": "The Ritz-Carlton Spa",
+        "rating": 3.8,
+        "address": "Schubertring 5, 1010 Wien, Austria",
+        "latitude": 48.2024031,
+        "longitude": 16.3761699
+    },
+    {
+        "category": "hot springs",
+        "title": "Therme Wien Med",
+        "rating": 3.8,
+        "address": "Kurbadstraße 14, 1100 Wien, Austria",
+        "latitude": 48.142748,
+        "longitude": 16.402293699999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Hochstrahlbrunnen",
+        "rating": 4.6,
+        "address": "Schwarzenbergpl., 1030 Wien, Austria",
+        "latitude": 48.1983806,
+        "longitude": 16.376122199999998
+    },
+    {
+        "category": "hot springs",
+        "title": "Aqua Dome",
+        "rating": 4.4,
+        "address": "Oberlängenfeld 140, 6444 Oberlängenfeld, Austria",
+        "latitude": 47.0696684,
+        "longitude": 10.964716899999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Thermal Römerbad",
+        "rating": 4.3,
+        "address": "Dorfstraße 74, 9546 Bad Kleinkirchheim, Austria",
+        "latitude": 46.813495499999995,
+        "longitude": 13.7989287
+    },
+    {
+        "category": "hot springs",
+        "title": "Badeschiff Wien",
+        "rating": 4.2,
+        "address": "Wolfgang-Schmitz-Promenade, 1010 Wien, Austria",
+        "latitude": 48.2117934,
+        "longitude": 16.3811212
+    },
+    {
+        "category": "hot springs",
+        "title": "Nationalpark Donau-Auen - Eingang Wien-Lobau",
+        "rating": 4.7,
+        "address": "Dechantweg 10, 1220 Wien, Austria",
+        "latitude": 48.194417099999995,
+        "longitude": 16.468985
+    },
+    {
+        "category": "hot springs",
+        "title": "Therme Wien Fitness",
+        "rating": 4.5,
+        "address": "Kurbadstraße 16, 1100 Wien, Austria",
+        "latitude": 48.1446263,
+        "longitude": 16.3999432
+    },
+    {
+        "category": "shopping malls",
+        "title": "Wien Mitte The Mall",
+        "rating": 4.3,
+        "address": "Landstraßer Hauptstraße 1B, 1030 Wien, Austria",
+        "latitude": 48.2069471,
+        "longitude": 16.3852459
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield Donau Zentrum",
+        "rating": 4.4,
+        "address": "Wagramer Str. 94, 1220 Wien, Austria",
+        "latitude": 48.2420571,
+        "longitude": 16.4359636
+    },
+    {
+        "category": "shopping malls",
+        "title": "1100 Columbus Shops & Offices",
+        "rating": 4,
+        "address": "Columbuspl. 7/8, 1100 Wien, Austria",
+        "latitude": 48.182064499999996,
+        "longitude": 16.3751812
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield Shopping City Süd",
+        "rating": 4.5,
+        "address": "Vösendorfer Südring, 2334 Vösendorf, Austria",
+        "latitude": 48.108028399999995,
+        "longitude": 16.3179302
+    },
+    {
+        "category": "shopping malls",
+        "title": "Ringstraßen Galerien",
+        "rating": 4.2,
+        "address": "Kärntner Ring 5-7, 1010 Wien, Austria",
+        "latitude": 48.202135999999996,
+        "longitude": 16.372816999999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "BahnhofCity Wien Hauptbahnhof",
+        "rating": 4.4,
+        "address": "Am Hbf 1, 1100 Wien, Austria",
+        "latitude": 48.185175,
+        "longitude": 16.376542999999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Lugner City",
+        "rating": 4,
+        "address": "Gablenzg. 11, 1150 Wien, Austria",
+        "latitude": 48.203440199999996,
+        "longitude": 16.3341584
+    },
+    {
+        "category": "shopping malls",
+        "title": "Millennium City",
+        "rating": 4.3,
+        "address": "Handelskai 94-96, 1200 Wien, Austria",
+        "latitude": 48.240615999999996,
+        "longitude": 16.3857577
+    },
+    {
+        "category": "shopping malls",
+        "title": "Ferstel Passage",
+        "rating": 4.7,
+        "address": "Strauchgasse 4, 1010 Wien, Austria",
+        "latitude": 48.2112467,
+        "longitude": 16.3656881
+    },
+    {
+        "category": "shopping malls",
+        "title": "Stadion Center",
+        "rating": 4.3,
+        "address": "Olympiapl. 2, 1020 Wien, Austria",
+        "latitude": 48.209633,
+        "longitude": 16.4228165
+    },
+    {
+        "category": "shopping malls",
+        "title": "Q19",
+        "rating": 4.3,
+        "address": "Grinzinger Str. 112, 1190 Wien, Austria",
+        "latitude": 48.2538889,
+        "longitude": 16.3675
+    },
+    {
+        "category": "shopping malls",
+        "title": "CITYGATE",
+        "rating": 4.3,
+        "address": "Wagramer Str. 195, 1210 Wien, Austria",
+        "latitude": 48.264313099999995,
+        "longitude": 16.4525765
+    },
+    {
+        "category": "shopping malls",
+        "title": "Center Wien Mitte",
+        "rating": 4.4,
+        "address": "Landstraßer Hauptstraße 2a/2b, 1030 Wien, Austria",
+        "latitude": 48.2057958,
+        "longitude": 16.3844738
+    },
+    {
+        "category": "shopping malls",
+        "title": "BahnhofCity Wien West",
+        "rating": 4.3,
+        "address": "Europaplatz 1-3 A, 1150 Wien, Austria",
+        "latitude": 48.196663,
+        "longitude": 16.337807299999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shopping Center Nord",
+        "rating": 4,
+        "address": "Ignaz-Köck-Straße 1, 1210 Wien, Austria",
+        "latitude": 48.2676983,
+        "longitude": 16.398252799999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "GALLERIA",
+        "rating": 4.2,
+        "address": "Landstraßer Hauptstraße 99/101, 1030 Wien, Austria",
+        "latitude": 48.198930999999995,
+        "longitude": 16.3950465
+    },
+    {
+        "category": "shopping malls",
+        "title": "huma eleven",
+        "rating": 4.5,
+        "address": "Landwehrstraße 6, 1110 Wien, Austria",
+        "latitude": 48.1690678,
+        "longitude": 16.4723203
+    },
+    {
+        "category": "shopping malls",
+        "title": "Riverside Einkaufszentrum",
+        "rating": 4.3,
+        "address": "Breitenfurter Str. 372, 1230 Wien, Austria",
+        "latitude": 48.1367858,
+        "longitude": 16.2790882
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centre Simmering",
+        "rating": 4.2,
+        "address": "Simmeringer Hauptstraße 96A, 1110 Wien, Austria",
+        "latitude": 48.1737257,
+        "longitude": 16.4163698
+    },
+    {
+        "category": "shopping malls",
+        "title": "Donauzentrum 1",
+        "rating": 4.5,
+        "address": "Donaustadtstraße S, 1220 Wien, Austria",
+        "latitude": 48.2423076,
+        "longitude": 16.4365804
+    },
+    {
+        "category": "historical sites",
+        "title": "Hofburg",
+        "rating": 4.7,
+        "address": "1010 Wien, Austria",
+        "latitude": 48.2056578,
+        "longitude": 16.3647803
+    },
+    {
+        "category": "historical sites",
+        "title": "Neue Burg - Teil der Wiener Hofburg",
+        "rating": 4.7,
+        "address": "Heldenplatz, 1010 Wien, Austria",
+        "latitude": 48.205177199999994,
+        "longitude": 16.3645756
+    },
+    {
+        "category": "historical sites",
+        "title": "Schönbrunn Palace",
+        "rating": 4.7,
+        "address": "Schönbrunner Schloßstraße 47, 1130 Wien, Austria",
+        "latitude": 48.185812399999996,
+        "longitude": 16.312763999999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Lower Belvedere",
+        "rating": 4.5,
+        "address": "Rennweg 6A, 1030 Wien, Austria",
+        "latitude": 48.1965764,
+        "longitude": 16.3798723
+    },
+    {
+        "category": "historical sites",
+        "title": "Ankeruhr",
+        "rating": 4.4,
+        "address": "Hoher Markt 10-11, 1010 Wien, Austria",
+        "latitude": 48.210794899999996,
+        "longitude": 16.373668
+    },
+    {
+        "category": "historical sites",
+        "title": "Heldenplatz",
+        "rating": 4.7,
+        "address": "21/4, 1010 Wien, Austria",
+        "latitude": 48.2063576,
+        "longitude": 16.3631746
+    },
+    {
+        "category": "historical sites",
+        "title": "Mozart Monument",
+        "rating": 4.7,
+        "address": "Josefsplatz 1, 1010 Wien, Austria",
+        "latitude": 48.2040899,
+        "longitude": 16.3647879
+    },
+    {
+        "category": "historical sites",
+        "title": "Belvedere Palace",
+        "rating": 4.7,
+        "address": "1030 Wien, Austria",
+        "latitude": 48.1914751,
+        "longitude": 16.3809322
+    },
+    {
+        "category": "historical sites",
+        "title": "Time Travel Vienna",
+        "rating": 4.6,
+        "address": "Habsburgergasse 10A, 1010 Wien, Austria",
+        "latitude": 48.2082592,
+        "longitude": 16.3682589
+    },
+    {
+        "category": "historical sites",
+        "title": "Prince Eugene - Equestrian Statue",
+        "rating": 4.6,
+        "address": "Heldenplatz 21/4, 1010 Wien, Austria",
+        "latitude": 48.2058742,
+        "longitude": 16.3643103
+    },
+    {
+        "category": "historical sites",
+        "title": "St. Stephen's Cathedral",
+        "rating": 4.7,
+        "address": "Stephansplatz 3, 1010 Wien, Austria",
+        "latitude": 48.208411399999996,
+        "longitude": 16.3734707
+    },
+    {
+        "category": "historical sites",
+        "title": "Column of Pest",
+        "rating": 4.6,
+        "address": "Graben 28, 1010 Wien, Austria",
+        "latitude": 48.2087219,
+        "longitude": 16.369807299999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Imperial Crypt",
+        "rating": 4.6,
+        "address": "Tegetthoffstraße 2, 1010 Wien, Austria",
+        "latitude": 48.2057146,
+        "longitude": 16.3700245
+    },
+    {
+        "category": "historical sites",
+        "title": "Hochstrahlbrunnen",
+        "rating": 4.6,
+        "address": "Schwarzenbergpl., 1030 Wien, Austria",
+        "latitude": 48.1983806,
+        "longitude": 16.376122199999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Imperial Treasury",
+        "rating": 4.6,
+        "address": "Schweizerhof, Hofburg, 1010 Wien, Austria",
+        "latitude": 48.206739299999995,
+        "longitude": 16.365773
+    },
+    {
+        "category": "historical sites",
+        "title": "Innerer Burghof Hofburg Wien",
+        "rating": 4.8,
+        "address": "Hofburg, 1010 Wien, Austria",
+        "latitude": 48.2075854,
+        "longitude": 16.3649888
+    },
+    {
+        "category": "historical sites",
+        "title": "Austrian Gallery Belvedere",
+        "rating": 4.7,
+        "address": "Prinz-Eugen-Straße 27, 1030 Wien, Austria",
+        "latitude": 48.191530799999995,
+        "longitude": 16.380914
+    },
+    {
+        "category": "historical sites",
+        "title": "Stephansplatz",
+        "rating": 4.8,
+        "address": "1010 Wien, Austria",
+        "latitude": 48.208452,
+        "longitude": 16.3722159
+    },
+    {
+        "category": "historical sites",
+        "title": "Leopoldsbrunnen",
+        "rating": 4.7,
+        "address": "Graben 29, 1010 Wien, Austria",
+        "latitude": 48.2083702,
+        "longitude": 16.3703662
+    },
+    {
+        "category": "historical sites",
+        "title": "Stephansdom Nordturm",
+        "rating": 4.6,
+        "address": "Stephansplatz 8, 1010 Wien, Austria",
+        "latitude": 48.2087163,
+        "longitude": 16.373443299999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Kunsthistorisches Museum Wien",
+        "rating": 4.8,
+        "address": "Maria-Theresien-Platz, 1010 Wien, Austria",
+        "latitude": 48.2038016,
+        "longitude": 16.3617874
+    },
+    {
+        "category": "art galleries",
+        "title": "Albertina",
+        "rating": 4.7,
+        "address": "Albertinapl. 1, 1010 Wien, Austria",
+        "latitude": 48.2046992,
+        "longitude": 16.3681824
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum of Applied Arts",
+        "rating": 4.5,
+        "address": "Stubenring 5, 1010 Wien, Austria",
+        "latitude": 48.207614799999995,
+        "longitude": 16.381547599999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Kunst Haus Wien. Museum Hundertwasser",
+        "rating": 4.6,
+        "address": "Untere Weißgerberstraße 13, 1030 Wien, Austria",
+        "latitude": 48.211076,
+        "longitude": 16.3932861
+    },
+    {
+        "category": "art galleries",
+        "title": "mumok - Museum moderner Kunst Stiftung Ludwig Wien",
+        "rating": 4,
+        "address": "Museumsplatz 1, 1070 Wien, Austria",
+        "latitude": 48.2037823,
+        "longitude": 16.3578331
+    },
+    {
+        "category": "art galleries",
+        "title": "Kunsthalle Wien Museumsquartier",
+        "rating": 4.2,
+        "address": "Museumsplatz 1, 1070 Wien, Austria",
+        "latitude": 48.2035449,
+        "longitude": 16.357813399999998
+    },
+    {
+        "category": "art galleries",
+        "title": "WestLicht",
+        "rating": 4.7,
+        "address": "Westbahnstraße 40, 1070 Wien, Austria",
+        "latitude": 48.201938999999996,
+        "longitude": 16.342045
+    },
+    {
+        "category": "art galleries",
+        "title": "Belvedere Palace",
+        "rating": 4.7,
+        "address": "1030 Wien, Austria",
+        "latitude": 48.1914751,
+        "longitude": 16.3809322
+    },
+    {
+        "category": "art galleries",
+        "title": "Leopold Museum",
+        "rating": 4.7,
+        "address": "Museumsplatz 1, 1070 Wien, Austria",
+        "latitude": 48.2026499,
+        "longitude": 16.3591421
+    },
+    {
+        "category": "art galleries",
+        "title": "Hofburg",
+        "rating": 4.7,
+        "address": "1010 Wien, Austria",
+        "latitude": 48.2056578,
+        "longitude": 16.3647803
+    },
+    {
+        "category": "art galleries",
+        "title": "Wien Museum Karlsplatz",
+        "rating": 4.7,
+        "address": "Karlsplatz 8, 1040 Wien, Austria",
+        "latitude": 48.199436999999996,
+        "longitude": 16.37296
+    },
+    {
+        "category": "art galleries",
+        "title": "Lower Belvedere",
+        "rating": 4.5,
+        "address": "Rennweg 6A, 1030 Wien, Austria",
+        "latitude": 48.1965764,
+        "longitude": 16.3798723
+    },
+    {
+        "category": "art galleries",
+        "title": "Secession",
+        "rating": 4.2,
+        "address": "Friedrichstraße 12, 1010 Wien, Austria",
+        "latitude": 48.2005106,
+        "longitude": 16.3657857
+    },
+    {
+        "category": "art galleries",
+        "title": "Albertina Modern",
+        "rating": 4.5,
+        "address": "Karlsplatz 5, 1010 Wien, Austria",
+        "latitude": 48.2005218,
+        "longitude": 16.3715986
+    },
+    {
+        "category": "art galleries",
+        "title": "Heidi Horten Collection",
+        "rating": 4.5,
+        "address": "Hanuschgasse 3, 1010 Wien, Austria",
+        "latitude": 48.2039257,
+        "longitude": 16.3678257
+    },
+    {
+        "category": "art galleries",
+        "title": "Wien Museum musa",
+        "rating": 4.2,
+        "address": "Felderstraße 6-8, 1010 Wien, Austria",
+        "latitude": 48.2118517,
+        "longitude": 16.357001999999998
+    },
+    {
+        "category": "art galleries",
+        "title": "WUK",
+        "rating": 4.5,
+        "address": "Währinger Str. 59, 1090 Wien, Austria",
+        "latitude": 48.2233217,
+        "longitude": 16.351415499999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Gemäldegalerie der Akademie der bildenden Künste",
+        "rating": 4.4,
+        "address": "Schillerplatz 3, 1010 Wien, Austria",
+        "latitude": 48.201628799999995,
+        "longitude": 16.3652361
+    },
+    {
+        "category": "art galleries",
+        "title": "Ernst Fuchs-Museum (Otto-Wagner-Villa)",
+        "rating": 4.6,
+        "address": "Hüttelbergstraße 26, 1140 Wien, Austria",
+        "latitude": 48.2098468,
+        "longitude": 16.255847
+    },
+    {
+        "category": "art galleries",
+        "title": "Silberkammer Kalksburg",
+        "rating": 4.7,
+        "address": "Promenadeweg 5, 1230 Wien, Austria",
+        "latitude": 48.1355017,
+        "longitude": 16.2438853
+    },
+    {
+        "category": "theaters",
+        "title": "Burgtheater",
+        "rating": 4.6,
+        "address": "Universitätsring 2, 1010 Wien, Austria",
+        "latitude": 48.210296199999995,
+        "longitude": 16.36146
+    },
+    {
+        "category": "theaters",
+        "title": "Vienna's English Theatre",
+        "rating": 4.8,
+        "address": "Josefsgasse 12, 1080 Wien, Austria",
+        "latitude": 48.208460599999995,
+        "longitude": 16.3530634
+    },
+    {
+        "category": "theaters",
+        "title": "Akademietheater",
+        "rating": 4.6,
+        "address": "Lisztstraße 1, 1030 Wien, Austria",
+        "latitude": 48.200147199999996,
+        "longitude": 16.377255599999998
+    },
+    {
+        "category": "theaters",
+        "title": "Theater an der Wien",
+        "rating": 4.7,
+        "address": "Linke Wienzeile 6, 1060 Wien, Austria",
+        "latitude": 48.199925699999994,
+        "longitude": 16.3639775
+    },
+    {
+        "category": "theaters",
+        "title": "Vienna State Opera",
+        "rating": 4.7,
+        "address": "Opernring 2, 1010 Wien, Austria",
+        "latitude": 48.2034306,
+        "longitude": 16.3692034
+    },
+    {
+        "category": "theaters",
+        "title": "Raimund Theater",
+        "rating": 4.7,
+        "address": "Wallgasse 18-20, 1060 Wien, Austria",
+        "latitude": 48.1921196,
+        "longitude": 16.3396072
+    },
+    {
+        "category": "theaters",
+        "title": "Volkstheater",
+        "rating": 4.6,
+        "address": "Arthur-Schnitzler-Platz 1, 1070 Wien, Austria",
+        "latitude": 48.2052432,
+        "longitude": 16.3570715
+    },
+    {
+        "category": "theaters",
+        "title": "Musikverein Wien",
+        "rating": 4.7,
+        "address": "Musikvereinspl. 1, 1010 Wien, Austria",
+        "latitude": 48.200544,
+        "longitude": 16.372359
+    },
+    {
+        "category": "theaters",
+        "title": "Theater in der Josefstadt",
+        "rating": 4.7,
+        "address": "Josefstädter Str. 26, 1080 Wien, Austria",
+        "latitude": 48.209519,
+        "longitude": 16.350853
+    },
+    {
+        "category": "theaters",
+        "title": "Ronacher",
+        "rating": 4.8,
+        "address": "Seilerstätte 9, 1010 Wien, Austria",
+        "latitude": 48.20521,
+        "longitude": 16.3750672
+    },
+    {
+        "category": "theaters",
+        "title": "Schönbrunn Palace Theatre",
+        "rating": 4.7,
+        "address": "Schloss Schönbrunn, Schönbrunner Schloßstraße 47, 1130 Wien, Austria",
+        "latitude": 48.1866613,
+        "longitude": 16.3123228
+    },
+    {
+        "category": "theaters",
+        "title": "Kasperl und Pezi Wiener Urania Puppentheater",
+        "rating": 4.7,
+        "address": "Uraniastraße 1, 1010 Wien, Austria",
+        "latitude": 48.2114632,
+        "longitude": 16.3842751
+    },
+    {
+        "category": "theaters",
+        "title": "Wiener Konzerthaus",
+        "rating": 4.8,
+        "address": "Lothringerstraße 20, 1030 Wien, Austria",
+        "latitude": 48.200877299999995,
+        "longitude": 16.3773296
+    },
+    {
+        "category": "theaters",
+        "title": "Volksoper Wien",
+        "rating": 4.6,
+        "address": "Währinger Str. 78, 1090 Wien, Austria",
+        "latitude": 48.2244623,
+        "longitude": 16.3501066
+    },
+    {
+        "category": "theaters",
+        "title": "Schauspielhaus Wien",
+        "rating": 4.6,
+        "address": "Porzellangasse 19, 1090 Wien, Austria",
+        "latitude": 48.2199637,
+        "longitude": 16.3614522
+    },
+    {
+        "category": "souvenir counters",
+        "title": "World of Souvenirs",
+        "rating": 3.8,
+        "address": "Stephansplatz 8, 1010 Wien, Austria",
+        "latitude": 48.209144699999996,
+        "longitude": 16.3725838
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir Shop AM RING Vienna",
+        "rating": 4.6,
+        "address": "Babenbergerstraße 3, 1010 Wien, Austria",
+        "latitude": 48.203514,
+        "longitude": 16.363405999999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Oh Vienna Souvenir Shop",
+        "rating": 4.4,
+        "address": "Kärntner Str. 18, 1010 Wien, Austria",
+        "latitude": 48.206086199999994,
+        "longitude": 16.3712731
+    },
+    {
+        "category": "souvenir counters",
+        "title": "THE WORLD TO GO VIENNA",
+        "rating": 4.7,
+        "address": "Josefsplatz 6/1, 1010 Wien, Austria",
+        "latitude": 48.2062884,
+        "longitude": 16.3677518
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Planet Vienna",
+        "rating": 3.9,
+        "address": "Kärntner Str. 30, 1010 Wien, Austria",
+        "latitude": 48.2048816,
+        "longitude": 16.3707155
+    },
+    {
+        "category": "souvenir counters",
+        "title": "I LOVE SOUVENIRS - Rotenturmstraße 23",
+        "rating": 4.6,
+        "address": "next to pharmacy, Ecke Fleischmarkt, Rotenturmstraße 23, 1010 Wien, Austria",
+        "latitude": 48.2111002,
+        "longitude": 16.3752948
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirarts",
+        "rating": 4.8,
+        "address": "Fleischmarkt 16, 1010 Wien, Austria",
+        "latitude": 48.210636199999996,
+        "longitude": 16.3767639
+    },
+    {
+        "category": "souvenir counters",
+        "title": "O&O Vienna Souvenirs/Gift Shop",
+        "rating": 4.7,
+        "address": "Parkring 12a/14b, 1010 Wien, Austria",
+        "latitude": 48.204935899999995,
+        "longitude": 16.377726799999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs & Passfotos",
+        "rating": 5,
+        "address": "Rennweg 22, 1030 Wien, Austria",
+        "latitude": 48.1945153,
+        "longitude": 16.3858759
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gifts & Souvenirs Vienna",
+        "rating": 4,
+        "address": "Walfischgasse 6/246, 1010 Wien, Austria",
+        "latitude": 48.204940199999996,
+        "longitude": 16.370772499999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Imperial Shop Vienna",
+        "rating": 4,
+        "address": "Hofburg, Heldenplatz 1010, 1010 Wien, Austria",
+        "latitude": 48.2052774,
+        "longitude": 16.363880599999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "La Cure Gourmande Vienna",
+        "rating": 4.9,
+        "address": "vis-a-vis Kaisergruft, Imperial Crypt, Neuer Markt 8a, 1010 Wien, Austria",
+        "latitude": 48.2054554,
+        "longitude": 16.370161799999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "The Vienna Gallery Store",
+        "rating": 4.6,
+        "address": "Rennweg 11, 1030 Wien, Austria",
+        "latitude": 48.1973735,
+        "longitude": 16.379825399999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "A&K Geschenke und Souvenir KG",
+        "rating": 4.6,
+        "address": "Kärntner Ring 3/47, 1010 Wien, Austria",
+        "latitude": 48.2024098,
+        "longitude": 16.370619299999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Austria Corner Amadeus",
+        "rating": 4.8,
+        "address": "Augustinerstraße 12, 1010 Wien, Austria",
+        "latitude": 48.2056736,
+        "longitude": 16.3680618
+    },
+    {
+        "category": "souvenir counters",
+        "title": "HOUSE OF PRESENTS",
+        "rating": 4.6,
+        "address": "Kärntner Ring 3, 1010 Wien, Austria",
+        "latitude": 48.2024098,
+        "longitude": 16.370619299999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs & Gifts Shop Opernring 13",
+        "rating": 4.5,
+        "address": "Opernring 13, 1010 Wien, Austria",
+        "latitude": 48.2027182,
+        "longitude": 16.366589299999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Welcome Souvenir & Gift",
+        "rating": 5,
+        "address": "Naglergasse 7, Naglergasse 8, 1010 Wien, Austria",
+        "latitude": 48.2100122,
+        "longitude": 16.3677378
+    },
+    {
+        "category": "souvenir counters",
+        "title": "House of Souvenirs",
+        "rating": 3.3,
+        "address": "Graben 10, 1010 Wien, Austria",
+        "latitude": 48.2081035,
+        "longitude": 16.3704349
+    },
+    {
+        "category": "souvenir counters",
+        "title": "HAMTIL & SÖHNE Concept Store Vienna",
+        "rating": 3.6,
+        "address": "Herrengasse 2, 1010 Wien, Austria",
+        "latitude": 48.2083771,
+        "longitude": 16.3666344
+    }
+]

@@ -1,0 +1,3082 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Basilica of Santa Croce in Florence",
+        "rating": 4.7,
+        "address": "Piazza di Santa Croce, 16, 50122 Firenze FI, Italy",
+        "latitude": 43.7685683,
+        "longitude": 11.262267699999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Palazzo Vecchio",
+        "rating": 4.7,
+        "address": "P.za della Signoria, 50122 Firenze FI, Italy",
+        "latitude": 43.7693012,
+        "longitude": 11.2561509
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Cathedral of Santa Maria del Fiore",
+        "rating": 4.8,
+        "address": "Piazza del Duomo, 50122 Firenze FI, Italy",
+        "latitude": 43.773145,
+        "longitude": 11.255960199999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Piazza del Duomo",
+        "rating": 4.8,
+        "address": "50122 Firenze FI, Italy",
+        "latitude": 43.773091199999996,
+        "longitude": 11.2554649
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Piazzale Michelangelo",
+        "rating": 4.8,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7629314,
+        "longitude": 11.265056099999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Piazza della Signoria",
+        "rating": 4.8,
+        "address": "P.za della Signoria, 50122 Firenze FI, Italy",
+        "latitude": 43.7696855,
+        "longitude": 11.255642199999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Loggia dei Lanzi",
+        "rating": 4.8,
+        "address": "P.za della Signoria, 50121 Firenze FI, Italy",
+        "latitude": 43.7691899,
+        "longitude": 11.2555334
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Uffizi Galleries",
+        "rating": 4.7,
+        "address": "Piazzale degli Uffizi, 6, 50122 Firenze FI, Italy",
+        "latitude": 43.767785599999996,
+        "longitude": 11.2553108
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Palazzo Pitti",
+        "rating": 4.6,
+        "address": "Piazza de' Pitti, 1, 50125 Firenze FI, Italy",
+        "latitude": 43.7651533,
+        "longitude": 11.250008099999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ponte Vecchio",
+        "rating": 4.7,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.767925,
+        "longitude": 11.2531435
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Piazza della Repubblica",
+        "rating": 4.6,
+        "address": "50123 Firenze FI, Italy",
+        "latitude": 43.771426299999995,
+        "longitude": 11.254019
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Boboli Gardens",
+        "rating": 4.2,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7624972,
+        "longitude": 11.248399599999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Giotto's Bell Tower",
+        "rating": 4.8,
+        "address": "Piazza del Duomo, 43°46'22\"N 11°15'20\"E, 50122 Firenze FI, Italy",
+        "latitude": 43.7728578,
+        "longitude": 11.255782199999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Brunelleschi's dome",
+        "rating": 4.8,
+        "address": "Piazza del Duomo, 50122 Firenze FI, Italy",
+        "latitude": 43.7731911,
+        "longitude": 11.2567217
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Museo Galileo",
+        "rating": 4.5,
+        "address": "Piazza dei Giudici, 1, 50122 Firenze FI, Italy",
+        "latitude": 43.7677337,
+        "longitude": 11.255903199999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Basilica of Santa Maria Novella",
+        "rating": 4.7,
+        "address": "P.za di Santa Maria Novella, 18, 50123 Firenze FI, Italy",
+        "latitude": 43.7746346,
+        "longitude": 11.2493859
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ponte Santa Trinita",
+        "rating": 4.6,
+        "address": "50100 Firenze FI, Italy",
+        "latitude": 43.7690208,
+        "longitude": 11.2503107
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Basilica di San Miniato",
+        "rating": 4.8,
+        "address": "Via delle Porte Sante, 34, 50125 Firenze FI, Italy",
+        "latitude": 43.7594184,
+        "longitude": 11.2649796
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Piazza della Santissima Annunziata",
+        "rating": 4.6,
+        "address": "P.za della SS. Annunziata, 50122 Firenze FI, Italy",
+        "latitude": 43.7764783,
+        "longitude": 11.2606212
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Opera del Duomo Museum",
+        "rating": 4.6,
+        "address": "Piazza del Duomo, 9, 50122 Firenze FI, Italy",
+        "latitude": 43.7731706,
+        "longitude": 11.258111999999999
+    },
+    {
+        "category": "parks",
+        "title": "Parco delle Cascine",
+        "rating": 4.3,
+        "address": "Piazzale delle Cascine, 50144 Firenze FI, Italy",
+        "latitude": 43.7828113,
+        "longitude": 11.216911399999999
+    },
+    {
+        "category": "parks",
+        "title": "Boboli Gardens",
+        "rating": 4.2,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7624972,
+        "longitude": 11.248399599999999
+    },
+    {
+        "category": "parks",
+        "title": "Parco San Donato",
+        "rating": 4.1,
+        "address": "Via Sandro Pertini, 2/9, 50127 Firenze FI, Italy",
+        "latitude": 43.793420499999996,
+        "longitude": 11.22642
+    },
+    {
+        "category": "parks",
+        "title": "Parco di Villa Il Ventaglio",
+        "rating": 4.4,
+        "address": "Via Giovanni Aldini, 12, 50131 Firenze FI, Italy",
+        "latitude": 43.786023199999995,
+        "longitude": 11.2791449
+    },
+    {
+        "category": "parks",
+        "title": "Giardino delle Rose",
+        "rating": 4.6,
+        "address": "Viale Giuseppe Poggi, 2, 50125 Firenze FI, Italy",
+        "latitude": 43.762989499999996,
+        "longitude": 11.262823899999999
+    },
+    {
+        "category": "parks",
+        "title": "Giardino di Borgo Allegri",
+        "rating": 4.6,
+        "address": "Borgo Allegri, 18, 50122 Firenze FI, Italy",
+        "latitude": 43.769162,
+        "longitude": 11.264193299999999
+    },
+    {
+        "category": "parks",
+        "title": "Giardino Don Renzo Forconi",
+        "rating": 4.4,
+        "address": "Via Pietro Dazzi, 1, 50141 Firenze FI, Italy",
+        "latitude": 43.812030799999995,
+        "longitude": 11.2446453
+    },
+    {
+        "category": "parks",
+        "title": "Giardino della Scuderie Reali",
+        "rating": 4.4,
+        "address": "Piazzale di Porta Romana, 9, 50125 Firenze FI, Italy",
+        "latitude": 43.7597424,
+        "longitude": 11.2450143
+    },
+    {
+        "category": "parks",
+        "title": "Giardino Bardini",
+        "rating": 4.5,
+        "address": "Costa S. Giorgio, 2, 50125 Firenze FI, Italy",
+        "latitude": 43.763318399999996,
+        "longitude": 11.2570423
+    },
+    {
+        "category": "parks",
+        "title": "Orti del Parnaso",
+        "rating": 4.6,
+        "address": "Via Trento, 11, 50139 Firenze FI, Italy",
+        "latitude": 43.7887926,
+        "longitude": 11.260878499999999
+    },
+    {
+        "category": "parks",
+        "title": "Orto Botanico Giardino dei Semplici - Università di Firenze",
+        "rating": 4.1,
+        "address": "Via Pier Antonio Micheli, 3, 50121 Firenze FI, Italy",
+        "latitude": 43.7787582,
+        "longitude": 11.2614343
+    },
+    {
+        "category": "parks",
+        "title": "Villa di Castello",
+        "rating": 4.6,
+        "address": "Via di Castello, 44, 50141 Firenze FI, Italy",
+        "latitude": 43.819296699999995,
+        "longitude": 11.228836999999999
+    },
+    {
+        "category": "parks",
+        "title": "Giardino Martin Lutero",
+        "rating": 4.4,
+        "address": "Lungarno Torrigiani, 3, 50125 Firenze FI, Italy",
+        "latitude": 43.7656639,
+        "longitude": 11.2574948
+    },
+    {
+        "category": "parks",
+        "title": "dell'Albereta Park - Pioppeta Galluzzo",
+        "rating": 4.4,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7371574,
+        "longitude": 11.2373561
+    },
+    {
+        "category": "parks",
+        "title": "Parco Villa Vogel",
+        "rating": 4.4,
+        "address": "Via A. Canova, 72, 50142 Firenze FI, Italy",
+        "latitude": 43.7759587,
+        "longitude": 11.2066454
+    },
+    {
+        "category": "parks",
+        "title": "Parco del Mensola",
+        "rating": 4.3,
+        "address": "Via della Torre, 27, 50135 Firenze FI, Italy",
+        "latitude": 43.7763267,
+        "longitude": 11.307704699999999
+    },
+    {
+        "category": "parks",
+        "title": "Arno River Park",
+        "rating": 4.2,
+        "address": "Via del Pesciolino, 4, 50145 Firenze FI, Italy",
+        "latitude": 43.7911845,
+        "longitude": 11.1852947
+    },
+    {
+        "category": "parks",
+        "title": "Pratolino Park",
+        "rating": 4.6,
+        "address": "Via Fiorentina, 276, 50036 Pratolino FI, Italy",
+        "latitude": 43.8599734,
+        "longitude": 11.2982822
+    },
+    {
+        "category": "parks",
+        "title": "Giardino del Bobolino",
+        "rating": 4.6,
+        "address": "Viale Machiavelli, 18, 50125 Firenze FI, Italy",
+        "latitude": 43.7578525,
+        "longitude": 11.2487125
+    },
+    {
+        "category": "parks",
+        "title": "Vincigliata Adventure Park",
+        "rating": 4.6,
+        "address": "Via Vincigliata, 21, 50014 Fiesole FI, Italy",
+        "latitude": 43.7951845,
+        "longitude": 11.3124565
+    },
+    {
+        "category": "restaurants",
+        "title": "La Buchetta Food & Wine Restaurant",
+        "rating": 4.7,
+        "address": "Via dei Benci, 3, 50122 Firenze FI, Italy",
+        "latitude": 43.7673626,
+        "longitude": 11.259150499999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Il Vezzo",
+        "rating": 4.8,
+        "address": "Via Guelfa, 58/R, 50123 Firenze FI, Italy",
+        "latitude": 43.777493,
+        "longitude": 11.255332
+    },
+    {
+        "category": "restaurants",
+        "title": "Osteria Vecchio Cancello",
+        "rating": 4.8,
+        "address": "Via Guelfa, 138/R, 50129 Firenze FI, Italy",
+        "latitude": 43.779029799999996,
+        "longitude": 11.2517652
+    },
+    {
+        "category": "restaurants",
+        "title": "Le Cappelle Medicee Restorante",
+        "rating": 4.7,
+        "address": "Via del Canto dei Nelli, 30/r, 50123 Firenze FI, Italy",
+        "latitude": 43.775286099999995,
+        "longitude": 11.2531714
+    },
+    {
+        "category": "restaurants",
+        "title": "Ristorante dei Rossi Ponte Vecchio",
+        "rating": 4.8,
+        "address": "Piazza dei Rossi, 1, 50125 Firenze FI, Italy",
+        "latitude": 43.7670246,
+        "longitude": 11.252733899999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Osteria del Corso",
+        "rating": 4.8,
+        "address": "Via del Corso, 36r, 50122 Firenze FI, Italy",
+        "latitude": 43.7715341,
+        "longitude": 11.2564189
+    },
+    {
+        "category": "restaurants",
+        "title": "L'Osteria di Giovanni",
+        "rating": 4.7,
+        "address": "Via del Moro, 22r, 50123 Firenze FI, Italy",
+        "latitude": 43.7714072,
+        "longitude": 11.248562399999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Casa del Vin Santo - Ristorante Braceria Firenze",
+        "rating": 4.7,
+        "address": "Via Porta Rossa, 15-17/R, 50123 Firenze FI, Italy",
+        "latitude": 43.7701816,
+        "longitude": 11.2546375
+    },
+    {
+        "category": "restaurants",
+        "title": "Osteria del Proconsolo",
+        "rating": 4.7,
+        "address": "Via del Proconsolo, 59, 50122 Firenze FI, Italy",
+        "latitude": 43.7716934,
+        "longitude": 11.2578604
+    },
+    {
+        "category": "restaurants",
+        "title": "Osteria La Dolce Vita Firenze",
+        "rating": 4.7,
+        "address": "Via dei Tavolini, 3r, 50122 Firenze FI, Italy",
+        "latitude": 43.7708206,
+        "longitude": 11.255925399999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Ristorante il Paiolo",
+        "rating": 4.6,
+        "address": "Via del Corso, 42, 50122 Firenze FI, Italy",
+        "latitude": 43.7715313,
+        "longitude": 11.2562742
+    },
+    {
+        "category": "restaurants",
+        "title": "Osteria San Fiorenzo",
+        "rating": 4.8,
+        "address": "Borgo dei Greci, 1r, 50122 Firenze FI, Italy",
+        "latitude": 43.7689306,
+        "longitude": 11.260117399999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Dal Vinaio",
+        "rating": 4.8,
+        "address": "Via Vacchereccia, 10r, 50122 Firenze FI, Italy",
+        "latitude": 43.7696082,
+        "longitude": 11.254881099999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Osteria del Fiore - Piazza del Duomo Firenze",
+        "rating": 4.7,
+        "address": "Piazza del Duomo, 57r, 50122 Firenze FI, Italy",
+        "latitude": 43.7725912,
+        "longitude": 11.2567234
+    },
+    {
+        "category": "restaurants",
+        "title": "Il Ricettario",
+        "rating": 4.7,
+        "address": "Via Lambertesca, 22 R, 50122 Firenze FI, Italy",
+        "latitude": 43.768932799999995,
+        "longitude": 11.2543191
+    },
+    {
+        "category": "restaurants",
+        "title": "Cantinetta delle Terme",
+        "rating": 4.7,
+        "address": "Via delle Terme, 14R, 50123 Firenze FI, Italy",
+        "latitude": 43.7697753,
+        "longitude": 11.2529325
+    },
+    {
+        "category": "restaurants",
+        "title": "Osteria Antica Casa Torre",
+        "rating": 4.8,
+        "address": "Piazza Di San Pier Maggiore 7, R, 50122 Firenze FI, Italy",
+        "latitude": 43.771293,
+        "longitude": 11.261300799999999
+    },
+    {
+        "category": "restaurants",
+        "title": "La Fettunta",
+        "rating": 4.7,
+        "address": "Via dei Neri, 72r, 50122 Firenze FI, Italy",
+        "latitude": 43.768455499999995,
+        "longitude": 11.2574861
+    },
+    {
+        "category": "restaurants",
+        "title": "Osteria Cancello dei Macci",
+        "rating": 4.8,
+        "address": "Via dei Macci, 74r, 50122 Firenze FI, Italy",
+        "latitude": 43.7698386,
+        "longitude": 11.2658085
+    },
+    {
+        "category": "restaurants",
+        "title": "Ristorante Il Granaio",
+        "rating": 4.6,
+        "address": "Via dei Tavolini, 14/r, 50122 Firenze FI, Italy",
+        "latitude": 43.770907699999995,
+        "longitude": 11.2556493
+    },
+    {
+        "category": "cafes",
+        "title": "Ala Grande Caffè(caffè Rosanò)",
+        "rating": 4.9,
+        "address": "Via S. Gallo, 29R, 50129 Firenze FI, Italy",
+        "latitude": 43.7776804,
+        "longitude": 11.2565033
+    },
+    {
+        "category": "cafes",
+        "title": "Caffe Concerto Paszkowski",
+        "rating": 4.4,
+        "address": "Piazza della Repubblica, 6, 50123 Firenze FI, Italy",
+        "latitude": 43.7719491,
+        "longitude": 11.253717199999999
+    },
+    {
+        "category": "cafes",
+        "title": "Rooster Cafe Firenze",
+        "rating": 4.8,
+        "address": "Via Porta Rossa, 63R, 50123 Firenze FI, Italy",
+        "latitude": 43.7700864,
+        "longitude": 11.2527335
+    },
+    {
+        "category": "cafes",
+        "title": "Caffè Gilli",
+        "rating": 4.2,
+        "address": "Via Roma, 1r, 50123 Firenze FI, Italy",
+        "latitude": 43.7718814,
+        "longitude": 11.2541517
+    },
+    {
+        "category": "cafes",
+        "title": "Ditta Artigianale",
+        "rating": 4.2,
+        "address": "Via dei Neri, 32 R, 50122 Firenze FI, Italy",
+        "latitude": 43.7681001,
+        "longitude": 11.2586342
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe degli Artigiani",
+        "rating": 4.5,
+        "address": "Via dello Sprone, 16r, 50125 Firenze FI, Italy",
+        "latitude": 43.7672287,
+        "longitude": 11.2506007
+    },
+    {
+        "category": "cafes",
+        "title": "Rooster Cafe Firenze - Sant'Egidio",
+        "rating": 4.8,
+        "address": "Via Sant'Egidio, 37r, 50123 Firenze FI, Italy",
+        "latitude": 43.7724032,
+        "longitude": 11.2607392
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee Mantra",
+        "rating": 4.8,
+        "address": "Borgo La Croce 71r, Via della Mattonaia, 24r, 50121 Firenze FI, Italy",
+        "latitude": 43.7712988,
+        "longitude": 11.2679341
+    },
+    {
+        "category": "cafes",
+        "title": "Caffè Scudieri Firenze",
+        "rating": 3.5,
+        "address": "Piazza di San Giovanni, 19R, 50123 Firenze FI, Italy",
+        "latitude": 43.7733383,
+        "longitude": 11.2543899
+    },
+    {
+        "category": "cafes",
+        "title": "Caffè del Borgo",
+        "rating": 4.6,
+        "address": "Borgo dei Greci, 29r, 50122 Firenze FI, Italy",
+        "latitude": 43.769194,
+        "longitude": 11.258465099999999
+    },
+    {
+        "category": "cafes",
+        "title": "Un Caffè Bistrot - Spritz e Focacce",
+        "rating": 4.7,
+        "address": "Via Cesare Battisti, 2, 50121 Firenze FI, Italy",
+        "latitude": 43.7769942,
+        "longitude": 11.2606887
+    },
+    {
+        "category": "cafes",
+        "title": "Caffe San Firenze",
+        "rating": 4.1,
+        "address": "Piazza di S. Firenze, 1r, 50122 Firenze FI, Italy",
+        "latitude": 43.7695757,
+        "longitude": 11.257434799999999
+    },
+    {
+        "category": "cafes",
+        "title": "Le Vespe Cafè",
+        "rating": 4.7,
+        "address": "Via Ghibellina, 76r, 50122 Firenze FI, Italy",
+        "latitude": 43.769982399999996,
+        "longitude": 11.262973599999999
+    },
+    {
+        "category": "cafes",
+        "title": "Book Bistrot Opera",
+        "rating": 4.8,
+        "address": "Via Ghibellina, 44r, 50122 Firenze FI, Italy",
+        "latitude": 43.7697119,
+        "longitude": 11.2642942
+    },
+    {
+        "category": "cafes",
+        "title": "Ditta Artigianale Via dello Sprone Specialty Coffee",
+        "rating": 4.3,
+        "address": "Via dello Sprone, 5/R, 50125 Firenze FI, Italy",
+        "latitude": 43.7669563,
+        "longitude": 11.250892799999999
+    },
+    {
+        "category": "cafes",
+        "title": "BEN Caffè",
+        "rating": 4.6,
+        "address": "Via Santa Margherita, 2 r, 50122 Firenze FI, Italy",
+        "latitude": 43.7709271,
+        "longitude": 11.2571415
+    },
+    {
+        "category": "cafes",
+        "title": "Melaleuca Florence Bakery +Bistrot | Brunch & Specialty Coffee",
+        "rating": 4.7,
+        "address": "Lungarno delle Grazie, 18, 50122 Firenze FI, Italy",
+        "latitude": 43.7668378,
+        "longitude": 11.2600596
+    },
+    {
+        "category": "cafes",
+        "title": "Vintage Cafè",
+        "rating": 4.6,
+        "address": "Via dei Conti, 25, 50123 Firenze FI, Italy",
+        "latitude": 43.774111999999995,
+        "longitude": 11.253118899999999
+    },
+    {
+        "category": "cafes",
+        "title": "Caffè Sabatino dal 1921",
+        "rating": 4.2,
+        "address": "Via Faenza, 68R, 50123 Firenze FI, Italy",
+        "latitude": 43.776649,
+        "longitude": 11.251786
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe dolce amaro",
+        "rating": 4.6,
+        "address": "Borgo la Croce, 45r, 50122 Firenze FI, Italy",
+        "latitude": 43.771113899999996,
+        "longitude": 11.2688335
+    },
+    {
+        "category": "mountains",
+        "title": "Poggio al Pratone",
+        "rating": 4.6,
+        "address": "50065 Pontassieve FI, Italy",
+        "latitude": 43.833245999999995,
+        "longitude": 11.3442749
+    },
+    {
+        "category": "mountains",
+        "title": "Parco di Monte Ceceri",
+        "rating": 4.6,
+        "address": "Via Cave di Maiano, 2, 50014 Fiesole FI, Italy",
+        "latitude": 43.794043099999996,
+        "longitude": 11.3040922
+    },
+    {
+        "category": "mountains",
+        "title": "Torre di Buiano",
+        "rating": null,
+        "address": "50014 Metropolitan City of Florence, Italy",
+        "latitude": 43.851594999999996,
+        "longitude": 11.3383194
+    },
+    {
+        "category": "mountains",
+        "title": "Apennine Colossus - Jean de Boulogne",
+        "rating": 4.7,
+        "address": "Via Fiorentina, 276, 50036 Pratolino FI, Italy",
+        "latitude": 43.8594509,
+        "longitude": 11.3045364
+    },
+    {
+        "category": "mountains",
+        "title": "San Gersolè-Torre Rosse",
+        "rating": null,
+        "address": "50023 Metropolitan City of Florence, Italy",
+        "latitude": 43.7222574,
+        "longitude": 11.2626527
+    },
+    {
+        "category": "mountains",
+        "title": "Parco delle Cascine",
+        "rating": 4.3,
+        "address": "Piazzale delle Cascine, 50144 Firenze FI, Italy",
+        "latitude": 43.7828113,
+        "longitude": 11.216911399999999
+    },
+    {
+        "category": "mountains",
+        "title": "Club Alpino Italiano Sezione di Firenze",
+        "rating": 4.4,
+        "address": "Via del Mezzetta, 2/m, 50135 Firenze FI, Italy",
+        "latitude": 43.7729125,
+        "longitude": 11.294515599999999
+    },
+    {
+        "category": "mountains",
+        "title": "Firenze Mongolfiere - Balloon flights in Tuscany",
+        "rating": 5,
+        "address": "Via di Pontassieve, 13, 50142 Firenze FI, Italy",
+        "latitude": 43.7722623,
+        "longitude": 11.201510599999999
+    },
+    {
+        "category": "mountains",
+        "title": "Rimaggio",
+        "rating": null,
+        "address": "50012 Metropolitan City of Florence, Italy",
+        "latitude": 43.757376,
+        "longitude": 11.331406
+    },
+    {
+        "category": "mountains",
+        "title": "Poggio della Risala",
+        "rating": 4.8,
+        "address": "Unnamed Road,52010, Montemignaio FI, Italy",
+        "latitude": 43.7231731,
+        "longitude": 11.5773918
+    },
+    {
+        "category": "mountains",
+        "title": "Fontana delle Scimmie",
+        "rating": 4.7,
+        "address": "Piazza de' Pitti, 1, 50125 Firenze FI, Italy",
+        "latitude": 43.7617379,
+        "longitude": 11.252057599999999
+    },
+    {
+        "category": "mountains",
+        "title": "Torre di Arnolfo",
+        "rating": 4.5,
+        "address": "P.za della Signoria, 2, 50122 Firenze FI, Italy",
+        "latitude": 43.7694598,
+        "longitude": 11.2560112
+    },
+    {
+        "category": "mountains",
+        "title": "Obiettivo Montagna",
+        "rating": 4.3,
+        "address": "Via Arnolfo, 6 p/r, 50121 Firenze FI, Italy",
+        "latitude": 43.7669291,
+        "longitude": 11.2762164
+    },
+    {
+        "category": "mountains",
+        "title": "Cross Retaia",
+        "rating": 4.8,
+        "address": "59100 Prato PO, Italy",
+        "latitude": 43.906696499999995,
+        "longitude": 11.1404259
+    },
+    {
+        "category": "mountains",
+        "title": "Cascata dell'Acquacheta",
+        "rating": 4.7,
+        "address": "50034 San Godenzo FI, Italy",
+        "latitude": 43.990825699999995,
+        "longitude": 11.645753599999999
+    },
+    {
+        "category": "mountains",
+        "title": "Florence Country Life",
+        "rating": 4.4,
+        "address": null,
+        "latitude": 43.6790022,
+        "longitude": 11.530774
+    },
+    {
+        "category": "waterfalls",
+        "title": "Diborrato Waterfall",
+        "rating": 4.5,
+        "address": "Località S. Marziale, 53034 Colle di Val d'Elsa SI, Italy",
+        "latitude": 43.404621,
+        "longitude": 11.1359254
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascata dell'Acquacheta",
+        "rating": 4.7,
+        "address": "50034 San Godenzo FI, Italy",
+        "latitude": 43.990825699999995,
+        "longitude": 11.645753599999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Ponte Vecchio",
+        "rating": 4.7,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.767925,
+        "longitude": 11.2531435
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascate del Ghiaccione",
+        "rating": 4.2,
+        "address": "56034 Chianni PI, Italy",
+        "latitude": 43.4568167,
+        "longitude": 10.6249333
+    },
+    {
+        "category": "waterfalls",
+        "title": "Sistema delle Rampe del Poggi",
+        "rating": 4.8,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7637784,
+        "longitude": 11.2648554
+    },
+    {
+        "category": "lakes",
+        "title": "Lago di Bilancino",
+        "rating": 4.4,
+        "address": "50031 Barberino di Mugello, Metropolitan City of Florence, Italy",
+        "latitude": 43.9778652,
+        "longitude": 11.2630599
+    },
+    {
+        "category": "lakes",
+        "title": "Lago di Londa",
+        "rating": 4,
+        "address": "50060 Londa FI, Italy",
+        "latitude": 43.8614738,
+        "longitude": 11.571313199999999
+    },
+    {
+        "category": "lakes",
+        "title": "Lago di Peretola",
+        "rating": 4.5,
+        "address": "Metropolitan City of Florence, Italy",
+        "latitude": 43.8127643,
+        "longitude": 11.1992576
+    },
+    {
+        "category": "lakes",
+        "title": "Laghetto Albereta",
+        "rating": 4,
+        "address": "50126 Florence, Metropolitan City of Florence, Italy",
+        "latitude": 43.7636464,
+        "longitude": 11.2978651
+    },
+    {
+        "category": "lakes",
+        "title": "Lago di Peretola",
+        "rating": 4.3,
+        "address": "50032 Borgo San Lorenzo, Metropolitan City of Florence, Italy",
+        "latitude": 43.8725516,
+        "longitude": 11.3645591
+    },
+    {
+        "category": "beaches",
+        "title": "Quercetano Bay",
+        "rating": 4.5,
+        "address": "Lungomare del Quercetano, 57016 Castiglioncello LI, Italy",
+        "latitude": 43.407292999999996,
+        "longitude": 10.407313
+    },
+    {
+        "category": "beaches",
+        "title": "Ponte Vecchio",
+        "rating": 4.7,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.767925,
+        "longitude": 11.2531435
+    },
+    {
+        "category": "beaches",
+        "title": "Arno River Park",
+        "rating": 4.2,
+        "address": "Via del Pesciolino, 4, 50145 Firenze FI, Italy",
+        "latitude": 43.7911845,
+        "longitude": 11.1852947
+    },
+    {
+        "category": "beaches",
+        "title": "Blanco Beach Bar",
+        "rating": 3.6,
+        "address": "Via Generale C. A. dalla Chiesa, 9, 50136 Firenze FI, Italy",
+        "latitude": 43.764362,
+        "longitude": 11.310914799999999
+    },
+    {
+        "category": "beaches",
+        "title": "Dogana Beach",
+        "rating": 3.9,
+        "address": "Lungarno del Tempio, 50121 Firenze FI, Italy",
+        "latitude": 43.7654571,
+        "longitude": 11.274993799999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscine Le Pavoniere",
+        "rating": 3.9,
+        "address": "Viale della Catena, 2, 50144 Firenze FI, Italy",
+        "latitude": 43.779440199999996,
+        "longitude": 11.2237343
+    },
+    {
+        "category": "swimming pools",
+        "title": "Asmana Wellness World Firenze",
+        "rating": 4.6,
+        "address": "Via Salvador Allende, 10, 50013 Campi Bisenzio FI, Italy",
+        "latitude": 43.8313278,
+        "longitude": 11.1488988
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina Costolina",
+        "rating": 4.3,
+        "address": "Viale Malta, 4, 50137 Firenze FI, Italy",
+        "latitude": 43.7758636,
+        "longitude": 11.282916
+    },
+    {
+        "category": "swimming pools",
+        "title": "Lido di Marignolle",
+        "rating": 3.8,
+        "address": "Via del Ferrone, 17, 50124 Firenze FI, Italy",
+        "latitude": 43.7587944,
+        "longitude": 11.2128281
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hidron",
+        "rating": 4,
+        "address": "Via di Gramignano, snc, 50013 Campi Bisenzio FI, Italy",
+        "latitude": 43.82067,
+        "longitude": 11.1209854
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina Goffredo Nannini",
+        "rating": 4.1,
+        "address": "Lungarno Aldo Moro, 6, 50136 Firenze FI, Italy",
+        "latitude": 43.767319,
+        "longitude": 11.2913271
+    },
+    {
+        "category": "swimming pools",
+        "title": "Rari Nantes Florentia",
+        "rating": 4,
+        "address": "Lungarno Francesco Ferrucci, 24, 50126 Firenze FI, Italy",
+        "latitude": 43.7641619,
+        "longitude": 11.276514899999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina di Bellariva",
+        "rating": 4.1,
+        "address": "50136 Firenze FI, Italy",
+        "latitude": 43.7671328,
+        "longitude": 11.291129699999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Friends of Swimming",
+        "rating": 4.2,
+        "address": "Via del Romito, 38/B, 50134 Firenze FI, Italy",
+        "latitude": 43.7880975,
+        "longitude": 11.2449858
+    },
+    {
+        "category": "swimming pools",
+        "title": "Klab: Palestra & Piscina",
+        "rating": 4,
+        "address": "Via del Ferrone, 17, 50124 Firenze FI, Italy",
+        "latitude": 43.7587944,
+        "longitude": 11.2128281
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina Poggetto",
+        "rating": 3.9,
+        "address": "Via Michele Mercati, 24, 50139 Firenze FI, Italy",
+        "latitude": 43.795870699999995,
+        "longitude": 11.2477818
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina Rari Nantes",
+        "rating": 4.4,
+        "address": "Viale Maratona, 50137 Firenze FI, Italy",
+        "latitude": 43.7796843,
+        "longitude": 11.2829599
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina S. Marcellino \"R. Dani\"",
+        "rating": 4.3,
+        "address": "Via Chiantigiana, 28, 50126 Firenze FI, Italy",
+        "latitude": 43.7525306,
+        "longitude": 11.295841
+    },
+    {
+        "category": "swimming pools",
+        "title": "Municipal Swimming Pool Costoli",
+        "rating": 4.1,
+        "address": "Piazza Enrico Berlinguer, 2, 50137 Firenze FI, Italy",
+        "latitude": 43.7762294,
+        "longitude": 11.2844845
+    },
+    {
+        "category": "swimming pools",
+        "title": "Pool Delta Florence",
+        "rating": 4,
+        "address": "Via Vittorio Emanuele, 1, 50041 Calenzano FI, Italy",
+        "latitude": 43.8511142,
+        "longitude": 11.1680245
+    },
+    {
+        "category": "resorts",
+        "title": "Four Seasons Hotel Firenze",
+        "rating": 4.8,
+        "address": "Borgo Pinti, 99, 50121 Firenze FI, Italy",
+        "latitude": 43.777002599999996,
+        "longitude": 11.266387499999999
+    },
+    {
+        "category": "resorts",
+        "title": "Eden Rock Resort",
+        "rating": 4.8,
+        "address": "Via Clemente Biondetti, 7, 50139 Firenze FI, Italy",
+        "latitude": 43.8128393,
+        "longitude": 11.283081099999999
+    },
+    {
+        "category": "resorts",
+        "title": "The St. Regis Florence",
+        "rating": 4.8,
+        "address": "Piazza Ognissanti, 1, 50123 Firenze FI, Italy",
+        "latitude": 43.772158399999995,
+        "longitude": 11.245037799999999
+    },
+    {
+        "category": "resorts",
+        "title": "Ville Sull'Arno",
+        "rating": 4.7,
+        "address": "Lungarno Cristoforo Colombo, 1/3/5, 50136 Firenze FI, Italy",
+        "latitude": 43.765817,
+        "longitude": 11.284713
+    },
+    {
+        "category": "resorts",
+        "title": "San Firenze Suites & Spa",
+        "rating": 4.9,
+        "address": "Piazza di S. Firenze, 3/A, 50122 Firenze FI, Italy",
+        "latitude": 43.7699278,
+        "longitude": 11.2573622
+    },
+    {
+        "category": "resorts",
+        "title": "Golden Tower Hotel & Spa",
+        "rating": 4.8,
+        "address": "Piazza degli Strozzi, 11r, 50123 Firenze FI, Italy",
+        "latitude": 43.7706107,
+        "longitude": 11.2519903
+    },
+    {
+        "category": "resorts",
+        "title": "DoubleTree by Hilton Florence Metropole",
+        "rating": 4.1,
+        "address": "Via del Cavallaccio, 36, 50142 Firenze FI, Italy",
+        "latitude": 43.7734296,
+        "longitude": 11.189743799999999
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Mulino di Firenze, member of WorldHotels Crafted",
+        "rating": 4.6,
+        "address": "Via Villamagna, 119, 50126 Firenze FI, Italy",
+        "latitude": 43.7624025,
+        "longitude": 11.3169516
+    },
+    {
+        "category": "resorts",
+        "title": "MH Florence Hotel & Spa",
+        "rating": 4.3,
+        "address": "Via Luigi Alamanni, 37, 50123 Firenze FI, Italy",
+        "latitude": 43.7787618,
+        "longitude": 11.2449915
+    },
+    {
+        "category": "resorts",
+        "title": "Grand Hotel Minerva",
+        "rating": 4.6,
+        "address": "P.za di Santa Maria Novella, 16, 50123 Firenze FI, Italy",
+        "latitude": 43.773846299999995,
+        "longitude": 11.2489665
+    },
+    {
+        "category": "resorts",
+        "title": "Palazzo Firenze by Baglioni Hotels & Resorts",
+        "rating": 4.7,
+        "address": "Via Ghibellina, 87, 50122 Firenze FI, Italy",
+        "latitude": 43.7699928,
+        "longitude": 11.2623128
+    },
+    {
+        "category": "resorts",
+        "title": "Grand Hotel Baglioni",
+        "rating": 4.4,
+        "address": "Piazza dell'Unità Italiana, 6, 50123 Firenze FI, Italy",
+        "latitude": 43.774634999999996,
+        "longitude": 11.250591799999999
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel NH Collection Firenze Porta Rossa",
+        "rating": 4.8,
+        "address": "Via Porta Rossa, 19, 50123 Firenze FI, Italy",
+        "latitude": 43.7701176,
+        "longitude": 11.251984799999999
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Ponte Vecchio Suites & Spa",
+        "rating": 4.9,
+        "address": "Via Dè Belfredelli, 9, 50125 Firenze FI, Italy",
+        "latitude": 43.76759,
+        "longitude": 11.251534
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Spadai",
+        "rating": 4.9,
+        "address": "Via de' Martelli, 10, 50129 Firenze FI, Italy",
+        "latitude": 43.774696399999996,
+        "longitude": 11.255904
+    },
+    {
+        "category": "resorts",
+        "title": "Palazzo Castri 1874",
+        "rating": 4.7,
+        "address": "Piazza della Indipendenza, 7, 50129 Firenze FI, Italy",
+        "latitude": 43.7788146,
+        "longitude": 11.253926499999999
+    },
+    {
+        "category": "resorts",
+        "title": "Tivoli Palazzo Gaddi Firenze Hotel",
+        "rating": 4.7,
+        "address": "Via del Giglio, 9, 50123 Firenze FI, Italy",
+        "latitude": 43.7741713,
+        "longitude": 11.251447599999999
+    },
+    {
+        "category": "resorts",
+        "title": "Il Salviatino Firenze",
+        "rating": 4.7,
+        "address": "Via del Salviatino, 21, 50137 Firenze FI, Italy",
+        "latitude": 43.7879973,
+        "longitude": 11.2972214
+    },
+    {
+        "category": "resorts",
+        "title": "LHP Hotel River & SPA",
+        "rating": 4.2,
+        "address": "Lungarno della Zecca Vecchia, 18, 50122 Firenze FI, Italy",
+        "latitude": 43.766402899999996,
+        "longitude": 11.2673936
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Villa Olmi Firenze",
+        "rating": 4.6,
+        "address": "Via Del Crocifisso Del Lume, 18, 50126 Firenze FI, Italy",
+        "latitude": 43.7570178,
+        "longitude": 11.3123165
+    },
+    {
+        "category": "camping sites",
+        "title": "hu Firenze camping in town",
+        "rating": 4.3,
+        "address": "Via Generale C. A. dalla Chiesa, 1/3, 50136 Firenze FI, Italy",
+        "latitude": 43.764643,
+        "longitude": 11.316149
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Village Il Poggetto",
+        "rating": 4.1,
+        "address": "Via Fiorentina, 212, 50067 Cellai FI, Italy",
+        "latitude": 43.7012666,
+        "longitude": 11.4054776
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Village Panoramico Fiesole",
+        "rating": 3.8,
+        "address": "Via Peramonda, 1, 50014 Fiesole FI, Italy",
+        "latitude": 43.806364099999996,
+        "longitude": 11.3059011
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Village Internazionale Firenze",
+        "rating": 3.4,
+        "address": "Via S. Cristofano, 2, 50023 Bottai FI, Italy",
+        "latitude": 43.723723,
+        "longitude": 11.219294
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Panorama del Chianti",
+        "rating": 4.3,
+        "address": "SP49, 349, 50052 Certaldo FI, Italy",
+        "latitude": 43.582076699999995,
+        "longitude": 11.138583599999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Village Mugello Verde",
+        "rating": 4.4,
+        "address": "Via Massorondinaio, 39, 50038 Scarperia e San Piero FI, Italy",
+        "latitude": 43.9610519,
+        "longitude": 11.309925
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping la futa",
+        "rating": 4.7,
+        "address": "Via Bruscoli Futa, 889h, 50033 Firenzuola FI, Italy",
+        "latitude": 44.0980237,
+        "longitude": 11.2683463
+    },
+    {
+        "category": "camping sites",
+        "title": "hu Firenze Certosa camping in town",
+        "rating": 4,
+        "address": "Via S. Cristofano, 2, 50023 Impruneta FI, Italy",
+        "latitude": 43.723684399999996,
+        "longitude": 11.2191184
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Barco Reale",
+        "rating": 4.2,
+        "address": "Via dei Nardini, 11, 51035 Lamporecchio PT, Italy",
+        "latitude": 43.8414473,
+        "longitude": 10.9106014
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Poggio degli Uccellini",
+        "rating": 4.3,
+        "address": "Via del Poggio A. Uccellini, 1050, 50036 Bivigliano FI, Italy",
+        "latitude": 43.9011417,
+        "longitude": 11.309836299999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Piazzale Leonardo",
+        "rating": 4.7,
+        "address": "50014 Fiesole FI, Italy",
+        "latitude": 43.8009734,
+        "longitude": 11.3040529
+    },
+    {
+        "category": "hiking trails",
+        "title": "Parco di Monte Ceceri",
+        "rating": 4.6,
+        "address": "Via Cave di Maiano, 2, 50014 Fiesole FI, Italy",
+        "latitude": 43.794043099999996,
+        "longitude": 11.3040922
+    },
+    {
+        "category": "hiking trails",
+        "title": "View of Olive Groves",
+        "rating": 5,
+        "address": "Via del Pian dei Giullari, 18-26, 50125 Firenze FI, Italy",
+        "latitude": 43.7497355,
+        "longitude": 11.2574568
+    },
+    {
+        "category": "hiking trails",
+        "title": "Poggio al Pratone",
+        "rating": 4.6,
+        "address": "50065 Pontassieve FI, Italy",
+        "latitude": 43.833245999999995,
+        "longitude": 11.3442749
+    },
+    {
+        "category": "hiking trails",
+        "title": "Parco del Mensola",
+        "rating": 4.3,
+        "address": "Via della Torre, 27, 50135 Firenze FI, Italy",
+        "latitude": 43.7763267,
+        "longitude": 11.307704699999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Boboli Gardens",
+        "rating": 4.2,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7624972,
+        "longitude": 11.248399599999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Sorgente della maria vittoria",
+        "rating": 5,
+        "address": "Via Cave di Maiano, 16, 50014 Fiesole FI, Italy",
+        "latitude": 43.793497699999996,
+        "longitude": 11.307998099999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Boboli Gardens",
+        "rating": 4.2,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7624972,
+        "longitude": 11.248399599999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Eco Florence Tour",
+        "rating": 5,
+        "address": "Corso dei Tintori, 11 r, 50122 Firenze FI, Italy",
+        "latitude": 43.7670276,
+        "longitude": 11.2613437
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Giardino delle Rose",
+        "rating": 4.6,
+        "address": "Viale Giuseppe Poggi, 2, 50125 Firenze FI, Italy",
+        "latitude": 43.762989499999996,
+        "longitude": 11.262823899999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Piazzale Michelangelo",
+        "rating": 4.8,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7629314,
+        "longitude": 11.265056099999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Giardino Bardini",
+        "rating": 4.5,
+        "address": "Costa S. Giorgio, 2, 50125 Firenze FI, Italy",
+        "latitude": 43.763318399999996,
+        "longitude": 11.2570423
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Eco Green Tours Travel and Tours Operator",
+        "rating": 4.8,
+        "address": "Via delle Porte Nuove, 27, 50144 Firenze FI, Italy",
+        "latitude": 43.780127799999995,
+        "longitude": 11.2393909
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Cathedral of Santa Maria del Fiore",
+        "rating": 4.8,
+        "address": "Piazza del Duomo, 50122 Firenze FI, Italy",
+        "latitude": 43.773145,
+        "longitude": 11.255960199999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Eco Tours Italia srl",
+        "rating": 4.7,
+        "address": "Via dei Girolami, 8r, 50122 Firenze FI, Italy",
+        "latitude": 43.7684,
+        "longitude": 11.2544645
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Giardino del Bobolino",
+        "rating": 4.6,
+        "address": "Viale Machiavelli, 18, 50125 Firenze FI, Italy",
+        "latitude": 43.7578525,
+        "longitude": 11.2487125
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Uffizi Galleries",
+        "rating": 4.7,
+        "address": "Piazzale degli Uffizi, 6, 50122 Firenze FI, Italy",
+        "latitude": 43.767785599999996,
+        "longitude": 11.2553108
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "hu Firenze camping in town",
+        "rating": 4.3,
+        "address": "Via Generale C. A. dalla Chiesa, 1/3, 50136 Firenze FI, Italy",
+        "latitude": 43.764643,
+        "longitude": 11.316149
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Pratolino Park",
+        "rating": 4.6,
+        "address": "Via Fiorentina, 276, 50036 Pratolino FI, Italy",
+        "latitude": 43.8599734,
+        "longitude": 11.2982822
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Florence Convention & Visitors Bureau",
+        "rating": 4.6,
+        "address": "V.le Spartaco Lavagnini, 70, 50129 Firenze FI, Italy",
+        "latitude": 43.7823693,
+        "longitude": 11.2537526
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "PODERACCIO Organic Farm Farmhouse",
+        "rating": 4.8,
+        "address": "Località San Michele, 15, 50064 Figline e Incisa Valdarno FI, Italy",
+        "latitude": 43.6786351,
+        "longitude": 11.4038176
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Villa Gamberaia",
+        "rating": 4.5,
+        "address": "Via del Rossellino, 72, 50135 Settignano FI, Italy",
+        "latitude": 43.7806899,
+        "longitude": 11.328536099999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Villa Demidoff",
+        "rating": 4.6,
+        "address": "Parco mediceo di, Via Fiorentina, 276, 50036 Pratolino FI, Italy",
+        "latitude": 43.8599117,
+        "longitude": 11.3034346
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Private guided tours in Florence and Tuscany - Guide me Florence",
+        "rating": 5,
+        "address": null,
+        "latitude": 43.355194399999995,
+        "longitude": 11.0290274
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ecotoursitalia.com",
+        "rating": null,
+        "address": "Via Antonio Magliabechi, 17, 50122 Firenze FI, Italy",
+        "latitude": 43.767516699999995,
+        "longitude": 11.2612426
+    },
+    {
+        "category": "temples",
+        "title": "Synagogue and Jewish Museum of Florence",
+        "rating": 4.5,
+        "address": "Via Luigi Carlo Farini, 6, 50121 Firenze FI, Italy",
+        "latitude": 43.772731799999995,
+        "longitude": 11.266313799999999
+    },
+    {
+        "category": "temples",
+        "title": "Samadhe Viharaya-Firenze",
+        "rating": 4.8,
+        "address": "Via Carlo del Prete, 10, 50127 Firenze FI, Italy",
+        "latitude": 43.794819,
+        "longitude": 11.233545699999999
+    },
+    {
+        "category": "temples",
+        "title": "Basilica of Santa Maria Novella",
+        "rating": 4.7,
+        "address": "P.za di Santa Maria Novella, 18, 50123 Firenze FI, Italy",
+        "latitude": 43.7746346,
+        "longitude": 11.2493859
+    },
+    {
+        "category": "temples",
+        "title": "Cathedral of Santa Maria del Fiore",
+        "rating": 4.8,
+        "address": "Piazza del Duomo, 50122 Firenze FI, Italy",
+        "latitude": 43.773145,
+        "longitude": 11.255960199999999
+    },
+    {
+        "category": "temples",
+        "title": "Basilica of Santa Croce in Florence",
+        "rating": 4.7,
+        "address": "Piazza di Santa Croce, 16, 50122 Firenze FI, Italy",
+        "latitude": 43.7685683,
+        "longitude": 11.262267699999999
+    },
+    {
+        "category": "temples",
+        "title": "Old Synagogue, 1882",
+        "rating": 2.5,
+        "address": "Via dell'Oche, 5, 50122 Firenze FI, Italy",
+        "latitude": 43.7721595,
+        "longitude": 11.2563797
+    },
+    {
+        "category": "temples",
+        "title": "Istituto Buddista Italiano Soka Gakkai",
+        "rating": 4.9,
+        "address": "Via Reginaldo Giuliani, 546, 50141 Firenze FI, Italy",
+        "latitude": 43.8185524,
+        "longitude": 11.224421399999999
+    },
+    {
+        "category": "temples",
+        "title": "Basilica di San Miniato",
+        "rating": 4.8,
+        "address": "Via delle Porte Sante, 34, 50125 Firenze FI, Italy",
+        "latitude": 43.7594184,
+        "longitude": 11.2649796
+    },
+    {
+        "category": "temples",
+        "title": "Centro Terra Di Unificazione Ewam",
+        "rating": 4.8,
+        "address": "Via Pistoiese, 149, 50145 Firenze FI, Italy",
+        "latitude": 43.7948617,
+        "longitude": 11.1973456
+    },
+    {
+        "category": "temples",
+        "title": "Chabad of Tuscany",
+        "rating": 4,
+        "address": "Borgo Pinti, 8, 50121 Firenze FI, Italy",
+        "latitude": 43.772053199999995,
+        "longitude": 11.262068099999999
+    },
+    {
+        "category": "temples",
+        "title": "Baptistery of St. John",
+        "rating": 4.6,
+        "address": "Piazza San Giovanni, 50122 Firenze FI, Italy",
+        "latitude": 43.773115399999995,
+        "longitude": 11.2550232
+    },
+    {
+        "category": "temples",
+        "title": "Centro Zen Firenze - Tempio Shinnyoji",
+        "rating": 4.4,
+        "address": "Via Vittorio Emanuele II, 171, 50134 Firenze FI, Italy",
+        "latitude": 43.792127699999995,
+        "longitude": 11.2516994
+    },
+    {
+        "category": "temples",
+        "title": "Basilica di Santa Trinita",
+        "rating": 4.6,
+        "address": "Piazza di Santa Trinita, 50123 Firenze FI, Italy",
+        "latitude": 43.7700714,
+        "longitude": 11.2510018
+    },
+    {
+        "category": "temples",
+        "title": "Piazzale Michelangelo",
+        "rating": 4.8,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7629314,
+        "longitude": 11.265056099999999
+    },
+    {
+        "category": "temples",
+        "title": "Basilica di San Lorenzo",
+        "rating": 4.6,
+        "address": "Piazza di San Lorenzo, 9, 50123 Firenze FI, Italy",
+        "latitude": 43.7749619,
+        "longitude": 11.253876199999999
+    },
+    {
+        "category": "temples",
+        "title": "Basilica di Santo Spirito",
+        "rating": 4.6,
+        "address": "Piazza Santo Spirito, 30, 50125 Firenze FI, Italy",
+        "latitude": 43.7670968,
+        "longitude": 11.2480356
+    },
+    {
+        "category": "temples",
+        "title": "真如寺・曹洞宗",
+        "rating": null,
+        "address": "Italy, Città Metropolitana di Firenze, Firenze, Via Vittorio Emanuele II",
+        "latitude": 43.7921367,
+        "longitude": 11.2516793
+    },
+    {
+        "category": "temples",
+        "title": "The SS. Annunziata di Firenze",
+        "rating": 4.8,
+        "address": "P.za della SS. Annunziata, 50122 Firenze FI, Italy",
+        "latitude": 43.7770752,
+        "longitude": 11.2613407
+    },
+    {
+        "category": "temples",
+        "title": "Auditorium Santa Croce al Tempio",
+        "rating": 4.8,
+        "address": "Via di S. Giuseppe, 50122 Firenze FI, Italy",
+        "latitude": 43.768037899999996,
+        "longitude": 11.264928
+    },
+    {
+        "category": "temples",
+        "title": "Chiesa di San Jacopo Soprarno",
+        "rating": 4.8,
+        "address": "Borgo San Iacopo, 34, 50125 Firenze FI, Italy",
+        "latitude": 43.7680643,
+        "longitude": 11.250634
+    },
+    {
+        "category": "museums",
+        "title": "Uffizi Galleries",
+        "rating": 4.7,
+        "address": "Piazzale degli Uffizi, 6, 50122 Firenze FI, Italy",
+        "latitude": 43.767785599999996,
+        "longitude": 11.2553108
+    },
+    {
+        "category": "museums",
+        "title": "Galleria dell’Accademia di Firenze",
+        "rating": 4.6,
+        "address": "Via Ricasoli, 58/60, 50129 Firenze FI, Italy",
+        "latitude": 43.7768145,
+        "longitude": 11.2586424
+    },
+    {
+        "category": "museums",
+        "title": "Palazzo Pitti",
+        "rating": 4.6,
+        "address": "Piazza de' Pitti, 1, 50125 Firenze FI, Italy",
+        "latitude": 43.7651533,
+        "longitude": 11.250008099999999
+    },
+    {
+        "category": "museums",
+        "title": "Palazzo Vecchio",
+        "rating": 4.7,
+        "address": "P.za della Signoria, 50122 Firenze FI, Italy",
+        "latitude": 43.7693012,
+        "longitude": 11.2561509
+    },
+    {
+        "category": "museums",
+        "title": "Museo Nazionale del Bargello",
+        "rating": 4.7,
+        "address": "Via del Proconsolo, 4, 50122 Firenze FI, Italy",
+        "latitude": 43.7703981,
+        "longitude": 11.2580078
+    },
+    {
+        "category": "museums",
+        "title": "Opera del Duomo Museum",
+        "rating": 4.6,
+        "address": "Piazza del Duomo, 9, 50122 Firenze FI, Italy",
+        "latitude": 43.7731706,
+        "longitude": 11.258111999999999
+    },
+    {
+        "category": "museums",
+        "title": "Stibbert Museum",
+        "rating": 4.8,
+        "address": "Via Federico Stibbert, 26, 50134 Firenze FI, Italy",
+        "latitude": 43.792888399999995,
+        "longitude": 11.2549906
+    },
+    {
+        "category": "museums",
+        "title": "Palatine Gallery",
+        "rating": 4.7,
+        "address": "Piazza de' Pitti, 1, 50125 Firenze FI, Italy",
+        "latitude": 43.765302,
+        "longitude": 11.2500688
+    },
+    {
+        "category": "museums",
+        "title": "Basilica di San Lorenzo",
+        "rating": 4.6,
+        "address": "Piazza di San Lorenzo, 9, 50123 Firenze FI, Italy",
+        "latitude": 43.7749619,
+        "longitude": 11.253876199999999
+    },
+    {
+        "category": "museums",
+        "title": "Cappelle Medicee",
+        "rating": 4.7,
+        "address": "Piazza di Madonna degli Aldobrandini, 6, 50123 Firenze FI, Italy",
+        "latitude": 43.7750913,
+        "longitude": 11.2533903
+    },
+    {
+        "category": "museums",
+        "title": "Basilica of Santa Maria Novella",
+        "rating": 4.7,
+        "address": "P.za di Santa Maria Novella, 18, 50123 Firenze FI, Italy",
+        "latitude": 43.7746346,
+        "longitude": 11.2493859
+    },
+    {
+        "category": "museums",
+        "title": "Museo di Palazzo Davanzati",
+        "rating": 4.6,
+        "address": "Via Porta Rossa, 13, 50123 Firenze FI, Italy",
+        "latitude": 43.7701302,
+        "longitude": 11.2528563
+    },
+    {
+        "category": "museums",
+        "title": "Museo Galileo",
+        "rating": 4.5,
+        "address": "Piazza dei Giudici, 1, 50122 Firenze FI, Italy",
+        "latitude": 43.7677337,
+        "longitude": 11.255903199999999
+    },
+    {
+        "category": "museums",
+        "title": "Medici Riccardi Palace",
+        "rating": 4.5,
+        "address": "Via Camillo Cavour, 3, 50129 Firenze FI, Italy",
+        "latitude": 43.7752136,
+        "longitude": 11.255727199999999
+    },
+    {
+        "category": "museums",
+        "title": "Opificio delle Pietre Dure",
+        "rating": 4.6,
+        "address": "Via degli Alfani, 78, 50121 Firenze FI, Italy",
+        "latitude": 43.776162199999995,
+        "longitude": 11.258892399999999
+    },
+    {
+        "category": "museums",
+        "title": "Strozzi Palace",
+        "rating": 4.6,
+        "address": "Piazza degli Strozzi, 50123 Firenze FI, Italy",
+        "latitude": 43.771273,
+        "longitude": 11.251761199999999
+    },
+    {
+        "category": "museums",
+        "title": "Museo di San Marco",
+        "rating": 4.7,
+        "address": "Piazza San Marco, 3, 50121 Firenze FI, Italy",
+        "latitude": 43.7784943,
+        "longitude": 11.259431
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Natural History, La Specola",
+        "rating": 4.5,
+        "address": "Via Romana, 17, 50125 Firenze FI, Italy",
+        "latitude": 43.7643846,
+        "longitude": 11.2469744
+    },
+    {
+        "category": "museums",
+        "title": "Museo Leonardo Da Vinci",
+        "rating": 4.7,
+        "address": "Via del Castellaccio, 1r, 50121 Firenze FI, Italy",
+        "latitude": 43.7745539,
+        "longitude": 11.2585692
+    },
+    {
+        "category": "museums",
+        "title": "LEONARDO INTERACTIVE MUSEUM 50%OFF ONLINE TICKETS OFFICIAL SITE",
+        "rating": 4.6,
+        "address": "Via dei Servi, 66r, 50122 Firenze FI, Italy",
+        "latitude": 43.7749563,
+        "longitude": 11.2589489
+    },
+    {
+        "category": "night markets",
+        "title": "il Mercato Centrale Firenze",
+        "rating": 4.4,
+        "address": "Piazza del Mercato Centrale, Via dell'Ariento, 50123 Firenze FI, Italy",
+        "latitude": 43.7764676,
+        "longitude": 11.2528338
+    },
+    {
+        "category": "night markets",
+        "title": "Loggia del Mercato Nuovo",
+        "rating": 4.3,
+        "address": "Piazza del Mercato Nuovo, 5 R, 50123 Firenze FI, Italy",
+        "latitude": 43.7699893,
+        "longitude": 11.254278099999999
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato di Sant’Ambrogio",
+        "rating": 4.5,
+        "address": "Piazza Lorenzo Ghiberti, 50122 Firenze FI, Italy",
+        "latitude": 43.7705747,
+        "longitude": 11.266912999999999
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato delle Cure",
+        "rating": 4.3,
+        "address": "Piazza delle Cure, 50133 Firenze FI, Italy",
+        "latitude": 43.786815999999995,
+        "longitude": 11.2686355
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato Isolotto",
+        "rating": 4.2,
+        "address": "Viale delle Magnolie, 8, 50142 Firenze FI, Italy",
+        "latitude": 43.778578599999996,
+        "longitude": 11.2171679
+    },
+    {
+        "category": "night markets",
+        "title": "Piazza Santo Spirito Flea Market",
+        "rating": 4.2,
+        "address": "Piazza Santo Spirito, 50125 Firenze FI, Italy",
+        "latitude": 43.7668799,
+        "longitude": 11.247456399999999
+    },
+    {
+        "category": "night markets",
+        "title": "Piazza Indipendenza Market",
+        "rating": null,
+        "address": "Piazza della Indipendenza, 50129 Firenze FI, Italy",
+        "latitude": 43.7799415,
+        "longitude": 11.2538696
+    },
+    {
+        "category": "night markets",
+        "title": "Piazzale Michelangelo",
+        "rating": 4.8,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7629314,
+        "longitude": 11.265056099999999
+    },
+    {
+        "category": "night markets",
+        "title": "Santo Spirito Market",
+        "rating": 4.7,
+        "address": "Piazza Santo Spirito, 50125 Firenze FI, Italy",
+        "latitude": 43.766855,
+        "longitude": 11.2474139
+    },
+    {
+        "category": "night markets",
+        "title": "Piazza della Signoria",
+        "rating": 4.8,
+        "address": "P.za della Signoria, 50122 Firenze FI, Italy",
+        "latitude": 43.7696855,
+        "longitude": 11.255642199999999
+    },
+    {
+        "category": "night markets",
+        "title": "Loggia del Mercato Nuovo",
+        "rating": 4.6,
+        "address": "Piazza del Mercato Nuovo, 50123 Firenze FI, Italy",
+        "latitude": 43.7699888,
+        "longitude": 11.2542973
+    },
+    {
+        "category": "night markets",
+        "title": "Florence Leather Market (real)",
+        "rating": 4.5,
+        "address": "Via Calimala &, Piazza del Mercato Nuovo, 50123 Firenze FI, Italy",
+        "latitude": 43.7699934,
+        "longitude": 11.254202399999999
+    },
+    {
+        "category": "night markets",
+        "title": "ALIMENTARI PONTE VECCHIO",
+        "rating": 2.8,
+        "address": "Borgo San Iacopo, 25r, 50125 Firenze FI, Italy",
+        "latitude": 43.767635999999996,
+        "longitude": 11.2519823
+    },
+    {
+        "category": "night markets",
+        "title": "Piazza della Repubblica",
+        "rating": 4.6,
+        "address": "50123 Firenze FI, Italy",
+        "latitude": 43.771426299999995,
+        "longitude": 11.254019
+    },
+    {
+        "category": "night markets",
+        "title": "Ponte Vecchio",
+        "rating": 4.7,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.767925,
+        "longitude": 11.2531435
+    },
+    {
+        "category": "night markets",
+        "title": "Fish Market",
+        "rating": 4.4,
+        "address": "Piazza dei Ciompi, 50122 Firenze FI, Italy",
+        "latitude": 43.7713274,
+        "longitude": 11.264938599999999
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato di scandicci",
+        "rating": 4.2,
+        "address": "Piazzale della Resistenza, 5/3, 50018 Scandicci FI, Italy",
+        "latitude": 43.757920899999995,
+        "longitude": 11.1820082
+    },
+    {
+        "category": "night markets",
+        "title": "Molo Firenze",
+        "rating": 4,
+        "address": "Viale dell'Albereta, 8, 50136 Firenze FI, Italy",
+        "latitude": 43.7645002,
+        "longitude": 11.283933699999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Piazzale Michelangelo",
+        "rating": 4.8,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7629314,
+        "longitude": 11.265056099999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Violet Trefusis viewpoint",
+        "rating": 4.7,
+        "address": "Via Roti Michelozzi, 5, 50124 Firenze FI, Italy",
+        "latitude": 43.7639709,
+        "longitude": 11.2331708
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ponte Vecchio",
+        "rating": 4.7,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.767925,
+        "longitude": 11.2531435
+    },
+    {
+        "category": "viewpoints",
+        "title": "Piazza della Signoria",
+        "rating": 4.8,
+        "address": "P.za della Signoria, 50122 Firenze FI, Italy",
+        "latitude": 43.7696855,
+        "longitude": 11.255642199999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Landscape from Road to Saint Francesco",
+        "rating": 4.7,
+        "address": "Via S. Francesco, 1, 50014 Fiesole FI, Italy",
+        "latitude": 43.807276699999996,
+        "longitude": 11.289845699999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Porta San Niccolò",
+        "rating": 4.6,
+        "address": "Piazza Giuseppe Poggi, 1, 50125 Firenze FI, Italy",
+        "latitude": 43.764548399999995,
+        "longitude": 11.2649262
+    },
+    {
+        "category": "viewpoints",
+        "title": "Piazza del Duomo",
+        "rating": 4.8,
+        "address": "50122 Firenze FI, Italy",
+        "latitude": 43.773091199999996,
+        "longitude": 11.2554649
+    },
+    {
+        "category": "viewpoints",
+        "title": "Piazzale Michelangelo",
+        "rating": 4.9,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7624561,
+        "longitude": 11.264930399999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Vista Panoramica di Firenze",
+        "rating": 4.9,
+        "address": "Viale Giuseppe Poggi, 7, 50125 Firenze FI, Italy",
+        "latitude": 43.7629459,
+        "longitude": 11.2646398
+    },
+    {
+        "category": "viewpoints",
+        "title": "Punto panoramico",
+        "rating": 4.4,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7581572,
+        "longitude": 11.2583591
+    },
+    {
+        "category": "viewpoints",
+        "title": "Boboli Gardens",
+        "rating": 4.2,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7624972,
+        "longitude": 11.248399599999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Panorama su Firenze",
+        "rating": 4.8,
+        "address": "Via di Bellosguardo, 9/11, 50124 Firenze FI, Italy",
+        "latitude": 43.764874299999995,
+        "longitude": 11.2323068
+    },
+    {
+        "category": "viewpoints",
+        "title": "Giotto's Bell Tower",
+        "rating": 4.8,
+        "address": "Piazza del Duomo, 43°46'22\"N 11°15'20\"E, 50122 Firenze FI, Italy",
+        "latitude": 43.7728578,
+        "longitude": 11.255782199999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Piazza della Repubblica",
+        "rating": 4.6,
+        "address": "50123 Firenze FI, Italy",
+        "latitude": 43.771426299999995,
+        "longitude": 11.254019
+    },
+    {
+        "category": "viewpoints",
+        "title": "Trainspotting Florence Campo di Marte",
+        "rating": 4.5,
+        "address": "Cavalcavia dell'Affrico, 309, 50137 Firenze FI, Italy",
+        "latitude": 43.7710886,
+        "longitude": 11.282594399999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Panorama su Firenze, Novoli",
+        "rating": 4.7,
+        "address": "Via S. Carlo, 5-1, 50124 Firenze FI, Italy",
+        "latitude": 43.763111099999996,
+        "longitude": 11.229199399999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Belvedere Vittorio Sermonti",
+        "rating": 4.8,
+        "address": "Viale Galileo, 6, 50125 Firenze FI, Italy",
+        "latitude": 43.7619042,
+        "longitude": 11.2641564
+    },
+    {
+        "category": "viewpoints",
+        "title": "Terrazza San Miniato",
+        "rating": 4.9,
+        "address": "Galileo San Miniato, 50125 Firenze FI, Italy",
+        "latitude": 43.7600615,
+        "longitude": 11.264182499999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ponte Santa Trinita",
+        "rating": 4.6,
+        "address": "50100 Firenze FI, Italy",
+        "latitude": 43.7690208,
+        "longitude": 11.2503107
+    },
+    {
+        "category": "viewpoints",
+        "title": "Giardino delle Rose",
+        "rating": 4.6,
+        "address": "Viale Giuseppe Poggi, 2, 50125 Firenze FI, Italy",
+        "latitude": 43.762989499999996,
+        "longitude": 11.262823899999999
+    },
+    {
+        "category": "gardens",
+        "title": "Boboli Gardens",
+        "rating": 4.2,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7624972,
+        "longitude": 11.248399599999999
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino Bardini",
+        "rating": 4.5,
+        "address": "Costa S. Giorgio, 2, 50125 Firenze FI, Italy",
+        "latitude": 43.763318399999996,
+        "longitude": 11.2570423
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino delle Rose",
+        "rating": 4.6,
+        "address": "Viale Giuseppe Poggi, 2, 50125 Firenze FI, Italy",
+        "latitude": 43.762989499999996,
+        "longitude": 11.262823899999999
+    },
+    {
+        "category": "gardens",
+        "title": "Orto Botanico Giardino dei Semplici - Università di Firenze",
+        "rating": 4.1,
+        "address": "Via Pier Antonio Micheli, 3, 50121 Firenze FI, Italy",
+        "latitude": 43.7787582,
+        "longitude": 11.2614343
+    },
+    {
+        "category": "gardens",
+        "title": "Villa di Castello",
+        "rating": 4.6,
+        "address": "Via di Castello, 44, 50141 Firenze FI, Italy",
+        "latitude": 43.819296699999995,
+        "longitude": 11.228836999999999
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino Martin Lutero",
+        "rating": 4.4,
+        "address": "Lungarno Torrigiani, 3, 50125 Firenze FI, Italy",
+        "latitude": 43.7656639,
+        "longitude": 11.2574948
+    },
+    {
+        "category": "gardens",
+        "title": "Parco delle Cascine",
+        "rating": 4.3,
+        "address": "Piazzale delle Cascine, 50144 Firenze FI, Italy",
+        "latitude": 43.7828113,
+        "longitude": 11.216911399999999
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino della Scuderie Reali",
+        "rating": 4.4,
+        "address": "Piazzale di Porta Romana, 9, 50125 Firenze FI, Italy",
+        "latitude": 43.7597424,
+        "longitude": 11.2450143
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino di Palazzo Medici Riccardi",
+        "rating": 4.6,
+        "address": "Via de' Ginori, 2n, 50123 Firenze FI, Italy",
+        "latitude": 43.7751899,
+        "longitude": 11.2553708
+    },
+    {
+        "category": "gardens",
+        "title": "Giardini Baden Powell",
+        "rating": 4.5,
+        "address": "Via Federico Stibbert, 31, 50134 Firenze FI, Italy",
+        "latitude": 43.791663199999995,
+        "longitude": 11.2555786
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino d'Azeglio",
+        "rating": 4.2,
+        "address": "Piazza Massimo D'Azeglio, 39, 50121 Firenze FI, Italy",
+        "latitude": 43.774380099999995,
+        "longitude": 11.267828
+    },
+    {
+        "category": "gardens",
+        "title": "Giardini di Bellariva",
+        "rating": 4.1,
+        "address": "50136 Firenze FI, Italy",
+        "latitude": 43.7674644,
+        "longitude": 11.2895813
+    },
+    {
+        "category": "gardens",
+        "title": "Fontana della Fortezza da Basso",
+        "rating": 4.2,
+        "address": "50129 Firenze FI, Italy",
+        "latitude": 43.782288699999995,
+        "longitude": 11.251718
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino di Borgo Allegri",
+        "rating": 4.6,
+        "address": "Borgo Allegri, 18, 50122 Firenze FI, Italy",
+        "latitude": 43.769162,
+        "longitude": 11.264193299999999
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino del Museo Stibbert",
+        "rating": 4.6,
+        "address": "Via Federico Stibbert, 26, 50134 Firenze FI, Italy",
+        "latitude": 43.79324,
+        "longitude": 11.256234599999999
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino della Botanica Superiore",
+        "rating": 3.1,
+        "address": "Piazza de' Pitti, 1, 50125 Firenze FI, Italy",
+        "latitude": 43.7628394,
+        "longitude": 11.2479623
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino del Bobolino",
+        "rating": 4.6,
+        "address": "Viale Machiavelli, 18, 50125 Firenze FI, Italy",
+        "latitude": 43.7578525,
+        "longitude": 11.2487125
+    },
+    {
+        "category": "gardens",
+        "title": "Villa Bardini",
+        "rating": 4.6,
+        "address": "Costa S. Giorgio, 2, 50125 Firenze FI, Italy",
+        "latitude": 43.763985399999996,
+        "longitude": 11.2561705
+    },
+    {
+        "category": "gardens",
+        "title": "EdV a Garden with a View",
+        "rating": 4.8,
+        "address": "Passo All'Erta, 50125 Firenze FI, Italy",
+        "latitude": 43.7580059,
+        "longitude": 11.2618224
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino della Fortezza",
+        "rating": 4.3,
+        "address": "V.le Filippo Strozzi, 3493, 50129 Firenze FI, Italy",
+        "latitude": 43.781662499999996,
+        "longitude": 11.2517718
+    },
+    {
+        "category": "zoo",
+        "title": "Zoo of Pistoia",
+        "rating": 4.4,
+        "address": "Via Pieve a Celle Nuova, Via Pieve a Celle, 160/160/A, 51100 Pistoia PT, Italy",
+        "latitude": 43.9289823,
+        "longitude": 10.8674444
+    },
+    {
+        "category": "zoo",
+        "title": "dell'Albereta Park - Pioppeta Galluzzo",
+        "rating": 4.4,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7371574,
+        "longitude": 11.2373561
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventure Park Il Gigante",
+        "rating": 4.7,
+        "address": "Via Fiorentina, 50036 Pratolino FI, Italy",
+        "latitude": 43.860243,
+        "longitude": 11.2975482
+    },
+    {
+        "category": "adventure parks",
+        "title": "Vincigliata Adventure Park",
+        "rating": 4.6,
+        "address": "Via Vincigliata, 21, 50014 Fiesole FI, Italy",
+        "latitude": 43.7951845,
+        "longitude": 11.3124565
+    },
+    {
+        "category": "adventure parks",
+        "title": "Parco Giochi Mondobimbo",
+        "rating": 3.6,
+        "address": "Via Madonna della Tosse, Snc, 50129 Firenze FI, Italy",
+        "latitude": 43.7857226,
+        "longitude": 11.263802499999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Trampolini da Manolo e Manola",
+        "rating": 3.9,
+        "address": "Boschetto, 50143, 50143 Firenze FI, Italy",
+        "latitude": 43.7701985,
+        "longitude": 11.225750099999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Mall Firenze",
+        "rating": 4.2,
+        "address": "Via Europa, 8, 50066 Leccio FI, Italy",
+        "latitude": 43.7020615,
+        "longitude": 11.4641561
+    },
+    {
+        "category": "shopping malls",
+        "title": "Galleria Commerciale Santa Maria Novella",
+        "rating": 4.1,
+        "address": "Piazza della Stazione, 41, 50123 Firenze FI, Italy",
+        "latitude": 43.776342799999995,
+        "longitude": 11.248062
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro commerciale Ponte a Greve",
+        "rating": 4.2,
+        "address": "Viuzzo delle Case Nuove, 9, 50143 Firenze FI, Italy",
+        "latitude": 43.765511599999996,
+        "longitude": 11.1968736
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale San Donato",
+        "rating": 4.3,
+        "address": "Via Enrico Forlanini, 1, 50127 Firenze FI, Italy",
+        "latitude": 43.7908651,
+        "longitude": 11.228601999999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "High End Stores",
+        "rating": 4.8,
+        "address": "Via de' Tornabuoni, 19, 50123 Firenze FI, Italy",
+        "latitude": 43.7722109,
+        "longitude": 11.251223999999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Outlet Barberino",
+        "rating": 4.4,
+        "address": "Via Meucci, 50031 Barberino di Mugello FI, Italy",
+        "latitude": 43.9848128,
+        "longitude": 11.2155887
+    },
+    {
+        "category": "shopping malls",
+        "title": "I Gigli",
+        "rating": 4.4,
+        "address": "Via San Quirico, 165, 50013 Campi Bisenzio FI, Italy",
+        "latitude": 43.847043199999995,
+        "longitude": 11.143294599999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shopping Center Freeland",
+        "rating": 3.8,
+        "address": "Via del Cavallaccio, 1, 50142 Firenze FI, Italy",
+        "latitude": 43.7723152,
+        "longitude": 11.188699999999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale Gignoro",
+        "rating": 4.4,
+        "address": "Via Francesco Calasso, 19, 50135 Firenze FI, Italy",
+        "latitude": 43.7693869,
+        "longitude": 11.299026099999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Bus to Firenze Outlet",
+        "rating": 3.7,
+        "address": "V.le Filippo Strozzi, 11n, 50129 Firenze FI, Italy",
+        "latitude": 43.7812169,
+        "longitude": 11.2465919
+    },
+    {
+        "category": "shopping malls",
+        "title": "Firenze pelle",
+        "rating": 5,
+        "address": "Via Porta Rossa, 12r, 50123 Firenze FI, Italy",
+        "latitude": 43.7702293,
+        "longitude": 11.254962599999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale Le Piagge",
+        "rating": 4,
+        "address": "Via Lombardia, 15, 50145 Firenze FI, Italy",
+        "latitude": 43.7908519,
+        "longitude": 11.1706846
+    },
+    {
+        "category": "shopping malls",
+        "title": "Cross Street Market of Florence",
+        "rating": 5,
+        "address": "Via Sant'Antonino, 8R, 50123 Firenze FI, Italy",
+        "latitude": 43.7754127,
+        "longitude": 11.2516725
+    },
+    {
+        "category": "shopping malls",
+        "title": "Rue commerçante de Florence",
+        "rating": null,
+        "address": "Via dei Cerchi, 25, 50122 Firenze FI, Italy",
+        "latitude": 43.7709578,
+        "longitude": 11.256084099999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Tous",
+        "rating": 4.7,
+        "address": "COIN универмаг, Via dei Calzaiuoli, 56, 50123 Firenze FI, Italy",
+        "latitude": 43.770142799999995,
+        "longitude": 11.254485299999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale Naturale Boboli",
+        "rating": 3.9,
+        "address": "Via Romana, 138 r, 50125 Firenze FI, Italy",
+        "latitude": 43.7617828,
+        "longitude": 11.242638099999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale Carlo del Prete",
+        "rating": 4.2,
+        "address": "Via Carlo del Prete, 63, 50127 Firenze FI, Italy",
+        "latitude": 43.796698299999996,
+        "longitude": 11.229228299999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "佛罗伦萨中国街 Chinatown Florence",
+        "rating": 4.9,
+        "address": "Via Sant'Antonino, 50123 Firenze FI, Italy",
+        "latitude": 43.7752596,
+        "longitude": 11.2511801
+    },
+    {
+        "category": "shopping malls",
+        "title": "chaussures",
+        "rating": 5,
+        "address": "50123 Firenze FI, Italy",
+        "latitude": 43.7702531,
+        "longitude": 11.254914399999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "LAPO OUTLET",
+        "rating": 4.4,
+        "address": "Via Scipione Ammirato, 59A, 50136 Firenze FI, Italy",
+        "latitude": 43.7707069,
+        "longitude": 11.276240399999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Loggia dei Lanzi",
+        "rating": 4.8,
+        "address": "P.za della Signoria, 50121 Firenze FI, Italy",
+        "latitude": 43.7691899,
+        "longitude": 11.2555334
+    },
+    {
+        "category": "historical sites",
+        "title": "Palazzo Vecchio",
+        "rating": 4.7,
+        "address": "P.za della Signoria, 50122 Firenze FI, Italy",
+        "latitude": 43.7693012,
+        "longitude": 11.2561509
+    },
+    {
+        "category": "historical sites",
+        "title": "Brunelleschi's dome",
+        "rating": 4.8,
+        "address": "Piazza del Duomo, 50122 Firenze FI, Italy",
+        "latitude": 43.7731911,
+        "longitude": 11.2567217
+    },
+    {
+        "category": "historical sites",
+        "title": "Piazza della Signoria",
+        "rating": 4.8,
+        "address": "P.za della Signoria, 50122 Firenze FI, Italy",
+        "latitude": 43.7696855,
+        "longitude": 11.255642199999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Piazza della Santissima Annunziata",
+        "rating": 4.6,
+        "address": "P.za della SS. Annunziata, 50122 Firenze FI, Italy",
+        "latitude": 43.7764783,
+        "longitude": 11.2606212
+    },
+    {
+        "category": "historical sites",
+        "title": "Ponte Vecchio",
+        "rating": 4.7,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.767925,
+        "longitude": 11.2531435
+    },
+    {
+        "category": "historical sites",
+        "title": "Porta Romana",
+        "rating": 4.4,
+        "address": "Piazzale di Porta Romana, 50125 Firenze FI, Italy",
+        "latitude": 43.7607717,
+        "longitude": 11.2419172
+    },
+    {
+        "category": "historical sites",
+        "title": "Cathedral of Santa Maria del Fiore",
+        "rating": 4.8,
+        "address": "Piazza del Duomo, 50122 Firenze FI, Italy",
+        "latitude": 43.773145,
+        "longitude": 11.255960199999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Porta San Niccolò",
+        "rating": 4.6,
+        "address": "Piazza Giuseppe Poggi, 1, 50125 Firenze FI, Italy",
+        "latitude": 43.764548399999995,
+        "longitude": 11.2649262
+    },
+    {
+        "category": "historical sites",
+        "title": "Piazzale Michelangelo",
+        "rating": 4.8,
+        "address": "50125 Firenze FI, Italy",
+        "latitude": 43.7629314,
+        "longitude": 11.265056099999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Piazza del Duomo",
+        "rating": 4.8,
+        "address": "50122 Firenze FI, Italy",
+        "latitude": 43.773091199999996,
+        "longitude": 11.2554649
+    },
+    {
+        "category": "historical sites",
+        "title": "Basilica of Santa Croce in Florence",
+        "rating": 4.7,
+        "address": "Piazza di Santa Croce, 16, 50122 Firenze FI, Italy",
+        "latitude": 43.7685683,
+        "longitude": 11.262267699999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Uffizi Galleries",
+        "rating": 4.7,
+        "address": "Piazzale degli Uffizi, 6, 50122 Firenze FI, Italy",
+        "latitude": 43.767785599999996,
+        "longitude": 11.2553108
+    },
+    {
+        "category": "historical sites",
+        "title": "Piazza Ognissanti",
+        "rating": 4.7,
+        "address": "50123 Firenze FI, Italy",
+        "latitude": 43.772167499999995,
+        "longitude": 11.2454754
+    },
+    {
+        "category": "historical sites",
+        "title": "Ospedale degli Innocenti",
+        "rating": 4.7,
+        "address": "P.za della SS. Annunziata, 12, 50121 Firenze FI, Italy",
+        "latitude": 43.776072299999996,
+        "longitude": 11.2614378
+    },
+    {
+        "category": "historical sites",
+        "title": "Palazzo Pitti",
+        "rating": 4.6,
+        "address": "Piazza de' Pitti, 1, 50125 Firenze FI, Italy",
+        "latitude": 43.7651533,
+        "longitude": 11.250008099999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Torre di Arnolfo",
+        "rating": 4.5,
+        "address": "P.za della Signoria, 2, 50122 Firenze FI, Italy",
+        "latitude": 43.7694598,
+        "longitude": 11.2560112
+    },
+    {
+        "category": "historical sites",
+        "title": "Forte di Belvedere",
+        "rating": 4.4,
+        "address": "Via di S. Leonardo, 1, 50125 Firenze FI, Italy",
+        "latitude": 43.7628415,
+        "longitude": 11.2537299
+    },
+    {
+        "category": "historical sites",
+        "title": "Torre della Zecca",
+        "rating": 4.5,
+        "address": "Piazza Piave, 50122 Firenze FI, Italy",
+        "latitude": 43.766399,
+        "longitude": 11.268381
+    },
+    {
+        "category": "historical sites",
+        "title": "Piazza Santa Trinita",
+        "rating": 4.6,
+        "address": "50123 Firenze FI, Italy",
+        "latitude": 43.7702196,
+        "longitude": 11.251287399999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Uffizi Galleries",
+        "rating": 4.7,
+        "address": "Piazzale degli Uffizi, 6, 50122 Firenze FI, Italy",
+        "latitude": 43.767785599999996,
+        "longitude": 11.2553108
+    },
+    {
+        "category": "art galleries",
+        "title": "Galleria dell’Accademia di Firenze",
+        "rating": 4.6,
+        "address": "Via Ricasoli, 58/60, 50129 Firenze FI, Italy",
+        "latitude": 43.7768145,
+        "longitude": 11.2586424
+    },
+    {
+        "category": "art galleries",
+        "title": "Strozzi Palace",
+        "rating": 4.6,
+        "address": "Piazza degli Strozzi, 50123 Firenze FI, Italy",
+        "latitude": 43.771273,
+        "longitude": 11.251761199999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Gallery of Modern Art",
+        "rating": 4.5,
+        "address": "Piazza de' Pitti, 1, 50125 Firenze FI, Italy",
+        "latitude": 43.7651581,
+        "longitude": 11.249957199999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Palazzo Pitti",
+        "rating": 4.6,
+        "address": "Piazza de' Pitti, 1, 50125 Firenze FI, Italy",
+        "latitude": 43.7651533,
+        "longitude": 11.250008099999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Museo Leonardo Da Vinci",
+        "rating": 4.7,
+        "address": "Via del Castellaccio, 1r, 50121 Firenze FI, Italy",
+        "latitude": 43.7745539,
+        "longitude": 11.2585692
+    },
+    {
+        "category": "art galleries",
+        "title": "Opera del Duomo Museum",
+        "rating": 4.6,
+        "address": "Piazza del Duomo, 9, 50122 Firenze FI, Italy",
+        "latitude": 43.7731706,
+        "longitude": 11.258111999999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Museo di San Marco",
+        "rating": 4.7,
+        "address": "Piazza San Marco, 3, 50121 Firenze FI, Italy",
+        "latitude": 43.7784943,
+        "longitude": 11.259431
+    },
+    {
+        "category": "art galleries",
+        "title": "Museo Novecento",
+        "rating": 4,
+        "address": "P.za di Santa Maria Novella, 10, 50123 Firenze FI, Italy",
+        "latitude": 43.7729894,
+        "longitude": 11.249074199999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Museo Nazionale del Bargello",
+        "rating": 4.7,
+        "address": "Via del Proconsolo, 4, 50122 Firenze FI, Italy",
+        "latitude": 43.7703981,
+        "longitude": 11.2580078
+    },
+    {
+        "category": "art galleries",
+        "title": "Parco d'Arte Enzo Pazzagli",
+        "rating": 4,
+        "address": "Via Sant'Andrea a Rovezzano, 5, 50136 Firenze FI, Italy",
+        "latitude": 43.768410499999995,
+        "longitude": 11.324359699999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Galleria Il Ponte",
+        "rating": 4.3,
+        "address": "Via di Mezzo, 42/b, 50121 Firenze FI, Italy",
+        "latitude": 43.772323199999995,
+        "longitude": 11.2635065
+    },
+    {
+        "category": "art galleries",
+        "title": "Medici Riccardi Palace",
+        "rating": 4.5,
+        "address": "Via Camillo Cavour, 3, 50129 Firenze FI, Italy",
+        "latitude": 43.7752136,
+        "longitude": 11.255727199999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Basilica di San Lorenzo",
+        "rating": 4.6,
+        "address": "Piazza di San Lorenzo, 9, 50123 Firenze FI, Italy",
+        "latitude": 43.7749619,
+        "longitude": 11.253876199999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Stibbert Museum",
+        "rating": 4.8,
+        "address": "Via Federico Stibbert, 26, 50134 Firenze FI, Italy",
+        "latitude": 43.792888399999995,
+        "longitude": 11.2549906
+    },
+    {
+        "category": "art galleries",
+        "title": "Loggia del Bigallo",
+        "rating": 4.4,
+        "address": "Piazza di San Giovanni, 1, 50122 Firenze FI, Italy",
+        "latitude": 43.7728129,
+        "longitude": 11.255249
+    },
+    {
+        "category": "art galleries",
+        "title": "Collezione Roberto Casamonti Arte Moderna e Contemporanea",
+        "rating": 4.5,
+        "address": "Piazza di Santa Trinita, 1, 50123 Firenze FI, Italy",
+        "latitude": 43.770178099999995,
+        "longitude": 11.2514083
+    },
+    {
+        "category": "art galleries",
+        "title": "Cloister of the Scalzo",
+        "rating": 4.7,
+        "address": "Via Camillo Cavour, 69, 50121 Firenze FI, Italy",
+        "latitude": 43.7796637,
+        "longitude": 11.259419999999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Museo di Casa Martelli",
+        "rating": 4.5,
+        "address": "Via Ferdinando Zannetti, 8, 50123 Firenze FI, Italy",
+        "latitude": 43.774151499999995,
+        "longitude": 11.2532835
+    },
+    {
+        "category": "art galleries",
+        "title": "Church & Museum of Orsanmichele",
+        "rating": 4.6,
+        "address": "Via dell'Arte della Lana, 50123 Firenze FI, Italy",
+        "latitude": 43.770683399999996,
+        "longitude": 11.255004699999999
+    },
+    {
+        "category": "theaters",
+        "title": "Cinema La Compagnia",
+        "rating": 4.6,
+        "address": "Via Camillo Cavour, 50/R, 50121 Firenze FI, Italy",
+        "latitude": 43.775711,
+        "longitude": 11.257115299999999
+    },
+    {
+        "category": "theaters",
+        "title": "Maggio Musicale Fiorentino Theatre",
+        "rating": 4.6,
+        "address": "Piazza Vittorio Gui, 1, 50144 Firenze FI, Italy",
+        "latitude": 43.7785551,
+        "longitude": 11.2354799
+    },
+    {
+        "category": "theaters",
+        "title": "Giunti Odeon - Libreria e Cinema",
+        "rating": 4.7,
+        "address": "Piazza degli Strozzi, 50123 Firenze FI, Italy",
+        "latitude": 43.770992299999996,
+        "longitude": 11.25249
+    },
+    {
+        "category": "theaters",
+        "title": "Cinema Space One",
+        "rating": 4.4,
+        "address": "Via del Sole, 10, 50123 Firenze FI, Italy",
+        "latitude": 43.7724341,
+        "longitude": 11.250003999999999
+    },
+    {
+        "category": "theaters",
+        "title": "Alfieri Cinema Bistro Theater Space",
+        "rating": 4.4,
+        "address": "Via dell'Ulivo, 8, 50122 Firenze FI, Italy",
+        "latitude": 43.770917399999995,
+        "longitude": 11.263457899999999
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Della Pergola",
+        "rating": 4.7,
+        "address": "Via della Pergola, 12/32, 50121 Firenze FI, Italy",
+        "latitude": 43.77321,
+        "longitude": 11.261555999999999
+    },
+    {
+        "category": "theaters",
+        "title": "UCI",
+        "rating": 4,
+        "address": "Via del Cavallaccio, 50100 Firenze FI, Italy",
+        "latitude": 43.7722626,
+        "longitude": 11.189167999999999
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro del Sale",
+        "rating": 4.5,
+        "address": "Via dei Macci, 111/r, 50122 Firenze FI, Italy",
+        "latitude": 43.7711105,
+        "longitude": 11.2662746
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Goldoni",
+        "rating": 4.7,
+        "address": "Via Santa Maria, 15, 50100 Firenze FI, Italy",
+        "latitude": 43.7645878,
+        "longitude": 11.245183899999999
+    },
+    {
+        "category": "theaters",
+        "title": "The Space Cinema",
+        "rating": 4.2,
+        "address": "Via di Novoli, 2, 50127 Firenze FI, Italy",
+        "latitude": 43.7911697,
+        "longitude": 11.2290339
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Cartiere Carrara",
+        "rating": 4.3,
+        "address": "via Fabrizio De André, Lungarno Aldo Moro, 50136 Firenze FI, Italy",
+        "latitude": 43.7665718,
+        "longitude": 11.2960126
+    },
+    {
+        "category": "theaters",
+        "title": "Verdi",
+        "rating": 4.5,
+        "address": "Via Ghibellina, 99, 50122 Firenze FI, Italy",
+        "latitude": 43.770226199999996,
+        "longitude": 11.2610393
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Niccolini",
+        "rating": 4.6,
+        "address": "Via Ricasoli, 3, 50122 Firenze FI, Italy",
+        "latitude": 43.773748999999995,
+        "longitude": 11.256128
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro romano",
+        "rating": 4.6,
+        "address": "Via Fernando Farulli, 1, 50014 Fiesole FI, Italy",
+        "latitude": 43.807767,
+        "longitude": 11.2936863
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro di Cestello",
+        "rating": 4.4,
+        "address": "P.za di Cestello, 4, 50124 Firenze FI, Italy",
+        "latitude": 43.77026,
+        "longitude": 11.243839999999999
+    },
+    {
+        "category": "theaters",
+        "title": "Cinema Multisala “Il Portico”",
+        "rating": 4.1,
+        "address": "Via Capo di Mondo, 66, 50136 Firenze FI, Italy",
+        "latitude": 43.7745829,
+        "longitude": 11.278064299999999
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Le Laudi",
+        "rating": 4.3,
+        "address": "Via Leonardo Da Vinci, 2r, 50132 Firenze FI, Italy",
+        "latitude": 43.7823601,
+        "longitude": 11.2659544
+    },
+    {
+        "category": "theaters",
+        "title": "Cinema Multisala Adriano",
+        "rating": 4.1,
+        "address": "Via Giandomenico Romagnosi, 46, 50134 Firenze FI, Italy",
+        "latitude": 43.792713299999996,
+        "longitude": 11.246715
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro di Rifredi",
+        "rating": 4.3,
+        "address": "Via Vittorio Emanuele II, 303, 50134 Firenze FI, Italy",
+        "latitude": 43.7953377,
+        "longitude": 11.2413797
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Lumière",
+        "rating": 4.3,
+        "address": "Via di Ripoli, 231, 50126 Firenze FI, Italy",
+        "latitude": 43.755201,
+        "longitude": 11.300146
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Art's Florence Souvenir Firenze",
+        "rating": 4.7,
+        "address": "Via Nazionale, 71/R, 50123 Firenze FI, Italy",
+        "latitude": 43.7771097,
+        "longitude": 11.2518289
+    },
+    {
+        "category": "souvenir counters",
+        "title": "From Florence Souvenirs",
+        "rating": 5,
+        "address": "Via dei Cerchi, 13r, 50122 Firenze FI, Italy",
+        "latitude": 43.770603699999995,
+        "longitude": 11.256068599999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Italy Souvenir - Gift Shop",
+        "rating": 5,
+        "address": "Corso dei Tintori, 9/ROSSO, 50122 Firenze FI, Italy",
+        "latitude": 43.7670193,
+        "longitude": 11.2614264
+    },
+    {
+        "category": "souvenir counters",
+        "title": "L'Arte de' Ciompi Firenze - Negozio d'Artigianato Tipico Fiorentino e Italiano",
+        "rating": 4.9,
+        "address": "Via de' Cerretani, 18 rosso, 50123 Firenze FI, Italy",
+        "latitude": 43.7735416,
+        "longitude": 11.2540424
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Googift's Florence",
+        "rating": 5,
+        "address": "Via Ghibellina, 196R, 50122 Firenze FI, Italy",
+        "latitude": 43.7706168,
+        "longitude": 11.258270399999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Signum Florence",
+        "rating": 4.6,
+        "address": "Lungarno degli Archibusieri, 14R, 50122 Firenze FI, Italy",
+        "latitude": 43.76826,
+        "longitude": 11.25408
+    },
+    {
+        "category": "souvenir counters",
+        "title": "VEXUS - Florence Art Gift",
+        "rating": 4.8,
+        "address": "Via della Scala, 15-red, 50123 Firenze FI, Italy",
+        "latitude": 43.773794099999996,
+        "longitude": 11.2478565
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Boboli Souvenir",
+        "rating": 5,
+        "address": "Via Romana, 9r, 50125 Firenze FI, Italy",
+        "latitude": 43.7648057,
+        "longitude": 11.2475844
+    },
+    {
+        "category": "souvenir counters",
+        "title": "OBO firenze - la bottega",
+        "rating": 5,
+        "address": "Lungarno Corsini, 40r/38r, 50123 Firenze FI, Italy",
+        "latitude": 43.770084399999995,
+        "longitude": 11.2495143
+    },
+    {
+        "category": "souvenir counters",
+        "title": "ITALIA SUOVENIR",
+        "rating": 4.5,
+        "address": "Via del Proconsolo, 13R, 50122 Firenze FI, Italy",
+        "latitude": 43.770542899999995,
+        "longitude": 11.257771199999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Al cupolone",
+        "rating": 2.9,
+        "address": "Piazza del Duomo, 60R, 50122 Firenze FI, Italy",
+        "latitude": 43.7725757,
+        "longitude": 11.256209199999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Pylones Firenze - Calzaiuoli",
+        "rating": 4.2,
+        "address": "Via dei Calzaiuoli, 58, 50122 Firenze FI, Italy",
+        "latitude": 43.771228699999995,
+        "longitude": 11.255400199999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Lovely Florence",
+        "rating": 5,
+        "address": "Via Ricasoli, 37, 50122 Firenze FI, Italy",
+        "latitude": 43.7744205,
+        "longitude": 11.2566381
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Signum",
+        "rating": 4.6,
+        "address": "Borgo dei Greci, 40-red, 50122 Firenze FI, Italy",
+        "latitude": 43.76938,
+        "longitude": 11.257819999999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Three Angels Kedebets Anzhelika Holiday Gift & C. Snc",
+        "rating": 3.6,
+        "address": "Piazza del Duomo, 17r, 50122 Firenze FI, Italy",
+        "latitude": 43.773528999999996,
+        "longitude": 11.2565542
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Michelangelo Art Shop",
+        "rating": 4,
+        "address": "Via Ricasoli, 75 R, 50122 Firenze FI, Italy",
+        "latitude": 43.776038,
+        "longitude": 11.257862
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gadget & Souvenir",
+        "rating": 4.5,
+        "address": "Via dei Servi, 5, 50122 Firenze FI, Italy",
+        "latitude": 43.7736819,
+        "longitude": 11.2573311
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Florence gift shop",
+        "rating": 3.8,
+        "address": "Via dei Neri, 27, 50122 Firenze FI, Italy",
+        "latitude": 43.7679926,
+        "longitude": 11.2586163
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Unik Souvenir",
+        "rating": 4.5,
+        "address": "Via dei Banchi, 47R, 50123 Firenze FI, Italy",
+        "latitude": 43.7735213,
+        "longitude": 11.250624499999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "L'Angolo Del Souvenir",
+        "rating": 1.3,
+        "address": "Via della Condotta, 13r, 50122 Firenze FI, Italy",
+        "latitude": 43.7701484,
+        "longitude": 11.2570707
+    }
+]

@@ -1,0 +1,3730 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Top of The Rock",
+        "rating": 4.7,
+        "address": "30 Rockefeller Plaza, New York, NY 10112",
+        "latitude": 40.7593495,
+        "longitude": -73.9794087
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Rockefeller Center",
+        "rating": 4.7,
+        "address": "45 Rockefeller Plaza, New York, NY 10111",
+        "latitude": 40.7587402,
+        "longitude": -73.9786736
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Empire State Building",
+        "rating": 4.7,
+        "address": "20 W 34th St., New York, NY 10001",
+        "latitude": 40.7484405,
+        "longitude": -73.98566439999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Central Park",
+        "rating": 4.8,
+        "address": "New York, NY",
+        "latitude": 40.7825547,
+        "longitude": -73.9655834
+    },
+    {
+        "category": "tourist attractions",
+        "title": "SUMMIT One Vanderbilt",
+        "rating": 4.7,
+        "address": "45 E 42nd St, New York, NY 10017",
+        "latitude": 40.752774599999995,
+        "longitude": -73.9787253
+    },
+    {
+        "category": "tourist attractions",
+        "title": "One World Observatory",
+        "rating": 4.7,
+        "address": "117 West St, New York, NY 10007",
+        "latitude": 40.713006199999995,
+        "longitude": -74.013173
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Statue of Liberty",
+        "rating": 4.7,
+        "address": "New York, NY 10004",
+        "latitude": 40.6892494,
+        "longitude": -74.04450039999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Times Square",
+        "rating": 4.7,
+        "address": "Manhattan, NY 10036",
+        "latitude": 40.7579747,
+        "longitude": -73.9855426
+    },
+    {
+        "category": "tourist attractions",
+        "title": "The High Line",
+        "rating": 4.7,
+        "address": "New York, NY 10011",
+        "latitude": 40.747992499999995,
+        "longitude": -74.0047649
+    },
+    {
+        "category": "tourist attractions",
+        "title": "The Channel Gardens",
+        "rating": 4.7,
+        "address": "New York, NY 10020",
+        "latitude": 40.7585013,
+        "longitude": -73.978087
+    },
+    {
+        "category": "tourist attractions",
+        "title": "SeaGlass Carousel",
+        "rating": 4.5,
+        "address": "Water St &, State St, New York, NY 10004",
+        "latitude": 40.7021532,
+        "longitude": -74.0150019
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Madame Tussauds New York",
+        "rating": 4.5,
+        "address": "234 W 42nd St, New York, NY 10036",
+        "latitude": 40.756527999999996,
+        "longitude": -73.9883514
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Tiffany Street Clock",
+        "rating": 4.5,
+        "address": "〒10010 New York, 5th Ave",
+        "latitude": 40.7419814,
+        "longitude": -73.9893778
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Washington Square Fountain",
+        "rating": 4.7,
+        "address": "Washington Square N, New York, NY 10012",
+        "latitude": 40.7308514,
+        "longitude": -73.9974311
+    },
+    {
+        "category": "tourist attractions",
+        "title": "New York Aquarium",
+        "rating": 4.2,
+        "address": "602 Surf Ave, Brooklyn, NY 11224",
+        "latitude": 40.5743017,
+        "longitude": -73.9748532
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Federal Hall National Memorial",
+        "rating": 4.5,
+        "address": "26 Wall St, New York, NY 10005",
+        "latitude": 40.7073993,
+        "longitude": -74.0102088
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Father Duffy Square",
+        "rating": 4.7,
+        "address": "7th Ave &, W 47th St, New York, NY 10036",
+        "latitude": 40.7590077,
+        "longitude": -73.9850222
+    },
+    {
+        "category": "tourist attractions",
+        "title": "NY City Skyline Vista Point",
+        "rating": 4.7,
+        "address": "Liberty Island, New York, NY 10004",
+        "latitude": 40.6907403,
+        "longitude": -74.0452713
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Little Island",
+        "rating": 4.7,
+        "address": "Little Island, Pier 55 at Hudson River Park, Hudson River Greenway, New York, NY 10014",
+        "latitude": 40.7420024,
+        "longitude": -74.010299
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Seaport District",
+        "rating": 4.6,
+        "address": "28-20 Fulton St, New York, NY 10038",
+        "latitude": 40.7070258,
+        "longitude": -74.0040088
+    },
+    {
+        "category": "parks",
+        "title": "Central Park",
+        "rating": 4.8,
+        "address": "New York, NY",
+        "latitude": 40.7825547,
+        "longitude": -73.9655834
+    },
+    {
+        "category": "parks",
+        "title": "Riverside Park",
+        "rating": 4.6,
+        "address": "R25M+R3, New York, NY 10025",
+        "latitude": 40.8095625,
+        "longitude": -73.96731249999999
+    },
+    {
+        "category": "parks",
+        "title": "Brooklyn Bridge Park",
+        "rating": 4.8,
+        "address": "Brooklyn, NY 11201",
+        "latitude": 40.7022422,
+        "longitude": -73.9958601
+    },
+    {
+        "category": "parks",
+        "title": "Union Square Park",
+        "rating": 4.6,
+        "address": "201 Park Ave S, New York, NY 10003",
+        "latitude": 40.735823499999995,
+        "longitude": -73.9905215
+    },
+    {
+        "category": "parks",
+        "title": "City Hall Park",
+        "rating": 4.5,
+        "address": "Broadway &, Chambers St, New York, NY 10007",
+        "latitude": 40.7124142,
+        "longitude": -74.0065164
+    },
+    {
+        "category": "parks",
+        "title": "Fort Tryon Park",
+        "rating": 4.7,
+        "address": "Riverside, Dr To Broadway, New York, NY 10040",
+        "latitude": 40.8625608,
+        "longitude": -73.9312995
+    },
+    {
+        "category": "parks",
+        "title": "Theodore Roosevelt Park",
+        "rating": 4.6,
+        "address": "200 Central Prk W, New York, NY 10024",
+        "latitude": 40.7824902,
+        "longitude": -73.9742272
+    },
+    {
+        "category": "parks",
+        "title": "Riverbank State Park",
+        "rating": 4.6,
+        "address": "679 Riverside Dr, New York, NY 10031",
+        "latitude": 40.8264236,
+        "longitude": -73.9559555
+    },
+    {
+        "category": "parks",
+        "title": "Rockefeller Park",
+        "rating": 4.7,
+        "address": "75 Battery Place, New York, NY 10280",
+        "latitude": 40.716257999999996,
+        "longitude": -74.0167609
+    },
+    {
+        "category": "parks",
+        "title": "Inwood Hill Park",
+        "rating": 4.7,
+        "address": "Payson Ave. &, Seaman Ave, New York, NY 10034",
+        "latitude": 40.8721829,
+        "longitude": -73.924776
+    },
+    {
+        "category": "parks",
+        "title": "Little Island",
+        "rating": 4.7,
+        "address": "Little Island, Pier 55 at Hudson River Park, Hudson River Greenway, New York, NY 10014",
+        "latitude": 40.7420024,
+        "longitude": -74.010299
+    },
+    {
+        "category": "parks",
+        "title": "Herald Square Park",
+        "rating": 4.5,
+        "address": "104 W 35th St, New York, NY 10018",
+        "latitude": 40.7502515,
+        "longitude": -73.9877295
+    },
+    {
+        "category": "parks",
+        "title": "Carl Schurz Park",
+        "rating": 4.7,
+        "address": "East 86th Street &, East End Ave, New York, NY 10028",
+        "latitude": 40.7751302,
+        "longitude": -73.9436973
+    },
+    {
+        "category": "parks",
+        "title": "Prospect Park",
+        "rating": 4.7,
+        "address": "Brooklyn, NY",
+        "latitude": 40.6602037,
+        "longitude": -73.9689558
+    },
+    {
+        "category": "parks",
+        "title": "Columbus Park",
+        "rating": 4.3,
+        "address": "Mulberry Street &, Baxter St, New York, NY 10013",
+        "latitude": 40.7155504,
+        "longitude": -74.00004229999999
+    },
+    {
+        "category": "parks",
+        "title": "Gantry Plaza State Park",
+        "rating": 4.8,
+        "address": "4-44 47th Rd, Long Island City, NY 11101",
+        "latitude": 40.746716,
+        "longitude": -73.9582075
+    },
+    {
+        "category": "parks",
+        "title": "St. Nicholas Park",
+        "rating": 4.4,
+        "address": "St Nicholas Ave &, St Nicholas Terrace, New York, NY 10030",
+        "latitude": 40.8174689,
+        "longitude": -73.94874759999999
+    },
+    {
+        "category": "parks",
+        "title": "Bella Abzug Park",
+        "rating": 4.6,
+        "address": "542 W 36th St., New York, NY 10018",
+        "latitude": 40.7555735,
+        "longitude": -74.0005741
+    },
+    {
+        "category": "parks",
+        "title": "Astoria Park",
+        "rating": 4.7,
+        "address": "19 19th St, Astoria, NY 11105",
+        "latitude": 40.7785364,
+        "longitude": -73.92283359999999
+    },
+    {
+        "category": "parks",
+        "title": "St. Vartan Park",
+        "rating": 4.4,
+        "address": "1st Avenue &, E 35th St, New York, NY 10016",
+        "latitude": 40.7451124,
+        "longitude": -73.9736293
+    },
+    {
+        "category": "restaurants",
+        "title": "Manhatta",
+        "rating": 4.7,
+        "address": "28 Liberty St 60th floor, New York, NY 10005",
+        "latitude": 40.707997399999996,
+        "longitude": -74.00888259999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Gramercy Tavern",
+        "rating": 4.6,
+        "address": "42 E 20th St, New York, NY 10003",
+        "latitude": 40.7384555,
+        "longitude": -73.98850639999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Boucherie Union Square",
+        "rating": 4.7,
+        "address": "225 Park Ave S, New York, NY 10003",
+        "latitude": 40.7372552,
+        "longitude": -73.9882246
+    },
+    {
+        "category": "restaurants",
+        "title": "Balthazar",
+        "rating": 4.4,
+        "address": "80 Spring St, New York, NY 10012",
+        "latitude": 40.722668,
+        "longitude": -73.99822979999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Sicily Osteria",
+        "rating": 4.6,
+        "address": "328-330 W 46th St, New York, NY 10036",
+        "latitude": 40.7601601,
+        "longitude": -73.9891863
+    },
+    {
+        "category": "restaurants",
+        "title": "The Modern",
+        "rating": 4.6,
+        "address": "9 W 53rd St, New York, NY 10019",
+        "latitude": 40.761081,
+        "longitude": -73.976753
+    },
+    {
+        "category": "restaurants",
+        "title": "RH Rooftop Restaurant at RH New York",
+        "rating": 4.4,
+        "address": "9 9th Ave, New York, NY 10014",
+        "latitude": 40.73985,
+        "longitude": -74.00639
+    },
+    {
+        "category": "restaurants",
+        "title": "1803 NYC",
+        "rating": 4.5,
+        "address": "82 Reade St, New York, NY 10007",
+        "latitude": 40.7154539,
+        "longitude": -74.00733009999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Boucherie West Village",
+        "rating": 4.7,
+        "address": "99 7th Ave S, New York, NY 10014",
+        "latitude": 40.733047,
+        "longitude": -74.0028772
+    },
+    {
+        "category": "restaurants",
+        "title": "La Grande Boucherie",
+        "rating": 4.6,
+        "address": "145 W 53rd St, New York, NY 10019",
+        "latitude": 40.7626345,
+        "longitude": -73.9808359
+    },
+    {
+        "category": "restaurants",
+        "title": "Altair Restaurant NYC",
+        "rating": 4.8,
+        "address": "351 W 38th St, New York, NY 10018",
+        "latitude": 40.7556565,
+        "longitude": -73.9936282
+    },
+    {
+        "category": "restaurants",
+        "title": "Petite Boucherie",
+        "rating": 4.7,
+        "address": "First Floor, 14 Christopher St, New York, NY 10014",
+        "latitude": 40.733870599999996,
+        "longitude": -74.0004319
+    },
+    {
+        "category": "restaurants",
+        "title": "Eataly NYC Flatiron",
+        "rating": 4.4,
+        "address": "200 5th Ave, New York, NY 10010",
+        "latitude": 40.742045,
+        "longitude": -73.9900845
+    },
+    {
+        "category": "restaurants",
+        "title": "abc kitchen",
+        "rating": 4.4,
+        "address": "35 E 18th St, New York, NY 10003",
+        "latitude": 40.737775,
+        "longitude": -73.9896167
+    },
+    {
+        "category": "restaurants",
+        "title": "Hole In The Wall - FiDi",
+        "rating": 4.8,
+        "address": "15 Cliff St, New York, NY 10038",
+        "latitude": 40.7083126,
+        "longitude": -74.0056165
+    },
+    {
+        "category": "restaurants",
+        "title": "Minetta Tavern",
+        "rating": 4.5,
+        "address": "113 MacDougal St, New York, NY 10012",
+        "latitude": 40.7299881,
+        "longitude": -74.0007016
+    },
+    {
+        "category": "restaurants",
+        "title": "O'Hara's Restaurant and Pub",
+        "rating": 4.6,
+        "address": "120 Cedar St, New York, NY 10006",
+        "latitude": 40.7095008,
+        "longitude": -74.0126642
+    },
+    {
+        "category": "restaurants",
+        "title": "Carbone New York",
+        "rating": 4.3,
+        "address": "181 Thompson St, New York, NY 10012",
+        "latitude": 40.727989099999995,
+        "longitude": -74.0002414
+    },
+    {
+        "category": "restaurants",
+        "title": "Brooklyn Chop House Steakhouse Downtown NYC",
+        "rating": 4.2,
+        "address": "150 Nassau St, New York, NY 10038",
+        "latitude": 40.711531699999995,
+        "longitude": -74.0058832
+    },
+    {
+        "category": "restaurants",
+        "title": "Hearth",
+        "rating": 4.5,
+        "address": "403 E 12th St, New York, NY 10009",
+        "latitude": 40.7300263,
+        "longitude": -73.9831883
+    },
+    {
+        "category": "cafes",
+        "title": "In Common NYC - A Breakfast & Brunch Restaurant",
+        "rating": 4.6,
+        "address": "441 9th Ave Suite 101, New York, NY 10001",
+        "latitude": 40.753834999999995,
+        "longitude": -73.99624299999999
+    },
+    {
+        "category": "cafes",
+        "title": "White Noise Coffee - Coffee Shop & Roastery",
+        "rating": 4.7,
+        "address": "829 11th Ave, Manhattan, NY 10019",
+        "latitude": 40.7701469,
+        "longitude": -73.99193149999999
+    },
+    {
+        "category": "cafes",
+        "title": "The Lost Draft",
+        "rating": 4.7,
+        "address": "398 Broome St, New York, NY 10013",
+        "latitude": 40.7208397,
+        "longitude": -73.9972231
+    },
+    {
+        "category": "cafes",
+        "title": "Little Collins",
+        "rating": 4.5,
+        "address": "708 3rd Ave, New York, NY 10017",
+        "latitude": 40.7523639,
+        "longitude": -73.97351139999999
+    },
+    {
+        "category": "cafes",
+        "title": "Café Lyria",
+        "rating": 4.6,
+        "address": "166 Crosby St, New York, NY 10012",
+        "latitude": 40.725846,
+        "longitude": -73.995426
+    },
+    {
+        "category": "cafes",
+        "title": "GRIND THE NYC COFFEE SHOP & BAGEL HOUSE",
+        "rating": 4.7,
+        "address": "602 9th Ave, New York, NY 10036",
+        "latitude": 40.7590839,
+        "longitude": -73.9918101
+    },
+    {
+        "category": "cafes",
+        "title": "Bibble & Sip",
+        "rating": 4.5,
+        "address": "253 W 51st St, New York, NY 10019",
+        "latitude": 40.7628415,
+        "longitude": -73.9851781
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Luna",
+        "rating": 4.5,
+        "address": "628 Hudson St, New York, NY 10014",
+        "latitude": 40.7383306,
+        "longitude": -74.0053786
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee Project New York | East Village",
+        "rating": 4.7,
+        "address": "239 E 5th St, New York, NY 10003",
+        "latitude": 40.7270884,
+        "longitude": -73.98938199999999
+    },
+    {
+        "category": "cafes",
+        "title": "Frisson Espresso",
+        "rating": 4.7,
+        "address": "10036 326 W 47th St, New York, NY 10036",
+        "latitude": 40.760836999999995,
+        "longitude": -73.98899949999999
+    },
+    {
+        "category": "cafes",
+        "title": "Lê Phin",
+        "rating": 4.7,
+        "address": "259 E 10th St, New York, NY 10009",
+        "latitude": 40.7285073,
+        "longitude": -73.9834905
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Aroma",
+        "rating": 4.6,
+        "address": "839 7th Ave, New York, NY 10019",
+        "latitude": 40.7633791,
+        "longitude": -73.98122459999999
+    },
+    {
+        "category": "cafes",
+        "title": "Hole In The Wall - FiDi",
+        "rating": 4.8,
+        "address": "15 Cliff St, New York, NY 10038",
+        "latitude": 40.7083126,
+        "longitude": -74.0056165
+    },
+    {
+        "category": "cafes",
+        "title": "Stumptown Coffee Roasters",
+        "rating": 4.5,
+        "address": "18 W 29th St, New York, NY 10001",
+        "latitude": 40.7457399,
+        "longitude": -73.9882272
+    },
+    {
+        "category": "cafes",
+        "title": "Café Integral",
+        "rating": 4.5,
+        "address": "149 Elizabeth St, New York, NY 10012",
+        "latitude": 40.7203698,
+        "longitude": -73.9952115
+    },
+    {
+        "category": "cafes",
+        "title": "Simpl Coffee",
+        "rating": 4.9,
+        "address": "59 Nassau St, New York, NY 10038",
+        "latitude": 40.709311299999996,
+        "longitude": -74.0088552
+    },
+    {
+        "category": "cafes",
+        "title": "787 coffee",
+        "rating": 4.9,
+        "address": "245 W 46th St, New York, NY 10036",
+        "latitude": 40.759709099999995,
+        "longitude": -73.9873617
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Aroma",
+        "rating": 4.5,
+        "address": "502 9th Ave, New York, NY 10018",
+        "latitude": 40.7559371,
+        "longitude": -73.9941049
+    },
+    {
+        "category": "cafes",
+        "title": "Aleef Cafe",
+        "rating": 4.8,
+        "address": "333 W 39th St, New York, NY 10018",
+        "latitude": 40.7561758,
+        "longitude": -73.9925797
+    },
+    {
+        "category": "cafes",
+        "title": "787 Coffee Co.",
+        "rating": 4.9,
+        "address": "251 W 30th St, New York, NY 10001",
+        "latitude": 40.7493629,
+        "longitude": -73.9942691
+    },
+    {
+        "category": "mountains",
+        "title": "Great Hill",
+        "rating": 5,
+        "address": "New York, NY 10025",
+        "latitude": 40.7968924,
+        "longitude": -73.9589429
+    },
+    {
+        "category": "mountains",
+        "title": "Great Hill",
+        "rating": 4.8,
+        "address": "New York, NY 10025",
+        "latitude": 40.796892299999996,
+        "longitude": -73.9589429
+    },
+    {
+        "category": "mountains",
+        "title": "Turkey Mountain",
+        "rating": 4.5,
+        "address": "Yorktown, NY 10598",
+        "latitude": 41.2478719,
+        "longitude": -73.79791209999999
+    },
+    {
+        "category": "mountains",
+        "title": "Bear Mountain State Park",
+        "rating": 4.7,
+        "address": "3006 Seven Lakes Drive, Tomkins Cove, NY 10986",
+        "latitude": 41.2930083,
+        "longitude": -74.00010879999999
+    },
+    {
+        "category": "mountains",
+        "title": "Vault Hill",
+        "rating": 4.7,
+        "address": "Bronx, NY 10471",
+        "latitude": 40.8977778,
+        "longitude": -73.89222219999999
+    },
+    {
+        "category": "mountains",
+        "title": "The Mount (Composting Operation)",
+        "rating": 5,
+        "address": "New York, NY 10029",
+        "latitude": 40.7942458,
+        "longitude": -73.9538918
+    },
+    {
+        "category": "mountains",
+        "title": "Mt St Vincent",
+        "rating": 4.6,
+        "address": "Bronx, NY 10471",
+        "latitude": 40.913458,
+        "longitude": -73.9067913
+    },
+    {
+        "category": "mountains",
+        "title": "Janes Hill",
+        "rating": 5,
+        "address": "Bronx, NY 10455",
+        "latitude": 40.811767499999995,
+        "longitude": -73.9115255
+    },
+    {
+        "category": "mountains",
+        "title": "Lookout Hill",
+        "rating": 4.3,
+        "address": "Brooklyn, NY 11225",
+        "latitude": 40.6577778,
+        "longitude": -73.9719444
+    },
+    {
+        "category": "mountains",
+        "title": "Lookout Hill",
+        "rating": null,
+        "address": "Brooklyn, NY 11225",
+        "latitude": 40.6568873,
+        "longitude": -73.97219179999999
+    },
+    {
+        "category": "mountains",
+        "title": "Ramapo Mountains",
+        "rating": 4.4,
+        "address": "Ramapo, NY 10970",
+        "latitude": 41.1723171,
+        "longitude": -74.1001433
+    },
+    {
+        "category": "mountains",
+        "title": "Tallman Mountain",
+        "rating": 4.8,
+        "address": "Orangetown, NY 10976",
+        "latitude": 41.0356527,
+        "longitude": -73.9143029
+    },
+    {
+        "category": "mountains",
+        "title": "Breakneck Ridge",
+        "rating": 4.8,
+        "address": "Philipstown, NY 10516",
+        "latitude": 41.459722,
+        "longitude": -73.958889
+    },
+    {
+        "category": "mountains",
+        "title": "Hook Mountain",
+        "rating": 5,
+        "address": "Clarkstown, NY 10989",
+        "latitude": 41.1206515,
+        "longitude": -73.91791479999999
+    },
+    {
+        "category": "mountains",
+        "title": "Paulo's Peak",
+        "rating": 4.6,
+        "address": "Unnamed Road, Staten Island, NY 10314",
+        "latitude": 40.5846066,
+        "longitude": -74.130068
+    },
+    {
+        "category": "mountains",
+        "title": "Rocky Mountain",
+        "rating": 5,
+        "address": "Shandaken, NY 12464",
+        "latitude": 41.972870199999996,
+        "longitude": -74.37265049999999
+    },
+    {
+        "category": "mountains",
+        "title": "Quaker Hill",
+        "rating": 5,
+        "address": "Brooklyn, NY 11215",
+        "latitude": 40.6611111,
+        "longitude": -73.9716667
+    },
+    {
+        "category": "mountains",
+        "title": "Mt Marcy",
+        "rating": 4.8,
+        "address": "Keene, NY 12943",
+        "latitude": 44.1125536,
+        "longitude": -73.92347629999999
+    },
+    {
+        "category": "mountains",
+        "title": "Bull Hill",
+        "rating": 4.9,
+        "address": "Philipstown, NY 10516",
+        "latitude": 41.4384271,
+        "longitude": -73.9556941
+    },
+    {
+        "category": "mountains",
+        "title": "Breeze Hill",
+        "rating": 4.7,
+        "address": "Brooklyn, NY 11225",
+        "latitude": 40.6591667,
+        "longitude": -73.9663889
+    },
+    {
+        "category": "waterfalls",
+        "title": "Niagara Falls",
+        "rating": 4.8,
+        "address": "NY 14303",
+        "latitude": 43.082816199999996,
+        "longitude": -79.07416289999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Verkeerder Kill Falls",
+        "rating": 4.4,
+        "address": "Shawangunk, NY 12566",
+        "latitude": 41.6842602,
+        "longitude": -74.32876329999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Bridal Veil Falls",
+        "rating": 4.7,
+        "address": "Niagara Falls, NY 14303",
+        "latitude": 43.0835108,
+        "longitude": -79.0707955
+    },
+    {
+        "category": "lakes",
+        "title": "Lake George",
+        "rating": 4.7,
+        "address": "New York",
+        "latitude": 43.5681446,
+        "longitude": -73.6359602
+    },
+    {
+        "category": "lakes",
+        "title": "Mirror Lake",
+        "rating": 4.8,
+        "address": "North Elba, NY 12946",
+        "latitude": 44.288392099999996,
+        "longitude": -73.9818705
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Champlain",
+        "rating": 4.7,
+        "address": null,
+        "latitude": 44.586580999999995,
+        "longitude": -73.3800905
+    },
+    {
+        "category": "lakes",
+        "title": "Keuka Lake",
+        "rating": 4.9,
+        "address": "New York",
+        "latitude": 42.4929138,
+        "longitude": -77.142764
+    },
+    {
+        "category": "lakes",
+        "title": "Greenwood Lake",
+        "rating": 4.7,
+        "address": null,
+        "latitude": 41.189079,
+        "longitude": -74.3206208
+    },
+    {
+        "category": "lakes",
+        "title": "Otsego Lake",
+        "rating": 4.7,
+        "address": "New York 13326",
+        "latitude": 42.7706306,
+        "longitude": -74.89164579999999
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Placid",
+        "rating": 4.6,
+        "address": "North Elba, NY 12946",
+        "latitude": 44.316143499999995,
+        "longitude": -73.9948984
+    },
+    {
+        "category": "lakes",
+        "title": "Canopus Lake",
+        "rating": 4.6,
+        "address": "Kent, NY 12533",
+        "latitude": 41.458400399999995,
+        "longitude": -73.8338196
+    },
+    {
+        "category": "lakes",
+        "title": "Silver Lake",
+        "rating": 5,
+        "address": "Black Brook, NY 12912",
+        "latitude": 44.5096224,
+        "longitude": -73.8721233
+    },
+    {
+        "category": "lakes",
+        "title": "Sterling Lake",
+        "rating": 4.8,
+        "address": "Warwick, NY 10987",
+        "latitude": 41.2064561,
+        "longitude": -74.2604818
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Gilead",
+        "rating": 5,
+        "address": "Carmel Hamlet, NY 10512",
+        "latitude": 41.3991367,
+        "longitude": -73.67275169999999
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Kanawauke",
+        "rating": 4.8,
+        "address": "New York 10975",
+        "latitude": 41.224383599999996,
+        "longitude": -74.12179379999999
+    },
+    {
+        "category": "lakes",
+        "title": "Blue Mountain Lake",
+        "rating": 5,
+        "address": "Indian Lake, NY 12842",
+        "latitude": 43.862089,
+        "longitude": -74.4672169
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Gleneida",
+        "rating": 4.6,
+        "address": "Carmel Hamlet, NY 10512",
+        "latitude": 41.420361799999995,
+        "longitude": -73.68452359999999
+    },
+    {
+        "category": "lakes",
+        "title": "Sleepy Hollow Lake, Greene County, New York",
+        "rating": 4.6,
+        "address": "New York 12015",
+        "latitude": 42.295476699999995,
+        "longitude": -73.80735159999999
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Washington",
+        "rating": 3.4,
+        "address": "New York",
+        "latitude": 41.492675399999996,
+        "longitude": -74.06966729999999
+    },
+    {
+        "category": "lakes",
+        "title": "Wolf Lake",
+        "rating": 4.3,
+        "address": "New York 12790",
+        "latitude": 41.5869115,
+        "longitude": -74.5887991
+    },
+    {
+        "category": "lakes",
+        "title": "Jacqueline Kennedy Onassis Reservoir",
+        "rating": 4.8,
+        "address": "New York, NY 10128",
+        "latitude": 40.785719,
+        "longitude": -73.9639021
+    },
+    {
+        "category": "lakes",
+        "title": "Harlem Meer",
+        "rating": 4.6,
+        "address": "New York, NY 10029",
+        "latitude": 40.7964643,
+        "longitude": -73.95159579999999
+    },
+    {
+        "category": "beaches",
+        "title": "Brighton Beach",
+        "rating": 4.5,
+        "address": "601 Riegelmann Boardwalk, Brooklyn, NY 11235",
+        "latitude": 40.5746429,
+        "longitude": -73.96071429999999
+    },
+    {
+        "category": "beaches",
+        "title": "Rockaway Beach",
+        "rating": 4.5,
+        "address": "Boardwalk, Far Rockaway, NY 11693",
+        "latitude": 40.5836696,
+        "longitude": -73.81459559999999
+    },
+    {
+        "category": "beaches",
+        "title": "Rockaway Beach",
+        "rating": 4.6,
+        "address": "Rockaway Beach Boardwalk, Arverne, NY 11692",
+        "latitude": 40.5896554,
+        "longitude": -73.78264589999999
+    },
+    {
+        "category": "beaches",
+        "title": "Manhattan Beach Park",
+        "rating": 4.5,
+        "address": "760 Oriental Blvd, Brooklyn, NY 11235",
+        "latitude": 40.5768049,
+        "longitude": -73.942583
+    },
+    {
+        "category": "beaches",
+        "title": "Coney Island Beach",
+        "rating": 4.5,
+        "address": "Brooklyn, NY",
+        "latitude": 40.5721302,
+        "longitude": -73.9793298
+    },
+    {
+        "category": "beaches",
+        "title": "Manhattan Beach",
+        "rating": 4.3,
+        "address": "Brooklyn, NY",
+        "latitude": 40.5760503,
+        "longitude": -73.9436973
+    },
+    {
+        "category": "beaches",
+        "title": "Orchard Beach",
+        "rating": 4.3,
+        "address": "Bronx, NY 10464",
+        "latitude": 40.8672934,
+        "longitude": -73.7922928
+    },
+    {
+        "category": "beaches",
+        "title": "Orchard Beach and Promenade",
+        "rating": 4.3,
+        "address": "Park Dr, Bronx, NY 10464",
+        "latitude": 40.8662214,
+        "longitude": -73.79314819999999
+    },
+    {
+        "category": "beaches",
+        "title": "Plumb Beach (Gateway National Recreation Area)",
+        "rating": 4.2,
+        "address": "Belt Pkwy, Brooklyn, NY 11228",
+        "latitude": 40.583293,
+        "longitude": -73.9209991
+    },
+    {
+        "category": "beaches",
+        "title": "Beach In Fort Washington Park",
+        "rating": 4.3,
+        "address": "Hudson River Greenway, New York, NY 10032",
+        "latitude": 40.846402999999995,
+        "longitude": -73.9463675
+    },
+    {
+        "category": "beaches",
+        "title": "Hallett's Cove Beach",
+        "rating": 4.4,
+        "address": "31-10 Vernon Blvd, Queens, NY 11102",
+        "latitude": 40.7694206,
+        "longitude": -73.9356198
+    },
+    {
+        "category": "beaches",
+        "title": "South Beach",
+        "rating": 4.3,
+        "address": "Staten Island, NY",
+        "latitude": 40.5865213,
+        "longitude": -74.0681213
+    },
+    {
+        "category": "beaches",
+        "title": "Rockaway Beach",
+        "rating": 4.6,
+        "address": "1-12, 1-98 Cross Bay Pkwy, Far Rockaway, NY 11693",
+        "latitude": 40.5831668,
+        "longitude": -73.8153597
+    },
+    {
+        "category": "beaches",
+        "title": "Canarsie Beach",
+        "rating": 4.4,
+        "address": "Brooklyn, NY 11236",
+        "latitude": 40.628715299999996,
+        "longitude": -73.8868028
+    },
+    {
+        "category": "beaches",
+        "title": "Mussel Beach",
+        "rating": 4.6,
+        "address": "East River, New York, NY 10002",
+        "latitude": 40.7099487,
+        "longitude": -73.988556
+    },
+    {
+        "category": "beaches",
+        "title": "Pier 4 Beach",
+        "rating": 4,
+        "address": "New York, NY 11201",
+        "latitude": 40.696625,
+        "longitude": -73.99925549999999
+    },
+    {
+        "category": "beaches",
+        "title": "Jacob Riis Park (Gateway National Recreation Area)",
+        "rating": 4.6,
+        "address": "1-57 Rockaway Beach Blvd, Rockaway Park, NY 11694",
+        "latitude": 40.5670706,
+        "longitude": -73.87177009999999
+    },
+    {
+        "category": "beaches",
+        "title": "Pebble Beach",
+        "rating": 4.8,
+        "address": "65 Plymouth St, Brooklyn, NY 11201",
+        "latitude": 40.7043517,
+        "longitude": -73.99057119999999
+    },
+    {
+        "category": "beaches",
+        "title": "Midland Beach",
+        "rating": 4.4,
+        "address": "Staten Island, NY",
+        "latitude": 40.5717978,
+        "longitude": -74.0821496
+    },
+    {
+        "category": "beaches",
+        "title": "Kingsborough Beach",
+        "rating": 4.3,
+        "address": "Brooklyn, NY 11235",
+        "latitude": 40.5760107,
+        "longitude": -73.9357984
+    },
+    {
+        "category": "swimming pools",
+        "title": "East 54 Swimming Pool",
+        "rating": 4.2,
+        "address": "348 E 54th St, New York, NY 10022",
+        "latitude": 40.7564979,
+        "longitude": -73.96512849999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "9/11 Memorial Pools",
+        "rating": 4.9,
+        "address": "180 Greenwich St, New York, NY 10007",
+        "latitude": 40.7111026,
+        "longitude": -74.0130975
+    },
+    {
+        "category": "swimming pools",
+        "title": "Waterside Swim & Health Club by LIV",
+        "rating": 4.3,
+        "address": "35 Waterside Plaza, New York, NY 10010",
+        "latitude": 40.7382084,
+        "longitude": -73.9731816
+    },
+    {
+        "category": "swimming pools",
+        "title": "The 14th Street Y",
+        "rating": 4.3,
+        "address": "344 E 14th St, New York, NY 10003",
+        "latitude": 40.7313444,
+        "longitude": -73.9832545
+    },
+    {
+        "category": "swimming pools",
+        "title": "Asser Levy Recreation Center",
+        "rating": 4.2,
+        "address": "392 Asser Levy Pl, New York, NY 10010",
+        "latitude": 40.7361601,
+        "longitude": -73.9756582
+    },
+    {
+        "category": "swimming pools",
+        "title": "Athletic and Swim Club",
+        "rating": 4.5,
+        "address": "787 7th Ave, New York, NY 10019",
+        "latitude": 40.7618716,
+        "longitude": -73.98222299999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Vanderbilt YMCA",
+        "rating": 3.4,
+        "address": "224 E 47th St, New York, NY 10017",
+        "latitude": 40.753282999999996,
+        "longitude": -73.97105549999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Asphalt Green - Upper East Side campus",
+        "rating": 4,
+        "address": "555 E 90th St, New York, NY 10128",
+        "latitude": 40.779102099999996,
+        "longitude": -73.9440973
+    },
+    {
+        "category": "swimming pools",
+        "title": "Chelsea Recreation Center",
+        "rating": 4.1,
+        "address": "430 W 25th St, New York, NY 10001",
+        "latitude": 40.748268499999995,
+        "longitude": -74.00206469999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Asphalt Green - Battery Park City Campus",
+        "rating": 3.3,
+        "address": "212 N End Ave, New York, NY 10282",
+        "latitude": 40.7159866,
+        "longitude": -74.014898
+    },
+    {
+        "category": "swimming pools",
+        "title": "Gertrude Ederle Recreation Center",
+        "rating": 4.3,
+        "address": "232 W 60th St, New York, NY 10023",
+        "latitude": 40.7715411,
+        "longitude": -73.9886805
+    },
+    {
+        "category": "swimming pools",
+        "title": "Wall Street Bath & Spa 88",
+        "rating": 4.2,
+        "address": "88 Fulton St, New York, NY 10038",
+        "latitude": 40.7091089,
+        "longitude": -74.0058052
+    },
+    {
+        "category": "swimming pools",
+        "title": "McBurney YMCA",
+        "rating": 4.2,
+        "address": "125 W 14th St, New York, NY 10011",
+        "latitude": 40.7379505,
+        "longitude": -73.9976764
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hamilton Fish Recreation Center",
+        "rating": 4.1,
+        "address": "128 Pitt St, New York, NY 10002",
+        "latitude": 40.7199522,
+        "longitude": -73.9814913
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swim Easy New York",
+        "rating": 4.9,
+        "address": "109 E 50th St, New York, NY 10022",
+        "latitude": 40.7570605,
+        "longitude": -73.97305949999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Manhattan Plaza Health Club",
+        "rating": 4.2,
+        "address": "482 W 43rd St 2nd floor, New York, NY 10036",
+        "latitude": 40.7599419,
+        "longitude": -73.9946078
+    },
+    {
+        "category": "swimming pools",
+        "title": "Manhattan Park Pool Club",
+        "rating": 2.8,
+        "address": "36 River Rd, New York, NY 10044",
+        "latitude": 40.766647299999995,
+        "longitude": -73.9466307
+    },
+    {
+        "category": "swimming pools",
+        "title": "Floating Pool",
+        "rating": 4.3,
+        "address": "Tiffany St, Bronx, NY 10474",
+        "latitude": 40.8042594,
+        "longitude": -73.88889309999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "John Jay Pool",
+        "rating": 4.3,
+        "address": "77 Cherokee Pl, New York, NY 10075",
+        "latitude": 40.7695635,
+        "longitude": -73.948791
+    },
+    {
+        "category": "swimming pools",
+        "title": "Asser Levy Pool",
+        "rating": 4,
+        "address": "390 Asser Levy Place, New York, NY 10010",
+        "latitude": 40.7358364,
+        "longitude": -73.9754372
+    },
+    {
+        "category": "resorts",
+        "title": "Margaritaville Resort Times Square",
+        "rating": 4.3,
+        "address": "560 7th Ave 7th Floor, New York, NY 10018",
+        "latitude": 40.7550448,
+        "longitude": -73.98803079999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Manner",
+        "rating": 4.7,
+        "address": "58 Thompson St, New York, NY 10012",
+        "latitude": 40.723943999999996,
+        "longitude": -74.0033097
+    },
+    {
+        "category": "resorts",
+        "title": "The Chatwal - The Unbound Collection by Hyatt",
+        "rating": 4.6,
+        "address": "130 W 44th St, New York, NY 10036",
+        "latitude": 40.756518299999996,
+        "longitude": -73.9846017
+    },
+    {
+        "category": "resorts",
+        "title": "Aman New York",
+        "rating": 4.4,
+        "address": "730 5th Ave, New York, NY 10019",
+        "latitude": 40.7629802,
+        "longitude": -73.9746883
+    },
+    {
+        "category": "resorts",
+        "title": "The Manhattan at Times Square Hotel",
+        "rating": 3,
+        "address": "790 7th Ave, New York, NY 10019",
+        "latitude": 40.7622856,
+        "longitude": -73.9826404
+    },
+    {
+        "category": "resorts",
+        "title": "Hyatt Regency Jersey City on the Hudson",
+        "rating": 4.3,
+        "address": "2 Exchange Pl, Jersey City, NJ 07302",
+        "latitude": 40.7171182,
+        "longitude": -74.0325349
+    },
+    {
+        "category": "resorts",
+        "title": "The Empire Hotel",
+        "rating": 3.8,
+        "address": "44 W 63rd St, New York, NY 10023",
+        "latitude": 40.7714959,
+        "longitude": -73.9826673
+    },
+    {
+        "category": "resorts",
+        "title": "The Rockaway Hotel",
+        "rating": 4.5,
+        "address": "108-10 Rockaway Beach Dr, Queens, NY 11694",
+        "latitude": 40.5815002,
+        "longitude": -73.8300876
+    },
+    {
+        "category": "resorts",
+        "title": "Dream Downtown, by Hyatt",
+        "rating": 3.8,
+        "address": "355 W 16th St, New York, NY 10011",
+        "latitude": 40.7423311,
+        "longitude": -74.00347909999999
+    },
+    {
+        "category": "resorts",
+        "title": "Belvedere Hotel",
+        "rating": 4,
+        "address": "319 W 48th St, New York, NY 10036",
+        "latitude": 40.761677299999995,
+        "longitude": -73.98803989999999
+    },
+    {
+        "category": "resorts",
+        "title": "Marriott Vacation Club, New York City",
+        "rating": 4.2,
+        "address": "33 W 37th St, New York, NY 10018",
+        "latitude": 40.7512956,
+        "longitude": -73.98481869999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Standard, High Line",
+        "rating": 4.3,
+        "address": "848 Washington St, New York, NY 10014",
+        "latitude": 40.7408138,
+        "longitude": -74.00786339999999
+    },
+    {
+        "category": "resorts",
+        "title": "Gansevoort Meatpacking NYC",
+        "rating": 4.2,
+        "address": "18 9th Ave, New York, NY 10014",
+        "latitude": 40.7398422,
+        "longitude": -74.0057142
+    },
+    {
+        "category": "resorts",
+        "title": "LY New York Hotel",
+        "rating": 4.3,
+        "address": "15-61 127th St 15- 63, College Point, NY 11356",
+        "latitude": 40.7834587,
+        "longitude": -73.84120279999999
+    },
+    {
+        "category": "resorts",
+        "title": "New York Marriott Marquis",
+        "rating": 4.4,
+        "address": "1535 Broadway, New York, NY 10036",
+        "latitude": 40.758586199999996,
+        "longitude": -73.98582019999999
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Riu Plaza New York Times Square",
+        "rating": 4.4,
+        "address": "305 W 46th St, New York, NY 10036",
+        "latitude": 40.7601952,
+        "longitude": -73.98813419999999
+    },
+    {
+        "category": "resorts",
+        "title": "Hilton Club The Residences New York",
+        "rating": 4.1,
+        "address": "1335 6th Ave 44th Fl, New York, NY 10019",
+        "latitude": 40.762498,
+        "longitude": -73.97952699999999
+    },
+    {
+        "category": "resorts",
+        "title": "Ink 48 Hotel",
+        "rating": 4.1,
+        "address": "653 11th Ave, New York, NY 10036",
+        "latitude": 40.764568,
+        "longitude": -73.995995
+    },
+    {
+        "category": "resorts",
+        "title": "Grayson Hotel - The Unbound Collection by Hyatt",
+        "rating": 4.3,
+        "address": "30 W 39th St, New York, NY 10018",
+        "latitude": 40.752097899999995,
+        "longitude": -73.9838551
+    },
+    {
+        "category": "resorts",
+        "title": "Envue, Autograph Collection",
+        "rating": 4,
+        "address": "550 Ave at Port Imperial, Weehawken Township, NJ 07086",
+        "latitude": 40.7772674,
+        "longitude": -74.0111632
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Gateway Brooklyn Tamarak and Goldenrod",
+        "rating": 3.7,
+        "address": "Floyd Bennett Field, Brooklyn, NY 11234, United States",
+        "latitude": 40.595967699999996,
+        "longitude": -73.8859674
+    },
+    {
+        "category": "camping sites",
+        "title": "Skyline RV Camp - Waterfront",
+        "rating": 4.1,
+        "address": "1 Noble St, Brooklyn, NY 11222, United States",
+        "latitude": 40.7284311,
+        "longitude": -73.9610696
+    },
+    {
+        "category": "camping sites",
+        "title": "Ecology Village",
+        "rating": 4.1,
+        "address": "Campsite Trail, Brooklyn, NY 11234, United States",
+        "latitude": 40.586743,
+        "longitude": -73.8874179
+    },
+    {
+        "category": "camping sites",
+        "title": "Pouch Camporee Field",
+        "rating": 4.6,
+        "address": "1285 Manor Rd, Staten Island, NY 10314, United States",
+        "latitude": 40.5942726,
+        "longitude": -74.1238632
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Kinderland Inc",
+        "rating": 5,
+        "address": "16 Court St #2200, Brooklyn, NY 11241, United States",
+        "latitude": 40.6935888,
+        "longitude": -73.9908114
+    },
+    {
+        "category": "camping sites",
+        "title": "Skyline RV Camp Non-Waterfront",
+        "rating": 3.5,
+        "address": "50 Noble St, Brooklyn, NY 11222, United States",
+        "latitude": 40.7281504,
+        "longitude": -73.9581401
+    },
+    {
+        "category": "camping sites",
+        "title": "Liberty Harbor RV Park",
+        "rating": 3.9,
+        "address": "11 Marin Blvd, Jersey City, NJ 07302, United States",
+        "latitude": 40.7120409,
+        "longitude": -74.04388089999999
+    },
+    {
+        "category": "camping sites",
+        "title": "cosecant-inc.",
+        "rating": 5,
+        "address": "538 57th St, Brooklyn, NY 11220, United States",
+        "latitude": 40.640414,
+        "longitude": -74.013587
+    },
+    {
+        "category": "camping sites",
+        "title": "iCAMP Gramercy - STEAM Summer Camp",
+        "rating": 1,
+        "address": "15 Waterside Plaza, New York, NY 10010, United States",
+        "latitude": 40.737017099999996,
+        "longitude": -73.97302839999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Gateway - Staten Island",
+        "rating": 4.5,
+        "address": "210 Ave. S, Brooklyn, NY 11223, United States",
+        "latitude": 40.599995799999995,
+        "longitude": -74.0550895
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Gateway: Wiley Post A",
+        "rating": 4.2,
+        "address": "Brooklyn, NY 11234, United States",
+        "latitude": 40.5968502,
+        "longitude": -73.8843563
+    },
+    {
+        "category": "camping sites",
+        "title": "Fort Wadsworth Campsite",
+        "rating": 4.3,
+        "address": "210 Ave. S, Brooklyn, NY 11223, United States",
+        "latitude": 40.6002076,
+        "longitude": -74.0545738
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Gateway: Wiley Post B",
+        "rating": 4.4,
+        "address": "Brooklyn, NY 11234, United States",
+        "latitude": 40.595985999999996,
+        "longitude": -73.88426439999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Old Forge Camping Resort",
+        "rating": 4.5,
+        "address": "3347 NY-28, Old Forge, NY 13420, United States",
+        "latitude": 43.718213999999996,
+        "longitude": -74.95799
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Fort Greene",
+        "rating": 5,
+        "address": "372 Clinton Ave, Brooklyn, NY 11238, United States",
+        "latitude": 40.687086,
+        "longitude": -73.9680156
+    },
+    {
+        "category": "camping sites",
+        "title": "New York City North / Newburgh KOA Holiday",
+        "rating": 4.1,
+        "address": "119 Freetown Hwy, Wallkill, NY 12589, United States",
+        "latitude": 41.637740099999995,
+        "longitude": -74.10212539999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Shirley Chisholm State Park (Fountain Entrance)",
+        "rating": 4.8,
+        "address": "950 Fountain Ave, Brooklyn, NY 11239, United States",
+        "latitude": 40.6531376,
+        "longitude": -73.8608134
+    },
+    {
+        "category": "camping sites",
+        "title": "Crotona Park West Hdsc",
+        "rating": 3.7,
+        "address": "1605 Fulton Ave, Bronx, NY 10457, United States",
+        "latitude": 40.8392257,
+        "longitude": -73.8993461
+    },
+    {
+        "category": "camping sites",
+        "title": "Camp Gateway - Sandy Hook",
+        "rating": 4.5,
+        "address": "26 Hudson Rd, Highlands, NJ 07732, United States",
+        "latitude": 40.450133,
+        "longitude": -73.9951097
+    },
+    {
+        "category": "camping sites",
+        "title": "Collective Retreats Governors Island",
+        "rating": 4.1,
+        "address": "825 Gresham Rd, New York, NY 10004, United States",
+        "latitude": 40.6889253,
+        "longitude": -74.02155669999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Empire State Trail - Battery Park Trailhead",
+        "rating": 5,
+        "address": "New York, NY 10004",
+        "latitude": 40.7056057,
+        "longitude": -74.01683539999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "North Woods Loch Double Waterfall",
+        "rating": 4.7,
+        "address": "Central Park, Loch Walking Path, New York, NY 10025",
+        "latitude": 40.7954933,
+        "longitude": -73.95602749999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Forest Park Hiking Trails",
+        "rating": 4.8,
+        "address": "Richmond Hill, NY 11418",
+        "latitude": 40.704588099999995,
+        "longitude": -73.8444505
+    },
+    {
+        "category": "hiking trails",
+        "title": "The Ravine",
+        "rating": 4.7,
+        "address": "E 103rd St, New York, NY 10026",
+        "latitude": 40.795049399999996,
+        "longitude": -73.9556674
+    },
+    {
+        "category": "hiking trails",
+        "title": "Manhattan Greenway Trail",
+        "rating": 4.8,
+        "address": "353 West St, New York, NY 10014",
+        "latitude": 40.7286763,
+        "longitude": -74.0124726
+    },
+    {
+        "category": "hiking trails",
+        "title": "Marine Park Salt Marsh Nature Trail",
+        "rating": 4.6,
+        "address": "Marine Park Salt Marsh Nature Center, 3301 Avenue U, Brooklyn, NY 11234",
+        "latitude": 40.603498599999995,
+        "longitude": -73.9285532
+    },
+    {
+        "category": "hiking trails",
+        "title": "North Woods",
+        "rating": 4.7,
+        "address": "296 Central Pk N, New York, NY 10026",
+        "latitude": 40.7977826,
+        "longitude": -73.9561413
+    },
+    {
+        "category": "hiking trails",
+        "title": "East River Greenway",
+        "rating": 4.6,
+        "address": "80 Catherine St, New York, NY 10038",
+        "latitude": 40.709335599999996,
+        "longitude": -73.9933957
+    },
+    {
+        "category": "hiking trails",
+        "title": "The Loch",
+        "rating": 4.6,
+        "address": "Central Prk W, New York, NY 10026",
+        "latitude": 40.7946276,
+        "longitude": -73.95818659999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Water Hole Trail Head",
+        "rating": 4.6,
+        "address": "115-98 Park Ln S, Jamaica, NY 11418",
+        "latitude": 40.7066509,
+        "longitude": -73.83902719999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Overlook Meadow",
+        "rating": 4.9,
+        "address": "V3FC+9XX, New York, NY 10034",
+        "latitude": 40.8734375,
+        "longitude": -73.9275625
+    },
+    {
+        "category": "hiking trails",
+        "title": "Shirley Chisholm State Park",
+        "rating": 4.6,
+        "address": "J4WG+5M, 1750 Granville Payne Ave, Brooklyn, NY 11239",
+        "latitude": 40.643056099999995,
+        "longitude": -73.87551719999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Captain Patrick J. Brown Walk",
+        "rating": 4.7,
+        "address": "New York, NY 10009",
+        "latitude": 40.7287045,
+        "longitude": -73.97145669999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "High Rock Park",
+        "rating": 4.6,
+        "address": "200 Nevada Ave, Staten Island, NY 10314",
+        "latitude": 40.5825314,
+        "longitude": -74.1230547
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bronx Park",
+        "rating": 4.7,
+        "address": "2900 Southern Blvd, Bronx, NY 10458",
+        "latitude": 40.862085799999996,
+        "longitude": -73.88050489999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Vanderbilt Parkway",
+        "rating": 4.9,
+        "address": "Long Island Motor Pkwy, Queens, NY 11365",
+        "latitude": 40.7374207,
+        "longitude": -73.7739112
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ravine",
+        "rating": 4.6,
+        "address": "95 Prospect Park W, Brooklyn, NY 11215",
+        "latitude": 40.6638721,
+        "longitude": -73.968746
+    },
+    {
+        "category": "hiking trails",
+        "title": "Breeze Hill Walk",
+        "rating": 4.8,
+        "address": "Brooklyn, NY 11225",
+        "latitude": 40.6596093,
+        "longitude": -73.9648389
+    },
+    {
+        "category": "hiking trails",
+        "title": "Hudson River Waterfront Greenway",
+        "rating": 4.8,
+        "address": "New York State Reference Rte 907V, New York, NY 10024",
+        "latitude": 40.7886373,
+        "longitude": -73.9824241
+    },
+    {
+        "category": "hiking trails",
+        "title": "Shirley Chisholm State Park (Fountain Entrance)",
+        "rating": 4.8,
+        "address": "950 Fountain Ave, Brooklyn, NY 11239",
+        "latitude": 40.6531376,
+        "longitude": -73.8608134
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Hallett Nature Sanctuary",
+        "rating": 4.7,
+        "address": "6th Avenue &, Central Park S, New York, NY 10019",
+        "latitude": 40.7666397,
+        "longitude": -73.9750243
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Central Park",
+        "rating": 4.8,
+        "address": "New York, NY",
+        "latitude": 40.7825547,
+        "longitude": -73.9655834
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "The High Line",
+        "rating": 4.7,
+        "address": "New York, NY 10011",
+        "latitude": 40.747992499999995,
+        "longitude": -74.0047649
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Jamaica Bay Wildlife Refuge",
+        "rating": 4.5,
+        "address": "175-10 Cross Bay Blvd, Broad Channel, NY 11693",
+        "latitude": 40.6239312,
+        "longitude": -73.82748699999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Elevated Acre",
+        "rating": 4.6,
+        "address": "55 Water St, New York, NY 10041",
+        "latitude": 40.7033361,
+        "longitude": -74.0085763
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Bronx Park",
+        "rating": 4.7,
+        "address": "2900 Southern Blvd, Bronx, NY 10458",
+        "latitude": 40.862085799999996,
+        "longitude": -73.88050489999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Prospect Park",
+        "rating": 4.7,
+        "address": "Brooklyn, NY",
+        "latitude": 40.6602037,
+        "longitude": -73.9689558
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Queens Botanical Garden",
+        "rating": 4.3,
+        "address": "43-50 Main St, Flushing, NY 11355",
+        "latitude": 40.751239299999995,
+        "longitude": -73.8261905
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Pelham Bay Park",
+        "rating": 4.5,
+        "address": "Middletown Road & Stadium, Avenue, Bronx, NY 10465",
+        "latitude": 40.8667516,
+        "longitude": -73.81011029999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Pier 35",
+        "rating": 4.6,
+        "address": "FDR Dr, New York, NY 10002",
+        "latitude": 40.709451699999995,
+        "longitude": -73.9884141
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Like A Local Tours",
+        "rating": 5,
+        "address": "275 Park Ave Suite A, Brooklyn, NY 11205",
+        "latitude": 40.696204699999996,
+        "longitude": -73.9681279
+    },
+    {
+        "category": "temples",
+        "title": "The Hindu Temple Society of North America",
+        "rating": 4.8,
+        "address": "45-57 Bowne St, Flushing, NY 11355",
+        "latitude": 40.7528108,
+        "longitude": -73.8169558
+    },
+    {
+        "category": "temples",
+        "title": "ISKCON New York City - Hare Krishna Center",
+        "rating": 4.8,
+        "address": "305 Schermerhorn St, Brooklyn, NY 11217",
+        "latitude": 40.6876046,
+        "longitude": -73.9820965
+    },
+    {
+        "category": "temples",
+        "title": "Mahayana Temple Buddhist Association",
+        "rating": 4.4,
+        "address": "133 Canal St, New York, NY 10002",
+        "latitude": 40.716140599999996,
+        "longitude": -73.9954181
+    },
+    {
+        "category": "temples",
+        "title": "Broome Street Ganesha Temple",
+        "rating": 4.9,
+        "address": "430 Broome St, New York, NY 10013",
+        "latitude": 40.7215357,
+        "longitude": -73.9987798
+    },
+    {
+        "category": "temples",
+        "title": "Hare Krishna Temple",
+        "rating": 4.5,
+        "address": "25 1st Ave 3rd floor, New York, NY 10003",
+        "latitude": 40.723776799999996,
+        "longitude": -73.9884895
+    },
+    {
+        "category": "temples",
+        "title": "BAPS Shri Swaminarayan Mandir",
+        "rating": 4.8,
+        "address": "43-38 Bowne St, Flushing, NY 11355",
+        "latitude": 40.7544444,
+        "longitude": -73.8197222
+    },
+    {
+        "category": "temples",
+        "title": "Geeta Temple Ashram Inc",
+        "rating": 4.6,
+        "address": "92-09 Corona Ave., Elmhurst, NY 11373",
+        "latitude": 40.7427038,
+        "longitude": -73.8719071
+    },
+    {
+        "category": "temples",
+        "title": "Shree Divya Dham",
+        "rating": 4.8,
+        "address": "34-63 56th St, Woodside, NY 11377",
+        "latitude": 40.750839,
+        "longitude": -73.90578099999999
+    },
+    {
+        "category": "temples",
+        "title": "Eastern States Buddhist Temple",
+        "rating": 4.2,
+        "address": "64 Mott St, New York, NY 10013",
+        "latitude": 40.7160187,
+        "longitude": -73.9980046
+    },
+    {
+        "category": "temples",
+        "title": "New York Hindu Sanatan Inc",
+        "rating": 4.2,
+        "address": "23-75 89th St, Flushing, NY 11369",
+        "latitude": 40.7657324,
+        "longitude": -73.87995699999999
+    },
+    {
+        "category": "temples",
+        "title": "Ramakrishna-Vivekananda Center of New York",
+        "rating": 4.7,
+        "address": "17 E 94th St, New York, NY 10128",
+        "latitude": 40.7862863,
+        "longitude": -73.95557409999999
+    },
+    {
+        "category": "temples",
+        "title": "Hare Krishna Temple, ISKCON (Matchless Gifts)",
+        "rating": 4.9,
+        "address": "26 2nd Ave, New York, NY 10003",
+        "latitude": 40.7244684,
+        "longitude": -73.9904483
+    },
+    {
+        "category": "temples",
+        "title": "Temple Emanu-El",
+        "rating": 4.7,
+        "address": "1 E 65th St, New York, NY 10065",
+        "latitude": 40.768043299999995,
+        "longitude": -73.9697743
+    },
+    {
+        "category": "temples",
+        "title": "美國關帝廟 Guan Gong Temple of USA",
+        "rating": 4.9,
+        "address": "294 Broome St, New York, NY 10002",
+        "latitude": 40.7187196,
+        "longitude": -73.9919223
+    },
+    {
+        "category": "temples",
+        "title": "Satya Narayan Mandir",
+        "rating": 4.6,
+        "address": "75-15 Woodside Ave, Elmhurst, NY 11373",
+        "latitude": 40.743489,
+        "longitude": -73.88909679999999
+    },
+    {
+        "category": "temples",
+        "title": "Korea Buddhism Jo-Gei Temple of America",
+        "rating": 4.7,
+        "address": "42 W 96th St, New York, NY 10025",
+        "latitude": 40.7920413,
+        "longitude": -73.9662554
+    },
+    {
+        "category": "temples",
+        "title": "Brooklyn Hindu Temple",
+        "rating": 4.5,
+        "address": "3105 Avenue D, Brooklyn, NY 11226",
+        "latitude": 40.6411689,
+        "longitude": -73.9472808
+    },
+    {
+        "category": "temples",
+        "title": "Shri Surya Narayan Mandir",
+        "rating": 4.6,
+        "address": "92-17 172nd St, Jamaica, NY 11433",
+        "latitude": 40.706981,
+        "longitude": -73.7874638
+    },
+    {
+        "category": "temples",
+        "title": "The Village Temple | Reform Synagogue in Downtown NYC",
+        "rating": 4.7,
+        "address": "33 E 12th St, New York, NY 10003",
+        "latitude": 40.733885199999996,
+        "longitude": -73.992239
+    },
+    {
+        "category": "temples",
+        "title": "East End Temple",
+        "rating": 4.5,
+        "address": "245 E 17th St, New York, NY 10003",
+        "latitude": 40.734637899999996,
+        "longitude": -73.983882
+    },
+    {
+        "category": "museums",
+        "title": "The Museum of Modern Art",
+        "rating": 4.6,
+        "address": "11 W 53rd St, New York, NY 10019",
+        "latitude": 40.7614327,
+        "longitude": -73.97762159999999
+    },
+    {
+        "category": "museums",
+        "title": "The Metropolitan Museum of Art",
+        "rating": 4.8,
+        "address": "1000 5th Ave, New York, NY 10028",
+        "latitude": 40.7794366,
+        "longitude": -73.963244
+    },
+    {
+        "category": "museums",
+        "title": "Solomon R. Guggenheim Museum",
+        "rating": 4.3,
+        "address": "1071 5th Ave, New York, NY 10128",
+        "latitude": 40.7829796,
+        "longitude": -73.9589706
+    },
+    {
+        "category": "museums",
+        "title": "Museum of the City of New York",
+        "rating": 4.5,
+        "address": "1220 5th Ave, New York, NY 10029",
+        "latitude": 40.7924939,
+        "longitude": -73.95190889999999
+    },
+    {
+        "category": "museums",
+        "title": "The Met Cloisters",
+        "rating": 4.8,
+        "address": "99 Margaret Corbin Dr, New York, NY 10040",
+        "latitude": 40.8648628,
+        "longitude": -73.9317274
+    },
+    {
+        "category": "museums",
+        "title": "The Frick Collection",
+        "rating": 4.6,
+        "address": "1 E 70th St, New York, NY 10021",
+        "latitude": 40.7710857,
+        "longitude": -73.9673861
+    },
+    {
+        "category": "museums",
+        "title": "The Morgan Library & Museum",
+        "rating": 4.7,
+        "address": "225 Madison Ave, New York, NY 10016",
+        "latitude": 40.7492258,
+        "longitude": -73.9813971
+    },
+    {
+        "category": "museums",
+        "title": "MoMA PS1",
+        "rating": 4.4,
+        "address": "22-25 Jackson Ave, Queens, NY 11101",
+        "latitude": 40.7456014,
+        "longitude": -73.947097
+    },
+    {
+        "category": "museums",
+        "title": "American Museum of Natural History",
+        "rating": 4.5,
+        "address": "200 Central Prk W, New York, NY 10024",
+        "latitude": 40.7813241,
+        "longitude": -73.9739882
+    },
+    {
+        "category": "museums",
+        "title": "Neue Galerie New York",
+        "rating": 4.4,
+        "address": "1048 5th Ave, New York, NY 10028",
+        "latitude": 40.781264,
+        "longitude": -73.9603267
+    },
+    {
+        "category": "museums",
+        "title": "9/11 Memorial & Museum",
+        "rating": 4.8,
+        "address": "180 Greenwich St, New York, NY 10007",
+        "latitude": 40.7115776,
+        "longitude": -74.0133362
+    },
+    {
+        "category": "museums",
+        "title": "Tenement Museum",
+        "rating": 4.6,
+        "address": "103 Orchard St, New York, NY 10002",
+        "latitude": 40.718818,
+        "longitude": -73.9900876
+    },
+    {
+        "category": "museums",
+        "title": "Brooklyn Museum",
+        "rating": 4.7,
+        "address": "200 Eastern Pkwy, Brooklyn, NY 11238",
+        "latitude": 40.6712062,
+        "longitude": -73.9636306
+    },
+    {
+        "category": "museums",
+        "title": "Intrepid Museum",
+        "rating": 4.7,
+        "address": "Pier 86, W 46th St, New York, NY 10036",
+        "latitude": 40.7648801,
+        "longitude": -74.0008306
+    },
+    {
+        "category": "museums",
+        "title": "Whitney Museum of American Art",
+        "rating": 4.5,
+        "address": "99 Gansevoort St, New York, NY 10014",
+        "latitude": 40.7395877,
+        "longitude": -74.0088629
+    },
+    {
+        "category": "museums",
+        "title": "The New York Historical",
+        "rating": 4.5,
+        "address": "170 Central Prk W, New York, NY 10024",
+        "latitude": 40.7793487,
+        "longitude": -73.9739079
+    },
+    {
+        "category": "museums",
+        "title": "Merchant's House Museum",
+        "rating": 4.7,
+        "address": "29 E 4th St, New York, NY 10003",
+        "latitude": 40.727664999999995,
+        "longitude": -73.99234
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Sex",
+        "rating": 4.4,
+        "address": "233 5th Ave, New York, NY 10016",
+        "latitude": 40.7440291,
+        "longitude": -73.9872529
+    },
+    {
+        "category": "museums",
+        "title": "National Museum of the American Indian",
+        "rating": 4.5,
+        "address": "1 Bowling Green, New York, NY 10004",
+        "latitude": 40.7039861,
+        "longitude": -74.01368889999999
+    },
+    {
+        "category": "museums",
+        "title": "Queens Museum",
+        "rating": 4.5,
+        "address": "Flushing Meadows Corona Park, Building, Corona, NY 11368",
+        "latitude": 40.745914,
+        "longitude": -73.8467247
+    },
+    {
+        "category": "night markets",
+        "title": "Uptown Night Market",
+        "rating": 4.6,
+        "address": "The Old Fairways Parking Lot, 2328 12th Ave, New York, NY 10027",
+        "latitude": 40.819806299999996,
+        "longitude": -73.9593945
+    },
+    {
+        "category": "night markets",
+        "title": "Chinatown Night Market",
+        "rating": 5,
+        "address": "Forsyth St &, Canal St, New York, NY 10002",
+        "latitude": 40.7154005,
+        "longitude": -73.9945749
+    },
+    {
+        "category": "night markets",
+        "title": "Queens Night Market",
+        "rating": 4.6,
+        "address": "47-01 111th St, Corona, NY 11368",
+        "latitude": 40.748064299999996,
+        "longitude": -73.85051349999999
+    },
+    {
+        "category": "night markets",
+        "title": "UNION SQUARE NIGHT MARKET BY URBANSPACE",
+        "rating": 5,
+        "address": "Union Square W, New York, NY 10003",
+        "latitude": 40.7351241,
+        "longitude": -73.9908107
+    },
+    {
+        "category": "night markets",
+        "title": "Brooklyn Night Market",
+        "rating": 5,
+        "address": "220 36th St, Brooklyn, NY 11232",
+        "latitude": 40.6564669,
+        "longitude": -74.0067605
+    },
+    {
+        "category": "night markets",
+        "title": "Dekalb Market Hall",
+        "rating": 4.6,
+        "address": "445 Albee Square W, Brooklyn, NY 11201",
+        "latitude": 40.690761699999996,
+        "longitude": -73.98305739999999
+    },
+    {
+        "category": "night markets",
+        "title": "Latin night market",
+        "rating": 5,
+        "address": "Dyckman St, New York, NY 10034",
+        "latitude": 40.8645387,
+        "longitude": -73.9266358
+    },
+    {
+        "category": "night markets",
+        "title": "Little Market NYC",
+        "rating": 4.5,
+        "address": "637 Broadway, New York, NY 10012",
+        "latitude": 40.7264121,
+        "longitude": -73.9961582
+    },
+    {
+        "category": "night markets",
+        "title": "Turnstyle Underground Market",
+        "rating": 4.3,
+        "address": "1000 S 8th Ave, New York, NY 10019",
+        "latitude": 40.7664796,
+        "longitude": -73.982719
+    },
+    {
+        "category": "night markets",
+        "title": "Bronx Night Market",
+        "rating": 3.7,
+        "address": "1 Fordham Plaza, Bronx, NY 10458",
+        "latitude": 40.8605938,
+        "longitude": -73.8902626
+    },
+    {
+        "category": "night markets",
+        "title": "Artists & Fleas Market Williamsburg",
+        "rating": 4.3,
+        "address": "70 N 7th St, Brooklyn, NY 11249",
+        "latitude": 40.719896,
+        "longitude": -73.9612521
+    },
+    {
+        "category": "night markets",
+        "title": "Time Out Market New York",
+        "rating": 4.5,
+        "address": "55 Water St, Brooklyn, NY 11201",
+        "latitude": 40.7034205,
+        "longitude": -73.9921457
+    },
+    {
+        "category": "night markets",
+        "title": "Market 57",
+        "rating": 4.3,
+        "address": "25 11th Ave, New York, NY 10011",
+        "latitude": 40.7433646,
+        "longitude": -74.00923399999999
+    },
+    {
+        "category": "night markets",
+        "title": "Union Square Holiday Market by Urbanspace",
+        "rating": 4.5,
+        "address": "E 14th St, New York, NY 10011",
+        "latitude": 40.735399199999996,
+        "longitude": -73.9901836
+    },
+    {
+        "category": "night markets",
+        "title": "Chelsea Market",
+        "rating": 4.6,
+        "address": "75 9th Ave, New York, NY 10011",
+        "latitude": 40.7424396,
+        "longitude": -74.0061439
+    },
+    {
+        "category": "night markets",
+        "title": "Artists & Fleas Market Chelsea",
+        "rating": 4.5,
+        "address": "88 10th Ave, New York, NY 10011",
+        "latitude": 40.742873599999996,
+        "longitude": -74.0073428
+    },
+    {
+        "category": "night markets",
+        "title": "Essex Market",
+        "rating": 4.5,
+        "address": "88 Essex St, New York, NY 10002",
+        "latitude": 40.7180004,
+        "longitude": -73.98819
+    },
+    {
+        "category": "night markets",
+        "title": "Grand Bazaar NYC",
+        "rating": 4.2,
+        "address": "100 W 77th St, New York, NY 10024",
+        "latitude": 40.7803915,
+        "longitude": -73.9770625
+    },
+    {
+        "category": "night markets",
+        "title": "Chelsea Flea",
+        "rating": 4.2,
+        "address": "29 W 25th St, New York, NY 10010",
+        "latitude": 40.74382,
+        "longitude": -73.990336
+    },
+    {
+        "category": "night markets",
+        "title": "La Marqueta",
+        "rating": 4.3,
+        "address": "1590 Park Ave, New York, NY 10029",
+        "latitude": 40.7985573,
+        "longitude": -73.9437714
+    },
+    {
+        "category": "viewpoints",
+        "title": "SUMMIT One Vanderbilt",
+        "rating": 4.7,
+        "address": "45 E 42nd St, New York, NY 10017",
+        "latitude": 40.752774599999995,
+        "longitude": -73.9787253
+    },
+    {
+        "category": "viewpoints",
+        "title": "DUMBO Manhattan Bridge View",
+        "rating": 4.8,
+        "address": "39-21 Washington St, Brooklyn, NY 11201",
+        "latitude": 40.7033165,
+        "longitude": -73.9895698
+    },
+    {
+        "category": "viewpoints",
+        "title": "Statue of Liberty Lookout",
+        "rating": 4.5,
+        "address": "Battery Park Underpass, New York, NY 10004",
+        "latitude": 40.700923599999996,
+        "longitude": -74.0151612
+    },
+    {
+        "category": "viewpoints",
+        "title": "1 WTC/Brookfield Place Viewpoint",
+        "rating": 4.9,
+        "address": "New York, NY 10282",
+        "latitude": 40.7130842,
+        "longitude": -74.0177056
+    },
+    {
+        "category": "viewpoints",
+        "title": "Vista Point little islands",
+        "rating": 4.7,
+        "address": "Little Island, Pier 55 at Hudson River Park, Hudson River Greenway, New York, NY 10014",
+        "latitude": 40.741865499999996,
+        "longitude": -74.01133899999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "NY City Skyline Vista Point",
+        "rating": 4.7,
+        "address": "Liberty Island, New York, NY 10004",
+        "latitude": 40.6907403,
+        "longitude": -74.0452713
+    },
+    {
+        "category": "viewpoints",
+        "title": "New York City Elevated View Point",
+        "rating": 4.7,
+        "address": "80 Furman St, Brooklyn, NY 11201",
+        "latitude": 40.7009367,
+        "longitude": -73.9960363
+    },
+    {
+        "category": "viewpoints",
+        "title": "Vista Point Manhattan and Brooklyn bridges",
+        "rating": 4.9,
+        "address": "55 Water St, Brooklyn, NY 11201",
+        "latitude": 40.703718599999995,
+        "longitude": -73.9914581
+    },
+    {
+        "category": "viewpoints",
+        "title": "Pier 57 Rooftop Park",
+        "rating": 4.8,
+        "address": "57 Hudson River Greenway, New York, NY 10011",
+        "latitude": 40.743653099999996,
+        "longitude": -74.0106802
+    },
+    {
+        "category": "viewpoints",
+        "title": "The High Line",
+        "rating": 4.7,
+        "address": "New York, NY 10011",
+        "latitude": 40.747992499999995,
+        "longitude": -74.0047649
+    },
+    {
+        "category": "viewpoints",
+        "title": "Edge NYC",
+        "rating": 4.6,
+        "address": "30 Hudson Yards, New York, NY 10001",
+        "latitude": 40.753393599999995,
+        "longitude": -74.001055
+    },
+    {
+        "category": "viewpoints",
+        "title": "Roosevelt Island viewpoint",
+        "rating": 4.9,
+        "address": "10 W Main St, New York, NY 10044",
+        "latitude": 40.757567699999996,
+        "longitude": -73.9552396
+    },
+    {
+        "category": "viewpoints",
+        "title": "Brooklyn Bridge Lookout",
+        "rating": 4.9,
+        "address": "1 Water St, Brooklyn, NY 11201",
+        "latitude": 40.7034556,
+        "longitude": -73.99529799999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Top of The Rock",
+        "rating": 4.7,
+        "address": "30 Rockefeller Plaza, New York, NY 10112",
+        "latitude": 40.7593495,
+        "longitude": -73.9794087
+    },
+    {
+        "category": "viewpoints",
+        "title": "Brooklyn Heights Promenade",
+        "rating": 4.8,
+        "address": "Montague St &, Pierrepont Pl, Brooklyn, NY 11201",
+        "latitude": 40.6964173,
+        "longitude": -73.9977463
+    },
+    {
+        "category": "viewpoints",
+        "title": "New York Skyline Observation Deck",
+        "rating": 4.9,
+        "address": "1 Audrey Zapp Dr, Jersey City, NJ 07305",
+        "latitude": 40.708611,
+        "longitude": -74.034357
+    },
+    {
+        "category": "viewpoints",
+        "title": "One World Observatory",
+        "rating": 4.7,
+        "address": "117 West St, New York, NY 10007",
+        "latitude": 40.713006199999995,
+        "longitude": -74.013173
+    },
+    {
+        "category": "viewpoints",
+        "title": "New York Skyline Vista Point",
+        "rating": 5,
+        "address": "402 Morris Pesin Dr, Jersey City, NJ 07305",
+        "latitude": 40.6916521,
+        "longitude": -74.0543026
+    },
+    {
+        "category": "viewpoints",
+        "title": "Pier 35",
+        "rating": 4.6,
+        "address": "FDR Dr, New York, NY 10002",
+        "latitude": 40.709451699999995,
+        "longitude": -73.9884141
+    },
+    {
+        "category": "viewpoints",
+        "title": "Plaza Lafayette & Riverside Lookout",
+        "rating": 4.6,
+        "address": "New York, NY 10033",
+        "latitude": 40.8518323,
+        "longitude": -73.9419613
+    },
+    {
+        "category": "gardens",
+        "title": "Conservatory Garden",
+        "rating": 4.8,
+        "address": "1233 5th Ave, New York, NY 10029",
+        "latitude": 40.793692799999995,
+        "longitude": -73.9524588
+    },
+    {
+        "category": "gardens",
+        "title": "New York Botanical Garden",
+        "rating": 4.7,
+        "address": "2900 Southern Blvd, Bronx, NY 10458",
+        "latitude": 40.862287099999996,
+        "longitude": -73.8773946
+    },
+    {
+        "category": "gardens",
+        "title": "Shakespeare Garden",
+        "rating": 4.7,
+        "address": "79th St Transverse, New York, NY 10024",
+        "latitude": 40.7797535,
+        "longitude": -73.96988209999999
+    },
+    {
+        "category": "gardens",
+        "title": "Brooklyn Botanic Garden",
+        "rating": 4.7,
+        "address": "Brooklyn, NY 11238",
+        "latitude": 40.668579799999996,
+        "longitude": -73.9644696
+    },
+    {
+        "category": "gardens",
+        "title": "Jefferson Market Garden",
+        "rating": 4.7,
+        "address": "10 Greenwich Ave, New York, NY 10011",
+        "latitude": 40.7344179,
+        "longitude": -73.9995351
+    },
+    {
+        "category": "gardens",
+        "title": "Queens Botanical Garden",
+        "rating": 4.3,
+        "address": "43-50 Main St, Flushing, NY 11355",
+        "latitude": 40.751239299999995,
+        "longitude": -73.8261905
+    },
+    {
+        "category": "gardens",
+        "title": "West Side Community Garden",
+        "rating": 4.8,
+        "address": "123 W 89th St, New York, NY 10024",
+        "latitude": 40.789259,
+        "longitude": -73.9718323
+    },
+    {
+        "category": "gardens",
+        "title": "Creative Little Garden",
+        "rating": 4.8,
+        "address": "530 E 6th St, New York, NY 10009",
+        "latitude": 40.7246987,
+        "longitude": -73.98258
+    },
+    {
+        "category": "gardens",
+        "title": "The Channel Gardens",
+        "rating": 4.7,
+        "address": "New York, NY 10020",
+        "latitude": 40.7585013,
+        "longitude": -73.978087
+    },
+    {
+        "category": "gardens",
+        "title": "Snug Harbor Cultural Center & Botanical Garden",
+        "rating": 4.5,
+        "address": "1000 Richmond Ter, Staten Island, NY 10301",
+        "latitude": 40.6433718,
+        "longitude": -74.1027431
+    },
+    {
+        "category": "gardens",
+        "title": "Enid A. Haupt Conservatory, NYBG",
+        "rating": 4.8,
+        "address": "Haupt Conservatory, Bronx Park Rd, Bronx, NY 10458",
+        "latitude": 40.8639333,
+        "longitude": -73.8820361
+    },
+    {
+        "category": "gardens",
+        "title": "6BC Botanical Garden",
+        "rating": 4.6,
+        "address": "630 E 6th St, New York, NY 10009",
+        "latitude": 40.7238154,
+        "longitude": -73.98070779999999
+    },
+    {
+        "category": "gardens",
+        "title": "Turtle Bay Gardens",
+        "rating": 3.8,
+        "address": "New York, NY 10017",
+        "latitude": 40.7543569,
+        "longitude": -73.9700854
+    },
+    {
+        "category": "gardens",
+        "title": "Japanese Hill-and-Pond Garden",
+        "rating": 4.8,
+        "address": "990 Washington Ave, Brooklyn, NY 11225",
+        "latitude": 40.6685881,
+        "longitude": -73.9628943
+    },
+    {
+        "category": "gardens",
+        "title": "Central Park",
+        "rating": 4.8,
+        "address": "New York, NY",
+        "latitude": 40.7825547,
+        "longitude": -73.9655834
+    },
+    {
+        "category": "gardens",
+        "title": "New York Chinese Scholar's Garden, Snug Harbor Cultural Center",
+        "rating": 4.5,
+        "address": "1000 Richmond Ter, Staten Island, NY 10301",
+        "latitude": 40.6428687,
+        "longitude": -74.104249
+    },
+    {
+        "category": "gardens",
+        "title": "Osborne Garden",
+        "rating": 4.6,
+        "address": "Brooklyn, NY 11225",
+        "latitude": 40.6709266,
+        "longitude": -73.9653647
+    },
+    {
+        "category": "gardens",
+        "title": "Native Flora Garden",
+        "rating": 4.8,
+        "address": "990 Washington Ave, Brooklyn, NY 11225",
+        "latitude": 40.6696885,
+        "longitude": -73.9662936
+    },
+    {
+        "category": "gardens",
+        "title": "Abby Aldrich Rockefeller Sculpture Garden",
+        "rating": 4.7,
+        "address": "11 W 53rd St, New York, NY 10019",
+        "latitude": 40.7614291,
+        "longitude": -73.97677929999999
+    },
+    {
+        "category": "gardens",
+        "title": "Wave Hill Public Garden & Cultural Center",
+        "rating": 4.8,
+        "address": "4900 Independence Ave, Bronx, NY 10471",
+        "latitude": 40.897851599999996,
+        "longitude": -73.91144489999999
+    },
+    {
+        "category": "zoo",
+        "title": "Central Park Zoo",
+        "rating": 4.4,
+        "address": "New York, NY 10021",
+        "latitude": 40.7677061,
+        "longitude": -73.9719906
+    },
+    {
+        "category": "zoo",
+        "title": "Bronx Zoo",
+        "rating": 4.6,
+        "address": "2300 Southern Blvd, Bronx, NY 10460",
+        "latitude": 40.8501415,
+        "longitude": -73.87672169999999
+    },
+    {
+        "category": "zoo",
+        "title": "Queens Zoo",
+        "rating": 4.5,
+        "address": "53-51 111th St, Corona, NY 11368",
+        "latitude": 40.7442504,
+        "longitude": -73.8494687
+    },
+    {
+        "category": "zoo",
+        "title": "Prospect Park Zoo",
+        "rating": 4.5,
+        "address": "450 Flatbush Ave, Brooklyn, NY 11225",
+        "latitude": 40.664250599999995,
+        "longitude": -73.9651138
+    },
+    {
+        "category": "zoo",
+        "title": "New York Aquarium",
+        "rating": 4.2,
+        "address": "602 Surf Ave, Brooklyn, NY 11224",
+        "latitude": 40.5743017,
+        "longitude": -73.9748532
+    },
+    {
+        "category": "zoo",
+        "title": "Staten Island Zoo",
+        "rating": 4.5,
+        "address": "614 Broadway, Staten Island, NY 10310",
+        "latitude": 40.6250833,
+        "longitude": -74.1153588
+    },
+    {
+        "category": "zoo",
+        "title": "Long Island Aquarium",
+        "rating": 4.4,
+        "address": "431 E Main St, Riverhead, NY 11901",
+        "latitude": 40.9184639,
+        "longitude": -72.6563479
+    },
+    {
+        "category": "adventure parks",
+        "title": "Area 53 - Adventure Park",
+        "rating": 4.4,
+        "address": "616 Scholes St, Brooklyn, NY 11237",
+        "latitude": 40.712441399999996,
+        "longitude": -73.9235501
+    },
+    {
+        "category": "adventure parks",
+        "title": "Deno's Wonder Wheel Amusement Park",
+        "rating": 4.5,
+        "address": "3059 W 12th St, Brooklyn, NY 11224",
+        "latitude": 40.573330899999995,
+        "longitude": -73.9791552
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventurers Amusement Park",
+        "rating": 4.1,
+        "address": "1824 Shore Pkwy, Brooklyn, NY 11214",
+        "latitude": 40.590669399999996,
+        "longitude": -73.99469409999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Luna Park in Coney Island",
+        "rating": 4.4,
+        "address": "1000 Surf Ave, Brooklyn, NY 11224",
+        "latitude": 40.5752568,
+        "longitude": -73.9785149
+    },
+    {
+        "category": "adventure parks",
+        "title": "Fantasy Forest Amusement Park",
+        "rating": 4.3,
+        "address": "53-51 111th St, Corona, NY 11368",
+        "latitude": 40.7432938,
+        "longitude": -73.8492741
+    },
+    {
+        "category": "adventure parks",
+        "title": "Scream Zone at Luna Park in Coney Island",
+        "rating": 4.5,
+        "address": "New York, 1295, Riegelmann Boardwalk, Brooklyn, NY 11224",
+        "latitude": 40.573257399999996,
+        "longitude": -73.9799728
+    },
+    {
+        "category": "adventure parks",
+        "title": "Urban Air Trampoline and Adventure Park",
+        "rating": 4.4,
+        "address": "4422 2nd Ave, Brooklyn, NY 11232",
+        "latitude": 40.652282,
+        "longitude": -74.0144509
+    },
+    {
+        "category": "adventure parks",
+        "title": "Forest Park Carousel Amusement Village",
+        "rating": 4.4,
+        "address": "Woodhaven Blvd &, Forest Park Dr, Woodhaven, NY 11421",
+        "latitude": 40.700361699999995,
+        "longitude": -73.85673059999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventure Playground",
+        "rating": 4.6,
+        "address": "2 W 67th St, New York, NY 10023",
+        "latitude": 40.7732421,
+        "longitude": -73.9775435
+    },
+    {
+        "category": "adventure parks",
+        "title": "eVRest VR Amusement Park",
+        "rating": 4.9,
+        "address": "5604 New Utrecht Ave, Brooklyn, NY 11219",
+        "latitude": 40.630716799999995,
+        "longitude": -73.9959156
+    },
+    {
+        "category": "adventure parks",
+        "title": "Bayville Adventure Park",
+        "rating": 3.7,
+        "address": "8 Bayville Ave, Bayville, NY 11709",
+        "latitude": 40.9079201,
+        "longitude": -73.5823059
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventureland",
+        "rating": 4.4,
+        "address": "2245 Broadhollow Rd, Farmingdale, NY 11735",
+        "latitude": 40.752614,
+        "longitude": -73.419844
+    },
+    {
+        "category": "adventure parks",
+        "title": "Carousel",
+        "rating": 4.4,
+        "address": "1027 Riegelmann Boardwalk, Brooklyn, NY 11224",
+        "latitude": 40.573654499999996,
+        "longitude": -73.97930769999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "LEGOLAND® New York Resort",
+        "rating": 3.9,
+        "address": "1 Legoland Blvd, Goshen, NY 10924",
+        "latitude": 41.3781658,
+        "longitude": -74.3130776
+    },
+    {
+        "category": "adventure parks",
+        "title": "Oasis Park",
+        "rating": 4.9,
+        "address": "50 Battery Pl, New York, NY 10280",
+        "latitude": 40.7068071,
+        "longitude": -74.0187357
+    },
+    {
+        "category": "adventure parks",
+        "title": "The Adventure Park at Long Island",
+        "rating": 4.6,
+        "address": "75 Colonial Springs Rd, Wheatley Heights, NY 11798",
+        "latitude": 40.762775399999995,
+        "longitude": -73.37693019999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Nickelodeon Universe Theme Park",
+        "rating": 4.4,
+        "address": "1 American Dream Wy, East Rutherford, NJ 07073",
+        "latitude": 40.806346,
+        "longitude": -74.0711767
+    },
+    {
+        "category": "adventure parks",
+        "title": "Central Park",
+        "rating": 4.8,
+        "address": "New York, NY",
+        "latitude": 40.7825547,
+        "longitude": -73.9655834
+    },
+    {
+        "category": "adventure parks",
+        "title": "Chelsea Waterside",
+        "rating": 4.6,
+        "address": "557 W 23 St, New York, NY 10011",
+        "latitude": 40.7495115,
+        "longitude": -74.0074976
+    },
+    {
+        "category": "adventure parks",
+        "title": "American Dream",
+        "rating": 4.5,
+        "address": "1 American Dream Wy, East Rutherford, NJ 07073",
+        "latitude": 40.8129327,
+        "longitude": -74.0673929
+    },
+    {
+        "category": "hot springs",
+        "title": "Mineral Springs, Central Park",
+        "rating": 4.6,
+        "address": "W 70th St, New York, NY 10019",
+        "latitude": 40.772976299999996,
+        "longitude": -73.97435229999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Saratoga Spa State Park",
+        "rating": 4.8,
+        "address": "19 Roosevelt Dr, Saratoga Springs, NY 12866",
+        "latitude": 43.0549422,
+        "longitude": -73.7980592
+    },
+    {
+        "category": "hot springs",
+        "title": "AIRE Ancient Baths New York · Tribeca",
+        "rating": 4.6,
+        "address": "88 Franklin St, New York, NY 10013",
+        "latitude": 40.7181473,
+        "longitude": -74.00482
+    },
+    {
+        "category": "hot springs",
+        "title": "Wall Street Bath & Spa 88",
+        "rating": 4.2,
+        "address": "88 Fulton St, New York, NY 10038",
+        "latitude": 40.7091089,
+        "longitude": -74.0058052
+    },
+    {
+        "category": "hot springs",
+        "title": "High Rock Spring",
+        "rating": 4.5,
+        "address": "Saratoga Springs, NY 12866",
+        "latitude": 43.087018799999996,
+        "longitude": -73.77956499999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Evive Spa Soho (Spring Beauty Spa)",
+        "rating": 4.5,
+        "address": "133 Grand St, New York, NY 10013",
+        "latitude": 40.7202413,
+        "longitude": -73.999859
+    },
+    {
+        "category": "shopping malls",
+        "title": "Brookfield Place",
+        "rating": 4.6,
+        "address": "230 Vesey St, New York, NY 10281",
+        "latitude": 40.712782499999996,
+        "longitude": -74.01525649999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield World Trade Center",
+        "rating": 4.7,
+        "address": "185 Greenwich St, New York, NY 10007",
+        "latitude": 40.7114207,
+        "longitude": -74.0114897
+    },
+    {
+        "category": "shopping malls",
+        "title": "Hudson Yards",
+        "rating": 4.7,
+        "address": "20 Hudson Yards, New York, NY 10001",
+        "latitude": 40.753380299999996,
+        "longitude": -74.00106459999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Shops at Columbus Circle",
+        "rating": 4.4,
+        "address": "10 Columbus Cir, New York, NY 10019",
+        "latitude": 40.7685811,
+        "longitude": -73.9831811
+    },
+    {
+        "category": "shopping malls",
+        "title": "Queens Center",
+        "rating": 4.4,
+        "address": "90-15 Queens Blvd, Elmhurst, NY 11373",
+        "latitude": 40.7347872,
+        "longitude": -73.8688409
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Fulton Center",
+        "rating": 4.4,
+        "address": "200 Broadway, New York, NY 10038",
+        "latitude": 40.710557,
+        "longitude": -74.0089723
+    },
+    {
+        "category": "shopping malls",
+        "title": "Empire Outlets",
+        "rating": 4,
+        "address": "55 Richmond Ter, Staten Island, NY 10301",
+        "latitude": 40.6444979,
+        "longitude": -74.0762802
+    },
+    {
+        "category": "shopping malls",
+        "title": "Atlantic Terminal Mall",
+        "rating": 4.3,
+        "address": "139 Flatbush Ave, Brooklyn, NY 11217",
+        "latitude": 40.684568,
+        "longitude": -73.97697699999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "East River Plaza",
+        "rating": 4.3,
+        "address": "517 E 117th St, New York, NY 10035",
+        "latitude": 40.7948048,
+        "longitude": -73.9321764
+    },
+    {
+        "category": "shopping malls",
+        "title": "Woodbury Common Premium Outlets",
+        "rating": 4.5,
+        "address": "498 Red Apple Ct, Central Valley, NY 10917",
+        "latitude": 41.316944799999995,
+        "longitude": -74.1250465
+    },
+    {
+        "category": "shopping malls",
+        "title": "75 Rockefeller Plaza",
+        "rating": 4.7,
+        "address": "75 Rockefeller Plaza, New York, NY 10111",
+        "latitude": 40.7599643,
+        "longitude": -73.9778196
+    },
+    {
+        "category": "shopping malls",
+        "title": "Gateway Center",
+        "rating": 4.4,
+        "address": "579 Gateway Dr, Brooklyn, NY 11239",
+        "latitude": 40.6530035,
+        "longitude": -73.87025469999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Mall at Bay Plaza",
+        "rating": 4.4,
+        "address": "200 Baychester Ave, Bronx, NY 10475",
+        "latitude": 40.864391999999995,
+        "longitude": -73.8279165
+    },
+    {
+        "category": "shopping malls",
+        "title": "Queens Place Mall",
+        "rating": 4.3,
+        "address": "88-01 Queens Blvd, Elmhurst, NY 11373",
+        "latitude": 40.7357829,
+        "longitude": -73.87441989999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Atrium",
+        "rating": 4.2,
+        "address": "601 Lexington Avenue, 153 E 53rd St, New York, NY 10022",
+        "latitude": 40.758061999999995,
+        "longitude": -73.9699129
+    },
+    {
+        "category": "shopping malls",
+        "title": "Kings Plaza Shopping Center",
+        "rating": 4.3,
+        "address": "5100 Kings Plz, Brooklyn, NY 11234",
+        "latitude": 40.610047099999996,
+        "longitude": -73.92004969999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "East Broadway Mall",
+        "rating": 3.7,
+        "address": "88 E Broadway, New York, NY 10002",
+        "latitude": 40.7138367,
+        "longitude": -73.9941774
+    },
+    {
+        "category": "shopping malls",
+        "title": "Cross County Center",
+        "rating": 4.5,
+        "address": "8000 Mall Walk, Yonkers, NY 10704",
+        "latitude": 40.9285688,
+        "longitude": -73.85383929999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Shops at Marble Hill",
+        "rating": 4.3,
+        "address": "50 W 225th St, Bronx, NY 10463",
+        "latitude": 40.8732286,
+        "longitude": -73.9079335
+    },
+    {
+        "category": "shopping malls",
+        "title": "Staten Island Mall",
+        "rating": 4.4,
+        "address": "2655 Richmond Ave, Staten Island, NY 10314",
+        "latitude": 40.581845099999995,
+        "longitude": -74.1658599
+    },
+    {
+        "category": "historical sites",
+        "title": "Governors Island National Monument",
+        "rating": 4.6,
+        "address": "10 South St, New York, NY 10004, United States",
+        "latitude": 40.690213199999995,
+        "longitude": -74.0172006
+    },
+    {
+        "category": "historical sites",
+        "title": "Federal Hall National Memorial",
+        "rating": 4.5,
+        "address": "26 Wall St, New York, NY 10005, United States",
+        "latitude": 40.7073993,
+        "longitude": -74.0102088
+    },
+    {
+        "category": "historical sites",
+        "title": "Empire State Building",
+        "rating": 4.7,
+        "address": "20 W 34th St., New York, NY 10001, United States",
+        "latitude": 40.7484405,
+        "longitude": -73.98566439999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Castle Clinton National Monument",
+        "rating": 4.4,
+        "address": "New York, NY 10004, United States",
+        "latitude": 40.7034401,
+        "longitude": -74.0168023
+    },
+    {
+        "category": "historical sites",
+        "title": "Merchant's House Museum",
+        "rating": 4.7,
+        "address": "29 E 4th St, New York, NY 10003, United States",
+        "latitude": 40.727664999999995,
+        "longitude": -73.99234
+    },
+    {
+        "category": "historical sites",
+        "title": "The New York Historical",
+        "rating": 4.5,
+        "address": "170 Central Prk W, New York, NY 10024, United States",
+        "latitude": 40.7793487,
+        "longitude": -73.9739079
+    },
+    {
+        "category": "historical sites",
+        "title": "African Burial Ground National Monument",
+        "rating": 4.7,
+        "address": "290 Broadway, New York, NY 10007, United States",
+        "latitude": 40.714538,
+        "longitude": -74.0044649
+    },
+    {
+        "category": "historical sites",
+        "title": "Metropolitan Museum Historic District",
+        "rating": 4.8,
+        "address": "972-1048 5th Ave, New York, NY 10075, United States",
+        "latitude": 40.7765604,
+        "longitude": -73.9636496
+    },
+    {
+        "category": "historical sites",
+        "title": "SoHo Cast Iron Historic District",
+        "rating": 4.9,
+        "address": "113 Spring St, New York, NY 10012, United States",
+        "latitude": 40.7237831,
+        "longitude": -73.9998959
+    },
+    {
+        "category": "historical sites",
+        "title": "Samuel J. Tilden House",
+        "rating": 4.9,
+        "address": "15 Gramercy Pk S, New York, NY 10003, United States",
+        "latitude": 40.737694,
+        "longitude": -73.98670299999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Stonewall National Monument",
+        "rating": 4.5,
+        "address": "38-64 Christopher St, New York, NY 10014, United States",
+        "latitude": 40.7335778,
+        "longitude": -74.00234069999999
+    },
+    {
+        "category": "historical sites",
+        "title": "East 10th Street Historic District",
+        "rating": 4.5,
+        "address": "317 E 10th St, New York, NY 10009, United States",
+        "latitude": 40.7275272,
+        "longitude": -73.9810457
+    },
+    {
+        "category": "historical sites",
+        "title": "Greenwich Village Historic District",
+        "rating": 4.8,
+        "address": "114 Perry St, New York, NY 10014, United States",
+        "latitude": 40.734978,
+        "longitude": -74.0064861
+    },
+    {
+        "category": "historical sites",
+        "title": "Washington Square Arch",
+        "rating": 4.7,
+        "address": "Washington Square N, New York, NY 10012, United States",
+        "latitude": 40.7312185,
+        "longitude": -73.9970929
+    },
+    {
+        "category": "historical sites",
+        "title": "Museum at Eldridge Street",
+        "rating": 4.7,
+        "address": "12 Eldridge St, New York, NY 10002, United States",
+        "latitude": 40.7147484,
+        "longitude": -73.99355609999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Park Avenue Historic District",
+        "rating": 5,
+        "address": "903 - 1133 Park Ave, New York, NY 10128, United States",
+        "latitude": 40.7757426,
+        "longitude": -73.9600679
+    },
+    {
+        "category": "historical sites",
+        "title": "Theodore Roosevelt Birthplace National Historic Site",
+        "rating": 4.6,
+        "address": "28 E 20th St, New York, NY 10003, United States",
+        "latitude": 40.738593099999996,
+        "longitude": -73.9890127
+    },
+    {
+        "category": "historical sites",
+        "title": "Hamilton Grange National Memorial",
+        "rating": 4.5,
+        "address": "414 W 141st St, New York, NY 10031, United States",
+        "latitude": 40.8213605,
+        "longitude": -73.9473024
+    },
+    {
+        "category": "historical sites",
+        "title": "Flatiron Building",
+        "rating": 4.5,
+        "address": "175 5th Ave, New York, NY 10010, United States",
+        "latitude": 40.741060499999996,
+        "longitude": -73.9896986
+    },
+    {
+        "category": "historical sites",
+        "title": "American Museum of Natural History",
+        "rating": 4.5,
+        "address": "200 Central Prk W, New York, NY 10024, United States",
+        "latitude": 40.7813241,
+        "longitude": -73.9739882
+    },
+    {
+        "category": "art galleries",
+        "title": "David Zwirner",
+        "rating": 4.5,
+        "address": "533 W 19th St, New York, NY 10011",
+        "latitude": 40.7459455,
+        "longitude": -74.00740859999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Gladstone Gallery",
+        "rating": 4.8,
+        "address": "515 W 24 St, New York, NY 10011",
+        "latitude": 40.7489324,
+        "longitude": -74.0044772
+    },
+    {
+        "category": "art galleries",
+        "title": "Gagosian",
+        "rating": 4.6,
+        "address": "555 W 24 St, New York, NY 10011",
+        "latitude": 40.7494887,
+        "longitude": -74.0058521
+    },
+    {
+        "category": "art galleries",
+        "title": "Half Gallery",
+        "rating": 4.7,
+        "address": "235 E 4th St, New York, NY 10009",
+        "latitude": 40.7234766,
+        "longitude": -73.98267059999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Taglialatella Galleries",
+        "rating": 4.6,
+        "address": "229 10th Ave, New York, NY 10011",
+        "latitude": 40.7482069,
+        "longitude": -74.004196
+    },
+    {
+        "category": "art galleries",
+        "title": "WESTWOOD GALLERY NYC",
+        "rating": 4.7,
+        "address": "262 Bowery, New York, NY 10012",
+        "latitude": 40.7233574,
+        "longitude": -73.9932855
+    },
+    {
+        "category": "art galleries",
+        "title": "EDEN (Eden Gallery) - SoHo",
+        "rating": 4.3,
+        "address": "470 Broome St, New York, NY 10013",
+        "latitude": 40.7228092,
+        "longitude": -74.0014145
+    },
+    {
+        "category": "art galleries",
+        "title": "Park West Gallery New York SoHo NYC",
+        "rating": 4.6,
+        "address": "411 W Broadway, New York, NY 10012",
+        "latitude": 40.7246938,
+        "longitude": -74.001441
+    },
+    {
+        "category": "art galleries",
+        "title": "Fridman Gallery",
+        "rating": 4.8,
+        "address": "169 Bowery, New York, NY 10002",
+        "latitude": 40.719853199999996,
+        "longitude": -73.9937693
+    },
+    {
+        "category": "art galleries",
+        "title": "PERROTIN NEW YORK",
+        "rating": 4.8,
+        "address": "130 Orchard St, New York, NY 10002",
+        "latitude": 40.7195864,
+        "longitude": -73.9892543
+    },
+    {
+        "category": "art galleries",
+        "title": "Agora Gallery",
+        "rating": 4.6,
+        "address": "530 W 25th St, New York, NY 10001",
+        "latitude": 40.749429,
+        "longitude": -74.00455649999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Gallery 60 NYC",
+        "rating": 5,
+        "address": "208 E 60th St, New York, NY 10022",
+        "latitude": 40.7617884,
+        "longitude": -73.9656771
+    },
+    {
+        "category": "art galleries",
+        "title": "Grey Art Museum",
+        "rating": 4.5,
+        "address": "18 Cooper Sq, New York, NY 10003",
+        "latitude": 40.727869,
+        "longitude": -73.9916013
+    },
+    {
+        "category": "art galleries",
+        "title": "G-Gallery",
+        "rating": 5,
+        "address": "404 Broadway 2nd floor, Manhattan, NY 10013",
+        "latitude": 40.7187657,
+        "longitude": -74.0021316
+    },
+    {
+        "category": "art galleries",
+        "title": "David Richard Gallery",
+        "rating": 4.8,
+        "address": "508 W 26th St Suite 9E, New York, NY 10001",
+        "latitude": 40.74975,
+        "longitude": -74.00374099999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Woodward Gallery",
+        "rating": 4.9,
+        "address": "132A Eldridge St, New York, NY 10002",
+        "latitude": 40.7188143,
+        "longitude": -73.99148439999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Opera Gallery New York",
+        "rating": 4.5,
+        "address": "791 Madison Ave, New York, NY 10065",
+        "latitude": 40.7684018,
+        "longitude": -73.96758009999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Skarstedt Gallery",
+        "rating": 4.7,
+        "address": "20 E 79th St, New York, NY 10075",
+        "latitude": 40.776222,
+        "longitude": -73.962527
+    },
+    {
+        "category": "art galleries",
+        "title": "The Metropolitan Museum of Art",
+        "rating": 4.8,
+        "address": "1000 5th Ave, New York, NY 10028",
+        "latitude": 40.7794366,
+        "longitude": -73.963244
+    },
+    {
+        "category": "art galleries",
+        "title": "Art Gallery",
+        "rating": 5,
+        "address": "41 Park Row 1st Floor, New York, NY 10038",
+        "latitude": 40.7116544,
+        "longitude": -74.0062137
+    },
+    {
+        "category": "theaters",
+        "title": "Regal Times Square",
+        "rating": 4.4,
+        "address": "247 W 42nd St, New York, NY 10036",
+        "latitude": 40.757268499999995,
+        "longitude": -73.9889833
+    },
+    {
+        "category": "theaters",
+        "title": "Marquis Theatre",
+        "rating": 4.7,
+        "address": "210 W 46th St, New York, NY 10036",
+        "latitude": 40.758888899999995,
+        "longitude": -73.9863889
+    },
+    {
+        "category": "theaters",
+        "title": "Al Hirschfeld Theatre",
+        "rating": 4.7,
+        "address": "302 W 45th St, New York, NY 10036",
+        "latitude": 40.759260999999995,
+        "longitude": -73.989201
+    },
+    {
+        "category": "theaters",
+        "title": "AMC 34th Street 14",
+        "rating": 4.2,
+        "address": "312 W 34th St., New York, NY 10001",
+        "latitude": 40.7524407,
+        "longitude": -73.9944325
+    },
+    {
+        "category": "theaters",
+        "title": "AMC Empire 25",
+        "rating": 4.1,
+        "address": "234 W 42nd St, New York, NY 10036",
+        "latitude": 40.756737,
+        "longitude": -73.98900359999999
+    },
+    {
+        "category": "theaters",
+        "title": "Regal Union Square",
+        "rating": 4.2,
+        "address": "850 Broadway, New York, NY 10003",
+        "latitude": 40.73414,
+        "longitude": -73.99074999999999
+    },
+    {
+        "category": "theaters",
+        "title": "Broadway Theatre",
+        "rating": 4.7,
+        "address": "1681 Broadway, New York, NY 10019",
+        "latitude": 40.763248399999995,
+        "longitude": -73.9831387
+    },
+    {
+        "category": "theaters",
+        "title": "Neil Simon Theatre",
+        "rating": 4.7,
+        "address": "250 W 52nd St, New York, NY 10019",
+        "latitude": 40.7631784,
+        "longitude": -73.9845388
+    },
+    {
+        "category": "theaters",
+        "title": "The Paris Theater",
+        "rating": 4.4,
+        "address": "4 W 58th St, New York, NY 10019",
+        "latitude": 40.7637614,
+        "longitude": -73.9742923
+    },
+    {
+        "category": "theaters",
+        "title": "Lyric Theatre",
+        "rating": 4.7,
+        "address": "214 W 43rd St, New York, NY 10036",
+        "latitude": 40.757012499999995,
+        "longitude": -73.98744429999999
+    },
+    {
+        "category": "theaters",
+        "title": "AMC Lincoln Square 13",
+        "rating": 4.4,
+        "address": "1998 Broadway, New York, NY 10023",
+        "latitude": 40.775167599999996,
+        "longitude": -73.9819053
+    },
+    {
+        "category": "theaters",
+        "title": "AMC Kips Bay 15",
+        "rating": 4.4,
+        "address": "570 2nd Ave, New York, NY 10016",
+        "latitude": 40.7428738,
+        "longitude": -73.9768627
+    },
+    {
+        "category": "theaters",
+        "title": "Regal Battery Park",
+        "rating": 4.6,
+        "address": "102 N End Ave, New York, NY 10282",
+        "latitude": 40.7150015,
+        "longitude": -74.01522179999999
+    },
+    {
+        "category": "theaters",
+        "title": "The Public Theater",
+        "rating": 4.7,
+        "address": "425 Lafayette St, New York, NY 10003",
+        "latitude": 40.729067199999996,
+        "longitude": -73.99190329999999
+    },
+    {
+        "category": "theaters",
+        "title": "Angelika Film Center & Cafe - New York",
+        "rating": 4.4,
+        "address": "18 W Houston St, New York, NY 10012",
+        "latitude": 40.7259068,
+        "longitude": -73.997169
+    },
+    {
+        "category": "theaters",
+        "title": "AMC 84th Street 6",
+        "rating": 4.5,
+        "address": "2310 Broadway, New York, NY 10024",
+        "latitude": 40.7867071,
+        "longitude": -73.9774881
+    },
+    {
+        "category": "theaters",
+        "title": "IFC Center",
+        "rating": 4.6,
+        "address": "323 6th Ave, New York, NY 10014",
+        "latitude": 40.731205599999996,
+        "longitude": -74.0016722
+    },
+    {
+        "category": "theaters",
+        "title": "AMC Village 7",
+        "rating": 4.4,
+        "address": "66 Third Ave, E 11th St, New York, NY 10003",
+        "latitude": 40.7316077,
+        "longitude": -73.9887925
+    },
+    {
+        "category": "theaters",
+        "title": "Film Forum",
+        "rating": 4.7,
+        "address": "209 W Houston St, New York, NY 10014",
+        "latitude": 40.7284097,
+        "longitude": -74.00433
+    },
+    {
+        "category": "theaters",
+        "title": "Alamo Drafthouse Cinema Lower Manhattan",
+        "rating": 4.5,
+        "address": "28 Liberty St Suite SC301, New York, NY 10005",
+        "latitude": 40.7077585,
+        "longitude": -74.00885029999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Memories of New York",
+        "rating": 4.7,
+        "address": "206 5th Ave, New York, NY 10010",
+        "latitude": 40.74321,
+        "longitude": -73.988793
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs LLC",
+        "rating": 4.2,
+        "address": "377 5th Ave, New York, NY 10016",
+        "latitude": 40.749222499999995,
+        "longitude": -73.98362279999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "I love NY gift & souvenir shop",
+        "rating": 4.9,
+        "address": "1 Mott St, New York, NY 10013",
+        "latitude": 40.7137939,
+        "longitude": -73.9989727
+    },
+    {
+        "category": "souvenir counters",
+        "title": "City Gifts & Souvenirs",
+        "rating": 2.6,
+        "address": "683 8th Ave, New York, NY 10036",
+        "latitude": 40.758118599999996,
+        "longitude": -73.9893814
+    },
+    {
+        "category": "souvenir counters",
+        "title": "I love New York Gifts",
+        "rating": 4.3,
+        "address": "372 5th Ave, New York, NY 10018",
+        "latitude": 40.7494528,
+        "longitude": -73.984248
+    },
+    {
+        "category": "souvenir counters",
+        "title": "City Souvenirs on 6th Avenue",
+        "rating": 3.6,
+        "address": "1383 6th Ave, New York, NY 10019",
+        "latitude": 40.763961599999995,
+        "longitude": -73.97775759999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Park Souvenirs & Gifts",
+        "rating": 4.1,
+        "address": "1424 6th Ave, New York, NY 10019",
+        "latitude": 40.7651464,
+        "longitude": -73.97637399999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Big Apple Souvenirs & Gifts",
+        "rating": 4.8,
+        "address": "840 7th Ave, New York, NY 10019",
+        "latitude": 40.7635272,
+        "longitude": -73.9817164
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Grand Slam New York",
+        "rating": 4.2,
+        "address": "1557 Broadway, New York, NY 10036",
+        "latitude": 40.759163099999995,
+        "longitude": -73.9854098
+    },
+    {
+        "category": "souvenir counters",
+        "title": "I Love NY Gifts",
+        "rating": 3.5,
+        "address": "1653 Broadway, New York, NY 10019",
+        "latitude": 40.762456,
+        "longitude": -73.9835957
+    },
+    {
+        "category": "souvenir counters",
+        "title": "I Love NY Gifts by Phantom of Broadway",
+        "rating": 3.8,
+        "address": "120 Greenwich St, New York, NY 10006",
+        "latitude": 40.7091285,
+        "longitude": -74.0132811
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Fulton Gifts & Souvenirs",
+        "rating": 4.3,
+        "address": "60 Fulton St, New York, NY 10038",
+        "latitude": 40.708665599999996,
+        "longitude": -74.0052319
+    },
+    {
+        "category": "souvenir counters",
+        "title": "555 NY Souvenir",
+        "rating": 4.1,
+        "address": "555 8th Ave, New York, NY 10018",
+        "latitude": 40.7546385,
+        "longitude": -73.99205049999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gifts on the Square",
+        "rating": 4.7,
+        "address": "736 7th Ave, New York, NY 10019",
+        "latitude": 40.760382299999996,
+        "longitude": -73.98404359999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "City Gifts & Souvenirs II",
+        "rating": 3.6,
+        "address": "1600 Broadway, New York, NY 10019",
+        "latitude": 40.7601775,
+        "longitude": -73.9843631
+    },
+    {
+        "category": "souvenir counters",
+        "title": "CityStore",
+        "rating": 4.4,
+        "address": "1 Centre St, New York, NY 10007",
+        "latitude": 40.713409999999996,
+        "longitude": -74.00352079999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gifts & Souvenir Shop",
+        "rating": 4.1,
+        "address": "277D Canal St, New York, NY 10013",
+        "latitude": 40.7194277,
+        "longitude": -74.0013903
+    },
+    {
+        "category": "souvenir counters",
+        "title": "NY GIFT NY",
+        "rating": 4,
+        "address": "49 Broadway, New York, NY 10006",
+        "latitude": 40.7063491,
+        "longitude": -74.0125217
+    },
+    {
+        "category": "souvenir counters",
+        "title": "NYC Gifts",
+        "rating": 3.9,
+        "address": "1027 6th Ave, New York, NY 10018",
+        "latitude": 40.7526504,
+        "longitude": -73.98598439999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "I Love NY by Phantom of Broadway",
+        "rating": 3.6,
+        "address": "790 7th Ave, New York, NY 10019",
+        "latitude": 40.761984999999996,
+        "longitude": -73.9829247
+    }
+]

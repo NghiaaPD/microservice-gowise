@@ -1,0 +1,3202 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Trevi Fountain",
+        "rating": 4.7,
+        "address": "Piazza di Trevi, 00187 Roma RM, Italy",
+        "latitude": 41.900932499999996,
+        "longitude": 12.483312999999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Colosseum",
+        "rating": 4.8,
+        "address": "Piazza del Colosseo, 1, 00184 Roma RM, Italy",
+        "latitude": 41.8902102,
+        "longitude": 12.4922309
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Roman Forum",
+        "rating": 4.7,
+        "address": "00186 Roma RM, Italy",
+        "latitude": 41.892090599999996,
+        "longitude": 12.4864378
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Piazza Navona",
+        "rating": 4.7,
+        "address": "00186 Roma RM, Italy",
+        "latitude": 41.8991633,
+        "longitude": 12.4730742
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Piazza di Spagna",
+        "rating": 4.7,
+        "address": "00187 Roma RM, Italy",
+        "latitude": 41.9056978,
+        "longitude": 12.482327
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Piazza del Popolo",
+        "rating": 4.7,
+        "address": "00187 Roma RM, Italy",
+        "latitude": 41.9107038,
+        "longitude": 12.4763579
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Campo de' Fiori",
+        "rating": 4.4,
+        "address": "P.za Campo de' Fiori, 00186 Roma RM, Italy",
+        "latitude": 41.8956045,
+        "longitude": 12.4721757
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Pantheon",
+        "rating": 4.8,
+        "address": "Piazza della Rotonda, 00186 Roma RM, Italy",
+        "latitude": 41.8986108,
+        "longitude": 12.4768729
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Fontana dei Tritoni",
+        "rating": 4.3,
+        "address": "Botanical Garden of Rome, Largo Cristina di Svezia, 23 A - 24, 00165 Roma RM, Italy",
+        "latitude": 41.8921396,
+        "longitude": 12.4645069
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Fountain of the Goddess Roma",
+        "rating": 4.7,
+        "address": "Piazza del Campidoglio, 00186 Roma RM, Italy",
+        "latitude": 41.893145,
+        "longitude": 12.483295799999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Arch of Constantine",
+        "rating": 4.7,
+        "address": "Piazza del Colosseo, 00184 Roma RM, Italy",
+        "latitude": 41.8898113,
+        "longitude": 12.4906782
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Fontana del Pantheon",
+        "rating": 4.7,
+        "address": "Piazza della Rotonda, 00186 Roma RM, Italy",
+        "latitude": 41.899321199999996,
+        "longitude": 12.4767522
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Spanish Steps",
+        "rating": 4.6,
+        "address": "Piazza di Spagna, 00187 Roma RM, Italy",
+        "latitude": 41.905989999999996,
+        "longitude": 12.482775
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Vatican Museums",
+        "rating": 4.6,
+        "address": "00120 Città del Vaticano, Vatican City",
+        "latitude": 41.9064878,
+        "longitude": 12.4536413
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Piazza del Campidoglio",
+        "rating": 4.7,
+        "address": "00186 Roma RM, Italy",
+        "latitude": 41.8933592,
+        "longitude": 12.482801799999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Piazza di Siena",
+        "rating": 4.7,
+        "address": "Villa Borghese, 00197 Roma RM, Italy",
+        "latitude": 41.9135972,
+        "longitude": 12.487101899999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Le Domus Romane di Palazzo Valentini",
+        "rating": 4.7,
+        "address": "Foro Traiano, 85, 00186 Roma RM, Italy",
+        "latitude": 41.895998,
+        "longitude": 12.4840381
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Domus Aurea",
+        "rating": 4.6,
+        "address": "Vle della Domus Aurea, 00184 Roma RM, Italy",
+        "latitude": 41.8911334,
+        "longitude": 12.4955892
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Janiculum Hill",
+        "rating": 4.7,
+        "address": "Municipio I, 00165 Roma RM, Italy",
+        "latitude": 41.891469699999995,
+        "longitude": 12.461394199999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Fountain of the Bees",
+        "rating": 4.5,
+        "address": "Via Vittorio Veneto, 13, 00187 Roma RM, Italy",
+        "latitude": 41.904289299999995,
+        "longitude": 12.4887696
+    },
+    {
+        "category": "parks",
+        "title": "Villa Doria Pamphili",
+        "rating": 4.6,
+        "address": "Via di San Pancrazio, 00152 Roma RM, Italy",
+        "latitude": 41.885278299999996,
+        "longitude": 12.441609099999999
+    },
+    {
+        "category": "parks",
+        "title": "Giardino degli Aranci",
+        "rating": 4.7,
+        "address": "Piazza Pietro D'Illiria, 00153 Roma RM, Italy",
+        "latitude": 41.8851338,
+        "longitude": 12.48039
+    },
+    {
+        "category": "parks",
+        "title": "Parco della Caffarella",
+        "rating": 4.6,
+        "address": "Roma RM, Italy",
+        "latitude": 41.8672317,
+        "longitude": 12.5240656
+    },
+    {
+        "category": "parks",
+        "title": "Villa Borghese",
+        "rating": 4.6,
+        "address": "00197 Roma RM, Italy",
+        "latitude": 41.9138782,
+        "longitude": 12.485381799999999
+    },
+    {
+        "category": "parks",
+        "title": "The Park of the Aqueducts",
+        "rating": 4.7,
+        "address": "Via Lemonia, 00174 Roma RM, Italy",
+        "latitude": 41.850392899999996,
+        "longitude": 12.5574572
+    },
+    {
+        "category": "parks",
+        "title": "Botanical Garden of Rome",
+        "rating": 4.4,
+        "address": "Largo Cristina di Svezia, 23 A, 00165 Roma RM, Italy",
+        "latitude": 41.892324699999996,
+        "longitude": 12.4628307
+    },
+    {
+        "category": "parks",
+        "title": "Parco del Gianicolo",
+        "rating": 4.5,
+        "address": "Piazzale Giuseppe Garibaldi, 00165 Roma RM, Italy",
+        "latitude": 41.8923774,
+        "longitude": 12.462208299999999
+    },
+    {
+        "category": "parks",
+        "title": "Parco Regionale dell'Appia Antica",
+        "rating": 4.6,
+        "address": "Via Appia Antica, 42, 00178 Roma RM, Italy",
+        "latitude": 41.8700806,
+        "longitude": 12.5038129
+    },
+    {
+        "category": "parks",
+        "title": "Parco degli Eucalipti",
+        "rating": 4.5,
+        "address": "Viale dell'Artigianato, 14, 00144 Roma RM, Italy",
+        "latitude": 41.8362163,
+        "longitude": 12.4787447
+    },
+    {
+        "category": "parks",
+        "title": "Parco del Colle Oppio",
+        "rating": 4.2,
+        "address": "Vle del Monte Oppio, 00184 Roma RM, Italy",
+        "latitude": 41.8919334,
+        "longitude": 12.496094099999999
+    },
+    {
+        "category": "parks",
+        "title": "Parco del Ninfeo",
+        "rating": 4.3,
+        "address": "Via delle Tre Fontane, 00144 Roma RM, Italy",
+        "latitude": 41.8393146,
+        "longitude": 12.4711464
+    },
+    {
+        "category": "parks",
+        "title": "Parco Petroselli",
+        "rating": 4.2,
+        "address": "Viale Kant, 00137 Roma RM, Italy",
+        "latitude": 41.9402519,
+        "longitude": 12.5579095
+    },
+    {
+        "category": "parks",
+        "title": "Villa Sciarra",
+        "rating": 4.2,
+        "address": "V.le delle Mura Gianicolensi, 11, 00152 Roma RM, Italy",
+        "latitude": 41.8834801,
+        "longitude": 12.464695899999999
+    },
+    {
+        "category": "parks",
+        "title": "Valle dell'Aniene Nature Reserve",
+        "rating": 4.2,
+        "address": "Via Vicovaro, 00155 Roma RM, Italy",
+        "latitude": 41.9281478,
+        "longitude": 12.5556887
+    },
+    {
+        "category": "parks",
+        "title": "Pineto Regional Park",
+        "rating": 4.1,
+        "address": "Via della Pineta Sacchetti, 78, 00167 Roma RM, Italy",
+        "latitude": 41.9206155,
+        "longitude": 12.4324736
+    },
+    {
+        "category": "parks",
+        "title": "Parco Giovanni Palatucci",
+        "rating": 4.2,
+        "address": "Via Francesco Tovaglieri, 173, 00155 Roma RM, Italy",
+        "latitude": 41.8794033,
+        "longitude": 12.5849408
+    },
+    {
+        "category": "parks",
+        "title": "Parco di Via Statilia",
+        "rating": 4.2,
+        "address": "Via Statilia, 00185 Roma RM, Italy",
+        "latitude": 41.890482899999995,
+        "longitude": 12.5126069
+    },
+    {
+        "category": "parks",
+        "title": "Giardino Nicola Calipari",
+        "rating": 4.4,
+        "address": "P.za Vittorio Emanuele II, 107-112, 00185 Roma RM, Italy",
+        "latitude": 41.8944312,
+        "longitude": 12.5046328
+    },
+    {
+        "category": "parks",
+        "title": "Oasi Park",
+        "rating": 4.4,
+        "address": "Via Tarquinio Collatino, 56/58, 00175 Roma RM, Italy",
+        "latitude": 41.861103,
+        "longitude": 12.563467
+    },
+    {
+        "category": "parks",
+        "title": "Parco Morelli",
+        "rating": 4.1,
+        "address": "V.le Isacco Newton, 43, 00151 Roma RM, Italy",
+        "latitude": 41.858264399999996,
+        "longitude": 12.4419607
+    },
+    {
+        "category": "restaurants",
+        "title": "Cantina e Cucina",
+        "rating": 4.6,
+        "address": "V. del Governo Vecchio, 87, 00186 Roma RM, Italy",
+        "latitude": 41.8979478,
+        "longitude": 12.4716378
+    },
+    {
+        "category": "restaurants",
+        "title": "Ambrosia Rooftop Restaurant & Bar",
+        "rating": 4.6,
+        "address": "Via Nazionale, 22/Int.B, 00184 Roma RM, Italy",
+        "latitude": 41.900820499999995,
+        "longitude": 12.4936516
+    },
+    {
+        "category": "restaurants",
+        "title": "Ristorante Il Falchetto",
+        "rating": 4.5,
+        "address": "Via dei Montecatini, 12, 00186 Roma RM, Italy",
+        "latitude": 41.8997631,
+        "longitude": 12.4805864
+    },
+    {
+        "category": "restaurants",
+        "title": "CiPASSO",
+        "rating": 4.8,
+        "address": "Via Metastasio, 21, 00186 Roma RM, Italy",
+        "latitude": 41.9020219,
+        "longitude": 12.4758908
+    },
+    {
+        "category": "restaurants",
+        "title": "433",
+        "rating": 4.4,
+        "address": "V. del Governo Vecchio, 123, 00186 Roma RM, Italy",
+        "latitude": 41.8985251,
+        "longitude": 12.4698499
+    },
+    {
+        "category": "restaurants",
+        "title": "Nerone",
+        "rating": 4.7,
+        "address": "Via del Viminale, 7A, 00184 Roma RM, Italy",
+        "latitude": 41.901085099999996,
+        "longitude": 12.4968924
+    },
+    {
+        "category": "restaurants",
+        "title": "Pane e Salame",
+        "rating": 4.8,
+        "address": "Via Santa Maria in Via, 19, 00187 Roma RM, Italy",
+        "latitude": 41.900628999999995,
+        "longitude": 12.481772
+    },
+    {
+        "category": "restaurants",
+        "title": "Ai Tre Scalini",
+        "rating": 4.5,
+        "address": "Via Panisperna, 251, 00184 Roma RM, Italy",
+        "latitude": 41.896282199999995,
+        "longitude": 12.4905105
+    },
+    {
+        "category": "restaurants",
+        "title": "La Taverna dei Fori Imperiali",
+        "rating": 4.4,
+        "address": "Via della Madonna dei Monti, 9, 00184 Roma RM, Italy",
+        "latitude": 41.8940615,
+        "longitude": 12.4884778
+    },
+    {
+        "category": "restaurants",
+        "title": "Mercato Centrale",
+        "rating": 4.4,
+        "address": "Via Giovanni Giolitti, 36, 00185 Roma RM, Italy",
+        "latitude": 41.8988083,
+        "longitude": 12.5034472
+    },
+    {
+        "category": "restaurants",
+        "title": "That's Amore Restaurant",
+        "rating": 4.4,
+        "address": "Via in Arcione, 115, 00187 Roma RM, Italy",
+        "latitude": 41.9021184,
+        "longitude": 12.4857746
+    },
+    {
+        "category": "restaurants",
+        "title": "Rione XIV Bistrot",
+        "rating": 4.8,
+        "address": "Borgo Pio, 21, 00193 Roma RM, Italy",
+        "latitude": 41.903661,
+        "longitude": 12.462384
+    },
+    {
+        "category": "restaurants",
+        "title": "La locanda del tempio",
+        "rating": 4.6,
+        "address": "Via di Pietra, 85, 00186 Roma RM, Italy",
+        "latitude": 41.899987499999995,
+        "longitude": 12.4803759
+    },
+    {
+        "category": "restaurants",
+        "title": "Colline Emiliane",
+        "rating": 4.6,
+        "address": "Via degli Avignonesi, 22, 00187 Roma RM, Italy",
+        "latitude": 41.9029515,
+        "longitude": 12.4873707
+    },
+    {
+        "category": "restaurants",
+        "title": "Iari The Vino",
+        "rating": 4.7,
+        "address": "Via Frangipane, 27, 00184 Roma RM, Italy",
+        "latitude": 41.892966699999995,
+        "longitude": 12.489398
+    },
+    {
+        "category": "restaurants",
+        "title": "“Dal 1947 Bistrot“ Ristorante Pizzeria Fontana di Trevi",
+        "rating": 4.5,
+        "address": "Via di San Vincenzo 17/18, Largo Pietro di Brazza', 87, 00187 Roma RM, Italy",
+        "latitude": 41.9000941,
+        "longitude": 12.4837901
+    },
+    {
+        "category": "restaurants",
+        "title": "Ristorante La Tavernaccia Da Bruno",
+        "rating": 4.6,
+        "address": "Via Giovanni da Castel Bolognese, 63, 00153 Roma RM, Italy",
+        "latitude": 41.874117299999995,
+        "longitude": 12.468620999999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Hedera - Osteria Contemporanea",
+        "rating": 4.5,
+        "address": "Vicolo Doria, 7, 00186 Roma RM, Italy",
+        "latitude": 41.8973902,
+        "longitude": 12.481684399999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Roscioli Salumeria con Cucina",
+        "rating": 4.3,
+        "address": "Via dei Giubbonari, 21, 00186 Roma RM, Italy",
+        "latitude": 41.894256,
+        "longitude": 12.4742417
+    },
+    {
+        "category": "restaurants",
+        "title": "Taverna Romana",
+        "rating": 4.4,
+        "address": "Via della Madonna dei Monti, 79, 00184 Roma RM, Italy",
+        "latitude": 41.8941243,
+        "longitude": 12.489454499999999
+    },
+    {
+        "category": "cafes",
+        "title": "Trecaffè - Via dei due Macelli",
+        "rating": 4.6,
+        "address": "Via dei Due Macelli, 107, 00187 Roma RM, Italy",
+        "latitude": 41.9033508,
+        "longitude": 12.485107
+    },
+    {
+        "category": "cafes",
+        "title": "Barnum Roma",
+        "rating": 4.6,
+        "address": "Via del Pellegrino, 87, 00186 Roma RM, Italy",
+        "latitude": 41.8970566,
+        "longitude": 12.469997
+    },
+    {
+        "category": "cafes",
+        "title": "Caffè Delle Commari",
+        "rating": 4.8,
+        "address": "Via Santamaura, 22, 00192 Roma RM, Italy",
+        "latitude": 41.908024,
+        "longitude": 12.4540957
+    },
+    {
+        "category": "cafes",
+        "title": "Faro - Caffè Specialty",
+        "rating": 4.5,
+        "address": "Via Piave, 55, 00187 Roma RM, Italy",
+        "latitude": 41.9101357,
+        "longitude": 12.498443499999999
+    },
+    {
+        "category": "cafes",
+        "title": "Sant' Eustachio Caffè",
+        "rating": 4.1,
+        "address": "Piazza di S. Eustachio, 82, 00186 Roma RM, Italy",
+        "latitude": 41.8982749,
+        "longitude": 12.475425399999999
+    },
+    {
+        "category": "cafes",
+        "title": "Sciascia Caffè 1919",
+        "rating": 4.5,
+        "address": "Via Fabio Massimo, n.80/a, 00192 Roma RM, Italy",
+        "latitude": 41.909859,
+        "longitude": 12.461993999999999
+    },
+    {
+        "category": "cafes",
+        "title": "D’Angelo Caffè & Gastronomia - Bar Bistro Caffetteria Napoletana a Roma",
+        "rating": 4.7,
+        "address": "Via Venti Settembre, 25, 00185 Roma RM, Italy",
+        "latitude": 41.905499,
+        "longitude": 12.495645
+    },
+    {
+        "category": "cafes",
+        "title": "Caffè Antica Roma",
+        "rating": 4.8,
+        "address": "Via Marco Aurelio, 28, 00184 Roma RM, Italy",
+        "latitude": 41.888172,
+        "longitude": 12.495894999999999
+    },
+    {
+        "category": "cafes",
+        "title": "Mus Caffe",
+        "rating": 4.9,
+        "address": "Via Marianna Dionigi, 32, 00193 Roma RM, Italy",
+        "latitude": 41.9058332,
+        "longitude": 12.4718813
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee Shop Fondi",
+        "rating": 4.5,
+        "address": "Via Milazzo, 16, 00185 Roma RM, Italy",
+        "latitude": 41.9019761,
+        "longitude": 12.5042519
+    },
+    {
+        "category": "cafes",
+        "title": "Danesi Caffè",
+        "rating": 4.8,
+        "address": "Via Volturno, 2F, 00185 Roma RM, Italy",
+        "latitude": 41.9049628,
+        "longitude": 12.4992453
+    },
+    {
+        "category": "cafes",
+        "title": "Bar Amore di Zucca Fabio",
+        "rating": 4.8,
+        "address": "Via dei Banchi Nuovi, 41, 00186 Roma RM, Italy",
+        "latitude": 41.899327899999996,
+        "longitude": 12.467863099999999
+    },
+    {
+        "category": "cafes",
+        "title": "Cappuccino Bar",
+        "rating": 4.8,
+        "address": "Via Arenula, 50, 00186 Roma RM, Italy",
+        "latitude": 41.892136,
+        "longitude": 12.4748579
+    },
+    {
+        "category": "cafes",
+        "title": "Er Baretto",
+        "rating": 4.5,
+        "address": "Via del Boschetto, 132, 00184 Roma RM, Italy",
+        "latitude": 41.895686,
+        "longitude": 12.490890499999999
+    },
+    {
+        "category": "cafes",
+        "title": "Torrefazione Ciamei",
+        "rating": 4.6,
+        "address": "Via Emanuele Filiberto, 57, 00185 Roma RM, Italy",
+        "latitude": 41.8921139,
+        "longitude": 12.5055473
+    },
+    {
+        "category": "cafes",
+        "title": "La Casa del Caffè Tazza d'Oro",
+        "rating": 4.4,
+        "address": "Via degli Orfani, 84, 00186 Roma RM, Italy",
+        "latitude": 41.899434,
+        "longitude": 12.477407
+    },
+    {
+        "category": "cafes",
+        "title": "Caffè Gotico",
+        "rating": 4.7,
+        "address": "Via della Stelletta, 7a, 00186 Roma RM, Italy",
+        "latitude": 41.9016667,
+        "longitude": 12.4755556
+    },
+    {
+        "category": "cafes",
+        "title": "Fabric",
+        "rating": 4.6,
+        "address": "Via Marcantonio Colonna, 58, 00192 Roma RM, Italy",
+        "latitude": 41.9108674,
+        "longitude": 12.466318399999999
+    },
+    {
+        "category": "cafes",
+        "title": "Caffe dei Papi",
+        "rating": 4.6,
+        "address": "Via Vespasiano, 14, 00192 Roma RM, Italy",
+        "latitude": 41.9069392,
+        "longitude": 12.4566264
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Risorgimento",
+        "rating": 4.4,
+        "address": "Piazza del Risorgimento, 63, 00192 Roma RM, Italy",
+        "latitude": 41.905696,
+        "longitude": 12.4579477
+    },
+    {
+        "category": "mountains",
+        "title": "Colle Sant'Isidoro",
+        "rating": 4.7,
+        "address": "00132 Rome, Metropolitan City of Rome Capital, Italy",
+        "latitude": 41.85,
+        "longitude": 12.7
+    },
+    {
+        "category": "mountains",
+        "title": "Monte Testaccio",
+        "rating": 4.3,
+        "address": "00153 Rome, Metropolitan City of Rome Capital, Italy",
+        "latitude": 41.875952,
+        "longitude": 12.475693999999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "underpass Waterfall",
+        "rating": 3.9,
+        "address": "00164 Roma RM, Italy",
+        "latitude": 41.885745199999995,
+        "longitude": 12.4450384
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Albano",
+        "rating": 4.6,
+        "address": "00040 Castel Gandolfo, Metropolitan City of Rome Capital, Italy",
+        "latitude": 41.7449511,
+        "longitude": 12.6733009
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Bracciano",
+        "rating": 4.6,
+        "address": "Metropolitan City of Rome Capital, Italy",
+        "latitude": 42.119525499999995,
+        "longitude": 12.2433477
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Martignano",
+        "rating": 4.4,
+        "address": "Metropolitan City of Rome Capital, Italy",
+        "latitude": 42.111270499999996,
+        "longitude": 12.314676299999999
+    },
+    {
+        "category": "lakes",
+        "title": "Lago Ex SNIA",
+        "rating": 4.2,
+        "address": "00176 Rome, Metropolitan City of Rome Capital, Italy",
+        "latitude": 41.8951317,
+        "longitude": 12.539214399999999
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Nemi",
+        "rating": 4.5,
+        "address": "Metropolitan City of Rome Capital, Italy",
+        "latitude": 41.7144603,
+        "longitude": 12.7048943
+    },
+    {
+        "category": "lakes",
+        "title": "Lago del Turano",
+        "rating": 4.7,
+        "address": "Province of Rieti, Italy",
+        "latitude": 42.218192599999995,
+        "longitude": 12.9521888
+    },
+    {
+        "category": "beaches",
+        "title": "Beach",
+        "rating": 4.3,
+        "address": "SP12b, 40, 00123 Roma RM, Italy",
+        "latitude": 42.1074973,
+        "longitude": 12.279765399999999
+    },
+    {
+        "category": "beaches",
+        "title": "Ocean Beach",
+        "rating": 4.2,
+        "address": "Lungomare Duca degli Abruzzi, 84, 00121 Roma RM, Italy",
+        "latitude": 41.7391128,
+        "longitude": 12.2442674
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina delle Rose",
+        "rating": 3.8,
+        "address": "Viale America 20, Passeggiata del Giappone, snc, 00144 Roma RM, Italy",
+        "latitude": 41.830778699999996,
+        "longitude": 12.462576499999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Aquaniene",
+        "rating": 4.6,
+        "address": "Viale della Moschea, 130, 00197 Roma RM, Italy",
+        "latitude": 41.9323833,
+        "longitude": 12.4923219
+    },
+    {
+        "category": "swimming pools",
+        "title": "Aldrovandi Swimming Pool",
+        "rating": 3.8,
+        "address": "Via Giuseppe Mangili, 6, 00197 Roma RM, Italy",
+        "latitude": 41.91813,
+        "longitude": 12.4839941
+    },
+    {
+        "category": "swimming pools",
+        "title": "Grand Hotel del Gianicolo",
+        "rating": 4.2,
+        "address": "V.le delle Mura Gianicolensi, 107, 00152 Roma RM, Italy",
+        "latitude": 41.8877625,
+        "longitude": 12.460811999999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Stadio Olimpico del Nuoto",
+        "rating": 4.6,
+        "address": "P.zza Lauro de Bosis, 3, 00135 Roma RM, Italy",
+        "latitude": 41.9294896,
+        "longitude": 12.457596899999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Vigor Sporting Center",
+        "rating": 4.1,
+        "address": "Via di Grotta di Gregna, 100, 00155 Roma RM, Italy",
+        "latitude": 41.9059702,
+        "longitude": 12.565078399999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Blu Time Piscina",
+        "rating": 4.3,
+        "address": "Lungotevere Dante, 311, 00146 Roma RM, Italy",
+        "latitude": 41.853877999999995,
+        "longitude": 12.462936
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina Sporting Club Ostiense",
+        "rating": 4.2,
+        "address": "Via del Mare, 128, 00144 Roma RM, Italy",
+        "latitude": 41.8444595,
+        "longitude": 12.4674816
+    },
+    {
+        "category": "swimming pools",
+        "title": "Centro Sportivo Aventino",
+        "rating": 3.9,
+        "address": "Via Marmorata, 14, 00153 Roma RM, Italy",
+        "latitude": 41.879911199999995,
+        "longitude": 12.4787664
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming Pool Camping",
+        "rating": 4.9,
+        "address": "Unnamed Road, 00165, RM, Italy",
+        "latitude": 41.8869194,
+        "longitude": 12.405366599999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Villa De Sanctis",
+        "rating": 4.2,
+        "address": "Via dei Gordiani, 5, 00177 Roma RM, Italy",
+        "latitude": 41.8791887,
+        "longitude": 12.552040499999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Alma Swimming Sports Association",
+        "rating": 4.5,
+        "address": "Viale dei Consoli, 24, 00175 Roma RM, Italy",
+        "latitude": 41.863511599999995,
+        "longitude": 12.555029099999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Olimpia 1 Srl",
+        "rating": 4.1,
+        "address": "Via Giuseppe Messina, 41, 00173 Roma RM, Italy",
+        "latitude": 41.859531,
+        "longitude": 12.5751086
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming Flores C. I. F. - Swimming",
+        "rating": 4.4,
+        "address": "Via del Casaletto, 314, 00151 Roma RM, Italy",
+        "latitude": 41.8667057,
+        "longitude": 12.436167999999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscina Stelle Marine",
+        "rating": 4.8,
+        "address": "Via Adriano I, 228, 00167 Roma RM, Italy",
+        "latitude": 41.9044999,
+        "longitude": 12.412021099999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming Appio Latino Center",
+        "rating": 4.4,
+        "address": "Via Siria, 21, 00179 Roma RM, Italy",
+        "latitude": 41.874973399999995,
+        "longitude": 12.5114287
+    },
+    {
+        "category": "swimming pools",
+        "title": "Domar Sporting Club",
+        "rating": 4.2,
+        "address": "Via Portuense, 761b, 00148 Roma RM, Italy",
+        "latitude": 41.8502045,
+        "longitude": 12.423547399999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Nuoto Aurelia S.s.d. a r.l.",
+        "rating": 4.3,
+        "address": "V. Aurelia, 770/F, 00165 Roma RM, Italy",
+        "latitude": 41.8914409,
+        "longitude": 12.4128133
+    },
+    {
+        "category": "swimming pools",
+        "title": "Roma Uno Centro Sportivo",
+        "rating": 3.9,
+        "address": "Largo Ascianghi, 4, 00153 Roma RM, Italy",
+        "latitude": 41.884452599999996,
+        "longitude": 12.472114699999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Cavalieri Grand Spa Club",
+        "rating": 4.8,
+        "address": "Via Alberto Cadlolo, 101, 00136 Roma RM, Italy",
+        "latitude": 41.918892299999996,
+        "longitude": 12.4467775
+    },
+    {
+        "category": "resorts",
+        "title": "Rome Cavalieri, A Waldorf Astoria Hotel",
+        "rating": 4.6,
+        "address": "Via Alberto Cadlolo, 101, 00136 Roma RM, Italy",
+        "latitude": 41.918816799999995,
+        "longitude": 12.4466178
+    },
+    {
+        "category": "resorts",
+        "title": "A.Roma Lifestyle Hotel",
+        "rating": 4.6,
+        "address": "Via Giorgio Zoega, 59, 00164 Roma RM, Italy",
+        "latitude": 41.8748833,
+        "longitude": 12.4327694
+    },
+    {
+        "category": "resorts",
+        "title": "Sheraton Rome Parco de' Medici",
+        "rating": 3.9,
+        "address": "Via Salvatore Rebecchini, 39, 00148 Roma RM, Italy",
+        "latitude": 41.8154781,
+        "longitude": 12.408917599999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Westin Excelsior, Rome",
+        "rating": 4.4,
+        "address": "Via Vittorio Veneto, 125, 00187 Roma RM, Italy",
+        "latitude": 41.907686399999996,
+        "longitude": 12.4900751
+    },
+    {
+        "category": "resorts",
+        "title": "The St. Regis Rome",
+        "rating": 4.7,
+        "address": "Via Vittorio Emanuele Orlando, 3, 00185 Roma RM, Italy",
+        "latitude": 41.904071699999996,
+        "longitude": 12.494872899999999
+    },
+    {
+        "category": "resorts",
+        "title": "Rome Marriott Park Hotel",
+        "rating": 4,
+        "address": "Via Colonnello Tommaso Masala, 54, 00148 Roma RM, Italy",
+        "latitude": 41.824828499999995,
+        "longitude": 12.3919344
+    },
+    {
+        "category": "resorts",
+        "title": "River Palace Hotel",
+        "rating": 4.4,
+        "address": "Via Flaminia, 33, 00196 Roma RM, Italy",
+        "latitude": 41.9133381,
+        "longitude": 12.4749991
+    },
+    {
+        "category": "resorts",
+        "title": "The Hoxton, Rome",
+        "rating": 4.6,
+        "address": "L.go Benedetto Marcello, 220, 00198 Roma RM, Italy",
+        "latitude": 41.918261199999996,
+        "longitude": 12.4974987
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Artemide",
+        "rating": 4.8,
+        "address": "Via Nazionale, 22, 00184 Roma RM, Italy",
+        "latitude": 41.9008186,
+        "longitude": 12.493654699999999
+    },
+    {
+        "category": "resorts",
+        "title": "Rome Times Hotel",
+        "rating": 4.3,
+        "address": "Via Milano, 42, 00184 Roma RM, Italy",
+        "latitude": 41.898598799999995,
+        "longitude": 12.490492999999999
+    },
+    {
+        "category": "resorts",
+        "title": "Rome Marriott Grand Hotel Flora",
+        "rating": 4.5,
+        "address": "Via Vittorio Veneto, 191, 00187 Roma RM, Italy",
+        "latitude": 41.9090975,
+        "longitude": 12.488990999999999
+    },
+    {
+        "category": "resorts",
+        "title": "Anantara Palazzo Naiadi Rome Hotel",
+        "rating": 4.7,
+        "address": "P.za della Repubblica, 48, 00185 Roma RM, Italy",
+        "latitude": 41.902135,
+        "longitude": 12.496035
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Barocco",
+        "rating": 4.8,
+        "address": "Piazza Barberini, 9, Via della Purificazione, 4, 00187 Roma RM, Italy",
+        "latitude": 41.903833899999995,
+        "longitude": 12.488187
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Campo de' Fiori",
+        "rating": 4.6,
+        "address": "Via del Biscione, 6, 00186 Roma RM, Italy",
+        "latitude": 41.8956185,
+        "longitude": 12.4728552
+    },
+    {
+        "category": "resorts",
+        "title": "Room Mate Collection Mia, Rome Colosseum",
+        "rating": 4.5,
+        "address": "Via Capo d'Africa, 54, 00184 Roma RM, Italy",
+        "latitude": 41.888459499999996,
+        "longitude": 12.497508999999999
+    },
+    {
+        "category": "resorts",
+        "title": "Six Senses Rome",
+        "rating": 4.6,
+        "address": "P.za S. Marcello, 4, 00187 Roma RM, Italy",
+        "latitude": 41.8988088,
+        "longitude": 12.4816142
+    },
+    {
+        "category": "resorts",
+        "title": "iQ Hotel Roma",
+        "rating": 4.8,
+        "address": "Via Firenze, 8, 00184 Roma RM, Italy",
+        "latitude": 41.9004908,
+        "longitude": 12.495253799999999
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Colosseum",
+        "rating": 4.4,
+        "address": "Via Sforza, 10, 00184 Roma RM, Italy",
+        "latitude": 41.8961849,
+        "longitude": 12.496042
+    },
+    {
+        "category": "resorts",
+        "title": "Palazzo Navona Hotel",
+        "rating": 4.5,
+        "address": "Largo della Sapienza, 8, 00186 Roma RM, Italy",
+        "latitude": 41.8977921,
+        "longitude": 12.474431099999999
+    },
+    {
+        "category": "resorts",
+        "title": "Singer Palace Hotel Roma",
+        "rating": 4.9,
+        "address": "Via Alessandro Specchi, 10, 00186 Roma RM, Italy",
+        "latitude": 41.8989415,
+        "longitude": 12.4811401
+    },
+    {
+        "category": "camping sites",
+        "title": "hu Roma camping in town",
+        "rating": 4.1,
+        "address": "Via Aurelia, 831, 00165 Roma RM, Italy",
+        "latitude": 41.887341899999996,
+        "longitude": 12.404775299999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Happy Village e Camping Roma",
+        "rating": 3.6,
+        "address": "Via del Prato della Corte, 1915, 00123 Roma RM, Italy",
+        "latitude": 42.0035593,
+        "longitude": 12.452449
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Village Fabulous",
+        "rating": 4.1,
+        "address": "Via di Malafede, 205, 00125 Roma RM, Italy",
+        "latitude": 41.777462,
+        "longitude": 12.396244
+    },
+    {
+        "category": "camping sites",
+        "title": "Seven Hills Camping & Village",
+        "rating": 3,
+        "address": "Via Vittorio Trucchi, 10, 00189 Roma RM, Italy",
+        "latitude": 41.9926023,
+        "longitude": 12.4159478
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Internazionale di Castelfusano",
+        "rating": 3.9,
+        "address": "Via Litoranea, 132, 00122 Lido di Ostia RM, Italy",
+        "latitude": 41.706145,
+        "longitude": 12.340349999999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Village Flaminio Bungalow Park",
+        "rating": 4,
+        "address": "Via Flaminia Nuova, 821, 00189 Roma AG, Italy",
+        "latitude": 41.956187799999995,
+        "longitude": 12.48226
+    },
+    {
+        "category": "camping sites",
+        "title": "Flaminio Village",
+        "rating": 3.9,
+        "address": "Via Flaminia Nuova, 821, 00189 Roma RM, Italy",
+        "latitude": 41.9605488,
+        "longitude": 12.481300599999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Aurelia Club",
+        "rating": 3.5,
+        "address": "Via Castel di Guido, 541, 00166 Roma RM, Italy",
+        "latitude": 41.9026703,
+        "longitude": 12.273961499999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Seven Hills Camping & Village",
+        "rating": 2.9,
+        "address": "Via della Giustiniana, 906, 00189 Roma RM, Italy",
+        "latitude": 41.997962199999996,
+        "longitude": 12.4227051
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Roma CAPITOL",
+        "rating": 3.7,
+        "address": "Via di Castel Fusano, 195, 00124 Roma RM, Italy",
+        "latitude": 41.7437944,
+        "longitude": 12.3134084
+    },
+    {
+        "category": "camping sites",
+        "title": "Aurelia",
+        "rating": 4.3,
+        "address": "V. Aurelia, 831, 00165 Roma RM, Italy",
+        "latitude": 41.8873314,
+        "longitude": 12.4047763
+    },
+    {
+        "category": "camping sites",
+        "title": "Hu stay premium XL nr 1031",
+        "rating": 4,
+        "address": "Via di Malafede, 205, 00125 Roma RM, Italy",
+        "latitude": 41.7809217,
+        "longitude": 12.395957
+    },
+    {
+        "category": "camping sites",
+        "title": "Camper Parking Area - Romae",
+        "rating": 4.1,
+        "address": "Via dell'Arco di Travertino, 5, 00178 Roma RM, Italy",
+        "latitude": 41.868747899999995,
+        "longitude": 12.537818399999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Area sosta camper",
+        "rating": 3.7,
+        "address": "Via Cristoforo Colombo, 170, 00154 Roma RM, Italy",
+        "latitude": 41.8628334,
+        "longitude": 12.4966935
+    },
+    {
+        "category": "camping sites",
+        "title": "Camper Stop Area",
+        "rating": 3.8,
+        "address": "Via Appia Antica, 32/a, 00179 Roma RM, Italy",
+        "latitude": 41.8690376,
+        "longitude": 12.5016489
+    },
+    {
+        "category": "camping sites",
+        "title": "L.g.p. srl",
+        "rating": 4.4,
+        "address": "Via Casilina, 700, 00175 Roma RM, Italy",
+        "latitude": 41.8755392,
+        "longitude": 12.5552449
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Village family Rossi",
+        "rating": 1,
+        "address": "Via Giuseppe Marello, 00167 Roma RM, Italy",
+        "latitude": 41.903210099999995,
+        "longitude": 12.4132114
+    },
+    {
+        "category": "camping sites",
+        "title": "INTERNATIONAL GLAMPING LAGO DI BRACCIANO",
+        "rating": 3.7,
+        "address": "Via del pianoro, 4, 00069 Trevignano Romano RM, Italy",
+        "latitude": 42.1468871,
+        "longitude": 12.269068299999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Small Camp Roma Capitol, Mobile Home It-std-41 2",
+        "rating": 3.3,
+        "address": "Via di Castel Fusano, 195, 00124 Roma RM, Italy",
+        "latitude": 41.738212999999995,
+        "longitude": 12.316303
+    },
+    {
+        "category": "camping sites",
+        "title": "Cacco’s House",
+        "rating": 5,
+        "address": "00189 Roma RM, Italy",
+        "latitude": 41.982208299999996,
+        "longitude": 12.4209462
+    },
+    {
+        "category": "hiking trails",
+        "title": "Valle dell'Aniene Nature Reserve",
+        "rating": 4.2,
+        "address": "Via Vicovaro, 00155 Roma RM, Italy",
+        "latitude": 41.9281478,
+        "longitude": 12.5556887
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bosco Sacro",
+        "rating": 4.6,
+        "address": "00178 Roma RM, Italy",
+        "latitude": 41.8576835,
+        "longitude": 12.526377799999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Riserva Naturale della Marcigliana",
+        "rating": 4.2,
+        "address": "Via di Tor S. Giovanni, 301, 00139 Roma RM, Italy",
+        "latitude": 42.0230171,
+        "longitude": 12.5826488
+    },
+    {
+        "category": "hiking trails",
+        "title": "Passeggiata del Gelsomino",
+        "rating": 4.5,
+        "address": "Piazzale Gregorio VII, 00165 Roma RM, Italy",
+        "latitude": 41.8990493,
+        "longitude": 12.4515833
+    },
+    {
+        "category": "hiking trails",
+        "title": "Caffarella Area Tavoli",
+        "rating": 4.3,
+        "address": "00179 Roma RM, Italy",
+        "latitude": 41.8626763,
+        "longitude": 12.5198577
+    },
+    {
+        "category": "hiking trails",
+        "title": "Discesa del Diavolo",
+        "rating": 4.4,
+        "address": "00073 Castel Gandolfo RM, Italy",
+        "latitude": 41.7339032,
+        "longitude": 12.669506799999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Giardino degli Aranci",
+        "rating": 4.7,
+        "address": "Piazza Pietro D'Illiria, 00153 Roma RM, Italy",
+        "latitude": 41.8851338,
+        "longitude": 12.48039
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "The Park of the Aqueducts",
+        "rating": 4.7,
+        "address": "Via Lemonia, 00174 Roma RM, Italy",
+        "latitude": 41.850392899999996,
+        "longitude": 12.5574572
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Janiculum Hill",
+        "rating": 4.7,
+        "address": "Municipio I, 00165 Roma RM, Italy",
+        "latitude": 41.891469699999995,
+        "longitude": 12.461394199999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Villa Doria Pamphili",
+        "rating": 4.6,
+        "address": "Via di San Pancrazio, 00152 Roma RM, Italy",
+        "latitude": 41.885278299999996,
+        "longitude": 12.441609099999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Villa Borghese",
+        "rating": 4.6,
+        "address": "00197 Roma RM, Italy",
+        "latitude": 41.9138782,
+        "longitude": 12.485381799999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Colosseum",
+        "rating": 4.8,
+        "address": "Piazza del Colosseo, 1, 00184 Roma RM, Italy",
+        "latitude": 41.8902102,
+        "longitude": 12.4922309
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Parco Regionale dell'Appia Antica",
+        "rating": 4.6,
+        "address": "Via Appia Antica, 42, 00178 Roma RM, Italy",
+        "latitude": 41.8700806,
+        "longitude": 12.5038129
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ingresso Orto Botanico di Roma",
+        "rating": 3.6,
+        "address": "00165 Roma RM, Italy",
+        "latitude": 41.8923355,
+        "longitude": 12.4658616
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Gardens of Vatican City",
+        "rating": 4.7,
+        "address": "Viale Vaticano, 00165 Roma RM, Italy",
+        "latitude": 41.9036267,
+        "longitude": 12.4502458
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Piazza del Popolo",
+        "rating": 4.7,
+        "address": "00187 Roma RM, Italy",
+        "latitude": 41.9107038,
+        "longitude": 12.4763579
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Trevi Fountain",
+        "rating": 4.7,
+        "address": "Piazza di Trevi, 00187 Roma RM, Italy",
+        "latitude": 41.900932499999996,
+        "longitude": 12.483312999999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Piazza Navona",
+        "rating": 4.7,
+        "address": "00186 Roma RM, Italy",
+        "latitude": 41.8991633,
+        "longitude": 12.4730742
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Villa Gregoriana",
+        "rating": 4.7,
+        "address": "Largo Sant'Angelo, 1, 00019 Tivoli RM, Italy",
+        "latitude": 41.965333,
+        "longitude": 12.8017682
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Walks Inside Rome | Tours for Discerning Travelers",
+        "rating": 5,
+        "address": "Corso Vittorio Emanuele II, 209, 00186 Roma RM, Italy",
+        "latitude": 41.897508599999995,
+        "longitude": 12.470886
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Mediterranean Experience of Ecotourism Network",
+        "rating": null,
+        "address": "Via Nazionale, 230, 00184 Roma RM, Italy",
+        "latitude": 41.901029699999995,
+        "longitude": 12.49325
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Roseto comunale",
+        "rating": 4.7,
+        "address": "Via di Valle Murcia, 6, 00153 Roma RM, Italy",
+        "latitude": 41.8851711,
+        "longitude": 12.4833837
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Venus and Rome",
+        "rating": 4.7,
+        "address": "Piazza di Santa Maria Nova, 53, 00186 Roma RM, Italy",
+        "latitude": 41.8909363,
+        "longitude": 12.4897072
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Hadrian",
+        "rating": 4.6,
+        "address": "P.za di Pietra, 00186 Roma RM, Italy",
+        "latitude": 41.8998085,
+        "longitude": 12.4793788
+    },
+    {
+        "category": "temples",
+        "title": "Tempio di Portuno",
+        "rating": 4.5,
+        "address": "Piazza della Bocca della Verità, 00186 Roma RM, Italy",
+        "latitude": 41.8892434,
+        "longitude": 12.4809155
+    },
+    {
+        "category": "temples",
+        "title": "Tempio Maggiore",
+        "rating": 4.6,
+        "address": "Lungotevere de' Cenci, 00186 Roma RM, Italy",
+        "latitude": 41.8919952,
+        "longitude": 12.478029699999999
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Aesculapius",
+        "rating": 4.7,
+        "address": "Via Ulisse Aldrovandi, 6, 00197 Roma RM, Italy",
+        "latitude": 41.9149545,
+        "longitude": 12.482762399999999
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Saturn",
+        "rating": 4.8,
+        "address": "Parco archeologico del Colosseo, 00186 Roma RM, Italy",
+        "latitude": 41.892538099999996,
+        "longitude": 12.4842534
+    },
+    {
+        "category": "temples",
+        "title": "Largo di Torre Argentina",
+        "rating": 4.5,
+        "address": "00186 Roma RM, Italy",
+        "latitude": 41.8953299,
+        "longitude": 12.4771559
+    },
+    {
+        "category": "temples",
+        "title": "Antoninus and Faustina Temple",
+        "rating": 4.8,
+        "address": "Via in Miranda, 1, 00186 Roma RM, Italy",
+        "latitude": 41.8922512,
+        "longitude": 12.4868264
+    },
+    {
+        "category": "temples",
+        "title": "Temples of Apollo Sosiano & Bellona",
+        "rating": 4.7,
+        "address": "Via del Teatro di Marcello, 42, 00186 Roma RM, Italy",
+        "latitude": 41.8923363,
+        "longitude": 12.479627899999999
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Hercules Victor",
+        "rating": 4.5,
+        "address": "Piazza della Bocca della Verità, 00186 Roma RM, Italy",
+        "latitude": 41.8887637,
+        "longitude": 12.4807554
+    },
+    {
+        "category": "temples",
+        "title": "Maha Kali Temple",
+        "rating": 4.7,
+        "address": "Via Oreste Ranelletti, 52, 00166 Roma RM, Italy",
+        "latitude": 41.8692193,
+        "longitude": 12.3539604
+    },
+    {
+        "category": "temples",
+        "title": "Papal Basilica of Saint Mary Major",
+        "rating": 4.8,
+        "address": "P.za di Santa Maria Maggiore, 00100 Roma RM, Italy",
+        "latitude": 41.897598599999995,
+        "longitude": 12.498408399999999
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Magna Mater",
+        "rating": 4.8,
+        "address": "Via di S. Teodoro, 9, 00186 Roma RM, Italy",
+        "latitude": 41.889523,
+        "longitude": 12.4850019
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Vespasian and Titus",
+        "rating": 4.7,
+        "address": "Via del Tulliano, 00186 Roma RM, Italy",
+        "latitude": 41.8927517,
+        "longitude": 12.484074099999999
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Vesta",
+        "rating": 4.6,
+        "address": "Via dei Fori Imperiali, 00186 Roma RM, Italy",
+        "latitude": 41.891715,
+        "longitude": 12.4862091
+    },
+    {
+        "category": "temples",
+        "title": "Tempio di Vesta",
+        "rating": 4.7,
+        "address": "00019 Tivoli RM, Italy",
+        "latitude": 41.9666214,
+        "longitude": 12.8009458
+    },
+    {
+        "category": "temples",
+        "title": "OM HINDU MANDIR, ROMA",
+        "rating": 4.8,
+        "address": "Via Amedeo Cencelli, 23, 00177 Roma RM, Italy",
+        "latitude": 41.8788313,
+        "longitude": 12.54313
+    },
+    {
+        "category": "temples",
+        "title": "Pantheon",
+        "rating": 4.8,
+        "address": "Piazza della Rotonda, 00186 Roma RM, Italy",
+        "latitude": 41.8986108,
+        "longitude": 12.4768729
+    },
+    {
+        "category": "temples",
+        "title": "Basilica of San Giovanni in Laterano",
+        "rating": 4.8,
+        "address": "P.za. San Giovanni In Laterano, 00184 Roma RM, Italy",
+        "latitude": 41.8858811,
+        "longitude": 12.505673
+    },
+    {
+        "category": "temples",
+        "title": "Rome Italy Temple Visitors' Center",
+        "rating": 4.9,
+        "address": "V. di Settebagni, 376, 00139 Roma RM, Italy",
+        "latitude": 41.9704409,
+        "longitude": 12.5459864
+    },
+    {
+        "category": "museums",
+        "title": "Galleria Borghese",
+        "rating": 4.6,
+        "address": "Piazzale Scipione Borghese, 5, 00197 Roma RM, Italy",
+        "latitude": 41.9142103,
+        "longitude": 12.4921442
+    },
+    {
+        "category": "museums",
+        "title": "Capitoline Museums",
+        "rating": 4.7,
+        "address": "Piazza del Campidoglio, 1, 00186 Roma RM, Italy",
+        "latitude": 41.8929428,
+        "longitude": 12.4825577
+    },
+    {
+        "category": "museums",
+        "title": "Galleria Doria Pamphilj",
+        "rating": 4.6,
+        "address": "Via del Corso, 305, 00186 Roma RM, Italy",
+        "latitude": 41.8979782,
+        "longitude": 12.481574199999999
+    },
+    {
+        "category": "museums",
+        "title": "Vatican Museums",
+        "rating": 4.6,
+        "address": "00120 Città del Vaticano, Vatican City",
+        "latitude": 41.9064878,
+        "longitude": 12.4536413
+    },
+    {
+        "category": "museums",
+        "title": "National Etruscan Museum of Villa Giulia",
+        "rating": 4.7,
+        "address": "Piazzale di Villa Giulia 9, 00196 Roma RM, Italy",
+        "latitude": 41.9183601,
+        "longitude": 12.4777171
+    },
+    {
+        "category": "museums",
+        "title": "National Gallery of Modern and Contemporary Art",
+        "rating": 4.6,
+        "address": "Viale delle Belle Arti, 131, 00197 Roma RM, Italy",
+        "latitude": 41.9168866,
+        "longitude": 12.4819584
+    },
+    {
+        "category": "museums",
+        "title": "Villa Farnesina",
+        "rating": 4.6,
+        "address": "Via della Lungara, 230, 00165 Roma RM, Italy",
+        "latitude": 41.8936309,
+        "longitude": 12.4673112
+    },
+    {
+        "category": "museums",
+        "title": "Galleria Spada",
+        "rating": 4.5,
+        "address": "Piazza Capo di Ferro, 13, 00186 Roma RM, Italy",
+        "latitude": 41.894203399999995,
+        "longitude": 12.471922099999999
+    },
+    {
+        "category": "museums",
+        "title": "Museo Nazionale Romano, Palazzo Altemps",
+        "rating": 4.6,
+        "address": "Piazza di Sant'Apollinare, 46, 00186 Roma RM, Italy",
+        "latitude": 41.9010945,
+        "longitude": 12.473149999999999
+    },
+    {
+        "category": "museums",
+        "title": "Centrale Montemartini",
+        "rating": 4.7,
+        "address": "Via Ostiense, 106, 00154 Roma RM, Italy",
+        "latitude": 41.8668184,
+        "longitude": 12.4780544
+    },
+    {
+        "category": "museums",
+        "title": "Museo Nazionale Romano, Palazzo Massimo alle Terme",
+        "rating": 4.6,
+        "address": "Largo di Villa Peretti, 2, 00185 Roma RM, Italy",
+        "latitude": 41.901469999999996,
+        "longitude": 12.4985462
+    },
+    {
+        "category": "museums",
+        "title": "Ara Pacis Museum",
+        "rating": 4.5,
+        "address": "Lungotevere in Augusta, 00186 Roma RM, Italy",
+        "latitude": 41.9058408,
+        "longitude": 12.4754092
+    },
+    {
+        "category": "museums",
+        "title": "Galleria Colonna",
+        "rating": 4.9,
+        "address": "Via della Pilotta, 17, 00187 Roma RM, Italy",
+        "latitude": 41.8975648,
+        "longitude": 12.484738799999999
+    },
+    {
+        "category": "museums",
+        "title": "Leonardo Da Vinci Experience Museum",
+        "rating": 4.4,
+        "address": "Via della Conciliazione, 19/21, 00193 Roma RM, Italy",
+        "latitude": 41.9020301,
+        "longitude": 12.4615581
+    },
+    {
+        "category": "museums",
+        "title": "Castel Sant'Angelo",
+        "rating": 4.7,
+        "address": "Lungotevere Castello, 50, 00193 Roma RM, Italy",
+        "latitude": 41.9030632,
+        "longitude": 12.466275999999999
+    },
+    {
+        "category": "museums",
+        "title": "Explora - Il Museo dei Bambini di Roma",
+        "rating": 4.4,
+        "address": "Via Flaminia, 80/86, 00196 Roma RM, Italy",
+        "latitude": 41.915121,
+        "longitude": 12.474703
+    },
+    {
+        "category": "museums",
+        "title": "National Roman Museum, Baths of Diocletian",
+        "rating": 4.5,
+        "address": "Viale Enrico de Nicola, 78, 00185 Roma RM, Italy",
+        "latitude": 41.9032158,
+        "longitude": 12.4987538
+    },
+    {
+        "category": "museums",
+        "title": "Jewish Museum",
+        "rating": 4.6,
+        "address": "Via Catalana, 00186 Roma RM, Italy",
+        "latitude": 41.8920143,
+        "longitude": 12.478271999999999
+    },
+    {
+        "category": "museums",
+        "title": "Museo di Roma - Palazzo Braschi",
+        "rating": 4.5,
+        "address": "Piazza di S. Pantaleo, 10, 00186 Roma RM, Italy",
+        "latitude": 41.897551,
+        "longitude": 12.472724099999999
+    },
+    {
+        "category": "museums",
+        "title": "Gallerie Nazionali di Arte Antica - Palazzo Barberini",
+        "rating": 4.6,
+        "address": "Via delle Quattro Fontane, 13, 00184 Roma RM, Italy",
+        "latitude": 41.903358,
+        "longitude": 12.489825999999999
+    },
+    {
+        "category": "night markets",
+        "title": "Rome Via Sannio Flea Market",
+        "rating": 3.6,
+        "address": "Via Sannio, 00183 Roma RM, Italy",
+        "latitude": 41.8843027,
+        "longitude": 12.5074847
+    },
+    {
+        "category": "night markets",
+        "title": "Nuovo Mercato Esquilino",
+        "rating": 4.2,
+        "address": "Via Principe Amedeo, 184, 00185 Roma RM, Italy",
+        "latitude": 41.8956999,
+        "longitude": 12.5069416
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato Trionfale",
+        "rating": 4.5,
+        "address": "Via Andrea Doria, 41, 00192 Roma RM, Italy",
+        "latitude": 41.9095957,
+        "longitude": 12.4526103
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato di San Cosimato",
+        "rating": 4.1,
+        "address": "Piazza di S. Cosimato, 64, 00153 Roma RM, Italy",
+        "latitude": 41.8875484,
+        "longitude": 12.4697657
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato Rionale Monti",
+        "rating": 4.4,
+        "address": "Via Baccina, 36, 00184 Roma RM, Italy",
+        "latitude": 41.8946567,
+        "longitude": 12.489084799999999
+    },
+    {
+        "category": "night markets",
+        "title": "Campagna Amica Market",
+        "rating": 4.6,
+        "address": "Via di S. Teodoro, 74, 00186 Roma RM, Italy",
+        "latitude": 41.8887925,
+        "longitude": 12.483357499999999
+    },
+    {
+        "category": "night markets",
+        "title": "Testaccio Market",
+        "rating": 4.4,
+        "address": "Via Aldo Manuzio, 66b, 00153 Roma RM, Italy",
+        "latitude": 41.8776845,
+        "longitude": 12.4738455
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato Rionale Campo Marzio di piazza Monte d'oro",
+        "rating": 4.5,
+        "address": "P.za Monte d'Oro, 29, 00186 Roma RM, Italy",
+        "latitude": 41.9045756,
+        "longitude": 12.4772137
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato Rionale Q.re Trieste",
+        "rating": 4.3,
+        "address": "Via Chiana, 109, 00198 Roma RM, Italy",
+        "latitude": 41.920716,
+        "longitude": 12.508417999999999
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato Antiquario Piazza Borghese",
+        "rating": 3.9,
+        "address": "Piazza Borghese, 00186 Roma RM, Italy",
+        "latitude": 41.903524399999995,
+        "longitude": 12.4763322
+    },
+    {
+        "category": "night markets",
+        "title": "Farmer's Market Magnagrecia",
+        "rating": 3.6,
+        "address": "Via Magnagrecia, 50, 00183 Roma RM, Italy",
+        "latitude": 41.8828791,
+        "longitude": 12.508526699999999
+    },
+    {
+        "category": "night markets",
+        "title": "Borghetto Flaminio Market",
+        "rating": 3.5,
+        "address": "Piazza della Marina, 32, 00196 Roma RM, Italy",
+        "latitude": 41.915658799999996,
+        "longitude": 12.4745843
+    },
+    {
+        "category": "night markets",
+        "title": "Porta Portese",
+        "rating": 4.2,
+        "address": "Piazza di Porta Portese, 00153 Roma RM, Italy",
+        "latitude": 41.8838643,
+        "longitude": 12.474095199999999
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato Centrale",
+        "rating": 4.4,
+        "address": "Via Giovanni Giolitti, 36, 00185 Roma RM, Italy",
+        "latitude": 41.8988083,
+        "longitude": 12.5034472
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato dell' Unità",
+        "rating": 4,
+        "address": "Piazza dell' Unità, 53, Via Cola di Rienzo, 245, 00192 Roma RM, Italy",
+        "latitude": 41.907562999999996,
+        "longitude": 12.4613187
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato Irnerio",
+        "rating": 4,
+        "address": "V. Aurelia, 483, 00165 Roma RM, Italy",
+        "latitude": 41.897915999999995,
+        "longitude": 12.424966399999999
+    },
+    {
+        "category": "night markets",
+        "title": "Ponte Milvio Antiquariato | mercatino antiquariato Roma",
+        "rating": 4,
+        "address": "Via Capoprati, SNC, 00135 Roma RM, Italy",
+        "latitude": 41.93146,
+        "longitude": 12.459919999999999
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato Condottieri Labicano",
+        "rating": 4,
+        "address": "Via Alberto da Giussano, 58, Box, 18, 00176 Roma RM, Italy",
+        "latitude": 41.8890811,
+        "longitude": 12.5343517
+    },
+    {
+        "category": "night markets",
+        "title": "Porta Portese Est",
+        "rating": 3.8,
+        "address": "Piazzale Pino Pascali, 00155 Roma RM, Italy",
+        "latitude": 41.896938299999995,
+        "longitude": 12.577511699999999
+    },
+    {
+        "category": "night markets",
+        "title": "Mercato Latino",
+        "rating": 4.3,
+        "address": "Piazza Epiro, 17A, 00183 Roma RM, Italy",
+        "latitude": 41.878669699999996,
+        "longitude": 12.5041675
+    },
+    {
+        "category": "viewpoints",
+        "title": "Janiculum Hill",
+        "rating": 4.7,
+        "address": "Municipio I, 00165 Roma RM, Italy",
+        "latitude": 41.891469699999995,
+        "longitude": 12.461394199999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Passeggiata del Pincio",
+        "rating": 4.7,
+        "address": "Viale Gabriele D'Annunzio, 00197 Roma RM, Italy",
+        "latitude": 41.910988599999996,
+        "longitude": 12.480933499999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Giardino degli Aranci",
+        "rating": 4.7,
+        "address": "Piazza Pietro D'Illiria, 00153 Roma RM, Italy",
+        "latitude": 41.8851338,
+        "longitude": 12.48039
+    },
+    {
+        "category": "viewpoints",
+        "title": "Terrazza delle Quadrighe",
+        "rating": 4.6,
+        "address": "Piazza Venezia, 3, 00187 Roma RM, Italy",
+        "latitude": 41.8943466,
+        "longitude": 12.4831966
+    },
+    {
+        "category": "viewpoints",
+        "title": "Piazza Venezia",
+        "rating": 4.7,
+        "address": "00187 Roma RM, Italy",
+        "latitude": 41.895848199999996,
+        "longitude": 12.4818956
+    },
+    {
+        "category": "viewpoints",
+        "title": "Piazza del Campidoglio",
+        "rating": 4.7,
+        "address": "00186 Roma RM, Italy",
+        "latitude": 41.8933592,
+        "longitude": 12.482801799999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Piazza Navona",
+        "rating": 4.7,
+        "address": "00186 Roma RM, Italy",
+        "latitude": 41.8991633,
+        "longitude": 12.4730742
+    },
+    {
+        "category": "viewpoints",
+        "title": "Piazza del Popolo",
+        "rating": 4.7,
+        "address": "00187 Roma RM, Italy",
+        "latitude": 41.9107038,
+        "longitude": 12.4763579
+    },
+    {
+        "category": "viewpoints",
+        "title": "Monument to Victor Emmanuel II",
+        "rating": 4.8,
+        "address": "Piazza Venezia, 00186 Roma RM, Italy",
+        "latitude": 41.8945976,
+        "longitude": 12.4831269
+    },
+    {
+        "category": "viewpoints",
+        "title": "Aventine keyhole",
+        "rating": 4.4,
+        "address": "Piazza dei Cavalieri di Malta, 4, 00153 Roma RM, Italy",
+        "latitude": 41.882982899999995,
+        "longitude": 12.4784752
+    },
+    {
+        "category": "viewpoints",
+        "title": "Trevi Fountain",
+        "rating": 4.7,
+        "address": "Piazza di Trevi, 00187 Roma RM, Italy",
+        "latitude": 41.900932499999996,
+        "longitude": 12.483312999999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Piazza della Trinità dei Monti",
+        "rating": 4.9,
+        "address": "380, 00187 Roma RM, Italy",
+        "latitude": 41.906236299999996,
+        "longitude": 12.483120699999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Viewpoint of river Tiberis",
+        "rating": 4.8,
+        "address": "Via della Lungara, 31, 00165 Roma RM, Italy",
+        "latitude": 41.896141,
+        "longitude": 12.465097
+    },
+    {
+        "category": "viewpoints",
+        "title": "Terrazza Belvedere del Palatino",
+        "rating": 4.9,
+        "address": "Colosseo, Colle Palatino Parco archeologico del, 00184 Roma RM, Italy",
+        "latitude": 41.8910577,
+        "longitude": 12.486270999999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Piazza Barberini",
+        "rating": 4.5,
+        "address": "P.za Barberini, 23, 00187 Roma RM, Italy",
+        "latitude": 41.9037846,
+        "longitude": 12.4886381
+    },
+    {
+        "category": "viewpoints",
+        "title": "Villa Borghese",
+        "rating": 4.6,
+        "address": "00197 Roma RM, Italy",
+        "latitude": 41.9138782,
+        "longitude": 12.485381799999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Piazza di Spagna",
+        "rating": 4.7,
+        "address": "00187 Roma RM, Italy",
+        "latitude": 41.9056978,
+        "longitude": 12.482327
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ponte Vittorio Emanuele II",
+        "rating": 4.7,
+        "address": "Lungotevere dei Fiorentini, 00186 Roma RM, Italy",
+        "latitude": 41.9011499,
+        "longitude": 12.4643336
+    },
+    {
+        "category": "viewpoints",
+        "title": "Viewpoint of Castro Sant’ Angelo",
+        "rating": 4.5,
+        "address": "Piazza della Rovere, 00165 Roma RM, Italy",
+        "latitude": 41.8991517,
+        "longitude": 12.462855399999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Spanish Steps",
+        "rating": 4.6,
+        "address": "Piazza di Spagna, 00187 Roma RM, Italy",
+        "latitude": 41.905989999999996,
+        "longitude": 12.482775
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino degli Aranci",
+        "rating": 4.7,
+        "address": "Piazza Pietro D'Illiria, 00153 Roma RM, Italy",
+        "latitude": 41.8851338,
+        "longitude": 12.48039
+    },
+    {
+        "category": "gardens",
+        "title": "Botanical Garden of Rome",
+        "rating": 4.4,
+        "address": "Largo Cristina di Svezia, 23 A, 00165 Roma RM, Italy",
+        "latitude": 41.892324699999996,
+        "longitude": 12.4628307
+    },
+    {
+        "category": "gardens",
+        "title": "Villa Borghese",
+        "rating": 4.6,
+        "address": "00197 Roma RM, Italy",
+        "latitude": 41.9138782,
+        "longitude": 12.485381799999999
+    },
+    {
+        "category": "gardens",
+        "title": "Gardens of Vatican City",
+        "rating": 4.7,
+        "address": "Viale Vaticano, 00165 Roma RM, Italy",
+        "latitude": 41.9036267,
+        "longitude": 12.4502458
+    },
+    {
+        "category": "gardens",
+        "title": "Villa Doria Pamphili",
+        "rating": 4.6,
+        "address": "Via di San Pancrazio, 00152 Roma RM, Italy",
+        "latitude": 41.885278299999996,
+        "longitude": 12.441609099999999
+    },
+    {
+        "category": "gardens",
+        "title": "Parco degli Eucalipti",
+        "rating": 4.5,
+        "address": "Viale dell'Artigianato, 14, 00144 Roma RM, Italy",
+        "latitude": 41.8362163,
+        "longitude": 12.4787447
+    },
+    {
+        "category": "gardens",
+        "title": "Giardini di Piazza Mazzini",
+        "rating": 3.9,
+        "address": "Piazza Giuseppe Mazzini, 00195 Roma RM, Italy",
+        "latitude": 41.9159241,
+        "longitude": 12.4634962
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino Nicola Calipari",
+        "rating": 4.4,
+        "address": "P.za Vittorio Emanuele II, 107-112, 00185 Roma RM, Italy",
+        "latitude": 41.8944312,
+        "longitude": 12.5046328
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino di Sant'Alessio",
+        "rating": 4.6,
+        "address": "Via di Sant'Alessio, 00153 Roma RM, Italy",
+        "latitude": 41.8840901,
+        "longitude": 12.4788047
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino di Sant'Andrea al Quirinale",
+        "rating": 4.1,
+        "address": "Via del Quirinale, 26, 00184 Roma RM, Italy",
+        "latitude": 41.9008754,
+        "longitude": 12.4902863
+    },
+    {
+        "category": "gardens",
+        "title": "Giardino Giapponese",
+        "rating": 4.2,
+        "address": "Psg Gianicolo/Villa Corsini, 00165 Roma RM, Italy",
+        "latitude": 41.890277999999995,
+        "longitude": 12.4630756
+    },
+    {
+        "category": "gardens",
+        "title": "Passeggiata del Pincio",
+        "rating": 4.7,
+        "address": "Viale Gabriele D'Annunzio, 00197 Roma RM, Italy",
+        "latitude": 41.910988599999996,
+        "longitude": 12.480933499999999
+    },
+    {
+        "category": "gardens",
+        "title": "Piazza di Siena",
+        "rating": 4.7,
+        "address": "Villa Borghese, 00197 Roma RM, Italy",
+        "latitude": 41.9135972,
+        "longitude": 12.487101899999999
+    },
+    {
+        "category": "gardens",
+        "title": "The Colonna Garden on the Quirinal Hill",
+        "rating": 4.4,
+        "address": "Via della Pilotta, 17, 00187 Roma RM, Italy",
+        "latitude": 41.898176199999995,
+        "longitude": 12.4854567
+    },
+    {
+        "category": "gardens",
+        "title": "The Park of the Aqueducts",
+        "rating": 4.7,
+        "address": "Via Lemonia, 00174 Roma RM, Italy",
+        "latitude": 41.850392899999996,
+        "longitude": 12.5574572
+    },
+    {
+        "category": "gardens",
+        "title": "Giardini Segreti",
+        "rating": 4.3,
+        "address": "Viale dell'Uccelliera, 00197 Roma RM, Italy",
+        "latitude": 41.914591,
+        "longitude": 12.491349099999999
+    },
+    {
+        "category": "gardens",
+        "title": "Temple of Aesculapius",
+        "rating": 4.7,
+        "address": "Via Ulisse Aldrovandi, 6, 00197 Roma RM, Italy",
+        "latitude": 41.9149545,
+        "longitude": 12.482762399999999
+    },
+    {
+        "category": "gardens",
+        "title": "Fontana dei Tritoni",
+        "rating": 4.3,
+        "address": "Botanical Garden of Rome, Largo Cristina di Svezia, 23 A - 24, 00165 Roma RM, Italy",
+        "latitude": 41.8921396,
+        "longitude": 12.4645069
+    },
+    {
+        "category": "gardens",
+        "title": "Giardini di Piazza Dante",
+        "rating": 4,
+        "address": "Piazza Dante, 00185 Roma RM, Italy",
+        "latitude": 41.8920258,
+        "longitude": 12.5040306
+    },
+    {
+        "category": "gardens",
+        "title": "Gardens of Sallust (Horti Sallustiani)",
+        "rating": 4.6,
+        "address": "Piazza Sallustio, 21, 00187 Roma RM, Italy",
+        "latitude": 41.9080716,
+        "longitude": 12.4968386
+    },
+    {
+        "category": "zoo",
+        "title": "Bioparco di Roma (ex Giardino Zoologico)",
+        "rating": 4.3,
+        "address": "Piazzale del Giardino Zoologico, 00197 Roma RM, Italy",
+        "latitude": 41.916843799999995,
+        "longitude": 12.4877878
+    },
+    {
+        "category": "adventure parks",
+        "title": "Luneur Park",
+        "rating": 4.1,
+        "address": "Via delle Tre Fontane, 100, 00144 Roma RM, Italy",
+        "latitude": 41.835296299999996,
+        "longitude": 12.4759812
+    },
+    {
+        "category": "adventure parks",
+        "title": "Cinecittà World",
+        "rating": 3.8,
+        "address": "Via Irina Alberti, 00128 Roma RM, Italy",
+        "latitude": 41.712149,
+        "longitude": 12.449047
+    },
+    {
+        "category": "adventure parks",
+        "title": "Parco Morelli",
+        "rating": 4.1,
+        "address": "V.le Isacco Newton, 43, 00151 Roma RM, Italy",
+        "latitude": 41.858264399999996,
+        "longitude": 12.4419607
+    },
+    {
+        "category": "adventure parks",
+        "title": "Il Fantastico Mondo del Fantastico",
+        "rating": 4.2,
+        "address": "Via della Tenuta del Cavaliere, 230, 00132 Roma RM, Italy",
+        "latitude": 41.9243771,
+        "longitude": 12.6673712
+    },
+    {
+        "category": "adventure parks",
+        "title": "EurPark Energy & Adventure",
+        "rating": 4.2,
+        "address": "Piazza Pakistan, 00144 Roma RM, Italy",
+        "latitude": 41.8245213,
+        "longitude": 12.464252
+    },
+    {
+        "category": "adventure parks",
+        "title": "This is Wonderland | Peter Pan - Never Stop Dreaming",
+        "rating": 4.7,
+        "address": "Giardino delle Cascate all'EUR, Passeggiata del Giappone, 00144 Roma RM, Italy",
+        "latitude": 41.8276049,
+        "longitude": 12.4671641
+    },
+    {
+        "category": "adventure parks",
+        "title": "Oasi Park",
+        "rating": 4.4,
+        "address": "Via Tarquinio Collatino, 56/58, 00175 Roma RM, Italy",
+        "latitude": 41.861103,
+        "longitude": 12.563467
+    },
+    {
+        "category": "adventure parks",
+        "title": "MagicLand",
+        "rating": 4,
+        "address": "Via della Pace, 00038 Valmontone RM, Italy",
+        "latitude": 41.7652448,
+        "longitude": 12.9558942
+    },
+    {
+        "category": "adventure parks",
+        "title": "Family Park",
+        "rating": 4.3,
+        "address": "Via di Bravetta, 159, 00164 Roma RM, Italy",
+        "latitude": 41.8838511,
+        "longitude": 12.4250403
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventure Park Ostia",
+        "rating": 4.5,
+        "address": "Via di Castel Fusano, 00124 Roma RM, Italy",
+        "latitude": 41.7373415,
+        "longitude": 12.3126485
+    },
+    {
+        "category": "adventure parks",
+        "title": "Eden Park",
+        "rating": 4.2,
+        "address": "Via Mattia Battistini, 55, 00167 Roma RM, Italy",
+        "latitude": 41.9062568,
+        "longitude": 12.4123688
+    },
+    {
+        "category": "adventure parks",
+        "title": "Roma Avventura",
+        "rating": 3.1,
+        "address": "Via Annia Regilla, 245, 00178 Roma RM, Italy",
+        "latitude": 41.8475056,
+        "longitude": 12.549645
+    },
+    {
+        "category": "adventure parks",
+        "title": "Luna Park Cittá Di Roma - Ponte delle Valli",
+        "rating": 4.1,
+        "address": "Via delle Valli, 160, 00199 Roma RM, Italy",
+        "latitude": 41.9364438,
+        "longitude": 12.525044699999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Pavolandia",
+        "rating": 4.5,
+        "address": "Via Achille Benedetti, 30, 00157 Roma RM, Italy",
+        "latitude": 41.9131417,
+        "longitude": 12.5438455
+    },
+    {
+        "category": "adventure parks",
+        "title": "Zero-Gravity Roma Tor Vergata",
+        "rating": 4.5,
+        "address": "Via Bernardino Alimena, 120, 00173 Roma RM, Italy",
+        "latitude": 41.848139499999995,
+        "longitude": 12.607239199999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Parco Catone Adventure",
+        "rating": 4.6,
+        "address": "Via dell'Osservatorio, 15, 00078 Monte Porzio Catone RM, Italy",
+        "latitude": 41.8084282,
+        "longitude": 12.700657699999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Roma World",
+        "rating": 3.9,
+        "address": "Via Irina Alberti, 00128 Roma RM, Italy",
+        "latitude": 41.7101781,
+        "longitude": 12.448981
+    },
+    {
+        "category": "adventure parks",
+        "title": "Zoomarine",
+        "rating": 4.1,
+        "address": "Via dei Romagnoli, 00071 Torvaianica RM, Italy",
+        "latitude": 41.633517999999995,
+        "longitude": 12.456615999999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Neverland",
+        "rating": 4.2,
+        "address": "Via Suor Celestina Donati, 108, 00167 Roma RM, Italy",
+        "latitude": 41.9230996,
+        "longitude": 12.4225947
+    },
+    {
+        "category": "adventure parks",
+        "title": "PARCO VIVIAVVENTURA",
+        "rating": 4.2,
+        "address": "Vle John Fitzgerald Kennedy, 58, 00046 Grottaferrata RM, Italy",
+        "latitude": 41.8000267,
+        "longitude": 12.6707969
+    },
+    {
+        "category": "hot springs",
+        "title": "Terme di Roma - Acque Albule",
+        "rating": 4,
+        "address": "Via Tiburtina Valeria, km 22,700, 00019 Tivoli Terme RM, Italy",
+        "latitude": 41.9516755,
+        "longitude": 12.7240746
+    },
+    {
+        "category": "hot springs",
+        "title": "Baths of Caracalla",
+        "rating": 4.6,
+        "address": "Viale delle Terme di Caracalla, 00153 Roma RM, Italy",
+        "latitude": 41.8790382,
+        "longitude": 12.4924394
+    },
+    {
+        "category": "hot springs",
+        "title": "Terme di Stigliano",
+        "rating": 4.1,
+        "address": "Via Bagni di Stigliano 2, 00060 Canale Monterano RM, Italy",
+        "latitude": 42.115421999999995,
+        "longitude": 12.0411328
+    },
+    {
+        "category": "hot springs",
+        "title": "Terme dei papi",
+        "rating": 4.3,
+        "address": "Str. Bagni, 12, 01100 Viterbo VT, Italy",
+        "latitude": 42.41368,
+        "longitude": 12.064869499999999
+    },
+    {
+        "category": "hot springs",
+        "title": "QC Grand Hotel Roma",
+        "rating": 4.3,
+        "address": "Via Portuense, 2178, 00054 Fiumicino RM, Italy",
+        "latitude": 41.782077699999995,
+        "longitude": 12.2679843
+    },
+    {
+        "category": "hot springs",
+        "title": "Hot Spots Rome",
+        "rating": null,
+        "address": "153, 00186 Roma RM, Italy",
+        "latitude": 41.8966008,
+        "longitude": 12.475320499999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shopping Mall Porta di Roma",
+        "rating": 4.4,
+        "address": "Via Alberto Lionello, 201, 00139 Roma RM, Italy",
+        "latitude": 41.9718327,
+        "longitude": 12.5402753
+    },
+    {
+        "category": "shopping malls",
+        "title": "Galleria Alberto Sordi",
+        "rating": 4.3,
+        "address": "P.za Colonna, 00187 Roma RM, Italy",
+        "latitude": 41.901049,
+        "longitude": 12.4805703
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale ROMAEST",
+        "rating": 4.4,
+        "address": "V. Collatina, Km 12.800, 00132 Roma RM, Italy",
+        "latitude": 41.913793,
+        "longitude": 12.6608821
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale Roma Casal Bertone",
+        "rating": 4,
+        "address": "Via Alberto Pollio, 50, 00159 Roma RM, Italy",
+        "latitude": 41.89927,
+        "longitude": 12.5316604
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale La Romanina",
+        "rating": 3.9,
+        "address": "Via Enrico Ferri, 8, 00173 Roma RM, Italy",
+        "latitude": 41.850969,
+        "longitude": 12.599197
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale Aura",
+        "rating": 4.1,
+        "address": "Viale di Valle Aurelia, 30, 00167 Roma RM, Italy",
+        "latitude": 41.9021051,
+        "longitude": 12.438497499999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale Euroma2",
+        "rating": 4.3,
+        "address": "Viale dell'Oceano Pacifico, 83, 00144 Roma RM, Italy",
+        "latitude": 41.816966699999995,
+        "longitude": 12.4595083
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale Anagnina",
+        "rating": 3.9,
+        "address": "Via Torre di Mezzavia, 35, 00173 Roma RM, Italy",
+        "latitude": 41.8378084,
+        "longitude": 12.594417
+    },
+    {
+        "category": "shopping malls",
+        "title": "Designer Outlet Castel Romano",
+        "rating": 4.4,
+        "address": "Via del Ponte di Piscina Cupa, 64, 00128 Roma RM, Italy",
+        "latitude": 41.7168651,
+        "longitude": 12.444462699999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "RINASCENTE Rome",
+        "rating": 4.4,
+        "address": "Via del Tritone, 61, 00187 Roma RM, Italy",
+        "latitude": 41.9027487,
+        "longitude": 12.4845887
+    },
+    {
+        "category": "shopping malls",
+        "title": "GranRoma",
+        "rating": 4.2,
+        "address": "Via Aristide Merloni, 141, 00155 Roma RM, Italy",
+        "latitude": 41.8840874,
+        "longitude": 12.6076302
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale Domus",
+        "rating": 3.6,
+        "address": "Via Vittorio Ragusa, 120, 00173 Roma RM, Italy",
+        "latitude": 41.8466399,
+        "longitude": 12.6087078
+    },
+    {
+        "category": "shopping malls",
+        "title": "Torresina - Centro Commerciale",
+        "rating": 3.9,
+        "address": "Via Andrea Barbato, 31, 00168 Roma RM, Italy",
+        "latitude": 41.929158799999996,
+        "longitude": 12.4008798
+    },
+    {
+        "category": "shopping malls",
+        "title": "Maximo Shopping Center",
+        "rating": 4.4,
+        "address": "Via Laurentina, 865, 00143 Roma RM, Italy",
+        "latitude": 41.8081003,
+        "longitude": 12.4857581
+    },
+    {
+        "category": "shopping malls",
+        "title": "Parco Commerciale Da Vinci",
+        "rating": 4.4,
+        "address": "Via Geminiano Montanari, 00054 Fiumicino RM, Italy",
+        "latitude": 41.809188999999996,
+        "longitude": 12.3008967
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale Primavera",
+        "rating": 4.1,
+        "address": "Viale della Primavera, 194, 00172 Roma RM, Italy",
+        "latitude": 41.8818895,
+        "longitude": 12.559491
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale Casilino",
+        "rating": 3.9,
+        "address": "Via Casilina, 1011, 00169 Roma RM, Italy",
+        "latitude": 41.870778,
+        "longitude": 12.583077999999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Wow Side - Shopping Centre",
+        "rating": 3.9,
+        "address": "Viale Donato Bramante, 31/65, 00054 Fiumicino RM, Italy",
+        "latitude": 41.7980279,
+        "longitude": 12.298387
+    },
+    {
+        "category": "shopping malls",
+        "title": "Happio",
+        "rating": 3.8,
+        "address": "Via Appia Nuova, 448, 00179 Roma RM, Italy",
+        "latitude": 41.874217699999996,
+        "longitude": 12.5226341
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centro Commerciale Cinecittà Due",
+        "rating": 3.9,
+        "address": "Viale Palmiro Togliatti, 2, 00173 Roma RM, Italy",
+        "latitude": 41.8520202,
+        "longitude": 12.5723906
+    },
+    {
+        "category": "historical sites",
+        "title": "Monument to Victor Emmanuel II",
+        "rating": 4.8,
+        "address": "Piazza Venezia, 00186 Roma RM, Italy",
+        "latitude": 41.8945976,
+        "longitude": 12.4831269
+    },
+    {
+        "category": "historical sites",
+        "title": "Colosseum",
+        "rating": 4.8,
+        "address": "Piazza del Colosseo, 1, 00184 Roma RM, Italy",
+        "latitude": 41.8902102,
+        "longitude": 12.4922309
+    },
+    {
+        "category": "historical sites",
+        "title": "Pantheon",
+        "rating": 4.8,
+        "address": "Piazza della Rotonda, 00186 Roma RM, Italy",
+        "latitude": 41.8986108,
+        "longitude": 12.4768729
+    },
+    {
+        "category": "historical sites",
+        "title": "Piazza Navona",
+        "rating": 4.7,
+        "address": "00186 Roma RM, Italy",
+        "latitude": 41.8991633,
+        "longitude": 12.4730742
+    },
+    {
+        "category": "historical sites",
+        "title": "Piazza Venezia",
+        "rating": 4.7,
+        "address": "00187 Roma RM, Italy",
+        "latitude": 41.895848199999996,
+        "longitude": 12.4818956
+    },
+    {
+        "category": "historical sites",
+        "title": "Roman Forum",
+        "rating": 4.7,
+        "address": "00186 Roma RM, Italy",
+        "latitude": 41.892090599999996,
+        "longitude": 12.4864378
+    },
+    {
+        "category": "historical sites",
+        "title": "Trajan's Forum",
+        "rating": 4.7,
+        "address": "Via dei Fori Imperiali, 00186 Roma RM, Italy",
+        "latitude": 41.894869799999995,
+        "longitude": 12.485289999999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Trevi Fountain",
+        "rating": 4.7,
+        "address": "Piazza di Trevi, 00187 Roma RM, Italy",
+        "latitude": 41.900932499999996,
+        "longitude": 12.483312999999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Piazza del Campidoglio",
+        "rating": 4.7,
+        "address": "00186 Roma RM, Italy",
+        "latitude": 41.8933592,
+        "longitude": 12.482801799999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Castel Sant'Angelo",
+        "rating": 4.7,
+        "address": "Lungotevere Castello, 50, 00193 Roma RM, Italy",
+        "latitude": 41.9030632,
+        "longitude": 12.466275999999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Baths of Caracalla",
+        "rating": 4.6,
+        "address": "Viale delle Terme di Caracalla, 00153 Roma RM, Italy",
+        "latitude": 41.8790382,
+        "longitude": 12.4924394
+    },
+    {
+        "category": "historical sites",
+        "title": "Arch of Constantine",
+        "rating": 4.7,
+        "address": "Piazza del Colosseo, 00184 Roma RM, Italy",
+        "latitude": 41.8898113,
+        "longitude": 12.4906782
+    },
+    {
+        "category": "historical sites",
+        "title": "Parco archeologico del Colosseo",
+        "rating": 4.8,
+        "address": "Piazza S. Maria Nova, 53, 00186 Roma RM, Italy",
+        "latitude": 41.891243599999996,
+        "longitude": 12.486653599999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Quirinal Palace",
+        "rating": 4.7,
+        "address": "P.za del Quirinale, 00187 Roma RM, Italy",
+        "latitude": 41.9002445,
+        "longitude": 12.4864679
+    },
+    {
+        "category": "historical sites",
+        "title": "Le Domus Romane di Palazzo Valentini",
+        "rating": 4.7,
+        "address": "Foro Traiano, 85, 00186 Roma RM, Italy",
+        "latitude": 41.895998,
+        "longitude": 12.4840381
+    },
+    {
+        "category": "historical sites",
+        "title": "Fontana del Pantheon",
+        "rating": 4.7,
+        "address": "Piazza della Rotonda, 00186 Roma RM, Italy",
+        "latitude": 41.899321199999996,
+        "longitude": 12.4767522
+    },
+    {
+        "category": "historical sites",
+        "title": "Piazza del Popolo",
+        "rating": 4.7,
+        "address": "00187 Roma RM, Italy",
+        "latitude": 41.9107038,
+        "longitude": 12.4763579
+    },
+    {
+        "category": "historical sites",
+        "title": "Piazza della Repubblica",
+        "rating": 4.6,
+        "address": "P.za della Repubblica, 00185 Roma RM, Italy",
+        "latitude": 41.9027357,
+        "longitude": 12.496223299999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Largo Romolo e Remo",
+        "rating": 4.7,
+        "address": "00186 Roma RM, Italy",
+        "latitude": 41.8930818,
+        "longitude": 12.487008999999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Sistine Chapel",
+        "rating": 4.7,
+        "address": "00120 Città del Vaticano, Vatican City",
+        "latitude": 41.902946799999995,
+        "longitude": 12.4544835
+    },
+    {
+        "category": "art galleries",
+        "title": "National Gallery of Modern and Contemporary Art",
+        "rating": 4.6,
+        "address": "Viale delle Belle Arti, 131, 00197 Roma RM, Italy",
+        "latitude": 41.9168866,
+        "longitude": 12.4819584
+    },
+    {
+        "category": "art galleries",
+        "title": "Galleria Borghese",
+        "rating": 4.6,
+        "address": "Piazzale Scipione Borghese, 5, 00197 Roma RM, Italy",
+        "latitude": 41.9142103,
+        "longitude": 12.4921442
+    },
+    {
+        "category": "art galleries",
+        "title": "MACRO",
+        "rating": 4.2,
+        "address": "V. Nizza, 138, 00198 Roma RM, Italy",
+        "latitude": 41.913611599999996,
+        "longitude": 12.5030603
+    },
+    {
+        "category": "art galleries",
+        "title": "Galleria Doria Pamphilj",
+        "rating": 4.6,
+        "address": "Via del Corso, 305, 00186 Roma RM, Italy",
+        "latitude": 41.8979782,
+        "longitude": 12.481574199999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Gallerie Nazionali di Arte Antica - Palazzo Barberini",
+        "rating": 4.6,
+        "address": "Via delle Quattro Fontane, 13, 00184 Roma RM, Italy",
+        "latitude": 41.903358,
+        "longitude": 12.489825999999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Capitoline Museums",
+        "rating": 4.7,
+        "address": "Piazza del Campidoglio, 1, 00186 Roma RM, Italy",
+        "latitude": 41.8929428,
+        "longitude": 12.4825577
+    },
+    {
+        "category": "art galleries",
+        "title": "Museo Nazionale Romano, Palazzo Altemps",
+        "rating": 4.6,
+        "address": "Piazza di Sant'Apollinare, 46, 00186 Roma RM, Italy",
+        "latitude": 41.9010945,
+        "longitude": 12.473149999999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Palazzo delle Esposizioni",
+        "rating": 4.5,
+        "address": "Via Nazionale, 194, 00184 Roma RM, Italy",
+        "latitude": 41.8994596,
+        "longitude": 12.490146399999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Galleria Spada",
+        "rating": 4.5,
+        "address": "Piazza Capo di Ferro, 13, 00186 Roma RM, Italy",
+        "latitude": 41.894203399999995,
+        "longitude": 12.471922099999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Villa Farnesina",
+        "rating": 4.6,
+        "address": "Via della Lungara, 230, 00165 Roma RM, Italy",
+        "latitude": 41.8936309,
+        "longitude": 12.4673112
+    },
+    {
+        "category": "art galleries",
+        "title": "National Etruscan Museum of Villa Giulia",
+        "rating": 4.7,
+        "address": "Piazzale di Villa Giulia 9, 00196 Roma RM, Italy",
+        "latitude": 41.9183601,
+        "longitude": 12.4777171
+    },
+    {
+        "category": "art galleries",
+        "title": "Villa Medici",
+        "rating": 4.4,
+        "address": "Viale della Trinità dei Monti, 1, 00187 Roma RM, Italy",
+        "latitude": 41.908291399999996,
+        "longitude": 12.482623
+    },
+    {
+        "category": "art galleries",
+        "title": "MAXXI - National Museum of 21st Century Art",
+        "rating": 4.4,
+        "address": "Via Guido Reni, 4a, 00196 Roma RM, Italy",
+        "latitude": 41.9282451,
+        "longitude": 12.4668557
+    },
+    {
+        "category": "art galleries",
+        "title": "Museo Nazionale Romano, Palazzo Massimo alle Terme",
+        "rating": 4.6,
+        "address": "Largo di Villa Peretti, 2, 00185 Roma RM, Italy",
+        "latitude": 41.901469999999996,
+        "longitude": 12.4985462
+    },
+    {
+        "category": "art galleries",
+        "title": "Scuderie del Quirinale",
+        "rating": 4.6,
+        "address": "Via Ventiquattro Maggio, 16, 00186 Roma RM, Italy",
+        "latitude": 41.8986595,
+        "longitude": 12.486116299999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Galleria Colonna",
+        "rating": 4.9,
+        "address": "Via della Pilotta, 17, 00187 Roma RM, Italy",
+        "latitude": 41.8975648,
+        "longitude": 12.484738799999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Chiostro del Bramante",
+        "rating": 4.5,
+        "address": "Arco della Pace, 5, 00186 Roma RM, Italy",
+        "latitude": 41.9000087,
+        "longitude": 12.471590899999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Centrale Montemartini",
+        "rating": 4.7,
+        "address": "Via Ostiense, 106, 00154 Roma RM, Italy",
+        "latitude": 41.8668184,
+        "longitude": 12.4780544
+    },
+    {
+        "category": "art galleries",
+        "title": "Palazzo Corsini, Rome",
+        "rating": 4.4,
+        "address": "Via della Lungara, 10, 00165 Roma RM, Italy",
+        "latitude": 41.893222099999996,
+        "longitude": 12.4668405
+    },
+    {
+        "category": "art galleries",
+        "title": "Leonardo Da Vinci Experience Museum",
+        "rating": 4.4,
+        "address": "Via della Conciliazione, 19/21, 00193 Roma RM, Italy",
+        "latitude": 41.9020301,
+        "longitude": 12.4615581
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro dell'Opera di Roma",
+        "rating": 4.7,
+        "address": "Piazza Beniamino Gigli, 00184 Roma RM, Italy",
+        "latitude": 41.9006389,
+        "longitude": 12.495658299999999
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Sistina",
+        "rating": 4.4,
+        "address": "Via Sistina, 129, 00187 Roma RM, Italy",
+        "latitude": 41.9042546,
+        "longitude": 12.4869671
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Argentina",
+        "rating": 4.6,
+        "address": "Largo di Torre Argentina, 52, 00186 Roma RM, Italy",
+        "latitude": 41.895566699999996,
+        "longitude": 12.4762811
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Brancaccio",
+        "rating": 4.5,
+        "address": "Via Merulana, 244, 00185 Roma RM, Italy",
+        "latitude": 41.893591199999996,
+        "longitude": 12.500825899999999
+    },
+    {
+        "category": "theaters",
+        "title": "Gigi Proietti Globe Theatre",
+        "rating": 4.7,
+        "address": "Largo Aqua Felix, 00197 Roma RM, Italy",
+        "latitude": 41.914433599999995,
+        "longitude": 12.485605099999999
+    },
+    {
+        "category": "theaters",
+        "title": "Auditorium della Conciliazione",
+        "rating": 4.4,
+        "address": "Via della Conciliazione, 4, 00193 Roma RM, Italy",
+        "latitude": 41.902547,
+        "longitude": 12.463612
+    },
+    {
+        "category": "theaters",
+        "title": "Auditorium Parco della Musica",
+        "rating": 4.6,
+        "address": "Via Pietro de Coubertin, 30, 00196 Roma RM, Italy",
+        "latitude": 41.928890599999995,
+        "longitude": 12.4748367
+    },
+    {
+        "category": "theaters",
+        "title": "Theater Salone Margherita",
+        "rating": 4.5,
+        "address": "Via dei Due Macelli, 75, 00187 Roma RM, Italy",
+        "latitude": 41.9042769,
+        "longitude": 12.4840295
+    },
+    {
+        "category": "theaters",
+        "title": "Theater Quirino Vittorio Gassman",
+        "rating": 4,
+        "address": "Via delle Vergini, 7, 00187 Roma RM, Italy",
+        "latitude": 41.899951,
+        "longitude": 12.48261
+    },
+    {
+        "category": "theaters",
+        "title": "Nuovo Teatro Orione",
+        "rating": 4.2,
+        "address": "Via Tortona, 7, 00183 Roma RM, Italy",
+        "latitude": 41.8795443,
+        "longitude": 12.5152629
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Ambra Jovinelli",
+        "rating": 4.4,
+        "address": "Via Guglielmo Pepe, 45, 00185 Roma RM, Italy",
+        "latitude": 41.8957467,
+        "longitude": 12.5079614
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro India",
+        "rating": 4.4,
+        "address": "Lungotevere Vittorio Gassman, 1, 00146 Roma RM, Italy",
+        "latitude": 41.868669399999995,
+        "longitude": 12.472211099999999
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Eliseo",
+        "rating": 4.3,
+        "address": "Via Nazionale, 183, 00184 Roma RM, Italy",
+        "latitude": 41.897968299999995,
+        "longitude": 12.4888215
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Tor Bella Monaca",
+        "rating": 4.6,
+        "address": "Via Bruno Cirino, 5, 00133 Roma RM, Italy",
+        "latitude": 41.869591299999996,
+        "longitude": 12.633417699999999
+    },
+    {
+        "category": "theaters",
+        "title": "Cinema Quattro Fontane - Circuito Cinema",
+        "rating": 4.3,
+        "address": "Via delle Quattro Fontane, 23, 00184 Roma RM, Italy",
+        "latitude": 41.901395799999996,
+        "longitude": 12.4918848
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Adriano",
+        "rating": 4.1,
+        "address": "Piazza Cavour, 22, 00193 Roma RM, Italy",
+        "latitude": 41.9059427,
+        "longitude": 12.4698104
+    },
+    {
+        "category": "theaters",
+        "title": "The Grand Theater",
+        "rating": 4.1,
+        "address": "Viale Maurizio Barendson, 00138 Roma RM, Italy",
+        "latitude": 41.9742813,
+        "longitude": 12.4961916
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Parioli",
+        "rating": 4.2,
+        "address": "Via Giosuè Borsi, 20, 00197 Roma RM, Italy",
+        "latitude": 41.9261477,
+        "longitude": 12.48795
+    },
+    {
+        "category": "theaters",
+        "title": "Teatro Sala Umberto",
+        "rating": 4.4,
+        "address": "Via della Mercede, 50, 00187 Roma RM, Italy",
+        "latitude": 41.903123699999995,
+        "longitude": 12.4819733
+    },
+    {
+        "category": "theaters",
+        "title": "Theatre Vascello",
+        "rating": 4.5,
+        "address": "Via Giacinto Carini, 78, 00152 Roma RM, Italy",
+        "latitude": 41.882424799999995,
+        "longitude": 12.4606052
+    },
+    {
+        "category": "souvenir counters",
+        "title": "souvenir store",
+        "rating": 5,
+        "address": "Via Giovanni Giolitti, 317, 00185 Roma RM, Italy",
+        "latitude": 41.8951548,
+        "longitude": 12.5091948
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir Ricordo de Roma",
+        "rating": 4.9,
+        "address": "Largo Arenula, 35, 00186 Roma RM, Italy",
+        "latitude": 41.8949219,
+        "longitude": 12.4761046
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir Roma",
+        "rating": 4.7,
+        "address": "Via Quattro Novembre, 156b, 00187 Roma RM, Italy",
+        "latitude": 41.896435499999995,
+        "longitude": 12.486449799999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "L'Artigianato",
+        "rating": 4.6,
+        "address": "Piazza Navona, 84, 00186 Roma RM, Italy",
+        "latitude": 41.8992054,
+        "longitude": 12.473394899999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs Shop - Best Price Souvenirs in Rome",
+        "rating": 4.4,
+        "address": "Via della Dataria, 89-90, 00187 Roma RM, Italy",
+        "latitude": 41.900048,
+        "longitude": 12.483930299999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Massi Souvenir",
+        "rating": 4.8,
+        "address": "Via di Porta Angelica, 61, 00193 Roma RM, Italy",
+        "latitude": 41.9042189,
+        "longitude": 12.4578432
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Murano View",
+        "rating": 4.8,
+        "address": "Via dei Banchi Nuovi, 6, 00186 Roma RM, Italy",
+        "latitude": 41.899818599999996,
+        "longitude": 12.4671571
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Stock Point",
+        "rating": 5,
+        "address": "V. Gioberti, 35/b, 00185 Roma RM, Italy",
+        "latitude": 41.899056099999996,
+        "longitude": 12.5006383
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir Store",
+        "rating": 4.5,
+        "address": "P.za di Santa Maria Maggiore, 11a, 00185 Roma RM, Italy",
+        "latitude": 41.8969544,
+        "longitude": 12.4990287
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir shop",
+        "rating": 4.8,
+        "address": "Via della Scrofa, 90, 00186 Roma RM, Italy",
+        "latitude": 41.901826199999995,
+        "longitude": 12.4749058
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Roma Imperium",
+        "rating": 4,
+        "address": "Via di Sant'Andrea delle Fratte, 3, 00187 Roma RM, Italy",
+        "latitude": 41.903465399999995,
+        "longitude": 12.4835012
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Rome Souvenir - Chen Gaoviang",
+        "rating": 5,
+        "address": "Via del Bufalo, 139, 00187 Roma RM, Italy",
+        "latitude": 41.9026253,
+        "longitude": 12.4827791
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Murano Max Murano Glass Rome",
+        "rating": 5,
+        "address": "Via dei Banchi Nuovi, 8, 00186 Roma RM, Italy",
+        "latitude": 41.8997543,
+        "longitude": 12.4671401
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir Italia",
+        "rating": 3.5,
+        "address": "Via del Lavatore, 92, 00187 Roma RM, Italy",
+        "latitude": 41.9013479,
+        "longitude": 12.484717
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir fountain",
+        "rating": 4.3,
+        "address": "Via della Dataria, 92, 00187 Roma RM, Italy",
+        "latitude": 41.9000578,
+        "longitude": 12.4840395
+    },
+    {
+        "category": "souvenir counters",
+        "title": "FAMO COSE Factory",
+        "rating": 4.2,
+        "address": "Piazza della Rotonda, 69a, 00186 Roma RM, Italy",
+        "latitude": 41.8994194,
+        "longitude": 12.4771532
+    },
+    {
+        "category": "souvenir counters",
+        "title": "souvenir shop",
+        "rating": 3.6,
+        "address": "Via di Torre Argentina, 6, 00186 Roma RM, Italy",
+        "latitude": 41.8970845,
+        "longitude": 12.4764666
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir shop (gift)",
+        "rating": 4,
+        "address": "Via Milano, 35, 00184 Roma RM, Italy",
+        "latitude": 41.8985561,
+        "longitude": 12.490808699999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "I Love Roma Souvenir",
+        "rating": 2.7,
+        "address": "Piazza dei Crociferi, 30, 00187 Roma RM, Italy",
+        "latitude": 41.9009181,
+        "longitude": 12.4818053
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir Shop",
+        "rating": 3.3,
+        "address": "Via Sistina, 6, 00187 Roma RM, Italy",
+        "latitude": 41.9037035,
+        "longitude": 12.4874946
+    }
+]

@@ -1,0 +1,3274 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "The Marble Mountains",
+        "rating": 4.3,
+        "address": "81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0037104,
+        "longitude": 108.2631605
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ba Na Hills",
+        "rating": 4.4,
+        "address": "Thôn An Sơn, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9951364,
+        "longitude": 107.9961392
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Golden Bridge",
+        "rating": 4.6,
+        "address": "XXVW+XJ, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.994937499999999,
+        "longitude": 107.9965625
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Dragon Bridge",
+        "rating": 4.5,
+        "address": "Cầu Rồng, An Hải, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0611042,
+        "longitude": 108.2276926
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Da Nang Museum of Cham Sculpture",
+        "rating": 4.2,
+        "address": "02 Đ. 2 Tháng 9, Phường, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0603007,
+        "longitude": 108.2232677
+    },
+    {
+        "category": "tourist attractions",
+        "title": "3D Museum Art in paradise Da Nang",
+        "rating": 4.4,
+        "address": "Lô 10, Trần Nhân Tông, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.0954282,
+        "longitude": 108.2431088
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ban Co Peak",
+        "rating": 4.6,
+        "address": "Bàn cờ, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.1189365,
+        "longitude": 108.2719826
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Da Nang Food Tour",
+        "rating": 4.5,
+        "address": "4 Trần Quốc Toản, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0661013,
+        "longitude": 108.22436189999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Nhà Vọng cảnh",
+        "rating": 4.5,
+        "address": "Nhà Vọng Cảnh, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.1351089,
+        "longitude": 108.24537579999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Da Nang Fresco Village",
+        "rating": 4,
+        "address": "75 Nguyễn Văn Linh, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0607296,
+        "longitude": 108.2200532
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Minh Khang Travel Đà Nẵng",
+        "rating": 4.7,
+        "address": "58 Nại Nam, Hoà Cường Bắc, Hải Châu, Đà Nẵng 500000, Vietnam",
+        "latitude": 16.0349996,
+        "longitude": 108.2317896
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hoa Phu Thanh Tourist Area",
+        "rating": 4.4,
+        "address": "Hoà Phú, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9577622,
+        "longitude": 107.99169769999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Bãi biển Sơn Trà",
+        "rating": 4.8,
+        "address": "Bến Xe Bus, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.0991295,
+        "longitude": 108.25506159999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Đà Nẵng Museum",
+        "rating": 4.2,
+        "address": "31 Trần Phú, P, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.074554199999998,
+        "longitude": 108.2239668
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Giếng Trời",
+        "rating": 4.2,
+        "address": "Hoà Ninh, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.0347599,
+        "longitude": 107.9909156
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Fantasy Park",
+        "rating": 4.4,
+        "address": "Hoà Phú, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9972041,
+        "longitude": 107.98876299999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Tượng Cá Chép Hóa Rồng",
+        "rating": 4.5,
+        "address": "Đ. Trần Hưng Đạo, An Hải, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.06291,
+        "longitude": 108.229815
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Du Thuyền Sông Hàn Đà Nẵng (Stations Tickets)",
+        "rating": 4.3,
+        "address": "26 Bạch Đằng, Thạch Thang, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.079141099999998,
+        "longitude": 108.2242785
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Dong Dinh Museum",
+        "rating": 4.1,
+        "address": "Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.1011538,
+        "longitude": 108.2753793
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ghềnh Bàng",
+        "rating": 4.5,
+        "address": "Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.1124336,
+        "longitude": 108.31163219999999
+    },
+    {
+        "category": "parks",
+        "title": "APEC Park",
+        "rating": 4.4,
+        "address": "Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0581055,
+        "longitude": 108.2232435
+    },
+    {
+        "category": "parks",
+        "title": "East Sea Park",
+        "rating": 4.6,
+        "address": "Đường võ nguyên giáp, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0703173,
+        "longitude": 108.24583679999999
+    },
+    {
+        "category": "parks",
+        "title": "Hot Springs Park - Công viên Suối khoáng nóng Núi Thần Tài Đà Nẵng",
+        "rating": 4.3,
+        "address": "QL14G, Hoà Phú, Hòa Vang, Đà Nẵng 550000, Vietnam",
+        "latitude": 15.9678512,
+        "longitude": 108.0198053
+    },
+    {
+        "category": "parks",
+        "title": "Wonder Park - Wyndham Danang Golden Bay Hotel",
+        "rating": 4.4,
+        "address": "01 Lê Văn Duyệt, Nại Hiên Đông, Sơn Trà, Đà Nẵng 590000, Vietnam",
+        "latitude": 16.0988248,
+        "longitude": 108.224412
+    },
+    {
+        "category": "parks",
+        "title": "Fantasy Park",
+        "rating": 4.4,
+        "address": "Hoà Phú, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9972041,
+        "longitude": 107.98876299999999
+    },
+    {
+        "category": "parks",
+        "title": "Sun Wheel",
+        "rating": 4.5,
+        "address": "1 Phan Đăng Lưu, Hoà Cường Bắc, Hải Châu, Đà Nẵng, Vietnam",
+        "latitude": 16.0401624,
+        "longitude": 108.22851709999999
+    },
+    {
+        "category": "parks",
+        "title": "Hoa Viên Phật Quốc Tế International Buddha Park",
+        "rating": 5,
+        "address": "323 Phan Châu Trinh, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0581626,
+        "longitude": 108.2195083
+    },
+    {
+        "category": "parks",
+        "title": "Công viên Nguyễn Văn Trỗi",
+        "rating": 4.6,
+        "address": "362J+9PM, Nguyễn Văn Trỗi Bridge, Bắc Mỹ Phú, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0509617,
+        "longitude": 108.2317971
+    },
+    {
+        "category": "parks",
+        "title": "Thăng Long Park",
+        "rating": 4.7,
+        "address": "26MM+4FQ, Thăng Long, Hải Châu, Đà Nẵng, Vietnam",
+        "latitude": 16.032830999999998,
+        "longitude": 108.2337427
+    },
+    {
+        "category": "parks",
+        "title": "Mikazuki Water Park 365",
+        "rating": 4.2,
+        "address": "Khu du lịch Xuân Thiều, Nguyễn Tất Thành, Hoà Hiệp Nam, Liên Chiểu, Đà Nẵng 55000, Vietnam",
+        "latitude": 16.092181099999998,
+        "longitude": 108.1441576
+    },
+    {
+        "category": "parks",
+        "title": "Công viên 29/3",
+        "rating": 4.4,
+        "address": "23 Nguyễn Tri Phương, Thạc Gián, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0625186,
+        "longitude": 108.2045143
+    },
+    {
+        "category": "parks",
+        "title": "Công viên biển Hà Khê",
+        "rating": 4.5,
+        "address": "35FR+4Q6, Hà Khê, Xuân Hà, Thanh Khê, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.072789999999998,
+        "longitude": 108.1918996
+    },
+    {
+        "category": "parks",
+        "title": "Công viên Cung Thiếu nhi Đà Nẵng",
+        "rating": 4.9,
+        "address": "26QF+GJV, Đ. 2 Tháng 9, Hòa Cường, Hải Châu, Đà Nẵng, Vietnam",
+        "latitude": 16.03886,
+        "longitude": 108.2240549
+    },
+    {
+        "category": "parks",
+        "title": "Đường hoa Bạch Đằng",
+        "rating": 4.7,
+        "address": "Bạch Đằng, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0604224,
+        "longitude": 108.2243312
+    },
+    {
+        "category": "parks",
+        "title": "Danang Riverwalk",
+        "rating": 4.6,
+        "address": "364F+2C5, Bạch Đằng, Bình Thuận, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.055193,
+        "longitude": 108.223694
+    },
+    {
+        "category": "parks",
+        "title": "29/3 Park Lake",
+        "rating": 4.3,
+        "address": "Thanh Khê District, Da Nang 550000, Vietnam",
+        "latitude": 16.062946,
+        "longitude": 108.2055027
+    },
+    {
+        "category": "parks",
+        "title": "Downtown Danang pick up",
+        "rating": 3.7,
+        "address": "26RG+W2F, Hòa Cường, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.041868,
+        "longitude": 108.224971
+    },
+    {
+        "category": "parks",
+        "title": "Quảng trường Bạch Đằng",
+        "rating": 4.7,
+        "address": "363F+JG6, Bạch Đằng, Bình Thuận, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0540265,
+        "longitude": 108.22378099999999
+    },
+    {
+        "category": "parks",
+        "title": "Công viên Bãi biển Mỹ Khê",
+        "rating": 4.7,
+        "address": "367W+FGQ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0637223,
+        "longitude": 108.2463441
+    },
+    {
+        "category": "parks",
+        "title": "The Marble Mountains",
+        "rating": 4.3,
+        "address": "81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0037104,
+        "longitude": 108.2631605
+    },
+    {
+        "category": "restaurants",
+        "title": "Ăn Thôi Restaurant",
+        "rating": 4.7,
+        "address": "114 Bạch Đằng, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0682463,
+        "longitude": 108.2248133
+    },
+    {
+        "category": "restaurants",
+        "title": "Bếp Cuốn Đà Nẵng",
+        "rating": 4.9,
+        "address": "31-33 Trần Bạch Đằng, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0579628,
+        "longitude": 108.2451505
+    },
+    {
+        "category": "restaurants",
+        "title": "Nhà hàng NHÀ BẾP CHỢ HÀN",
+        "rating": 4.8,
+        "address": "22 Hùng Vương, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0687376,
+        "longitude": 108.22433749999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Bistecca Italian Restaurant in Da Nang",
+        "rating": 4.9,
+        "address": "20 Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0827532,
+        "longitude": 108.2212419
+    },
+    {
+        "category": "restaurants",
+        "title": "Thìa Gỗ Restaurant Da Nang",
+        "rating": 4.7,
+        "address": "53 Phan Thúc Duyện, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.052986699999998,
+        "longitude": 108.2415777
+    },
+    {
+        "category": "restaurants",
+        "title": "Sky View Restaurant",
+        "rating": 4.9,
+        "address": "216 Đường võ nguyên giáp, An Hải, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0676095,
+        "longitude": 108.24477979999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Nhà Hàng Nhà Bếp Khuê Mỹ",
+        "rating": 4.7,
+        "address": "416 Võ Nguyên Giáp, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0419366,
+        "longitude": 108.2482737
+    },
+    {
+        "category": "restaurants",
+        "title": "Cô Ba Phở bò",
+        "rating": 4.8,
+        "address": "154 Bạch Đằng, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0669705,
+        "longitude": 108.22471879999999
+    },
+    {
+        "category": "restaurants",
+        "title": "My Casa",
+        "rating": 4.6,
+        "address": "53 Morrison, Phước Mỹ, Sơn Trà, Đà Nẵng 553422, Vietnam",
+        "latitude": 16.0717751,
+        "longitude": 108.24275469999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Bikini Bottom Express",
+        "rating": 4.7,
+        "address": "45-47 An Thượng 2, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0487632,
+        "longitude": 108.24754349999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Roots Plant-Based Cafe - Healthy vegan restaurant",
+        "rating": 4.7,
+        "address": "26-27 Trần Bạch Đằng, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0486723,
+        "longitude": 108.2478556
+    },
+    {
+        "category": "restaurants",
+        "title": "Nhà hàng Madame Lân",
+        "rating": 4.2,
+        "address": "04 Bạch Đằng, Thạch Thang, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.081406299999998,
+        "longitude": 108.2232528
+    },
+    {
+        "category": "restaurants",
+        "title": "Gypsy Rooftop Restaurant & Bar",
+        "rating": 4.9,
+        "address": "20 Đống Đa, Street, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0826849,
+        "longitude": 108.22125869999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Cabanon Palace",
+        "rating": 4.8,
+        "address": "Cordial Grand Hotel, 21th floor, 27-29 Loseby, Street, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0737348,
+        "longitude": 108.2408397
+    },
+    {
+        "category": "restaurants",
+        "title": "La Cabaña",
+        "rating": 4.8,
+        "address": "505 Đ. Trần Hưng Đạo, An Hải Trung, Sơn Trà, Đà Nẵng 55000, Vietnam",
+        "latitude": 16.0630164,
+        "longitude": 108.2302488
+    },
+    {
+        "category": "restaurants",
+        "title": "Le Comptoir",
+        "rating": 4.8,
+        "address": "16 Chế Lan Viên, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.042674599999998,
+        "longitude": 108.2454296
+    },
+    {
+        "category": "restaurants",
+        "title": "Bếp Hên",
+        "rating": 4.5,
+        "address": "47 Lê Hồng Phong, Phước Ninh, Hải Châu, Đà Nẵng 84236, Vietnam",
+        "latitude": 16.0639161,
+        "longitude": 108.22103609999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Nén Danang Restaurant",
+        "rating": 4.5,
+        "address": "16 đường Mỹ Đa Tây 2, Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0346026,
+        "longitude": 108.2395581
+    },
+    {
+        "category": "restaurants",
+        "title": "Red Sky Steakhouse",
+        "rating": 4.6,
+        "address": "248 Trần Phú, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0630599,
+        "longitude": 108.222984
+    },
+    {
+        "category": "restaurants",
+        "title": "Rasoi Indian Pure veg restaurant",
+        "rating": 4.7,
+        "address": "201 Lê Quang Đạo, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0484972,
+        "longitude": 108.2461956
+    },
+    {
+        "category": "cafes",
+        "title": "Trình cà phê",
+        "rating": 4.8,
+        "address": "25 Phạm Hồng Thái, Hải Châu, Đà Nẵng 55000, Vietnam",
+        "latitude": 16.0673825,
+        "longitude": 108.22173269999999
+    },
+    {
+        "category": "cafes",
+        "title": "Kaldi & More Coffee Shop",
+        "rating": 4.8,
+        "address": "29-31 Hùng Vương, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.068497999999998,
+        "longitude": 108.223168
+    },
+    {
+        "category": "cafes",
+        "title": "Cửa Ngõ Café – Cửa Hàng Số 2",
+        "rating": 4.5,
+        "address": "102 Nguyễn Thị Minh Khai, Thạch Thang, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0719706,
+        "longitude": 108.2181749
+    },
+    {
+        "category": "cafes",
+        "title": "Roost Coffee Roasters | Da Nang",
+        "rating": 4.9,
+        "address": "57 Bà Huyện Thanh Quan, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 50700, Vietnam",
+        "latitude": 16.0433923,
+        "longitude": 108.2440618
+    },
+    {
+        "category": "cafes",
+        "title": "XLIII Specialty Coffee",
+        "rating": 4.7,
+        "address": "422 Ngô Thì Sĩ, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.048087199999998,
+        "longitude": 108.24602329999999
+    },
+    {
+        "category": "cafes",
+        "title": "Highlands Coffee Indochina",
+        "rating": 4.2,
+        "address": "74 Bạch Đằng, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0699616,
+        "longitude": 108.22489809999999
+    },
+    {
+        "category": "cafes",
+        "title": "Ùmm Banh Mi & Cafe",
+        "rating": 4.7,
+        "address": "179 Lê Quang Đạo, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0496384,
+        "longitude": 108.2457965
+    },
+    {
+        "category": "cafes",
+        "title": "WONDERLUST - Coffee & Souvenir",
+        "rating": 4.6,
+        "address": "96 Trần Phú, Hải Châu, Đà Nẵng 840236, Vietnam",
+        "latitude": 16.0691557,
+        "longitude": 108.22384299999999
+    },
+    {
+        "category": "cafes",
+        "title": "Roots Plant-Based Cafe - Healthy vegan restaurant",
+        "rating": 4.7,
+        "address": "26-27 Trần Bạch Đằng, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0486723,
+        "longitude": 108.2478556
+    },
+    {
+        "category": "cafes",
+        "title": "Passion Café",
+        "rating": 4.9,
+        "address": "16 An Thượng 5, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 50000, Vietnam",
+        "latitude": 16.0487146,
+        "longitude": 108.24534489999999
+    },
+    {
+        "category": "cafes",
+        "title": "Út Tịch café",
+        "rating": 4.4,
+        "address": "73 Nguyễn Thái Học, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.068100299999998,
+        "longitude": 108.2227551
+    },
+    {
+        "category": "cafes",
+        "title": "The Hideout Cafe",
+        "rating": 4.7,
+        "address": "72/24 Nguyễn Văn Thoại, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.053404699999998,
+        "longitude": 108.2404308
+    },
+    {
+        "category": "cafes",
+        "title": "Wind Garden",
+        "rating": 4.3,
+        "address": "72 Lê Mạnh Trinh, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.074512,
+        "longitude": 108.2434614
+    },
+    {
+        "category": "cafes",
+        "title": "The Joy Cafe",
+        "rating": 4.9,
+        "address": "7 Nguyễn Thái Học, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0677959,
+        "longitude": 108.2245421
+    },
+    {
+        "category": "cafes",
+        "title": "Puna café",
+        "rating": 4.7,
+        "address": "132 Lê Quang Đạo, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0470279,
+        "longitude": 108.2464341
+    },
+    {
+        "category": "cafes",
+        "title": "ACACIA coffee and more",
+        "rating": 4.8,
+        "address": "05 An Cư 5, An Hải Bắc, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0740525,
+        "longitude": 108.24192579999999
+    },
+    {
+        "category": "cafes",
+        "title": "SIX ON SIX CAFE - BRUNCH & RESTAURANT",
+        "rating": 4.8,
+        "address": "64 Bà Huyện Thanh Quan, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0432336,
+        "longitude": 108.2442276
+    },
+    {
+        "category": "cafes",
+        "title": "NAM house Cafe",
+        "rating": 4.6,
+        "address": "khoảng 30 m, 15/1, số 15 Lê Hồng Phong, vô hẻm, Hải Châu, 550000, Vietnam",
+        "latitude": 16.0632856,
+        "longitude": 108.2222436
+    },
+    {
+        "category": "cafes",
+        "title": "Cafeholic Coffee",
+        "rating": 4.8,
+        "address": "52 Lê Lợi, Thạch Thang, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0786035,
+        "longitude": 108.2193211
+    },
+    {
+        "category": "cafes",
+        "title": "La Bicicleta café",
+        "rating": 4.6,
+        "address": "47 Quang Trung, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0748827,
+        "longitude": 108.2209735
+    },
+    {
+        "category": "waterfalls",
+        "title": "Thác An Bình Waterfall",
+        "rating": 4.7,
+        "address": "22CG+W5R, Hoà Ninh, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.022367499999998,
+        "longitude": 108.02539879999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Da Nang Waterfalls",
+        "rating": 5,
+        "address": null,
+        "latitude": 15.793925199999999,
+        "longitude": 105.9102332
+    },
+    {
+        "category": "waterfalls",
+        "title": "Toc Tien Waterfall station",
+        "rating": 4.4,
+        "address": "22GJ+QCF, Hoà Ninh, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.02693,
+        "longitude": 108.03103829999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Suoi Mo Waterfall",
+        "rating": 4.4,
+        "address": "V2JC+9G7, ĐạI Đồng, Đại Lộc, Quảng Nam, Vietnam",
+        "latitude": 15.8809046,
+        "longitude": 108.021299
+    },
+    {
+        "category": "waterfalls",
+        "title": "Suối Nhện",
+        "rating": 4.5,
+        "address": "XX4J+VXF, Phú Túc 2, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.957199099999999,
+        "longitude": 107.98241279999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Điểm đầu trượt thác Hoà Phú Thành",
+        "rating": 4.3,
+        "address": "QL14G, Hoà Phú, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.955431299999999,
+        "longitude": 107.9804688
+    },
+    {
+        "category": "waterfalls",
+        "title": "Hoa Phu Thanh Tourist Area",
+        "rating": 4.4,
+        "address": "Hoà Phú, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9577622,
+        "longitude": 107.99169769999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Secret Waterfall",
+        "rating": 4.3,
+        "address": "634F+HHW, TT. Lăng Cô, Phú Lộc, Thành phố Huế, Vietnam",
+        "latitude": 16.2064997,
+        "longitude": 108.0739548
+    },
+    {
+        "category": "waterfalls",
+        "title": "Rhododendron Falls",
+        "rating": 4.7,
+        "address": "5RPX+CGH, Lộc Trì, Phú Lộc, Thành phố Huế, Vietnam",
+        "latitude": 16.1860637,
+        "longitude": 107.8488672
+    },
+    {
+        "category": "waterfalls",
+        "title": "Giếng Trời",
+        "rating": 4.2,
+        "address": "Hoà Ninh, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.0347599,
+        "longitude": 107.9909156
+    },
+    {
+        "category": "waterfalls",
+        "title": "Thác nước thượng nguồn sông Thượng Lộ.",
+        "rating": 4.4,
+        "address": "4VP7+X9P, Hoà Bắc, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.137473099999998,
+        "longitude": 107.8634381
+    },
+    {
+        "category": "waterfalls",
+        "title": "Suối mơ Khe Răm",
+        "rating": 4.6,
+        "address": "43WH+G6R, Hoà Bắc, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.1463556,
+        "longitude": 108.0780073
+    },
+    {
+        "category": "waterfalls",
+        "title": "Khe Suối Cày",
+        "rating": 4.6,
+        "address": "Hòa Bắc, Hòa Vang, Da Nang, Vietnam",
+        "latitude": 16.161756099999998,
+        "longitude": 108.0353451
+    },
+    {
+        "category": "waterfalls",
+        "title": "Bồ Ghè waterfall",
+        "rating": 4.1,
+        "address": "7X3R+59R, Unnamed, Road, Phú Lộc, Thành phố Huế, Vietnam",
+        "latitude": 16.252978,
+        "longitude": 107.99087999999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Ba Na Hills",
+        "rating": 4.4,
+        "address": "Thôn An Sơn, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9951364,
+        "longitude": 107.9961392
+    },
+    {
+        "category": "waterfalls",
+        "title": "Suoi Mo Garden",
+        "rating": 4.5,
+        "address": "XXWW+H4W, Hoà Phú, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.996489899999998,
+        "longitude": 107.9953379
+    },
+    {
+        "category": "waterfalls",
+        "title": "Suối Lạc",
+        "rating": 4.9,
+        "address": "4W5R+3J, Hoà Bắc, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.1077424,
+        "longitude": 107.9415506
+    },
+    {
+        "category": "lakes",
+        "title": "29/3 Park Lake",
+        "rating": 4.3,
+        "address": "Thanh Khê District, Da Nang 550000, Vietnam",
+        "latitude": 16.062946,
+        "longitude": 108.2055027
+    },
+    {
+        "category": "lakes",
+        "title": "Thac Gian Lake",
+        "rating": 4.5,
+        "address": "Thanh Khê District, Da Nang 550000, Vietnam",
+        "latitude": 16.0634563,
+        "longitude": 108.2097653
+    },
+    {
+        "category": "lakes",
+        "title": "Da Nang Bay",
+        "rating": 4.7,
+        "address": "Vietnam",
+        "latitude": 16.1243263,
+        "longitude": 108.17855949999999
+    },
+    {
+        "category": "lakes",
+        "title": "Da Nang Bay",
+        "rating": 4.5,
+        "address": "Vietnam",
+        "latitude": 16.1243263,
+        "longitude": 108.17855949999999
+    },
+    {
+        "category": "lakes",
+        "title": "Tram Lake",
+        "rating": 4.4,
+        "address": "Hòa Hiệp Nam, Liên Chiểu, Da Nang, Vietnam",
+        "latitude": 16.0950509,
+        "longitude": 108.1332317
+    },
+    {
+        "category": "beaches",
+        "title": "My Khe Beach",
+        "rating": 4.7,
+        "address": "Da Nang 550000, Vietnam",
+        "latitude": 16.0616944,
+        "longitude": 108.24693459999999
+    },
+    {
+        "category": "beaches",
+        "title": "My Khe Beach",
+        "rating": 4.5,
+        "address": "Phước Mỹ, Sơn Trà, Da Nang 550000, Vietnam",
+        "latitude": 16.047,
+        "longitude": 108.25
+    },
+    {
+        "category": "beaches",
+        "title": "Non Nuoc Beach",
+        "rating": 4.4,
+        "address": "Hoa Hai, Ngũ Hành Sơn, Da Nang 550000, Vietnam",
+        "latitude": 15.995533499999999,
+        "longitude": 108.2738648
+    },
+    {
+        "category": "beaches",
+        "title": "Black Rock Beach",
+        "rating": 4.2,
+        "address": "Thọ Quang, Sơn Trà, Da Nang, Vietnam",
+        "latitude": 16.1474562,
+        "longitude": 108.23380429999999
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi tắm Mân Thái",
+        "rating": 4.4,
+        "address": "Hoàng Sa, Mân Thái, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.089021199999998,
+        "longitude": 108.24959419999999
+    },
+    {
+        "category": "beaches",
+        "title": "North Beach",
+        "rating": 3.6,
+        "address": "Thọ Quang, Sơn Trà, Da Nang, Vietnam",
+        "latitude": 16.123188799999998,
+        "longitude": 108.30680199999999
+    },
+    {
+        "category": "beaches",
+        "title": "Biển Thanh Bình",
+        "rating": 3.6,
+        "address": "Ông Ích Khiêm, Thanh Bình, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0808998,
+        "longitude": 108.20690649999999
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi Đá",
+        "rating": 4.2,
+        "address": "Thọ Quang, Sơn Trà, Da Nang, Vietnam",
+        "latitude": 16.0991353,
+        "longitude": 108.3008352
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi tắm Phạm Văn Đồng",
+        "rating": 4.6,
+        "address": "Da Nang, Vietnam",
+        "latitude": 16.0732782,
+        "longitude": 108.2468342
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi biển Tiên Sa",
+        "rating": 4.1,
+        "address": "Da Nang, Vietnam",
+        "latitude": 16.1233125,
+        "longitude": 108.21912479999999
+    },
+    {
+        "category": "beaches",
+        "title": "Lang Co Beach",
+        "rating": 4.5,
+        "address": "Hue City, Vietnam",
+        "latitude": 16.268815699999998,
+        "longitude": 108.06422099999999
+    },
+    {
+        "category": "beaches",
+        "title": "Phước Mỹ Beach",
+        "rating": 4.7,
+        "address": "36CW+4JQ, Đường võ nguyên giáp, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.070325999999998,
+        "longitude": 108.24661929999999
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi biển Sơn Trà",
+        "rating": 4.8,
+        "address": "Bến Xe Bus, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.0991295,
+        "longitude": 108.25506159999999
+    },
+    {
+        "category": "beaches",
+        "title": "Xoan peninsula",
+        "rating": 4.6,
+        "address": "Hoà Hiệp Bắc, Liên Chiểu, Đà Nẵng, Vietnam",
+        "latitude": 16.1668792,
+        "longitude": 108.1506285
+    },
+    {
+        "category": "beaches",
+        "title": "Tan Tra Beach",
+        "rating": 4.6,
+        "address": "X7QG+HJJ, Võ Quí Huân, Khu đô thị FPT City, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 15.988969399999998,
+        "longitude": 108.2765196
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi tắm T20",
+        "rating": 4.4,
+        "address": "Da Nang, Vietnam",
+        "latitude": 16.0398823,
+        "longitude": 108.2531363
+    },
+    {
+        "category": "beaches",
+        "title": "Biển Kim Liên",
+        "rating": 4.4,
+        "address": "44HF+4RR, Nguyễn Phước Chu, Hoà Hiệp Bắc, Liên Chiểu, Đà Nẵng, Vietnam",
+        "latitude": 16.1278744,
+        "longitude": 108.1245155
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi Tắm Non Nước",
+        "rating": 4.5,
+        "address": "273C+42, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0027923,
+        "longitude": 108.2699727
+    },
+    {
+        "category": "beaches",
+        "title": "An Bang Beach",
+        "rating": 4.3,
+        "address": "W87R+C7R, Đ. Hai Bà Trưng, Hội An, Quảng Nam, Vietnam",
+        "latitude": 15.9136072,
+        "longitude": 108.34064889999999
+    },
+    {
+        "category": "beaches",
+        "title": "Vanessa Beach",
+        "rating": 3.9,
+        "address": "X79Q+859, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng, Vietnam",
+        "latitude": 15.9682921,
+        "longitude": 108.2879988
+    },
+    {
+        "category": "swimming pools",
+        "title": "Euro Village 2 Swimming Pool",
+        "rating": 4.2,
+        "address": "4 Giáng Hương, Hoà Xuân, Cẩm Lệ, Đà Nẵng, Vietnam",
+        "latitude": 16.024942199999998,
+        "longitude": 108.23030279999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bể bơi Fuji Swimming CLub Danang",
+        "rating": 4.5,
+        "address": "16 Lý Thường Kiệt, Thạch Thang, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.080234,
+        "longitude": 108.2199936
+    },
+    {
+        "category": "swimming pools",
+        "title": "BƠI DAT - 36A Trần Phú",
+        "rating": 4.6,
+        "address": "36A Trần Phú, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0737748,
+        "longitude": 108.2233176
+    },
+    {
+        "category": "swimming pools",
+        "title": "Meliá Vinpearl Danang Riverfront",
+        "rating": 4.9,
+        "address": "Đ. Trần Hưng Đạo, An Hải Bắc, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0711221,
+        "longitude": 108.2294441
+    },
+    {
+        "category": "swimming pools",
+        "title": "Câu Lạc Bộ Bơi Lặn Đà Nẵng",
+        "rating": 4.1,
+        "address": "26PF+4MX, Đ. 2 Tháng 9, Hoà Cường Bắc, Hải Châu, Đà Nẵng, Vietnam",
+        "latitude": 16.0353595,
+        "longitude": 108.224229
+    },
+    {
+        "category": "swimming pools",
+        "title": "Samdi Hotel Da Nang",
+        "rating": 4,
+        "address": "331 Nguyễn Văn Linh, Thạc Gián, Thanh Khê, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.059283399999998,
+        "longitude": 108.2084984
+    },
+    {
+        "category": "swimming pools",
+        "title": "Premier Village Danang Resort - Managed by Accor",
+        "rating": 4.7,
+        "address": "99 Võ Nguyên Giáp, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0420899,
+        "longitude": 108.2507504
+    },
+    {
+        "category": "swimming pools",
+        "title": "THE BLOSSOM RESORT ISLAND DA NANG - Onsen Included",
+        "rating": 4.6,
+        "address": "khu đảo xanh mở rộng, Hoà Cường Bắc, Hải Châu, Đà Nẵng 23445, Vietnam",
+        "latitude": 16.0450402,
+        "longitude": 108.2269589
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hồ bơi sân thượng - Khách sạn biển Diamond Sea",
+        "rating": 4.7,
+        "address": "232 Đường võ nguyên giáp, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.066619799999998,
+        "longitude": 108.244946
+    },
+    {
+        "category": "swimming pools",
+        "title": "Novotel Danang Premier Han River",
+        "rating": 4.6,
+        "address": "36 Bạch Đằng, Street, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.077411899999998,
+        "longitude": 108.2236307
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sala Danang Beach Hotel",
+        "rating": 4.6,
+        "address": "36-38 Lâm Hoành, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0622243,
+        "longitude": 108.24518139999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hilton Da Nang",
+        "rating": 4.6,
+        "address": "50 Bạch Đằng, Hải Châu, Đà Nẵng 50000, Vietnam",
+        "latitude": 16.0726665,
+        "longitude": 108.22428599999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hồ bơi nước ấm trong nhà Melia",
+        "rating": 5,
+        "address": "36CH+FM4, An Hải, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0711395,
+        "longitude": 108.2291987
+    },
+    {
+        "category": "resorts",
+        "title": "InterContinental Danang Sun Peninsula Resort",
+        "rating": 4.9,
+        "address": "Bãi Bắc, Thọ Quang, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.1208274,
+        "longitude": 108.3062154
+    },
+    {
+        "category": "resorts",
+        "title": "Hyatt Regency Danang Resort and Spa",
+        "rating": 4.5,
+        "address": "5 Truong Sa Street, Ngu Hanh Son Ward, Danang, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0130143,
+        "longitude": 108.2641979
+    },
+    {
+        "category": "resorts",
+        "title": "Da Nang Mikazuki Japanese Resorts & Spa",
+        "rating": 4.7,
+        "address": "Nguyễn Tất Thành, Hoà Hiệp Nam, Liên Chiểu, Đà Nẵng 55000, Vietnam",
+        "latitude": 16.0934791,
+        "longitude": 108.1443985
+    },
+    {
+        "category": "resorts",
+        "title": "Premier Village Danang Resort - Managed by Accor",
+        "rating": 4.7,
+        "address": "99 Võ Nguyên Giáp, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0420899,
+        "longitude": 108.2507504
+    },
+    {
+        "category": "resorts",
+        "title": "Danang Marriott Resort & Spa",
+        "rating": 4.5,
+        "address": "No 07 Trường Sa, Street, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0056908,
+        "longitude": 108.26655
+    },
+    {
+        "category": "resorts",
+        "title": "Naman Retreat",
+        "rating": 4.7,
+        "address": "Trường Sa, Road, Đà Nẵng, 550000, Vietnam",
+        "latitude": 15.9697155,
+        "longitude": 108.2842484
+    },
+    {
+        "category": "resorts",
+        "title": "Meliá Danang Beach Resort",
+        "rating": 4.6,
+        "address": "19 Trường Sa, Group 39, Ngũ Hành Sơn, Đà Nẵng 50000, Vietnam",
+        "latitude": 16.0000392,
+        "longitude": 108.26746059999999
+    },
+    {
+        "category": "resorts",
+        "title": "KOI Resort & Residence Da Nang",
+        "rating": 4.3,
+        "address": "11 Trường Sa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.003675299999998,
+        "longitude": 108.2669049
+    },
+    {
+        "category": "resorts",
+        "title": "Furama Resort Danang",
+        "rating": 4.5,
+        "address": "105 Đường võ nguyên giáp, Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0399456,
+        "longitude": 108.2510681
+    },
+    {
+        "category": "resorts",
+        "title": "The Ocean Villas",
+        "rating": 4.4,
+        "address": "Trường Sa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 15.974840899999998,
+        "longitude": 108.2811759
+    },
+    {
+        "category": "resorts",
+        "title": "Sheraton Grand Danang Beach Resort & Spa",
+        "rating": 4.5,
+        "address": "35 Truong Sa Street Ngu Hanh Son ward Da Nang, Quảng Nam 550000, Vietnam",
+        "latitude": 15.9810392,
+        "longitude": 108.2779915
+    },
+    {
+        "category": "resorts",
+        "title": "THE BLOSSOM RESORT ISLAND DA NANG - Onsen Included",
+        "rating": 4.6,
+        "address": "khu đảo xanh mở rộng, Hoà Cường Bắc, Hải Châu, Đà Nẵng 23445, Vietnam",
+        "latitude": 16.0450402,
+        "longitude": 108.2269589
+    },
+    {
+        "category": "resorts",
+        "title": "Sandy Beach Non Nuoc Resort",
+        "rating": 4.3,
+        "address": "21 Trường Sa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 15.998306999999999,
+        "longitude": 108.27130369999999
+    },
+    {
+        "category": "resorts",
+        "title": "Son Tra Resort & Spa",
+        "rating": 4.2,
+        "address": "Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.106287,
+        "longitude": 108.295063
+    },
+    {
+        "category": "resorts",
+        "title": "Hilton Da Nang",
+        "rating": 4.6,
+        "address": "50 Bạch Đằng, Hải Châu, Đà Nẵng 50000, Vietnam",
+        "latitude": 16.0726665,
+        "longitude": 108.22428599999999
+    },
+    {
+        "category": "resorts",
+        "title": "TIA Wellness Resort",
+        "rating": 4.6,
+        "address": "109 Võ Nguyên Giáp, Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng 557276, Vietnam",
+        "latitude": 16.031278099999998,
+        "longitude": 108.25436429999999
+    },
+    {
+        "category": "resorts",
+        "title": "Risemount Premier Resort Danang",
+        "rating": 4.5,
+        "address": "120B Nguyễn Văn Thoại, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 59000, Vietnam",
+        "latitude": 16.0546179,
+        "longitude": 108.2420798
+    },
+    {
+        "category": "resorts",
+        "title": "Crowne Plaza Danang by IHG",
+        "rating": 4.3,
+        "address": "8 Võ Nguyên Giáp, Street, Ward, Đà Nẵng, Vietnam",
+        "latitude": 16.027353899999998,
+        "longitude": 108.25652939999999
+    },
+    {
+        "category": "resorts",
+        "title": "Mercure Danang French Village Bana Hills",
+        "rating": 4.7,
+        "address": "An Son Hoa Son Commune, Hòa Vang, Đà Nẵng 550000, Vietnam",
+        "latitude": 15.997428,
+        "longitude": 107.988292
+    },
+    {
+        "category": "resorts",
+        "title": "The Five Villas Đà Nẵng",
+        "rating": 4.8,
+        "address": "Trường Sa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 15.9759967,
+        "longitude": 108.2827866
+    },
+    {
+        "category": "camping sites",
+        "title": "Yên Retreat",
+        "rating": 4.5,
+        "address": "Hoà Bắc, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.137781699999998,
+        "longitude": 108.05821329999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Hoà Bắc Ecolodge - Camping Space Art",
+        "rating": 4.3,
+        "address": "Bầu Bàng, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.1356645,
+        "longitude": 108.0469423
+    },
+    {
+        "category": "camping sites",
+        "title": "BANA RITA GLAMPING FARM",
+        "rating": 4.5,
+        "address": "Bà Nà - Suối Mơ, Hoà Phú, Hòa Vang, Đà Nẵng 58012, Vietnam",
+        "latitude": 16.017716,
+        "longitude": 108.06961989999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Làng Mê",
+        "rating": 4.3,
+        "address": "Ven sông, Bầu Bàng, cu đê, Đà Nẵng 50810, Vietnam",
+        "latitude": 16.1366329,
+        "longitude": 108.0424912
+    },
+    {
+        "category": "camping sites",
+        "title": "VỌC Glamping",
+        "rating": 4.2,
+        "address": "Đối diện 183, Đ. Nam Cao, Hoà Khánh Nam, Liên Chiểu, Đà Nẵng 50607, Vietnam",
+        "latitude": 16.0598806,
+        "longitude": 108.14766399999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Cu Đê Camping official",
+        "rating": 4.4,
+        "address": "City, Làng Mê, Dọc Sông Cu Đê, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.1345039,
+        "longitude": 108.0447804
+    },
+    {
+        "category": "camping sites",
+        "title": "Hải Vân Xanh Glamping",
+        "rating": 4.2,
+        "address": "Đèo Hải Vân, Liên Chiểu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.153187499999998,
+        "longitude": 108.1339375
+    },
+    {
+        "category": "camping sites",
+        "title": "Tuấn Lê Glamping",
+        "rating": 4.5,
+        "address": "42MC+739, ĐT601, Hoà Bắc, Hòa Vang, Đà Nẵng 50000, Vietnam",
+        "latitude": 16.1326444,
+        "longitude": 108.0202726
+    },
+    {
+        "category": "camping sites",
+        "title": "Bãi Cháy",
+        "rating": 4.6,
+        "address": "4729+9GF, Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.100941199999998,
+        "longitude": 108.26878409999999
+    },
+    {
+        "category": "camping sites",
+        "title": "ĐỦNG ĐỈNH CAMPING & NAM YÊN CAMPING",
+        "rating": 4.4,
+        "address": "Thôn Nam Yên, Hòa Vang, Đà Nẵng 55000, Vietnam",
+        "latitude": 16.133693,
+        "longitude": 108.0510846
+    },
+    {
+        "category": "camping sites",
+        "title": "Bãi Kè Cạn",
+        "rating": 4.5,
+        "address": "4756+X6, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.109948499999998,
+        "longitude": 108.2605423
+    },
+    {
+        "category": "camping sites",
+        "title": "Hoa Trung Lake",
+        "rating": 4.4,
+        "address": "33J5+3Q3, Tân Ninh, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.0801438,
+        "longitude": 108.059412
+    },
+    {
+        "category": "camping sites",
+        "title": "BORO Campsite",
+        "rating": 4.4,
+        "address": "XX4G+F5Q, :, Hoà Phú, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.956187499999999,
+        "longitude": 107.9754375
+    },
+    {
+        "category": "camping sites",
+        "title": "Gò Dậy Glamping",
+        "rating": 4.4,
+        "address": "Thôn Thạch Nham Tây, Hoà Nhơn, Hòa Vang, Đà Nẵng 50800, Vietnam",
+        "latitude": 16.0096952,
+        "longitude": 108.137011
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Dừa Xanh",
+        "rating": 4.3,
+        "address": "Thôn Phò Nam, Hoà Bắc, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.1301483,
+        "longitude": 108.0501371
+    },
+    {
+        "category": "camping sites",
+        "title": "BÌNH AN FARM",
+        "rating": 5,
+        "address": "Đường ADB5, Bầu Bàng, Hải Châu, Đà Nẵng, Vietnam",
+        "latitude": 16.1359133,
+        "longitude": 108.0548783
+    },
+    {
+        "category": "camping sites",
+        "title": "Làng Toom Sara Đà Nẵng",
+        "rating": 4.5,
+        "address": "Phú Túc, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9574226,
+        "longitude": 107.9949721
+    },
+    {
+        "category": "camping sites",
+        "title": "Róc Rách Glamping",
+        "rating": 3.8,
+        "address": "QL14G, Hoà Phú, Hòa Vang, Đà Nẵng 550000, Vietnam",
+        "latitude": 15.9562128,
+        "longitude": 107.9716194
+    },
+    {
+        "category": "camping sites",
+        "title": "DAD CAMP",
+        "rating": 5,
+        "address": "Thôn Hoà Trung, Hòa Vang, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0627168,
+        "longitude": 108.05473789999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Tabalo Outdoor & Camping",
+        "rating": 4.9,
+        "address": "336 Lê Duẩn, Chính Gián, Thanh Khê, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0689874,
+        "longitude": 108.20913039999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ban Co Peak",
+        "rating": 4.6,
+        "address": "Bàn cờ, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.1189365,
+        "longitude": 108.2719826
+    },
+    {
+        "category": "hiking trails",
+        "title": "The Marble Mountains",
+        "rating": 4.3,
+        "address": "81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0037104,
+        "longitude": 108.2631605
+    },
+    {
+        "category": "hiking trails",
+        "title": "Da Nang Waterfalls",
+        "rating": 5,
+        "address": null,
+        "latitude": 15.793925199999999,
+        "longitude": 105.9102332
+    },
+    {
+        "category": "hiking trails",
+        "title": "Mũi Nghê",
+        "rating": 4.5,
+        "address": "Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.118624399999998,
+        "longitude": 108.3368715
+    },
+    {
+        "category": "hiking trails",
+        "title": "Giếng Trời",
+        "rating": 4.2,
+        "address": "Hoà Ninh, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.0347599,
+        "longitude": 107.9909156
+    },
+    {
+        "category": "hiking trails",
+        "title": "PHỐ ĐI BỘ VÀ ẨM THỰC AN THƯỢNG",
+        "rating": 4.1,
+        "address": "226 Hoàng Kế Viêm, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0497344,
+        "longitude": 108.2469002
+    },
+    {
+        "category": "hiking trails",
+        "title": "Ba Na Hills",
+        "rating": 4.4,
+        "address": "Thôn An Sơn, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9951364,
+        "longitude": 107.9961392
+    },
+    {
+        "category": "hiking trails",
+        "title": "Phố đi bộ Bạch Đằng Đà Nẵng - Danang walking street",
+        "rating": 4.6,
+        "address": "365F+RJJ, Bạch Đằng, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0595812,
+        "longitude": 108.22401599999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Dragon Bridge",
+        "rating": 4.5,
+        "address": "Cầu Rồng, An Hải, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0611042,
+        "longitude": 108.2276926
+    },
+    {
+        "category": "hiking trails",
+        "title": "Tabalo Outdoor",
+        "rating": 4.9,
+        "address": "44 Nguyễn Thái Học, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.068289,
+        "longitude": 108.2234108
+    },
+    {
+        "category": "hiking trails",
+        "title": "Golden Bridge",
+        "rating": 4.6,
+        "address": "XXVW+XJ, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.994937499999999,
+        "longitude": 107.9965625
+    },
+    {
+        "category": "hiking trails",
+        "title": "Lady Buddha",
+        "rating": 4.7,
+        "address": "Vườn Lâm Tỳ Ni, Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.0996678,
+        "longitude": 108.2769531
+    },
+    {
+        "category": "hiking trails",
+        "title": "Con Market",
+        "rating": 4.3,
+        "address": "90 Hùng Vương, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0677927,
+        "longitude": 108.21448339999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Queen Spa Danang",
+        "rating": 4.8,
+        "address": "144 Phạm Cự Lượng, An Hải Bắc, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0597584,
+        "longitude": 108.23639569999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bạch Mã National Park",
+        "rating": 4.6,
+        "address": "Lộc Trì, Phú Lộc, Thành phố Huế, Vietnam",
+        "latitude": 16.2163583,
+        "longitude": 107.8937184
+    },
+    {
+        "category": "hiking trails",
+        "title": "Dacotours - Da Nang Tours",
+        "rating": 5,
+        "address": "195 Đặng Vũ Hỷ, An Hải Đông, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0554622,
+        "longitude": 108.2410993
+    },
+    {
+        "category": "hiking trails",
+        "title": "Han Market",
+        "rating": 3.9,
+        "address": "119 Trần Phú, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0681959,
+        "longitude": 108.2242217
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "The Marble Mountains",
+        "rating": 4.3,
+        "address": "81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0037104,
+        "longitude": 108.2631605
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Vietnam Eco-Tours - Day Tours",
+        "rating": 4.9,
+        "address": "04 Cổ Mân 3, Nại Hiên Đông, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0890795,
+        "longitude": 108.2384714
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "HIVOOC",
+        "rating": 5,
+        "address": "Kiệt 39 Thành Vinh 1, Thọ Quang, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.1058088,
+        "longitude": 108.25229859999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Làng Mê",
+        "rating": 4.3,
+        "address": "Ven sông, Bầu Bàng, cu đê, Đà Nẵng 50810, Vietnam",
+        "latitude": 16.1366329,
+        "longitude": 108.0424912
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Khu du lịch sinh thái Suối Hoa",
+        "rating": 3.5,
+        "address": "QL14G, Hoà Phú, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.958409999999999,
+        "longitude": 107.99502129999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Lap An Lagoon",
+        "rating": 4.3,
+        "address": "TT. Lăng Cô, Phú Lộc, Thành phố Huế 49000, Vietnam",
+        "latitude": 16.221421799999998,
+        "longitude": 108.0615629
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Next Continent: Wildlife, Photography and Natural History Tours",
+        "rating": 5,
+        "address": null,
+        "latitude": 15.850179899999999,
+        "longitude": 107.0652008
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ban Co Peak",
+        "rating": 4.6,
+        "address": "Bàn cờ, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.1189365,
+        "longitude": 108.2719826
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ba Na Hills",
+        "rating": 4.4,
+        "address": "Thôn An Sơn, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9951364,
+        "longitude": 107.9961392
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Golden Bridge",
+        "rating": 4.6,
+        "address": "XXVW+XJ, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.994937499999999,
+        "longitude": 107.9965625
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Nam Yên Village",
+        "rating": 4,
+        "address": "Đường liên thôn, Bầu Bàng, Đà Nẵng, 550000, Vietnam",
+        "latitude": 16.1345265,
+        "longitude": 108.0454335
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Eco Green Boutique Hotel Da Nang",
+        "rating": 4.7,
+        "address": "1 An Thượng 3, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0496071,
+        "longitude": 108.2466922
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Hoi An Station",
+        "rating": 4.5,
+        "address": "Hoà Ninh, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.025252899999998,
+        "longitude": 108.0317058
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Coconut village",
+        "rating": 4.9,
+        "address": "Khối Thanh Tây, Hội An, Quảng Nam, Vietnam",
+        "latitude": 15.8872608,
+        "longitude": 108.3569686
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Đình làng Túy Loan",
+        "rating": 4.3,
+        "address": "Thôn Túy Loan, Hoà Phong, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9975638,
+        "longitude": 108.13659829999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Vietnam Shore Excursions",
+        "rating": null,
+        "address": "02 Trần Phú, Street, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0823043,
+        "longitude": 108.2223023
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Nam Sơn",
+        "rating": 4.7,
+        "address": "Nguyễn Khả Trạc, Hoà Châu, Hòa Vang, Đà Nẵng 550000, Vietnam",
+        "latitude": 15.998676,
+        "longitude": 108.20515259999999
+    },
+    {
+        "category": "temples",
+        "title": "An Long Temple",
+        "rating": 4.5,
+        "address": "4 Đ. 2 Tháng 9, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0597945,
+        "longitude": 108.223266
+    },
+    {
+        "category": "temples",
+        "title": "Pho Da Temple",
+        "rating": 4.6,
+        "address": "340 Phan Châu Trinh, Bình Thuận, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0559509,
+        "longitude": 108.21865559999999
+    },
+    {
+        "category": "temples",
+        "title": "Ba Da Pagoda",
+        "rating": 4.7,
+        "address": "2 An Tư Công Chúa, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng, Vietnam",
+        "latitude": 16.0375656,
+        "longitude": 108.2405163
+    },
+    {
+        "category": "temples",
+        "title": "Lady Buddha",
+        "rating": 4.7,
+        "address": "Vườn Lâm Tỳ Ni, Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.0996678,
+        "longitude": 108.2769531
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Pháp Lâm",
+        "rating": 4.6,
+        "address": "574 Ông Ích Khiêm, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0622908,
+        "longitude": 108.2155449
+    },
+    {
+        "category": "temples",
+        "title": "Non Nuoc Pagoda",
+        "rating": 4.4,
+        "address": "Hòn Thủy Sơn, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0027644,
+        "longitude": 108.2645824
+    },
+    {
+        "category": "temples",
+        "title": "Quan The Am Pagoda",
+        "rating": 4.7,
+        "address": "48 Sư Vạn Hạnh, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 15.9987511,
+        "longitude": 108.2551427
+    },
+    {
+        "category": "temples",
+        "title": "Pho Quang Temple",
+        "rating": 4.6,
+        "address": "36JH+CJP, 93 Đ. Trần Hưng Đạo, Nại Hiên Đông, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0812311,
+        "longitude": 108.2291467
+    },
+    {
+        "category": "temples",
+        "title": "Tam Thai Pagoda",
+        "rating": 4.6,
+        "address": "2736+GXP, Hòn Thủy Sơn, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.003842499999998,
+        "longitude": 108.2624426
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Bát Nhã",
+        "rating": 4.7,
+        "address": "176 Triệu Nữ Vương, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0615456,
+        "longitude": 108.2166688
+    },
+    {
+        "category": "temples",
+        "title": "Thiền Viện Bồ Đề",
+        "rating": 4.7,
+        "address": "358F+52M, Hoàng Thị Loan, Hoà Minh, Liên Chiểu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0654698,
+        "longitude": 108.1725438
+    },
+    {
+        "category": "temples",
+        "title": "Linh Ứng Pagoda",
+        "rating": 4.7,
+        "address": "472H+435, Vườn Lâm Tỳ Ni, Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.1002606,
+        "longitude": 108.2777478
+    },
+    {
+        "category": "temples",
+        "title": "Buu Dai Son Pagoda",
+        "rating": 4.6,
+        "address": "31 Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.1010784,
+        "longitude": 108.2559747
+    },
+    {
+        "category": "temples",
+        "title": "Hong An Pagoda",
+        "rating": 4.8,
+        "address": "149 Lý Đạo Thành, An Hải, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0845111,
+        "longitude": 108.23633609999999
+    },
+    {
+        "category": "temples",
+        "title": "Tháp Xá Lợi",
+        "rating": 4.7,
+        "address": "37XJ+X26, Linh Ung Pagoda, Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.099915199999998,
+        "longitude": 108.28000709999999
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Linh Ứng – Ngũ Hành Sơn",
+        "rating": 4.6,
+        "address": "2737+JPW, Hòn Thủy Sơn, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.004103999999998,
+        "longitude": 108.2643164
+    },
+    {
+        "category": "temples",
+        "title": "GHPGVN TP ĐÀ NẴNG - CHÙA ĐÀ SƠN",
+        "rating": 4.5,
+        "address": "34 Đ. Đà Sơn 2, Hoà Khánh Nam, Liên Chiểu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0526785,
+        "longitude": 108.15302349999999
+    },
+    {
+        "category": "museums",
+        "title": "Đà Nẵng Museum",
+        "rating": 4.2,
+        "address": "31 Trần Phú, P, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.074554199999998,
+        "longitude": 108.2239668
+    },
+    {
+        "category": "museums",
+        "title": "Da Nang Museum of Cham Sculpture",
+        "rating": 4.2,
+        "address": "02 Đ. 2 Tháng 9, Phường, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0603007,
+        "longitude": 108.2232677
+    },
+    {
+        "category": "museums",
+        "title": "Danang Fine Arts Museum",
+        "rating": 4.5,
+        "address": "78 Lê Duẩn, Thạch Thang, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0711877,
+        "longitude": 108.21794109999999
+    },
+    {
+        "category": "museums",
+        "title": "3D Museum Art in paradise Da Nang",
+        "rating": 4.4,
+        "address": "Lô 10, Trần Nhân Tông, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.0954282,
+        "longitude": 108.2431088
+    },
+    {
+        "category": "museums",
+        "title": "Ho Chi Minh Museum",
+        "rating": 4.3,
+        "address": "26X9+F2G, Duy Tân, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0486814,
+        "longitude": 108.217581
+    },
+    {
+        "category": "museums",
+        "title": "Dong Dinh Museum",
+        "rating": 4.1,
+        "address": "Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.1011538,
+        "longitude": 108.2753793
+    },
+    {
+        "category": "night markets",
+        "title": "An Thuong Night Market",
+        "rating": 3.3,
+        "address": "362X+42G, 29 An Thượng 29, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0503031,
+        "longitude": 108.2474826
+    },
+    {
+        "category": "night markets",
+        "title": "Han Market",
+        "rating": 3.9,
+        "address": "119 Trần Phú, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0681959,
+        "longitude": 108.2242217
+    },
+    {
+        "category": "night markets",
+        "title": "Nai Hien Market",
+        "rating": 3.9,
+        "address": "17 Trưng Nữ Vương, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0597162,
+        "longitude": 108.2221998
+    },
+    {
+        "category": "night markets",
+        "title": "Con Market",
+        "rating": 4.3,
+        "address": "90 Hùng Vương, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0677927,
+        "longitude": 108.21448339999999
+    },
+    {
+        "category": "night markets",
+        "title": "Hội An Night Market",
+        "rating": 4.4,
+        "address": "Nguyễn Hoàng, Phường Minh An, Hội An, Quảng Nam, Vietnam",
+        "latitude": 15.8759693,
+        "longitude": 108.3260184
+    },
+    {
+        "category": "night markets",
+        "title": "Bac My An Market",
+        "rating": 4.3,
+        "address": "25 Nguyễn Bá Lân, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0415773,
+        "longitude": 108.24226639999999
+    },
+    {
+        "category": "night markets",
+        "title": "선짜야시장",
+        "rating": 3.6,
+        "address": "Vietnam, Đà Nẵng, Sơn Trà, An Hải Tây, An Hải, Lý Nam Đế",
+        "latitude": 16.0607807,
+        "longitude": 108.23116979999999
+    },
+    {
+        "category": "night markets",
+        "title": "Da Nang Outdoor Market",
+        "rating": 3.7,
+        "address": "3697+2R6, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0675451,
+        "longitude": 108.2145046
+    },
+    {
+        "category": "night markets",
+        "title": "Chợ Hà Thân",
+        "rating": 4,
+        "address": "01 Triệu Việt Vương, An Hải Trung, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0646977,
+        "longitude": 108.23113869999999
+    },
+    {
+        "category": "night markets",
+        "title": "Helio Night Market",
+        "rating": 4.1,
+        "address": "Đ. 2 Tháng 9, Hoà Cường Bắc, Hải Châu, Đà Nẵng, Vietnam",
+        "latitude": 16.037223,
+        "longitude": 108.2245568
+    },
+    {
+        "category": "night markets",
+        "title": "Taco NGON – Night Market Son Tra",
+        "rating": 4.2,
+        "address": "J25 Chợ Đêm, Lý Nam Đế, An Hải Trung, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0621719,
+        "longitude": 108.2323492
+    },
+    {
+        "category": "night markets",
+        "title": "Chợ Đống Đa",
+        "rating": 4.2,
+        "address": "42 Lương Ngọc Quyến, Thuận Phước, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0813701,
+        "longitude": 108.2171915
+    },
+    {
+        "category": "night markets",
+        "title": "Thanh Binh Market",
+        "rating": 4.3,
+        "address": "Ông Ích Khiêm, Thanh Bình, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0766635,
+        "longitude": 108.2114218
+    },
+    {
+        "category": "night markets",
+        "title": "Market Nguyen Tri Phuong",
+        "rating": 4.1,
+        "address": "Nguyễn Quang Bích, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0426103,
+        "longitude": 108.21202319999999
+    },
+    {
+        "category": "night markets",
+        "title": "Da Nang",
+        "rating": null,
+        "address": "Hải Châu District, Da Nang, Vietnam",
+        "latitude": 16.0599691,
+        "longitude": 108.21111099999999
+    },
+    {
+        "category": "night markets",
+        "title": "Hee! mart",
+        "rating": 3.4,
+        "address": "31 Võ Văn Kiệt, Phước Mỹ, Sơn Trà, Đà Nẵng 50000, Vietnam",
+        "latitude": 16.063354,
+        "longitude": 108.2442416
+    },
+    {
+        "category": "viewpoints",
+        "title": "Han River Bridge Viewpoint",
+        "rating": 4.5,
+        "address": "36CG+RC6, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0720345,
+        "longitude": 108.2260117
+    },
+    {
+        "category": "viewpoints",
+        "title": "The Marble Mountains",
+        "rating": 4.3,
+        "address": "81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0037104,
+        "longitude": 108.2631605
+    },
+    {
+        "category": "viewpoints",
+        "title": "Sunset view point (bờ kè)",
+        "rating": 4.8,
+        "address": "36WF+4H8, Nại Hiên Đông, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.095291,
+        "longitude": 108.22395159999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Sun Wheel",
+        "rating": 4.5,
+        "address": "1 Phan Đăng Lưu, Hoà Cường Bắc, Hải Châu, Đà Nẵng, Vietnam",
+        "latitude": 16.0401624,
+        "longitude": 108.22851709999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ban Co Peak",
+        "rating": 4.6,
+        "address": "Bàn cờ, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.1189365,
+        "longitude": 108.2719826
+    },
+    {
+        "category": "viewpoints",
+        "title": "Da Nang Fresco Village",
+        "rating": 4,
+        "address": "75 Nguyễn Văn Linh, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0607296,
+        "longitude": 108.2200532
+    },
+    {
+        "category": "viewpoints",
+        "title": "Dragon Bridge",
+        "rating": 4.5,
+        "address": "Cầu Rồng, An Hải, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0611042,
+        "longitude": 108.2276926
+    },
+    {
+        "category": "viewpoints",
+        "title": "Danang Riverwalk",
+        "rating": 4.6,
+        "address": "364F+2C5, Bạch Đằng, Bình Thuận, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.055193,
+        "longitude": 108.223694
+    },
+    {
+        "category": "viewpoints",
+        "title": "Phố đi bộ Bạch Đằng Đà Nẵng - Danang walking street",
+        "rating": 4.6,
+        "address": "365F+RJJ, Bạch Đằng, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0595812,
+        "longitude": 108.22401599999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "APEC Park",
+        "rating": 4.4,
+        "address": "Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0581055,
+        "longitude": 108.2232435
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ba Na Hills",
+        "rating": 4.4,
+        "address": "Thôn An Sơn, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9951364,
+        "longitude": 107.9961392
+    },
+    {
+        "category": "viewpoints",
+        "title": "My Khe Beach",
+        "rating": 4.6,
+        "address": "36CW+48G, East Sea Park, Đường võ nguyên giáp, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.06996,
+        "longitude": 108.24606899999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Tượng Cá Chép Hóa Rồng",
+        "rating": 4.5,
+        "address": "Đ. Trần Hưng Đạo, An Hải, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.06291,
+        "longitude": 108.229815
+    },
+    {
+        "category": "viewpoints",
+        "title": "Bãi biển Sơn Trà",
+        "rating": 4.8,
+        "address": "Bến Xe Bus, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.0991295,
+        "longitude": 108.25506159999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Golden Bridge",
+        "rating": 4.6,
+        "address": "XXVW+XJ, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.994937499999999,
+        "longitude": 107.9965625
+    },
+    {
+        "category": "viewpoints",
+        "title": "Da Nang Museum of Cham Sculpture",
+        "rating": 4.2,
+        "address": "02 Đ. 2 Tháng 9, Phường, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0603007,
+        "longitude": 108.2232677
+    },
+    {
+        "category": "viewpoints",
+        "title": "Tượng Mẹ Âu Cơ",
+        "rating": 4.5,
+        "address": "Phạm Văn Đồng, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.070317,
+        "longitude": 108.24558599999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Phước Mỹ Beach",
+        "rating": 4.7,
+        "address": "36CW+4JQ, Đường võ nguyên giáp, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.070325999999998,
+        "longitude": 108.24661929999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "The singing powerline",
+        "rating": 5,
+        "address": "26XX+X3G, Hoàng Kế Viêm, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0499439,
+        "longitude": 108.2476902
+    },
+    {
+        "category": "viewpoints",
+        "title": "Thuan Phuoc Bridge",
+        "rating": 4.6,
+        "address": "Nại Hiên Đông, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0950591,
+        "longitude": 108.22030649999999
+    },
+    {
+        "category": "gardens",
+        "title": "APEC Park",
+        "rating": 4.4,
+        "address": "Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0581055,
+        "longitude": 108.2232435
+    },
+    {
+        "category": "gardens",
+        "title": "Suoi Mo Garden",
+        "rating": 4.5,
+        "address": "XXWW+H4W, Hoà Phú, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.996489899999998,
+        "longitude": 107.9953379
+    },
+    {
+        "category": "gardens",
+        "title": "Ba Na Hills",
+        "rating": 4.4,
+        "address": "Thôn An Sơn, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9951364,
+        "longitude": 107.9961392
+    },
+    {
+        "category": "gardens",
+        "title": "Khói Garden",
+        "rating": 4.7,
+        "address": "Lô49, Trần Văn Trứ, Bình Thuận, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0564006,
+        "longitude": 108.2227808
+    },
+    {
+        "category": "gardens",
+        "title": "Da Nang Fresco Village",
+        "rating": 4,
+        "address": "75 Nguyễn Văn Linh, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0607296,
+        "longitude": 108.2200532
+    },
+    {
+        "category": "gardens",
+        "title": "The Marble Mountains",
+        "rating": 4.3,
+        "address": "81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0037104,
+        "longitude": 108.2631605
+    },
+    {
+        "category": "gardens",
+        "title": "Hiyori Garden Tower",
+        "rating": 4.3,
+        "address": "A2 Võ Văn Kiệt, An Hải Bắc, Sơn Trà, Đà Nẵng 84236, Vietnam",
+        "latitude": 16.0613474,
+        "longitude": 108.2357775
+    },
+    {
+        "category": "gardens",
+        "title": "Wind Garden",
+        "rating": 4.3,
+        "address": "72 Lê Mạnh Trinh, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.074512,
+        "longitude": 108.2434614
+    },
+    {
+        "category": "gardens",
+        "title": "IKIGAI . garden . cafe",
+        "rating": 4.4,
+        "address": "60 Nguyễn Chí Thanh, Hải Châu, Đà Nẵng 55000, Vietnam",
+        "latitude": 16.0740215,
+        "longitude": 108.22059589999999
+    },
+    {
+        "category": "gardens",
+        "title": "Sea Garden Hotel",
+        "rating": 4.4,
+        "address": "29-33 Lê Văn Quý, An Hải Bắc, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0708713,
+        "longitude": 108.23791519999999
+    },
+    {
+        "category": "gardens",
+        "title": "Đăng Khoa Garden -TK Thi công Sân Vườn, Hồ Cá Koi và Hồ Bơi Đà Nẵng và Toàn Quốc.",
+        "rating": 4.9,
+        "address": "05 Bàu Cầu 3, Kdc Nam, Cẩm Lệ, Đà Nẵng 550000, Vietnam",
+        "latitude": 15.9981181,
+        "longitude": 108.20588319999999
+    },
+    {
+        "category": "gardens",
+        "title": "Ariyana Beach Garden (Vườn biển Ariyana)",
+        "rating": 5,
+        "address": "107 Đường võ nguyên giáp, St, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0354243,
+        "longitude": 108.2543803
+    },
+    {
+        "category": "gardens",
+        "title": "King Garden Hotel",
+        "rating": 4.3,
+        "address": "456A Nguyễn Tri Phương, Hòa Thuận Nam, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0515234,
+        "longitude": 108.21141039999999
+    },
+    {
+        "category": "gardens",
+        "title": "Công viên 29/3",
+        "rating": 4.4,
+        "address": "23 Nguyễn Tri Phương, Thạc Gián, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0625186,
+        "longitude": 108.2045143
+    },
+    {
+        "category": "gardens",
+        "title": "Ta Hi Garden",
+        "rating": 4.5,
+        "address": "64 Mỹ Khê 7, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0629587,
+        "longitude": 108.23864979999999
+    },
+    {
+        "category": "gardens",
+        "title": "Danang garden pool vila",
+        "rating": 4.6,
+        "address": "50 Chế Lan Viên, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0417752,
+        "longitude": 108.2464036
+    },
+    {
+        "category": "gardens",
+        "title": "Babylon Garden Hotel & Apartment Da Nang",
+        "rating": 4.7,
+        "address": "30k2 Hà Bổng, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0672207,
+        "longitude": 108.2441697
+    },
+    {
+        "category": "gardens",
+        "title": "Mai Taï - Food & Drink Garden",
+        "rating": 4.3,
+        "address": "Lô B13, Nguyễn Lữ, Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng, Vietnam",
+        "latitude": 16.034834399999998,
+        "longitude": 108.24045489999999
+    },
+    {
+        "category": "gardens",
+        "title": "Mộc Garden Coffee",
+        "rating": 4.3,
+        "address": "An Hải Trung, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0596904,
+        "longitude": 108.2305975
+    },
+    {
+        "category": "gardens",
+        "title": "Secret Garden Đà Nẵng",
+        "rating": 1,
+        "address": "21 Đống Đa, Thuận Phước, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0743318,
+        "longitude": 108.2150312
+    },
+    {
+        "category": "zoo",
+        "title": "Vinpearl River Safari",
+        "rating": 4.8,
+        "address": "Bình Minh, Thăng Bình, Quảng Nam, Vietnam",
+        "latitude": 15.7900704,
+        "longitude": 108.41211969999999
+    },
+    {
+        "category": "zoo",
+        "title": "Saigon Zoo & Botanical Gardens",
+        "rating": 4.3,
+        "address": "2 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.787334399999999,
+        "longitude": 106.70505659999999
+    },
+    {
+        "category": "zoo",
+        "title": "Hanoi Zoo",
+        "rating": 4.1,
+        "address": "Đ. Bưởi, Thủ Lệ, Ba Đình, Hà Nội 100000, Vietnam",
+        "latitude": 21.0312676,
+        "longitude": 105.80369689999999
+    },
+    {
+        "category": "zoo",
+        "title": "The Marble Mountains",
+        "rating": 4.3,
+        "address": "81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0037104,
+        "longitude": 108.2631605
+    },
+    {
+        "category": "zoo",
+        "title": "Làng Baby",
+        "rating": 3.4,
+        "address": "Kiệt 1, tổ 4, thôn Phong Nam, xã Hoà Châu, huyện Hoà Vang, Hoà Xuân, Đà Nẵng 550000, Vietnam",
+        "latitude": 15.9850567,
+        "longitude": 108.1894303
+    },
+    {
+        "category": "zoo",
+        "title": "Công viên 29/3",
+        "rating": 4.4,
+        "address": "23 Nguyễn Tri Phương, Thạc Gián, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0625186,
+        "longitude": 108.2045143
+    },
+    {
+        "category": "zoo",
+        "title": "Bird aviary",
+        "rating": 4.8,
+        "address": "QCQ6+VMR, Unnamed Road, Bình Minh, Thăng Bình, Quảng Nam, Vietnam",
+        "latitude": 15.7897439,
+        "longitude": 108.41164789999999
+    },
+    {
+        "category": "zoo",
+        "title": "Giraffe - VinWonders",
+        "rating": 4.9,
+        "address": "QCR7+JM, Bình Minh, Thăng Bình, Quảng Nam, Vietnam",
+        "latitude": 15.791569599999999,
+        "longitude": 108.41418089999999
+    },
+    {
+        "category": "zoo",
+        "title": "29/3 Park Lake",
+        "rating": 4.3,
+        "address": "Thanh Khê District, Da Nang 550000, Vietnam",
+        "latitude": 16.062946,
+        "longitude": 108.2055027
+    },
+    {
+        "category": "zoo",
+        "title": "Elephant - VinWonders",
+        "rating": 4.9,
+        "address": "QCR6+6Q3, Bình Minh, Thăng Bình, Quảng Nam, Vietnam",
+        "latitude": 15.791468,
+        "longitude": 108.41275639999999
+    },
+    {
+        "category": "zoo",
+        "title": "Vườn Khoai Đỏ",
+        "rating": null,
+        "address": "97 Đỗ Đăng Đệ, Hoà Xuân, Cẩm Lệ, Đà Nẵng, Vietnam",
+        "latitude": 16.021089,
+        "longitude": 108.229126
+    },
+    {
+        "category": "adventure parks",
+        "title": "Fantasy Park",
+        "rating": 4.4,
+        "address": "Hoà Phú, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9972041,
+        "longitude": 107.98876299999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Hot Springs Park - Công viên Suối khoáng nóng Núi Thần Tài Đà Nẵng",
+        "rating": 4.3,
+        "address": "QL14G, Hoà Phú, Hòa Vang, Đà Nẵng 550000, Vietnam",
+        "latitude": 15.9678512,
+        "longitude": 108.0198053
+    },
+    {
+        "category": "adventure parks",
+        "title": "Ba Na Hills SunWorld",
+        "rating": 4.5,
+        "address": "Hoà Ninh, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.0265144,
+        "longitude": 108.03279719999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Công Viên Khủng Long - Jura Park",
+        "rating": 4.7,
+        "address": "X299+MHX, Hoà Phú, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9700578,
+        "longitude": 108.02070719999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Sun Wheel",
+        "rating": 4.5,
+        "address": "1 Phan Đăng Lưu, Hoà Cường Bắc, Hải Châu, Đà Nẵng, Vietnam",
+        "latitude": 16.0401624,
+        "longitude": 108.22851709999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Công Viên Nước Đà Nẵng - Holie Water Park",
+        "rating": 4.7,
+        "address": "Làng thể thao, tuyên sơn, Đà Nẵng 50000, Vietnam",
+        "latitude": 16.0354751,
+        "longitude": 108.2256831
+    },
+    {
+        "category": "adventure parks",
+        "title": "Mikazuki Water Park 365",
+        "rating": 4.2,
+        "address": "Khu du lịch Xuân Thiều, Nguyễn Tất Thành, Hoà Hiệp Nam, Liên Chiểu, Đà Nẵng 55000, Vietnam",
+        "latitude": 16.092181099999998,
+        "longitude": 108.1441576
+    },
+    {
+        "category": "adventure parks",
+        "title": "Toc Tien Waterfall station",
+        "rating": 4.4,
+        "address": "22GJ+QCF, Hoà Ninh, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.02693,
+        "longitude": 108.03103829999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "VinWonders Nam Hội An",
+        "rating": 4.9,
+        "address": "Võ Chí Công, Bình Dương, Thăng Bình, Đà Nẵng, Vietnam",
+        "latitude": 15.786317899999998,
+        "longitude": 108.4082389
+    },
+    {
+        "category": "adventure parks",
+        "title": "Tháp Onsen",
+        "rating": 5,
+        "address": "X299+QRC, Hoà Phú, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9694466,
+        "longitude": 108.019527
+    },
+    {
+        "category": "adventure parks",
+        "title": "Vinpearl land Nam Hội An - Đại lý Bình Minh",
+        "rating": 4.6,
+        "address": "21/9 An Thượng 24, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng, Vietnam",
+        "latitude": 15.787351099999999,
+        "longitude": 108.4104624
+    },
+    {
+        "category": "adventure parks",
+        "title": "Phun Xăm Thẩm Mỹ Thanh Khê - KENGMIN",
+        "rating": 5,
+        "address": "34 Lê Đình Lý, Thạc Gián, Thanh Khê, Đà Nẵng 543555, Vietnam",
+        "latitude": 16.0577651,
+        "longitude": 108.2112703
+    },
+    {
+        "category": "adventure parks",
+        "title": "Điểm đầu trượt thác Hoà Phú Thành",
+        "rating": 4.3,
+        "address": "QL14G, Hoà Phú, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.955431299999999,
+        "longitude": 107.9804688
+    },
+    {
+        "category": "adventure parks",
+        "title": "Da Nang DownTown",
+        "rating": 4.4,
+        "address": "Đ. 2 Tháng 9, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0412139,
+        "longitude": 108.22563319999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Helio Center Amusement Center",
+        "rating": 4.3,
+        "address": "Tòa nhà Helio, 01 Đ. 2 Tháng 9, Hoà Cường Bắc, Hải Châu, Đà Nẵng, Vietnam",
+        "latitude": 16.0359504,
+        "longitude": 108.22429249999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "APEC Park",
+        "rating": 4.4,
+        "address": "Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0581055,
+        "longitude": 108.2232435
+    },
+    {
+        "category": "adventure parks",
+        "title": "East Sea Park",
+        "rating": 4.6,
+        "address": "Đường võ nguyên giáp, Phước Mỹ, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0703173,
+        "longitude": 108.24583679999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Wonder Park - Wyndham Danang Golden Bay Hotel",
+        "rating": 4.4,
+        "address": "01 Lê Văn Duyệt, Nại Hiên Đông, Sơn Trà, Đà Nẵng 590000, Vietnam",
+        "latitude": 16.0988248,
+        "longitude": 108.224412
+    },
+    {
+        "category": "adventure parks",
+        "title": "Vinpearl Water World",
+        "rating": 4.2,
+        "address": "QCQ5+8CC, Bình Minh, Thăng Bình, Quảng Nam, Vietnam",
+        "latitude": 15.788324,
+        "longitude": 108.40852149999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Hoi An Memories Land",
+        "rating": 4.6,
+        "address": "Cồn Hến, rẽ trái, 200 Nguyễn Tri Phương, Cẩm Châu, Hội An, Quảng Nam, Vietnam",
+        "latitude": 15.8749898,
+        "longitude": 108.3387285
+    },
+    {
+        "category": "shopping malls",
+        "title": "Vincom Plaza Da Nang",
+        "rating": 4.2,
+        "address": "910A Ng. Quyền, An Hải, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0714014,
+        "longitude": 108.2299673
+    },
+    {
+        "category": "shopping malls",
+        "title": "Indochina Mall",
+        "rating": 3.9,
+        "address": "74 Bạch Đằng, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0700614,
+        "longitude": 108.2243768
+    },
+    {
+        "category": "shopping malls",
+        "title": "Lotte Mart Supermarket",
+        "rating": 4.2,
+        "address": "6 Nại Nam, Hoà Cường Bắc, Hải Châu, Đà Nẵng, Vietnam",
+        "latitude": 16.0348373,
+        "longitude": 108.22925839999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "VV Mall",
+        "rating": 3.4,
+        "address": "Vietnam, Đà Nẵng, Ngũ Hành Sơn, Khuê Mỹ, Võ Nguyên Giáp",
+        "latitude": 16.02481,
+        "longitude": 108.2569968
+    },
+    {
+        "category": "shopping malls",
+        "title": "GO! Đà Nẵng",
+        "rating": 4.1,
+        "address": "Khu thương Mại, 257 Hùng Vương, Thạc Gián, Thanh Khê, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0668632,
+        "longitude": 108.21344479999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Thu Dung Plaza",
+        "rating": 3.7,
+        "address": "87 Nguyễn Văn Linh, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0606825,
+        "longitude": 108.2191752
+    },
+    {
+        "category": "shopping malls",
+        "title": "Co.opmart Da Nang",
+        "rating": 4.2,
+        "address": "478 Điện Biên Phủ, Thanh Khê Đông, Thanh Khê, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0665299,
+        "longitude": 108.18695699999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shop Nha Xinh - Danang",
+        "rating": 4.4,
+        "address": "35a Nguyễn Thị Minh Khai, Thạch Thang, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0748358,
+        "longitude": 108.2180599
+    },
+    {
+        "category": "shopping malls",
+        "title": "anhquanghuongan",
+        "rating": 5,
+        "address": "80 Lâm Nhĩ, Hoà An, Cẩm Lệ, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.051449599999998,
+        "longitude": 108.1792916
+    },
+    {
+        "category": "shopping malls",
+        "title": "LIZD Vincom Đà Nẵng",
+        "rating": 4,
+        "address": "36CH+MXJ, Ng. Quyền, An Hải, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0717158,
+        "longitude": 108.2299018
+    },
+    {
+        "category": "shopping malls",
+        "title": "TINGGLE Da Nang / Time World Shop",
+        "rating": 4.7,
+        "address": "30-31-32 Trần Văn Trứ, Bình Thuận, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0545643,
+        "longitude": 108.2226472
+    },
+    {
+        "category": "shopping malls",
+        "title": "TOKYOLIFE Đà Nẵng 2",
+        "rating": 4.4,
+        "address": "327 Điện Biên Phủ, Thanh Khê Đông, Thanh Khê, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0656662,
+        "longitude": 108.1916794
+    },
+    {
+        "category": "shopping malls",
+        "title": "MM Mega Market Đà Nẵng",
+        "rating": 4.3,
+        "address": "5 Cách Mạng Tháng 8, Hoà Cường Nam, Cẩm Lệ, Đà Nẵng 50000, Vietnam",
+        "latitude": 16.0252922,
+        "longitude": 108.2203947
+    },
+    {
+        "category": "shopping malls",
+        "title": "Dust Shop Da Nang",
+        "rating": 3.6,
+        "address": "53 Châu Thượng Văn, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0451227,
+        "longitude": 108.2204331
+    },
+    {
+        "category": "shopping malls",
+        "title": "EUFOOD DA NANG",
+        "rating": 5,
+        "address": "21 Trần Quang Diệu, An Hải Tây, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0549213,
+        "longitude": 108.23523759999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "SWSmart Đà Nẵng - Bàn ghế thông minh chống gù chống cận Đà Nẵng",
+        "rating": 5,
+        "address": "46 Ỷ Lan Nguyên Phi, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0414352,
+        "longitude": 108.21962289999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Specialty Gift Store Central",
+        "rating": 4.3,
+        "address": "181 Võ Văn Kiệt, An Hải Bắc, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.061538199999998,
+        "longitude": 108.2368839
+    },
+    {
+        "category": "shopping malls",
+        "title": "Home Vietmay Danang",
+        "rating": 4,
+        "address": "Phạm Hùng, Hoà Châu, Hòa Vang, Đà Nẵng 59000, Vietnam",
+        "latitude": 16.004612899999998,
+        "longitude": 108.2076598
+    },
+    {
+        "category": "shopping malls",
+        "title": "Dragon Bridge Souvenirs Da Nang",
+        "rating": 5,
+        "address": "62 Mai Hắc Đế, An Hải Trung, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.063793699999998,
+        "longitude": 108.23149629999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Siêu thị đặc sản Bình Ba Na",
+        "rating": 4.5,
+        "address": "96 Hồ Nghinh, An Hải Bắc, Sơn Trà, Đà Nẵng!, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.075142,
+        "longitude": 108.2427333
+    },
+    {
+        "category": "historical sites",
+        "title": "Nhu Mother Monument",
+        "rating": 4.6,
+        "address": "358M+39R, Điện Biên Phủ, Thanh Khê Đông, Thanh Khê, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0652433,
+        "longitude": 108.1833896
+    },
+    {
+        "category": "historical sites",
+        "title": "Da Nang Museum of Cham Sculpture",
+        "rating": 4.2,
+        "address": "02 Đ. 2 Tháng 9, Phường, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0603007,
+        "longitude": 108.2232677
+    },
+    {
+        "category": "historical sites",
+        "title": "Đà Nẵng Museum",
+        "rating": 4.2,
+        "address": "31 Trần Phú, P, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.074554199999998,
+        "longitude": 108.2239668
+    },
+    {
+        "category": "historical sites",
+        "title": "Sân bay trực thăng (Địa điểm lịch sử)",
+        "rating": 4.7,
+        "address": "47H5+VRV, Monkey Pass, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.1297353,
+        "longitude": 108.2595384
+    },
+    {
+        "category": "historical sites",
+        "title": "September 2 Monument",
+        "rating": 4.5,
+        "address": "26RF+9MX, 30 Tháng 4, Hoà Cường Bắc, Hải Châu, Đà Nẵng, Vietnam",
+        "latitude": 16.0409792,
+        "longitude": 108.22423859999999
+    },
+    {
+        "category": "historical sites",
+        "title": "The Marble Mountains",
+        "rating": 4.3,
+        "address": "81 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0037104,
+        "longitude": 108.2631605
+    },
+    {
+        "category": "historical sites",
+        "title": "Ho Chi Minh Museum",
+        "rating": 4.3,
+        "address": "26X9+F2G, Duy Tân, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0486814,
+        "longitude": 108.217581
+    },
+    {
+        "category": "historical sites",
+        "title": "Dien Hai citadel relics",
+        "rating": 4.4,
+        "address": "36GC+FMC, Đ. Thành Điện Hải, Thạch Thang, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0761821,
+        "longitude": 108.22163019999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Marble Mountains Elevator",
+        "rating": 3.9,
+        "address": "Hòn Thủy Sơn, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0032438,
+        "longitude": 108.2643695
+    },
+    {
+        "category": "historical sites",
+        "title": "Hai Chau Village Hall",
+        "rating": 4.5,
+        "address": "3699+3MQ, K48 Phan Châu Trinh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0677019,
+        "longitude": 108.21924539999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Chinese Dragons",
+        "rating": 5,
+        "address": "159 Huyền Trân Công Chúa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0038545,
+        "longitude": 108.26466219999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Huyen Tran Princess statue",
+        "rating": 5,
+        "address": "2738+M85, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0041256,
+        "longitude": 108.26584509999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Ban Co Peak",
+        "rating": 4.6,
+        "address": "Bàn cờ, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.1189365,
+        "longitude": 108.2719826
+    },
+    {
+        "category": "historical sites",
+        "title": "Han River Bridge Viewpoint",
+        "rating": 4.5,
+        "address": "36CG+RC6, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0720345,
+        "longitude": 108.2260117
+    },
+    {
+        "category": "historical sites",
+        "title": "Suối An Sơn",
+        "rating": 4.5,
+        "address": "23H5+7M, Hoà Ninh, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 16.0282452,
+        "longitude": 108.05922679999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Chắn tàu Lê Độ",
+        "rating": 4.8,
+        "address": "25 Đ. Lê Độ, Xuân Hà, Thanh Khê, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0701646,
+        "longitude": 108.2014442
+    },
+    {
+        "category": "historical sites",
+        "title": "Hai Van Pass",
+        "rating": 4.6,
+        "address": "TT. Lăng Cô, Phú Lộc, Thành phố Huế, Vietnam",
+        "latitude": 16.1877377,
+        "longitude": 108.1312942
+    },
+    {
+        "category": "historical sites",
+        "title": "Ravenstone Castle",
+        "rating": 4.6,
+        "address": "XXVR+7R6, Bà Nà, Hòa Vang, Đà Nẵng, Vietnam",
+        "latitude": 15.9931503,
+        "longitude": 107.9920162
+    },
+    {
+        "category": "historical sites",
+        "title": "Khoá iu đương",
+        "rating": 5,
+        "address": "505 Đ. Trần Hưng Đạo, An Hải Trung, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.063269,
+        "longitude": 108.229613
+    },
+    {
+        "category": "historical sites",
+        "title": "Dong Dinh Museum",
+        "rating": 4.1,
+        "address": "Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.1011538,
+        "longitude": 108.2753793
+    },
+    {
+        "category": "art galleries",
+        "title": "3D Museum Art in paradise Da Nang",
+        "rating": 4.4,
+        "address": "Lô 10, Trần Nhân Tông, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.0954282,
+        "longitude": 108.2431088
+    },
+    {
+        "category": "art galleries",
+        "title": "Danang Fine Arts Museum",
+        "rating": 4.5,
+        "address": "78 Lê Duẩn, Thạch Thang, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0711877,
+        "longitude": 108.21794109999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Danang Art Class | Art Supplies | Daily Art Workshop | 미술관",
+        "rating": 5,
+        "address": "N 23 An Thượng 37, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0501733,
+        "longitude": 108.24513119999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Da Nang Museum of Cham Sculpture",
+        "rating": 4.2,
+        "address": "02 Đ. 2 Tháng 9, Phường, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0603007,
+        "longitude": 108.2232677
+    },
+    {
+        "category": "art galleries",
+        "title": "Art Gallery",
+        "rating": 4,
+        "address": "364M+PPM, Vũ Văn Dũng, An Hải, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0568274,
+        "longitude": 108.2342832
+    },
+    {
+        "category": "art galleries",
+        "title": "B&P - Art for Children Gallery Đà Nẵng",
+        "rating": 5,
+        "address": "69 Trần Đức Thông, Phước Mỹ, Sơn Trà, Đà Nẵng 50000, Vietnam",
+        "latitude": 16.081609699999998,
+        "longitude": 108.2428944
+    },
+    {
+        "category": "art galleries",
+        "title": "Savoring Coffee & Art Gallery",
+        "rating": 5,
+        "address": "06 Nguyễn Thị Minh Khai, Thạch Thang, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.076173999999998,
+        "longitude": 108.2176233
+    },
+    {
+        "category": "art galleries",
+        "title": "Dong Dinh Museum",
+        "rating": 4.1,
+        "address": "Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.1011538,
+        "longitude": 108.2753793
+    },
+    {
+        "category": "art galleries",
+        "title": "Precious Heritage Art Gallery Museum",
+        "rating": 4.9,
+        "address": "26 Đường Phan Bội Châu, Cẩm Châu, Hội An, Quảng Nam 560000, Vietnam",
+        "latitude": 15.8771322,
+        "longitude": 108.3342679
+    },
+    {
+        "category": "art galleries",
+        "title": "Brocanvas - Tranh Canvas Treo Tường Đà Nẵng",
+        "rating": 4.9,
+        "address": "93 Lý Nhân Tông, Khuê Trung, Cẩm Lệ, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0333593,
+        "longitude": 108.2099078
+    },
+    {
+        "category": "art galleries",
+        "title": "Service delete location 123",
+        "rating": null,
+        "address": "325 Điện Biên Phủ, Thanh Khê Đông, Thanh Khê, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.065645,
+        "longitude": 108.192155
+    },
+    {
+        "category": "art galleries",
+        "title": "Artta Studio",
+        "rating": 4.1,
+        "address": "225 Đ. Nghiêm Xuân Yêm, Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0216048,
+        "longitude": 108.24388259999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Rehanh Gallery - Hyatt Regency Danang",
+        "rating": 5,
+        "address": "2777+7F8, Hoà Hải, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0131682,
+        "longitude": 108.2636986
+    },
+    {
+        "category": "art galleries",
+        "title": "MF - Gallery & Studio",
+        "rating": 5,
+        "address": "117 Tống Phước Phổ, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0435198,
+        "longitude": 108.22254199999999
+    },
+    {
+        "category": "art galleries",
+        "title": "QA Art Concepts",
+        "rating": 5,
+        "address": "35FF+HFX, Phú Lộc 10, Thanh Khê Tây, Liên Chiểu, Đà Nẵng, Vietnam",
+        "latitude": 16.0739923,
+        "longitude": 108.1737326
+    },
+    {
+        "category": "art galleries",
+        "title": "Rose Thuong Cao",
+        "rating": 5,
+        "address": "905 Ng. Quyền, an hải nam, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.065136499999998,
+        "longitude": 108.2335463
+    },
+    {
+        "category": "art galleries",
+        "title": "NGHE - THẤY Gallery",
+        "rating": 5,
+        "address": "14 Nguyễn Khả Trạc, Hoà Châu, Hòa Vang, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.002027899999998,
+        "longitude": 108.2051824
+    },
+    {
+        "category": "art galleries",
+        "title": "Tu Hung Stone Arts",
+        "rating": 4.8,
+        "address": "552 Trường Sa, st, Ngũ Hành Sơn, Đà Nẵng 55000, Vietnam",
+        "latitude": 15.986532799999999,
+        "longitude": 108.27275929999999
+    },
+    {
+        "category": "art galleries",
+        "title": "An Nhàn - Exquisite Cultural Gallery & Coffee",
+        "rating": 5,
+        "address": "Vạn Lăng, Cẩm Thanh, Hội An, Quảng Nam, Vietnam",
+        "latitude": 15.883083899999999,
+        "longitude": 108.37350839999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Nhà Trưng bày Hoàng Sa",
+        "rating": 4.6,
+        "address": "37V2+9GJ, Hoàng Sa, Thọ Quang, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.0934606,
+        "longitude": 108.2512793
+    },
+    {
+        "category": "theaters",
+        "title": "CGV Cinema Vincom Danang",
+        "rating": 4.3,
+        "address": "Tầng 4 Trung tâm Thương Mại Vincom Đà Nẵng, Q, Ng. Quyền, An Hải Bắc, Sơn Trà, Đà Nẵng, Vietnam",
+        "latitude": 16.0711068,
+        "longitude": 108.2307776
+    },
+    {
+        "category": "theaters",
+        "title": "Vinh Trung Plaza CGV",
+        "rating": 4.1,
+        "address": "Vĩnh Trung Plaza, Thạc Gián, Thanh Khê, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0667585,
+        "longitude": 108.2137029
+    },
+    {
+        "category": "theaters",
+        "title": "Galaxy Cinema",
+        "rating": 4.4,
+        "address": "Coop Mart, 478 Điện Biên Phủ, Thanh Khê Đông, Thanh Khê, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.066719,
+        "longitude": 108.1869049
+    },
+    {
+        "category": "theaters",
+        "title": "Metiz Cinema",
+        "rating": 4.4,
+        "address": "Đ. 2 Tháng 9, Hoà Cường Bắc, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0363105,
+        "longitude": 108.2246323
+    },
+    {
+        "category": "theaters",
+        "title": "Trung Vuong Theater",
+        "rating": 4.4,
+        "address": "86 Hùng Vương, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0687399,
+        "longitude": 108.22068019999999
+    },
+    {
+        "category": "theaters",
+        "title": "Starlight Entertainment Center Danang",
+        "rating": 4.1,
+        "address": "Tòa nhà Nguyễn Kim, 46 Điện Biên Phủ, Chính Gián, Thanh Khê, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.066178,
+        "longitude": 108.2034683
+    },
+    {
+        "category": "theaters",
+        "title": "LOTTE Cinema Đà Nẵng",
+        "rating": 3.6,
+        "address": "Lotte Mart, 06 đường Nại Nam, Hòa Cường, Hải Châu, Đà Nẵng, Vietnam",
+        "latitude": 16.0346481,
+        "longitude": 108.23054069999999
+    },
+    {
+        "category": "theaters",
+        "title": "RIO Cinemas Liên Chiểu",
+        "rating": 4.3,
+        "address": "403 Tôn Đức Thắng, Hoà Minh, Liên Chiểu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0592576,
+        "longitude": 108.16356739999999
+    },
+    {
+        "category": "theaters",
+        "title": "Charming Danang Show",
+        "rating": 4,
+        "address": "02 Cách Mạng Tháng 8, Hoà Cường Nam, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.026718799999998,
+        "longitude": 108.220952
+    },
+    {
+        "category": "theaters",
+        "title": "Rạp Chiếu phim Lê Độ",
+        "rating": 4,
+        "address": "46 Trần Phú, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0711398,
+        "longitude": 108.2238517
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Danang Central Market",
+        "rating": 4.9,
+        "address": "167 Trần Phú, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0666322,
+        "longitude": 108.2238618
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Local Gift - Da Nang Souvenir /다낭 기념품/ダナンお土産屋",
+        "rating": 5,
+        "address": "92B Trần Phú, Hải Châu, Đà Nẵng 50000, Vietnam",
+        "latitude": 16.0691803,
+        "longitude": 108.2238558
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hantou Souvenirs Shop 기념품 民芸品店",
+        "rating": 4.7,
+        "address": "60 Mai Hắc Đế, An Hải Trung, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.063803,
+        "longitude": 108.2314949
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Outstanda Handcraft - Local Handmade Souvenirs",
+        "rating": 5,
+        "address": "133 Ba Huyen Thanh Quan, My An Ward, Ngu Hanh Son District Da Nang City Da Nang City, 50000, Vietnam",
+        "latitude": 16.0448521,
+        "longitude": 108.2470427
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hoa Ly Shop",
+        "rating": 4.2,
+        "address": "252 Trần Phú, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.062808999999998,
+        "longitude": 108.223182
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Lotus Souvenir",
+        "rating": 4.9,
+        "address": "1B Trần Quốc Toản, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0659486,
+        "longitude": 108.22409479999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Cỏ May Coffee & Souvenir Shop",
+        "rating": 3.4,
+        "address": "232 Trần Phú, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.063179599999998,
+        "longitude": 108.2231444
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hoa Lan Souvenir and Coffee Shop",
+        "rating": 4.9,
+        "address": "260 Trần Phú, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.062341,
+        "longitude": 108.2231326
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Specialty Gift Store Central",
+        "rating": 4.3,
+        "address": "181 Võ Văn Kiệt, An Hải Bắc, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.061538199999998,
+        "longitude": 108.2368839
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Mộc Lan Souvenir Shop",
+        "rating": 4.9,
+        "address": "192 Trần Phú, Phước Ninh, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.064567,
+        "longitude": 108.2233887
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Rio Souvenir",
+        "rating": 4.5,
+        "address": "Kiot Số 5 - Chợ Hàn - 119 Trần Phú ( No 05, Han market , Danang Phường Hải Châu I, 119 Trần Phú, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.068199,
+        "longitude": 108.22399829999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Bồng Lai Các- Handicrafts & Souvenirs, Gifts",
+        "rating": 4.9,
+        "address": "32 An Thượng 4, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.048737199999998,
+        "longitude": 108.2463049
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Danang Souvenir & Stationery",
+        "rating": 5,
+        "address": "D45 An Thượng 34, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0497817,
+        "longitude": 108.24546439999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "BROS - Gifts, Souvenirs and Leather Goods",
+        "rating": 5,
+        "address": "33/6 Lê Duẩn, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0710095,
+        "longitude": 108.22075849999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Cheap souvenir shop ROMAN",
+        "rating": 5,
+        "address": "02 Mỹ Đa Đông 12, Bắc Mỹ An, Ngũ Hành Sơn, Đà Nẵng 50000, Vietnam",
+        "latitude": 16.045958199999998,
+        "longitude": 108.2465735
+    },
+    {
+        "category": "souvenir counters",
+        "title": "An Nam Dragon Souvenir ダナン スーベニア",
+        "rating": 4.9,
+        "address": "66 Mai Hắc Đế, An Hải Trung, Sơn Trà, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0635992,
+        "longitude": 108.2314617
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Manufacturing Company, providing gifts Delicate Vietnam",
+        "rating": 5,
+        "address": "09 Trần Phú, Thạch Thang, Hải Châu, Đà Nẵng 55000, Vietnam",
+        "latitude": 16.0798771,
+        "longitude": 108.22308699999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Minh Toàn Mây Tre Đà Nẵng",
+        "rating": 5,
+        "address": "Kiot 01 Cồn Market, Chợ Cồn ( Đối diện, 312 Đường Ông Ích Khiêm, Hải Châu, Đà Nẵng 550000, Vietnam",
+        "latitude": 16.0683384,
+        "longitude": 108.21393979999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Đà Nẵng Souvenir",
+        "rating": 4.3,
+        "address": "Đỗ Bá, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 50000, Vietnam",
+        "latitude": 16.052142,
+        "longitude": 108.24743169999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Bông Sen Đà Nẵng ボンセンダナンのお土産 COFFEE & SOUVENIRS",
+        "rating": 5,
+        "address": "35 Chương D., Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 50000, Vietnam",
+        "latitude": 16.048735,
+        "longitude": 108.2341524
+    }
+]

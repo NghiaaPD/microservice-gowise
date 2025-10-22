@@ -1,0 +1,2882 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Athens National Garden",
+        "rating": 4.6,
+        "address": "Athina 105 57, Greece",
+        "latitude": 37.9725878,
+        "longitude": 23.737433
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Parthenon",
+        "rating": 4.8,
+        "address": "Athina 105 58, Greece",
+        "latitude": 37.9715285,
+        "longitude": 23.7267166
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Acropolis of Athens",
+        "rating": 4.8,
+        "address": "Athina 105 58, Greece",
+        "latitude": 37.9715323,
+        "longitude": 23.7257492
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Acropolis Museum",
+        "rating": 4.7,
+        "address": "Dionysiou Areopagitou 15, Athina 117 42, Greece",
+        "latitude": 37.968449899999996,
+        "longitude": 23.7285227
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Temple of Hephaestus",
+        "rating": 4.8,
+        "address": "Athina 105 55, Greece",
+        "latitude": 37.975595,
+        "longitude": 23.7214521
+    },
+    {
+        "category": "tourist attractions",
+        "title": "National Archaeological Museum",
+        "rating": 4.6,
+        "address": "28is Oktovriou 44, Athina 106 82, Greece",
+        "latitude": 37.989022899999995,
+        "longitude": 23.732759899999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Ancient Agora of Athens",
+        "rating": 4.7,
+        "address": "Athina 105 55, Greece",
+        "latitude": 37.974897,
+        "longitude": 23.722093299999997
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Temple of Olympian Zeus",
+        "rating": 4.4,
+        "address": "Athina 105 57, Greece",
+        "latitude": 37.9693,
+        "longitude": 23.7331
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Roman Mosaic",
+        "rating": 4,
+        "address": "Syntagma, Athina 105 57, Greece",
+        "latitude": 37.9753866,
+        "longitude": 23.73856
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Areopagus Hill",
+        "rating": 4.8,
+        "address": "Theorias 21, Athina 105 55, Greece",
+        "latitude": 37.972365499999995,
+        "longitude": 23.723232199999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Temple of Athena Nike",
+        "rating": 4.8,
+        "address": "Acropolis, Dionysiou Areopagitou, Athina 105 58, Greece",
+        "latitude": 37.9715524,
+        "longitude": 23.7249035
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Monastiraki Square",
+        "rating": 4.5,
+        "address": "Apollonos 21, Athina 105 57, Greece",
+        "latitude": 37.976408299999996,
+        "longitude": 23.725885899999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Stoa of Attalos - Museum of the Ancient Agora",
+        "rating": 4.8,
+        "address": "Adrianou 24, Athina 105 55, Greece",
+        "latitude": 37.974736299999996,
+        "longitude": 23.7240322
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Omonoia Square",
+        "rating": 3.8,
+        "address": "Athina 104 31, Greece",
+        "latitude": 37.9838836,
+        "longitude": 23.7279186
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Technopolis City of Athens",
+        "rating": 4.5,
+        "address": "Pireos 100, Athina 118 54, Greece",
+        "latitude": 37.9782261,
+        "longitude": 23.713647599999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Roman Forum of Athens (Roman Agora)",
+        "rating": 4.5,
+        "address": "Polignotou 3, Athina 105 55, Greece",
+        "latitude": 37.9742491,
+        "longitude": 23.7260951
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Central Fountain",
+        "rating": 4,
+        "address": "Athina 114 74, Greece",
+        "latitude": 37.993300399999995,
+        "longitude": 23.7389324
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Statue of Athena",
+        "rating": 4.5,
+        "address": "Leof. Alexandras, Athina 114 74, Greece",
+        "latitude": 37.991788799999995,
+        "longitude": 23.7357954
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Psirri Square",
+        "rating": 4.6,
+        "address": "Aristofanous 1, Athina 105 54, Greece",
+        "latitude": 37.978443999999996,
+        "longitude": 23.724937
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Statue of Constantine XI",
+        "rating": 4.8,
+        "address": "Zaloggou 4, Athina 106 78, Greece",
+        "latitude": 37.9754997,
+        "longitude": 23.7292494
+    },
+    {
+        "category": "parks",
+        "title": "Athens National Garden",
+        "rating": 4.6,
+        "address": "Athina 105 57, Greece",
+        "latitude": 37.9725878,
+        "longitude": 23.737433
+    },
+    {
+        "category": "parks",
+        "title": "Athens Square",
+        "rating": 4.4,
+        "address": "Q39G+3W, 30th St &, 30th Ave., Astoria, NY 11102",
+        "latitude": 40.767786,
+        "longitude": -73.9223319
+    },
+    {
+        "category": "parks",
+        "title": "Rizari Park",
+        "rating": 4.4,
+        "address": "Rizari 5, Athina 106 76, Greece",
+        "latitude": 37.9754511,
+        "longitude": 23.7471906
+    },
+    {
+        "category": "parks",
+        "title": "Stavros Niarchos Park",
+        "rating": 4.8,
+        "address": "Leof. Andrea Siggrou 364, Kallithea 176 74, Greece",
+        "latitude": 37.9421989,
+        "longitude": 23.6934583
+    },
+    {
+        "category": "parks",
+        "title": "Philopappos Hill",
+        "rating": 4.8,
+        "address": "Φυλής 215, Athina 117 41, Greece",
+        "latitude": 37.9671194,
+        "longitude": 23.7215752
+    },
+    {
+        "category": "parks",
+        "title": "Goudi Metropolitan Park",
+        "rating": 4.5,
+        "address": "Geor. Papandreou 105-107, Zografou 157 73, Greece",
+        "latitude": 37.9848225,
+        "longitude": 23.774287299999997
+    },
+    {
+        "category": "parks",
+        "title": "Strefi Hill",
+        "rating": 4.3,
+        "address": "Emmanouil Benaki 134, Athina 114 73, Greece",
+        "latitude": 37.9878885,
+        "longitude": 23.7391105
+    },
+    {
+        "category": "parks",
+        "title": "Probona park",
+        "rating": 4.5,
+        "address": "Eratonos 2, Athina 111 43, Greece",
+        "latitude": 38.0311813,
+        "longitude": 23.740902199999997
+    },
+    {
+        "category": "parks",
+        "title": "Zappeion Garden",
+        "rating": 4.7,
+        "address": "Leof. Vasilissis Olgas 1, Athina 105 57, Greece",
+        "latitude": 37.9702303,
+        "longitude": 23.7358701
+    },
+    {
+        "category": "parks",
+        "title": "Πεδίον του Άρεως",
+        "rating": 4,
+        "address": "XPVP+54, Leof. Alexandras, Athina 106 82, Greece",
+        "latitude": 37.992770799999995,
+        "longitude": 23.7362802
+    },
+    {
+        "category": "parks",
+        "title": "Flisvos Park",
+        "rating": 4.5,
+        "address": "Πάρκο Φλοίσβου Λεωφόρος Ποσειδονος παλαιο φαληρο, Athina 175 61, Greece",
+        "latitude": 37.9282137,
+        "longitude": 23.687928199999998
+    },
+    {
+        "category": "parks",
+        "title": "Antonis Tritsis Metropolitan Park",
+        "rating": 4.3,
+        "address": "Spirou Moustakli 23, Ilion 131 22, Greece",
+        "latitude": 38.0444785,
+        "longitude": 23.7218622
+    },
+    {
+        "category": "parks",
+        "title": "Lycabettus Hill",
+        "rating": 4.7,
+        "address": "Σαρανταπήχου, Μονοπατι Λυκαβηττου &, Athina 114 71, Greece",
+        "latitude": 37.9832343,
+        "longitude": 23.7465005
+    },
+    {
+        "category": "parks",
+        "title": "Navarinou",
+        "rating": 4.3,
+        "address": "Zoodochou Pigis 26, Athina 106 81, Greece",
+        "latitude": 37.9842039,
+        "longitude": 23.7352974
+    },
+    {
+        "category": "parks",
+        "title": "Park of the Torn Stone",
+        "rating": 4.4,
+        "address": "Dimaki 5-19, Athina 106 72, Greece",
+        "latitude": 37.9811064,
+        "longitude": 23.7384953
+    },
+    {
+        "category": "parks",
+        "title": "Veikou Grove",
+        "rating": 4.7,
+        "address": "Λεωφόρος Βεΐκου, Anagenniseos &, Galatsi 111 46, Greece",
+        "latitude": 38.0280792,
+        "longitude": 23.765435
+    },
+    {
+        "category": "parks",
+        "title": "Park for Children and Culture (KAPAPS)",
+        "rating": 4.4,
+        "address": "Trifillias 77, Athina 115 24, Greece",
+        "latitude": 37.9964978,
+        "longitude": 23.763122
+    },
+    {
+        "category": "parks",
+        "title": "Voutie Park",
+        "rating": 4.4,
+        "address": "Athina 118 52, Greece",
+        "latitude": 37.9668929,
+        "longitude": 23.7147735
+    },
+    {
+        "category": "parks",
+        "title": "Eleftherias Park",
+        "rating": 4.8,
+        "address": "Megaro Moussikis, Ευζώνων, Αθήνα 115 28, Athina 115 21, Greece",
+        "latitude": 37.980038,
+        "longitude": 23.7528206
+    },
+    {
+        "category": "parks",
+        "title": "Japanese Park",
+        "rating": 4.4,
+        "address": "Niriidon 12, Athina 116 34, Greece",
+        "latitude": 37.974767899999996,
+        "longitude": 23.7493663
+    },
+    {
+        "category": "restaurants",
+        "title": "Karamanlidika",
+        "rating": 4.7,
+        "address": "Evripidou 52, Athina 105 52, Greece",
+        "latitude": 37.9802444,
+        "longitude": 23.7256423
+    },
+    {
+        "category": "restaurants",
+        "title": "A Little Taste of Home Restaurant",
+        "rating": 4.8,
+        "address": "Astiggos 8, Athina 105 55, Greece",
+        "latitude": 37.976762799999996,
+        "longitude": 23.7229679
+    },
+    {
+        "category": "restaurants",
+        "title": "Oroscopo restaurant",
+        "rating": 4.7,
+        "address": "Antinoros 42-44, Athina 161 21, Greece",
+        "latitude": 37.9734552,
+        "longitude": 23.750504199999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Efcharis restaurant",
+        "rating": 4.6,
+        "address": "Adrianou 49Α, Athina 105 55, Greece",
+        "latitude": 37.975665899999996,
+        "longitude": 23.725496399999997
+    },
+    {
+        "category": "restaurants",
+        "title": "LIONDI Traditional Greek Restaurant",
+        "rating": 4.7,
+        "address": "Makrigianni 19-21, Athina 117 42, Greece",
+        "latitude": 37.9682108,
+        "longitude": 23.729477
+    },
+    {
+        "category": "restaurants",
+        "title": "MIRONI Restaurant - Greek Kitchen",
+        "rating": 4.7,
+        "address": "Meg. Alexandrou 7, Athina 104 37, Greece",
+        "latitude": 37.9846499,
+        "longitude": 23.7214077
+    },
+    {
+        "category": "restaurants",
+        "title": "Ατίταμος",
+        "rating": 4.7,
+        "address": "Kapodistriou 2, Athina 106 83, Greece",
+        "latitude": 37.986112999999996,
+        "longitude": 23.732371999999998
+    },
+    {
+        "category": "restaurants",
+        "title": "The Traditional",
+        "rating": 4.6,
+        "address": "Kolokotroni 59, Athina 105 60, Greece",
+        "latitude": 37.9776972,
+        "longitude": 23.7287864
+    },
+    {
+        "category": "restaurants",
+        "title": "Bandiera",
+        "rating": 4.8,
+        "address": "Taki 19, Athina 105 54, Greece",
+        "latitude": 37.978313,
+        "longitude": 23.723851
+    },
+    {
+        "category": "restaurants",
+        "title": "Kuzina",
+        "rating": 4.5,
+        "address": "Adrianou 9, Athina 105 55, Greece",
+        "latitude": 37.9764194,
+        "longitude": 23.7220694
+    },
+    {
+        "category": "restaurants",
+        "title": "Aleria Restaurant",
+        "rating": 4.7,
+        "address": "Meg. Alexandrou 57, Athina 104 35, Greece",
+        "latitude": 37.9830778,
+        "longitude": 23.7177722
+    },
+    {
+        "category": "restaurants",
+        "title": "EATERY Bairaktaris Aiolou 29",
+        "rating": 4.7,
+        "address": "Aiolou 29, Athina 105 51, Greece",
+        "latitude": 37.9773767,
+        "longitude": 23.7276515
+    },
+    {
+        "category": "restaurants",
+        "title": "Krasopoulio tou Kokkora",
+        "rating": 4.7,
+        "address": "Esopou 4, Athina 105 54, Greece",
+        "latitude": 37.9777196,
+        "longitude": 23.7241607
+    },
+    {
+        "category": "restaurants",
+        "title": "AGORA",
+        "rating": 4.5,
+        "address": "31, Christou Vournazou str, Athina 115 21, Greece",
+        "latitude": 37.9868436,
+        "longitude": 23.7573765
+    },
+    {
+        "category": "restaurants",
+        "title": "Athena 's Cook",
+        "rating": 4.7,
+        "address": "Nikis 20, Athina 105 57, Greece",
+        "latitude": 37.974486999999996,
+        "longitude": 23.732976999999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Nolan",
+        "rating": 4.6,
+        "address": "Voulis 31 - 33, Athina 105 57, Greece",
+        "latitude": 37.9747986,
+        "longitude": 23.7323718
+    },
+    {
+        "category": "restaurants",
+        "title": "Aspro Alogo (i.e. White Horse) Traditional Greek Food",
+        "rating": 4.7,
+        "address": "Apollonos, Athina 105 57, Greece",
+        "latitude": 37.974837,
+        "longitude": 23.7312804
+    },
+    {
+        "category": "restaurants",
+        "title": "Maiandros Restaurant",
+        "rating": 4.6,
+        "address": "Adrianou 47, Athina 105 55, Greece",
+        "latitude": 37.975674399999996,
+        "longitude": 23.7253544
+    },
+    {
+        "category": "restaurants",
+        "title": "Vegan Beat Athens",
+        "rating": 4.8,
+        "address": "Perikleous 56, Athina 105 60, Greece",
+        "latitude": 37.976735999999995,
+        "longitude": 23.729823399999997
+    },
+    {
+        "category": "restaurants",
+        "title": "ILIADA",
+        "rating": 4.8,
+        "address": "Kidathineon 1 - 3, Athina 105 57, Greece",
+        "latitude": 37.9727672,
+        "longitude": 23.733385
+    },
+    {
+        "category": "cafes",
+        "title": "Laluk Cafe-Bar",
+        "rating": 4.8,
+        "address": "Geor. Olimpiou 15, Athina 117 41, Greece",
+        "latitude": 37.9628563,
+        "longitude": 23.7222938
+    },
+    {
+        "category": "cafes",
+        "title": "Little Tree Books and Coffee",
+        "rating": 4.7,
+        "address": "Kavalloti 2, Athina 117 42, Greece",
+        "latitude": 37.9681624,
+        "longitude": 23.7270509
+    },
+    {
+        "category": "cafes",
+        "title": "Kimolia Art Cafe",
+        "rating": 4.5,
+        "address": "Iperidou 5, Athina 105 58, Greece",
+        "latitude": 37.973481199999995,
+        "longitude": 23.732588099999997
+    },
+    {
+        "category": "cafes",
+        "title": "Melina Mercouri Café",
+        "rating": 4.4,
+        "address": "Lisiou 22, Athina 105 56, Greece",
+        "latitude": 37.9733376,
+        "longitude": 23.728599199999998
+    },
+    {
+        "category": "cafes",
+        "title": "Petite Fleur",
+        "rating": 4.7,
+        "address": "Omirou 44, Athina 106 72, Greece",
+        "latitude": 37.9801396,
+        "longitude": 23.7372421
+    },
+    {
+        "category": "cafes",
+        "title": "Taf Coffee",
+        "rating": 4.6,
+        "address": "Emmanouil Benaki 7, Athina 106 78, Greece",
+        "latitude": 37.9835085,
+        "longitude": 23.7308313
+    },
+    {
+        "category": "cafes",
+        "title": "Styl & Cafe Ltd",
+        "rating": 4.6,
+        "address": "Ag. Anargiron 12, Athina 105 54, Greece",
+        "latitude": 37.9790083,
+        "longitude": 23.7235083
+    },
+    {
+        "category": "cafes",
+        "title": "Café στον κήπο του Νομισματικού Μουσείου",
+        "rating": 4.5,
+        "address": "Panepistimiou 12, Athina 106 71, Greece",
+        "latitude": 37.9780601,
+        "longitude": 23.7355938
+    },
+    {
+        "category": "cafes",
+        "title": "Myller Coffee Shop",
+        "rating": 4.8,
+        "address": "Katsikogianni 9, Athina 105 54, Greece",
+        "latitude": 37.9789838,
+        "longitude": 23.7240804
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee Lab Athens",
+        "rating": 4.9,
+        "address": "Sofokleous 18, Athina 186 50, Greece",
+        "latitude": 37.981052999999996,
+        "longitude": 23.727847
+    },
+    {
+        "category": "cafes",
+        "title": "Lotte cafe-bistrot",
+        "rating": 4.5,
+        "address": "Tsami Karatasou 2, Athina 117 42, Greece",
+        "latitude": 37.9671527,
+        "longitude": 23.7270543
+    },
+    {
+        "category": "cafes",
+        "title": "Varnava Café",
+        "rating": 4.6,
+        "address": "Pl. Varnava 1, Athina 116 35, Greece",
+        "latitude": 37.9660217,
+        "longitude": 23.7434413
+    },
+    {
+        "category": "cafes",
+        "title": "Little Kook",
+        "rating": 4.3,
+        "address": "Karaiskaki, Athina 105 54, Greece",
+        "latitude": 37.97772,
+        "longitude": 23.724286799999998
+    },
+    {
+        "category": "cafes",
+        "title": "Usurum Brunch & Cocktails",
+        "rating": 4.8,
+        "address": "Lepeniotou 19, Athina 105 54, Greece",
+        "latitude": 37.9781839,
+        "longitude": 23.722279399999998
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Bar 67",
+        "rating": 4.7,
+        "address": "Emmanouil Benaki 67, Athina 106 81, Greece",
+        "latitude": 37.985830899999996,
+        "longitude": 23.735146999999998
+    },
+    {
+        "category": "cafes",
+        "title": "λέικ καφέ",
+        "rating": 4.8,
+        "address": "Aiginis 1, Athina 113 62, Greece",
+        "latitude": 37.9957068,
+        "longitude": 23.737099699999998
+    },
+    {
+        "category": "cafes",
+        "title": "ELLYZ Cafe Athens",
+        "rating": 4.3,
+        "address": "Αγίου Φιλίππου 11, Athina 105 55, Greece",
+        "latitude": 37.9765564,
+        "longitude": 23.7233014
+    },
+    {
+        "category": "cafes",
+        "title": "MOKKA SPECIALTY COFFEE S.A.",
+        "rating": 4.6,
+        "address": "Athinas 44, Athina 105 51, Greece",
+        "latitude": 37.9807947,
+        "longitude": 23.7273982
+    },
+    {
+        "category": "cafes",
+        "title": "Coffee Joint",
+        "rating": 4.9,
+        "address": "Vourvachi 5-9, Athina 117 43, Greece",
+        "latitude": 37.9668409,
+        "longitude": 23.7310666
+    },
+    {
+        "category": "cafes",
+        "title": "L' Arrêt Du Temps- Η Παύση Του Χρόνου",
+        "rating": 4.6,
+        "address": "Leof. Vasileos Alexandrou 5-7, Athina 115 28, Greece",
+        "latitude": 37.9744509,
+        "longitude": 23.7508946
+    },
+    {
+        "category": "mountains",
+        "title": "Lycabettus Hill",
+        "rating": 4.7,
+        "address": "Σαρανταπήχου, Μονοπατι Λυκαβηττου &, Athina 114 71, Greece",
+        "latitude": 37.9832343,
+        "longitude": 23.7465005
+    },
+    {
+        "category": "mountains",
+        "title": "Mount Lycabettus",
+        "rating": 4.8,
+        "address": "Athens 114 71, Greece",
+        "latitude": 37.9817858,
+        "longitude": 23.743056499999998
+    },
+    {
+        "category": "mountains",
+        "title": "Acropolis",
+        "rating": 4.7,
+        "address": "Athens 105 58, Greece",
+        "latitude": 37.9715323,
+        "longitude": 23.725749099999998
+    },
+    {
+        "category": "mountains",
+        "title": "Lycabettus Hill Viewing Area",
+        "rating": 4.8,
+        "address": "Athina 114 71, Greece",
+        "latitude": 37.9818752,
+        "longitude": 23.7431244
+    },
+    {
+        "category": "mountains",
+        "title": "Oros Likavittos",
+        "rating": 4.9,
+        "address": "Athens 114 71, Greece",
+        "latitude": 37.9833201,
+        "longitude": 23.744730099999998
+    },
+    {
+        "category": "mountains",
+        "title": "Oros Ardittos",
+        "rating": 5,
+        "address": "Athens 116 36, Greece",
+        "latitude": 37.967100099999996,
+        "longitude": 23.7383101
+    },
+    {
+        "category": "waterfalls",
+        "title": "Rapentosa Waterfall",
+        "rating": 4.5,
+        "address": "Rodopoli 145 74, Greece",
+        "latitude": 38.110316399999995,
+        "longitude": 23.91966
+    },
+    {
+        "category": "waterfalls",
+        "title": "Drymonas Waterfalls",
+        "rating": 4.7,
+        "address": "Δρυμώνας, Καταρράκτες, Drimona 340 05, Greece",
+        "latitude": 38.8723375,
+        "longitude": 23.293374399999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "Lepida Waterfall",
+        "rating": 4.6,
+        "address": "Voria Kinouria 220 01, Greece",
+        "latitude": 37.3424045,
+        "longitude": 22.6270193
+    },
+    {
+        "category": "waterfalls",
+        "title": "Καταρράκτης Βαλανάρη",
+        "rating": 4.3,
+        "address": "Kimonos, Ntrafi 190 09, Greece",
+        "latitude": 38.036967499999996,
+        "longitude": 23.9062086
+    },
+    {
+        "category": "waterfalls",
+        "title": "Balta di Stringa waterfalls",
+        "rating": 4.8,
+        "address": "Iliochori 440 10, Greece",
+        "latitude": 39.9752151,
+        "longitude": 20.9171783
+    },
+    {
+        "category": "waterfalls",
+        "title": "Skra Waterfalls",
+        "rating": 4.8,
+        "address": "Επαρ.Οδ. Κούπας, Skra 614 00, Greece",
+        "latitude": 41.0640761,
+        "longitude": 22.3923019
+    },
+    {
+        "category": "waterfalls",
+        "title": "Polylimnio Waterfalls",
+        "rating": 4.7,
+        "address": "Μονοπάτι Πολυλίμνιο, Voufrada 240 14, Greece",
+        "latitude": 36.983698,
+        "longitude": 21.8539679
+    },
+    {
+        "category": "waterfalls",
+        "title": "Waterfall",
+        "rating": 4.1,
+        "address": "Konstantinoupoleos 74, Moschato 183 45, Greece",
+        "latitude": 37.9503108,
+        "longitude": 23.674777499999998
+    },
+    {
+        "category": "waterfalls",
+        "title": "Paradise Waterfalls",
+        "rating": 4.9,
+        "address": "Ippokratous 77-79, Athina 106 80, Greece",
+        "latitude": 37.984339399999996,
+        "longitude": 23.7385342
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Vouliagmeni",
+        "rating": 4.3,
+        "address": "Vouliagmeni 166 71, Greece",
+        "latitude": 37.807800199999996,
+        "longitude": 23.7855018
+    },
+    {
+        "category": "lakes",
+        "title": "Limni Marathonos",
+        "rating": 4.3,
+        "address": "Kapandriti 190 14, Greece",
+        "latitude": 38.1666667,
+        "longitude": 23.8833333
+    },
+    {
+        "category": "lakes",
+        "title": "Limni Mpeletsi",
+        "rating": 4.5,
+        "address": "Ippokratios Politia 190 14, Greece",
+        "latitude": 38.212738699999996,
+        "longitude": 23.804745099999998
+    },
+    {
+        "category": "lakes",
+        "title": "Limni Koumoundourou",
+        "rating": 3.6,
+        "address": "Aspropirgos 193 00, Greece",
+        "latitude": 38.0239586,
+        "longitude": 23.600377599999998
+    },
+    {
+        "category": "lakes",
+        "title": "Lake Doxa",
+        "rating": 4.9,
+        "address": "Feneos 200 14, Greece",
+        "latitude": 37.929167,
+        "longitude": 22.286389
+    },
+    {
+        "category": "beaches",
+        "title": "Kalamaki Beach",
+        "rating": 4.1,
+        "address": "Alimos 174 55, Greece",
+        "latitude": 37.9090403,
+        "longitude": 23.7131461
+    },
+    {
+        "category": "beaches",
+        "title": "Ακτή Βουλιαγμένης",
+        "rating": 4.4,
+        "address": "Leof. Poseidonos 2, Vouliagmeni 167 71, Greece",
+        "latitude": 37.8133839,
+        "longitude": 23.779491
+    },
+    {
+        "category": "beaches",
+        "title": "Paralia Mpati",
+        "rating": 4.3,
+        "address": "Palaio Faliro 175 62, Greece",
+        "latitude": 37.9207076,
+        "longitude": 23.6969168
+    },
+    {
+        "category": "beaches",
+        "title": "Paralia Flisvos",
+        "rating": 4.4,
+        "address": "Palaio Faliro 175 61, Greece",
+        "latitude": 37.9232689,
+        "longitude": 23.6925758
+    },
+    {
+        "category": "beaches",
+        "title": "Astir Beach",
+        "rating": 4.3,
+        "address": "Apollonos 40, Vouliagmeni 166 71, Greece",
+        "latitude": 37.8103139,
+        "longitude": 23.773847699999997
+    },
+    {
+        "category": "swimming pools",
+        "title": "Ilisia Open Air Pool and Athletic Centre",
+        "rating": 4.2,
+        "address": "Taxilou 42, Athina 115 28, Greece",
+        "latitude": 37.9737434,
+        "longitude": 23.7625885
+    },
+    {
+        "category": "swimming pools",
+        "title": "Serafio Swimming Pool",
+        "rating": 4.5,
+        "address": "Pireos 160, Athina 118 54, Greece",
+        "latitude": 37.9736137,
+        "longitude": 23.7067622
+    },
+    {
+        "category": "swimming pools",
+        "title": "Mavili Beach",
+        "rating": 4.1,
+        "address": "Timoleontos Vassou 8, Athina 115 21, Greece",
+        "latitude": 37.9835427,
+        "longitude": 23.757204299999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Indoor pool",
+        "rating": 4,
+        "address": "Passov 10, Athina 112 55, Greece",
+        "latitude": 38.0130005,
+        "longitude": 23.7422041
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kolokynthou Municipal Indoor Swimming Pool",
+        "rating": 4.2,
+        "address": "Leandrou 54, Athina 104 43, Greece",
+        "latitude": 37.9993085,
+        "longitude": 23.7099027
+    },
+    {
+        "category": "swimming pools",
+        "title": "OAKA - Outdoor Olympic Aquatic Center",
+        "rating": 4.4,
+        "address": "Pentelikou 15, Marousi 151 23, Greece",
+        "latitude": 38.0387136,
+        "longitude": 23.7808508
+    },
+    {
+        "category": "swimming pools",
+        "title": "Blue swimming center",
+        "rating": 4.6,
+        "address": "Skyrou 85, Athina 113 63, Greece",
+        "latitude": 37.9975324,
+        "longitude": 23.745186099999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Panellinios Swimming Pool",
+        "rating": 4,
+        "address": "Mavrommateon 36, Athina 104 34, Greece",
+        "latitude": 37.995047299999996,
+        "longitude": 23.733578599999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Kallithea Municipal Swimming Pool",
+        "rating": 4.5,
+        "address": "Navarchou Votsi 1, Kallithea 176 74, Greece",
+        "latitude": 37.943557899999995,
+        "longitude": 23.691464699999997
+    },
+    {
+        "category": "swimming pools",
+        "title": "Olympic Swimming Complex",
+        "rating": 4.2,
+        "address": "Κλειστό Ολυμπιακό Κολυμβητήριο, Marousi 151 23, Greece",
+        "latitude": 38.038858999999995,
+        "longitude": 23.783002699999997
+    },
+    {
+        "category": "swimming pools",
+        "title": "Olympic Aquatic Centre",
+        "rating": 4.5,
+        "address": "Leoforos Kifisias 37, Marousi 151 23, Greece",
+        "latitude": 38.038999499999996,
+        "longitude": 23.7830001
+    },
+    {
+        "category": "swimming pools",
+        "title": "Nea Smyrni Public Swimming Pool",
+        "rating": 4.1,
+        "address": "171 24, Trapezountos 13, Nea Smirni 171 24, Greece",
+        "latitude": 37.9471291,
+        "longitude": 23.7221787
+    },
+    {
+        "category": "swimming pools",
+        "title": "Απόλλων Κολυμβητική Ακαδημία",
+        "rating": 4.5,
+        "address": "Leof. Irakliou 119, Athina 111 43, Greece",
+        "latitude": 38.0276277,
+        "longitude": 23.7408808
+    },
+    {
+        "category": "swimming pools",
+        "title": "Grava Swimming Pool",
+        "rating": 3.9,
+        "address": "Passov 10, Galatsi 111 46, Greece",
+        "latitude": 38.013005,
+        "longitude": 23.7422048
+    },
+    {
+        "category": "swimming pools",
+        "title": "Athinna Swimming Center",
+        "rating": 4.6,
+        "address": "Iraklitou 24, Chalandri 152 38, Greece",
+        "latitude": 38.0251918,
+        "longitude": 23.841385799999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Aqua Park",
+        "rating": 4.3,
+        "address": "Alimos 174 55, Greece",
+        "latitude": 37.907925999999996,
+        "longitude": 23.7219384
+    },
+    {
+        "category": "swimming pools",
+        "title": "Resteio Swimming",
+        "rating": 4.4,
+        "address": "Paleo Faliro 175 61, Greece",
+        "latitude": 37.9330709,
+        "longitude": 23.6868104
+    },
+    {
+        "category": "swimming pools",
+        "title": "Pool of Panionios GS Smyrmis",
+        "rating": 4.2,
+        "address": "Agiou Andreou 16, Nea Smirni 171 22, Greece",
+        "latitude": 37.944088199999996,
+        "longitude": 23.7103246
+    },
+    {
+        "category": "swimming pools",
+        "title": "Municipal Swimming Pool Ilioupoli",
+        "rating": 4.4,
+        "address": "7, Archiepiskopou Damaskinou 5, Ilioupoli 163 42, Greece",
+        "latitude": 37.924795499999995,
+        "longitude": 23.7612193
+    },
+    {
+        "category": "swimming pools",
+        "title": "Peristeri Municipal Swimming Pool",
+        "rating": 4.3,
+        "address": "Pefkon 70, Peristeri 121 37, Greece",
+        "latitude": 38.030037899999996,
+        "longitude": 23.6774848
+    },
+    {
+        "category": "resorts",
+        "title": "Grand Hyatt Athens",
+        "rating": 4.3,
+        "address": "Leof. Andrea Siggrou 115, Athina 117 45, Greece",
+        "latitude": 37.9574365,
+        "longitude": 23.718270399999998
+    },
+    {
+        "category": "resorts",
+        "title": "91 Athens Riviera",
+        "rating": 4.7,
+        "address": "Α' Ακτή, Leof. Alkionidon 4, Voula 166 74, Greece",
+        "latitude": 37.8535593,
+        "longitude": 23.7512451
+    },
+    {
+        "category": "resorts",
+        "title": "Four Seasons Astir Palace Hotel Athens",
+        "rating": 4.8,
+        "address": "Apollonos 40, Vouliagmeni 166 71, Greece",
+        "latitude": 37.805205,
+        "longitude": 23.77115
+    },
+    {
+        "category": "resorts",
+        "title": "InterContinental Athenaeum Athens by IHG",
+        "rating": 4.6,
+        "address": "Leof. Andrea Siggrou 89-93, Athina 117 45, Greece",
+        "latitude": 37.9595518,
+        "longitude": 23.721764399999998
+    },
+    {
+        "category": "resorts",
+        "title": "Coco-Mat Athens BC",
+        "rating": 4.7,
+        "address": "Falirou 5, Athina 117 42, Greece",
+        "latitude": 37.9672859,
+        "longitude": 23.7290457
+    },
+    {
+        "category": "resorts",
+        "title": "King George, a Luxury Collection Hotel, Athens",
+        "rating": 4.7,
+        "address": "3 Vasileos Georgiou A, Pl. Sintagmatos Str, Athina 105 64, Greece",
+        "latitude": 37.976383999999996,
+        "longitude": 23.734949399999998
+    },
+    {
+        "category": "resorts",
+        "title": "Hapimag Resort Athens",
+        "rating": 4.7,
+        "address": "Tsatsou 12, Athina 105 58, Greece",
+        "latitude": 37.9722177,
+        "longitude": 23.7324293
+    },
+    {
+        "category": "resorts",
+        "title": "Arion Athens Hotel",
+        "rating": 4.3,
+        "address": "Ag. Dimitriou 18, Athina 105 54, Greece",
+        "latitude": 37.979452599999995,
+        "longitude": 23.7256856
+    },
+    {
+        "category": "resorts",
+        "title": "St George Lycabettus Lifestyle Hotel",
+        "rating": 4.4,
+        "address": "Kleomenous 2, Athina 106 75, Greece",
+        "latitude": 37.9794114,
+        "longitude": 23.7423026
+    },
+    {
+        "category": "resorts",
+        "title": "NEW Hotel",
+        "rating": 4.6,
+        "address": "Filellinon 16, Athina 105 57, Greece",
+        "latitude": 37.973362099999996,
+        "longitude": 23.7335136
+    },
+    {
+        "category": "resorts",
+        "title": "The Dolli at Acropolis, A Hotel to Live",
+        "rating": 4.7,
+        "address": "Mitropoleos 49, Athina 105 56, Greece",
+        "latitude": 37.9758119,
+        "longitude": 23.7281266
+    },
+    {
+        "category": "resorts",
+        "title": "Elia Ermou Athens Hotel",
+        "rating": 4.7,
+        "address": "Ermou 15-17, Athina 105 63, Greece",
+        "latitude": 37.9756353,
+        "longitude": 23.731881299999998
+    },
+    {
+        "category": "resorts",
+        "title": "The Lekka Hotel & Spa",
+        "rating": 3.9,
+        "address": "Lekka 31, Athina 105 62, Greece",
+        "latitude": 37.977435199999995,
+        "longitude": 23.731247099999997
+    },
+    {
+        "category": "resorts",
+        "title": "Athenian Riviera Hotel & Suites",
+        "rating": 4.5,
+        "address": "Danais 7 &, Armonias, Vouliagmeni 166 71, Greece",
+        "latitude": 37.8154153,
+        "longitude": 23.7769777
+    },
+    {
+        "category": "resorts",
+        "title": "Meliá Athens",
+        "rating": 4.3,
+        "address": "28is Oktovriou, Athina 106 77, Greece",
+        "latitude": 37.986162,
+        "longitude": 23.730088
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Grande Bretagne, a Luxury Collection Hotel",
+        "rating": 4.8,
+        "address": "1 Vasileos Georgiou A, Syntagma Square Str, Athina 105 64, Greece",
+        "latitude": 37.976178,
+        "longitude": 23.7353123
+    },
+    {
+        "category": "resorts",
+        "title": "Anise, Aluma Hotel & Resort",
+        "rating": 4.5,
+        "address": "Evripidou 82, Athina 105 53, Greece",
+        "latitude": 37.980458999999996,
+        "longitude": 23.723724
+    },
+    {
+        "category": "resorts",
+        "title": "Wyndham Grand Athens",
+        "rating": 4.3,
+        "address": "Meg. Alexandrou 2, Athina 104 37, Greece",
+        "latitude": 37.984797799999996,
+        "longitude": 23.7211787
+    },
+    {
+        "category": "resorts",
+        "title": "Grecotel Pallas Athena",
+        "rating": 4.6,
+        "address": "Athinas 65, Athina 105 51, Greece",
+        "latitude": 37.9825194,
+        "longitude": 23.727362
+    },
+    {
+        "category": "resorts",
+        "title": "The Athens Gate Hotel",
+        "rating": 4.6,
+        "address": "Leof. Andrea Siggrou 10, Athina 117 41, Greece",
+        "latitude": 37.9687595,
+        "longitude": 23.731436499999997
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Athens",
+        "rating": 3.3,
+        "address": "Leof. Athinon 198-200, Athina 121 36, Greece",
+        "latitude": 38.0087076,
+        "longitude": 23.6717129
+    },
+    {
+        "category": "camping sites",
+        "title": "CAMPING ATHENS MOTORHOME PARK",
+        "rating": 4.7,
+        "address": "Agiou Dimitriou, Athina 153 51, Greece",
+        "latitude": 37.9930411,
+        "longitude": 23.8968821
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Dionisiotis",
+        "rating": 2.6,
+        "address": "Par. A/D PATHE, Athina 145 64, Greece",
+        "latitude": 38.1050204,
+        "longitude": 23.8134812
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Bacchus",
+        "rating": 4,
+        "address": "Λεωφόρος Αθηνών Σουνίου, Lavrio 195 00, Greece",
+        "latitude": 37.6761949,
+        "longitude": 24.0486856
+    },
+    {
+        "category": "hiking trails",
+        "title": "Philopappos Hill",
+        "rating": 4.8,
+        "address": "Φυλής 215, Athina 117 41, Greece",
+        "latitude": 37.9671194,
+        "longitude": 23.7215752
+    },
+    {
+        "category": "hiking trails",
+        "title": "Hymettus, Kesariani & Vyronas Aesthetic Forest",
+        "rating": 4.8,
+        "address": "Dervenakion 92, Vironas 162 32, Greece",
+        "latitude": 37.961666699999995,
+        "longitude": 23.7960067
+    },
+    {
+        "category": "hiking trails",
+        "title": "Finopoulou Hill",
+        "rating": 3.7,
+        "address": "Kon/nou Schina, Athina 114 73, Greece",
+        "latitude": 37.992258199999995,
+        "longitude": 23.7419084
+    },
+    {
+        "category": "hiking trails",
+        "title": "Athens National Garden",
+        "rating": 4.6,
+        "address": "Athina 105 57, Greece",
+        "latitude": 37.9725878,
+        "longitude": 23.737433
+    },
+    {
+        "category": "hiking trails",
+        "title": "Νταμάρια Παλαιού Ψυχικού",
+        "rating": 4,
+        "address": "Psichiko 154 52, Greece",
+        "latitude": 38.0106043,
+        "longitude": 23.7688274
+    },
+    {
+        "category": "hiking trails",
+        "title": "Pan's Cave",
+        "rating": 4.7,
+        "address": "Parnitha 133 45, Greece",
+        "latitude": 38.1467806,
+        "longitude": 23.6685306
+    },
+    {
+        "category": "hiking trails",
+        "title": "Lycabettus Hill",
+        "rating": 4.7,
+        "address": "Σαρανταπήχου, Μονοπατι Λυκαβηττου &, Athina 114 71, Greece",
+        "latitude": 37.9832343,
+        "longitude": 23.7465005
+    },
+    {
+        "category": "hiking trails",
+        "title": "Filothei Hill",
+        "rating": 4.6,
+        "address": "Filothei 152 37, Greece",
+        "latitude": 38.0254221,
+        "longitude": 23.7677974
+    },
+    {
+        "category": "hiking trails",
+        "title": "Veikou Grove",
+        "rating": 4.7,
+        "address": "Λεωφόρος Βεΐκου, Anagenniseos &, Galatsi 111 46, Greece",
+        "latitude": 38.0280792,
+        "longitude": 23.765435
+    },
+    {
+        "category": "hiking trails",
+        "title": "Strefi Hill",
+        "rating": 4.3,
+        "address": "Emmanouil Benaki 134, Athina 114 73, Greece",
+        "latitude": 37.9878885,
+        "longitude": 23.7391105
+    },
+    {
+        "category": "hiking trails",
+        "title": "Paths of Greece - Μονοπάτια της Ελλάδας",
+        "rating": null,
+        "address": "Alopekis 34, Athina 106 75, Greece",
+        "latitude": 37.9775676,
+        "longitude": 23.744898
+    },
+    {
+        "category": "hiking trails",
+        "title": "Paradise Trails",
+        "rating": 4.7,
+        "address": "Artemidos 3, Marousi 151 25, Greece",
+        "latitude": 38.0361064,
+        "longitude": 23.8031982
+    },
+    {
+        "category": "hiking trails",
+        "title": "Koutalas Mountain",
+        "rating": 4.5,
+        "address": "Unnamed Road, Vironas 162 33, Greece",
+        "latitude": 37.9558007,
+        "longitude": 23.7804324
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Olympian Zeus",
+        "rating": 4.4,
+        "address": "Athina 105 57, Greece",
+        "latitude": 37.9693,
+        "longitude": 23.7331
+    },
+    {
+        "category": "temples",
+        "title": "Erechtheion",
+        "rating": 4.8,
+        "address": "Athina 105 58, Greece",
+        "latitude": 37.9721553,
+        "longitude": 23.7263472
+    },
+    {
+        "category": "temples",
+        "title": "Ancient Temple of Athena",
+        "rating": 4.8,
+        "address": "Anafiotika 11, Athina 105 58, Greece",
+        "latitude": 37.971913099999995,
+        "longitude": 23.726349499999998
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Zeus",
+        "rating": 4.6,
+        "address": "Archea Olimpia 270 65, Greece",
+        "latitude": 37.6379443,
+        "longitude": 21.6302141
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Aphaia",
+        "rating": 4.7,
+        "address": "Egina 180 10, Greece",
+        "latitude": 37.7543466,
+        "longitude": 23.533098799999998
+    },
+    {
+        "category": "temples",
+        "title": "Temple of Apollo Patroos",
+        "rating": 4.4,
+        "address": "Adrianou 11, Athina 105 55, Greece",
+        "latitude": 37.975525,
+        "longitude": 23.722125
+    },
+    {
+        "category": "temples",
+        "title": "Altar of Aphrodite Urania",
+        "rating": 4.5,
+        "address": "Athina 105 55, Greece",
+        "latitude": 37.9759977,
+        "longitude": 23.7217099
+    },
+    {
+        "category": "museums",
+        "title": "National Archaeological Museum",
+        "rating": 4.6,
+        "address": "28is Oktovriou 44, Athina 106 82, Greece",
+        "latitude": 37.989022899999995,
+        "longitude": 23.732759899999998
+    },
+    {
+        "category": "museums",
+        "title": "Acropolis Museum",
+        "rating": 4.7,
+        "address": "Dionysiou Areopagitou 15, Athina 117 42, Greece",
+        "latitude": 37.968449899999996,
+        "longitude": 23.7285227
+    },
+    {
+        "category": "museums",
+        "title": "Benaki Museum",
+        "rating": 4.7,
+        "address": "Koumpari 1, Athina 106 74, Greece",
+        "latitude": 37.975952,
+        "longitude": 23.740446
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Cycladic Art",
+        "rating": 4.7,
+        "address": "Neofitou Douka 4, Athina 106 74, Greece",
+        "latitude": 37.9758705,
+        "longitude": 23.7422236
+    },
+    {
+        "category": "museums",
+        "title": "War Museum Athens",
+        "rating": 4.7,
+        "address": "Rizari 2-4, Athina 106 75, Greece",
+        "latitude": 37.9754601,
+        "longitude": 23.7455538
+    },
+    {
+        "category": "museums",
+        "title": "Byzantine & Christian Museum",
+        "rating": 4.6,
+        "address": "Leof. Vasilissis Sofias 22, Athina 106 75, Greece",
+        "latitude": 37.9753134,
+        "longitude": 23.7446275
+    },
+    {
+        "category": "museums",
+        "title": "Numismatic Museum of Athens",
+        "rating": 4.6,
+        "address": "Ιλίου Μέλαθρον, Ελ. Βενιζέλου, Panepistimiou 12, 10671, Athina, Greece",
+        "latitude": 37.977812199999995,
+        "longitude": 23.7353316
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Ancient Greek Technology Kotsanas",
+        "rating": 4.8,
+        "address": "Pindarou 6, Athina 106 71, Greece",
+        "latitude": 37.977685199999996,
+        "longitude": 23.7381924
+    },
+    {
+        "category": "museums",
+        "title": "Stoa of Attalos - Museum of the Ancient Agora",
+        "rating": 4.8,
+        "address": "Adrianou 24, Athina 105 55, Greece",
+        "latitude": 37.974736299999996,
+        "longitude": 23.7240322
+    },
+    {
+        "category": "museums",
+        "title": "National Gallery - Alexandros Soutsos Museum",
+        "rating": 4.6,
+        "address": "Leof. Vasileos Konstantinou 50, Athina 115 25, Greece",
+        "latitude": 37.975620899999996,
+        "longitude": 23.749358599999997
+    },
+    {
+        "category": "museums",
+        "title": "Hellenic Motor Museum",
+        "rating": 4.7,
+        "address": "Ioulianou 33, Athina 104 33, Greece",
+        "latitude": 37.991341399999996,
+        "longitude": 23.7299758
+    },
+    {
+        "category": "museums",
+        "title": "Ancient Agora of Athens",
+        "rating": 4.7,
+        "address": "Athina 105 55, Greece",
+        "latitude": 37.974897,
+        "longitude": 23.722093299999997
+    },
+    {
+        "category": "museums",
+        "title": "The Jewish Museum of Greece",
+        "rating": 4.6,
+        "address": "Nikis 39, Athina 105 57, Greece",
+        "latitude": 37.972889599999995,
+        "longitude": 23.733117099999998
+    },
+    {
+        "category": "museums",
+        "title": "National Historical Museum - Old Parliament House",
+        "rating": 4.7,
+        "address": "ΜΕΓΑΡΟ ΠΑΛΑΙΑΣ ΒΟΥΛΗΣ ΠΛΑΤΕΙΑ ΚΟΛΟΚΟΤΡΩΝΗ, Stadiou 13, Athina 105 61, Greece",
+        "latitude": 37.9778836,
+        "longitude": 23.7328813
+    },
+    {
+        "category": "museums",
+        "title": "Ilias Lalaounis Jewelry Museum",
+        "rating": 4.7,
+        "address": "Kallisperi 12, Athina 117 42, Greece",
+        "latitude": 37.969197799999996,
+        "longitude": 23.726638599999998
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Greek Folk Musical Instruments \"Fivos Anoyanakis\" - Centre for Ethnomusicology",
+        "rating": 4.6,
+        "address": "Diogenous 1-3, Athina 105 56, Greece",
+        "latitude": 37.9744531,
+        "longitude": 23.727691699999998
+    },
+    {
+        "category": "museums",
+        "title": "National Museum of Contemporary Art Αthens (ΕΜΣΤ)",
+        "rating": 4.4,
+        "address": "Λεωφ. Καλλιρρόης και Αμβρ. Φραντζή (πρώην εργοστάσιο, Leof. Andrea Siggrou 51-53, Athina 117 43, Greece",
+        "latitude": 37.963000799999996,
+        "longitude": 23.7253443
+    },
+    {
+        "category": "museums",
+        "title": "Herakleidon Museum",
+        "rating": 4.6,
+        "address": "Iraklidon 16, Athina 118 51, Greece",
+        "latitude": 37.9751641,
+        "longitude": 23.718598
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Illusions Athens",
+        "rating": 4.5,
+        "address": "Ermou 119 Entrance from, Astiggos 12, Athina 105 55, Greece",
+        "latitude": 37.9768103,
+        "longitude": 23.7228082
+    },
+    {
+        "category": "museums",
+        "title": "School Life & Education Museum",
+        "rating": 4.7,
+        "address": "Agias Filotheis 17, Athina 105 56, Greece",
+        "latitude": 37.974191999999995,
+        "longitude": 23.7301771
+    },
+    {
+        "category": "night markets",
+        "title": "Flea Market",
+        "rating": 4.4,
+        "address": "Ifestou, Athina 105 55, Greece",
+        "latitude": 37.9762516,
+        "longitude": 23.7256143
+    },
+    {
+        "category": "night markets",
+        "title": "Varvakios Central Municipal Market",
+        "rating": 4.2,
+        "address": "Νο68 Βαρβακειος Αγορα, Athina, Greece",
+        "latitude": 37.980428599999996,
+        "longitude": 23.7276638
+    },
+    {
+        "category": "night markets",
+        "title": "Pandrossou Street Market",
+        "rating": 4.4,
+        "address": "Pandrossou 26-28, Athina 105 56, Greece",
+        "latitude": 37.9754509,
+        "longitude": 23.7279315
+    },
+    {
+        "category": "night markets",
+        "title": "Kallidromiou Farmers' Market",
+        "rating": 4.6,
+        "address": "Kallidromiou, Athina 114 73, Greece",
+        "latitude": 37.9873056,
+        "longitude": 23.7376039
+    },
+    {
+        "category": "night markets",
+        "title": "Thissio flea market",
+        "rating": 4.4,
+        "address": "Ag. Asomaton, Athina 118 51, Greece",
+        "latitude": 37.9763832,
+        "longitude": 23.720388399999997
+    },
+    {
+        "category": "night markets",
+        "title": "Kypseli Municipal Market",
+        "rating": 4.4,
+        "address": "Negri Fokionos 42, Athina 113 61, Greece",
+        "latitude": 38.000798599999996,
+        "longitude": 23.737828099999998
+    },
+    {
+        "category": "night markets",
+        "title": "The Meet Market",
+        "rating": 4.5,
+        "address": "Petraki 12, Athina 105 63, Greece",
+        "latitude": 37.9756156,
+        "longitude": 23.7315445
+    },
+    {
+        "category": "night markets",
+        "title": "Monastiraki Square",
+        "rating": 4.5,
+        "address": "Apollonos 21, Athina 105 57, Greece",
+        "latitude": 37.976408299999996,
+        "longitude": 23.725885899999998
+    },
+    {
+        "category": "night markets",
+        "title": "ATHENS FLEA MARKET",
+        "rating": 4.3,
+        "address": "Pl. Monastirakiou 6, Athina 105 55, Greece",
+        "latitude": 37.9761558,
+        "longitude": 23.7261353
+    },
+    {
+        "category": "night markets",
+        "title": "Thrift market",
+        "rating": 4.7,
+        "address": "Ερμού, Pireos, Athina 118 51, Greece",
+        "latitude": 37.9776133,
+        "longitude": 23.7152639
+    },
+    {
+        "category": "night markets",
+        "title": "Ancient Agora of Athens",
+        "rating": 4.7,
+        "address": "Athina 105 55, Greece",
+        "latitude": 37.974897,
+        "longitude": 23.722093299999997
+    },
+    {
+        "category": "night markets",
+        "title": "Abyssinia Square",
+        "rating": 4.5,
+        "address": "Pl. Avissinias 10, Athina 105 55, Greece",
+        "latitude": 37.9767363,
+        "longitude": 23.7238819
+    },
+    {
+        "category": "night markets",
+        "title": "Antique Market",
+        "rating": 4.3,
+        "address": "Pl. Avissinias 10, Athina 105 55, Greece",
+        "latitude": 37.9767959,
+        "longitude": 23.7237443
+    },
+    {
+        "category": "night markets",
+        "title": "FEVER",
+        "rating": 3.7,
+        "address": "Lagoumitzi 25, Athina 117 45, Greece",
+        "latitude": 37.9601869,
+        "longitude": 23.7198684
+    },
+    {
+        "category": "night markets",
+        "title": "Syntagma Square",
+        "rating": 4.5,
+        "address": "Pl. Sintagmatos, Athina 105 63, Greece",
+        "latitude": 37.975550999999996,
+        "longitude": 23.7347103
+    },
+    {
+        "category": "night markets",
+        "title": "Acropolis of Athens",
+        "rating": 4.8,
+        "address": "Athina 105 58, Greece",
+        "latitude": 37.9715323,
+        "longitude": 23.7257492
+    },
+    {
+        "category": "night markets",
+        "title": "Psirri Square",
+        "rating": 4.6,
+        "address": "Aristofanous 1, Athina 105 54, Greece",
+        "latitude": 37.978443999999996,
+        "longitude": 23.724937
+    },
+    {
+        "category": "night markets",
+        "title": "Omonoia Square",
+        "rating": 3.8,
+        "address": "Athina 104 31, Greece",
+        "latitude": 37.9838836,
+        "longitude": 23.7279186
+    },
+    {
+        "category": "night markets",
+        "title": "Small Market",
+        "rating": 4.3,
+        "address": "Eth. Antistaseos 35, Chalandri 152 32, Greece",
+        "latitude": 38.0157495,
+        "longitude": 23.7925547
+    },
+    {
+        "category": "night markets",
+        "title": "Kotzia Square",
+        "rating": 4.1,
+        "address": "Sofokleous 18, Athina 105 51, Greece",
+        "latitude": 37.981791699999995,
+        "longitude": 23.728027599999997
+    },
+    {
+        "category": "viewpoints",
+        "title": "Lycabettus Hill Viewing Area",
+        "rating": 4.8,
+        "address": "Athina 114 71, Greece",
+        "latitude": 37.9818752,
+        "longitude": 23.7431244
+    },
+    {
+        "category": "viewpoints",
+        "title": "Lycabettus Hill",
+        "rating": 4.7,
+        "address": "Σαρανταπήχου, Μονοπατι Λυκαβηττου &, Athina 114 71, Greece",
+        "latitude": 37.9832343,
+        "longitude": 23.7465005
+    },
+    {
+        "category": "viewpoints",
+        "title": "Viewpoint Philopappos Hill",
+        "rating": 4.9,
+        "address": "Athina 117 41, Greece",
+        "latitude": 37.9675499,
+        "longitude": 23.7220972
+    },
+    {
+        "category": "viewpoints",
+        "title": "Philopappos Hill",
+        "rating": 4.8,
+        "address": "Φυλής 215, Athina 117 41, Greece",
+        "latitude": 37.9671194,
+        "longitude": 23.7215752
+    },
+    {
+        "category": "viewpoints",
+        "title": "Attican Grove Viewpoint",
+        "rating": 4.7,
+        "address": "Athina 114 76, Greece",
+        "latitude": 38.001252799999996,
+        "longitude": 23.754065
+    },
+    {
+        "category": "viewpoints",
+        "title": "Hill of the Nymphs Viewpoint",
+        "rating": 4.9,
+        "address": "Dim. Eginitou 14, Athina 118 51, Greece",
+        "latitude": 37.9721559,
+        "longitude": 23.718429699999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Acropolis of Athens",
+        "rating": 4.8,
+        "address": "Athina 105 58, Greece",
+        "latitude": 37.9715323,
+        "longitude": 23.7257492
+    },
+    {
+        "category": "viewpoints",
+        "title": "Sunset",
+        "rating": 4.9,
+        "address": "XPC8+9X, Athina 118 51, Greece",
+        "latitude": 37.9702608,
+        "longitude": 23.7165769
+    },
+    {
+        "category": "viewpoints",
+        "title": "Athens National Garden",
+        "rating": 4.6,
+        "address": "Athina 105 57, Greece",
+        "latitude": 37.9725878,
+        "longitude": 23.737433
+    },
+    {
+        "category": "viewpoints",
+        "title": "Viewpoint Perifereiakos Galatsiou",
+        "rating": 4.8,
+        "address": "Leof. Attikou Alsous, Athina 113 63, Greece",
+        "latitude": 38.0054424,
+        "longitude": 23.753871999999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "City's Views",
+        "rating": 5,
+        "address": "Panetoliou 23, Athina 117 41, Greece",
+        "latitude": 37.9662633,
+        "longitude": 23.718885
+    },
+    {
+        "category": "viewpoints",
+        "title": "Parthenon",
+        "rating": 4.8,
+        "address": "Athina 105 58, Greece",
+        "latitude": 37.9715285,
+        "longitude": 23.7267166
+    },
+    {
+        "category": "viewpoints",
+        "title": "Areopagus Hill",
+        "rating": 4.8,
+        "address": "Theorias 21, Athina 105 55, Greece",
+        "latitude": 37.972365499999995,
+        "longitude": 23.723232199999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Taxiarches Hill Panoramic Viewpoint",
+        "rating": 4.8,
+        "address": "Kesariani 161 22, Greece",
+        "latitude": 37.960219599999995,
+        "longitude": 23.7931664
+    },
+    {
+        "category": "viewpoints",
+        "title": "Daphne Viewpoint",
+        "rating": 4.6,
+        "address": "Akrita Digeni, Dafni 172 34, Greece",
+        "latitude": 37.955355999999995,
+        "longitude": 23.7317821
+    },
+    {
+        "category": "viewpoints",
+        "title": "Monastiraki Square",
+        "rating": 4.5,
+        "address": "Apollonos 21, Athina 105 57, Greece",
+        "latitude": 37.976408299999996,
+        "longitude": 23.725885899999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Ancient Agora of Athens",
+        "rating": 4.7,
+        "address": "Athina 105 55, Greece",
+        "latitude": 37.974897,
+        "longitude": 23.722093299999997
+    },
+    {
+        "category": "viewpoints",
+        "title": "Syntagma Square",
+        "rating": 4.5,
+        "address": "Pl. Sintagmatos, Athina 105 63, Greece",
+        "latitude": 37.975550999999996,
+        "longitude": 23.7347103
+    },
+    {
+        "category": "viewpoints",
+        "title": "Filopappou Viewing Podium",
+        "rating": 4.9,
+        "address": "Athina 117 41, Greece",
+        "latitude": 37.9673671,
+        "longitude": 23.721445499999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Kynosargous Hill",
+        "rating": 4.6,
+        "address": "Athina 117 44, Greece",
+        "latitude": 37.9561412,
+        "longitude": 23.7337947
+    },
+    {
+        "category": "gardens",
+        "title": "Athens National Garden",
+        "rating": 4.6,
+        "address": "Athina 105 57, Greece",
+        "latitude": 37.9725878,
+        "longitude": 23.737433
+    },
+    {
+        "category": "gardens",
+        "title": "Diomidous Botanical Garden",
+        "rating": 4.7,
+        "address": "Iera Odos 403, Chaidari 124 61, Greece",
+        "latitude": 38.0108999,
+        "longitude": 23.6429372
+    },
+    {
+        "category": "gardens",
+        "title": "Zappeion Garden",
+        "rating": 4.7,
+        "address": "Leof. Vasilissis Olgas 1, Athina 105 57, Greece",
+        "latitude": 37.9702303,
+        "longitude": 23.7358701
+    },
+    {
+        "category": "gardens",
+        "title": "Botanical Museum of the National Gardens",
+        "rating": 4.5,
+        "address": "Leof. Vasilissis Sofias, Athina 105 57, Greece",
+        "latitude": 37.9740898,
+        "longitude": 23.73893
+    },
+    {
+        "category": "gardens",
+        "title": "Athens Concert Hall Garden",
+        "rating": 4.7,
+        "address": "Athina 115 21, Greece",
+        "latitude": 37.981591099999996,
+        "longitude": 23.753429099999998
+    },
+    {
+        "category": "gardens",
+        "title": "Garden of the Presidential Palace",
+        "rating": 4.6,
+        "address": "105 57, Vasileos Georgiou B 2, Athina 106 74, Greece",
+        "latitude": 37.9717681,
+        "longitude": 23.740664199999998
+    },
+    {
+        "category": "zoo",
+        "title": "Attica Zoological Park",
+        "rating": 4.6,
+        "address": "Spata 190 04, Greece",
+        "latitude": 37.9804384,
+        "longitude": 23.9108061
+    },
+    {
+        "category": "zoo",
+        "title": "Zoo",
+        "rating": 3.6,
+        "address": "Athina 105 57, Greece",
+        "latitude": 37.9737784,
+        "longitude": 23.739007599999997
+    },
+    {
+        "category": "adventure parks",
+        "title": "Adventure Park",
+        "rating": 4.7,
+        "address": "Epar.Od. Malakasas-Markopoulou, Malakasa 190 11, Greece",
+        "latitude": 38.2325277,
+        "longitude": 23.8099284
+    },
+    {
+        "category": "adventure parks",
+        "title": "Flisvos Park",
+        "rating": 4.5,
+        "address": "Πάρκο Φλοίσβου Λεωφόρος Ποσειδονος παλαιο φαληρο, Athina 175 61, Greece",
+        "latitude": 37.9282137,
+        "longitude": 23.687928199999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "XPLORE Entertainment Center",
+        "rating": 4.6,
+        "address": "Leof. Kifisias 37Α, Marousi 151 23, Greece",
+        "latitude": 38.0346371,
+        "longitude": 23.7910334
+    },
+    {
+        "category": "adventure parks",
+        "title": "Paradise Park",
+        "rating": 4.5,
+        "address": "Ε.Ο. Κόμβος, Metamorfoseos 100, Acharnes 136 71, Greece",
+        "latitude": 38.071501,
+        "longitude": 23.752976
+    },
+    {
+        "category": "adventure parks",
+        "title": "Tricky Fun Park",
+        "rating": 4.4,
+        "address": "Amasiou 9, Athina 111 43, Greece",
+        "latitude": 38.027049999999996,
+        "longitude": 23.7398223
+    },
+    {
+        "category": "adventure parks",
+        "title": "Smart Playland",
+        "rating": 4.1,
+        "address": "Spata Loutsa 190 04, Greece",
+        "latitude": 37.9843865,
+        "longitude": 23.9132274
+    },
+    {
+        "category": "adventure parks",
+        "title": "Ilioupolis Fun Park",
+        "rating": 4.4,
+        "address": "Navarinou 34, Ilioupoli 163 45, Greece",
+        "latitude": 37.9395835,
+        "longitude": 23.7547538
+    },
+    {
+        "category": "adventure parks",
+        "title": "Army Park",
+        "rating": 4.4,
+        "address": "Athina 115 27, Greece",
+        "latitude": 37.986519799999996,
+        "longitude": 23.777489199999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Playgrounds Smurfs",
+        "rating": 4.4,
+        "address": "Agiou Meletiou 196-198, Athina 104 43, Greece",
+        "latitude": 38.001866199999995,
+        "longitude": 23.7200727
+    },
+    {
+        "category": "adventure parks",
+        "title": "Luna Park Aidonakia S.A.",
+        "rating": 3.7,
+        "address": "Leof. Dimokratias, Agii Anargiri 131 22, Greece",
+        "latitude": 38.0429825,
+        "longitude": 23.724123
+    },
+    {
+        "category": "adventure parks",
+        "title": "Athens National Garden",
+        "rating": 4.6,
+        "address": "Athina 105 57, Greece",
+        "latitude": 37.9725878,
+        "longitude": 23.737433
+    },
+    {
+        "category": "adventure parks",
+        "title": "The Ellinikon Experience Park",
+        "rating": 4.4,
+        "address": "Elliniko 167 77, Greece",
+        "latitude": 37.8895256,
+        "longitude": 23.7417786
+    },
+    {
+        "category": "adventure parks",
+        "title": "Fun Park - Υπαίθριος Παιδότοπος - Καλλιθέα",
+        "rating": 4.3,
+        "address": "Καραολή 4, Kallithea 176 76, Greece",
+        "latitude": 37.957615499999996,
+        "longitude": 23.7010841
+    },
+    {
+        "category": "adventure parks",
+        "title": "ΠΑΙΔΟΤΟΠΟΣ - ΖΟΥΖΟΥΝΟΧΩΡΑ",
+        "rating": 4.3,
+        "address": "ΚΡΕΟΝΤΟΣ 143 (πλησίον Στάση Μετρό ΣΕΠΟΛΙΑ), ΣΕΠΟΛΙΑ - ΑΘΗΝΑ 104 43, Greece",
+        "latitude": 38.003355299999996,
+        "longitude": 23.7149194
+    },
+    {
+        "category": "adventure parks",
+        "title": "Allou! Fun Park",
+        "rating": 4.1,
+        "address": "Λεωφ. Κηφισού, Petrou Ralli και, Ag. Ioannis Rentis 182 33, Greece",
+        "latitude": 37.973399,
+        "longitude": 23.672836999999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "ViRtuality Athens",
+        "rating": 4.1,
+        "address": "Andrea Papandreou 35, Athina 151 22, Greece",
+        "latitude": 38.0452264,
+        "longitude": 23.7901471
+    },
+    {
+        "category": "adventure parks",
+        "title": "Waterfun Waterpark",
+        "rating": 4.3,
+        "address": "Αγίας Παρασκευής, Attiki Odos Έξοδος 5, Athina 133 44, Greece",
+        "latitude": 38.0760736,
+        "longitude": 23.6791657
+    },
+    {
+        "category": "adventure parks",
+        "title": "The Christmas Factory",
+        "rating": 3.5,
+        "address": "Pireos 100, Athina 118 54, Greece",
+        "latitude": 37.977869999999996,
+        "longitude": 23.713460899999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "PLAYLAND VILLAGE @ THE MALL ATHENS",
+        "rating": 5,
+        "address": "Andrea Papandreou 35, Marousi 151 22, Greece",
+        "latitude": 38.044364,
+        "longitude": 23.7904983
+    },
+    {
+        "category": "hot springs",
+        "title": "Orea Eleni Natural Spring",
+        "rating": 4.4,
+        "address": "Αgias Foivis, Loutra Oreas Elenis 201 00, Greece",
+        "latitude": 37.870508,
+        "longitude": 22.9968389
+    },
+    {
+        "category": "hot springs",
+        "title": "Vouliagmeni Lake",
+        "rating": 4.5,
+        "address": "Λίμνη Βουλιαγμένης, Vouliagmeni 166 71, Greece",
+        "latitude": 37.807800199999996,
+        "longitude": 23.7855018
+    },
+    {
+        "category": "hot springs",
+        "title": "Pozar Thermal Baths",
+        "rating": 4.7,
+        "address": "Προς, Loutra Loutrakiou 584 00, Greece",
+        "latitude": 40.9703946,
+        "longitude": 21.9164104
+    },
+    {
+        "category": "hot springs",
+        "title": "Hammam Baths Athens | Spa, Massage, Wellness",
+        "rating": 4.6,
+        "address": "Melidoni 1, Athina 105 53, Greece",
+        "latitude": 37.9783855,
+        "longitude": 23.7205159
+    },
+    {
+        "category": "shopping malls",
+        "title": "The Mall Athens",
+        "rating": 4.4,
+        "address": "Andrea Papandreou 35, Marousi 151 22, Greece",
+        "latitude": 38.0447054,
+        "longitude": 23.7910586
+    },
+    {
+        "category": "shopping malls",
+        "title": "Athens Metro Mall",
+        "rating": 4.4,
+        "address": "Par. Leof. Vouliagmenis 276, Ag. Dimitrios 173 43, Greece",
+        "latitude": 37.939546199999995,
+        "longitude": 23.7403762
+    },
+    {
+        "category": "shopping malls",
+        "title": "Designer Outlet Athens",
+        "rating": 4.5,
+        "address": "Γυαλού, Oikodomiko Tetragono E71, Spata 190 04, Greece",
+        "latitude": 37.9860322,
+        "longitude": 23.9106638
+    },
+    {
+        "category": "shopping malls",
+        "title": "Atrium Shopping Centre",
+        "rating": 3.9,
+        "address": "Char. Trikoupi 6-10, Athina 106 79, Greece",
+        "latitude": 37.98242,
+        "longitude": 23.7324141
+    },
+    {
+        "category": "shopping malls",
+        "title": "Athens Millennium Mall",
+        "rating": 3.4,
+        "address": "Imittou 108-110, Athina 116 34, Greece",
+        "latitude": 37.9668905,
+        "longitude": 23.7486522
+    },
+    {
+        "category": "shopping malls",
+        "title": "City Link",
+        "rating": 4.6,
+        "address": "Amerikis 4, Athina 105 64, Greece",
+        "latitude": 37.977727099999996,
+        "longitude": 23.734579399999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Golden Hall",
+        "rating": 4.5,
+        "address": "Leof. Kifisias 37A, Marousi 151 23, Greece",
+        "latitude": 38.033419699999996,
+        "longitude": 23.793972399999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "RΙVER WEST",
+        "rating": 4.5,
+        "address": "Par. Leoforou Kifisou 98, Egaleo 122 41, Greece",
+        "latitude": 37.9803235,
+        "longitude": 23.6791879
+    },
+    {
+        "category": "shopping malls",
+        "title": "Attica Mall",
+        "rating": 4.4,
+        "address": "Panepistimiou 9, Athina 105 64, Greece",
+        "latitude": 37.977525299999996,
+        "longitude": 23.7350112
+    },
+    {
+        "category": "shopping malls",
+        "title": "AVENUE Mall",
+        "rating": 4.3,
+        "address": "Λεωφόρος Κηφισίας 41-47 47, Marousi 151 23, Greece",
+        "latitude": 38.0356896,
+        "longitude": 23.7954489
+    },
+    {
+        "category": "shopping malls",
+        "title": "SH FRIEND & FRIEND SOP",
+        "rating": 4.1,
+        "address": "Marni 57, Athina 104 37, Greece",
+        "latitude": 37.9858724,
+        "longitude": 23.7247137
+    },
+    {
+        "category": "shopping malls",
+        "title": "Plaka Promenade",
+        "rating": 4.8,
+        "address": "Adrianou 114, Athina 105 58, Greece",
+        "latitude": 37.9732985,
+        "longitude": 23.7300538
+    },
+    {
+        "category": "shopping malls",
+        "title": "Cosmos Business Center",
+        "rating": 3.8,
+        "address": "Leof. Kifisias 125-127, Athina 115 24, Greece",
+        "latitude": 37.9942966,
+        "longitude": 23.767125399999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Plaka",
+        "rating": 5,
+        "address": "Athina 105 58, Greece",
+        "latitude": 37.972512,
+        "longitude": 23.730321
+    },
+    {
+        "category": "shopping malls",
+        "title": "Στοά Πεσμαζόγλου",
+        "rating": 4.6,
+        "address": "Panepistimiou 39, Athina 105 64, Greece",
+        "latitude": 37.9807585,
+        "longitude": 23.732245499999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "ΑNAMESA CONCEPT STORE",
+        "rating": 4.9,
+        "address": "Nikis 24, Syntagma, Athens 105 57, Greece",
+        "latitude": 37.974437099999996,
+        "longitude": 23.732991
+    },
+    {
+        "category": "shopping malls",
+        "title": "Smart Park",
+        "rating": 4.5,
+        "address": "Εμπορικό Πάρκο Smart Park, Ε. Πουλακη, OT 71, & 72, Spata 190 04, Greece",
+        "latitude": 37.984771099999996,
+        "longitude": 23.913106799999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Flea Market",
+        "rating": 4.4,
+        "address": "Ifestou, Athina 105 55, Greece",
+        "latitude": 37.9762516,
+        "longitude": 23.7256143
+    },
+    {
+        "category": "shopping malls",
+        "title": "\"Shopping Center Plaka\"",
+        "rating": 4.2,
+        "address": "Pandrossou 1, Athina 105 56, Greece",
+        "latitude": 37.975144,
+        "longitude": 23.729127
+    },
+    {
+        "category": "shopping malls",
+        "title": "ChinaTown 希腊",
+        "rating": 3.6,
+        "address": "Agisilaou 43-45 ΥΠΟΓΕΙΟ, Pireos 68, Athina 104 36, Greece",
+        "latitude": 37.9810565,
+        "longitude": 23.7197258
+    },
+    {
+        "category": "historical sites",
+        "title": "Acropolis of Athens",
+        "rating": 4.8,
+        "address": "Athina 105 58, Greece",
+        "latitude": 37.9715323,
+        "longitude": 23.7257492
+    },
+    {
+        "category": "historical sites",
+        "title": "Parthenon",
+        "rating": 4.8,
+        "address": "Athina 105 58, Greece",
+        "latitude": 37.9715285,
+        "longitude": 23.7267166
+    },
+    {
+        "category": "historical sites",
+        "title": "Ancient Agora of Athens",
+        "rating": 4.7,
+        "address": "Athina 105 55, Greece",
+        "latitude": 37.974897,
+        "longitude": 23.722093299999997
+    },
+    {
+        "category": "historical sites",
+        "title": "Roman Forum of Athens (Roman Agora)",
+        "rating": 4.5,
+        "address": "Polignotou 3, Athina 105 55, Greece",
+        "latitude": 37.9742491,
+        "longitude": 23.7260951
+    },
+    {
+        "category": "historical sites",
+        "title": "Temple of Hephaestus",
+        "rating": 4.8,
+        "address": "Athina 105 55, Greece",
+        "latitude": 37.975595,
+        "longitude": 23.7214521
+    },
+    {
+        "category": "historical sites",
+        "title": "Monument to the Unknown Soldier",
+        "rating": 4.7,
+        "address": "Leof. Vasilisis Amalias 133, Athina 105 57, Greece",
+        "latitude": 37.9753575,
+        "longitude": 23.7362604
+    },
+    {
+        "category": "historical sites",
+        "title": "Temple of Olympian Zeus",
+        "rating": 4.4,
+        "address": "Athina 105 57, Greece",
+        "latitude": 37.9693,
+        "longitude": 23.7331
+    },
+    {
+        "category": "historical sites",
+        "title": "National Archaeological Museum",
+        "rating": 4.6,
+        "address": "28is Oktovriou 44, Athina 106 82, Greece",
+        "latitude": 37.989022899999995,
+        "longitude": 23.732759899999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Stoa of Attalos - Museum of the Ancient Agora",
+        "rating": 4.8,
+        "address": "Adrianou 24, Athina 105 55, Greece",
+        "latitude": 37.974736299999996,
+        "longitude": 23.7240322
+    },
+    {
+        "category": "historical sites",
+        "title": "Acropolis Museum",
+        "rating": 4.7,
+        "address": "Dionysiou Areopagitou 15, Athina 117 42, Greece",
+        "latitude": 37.968449899999996,
+        "longitude": 23.7285227
+    },
+    {
+        "category": "historical sites",
+        "title": "Syntagma Square",
+        "rating": 4.5,
+        "address": "Pl. Sintagmatos, Athina 105 63, Greece",
+        "latitude": 37.975550999999996,
+        "longitude": 23.7347103
+    },
+    {
+        "category": "historical sites",
+        "title": "Temple of Athena Nike",
+        "rating": 4.8,
+        "address": "Acropolis, Dionysiou Areopagitou, Athina 105 58, Greece",
+        "latitude": 37.9715524,
+        "longitude": 23.7249035
+    },
+    {
+        "category": "historical sites",
+        "title": "Philopappos Monument",
+        "rating": 4.7,
+        "address": "Athina 117 41, Greece",
+        "latitude": 37.967349999999996,
+        "longitude": 23.7214203
+    },
+    {
+        "category": "historical sites",
+        "title": "Areopagus Hill",
+        "rating": 4.8,
+        "address": "Theorias 21, Athina 105 55, Greece",
+        "latitude": 37.972365499999995,
+        "longitude": 23.723232199999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Roman Basilica",
+        "rating": 4.6,
+        "address": "Adrianou 27, Athina 105 55, Greece",
+        "latitude": 37.975836699999995,
+        "longitude": 23.7238668
+    },
+    {
+        "category": "historical sites",
+        "title": "Arch of Hadrian",
+        "rating": 4.6,
+        "address": "Leof. Vasilisis Amalias 50, Athina 105 58, Greece",
+        "latitude": 37.970167,
+        "longitude": 23.7320399
+    },
+    {
+        "category": "historical sites",
+        "title": "Erechtheion",
+        "rating": 4.8,
+        "address": "Athina 105 58, Greece",
+        "latitude": 37.9721553,
+        "longitude": 23.7263472
+    },
+    {
+        "category": "historical sites",
+        "title": "Ancient Temple of Athena",
+        "rating": 4.8,
+        "address": "Anafiotika 11, Athina 105 58, Greece",
+        "latitude": 37.971913099999995,
+        "longitude": 23.726349499999998
+    },
+    {
+        "category": "historical sites",
+        "title": "The Porch of the Caryatids",
+        "rating": 5,
+        "address": "Athina 105 58, Greece",
+        "latitude": 37.972024399999995,
+        "longitude": 23.726437999999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Athens National Garden",
+        "rating": 4.6,
+        "address": "Athina 105 57, Greece",
+        "latitude": 37.9725878,
+        "longitude": 23.737433
+    },
+    {
+        "category": "art galleries",
+        "title": "Sianti Gallery - Εικαστικός Κύκλος - Έργα Τέχνης",
+        "rating": 4.8,
+        "address": "Niriidon 18, Athina 116 34, Greece",
+        "latitude": 37.9744874,
+        "longitude": 23.7501209
+    },
+    {
+        "category": "art galleries",
+        "title": "Technohoros Art Gallery",
+        "rating": 4.8,
+        "address": "Lempesi 12, Athina 117 42, Greece",
+        "latitude": 37.9677102,
+        "longitude": 23.729933499999998
+    },
+    {
+        "category": "art galleries",
+        "title": "TAF (The Art Foundation)",
+        "rating": 4.5,
+        "address": "Normanou 5, Athina 105 55, Greece",
+        "latitude": 37.9765387,
+        "longitude": 23.7244593
+    },
+    {
+        "category": "art galleries",
+        "title": "ROMA GALLERY",
+        "rating": 4.7,
+        "address": "Roma 5, Athina 106 73, Greece",
+        "latitude": 37.9786363,
+        "longitude": 23.7387758
+    },
+    {
+        "category": "art galleries",
+        "title": "Pandora Art Gallery",
+        "rating": 4.4,
+        "address": "Adrianou 70, Athina 105 56, Greece",
+        "latitude": 37.9748164,
+        "longitude": 23.727533299999997
+    },
+    {
+        "category": "art galleries",
+        "title": "Kalfayan Galleries",
+        "rating": 4.6,
+        "address": "Charitos 11, Athina 106 75, Greece",
+        "latitude": 37.9781269,
+        "longitude": 23.742921
+    },
+    {
+        "category": "art galleries",
+        "title": "Zoumboulakis Galleries",
+        "rating": 4.5,
+        "address": "Kriezotou 6, Athina 106 71, Greece",
+        "latitude": 37.9770809,
+        "longitude": 23.7364207
+    },
+    {
+        "category": "art galleries",
+        "title": "Gagosian",
+        "rating": 4.6,
+        "address": "22, Anapiron Polemou Street, Athina 115 21, Greece",
+        "latitude": 37.9807803,
+        "longitude": 23.7487834
+    },
+    {
+        "category": "art galleries",
+        "title": "Bernier / Eliades Gallery",
+        "rating": 4.5,
+        "address": "Επταχάλκου 11, Athina 118 51, Greece",
+        "latitude": 37.976967699999996,
+        "longitude": 23.717910099999997
+    },
+    {
+        "category": "art galleries",
+        "title": "Ileana Tounta Contemporary Art Centre",
+        "rating": 4.4,
+        "address": "Armatolon ke Klefton 48, Athina 114 71, Greece",
+        "latitude": 37.9869517,
+        "longitude": 23.7521935
+    },
+    {
+        "category": "art galleries",
+        "title": "Art Zone 42",
+        "rating": 4.6,
+        "address": "Leof. Vasileos Konstantinou 42, Athina 116 35, Greece",
+        "latitude": 37.972414799999996,
+        "longitude": 23.7440264
+    },
+    {
+        "category": "art galleries",
+        "title": "Gallery Skoufa",
+        "rating": 4.5,
+        "address": "Skoufa 4, Athina 106 73, Greece",
+        "latitude": 37.977526,
+        "longitude": 23.7405518
+    },
+    {
+        "category": "art galleries",
+        "title": "Orlik Gallery",
+        "rating": 4.9,
+        "address": "Navarchou Nikodimou 27, Athina 105 58, Greece",
+        "latitude": 37.9736155,
+        "longitude": 23.7314053
+    },
+    {
+        "category": "art galleries",
+        "title": "National Gallery - Alexandros Soutsos Museum",
+        "rating": 4.6,
+        "address": "Leof. Vasileos Konstantinou 50, Athina 115 25, Greece",
+        "latitude": 37.975620899999996,
+        "longitude": 23.749358599999997
+    },
+    {
+        "category": "art galleries",
+        "title": "B. & M. Theocharakis Foundation for the Fine Arts & Music",
+        "rating": 4.6,
+        "address": "Βασιλίσσης Σοφίας 9 &, Merlin 1, Athina 106 71, Greece",
+        "latitude": 37.9762621,
+        "longitude": 23.738338799999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Ioannidou Art Gallery",
+        "rating": 4.7,
+        "address": "1 Vackhou street, Athina 105 58, Greece",
+        "latitude": 37.9703807,
+        "longitude": 23.7297856
+    },
+    {
+        "category": "art galleries",
+        "title": "National Museum of Contemporary Art Αthens (ΕΜΣΤ)",
+        "rating": 4.4,
+        "address": "Λεωφ. Καλλιρρόης και Αμβρ. Φραντζή (πρώην εργοστάσιο, Leof. Andrea Siggrou 51-53, Athina 117 43, Greece",
+        "latitude": 37.963000799999996,
+        "longitude": 23.7253443
+    },
+    {
+        "category": "art galleries",
+        "title": "Rebecca Camhi gallery",
+        "rating": 4.5,
+        "address": "Leonidou 9, Athina 104 37, Greece",
+        "latitude": 37.9837121,
+        "longitude": 23.7220032
+    },
+    {
+        "category": "art galleries",
+        "title": "Art Number 23 Gallery Athens",
+        "rating": 4.4,
+        "address": "Dim. Eginitou 8, Athina 118 51, Greece",
+        "latitude": 37.9723426,
+        "longitude": 23.7201162
+    },
+    {
+        "category": "art galleries",
+        "title": "Municipal Gallery of Athens",
+        "rating": 4.5,
+        "address": "Λεωνιδίου & Μυλλέρου Μεταξουργείο Τ.Κ, 104 36, Greece",
+        "latitude": 37.982786999999995,
+        "longitude": 23.719421
+    },
+    {
+        "category": "theaters",
+        "title": "Thision Open Air Cinema",
+        "rating": null,
+        "address": "Apostolou Pavlou 7, Athina 118 51, Greece",
+        "latitude": 37.9726907,
+        "longitude": 23.7204558
+    },
+    {
+        "category": "theaters",
+        "title": "Pallas Theater",
+        "rating": null,
+        "address": "Voukourestiou 5, Athina 105 64, Greece",
+        "latitude": 37.977022,
+        "longitude": 23.734954
+    },
+    {
+        "category": "theaters",
+        "title": "Alhambra Art Theater",
+        "rating": null,
+        "address": "Stournari 53, Athina 104 32, Greece",
+        "latitude": 37.987549699999995,
+        "longitude": 23.729599399999998
+    },
+    {
+        "category": "theaters",
+        "title": "Dexameni Outdoor Cinema",
+        "rating": null,
+        "address": "Plateia Dexamenis 7, Athina 106 73, Greece",
+        "latitude": 37.9790528,
+        "longitude": 23.7417122
+    },
+    {
+        "category": "theaters",
+        "title": "Alsos Theater",
+        "rating": null,
+        "address": "Evelpidon 4, Athina 114 74, Greece",
+        "latitude": 37.994529799999995,
+        "longitude": 23.7387779
+    },
+    {
+        "category": "theaters",
+        "title": "Cinema Athinaion 1 & 2",
+        "rating": null,
+        "address": "Vasilissis Sofias 124, Athina 115 26, Greece",
+        "latitude": 37.9859587,
+        "longitude": 23.7612773
+    },
+    {
+        "category": "theaters",
+        "title": "Studio Newstar Art Cinema",
+        "rating": null,
+        "address": "Stavropoulou 33, Athina 112 52, Greece",
+        "latitude": 38.0031439,
+        "longitude": 23.7309064
+    },
+    {
+        "category": "theaters",
+        "title": "Θέατρο «ΤΖΕΝΗ ΚΑΡΕΖΗ»",
+        "rating": null,
+        "address": "Akadimias 3, Athina 106 71, Greece",
+        "latitude": 37.9769089,
+        "longitude": 23.7376266
+    },
+    {
+        "category": "theaters",
+        "title": "ASTOR",
+        "rating": null,
+        "address": "Stadiou 28, Athina 105 64, Greece",
+        "latitude": 37.9795655,
+        "longitude": 23.732705799999998
+    },
+    {
+        "category": "theaters",
+        "title": "\"Athena\" Theater",
+        "rating": null,
+        "address": "Derigni 10, Athina 104 34, Greece",
+        "latitude": 37.994689699999995,
+        "longitude": 23.732436
+    },
+    {
+        "category": "theaters",
+        "title": "Theatre of Dionysus Eleuthereus",
+        "rating": 4.7,
+        "address": "Mitseon 25, Athina 117 42, Greece",
+        "latitude": 37.9703339,
+        "longitude": 23.727809699999998
+    },
+    {
+        "category": "theaters",
+        "title": "Village Cinemas @ The Mall Athens",
+        "rating": null,
+        "address": "Andrea Papandreou 35, 35, Marousi 151 22, Greece",
+        "latitude": 38.0446112,
+        "longitude": 23.7902429
+    },
+    {
+        "category": "theaters",
+        "title": "Danaos Cinema",
+        "rating": null,
+        "address": "Leof. Kifisias 109, Ampelokipi 115 24, Greece",
+        "latitude": 37.9933895,
+        "longitude": 23.7667142
+    },
+    {
+        "category": "theaters",
+        "title": "National Theatre of Greece",
+        "rating": 4.7,
+        "address": "Agiou Konstantinou 22, Athina 104 37, Greece",
+        "latitude": 37.9849197,
+        "longitude": 23.7252454
+    },
+    {
+        "category": "theaters",
+        "title": "Theater ARK",
+        "rating": null,
+        "address": "Ioánnou Drosopoúlou 197, Athina 112 55, Greece",
+        "latitude": 38.0106829,
+        "longitude": 23.7358332
+    },
+    {
+        "category": "theaters",
+        "title": "Theater of Neos Cosmos",
+        "rating": null,
+        "address": "Αντισθένους 7 και, Tharipou, Athens 117 43, Greece",
+        "latitude": 37.9624461,
+        "longitude": 23.7265394
+    },
+    {
+        "category": "theaters",
+        "title": "Vempo Theater",
+        "rating": null,
+        "address": "Karolou 18, Athina 104 37, Greece",
+        "latitude": 37.9859864,
+        "longitude": 23.722414
+    },
+    {
+        "category": "theaters",
+        "title": "Odeon of Herodes Atticus",
+        "rating": 4.9,
+        "address": "Dionysiou Areopagitou, Athina 105 55, Greece",
+        "latitude": 37.9707948,
+        "longitude": 23.7245831
+    },
+    {
+        "category": "theaters",
+        "title": "VILLAGE CINEMAS - RENTIS",
+        "rating": null,
+        "address": "Thivon 228, Ag. Ioannis Rentis 182 33, Greece",
+        "latitude": 37.974677199999995,
+        "longitude": 23.668260699999998
+    },
+    {
+        "category": "theaters",
+        "title": "Cinobo Opera",
+        "rating": null,
+        "address": "Akadimias 57, Athina 106 79, Greece",
+        "latitude": 37.9821913,
+        "longitude": 23.7334918
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Forget Me Not",
+        "rating": 4.6,
+        "address": "Adrianou 100, Athina 105 58, Greece",
+        "latitude": 37.9740636,
+        "longitude": 23.7293302
+    },
+    {
+        "category": "souvenir counters",
+        "title": "KIRKI'S SOUVENIRS SHOP",
+        "rating": 5,
+        "address": "Ifestou 29, Athina 105 55, Greece",
+        "latitude": 37.9762495,
+        "longitude": 23.7238363
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Thiki Greece",
+        "rating": 4.8,
+        "address": "120, Adrianou street, Athina 105 58, Greece",
+        "latitude": 37.9730023,
+        "longitude": 23.7301629
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Greek Souvenirs Store",
+        "rating": 4.9,
+        "address": "Mitropoleos 57, Athina 105 55, Greece",
+        "latitude": 37.9759209,
+        "longitude": 23.727336599999997
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Olive Tree Store",
+        "rating": 4.6,
+        "address": "67, Adrianou street, Athina 105 56, Greece",
+        "latitude": 37.9744612,
+        "longitude": 23.728722599999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hermes",
+        "rating": 4.8,
+        "address": "Pandrossou 56, Athina 105 55, Greece",
+        "latitude": 37.9759916,
+        "longitude": 23.7264195
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Prometheus Souvenirs",
+        "rating": 4.9,
+        "address": "Dexippou 5, Athina 105 55, Greece",
+        "latitude": 37.9749894,
+        "longitude": 23.7258547
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Labyrinth Souvenirs",
+        "rating": 4.5,
+        "address": "Πηνελόπης 1, Οδυσσέως 8, Athina 104 37, Greece",
+        "latitude": 37.9860136,
+        "longitude": 23.7205701
+    },
+    {
+        "category": "souvenir counters",
+        "title": "anastasia memories from athens",
+        "rating": 4.9,
+        "address": "Mitseon 11, Athina 114 72, Greece",
+        "latitude": 37.9682503,
+        "longitude": 23.7273726
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Greco Souvenir",
+        "rating": 4.6,
+        "address": "Kidathineon 23, Athina 105 58, Greece",
+        "latitude": 37.9722886,
+        "longitude": 23.7319179
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gallery Demeter",
+        "rating": 4.5,
+        "address": "Vyronos 8, Athina 105 58, Greece",
+        "latitude": 37.9704024,
+        "longitude": 23.730013
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Flâneur Souvenirs & Supplies",
+        "rating": 4.9,
+        "address": "Flessa 1, Athina 105 58, Greece",
+        "latitude": 37.9734664,
+        "longitude": 23.729827699999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Dia Tauta Gift Shop",
+        "rating": 4.6,
+        "address": "Mitropoleos 32, Athina 105 63, Greece",
+        "latitude": 37.9753609,
+        "longitude": 23.731797399999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Sweet Case Greek Souvenir Store",
+        "rating": 5,
+        "address": "Pandrossou 14, Athina 105 56, Greece",
+        "latitude": 37.975469499999996,
+        "longitude": 23.728165399999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hercules Shop",
+        "rating": 3.7,
+        "address": "Adrianou 132, Athina 105 58, Greece",
+        "latitude": 37.972178,
+        "longitude": 23.730332999999998
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Alexander",
+        "rating": 4.5,
+        "address": "Pandrossou 27, Athina 105 56, Greece",
+        "latitude": 37.9755344,
+        "longitude": 23.7277302
+    },
+    {
+        "category": "souvenir counters",
+        "title": "T-Greeks Shop Athens",
+        "rating": 4.5,
+        "address": "Dexippou 3, Athina 105 55, Greece",
+        "latitude": 37.974913099999995,
+        "longitude": 23.7262924
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gift House Souvenir",
+        "rating": 4.9,
+        "address": "Gladstonos 8, Athina 106 77, Greece",
+        "latitude": 37.9843356,
+        "longitude": 23.730208299999997
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Athens Memo",
+        "rating": 5,
+        "address": "Nikis 50A, & Kidathinaion 6, Athina 105 58, Greece",
+        "latitude": 37.972741899999995,
+        "longitude": 23.7329939
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Roy's Shop: Greek art & souvenirs",
+        "rating": 4,
+        "address": "Vyronos 3, Athina 105 58, Greece",
+        "latitude": 37.9707861,
+        "longitude": 23.7301216
+    }
+]

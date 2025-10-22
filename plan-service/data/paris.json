@@ -1,0 +1,3434 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "Domaine National du Palais-Royal",
+        "rating": 4.6,
+        "address": "75001 Paris, France",
+        "latitude": 48.8637569,
+        "longitude": 2.3371261
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Notre-Dame Cathedral of Paris",
+        "rating": 4.7,
+        "address": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France",
+        "latitude": 48.8529682,
+        "longitude": 2.3499021
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Eiffel Tower",
+        "rating": 4.7,
+        "address": "Av. Gustave Eiffel, 75007 Paris, France",
+        "latitude": 48.858370099999995,
+        "longitude": 2.2944812999999997
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Arc de Triomphe",
+        "rating": 4.7,
+        "address": "Pl. Charles de Gaulle, 75008 Paris, France",
+        "latitude": 48.8737917,
+        "longitude": 2.2950274999999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Tuileries Garden",
+        "rating": 4.6,
+        "address": "75001 Paris, France",
+        "latitude": 48.863491599999996,
+        "longitude": 2.3274942999999997
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Promenade Jean-Paul Belmondo",
+        "rating": 4.8,
+        "address": "Pont de Bir-Hakeim, 75015 Paris, France",
+        "latitude": 48.855581199999996,
+        "longitude": 2.287589
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Square de l'Île-de-France",
+        "rating": 4.5,
+        "address": "1 Quai de l'Archevêché, 75004 Paris, France",
+        "latitude": 48.852024,
+        "longitude": 2.3521986999999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Jardin du Palais Royal",
+        "rating": 4.7,
+        "address": "8 Rue de Montpensier, 75001 Paris, France",
+        "latitude": 48.8649723,
+        "longitude": 2.3378061
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Tour Saint-Jacques",
+        "rating": 4.5,
+        "address": "Square de la Tour Saint-Jacques, 75004 Paris, France",
+        "latitude": 48.858068499999995,
+        "longitude": 2.3489071999999998
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Basilique du Sacré-Cœur de Montmartre",
+        "rating": 4.7,
+        "address": "35 Rue du Chevalier de la Barre, 75018 Paris, France",
+        "latitude": 48.886704599999995,
+        "longitude": 2.3431043
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Conciergerie",
+        "rating": 4.4,
+        "address": "2 Bd du Palais, 75001 Paris, France",
+        "latitude": 48.8560114,
+        "longitude": 2.3454953
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Shortest Street in Paris",
+        "rating": 3.2,
+        "address": "1 Rue des Degrés, 75002 Paris, France",
+        "latitude": 48.8693968,
+        "longitude": 2.3506796
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Louvre Museum",
+        "rating": 4.7,
+        "address": "75001 Paris, France",
+        "latitude": 48.8606111,
+        "longitude": 2.337644
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Tunnel des Tuileries",
+        "rating": 4.4,
+        "address": "75001 Quai Henri IV, Paris, France",
+        "latitude": 48.8587499,
+        "longitude": 2.3401362
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Place des Vosges",
+        "rating": 4.6,
+        "address": "Pl. des Vosges, 75004 Paris, France",
+        "latitude": 48.8556114,
+        "longitude": 2.3655266
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Overlook of Paris",
+        "rating": 4.6,
+        "address": "5 Rue du Cardinal Dubois, 75018 Paris, France",
+        "latitude": 48.885660099999996,
+        "longitude": 2.3432519
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Panthéon",
+        "rating": 4.6,
+        "address": "Pl. du Panthéon, 75005 Paris, France",
+        "latitude": 48.846221799999995,
+        "longitude": 2.3464138
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Atlantes",
+        "rating": 4.6,
+        "address": "76 Av. Daumesnil, 75012 Paris, France",
+        "latitude": 48.8444497,
+        "longitude": 2.3808352
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Place de la Bastille",
+        "rating": 4.3,
+        "address": "Pl. de la Bastille, 75004 Paris, France",
+        "latitude": 48.8531827,
+        "longitude": 2.3691443
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Square of Saint-Jacques Tower",
+        "rating": 4.4,
+        "address": "39 Rue de Rivoli, 75004 Paris, France",
+        "latitude": 48.8578644,
+        "longitude": 2.3488146999999997
+    },
+    {
+        "category": "parks",
+        "title": "Parc Monceau",
+        "rating": 4.6,
+        "address": "75008 Paris, France",
+        "latitude": 48.8796835,
+        "longitude": 2.308955
+    },
+    {
+        "category": "parks",
+        "title": "Parc des Buttes-Chaumont",
+        "rating": 4.6,
+        "address": "75019 Paris, France",
+        "latitude": 48.8809496,
+        "longitude": 2.3827609
+    },
+    {
+        "category": "parks",
+        "title": "Tuileries Garden",
+        "rating": 4.6,
+        "address": "75001 Paris, France",
+        "latitude": 48.863491599999996,
+        "longitude": 2.3274942999999997
+    },
+    {
+        "category": "parks",
+        "title": "Parc de Bercy",
+        "rating": 4,
+        "address": "128 Quai de Bercy, 75012 Paris, France",
+        "latitude": 48.8363163,
+        "longitude": 2.3812948
+    },
+    {
+        "category": "parks",
+        "title": "Jardins du Trocadéro",
+        "rating": 4.6,
+        "address": "Pl. du Trocadéro et du 11 Novembre, 75016 Paris, France",
+        "latitude": 48.8616885,
+        "longitude": 2.2892799
+    },
+    {
+        "category": "parks",
+        "title": "Bois de Vincennes",
+        "rating": 4.5,
+        "address": "Rte de la Pyramide, 75012 Paris, France",
+        "latitude": 48.828279699999996,
+        "longitude": 2.4330971999999997
+    },
+    {
+        "category": "parks",
+        "title": "La Villette",
+        "rating": 4.4,
+        "address": "211 Av. Jean Jaurès, 75019 Paris, France",
+        "latitude": 48.8931617,
+        "longitude": 2.3905342
+    },
+    {
+        "category": "parks",
+        "title": "Champ de Mars",
+        "rating": 4.6,
+        "address": "75007 Paris, France",
+        "latitude": 48.8558047,
+        "longitude": 2.2983766
+    },
+    {
+        "category": "parks",
+        "title": "Parc Floral de Paris",
+        "rating": 4.5,
+        "address": "Rte de la Pyramide, 75012 Paris, France",
+        "latitude": 48.8377023,
+        "longitude": 2.4442977999999997
+    },
+    {
+        "category": "parks",
+        "title": "Belleville Park",
+        "rating": 4.2,
+        "address": "47 Rue des Couronnes, 75020 Paris, France",
+        "latitude": 48.8710678,
+        "longitude": 2.3847050999999997
+    },
+    {
+        "category": "parks",
+        "title": "Jardin des Plantes",
+        "rating": 4.6,
+        "address": "75005 Paris, France",
+        "latitude": 48.8439069,
+        "longitude": 2.359658
+    },
+    {
+        "category": "parks",
+        "title": "Bois de Boulogne",
+        "rating": 4.3,
+        "address": "75016 Paris, France",
+        "latitude": 48.8619839,
+        "longitude": 2.2523138
+    },
+    {
+        "category": "parks",
+        "title": "Parc Montsouris",
+        "rating": 4.6,
+        "address": "2 Rue Gazan, 75014 Paris, France",
+        "latitude": 48.8226716,
+        "longitude": 2.3376598
+    },
+    {
+        "category": "parks",
+        "title": "Square Jean XXIII",
+        "rating": 4.5,
+        "address": "4 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France",
+        "latitude": 48.852408399999995,
+        "longitude": 2.3508717
+    },
+    {
+        "category": "parks",
+        "title": "Parc Clichy-Batignolles - Martin Luther King",
+        "rating": 4.4,
+        "address": "147 Rue Cardinet, 75017 Paris, France",
+        "latitude": 48.8911732,
+        "longitude": 2.3143031
+    },
+    {
+        "category": "parks",
+        "title": "Parc Georges-Brassens",
+        "rating": 4.4,
+        "address": "2 Pl. Jacques Marette, 75015 Paris, France",
+        "latitude": 48.8315212,
+        "longitude": 2.2997888
+    },
+    {
+        "category": "parks",
+        "title": "Jardin du Palais Royal",
+        "rating": 4.7,
+        "address": "8 Rue de Montpensier, 75001 Paris, France",
+        "latitude": 48.8649723,
+        "longitude": 2.3378061
+    },
+    {
+        "category": "parks",
+        "title": "Square Louise Michel",
+        "rating": 4.5,
+        "address": "6 Pl. Saint-Pierre, 75018 Paris, France",
+        "latitude": 48.8850123,
+        "longitude": 2.3433924
+    },
+    {
+        "category": "parks",
+        "title": "Passy Park",
+        "rating": 4.5,
+        "address": "32 Av. du Président Kennedy, 75016 Paris, France",
+        "latitude": 48.8557918,
+        "longitude": 2.2834273
+    },
+    {
+        "category": "parks",
+        "title": "Jardin du Luxembourg",
+        "rating": 4.7,
+        "address": "75006 Paris, France",
+        "latitude": 48.8466144,
+        "longitude": 2.3363309
+    },
+    {
+        "category": "restaurants",
+        "title": "Pink Mamma",
+        "rating": 4.7,
+        "address": "20bis Rue de Douai, 75009 Paris, France",
+        "latitude": 48.881946899999996,
+        "longitude": 2.3345309
+    },
+    {
+        "category": "restaurants",
+        "title": "Sphère",
+        "rating": 4.8,
+        "address": "18 Rue La Boétie, 75008 Paris, France",
+        "latitude": 48.8742665,
+        "longitude": 2.3169386999999997
+    },
+    {
+        "category": "restaurants",
+        "title": "Le Cinq",
+        "rating": 4.7,
+        "address": "31 Av. George V, 75008 Paris, France",
+        "latitude": 48.868849,
+        "longitude": 2.300683
+    },
+    {
+        "category": "restaurants",
+        "title": "Restaurant Guy Savoy",
+        "rating": 4.6,
+        "address": "11 Quai de Conti, 75006 Paris, France",
+        "latitude": 48.8567046,
+        "longitude": 2.3391490999999998
+    },
+    {
+        "category": "restaurants",
+        "title": "Au Pied de Cochon",
+        "rating": 4.4,
+        "address": "6 Rue Coquillière, 75001 Paris, France",
+        "latitude": 48.863517599999994,
+        "longitude": 2.3437221
+    },
+    {
+        "category": "restaurants",
+        "title": "Les Parisiens",
+        "rating": 4.7,
+        "address": "1 Rue du Pré aux Clercs, 75007 Paris, France",
+        "latitude": 48.856660899999994,
+        "longitude": 2.3303688
+    },
+    {
+        "category": "restaurants",
+        "title": "Pur' - Jean-François Rouquette",
+        "rating": 4.7,
+        "address": "5 Rue de la Paix, 75002 Paris, France",
+        "latitude": 48.8689056,
+        "longitude": 2.3301781
+    },
+    {
+        "category": "restaurants",
+        "title": "La Table de Colette",
+        "rating": 4.7,
+        "address": "17 Rue Laplace, 75005 Paris, France",
+        "latitude": 48.8473045,
+        "longitude": 2.3472188
+    },
+    {
+        "category": "restaurants",
+        "title": "Epicure",
+        "rating": 4.7,
+        "address": "112 Rue du Faubourg Saint-Honoré, 75008 Paris, France",
+        "latitude": 48.8717373,
+        "longitude": 2.3148527999999997
+    },
+    {
+        "category": "restaurants",
+        "title": "Le Tout-Paris",
+        "rating": 4.6,
+        "address": "8 Quai du Louvre, 75001 Paris, France",
+        "latitude": 48.8587493,
+        "longitude": 2.3422529
+    },
+    {
+        "category": "restaurants",
+        "title": "ASPIC",
+        "rating": 4.8,
+        "address": "24 Rue Louise-Émilie de la Tour d'Auvergne, 75009 Paris, France",
+        "latitude": 48.879196099999994,
+        "longitude": 2.3437259
+    },
+    {
+        "category": "restaurants",
+        "title": "Chouchou",
+        "rating": 4.7,
+        "address": "23 Bd de Sébastopol, 75001 Paris, France",
+        "latitude": 48.8599744,
+        "longitude": 2.3487234
+    },
+    {
+        "category": "restaurants",
+        "title": "Le Colimaçon",
+        "rating": 4.7,
+        "address": "44 Rue Vieille du Temple, 75004 Paris, France",
+        "latitude": 48.8580009,
+        "longitude": 2.3579904
+    },
+    {
+        "category": "restaurants",
+        "title": "Palais Royal Restaurant Paris",
+        "rating": 4.6,
+        "address": "110 Gal de Valois, 75001 Paris, France",
+        "latitude": 48.865659199999996,
+        "longitude": 2.3388673
+    },
+    {
+        "category": "restaurants",
+        "title": "Bistrot Des Tournelles",
+        "rating": 4.6,
+        "address": "6 Rue des Tournelles, 75004 Paris, France",
+        "latitude": 48.8541221,
+        "longitude": 2.3675819
+    },
+    {
+        "category": "restaurants",
+        "title": "La Dame de Pic",
+        "rating": 4.6,
+        "address": "20 Rue du Louvre, 75001 Paris, France",
+        "latitude": 48.8614756,
+        "longitude": 2.3413144999999997
+    },
+    {
+        "category": "restaurants",
+        "title": "Boutary",
+        "rating": 4.8,
+        "address": "25 Rue Mazarine, 75006 Paris, France",
+        "latitude": 48.8549894,
+        "longitude": 2.3380174
+    },
+    {
+        "category": "restaurants",
+        "title": "La Scène",
+        "rating": 4.7,
+        "address": "32 Av. Matignon, 75008 Paris, France",
+        "latitude": 48.872063399999995,
+        "longitude": 2.3145637
+    },
+    {
+        "category": "restaurants",
+        "title": "Le Christine",
+        "rating": 4.6,
+        "address": "1 Rue Christine, 75006 Paris, France",
+        "latitude": 48.854305599999996,
+        "longitude": 2.3402167
+    },
+    {
+        "category": "restaurants",
+        "title": "Le Paris Paris",
+        "rating": 4.5,
+        "address": "8 Rue de Montfaucon, 75006 Paris, France",
+        "latitude": 48.852579,
+        "longitude": 2.3357251
+    },
+    {
+        "category": "cafes",
+        "title": "Terres de Café",
+        "rating": 4.7,
+        "address": "150 Rue Saint-Honoré, 75001 Paris, France",
+        "latitude": 48.8620039,
+        "longitude": 2.3403462
+    },
+    {
+        "category": "cafes",
+        "title": "The Caféothèque of Paris",
+        "rating": 4.4,
+        "address": "52 Rue de l'Hôtel de ville, 75004 Paris, France",
+        "latitude": 48.8544525,
+        "longitude": 2.3557666999999998
+    },
+    {
+        "category": "cafes",
+        "title": "Café de Flore",
+        "rating": 3.9,
+        "address": "172 Bd Saint-Germain, 75006 Paris, France",
+        "latitude": 48.8541588,
+        "longitude": 2.3326046
+    },
+    {
+        "category": "cafes",
+        "title": "Le Peloton Café",
+        "rating": 4.7,
+        "address": "17 Rue du Pont Louis-Philippe, 75004 Paris, France",
+        "latitude": 48.855545199999995,
+        "longitude": 2.3559075
+    },
+    {
+        "category": "cafes",
+        "title": "Baguett's Café",
+        "rating": 4.7,
+        "address": "33 Rue de Richelieu, 75001 Paris, France",
+        "latitude": 48.8652825,
+        "longitude": 2.3365245999999997
+    },
+    {
+        "category": "cafes",
+        "title": "Arty Caffé",
+        "rating": 4.8,
+        "address": "176 Rue de Rivoli, 75001 Paris, France",
+        "latitude": 48.863099,
+        "longitude": 2.334883
+    },
+    {
+        "category": "cafes",
+        "title": "Happy Caffé",
+        "rating": 4.8,
+        "address": "214 Rue de Rivoli, 75001 Paris, France",
+        "latitude": 48.8646927,
+        "longitude": 2.3296897
+    },
+    {
+        "category": "cafes",
+        "title": "Café de Paris",
+        "rating": 4,
+        "address": "10 Rue de Buci, 75006 Paris, France",
+        "latitude": 48.853944999999996,
+        "longitude": 2.337614
+    },
+    {
+        "category": "cafes",
+        "title": "Les Deux Magots",
+        "rating": 4.2,
+        "address": "6 Pl. Saint-Germain des Prés, 75006 Paris, France",
+        "latitude": 48.854051999999996,
+        "longitude": 2.3331062
+    },
+    {
+        "category": "cafes",
+        "title": "Terres de Café",
+        "rating": 4.6,
+        "address": "36 Rue des Blancs Manteaux, 75004 Paris, France",
+        "latitude": 48.859691,
+        "longitude": 2.355546
+    },
+    {
+        "category": "cafes",
+        "title": "Matamata Coffee",
+        "rating": 4.5,
+        "address": "58 Rue d'Argout, 75002 Paris, France",
+        "latitude": 48.866107,
+        "longitude": 2.3441172
+    },
+    {
+        "category": "cafes",
+        "title": "Brouillon Coffee",
+        "rating": 4.9,
+        "address": "42 Bd de Magenta, 75010 Paris, France",
+        "latitude": 48.872374699999995,
+        "longitude": 2.3599688
+    },
+    {
+        "category": "cafes",
+        "title": "Kozy Bosquet | All-week Brunch & Coffee",
+        "rating": 4.7,
+        "address": "79 Av. Bosquet, 75007 Paris, France",
+        "latitude": 48.8554447,
+        "longitude": 2.3054897999999997
+    },
+    {
+        "category": "cafes",
+        "title": "Café d’Auteur - Specialty Coffee shop & roaster",
+        "rating": 4.7,
+        "address": "39 Rue Mazarine, 75006 Paris, France",
+        "latitude": 48.854220999999995,
+        "longitude": 2.338259
+    },
+    {
+        "category": "cafes",
+        "title": "Grace Café",
+        "rating": 4.7,
+        "address": "8 Rue de Commaille, 75007 Paris, France",
+        "latitude": 48.852803699999996,
+        "longitude": 2.3239893
+    },
+    {
+        "category": "cafes",
+        "title": "Terres de Café",
+        "rating": 4.3,
+        "address": "67 Av. de la Bourdonnais, 75007 Paris, France",
+        "latitude": 48.856976499999995,
+        "longitude": 2.3016327999999997
+    },
+    {
+        "category": "cafes",
+        "title": "BlackBird Coffee",
+        "rating": 4.7,
+        "address": "77 Rue du Temple, 75003 Paris, France",
+        "latitude": 48.8612888,
+        "longitude": 2.3560345
+    },
+    {
+        "category": "cafes",
+        "title": "O Coffee",
+        "rating": 4.6,
+        "address": "23 Rue de Lourmel, 75015 Paris, France",
+        "latitude": 48.8491441,
+        "longitude": 2.2911492
+    },
+    {
+        "category": "cafes",
+        "title": "Coutume",
+        "rating": 4.3,
+        "address": "47 Rue de Babylone, 75007 Paris, France",
+        "latitude": 48.851642999999996,
+        "longitude": 2.318316
+    },
+    {
+        "category": "cafes",
+        "title": "Café Méricourt",
+        "rating": 4.6,
+        "address": "22 Rue de la Folie Méricourt, 75011 Paris, France",
+        "latitude": 48.862553899999995,
+        "longitude": 2.3736336
+    },
+    {
+        "category": "mountains",
+        "title": "Montagne de Paris",
+        "rating": 3,
+        "address": "02200 Vauxbuin, France",
+        "latitude": 49.365525999999996,
+        "longitude": 3.291744
+    },
+    {
+        "category": "mountains",
+        "title": "Belvédère de Belleville",
+        "rating": 4.4,
+        "address": "27 Rue Piat, 75020 Paris, France",
+        "latitude": 48.8715869,
+        "longitude": 2.3849845999999997
+    },
+    {
+        "category": "mountains",
+        "title": "Mount Paris",
+        "rating": 1,
+        "address": "Antarctica",
+        "latitude": -68.983333,
+        "longitude": -70.83333309999999
+    },
+    {
+        "category": "mountains",
+        "title": "Parc des Buttes-Chaumont",
+        "rating": 4.6,
+        "address": "75019 Paris, France",
+        "latitude": 48.8809496,
+        "longitude": 2.3827609
+    },
+    {
+        "category": "mountains",
+        "title": "Mont Paris",
+        "rating": null,
+        "address": "French Southern and Antarctic Lands",
+        "latitude": -49.1863889,
+        "longitude": 69.1213889
+    },
+    {
+        "category": "mountains",
+        "title": "Eiffel Tower",
+        "rating": 4.7,
+        "address": "Av. Gustave Eiffel, 75007 Paris, France",
+        "latitude": 48.858370099999995,
+        "longitude": 2.2944812999999997
+    },
+    {
+        "category": "mountains",
+        "title": "Gare de Lyon",
+        "rating": 3.8,
+        "address": "Pl. Louis Armand, 75012 Paris, France",
+        "latitude": 48.8443038,
+        "longitude": 2.3743773
+    },
+    {
+        "category": "mountains",
+        "title": "The Mountain",
+        "rating": null,
+        "address": "4 Rue Royale, 75008 Paris, France",
+        "latitude": 48.867272299999996,
+        "longitude": 2.3226695
+    },
+    {
+        "category": "mountains",
+        "title": "Paris Peak",
+        "rating": 5,
+        "address": "Antarctica",
+        "latitude": -64.5,
+        "longitude": -63.366667099999994
+    },
+    {
+        "category": "mountains",
+        "title": "Mountains Group (MG)",
+        "rating": null,
+        "address": "Bd Saint-Denis No. 293, 92400 Courbevoie, France",
+        "latitude": 48.9030959,
+        "longitude": 2.2751531
+    },
+    {
+        "category": "mountains",
+        "title": "Mountain",
+        "rating": 4.6,
+        "address": "136 Rue de Crimée, 75019 Paris, France",
+        "latitude": 48.886787399999996,
+        "longitude": 2.3814382
+    },
+    {
+        "category": "mountains",
+        "title": "Mineralogy Museum MINES ParisTech",
+        "rating": 4.7,
+        "address": "60 Bd Saint-Michel, 75006 Paris, France",
+        "latitude": 48.8454487,
+        "longitude": 2.3395614
+    },
+    {
+        "category": "mountains",
+        "title": "Green Mountains - Foodtruck Grenoble et environs",
+        "rating": 5,
+        "address": null,
+        "latitude": 45.289631199999995,
+        "longitude": 5.5506717
+    },
+    {
+        "category": "mountains",
+        "title": "Librairie des Alpes",
+        "rating": 4.8,
+        "address": "6 Rue de Seine, 75006 Paris, France",
+        "latitude": 48.857138,
+        "longitude": 2.3364338
+    },
+    {
+        "category": "mountains",
+        "title": "Montagnes Vosges",
+        "rating": null,
+        "address": "Vosges Mountains, 15 Cité Falguière, 75015 Paris, France",
+        "latitude": 48.840821999999996,
+        "longitude": 2.3119357
+    },
+    {
+        "category": "mountains",
+        "title": "Montagne de Reims Natural Regional Park",
+        "rating": 3.7,
+        "address": "1 Pl. de la Prte de Versailles, 75015 Paris, France",
+        "latitude": 48.8326788,
+        "longitude": 2.2866440999999997
+    },
+    {
+        "category": "mountains",
+        "title": "Hiking trail 2024",
+        "rating": 3.3,
+        "address": "75004 Paris, France",
+        "latitude": 48.856614,
+        "longitude": 2.3522219
+    },
+    {
+        "category": "mountains",
+        "title": "Temple de la Sybille",
+        "rating": 4.4,
+        "address": "Route Circulaire du Lac, 75019 Paris, France",
+        "latitude": 48.8811039,
+        "longitude": 2.3829587
+    },
+    {
+        "category": "waterfalls",
+        "title": "Grande Cascade",
+        "rating": 4.4,
+        "address": "92210 Saint-Cloud, France",
+        "latitude": 48.836878999999996,
+        "longitude": 2.218641
+    },
+    {
+        "category": "waterfalls",
+        "title": "Waterfall of the Montparnasse",
+        "rating": 4,
+        "address": "23 All. du Capitaine Dronne, 75015 Paris, France",
+        "latitude": 48.8409542,
+        "longitude": 2.3192404
+    },
+    {
+        "category": "waterfalls",
+        "title": "Cascade du Bois de Boulogne",
+        "rating": 4.5,
+        "address": "75016 Paris, France",
+        "latitude": 48.8590644,
+        "longitude": 2.2580773
+    },
+    {
+        "category": "lakes",
+        "title": "Lac Daumesnil",
+        "rating": 4.7,
+        "address": "75012 Paris, France",
+        "latitude": 48.8324916,
+        "longitude": 2.4123943
+    },
+    {
+        "category": "lakes",
+        "title": "Lac des Minimes",
+        "rating": 4.5,
+        "address": "75012 Paris, France",
+        "latitude": 48.836290999999996,
+        "longitude": 2.4587659
+    },
+    {
+        "category": "lakes",
+        "title": "Lac de Saint-Mandé",
+        "rating": 4.6,
+        "address": "75012 Paris, France",
+        "latitude": 48.841859299999996,
+        "longitude": 2.423213
+    },
+    {
+        "category": "lakes",
+        "title": "Lac de Gravelle",
+        "rating": 4.5,
+        "address": "75012 Paris, France",
+        "latitude": 48.8199255,
+        "longitude": 2.4491109
+    },
+    {
+        "category": "lakes",
+        "title": "Lac Inférieur",
+        "rating": 4.5,
+        "address": "75016 Paris, France",
+        "latitude": 48.8669784,
+        "longitude": 2.2628405
+    },
+    {
+        "category": "lakes",
+        "title": "Lac Supérieur",
+        "rating": 4.7,
+        "address": "75016 Paris, France",
+        "latitude": 48.8568666,
+        "longitude": 2.25695
+    },
+    {
+        "category": "lakes",
+        "title": "Lac de Créteil",
+        "rating": 4.5,
+        "address": "94000 Créteil, France",
+        "latitude": 48.7766666,
+        "longitude": 2.4508227
+    },
+    {
+        "category": "beaches",
+        "title": "Paris Plages",
+        "rating": 4.3,
+        "address": "42 Quai des Célestins, 75004 Paris, France",
+        "latitude": 48.8528039,
+        "longitude": 2.3583326
+    },
+    {
+        "category": "beaches",
+        "title": "Paris plage quai de la marne",
+        "rating": 4.1,
+        "address": "10 Quai de la Marne, 75019 Paris, France",
+        "latitude": 48.8885517,
+        "longitude": 2.38068
+    },
+    {
+        "category": "beaches",
+        "title": "Paris Plage",
+        "rating": 3.8,
+        "address": "04 Pont de Sully, 75004 Paris, France",
+        "latitude": 48.8506978,
+        "longitude": 2.3616025
+    },
+    {
+        "category": "swimming pools",
+        "title": "Butte-aux-Cailles Swimming Pool",
+        "rating": 3.8,
+        "address": "5 Pl. Paul Verlaine, 75013 Paris, France",
+        "latitude": 48.8273763,
+        "longitude": 2.3523131
+    },
+    {
+        "category": "swimming pools",
+        "title": "Suzanne Berlioux swimming pool",
+        "rating": 3.7,
+        "address": "10 Place de la Rotonde, 75001 Paris, France",
+        "latitude": 48.8626662,
+        "longitude": 2.3439731
+    },
+    {
+        "category": "swimming pools",
+        "title": "Joséphine Baker Pool",
+        "rating": 3.3,
+        "address": "Quai François Mauriac, 75013 Paris, France",
+        "latitude": 48.8360829,
+        "longitude": 2.3760589999999997
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscine Roger Le Gall",
+        "rating": 3.4,
+        "address": "34 Bd Carnot, 75012 Paris, France",
+        "latitude": 48.841750999999995,
+        "longitude": 2.4128012
+    },
+    {
+        "category": "swimming pools",
+        "title": "espace sportif Pailleron",
+        "rating": 3.6,
+        "address": "32 Rue Édouard-Pailleron, 75019 Paris, France",
+        "latitude": 48.8809013,
+        "longitude": 2.3780083999999997
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscine Keller",
+        "rating": 3.8,
+        "address": "14 Rue de l'Ingénieur Robert Keller, 75015 Paris, France",
+        "latitude": 48.847376399999995,
+        "longitude": 2.282091
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming pool Saint-Merri / Marie-Marvingt",
+        "rating": 3.6,
+        "address": "16 R. du Renard, 75004 Paris, France",
+        "latitude": 48.859136899999996,
+        "longitude": 2.3526054999999997
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscine Georges Hermant",
+        "rating": 4.1,
+        "address": "8-10 Rue David d'Angers, 75019 Paris, France",
+        "latitude": 48.8824392,
+        "longitude": 2.389494
+    },
+    {
+        "category": "swimming pools",
+        "title": "Piscine Georges Vallerey",
+        "rating": 4.1,
+        "address": "148 Av. Gambetta, 75020 Paris, France",
+        "latitude": 48.8754391,
+        "longitude": 2.4061844999999997
+    },
+    {
+        "category": "swimming pools",
+        "title": "Paris en Seine - Baignade de Bercy",
+        "rating": 4.6,
+        "address": "183 Quai de Bercy, 75012 Paris, France",
+        "latitude": 48.8360298,
+        "longitude": 2.3785933
+    },
+    {
+        "category": "swimming pools",
+        "title": "Olympic Aquatics Centre",
+        "rating": 4.4,
+        "address": "361-363, Av. du Président Wilson, 93200 Saint-Denis, France",
+        "latitude": 48.9235943,
+        "longitude": 2.3554432
+    },
+    {
+        "category": "swimming pools",
+        "title": "Alfred Nakache pool",
+        "rating": 3.7,
+        "address": "4-12 Rue Denoyez, 75020 Paris, France",
+        "latitude": 48.871468899999996,
+        "longitude": 2.3790728
+    },
+    {
+        "category": "swimming pools",
+        "title": "Jean Boiteux Pool",
+        "rating": 2.7,
+        "address": "13 Rue Antoine-Julien Hénard, 75012 Paris, France",
+        "latitude": 48.8421084,
+        "longitude": 2.3893274
+    },
+    {
+        "category": "swimming pools",
+        "title": "Catherine Lagatu pool",
+        "rating": 3.5,
+        "address": "155 Ave Parmentier, 75010 Paris, France",
+        "latitude": 48.871739299999994,
+        "longitude": 2.3693472
+    },
+    {
+        "category": "swimming pools",
+        "title": "Pool of the Lions Court",
+        "rating": 3.5,
+        "address": "9 Rue Alphonse Baudin, 75011 Paris, France",
+        "latitude": 48.8605684,
+        "longitude": 2.3702703
+    },
+    {
+        "category": "swimming pools",
+        "title": "Aquaboulevard",
+        "rating": 3.7,
+        "address": "4 Rue Louis Armand, 75015 Paris, France",
+        "latitude": 48.8318042,
+        "longitude": 2.2762626999999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming pool La Plaine",
+        "rating": 3.7,
+        "address": "13 Rue du Général Guillaumat, 75015 Paris, France",
+        "latitude": 48.8279326,
+        "longitude": 2.2935612
+    },
+    {
+        "category": "swimming pools",
+        "title": "Pool Yvonne Godard",
+        "rating": 4,
+        "address": "5/7 Rue Serpollet, 75020 Paris, France",
+        "latitude": 48.8613662,
+        "longitude": 2.4103584
+    },
+    {
+        "category": "swimming pools",
+        "title": "Swimming pool jean taris",
+        "rating": 3.4,
+        "address": "16 Rue Thouin, 75005 Paris, France",
+        "latitude": 48.8448048,
+        "longitude": 2.3480640999999998
+    },
+    {
+        "category": "swimming pools",
+        "title": "Public Swimming Pool Jacqueline Auriol",
+        "rating": 3,
+        "address": "7 All. Louis de Funès, 75008 Paris, France",
+        "latitude": 48.876437599999996,
+        "longitude": 2.3058508
+    },
+    {
+        "category": "resorts",
+        "title": "Hapimag Resort Paris",
+        "rating": 4.6,
+        "address": "90 Rue Saint-Honoré, 75001 Paris, France",
+        "latitude": 48.861540899999994,
+        "longitude": 2.342732
+    },
+    {
+        "category": "resorts",
+        "title": "Four Seasons Hotel George V, Paris",
+        "rating": 4.8,
+        "address": "31 Av. George V, 75008 Paris, France",
+        "latitude": 48.8687444,
+        "longitude": 2.3008389
+    },
+    {
+        "category": "resorts",
+        "title": "Shangri-La Paris",
+        "rating": 4.7,
+        "address": "10 Av. d'Iéna, 75116 Paris, France",
+        "latitude": 48.863927999999994,
+        "longitude": 2.2934026999999997
+    },
+    {
+        "category": "resorts",
+        "title": "Grand Hôtel du Palais Royal",
+        "rating": 4.7,
+        "address": "4 Rue de Valois, 75001 Paris, France",
+        "latitude": 48.8631306,
+        "longitude": 2.3379051
+    },
+    {
+        "category": "resorts",
+        "title": "La Réserve",
+        "rating": 4.8,
+        "address": "la reserve, 42 Av. Gabriel, 75008 Paris, France",
+        "latitude": 48.8697628,
+        "longitude": 2.3132848
+    },
+    {
+        "category": "resorts",
+        "title": "Ritz Paris",
+        "rating": 4.7,
+        "address": "15 Pl. Vendôme, 75001 Paris, France",
+        "latitude": 48.8680987,
+        "longitude": 2.3288932
+    },
+    {
+        "category": "resorts",
+        "title": "InterContinental Paris - Le Grand by IHG",
+        "rating": 4.6,
+        "address": "2 Rue Scribe, 75009 Paris, France",
+        "latitude": 48.8709797,
+        "longitude": 2.3304777
+    },
+    {
+        "category": "resorts",
+        "title": "Secret De Paris - Hotel & Spa",
+        "rating": 4.6,
+        "address": "2 Rue de Parme, 75009 Paris, France",
+        "latitude": 48.881388799999996,
+        "longitude": 2.3282822
+    },
+    {
+        "category": "resorts",
+        "title": "Paris Marriott Rive Gauche Hotel & Conference Center",
+        "rating": 4,
+        "address": "17 Bd Saint-Jacques, 75014 Paris, France",
+        "latitude": 48.831854299999996,
+        "longitude": 2.3399102
+    },
+    {
+        "category": "resorts",
+        "title": "Hôtel du Louvre - The Unbound Collection by Hyatt",
+        "rating": 4.6,
+        "address": "Pl. André Malraux, 75001 Paris, France",
+        "latitude": 48.862990599999996,
+        "longitude": 2.3356855999999997
+    },
+    {
+        "category": "resorts",
+        "title": "Hôtel Mayfair Paris",
+        "rating": 4.6,
+        "address": "3 Rue Rouget de Lisle, 75001 Paris, France",
+        "latitude": 48.866101699999994,
+        "longitude": 2.3261366999999997
+    },
+    {
+        "category": "resorts",
+        "title": "Hotel Saint-Petersbourg Opera & SPA",
+        "rating": 4.3,
+        "address": "35 Rue de Caumartin, 75009 Paris, France",
+        "latitude": 48.8721453,
+        "longitude": 2.3280664
+    },
+    {
+        "category": "resorts",
+        "title": "Sofitel Paris le Faubourg",
+        "rating": 4.6,
+        "address": "15 Rue Boissy d'Anglas, 75008 Paris, France",
+        "latitude": 48.8684103,
+        "longitude": 2.3213483999999998
+    },
+    {
+        "category": "resorts",
+        "title": "LAZ' Hôtel Spa Urbain",
+        "rating": 4.4,
+        "address": "17 Rue de Milan, 75009 Paris, France",
+        "latitude": 48.8787028,
+        "longitude": 2.3277528
+    },
+    {
+        "category": "resorts",
+        "title": "Hilton Paris Opera",
+        "rating": 4.3,
+        "address": "108 Rue Saint-Lazare, 75008 Paris, France",
+        "latitude": 48.8756014,
+        "longitude": 2.3255604
+    },
+    {
+        "category": "resorts",
+        "title": "The Peninsula Paris",
+        "rating": 4.7,
+        "address": "19 Av. Kléber, 75116 Paris, France",
+        "latitude": 48.871018199999995,
+        "longitude": 2.293689
+    },
+    {
+        "category": "resorts",
+        "title": "La Maison Favart",
+        "rating": 4.7,
+        "address": "5 Rue de Marivaux, 75002 Paris, France",
+        "latitude": 48.870810399999996,
+        "longitude": 2.3373092
+    },
+    {
+        "category": "resorts",
+        "title": "Mandarin Oriental, Paris Hotel",
+        "rating": 4.6,
+        "address": "251 Rue Saint-Honoré, 75001 Paris, France",
+        "latitude": 48.867055099999995,
+        "longitude": 2.3272231
+    },
+    {
+        "category": "resorts",
+        "title": "Hôtel B55 Paris by Collection Vesper (Butte aux Cailles - Parc Montsouris - Cité U)",
+        "rating": 4.5,
+        "address": "55 Rue Boussingault, 75013 Paris, France",
+        "latitude": 48.825921699999995,
+        "longitude": 2.3421295
+    },
+    {
+        "category": "resorts",
+        "title": "Best Western Plus La Demeure",
+        "rating": 4.4,
+        "address": "51 Bd Saint-Marcel, 75013 Paris, France",
+        "latitude": 48.8378254,
+        "longitude": 2.3558277999999997
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping de Paris",
+        "rating": 4.1,
+        "address": "2 All. du Bord de l'Eau, 75016 Paris, France",
+        "latitude": 48.868480399999996,
+        "longitude": 2.2344768999999998
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Paris Est (Euro Camp)",
+        "rating": 3.6,
+        "address": "110 Bd des Alliés, 94500 Champigny-sur-Marne, France",
+        "latitude": 48.8297964,
+        "longitude": 2.4776206
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Paris Beautiful Village",
+        "rating": 4.1,
+        "address": "1 Voie des Prés, 91700 Villiers-sur-Orge, France",
+        "latitude": 48.6551348,
+        "longitude": 2.3040678999999997
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Les Rives de Paris - Neuilly-sur-Marne",
+        "rating": 4.1,
+        "address": "Camping municipal, Chem. de l'Écluse, 93330 Neuilly-sur-Marne, France",
+        "latitude": 48.8539081,
+        "longitude": 2.5413715999999997
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Club Le Parc de Paris",
+        "rating": 4,
+        "address": "24 Rue Adèle Claret, 77410 Villevaudé, France",
+        "latitude": 48.9126203,
+        "longitude": 2.670709
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping International de Jablines",
+        "rating": 4.2,
+        "address": "Base de Loisirs de, 77450 Jablines, France",
+        "latitude": 48.9133114,
+        "longitude": 2.734242
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Joinville Le Pont - Paris Est - Bords De Marne",
+        "rating": 3.8,
+        "address": "110 Bd des Alliés, 94500 Champigny-sur-Marne, France",
+        "latitude": 48.829776599999995,
+        "longitude": 2.4776229
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Sandaya Paris Maisons-Laffitte",
+        "rating": 3.9,
+        "address": "1 Rue Johnson, 78600 Maisons-Laffitte, France",
+        "latitude": 48.9398992,
+        "longitude": 2.1454732
+    },
+    {
+        "category": "camping sites",
+        "title": "Paris Camping International İle du Roi/Camping Île de France/hôtel de plein air et apart hôtel/Guinguette/aire de service",
+        "rating": 4.3,
+        "address": "181 Chem. de Médan, 78510 Triel-sur-Seine, France",
+        "latitude": 48.9618529,
+        "longitude": 1.9974684999999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Caravan of 4 Winds",
+        "rating": 4.7,
+        "address": "22 Rue de Beauregard, 77610 Crèvecœur-en-Brie, France",
+        "latitude": 48.7514314,
+        "longitude": 2.8955515999999997
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Huttopia Versailles",
+        "rating": 4.1,
+        "address": "31 Rue Berthelot, 78000 Versailles, France",
+        "latitude": 48.794273,
+        "longitude": 2.160957
+    },
+    {
+        "category": "camping sites",
+        "title": "CACC",
+        "rating": null,
+        "address": "78 Rue de Rivoli, 75004 Paris, France",
+        "latitude": 48.8577869,
+        "longitude": 2.3508229
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping le Grand Paris",
+        "rating": 3.8,
+        "address": "10 Chem. des Belles Vues, 95690 Nesles-la-Vallée, France",
+        "latitude": 49.127996599999996,
+        "longitude": 2.1856926
+    },
+    {
+        "category": "camping sites",
+        "title": "La Belle Étoile",
+        "rating": 3.9,
+        "address": "Camping La Belle Etoile, 1 Quai de Seine, 77000 La Rochette, France",
+        "latitude": 48.525307899999994,
+        "longitude": 2.6682644
+    },
+    {
+        "category": "hiking trails",
+        "title": "Petite Ceinture du 16e",
+        "rating": 4.3,
+        "address": "32 Bd de Montmorency, 75016 Paris, France",
+        "latitude": 48.8529936,
+        "longitude": 2.2623309
+    },
+    {
+        "category": "hiking trails",
+        "title": "GR 1 Tour of Ile de France",
+        "rating": 5,
+        "address": "V7GJ+PF, 75116 Paris, France",
+        "latitude": 48.8768548,
+        "longitude": 2.2812094
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bois de Vincennes",
+        "rating": 4.5,
+        "address": "Rte de la Pyramide, 75012 Paris, France",
+        "latitude": 48.828279699999996,
+        "longitude": 2.4330971999999997
+    },
+    {
+        "category": "hiking trails",
+        "title": "Petite ceinture du 18ème",
+        "rating": 4.3,
+        "address": "79 Rue Leibniz, 75018 Paris, France",
+        "latitude": 48.8959492,
+        "longitude": 2.3313489
+    },
+    {
+        "category": "hiking trails",
+        "title": "Bois de Boulogne",
+        "rating": 4.3,
+        "address": "75016 Paris, France",
+        "latitude": 48.8619839,
+        "longitude": 2.2523138
+    },
+    {
+        "category": "hiking trails",
+        "title": "Traversée de Paris (Nord-Sud)",
+        "rating": 4,
+        "address": "1055 Av. de la Prte de la Villette, 75019 Paris, France",
+        "latitude": 48.899706099999996,
+        "longitude": 2.387852
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Jardin des Plantes",
+        "rating": 4.6,
+        "address": "75005 Paris, France",
+        "latitude": 48.8439069,
+        "longitude": 2.359658
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Bois de Vincennes",
+        "rating": 4.5,
+        "address": "Rte de la Pyramide, 75012 Paris, France",
+        "latitude": 48.828279699999996,
+        "longitude": 2.4330971999999997
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Bois de Boulogne",
+        "rating": 4.3,
+        "address": "75016 Paris, France",
+        "latitude": 48.8619839,
+        "longitude": 2.2523138
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Jardin du Luxembourg",
+        "rating": 4.7,
+        "address": "75006 Paris, France",
+        "latitude": 48.8466144,
+        "longitude": 2.3363309
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Coulée Verte René-Dumont",
+        "rating": 4.6,
+        "address": "75012 Paris, France",
+        "latitude": 48.8494548,
+        "longitude": 2.3714863
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "La Villette",
+        "rating": 4.4,
+        "address": "211 Av. Jean Jaurès, 75019 Paris, France",
+        "latitude": 48.8931617,
+        "longitude": 2.3905342
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Parc Montsouris",
+        "rating": 4.6,
+        "address": "2 Rue Gazan, 75014 Paris, France",
+        "latitude": 48.8226716,
+        "longitude": 2.3376598
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Eiffel Tower",
+        "rating": 4.7,
+        "address": "Av. Gustave Eiffel, 75007 Paris, France",
+        "latitude": 48.858370099999995,
+        "longitude": 2.2944812999999997
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Parc Monceau",
+        "rating": 4.6,
+        "address": "75008 Paris, France",
+        "latitude": 48.8796835,
+        "longitude": 2.308955
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Parc des Buttes-Chaumont",
+        "rating": 4.6,
+        "address": "75019 Paris, France",
+        "latitude": 48.8809496,
+        "longitude": 2.3827609
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Maison Paris nature",
+        "rating": 3.7,
+        "address": "Pavillons 1, 2 et 6 du Parc Floral de, 6 Rte de la Pyramide, 75012 Paris, France",
+        "latitude": 48.8393611,
+        "longitude": 2.4415771
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Paris Walks",
+        "rating": 4.8,
+        "address": "12 Pass. Meunier, 93200 Saint-Denis, France",
+        "latitude": 48.929797699999995,
+        "longitude": 2.3539084999999997
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Parc naturel régional de la Haute Vallée de Chevreuse",
+        "rating": 4.6,
+        "address": "France",
+        "latitude": 48.6625338,
+        "longitude": 1.9504823
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Treille Garden",
+        "rating": 4.6,
+        "address": "75019 Paris, France",
+        "latitude": 48.8929179,
+        "longitude": 2.3907213
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Parc André Citroën",
+        "rating": 4.4,
+        "address": "2 Rue Cauchy, 75015 Paris, France",
+        "latitude": 48.8410833,
+        "longitude": 2.2746546999999997
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Temple de la Sybille",
+        "rating": 4.4,
+        "address": "Route Circulaire du Lac, 75019 Paris, France",
+        "latitude": 48.8811039,
+        "longitude": 2.3829587
+    },
+    {
+        "category": "temples",
+        "title": "Temple Ganesh",
+        "rating": 4.5,
+        "address": "17 Rue Pajol, 75018 Paris, France",
+        "latitude": 48.8859431,
+        "longitude": 2.3606865
+    },
+    {
+        "category": "temples",
+        "title": "ISKCON Temple Paris",
+        "rating": 4.9,
+        "address": "230 Av. de la Division Leclerc, 95200 Sarcelles, France",
+        "latitude": 48.989849,
+        "longitude": 2.373863
+    },
+    {
+        "category": "temples",
+        "title": "Sri Ayyappan Temple Paris",
+        "rating": 4.9,
+        "address": "97 Rue Philippe de Girard, 75018 Paris, France",
+        "latitude": 48.8891944,
+        "longitude": 2.3604024
+    },
+    {
+        "category": "temples",
+        "title": "Paris France Temple",
+        "rating": 4.8,
+        "address": "46 Bd Saint-Antoine, 78150 Versailles, France",
+        "latitude": 48.818273999999995,
+        "longitude": 2.1230360999999998
+    },
+    {
+        "category": "temples",
+        "title": "Notre-Dame Cathedral of Paris",
+        "rating": 4.7,
+        "address": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France",
+        "latitude": 48.8529682,
+        "longitude": 2.3499021
+    },
+    {
+        "category": "temples",
+        "title": "Temple du Marais",
+        "rating": 4.6,
+        "address": "17 Rue Saint-Antoine, 75004 Paris, France",
+        "latitude": 48.853310799999996,
+        "longitude": 2.3662101
+    },
+    {
+        "category": "temples",
+        "title": "Temple",
+        "rating": 4.3,
+        "address": "75003 Paris, France",
+        "latitude": 48.8666495,
+        "longitude": 2.361601
+    },
+    {
+        "category": "temples",
+        "title": "Temple de L'Amicale des Teochew en France",
+        "rating": 4.8,
+        "address": "Centre Commercial Oslo, 44 Av. d'Ivry, 75013 Paris, France",
+        "latitude": 48.824632199999996,
+        "longitude": 2.3669757
+    },
+    {
+        "category": "temples",
+        "title": "Sri Durgai Amman Hindu Temple of Villiers Le Bel, ஸ்ரீ துர்க்கை அம்மன் ஆலயம்",
+        "rating": 4.7,
+        "address": "15 Av. Alexis Varagne, 95400 Villiers-le-Bel, France",
+        "latitude": 48.999989,
+        "longitude": 2.4138064999999997
+    },
+    {
+        "category": "temples",
+        "title": "Basilique du Sacré-Cœur de Montmartre",
+        "rating": 4.7,
+        "address": "35 Rue du Chevalier de la Barre, 75018 Paris, France",
+        "latitude": 48.886704599999995,
+        "longitude": 2.3431043
+    },
+    {
+        "category": "temples",
+        "title": "The Great Pagoda",
+        "rating": 4.4,
+        "address": "40 Bis Rte de Ceinture du Lac Daumesnil, 75012 Paris, France",
+        "latitude": 48.828486999999996,
+        "longitude": 2.4153024
+    },
+    {
+        "category": "temples",
+        "title": "Square du Temple - Elie Wiesel",
+        "rating": 4.4,
+        "address": "64 Rue de Bretagne, 75003 Paris, France",
+        "latitude": 48.864487399999994,
+        "longitude": 2.3607212
+    },
+    {
+        "category": "temples",
+        "title": "Le Carreau du Temple",
+        "rating": 4.4,
+        "address": "4 Rue Eugène Spuller, 75003 Paris, France",
+        "latitude": 48.8646104,
+        "longitude": 2.3623102
+    },
+    {
+        "category": "temples",
+        "title": "HALL OF PARIS",
+        "rating": 5,
+        "address": "40 Rue des Blancs Manteaux, 75004 Paris, France",
+        "latitude": 48.859842699999994,
+        "longitude": 2.3551881999999997
+    },
+    {
+        "category": "temples",
+        "title": "Temple Romantique de l'Île de Reuilly",
+        "rating": 4.6,
+        "address": "Rte des Îles, 75012 Paris, France",
+        "latitude": 48.8300311,
+        "longitude": 2.4157083999999998
+    },
+    {
+        "category": "temples",
+        "title": "Autel de Culte de Bouddha",
+        "rating": 4.7,
+        "address": "37 Rue du Disque, 75013 Paris, France",
+        "latitude": 48.824689299999996,
+        "longitude": 2.3648222999999997
+    },
+    {
+        "category": "temples",
+        "title": "Sri Kamakshi Amman Alayam",
+        "rating": 4.9,
+        "address": "36 Av. de la Division Leclerc, 93000 Bobigny, France",
+        "latitude": 48.908080999999996,
+        "longitude": 2.4225665
+    },
+    {
+        "category": "temples",
+        "title": "Temple de Pentemont",
+        "rating": 4.6,
+        "address": "106 Rue de Grenelle, 75007 Paris, France",
+        "latitude": 48.8564071,
+        "longitude": 2.3218011
+    },
+    {
+        "category": "temples",
+        "title": "Sainte-Chapelle",
+        "rating": 4.6,
+        "address": "10 Bd du Palais, 75001 Paris, France",
+        "latitude": 48.855374999999995,
+        "longitude": 2.3449609
+    },
+    {
+        "category": "temples",
+        "title": "Kanapathy Hindu Temple, விநாயகர் கோவில்",
+        "rating": 4.7,
+        "address": "90 Rue Emile Zola, 93120 La Courneuve, France",
+        "latitude": 48.9263228,
+        "longitude": 2.3933929
+    },
+    {
+        "category": "museums",
+        "title": "Louvre Museum",
+        "rating": 4.7,
+        "address": "75001 Paris, France",
+        "latitude": 48.8606111,
+        "longitude": 2.337644
+    },
+    {
+        "category": "museums",
+        "title": "Musée d'Orsay",
+        "rating": 4.8,
+        "address": "Esplanade Valéry Giscard d'Estaing, 75007 Paris, France",
+        "latitude": 48.859961399999996,
+        "longitude": 2.3265614
+    },
+    {
+        "category": "museums",
+        "title": "Musée du quai Branly - Jacques Chirac",
+        "rating": 4.6,
+        "address": "37 Quai Jacques Chirac, 75007 Paris, France",
+        "latitude": 48.8608889,
+        "longitude": 2.297894
+    },
+    {
+        "category": "museums",
+        "title": "Musée Jacquemart-André",
+        "rating": 4.5,
+        "address": "158 Bd Haussmann, 75008 Paris, France",
+        "latitude": 48.875553,
+        "longitude": 2.310422
+    },
+    {
+        "category": "museums",
+        "title": "Musée de l'Orangerie",
+        "rating": 4.6,
+        "address": "Jardin des Tuileries, 75001 Paris, France",
+        "latitude": 48.8637884,
+        "longitude": 2.3226724
+    },
+    {
+        "category": "museums",
+        "title": "Musée Rodin",
+        "rating": 4.7,
+        "address": "77 Rue de Varenne, 75007 Paris, France",
+        "latitude": 48.8553072,
+        "longitude": 2.3158354
+    },
+    {
+        "category": "museums",
+        "title": "Musée National Picasso-Paris",
+        "rating": 4.4,
+        "address": "5 Rue de Thorigny, 75003 Paris, France",
+        "latitude": 48.859877499999996,
+        "longitude": 2.362285
+    },
+    {
+        "category": "museums",
+        "title": "The Army Museum",
+        "rating": 4.6,
+        "address": "129 Rue de Grenelle, 75007 Paris, France",
+        "latitude": 48.855793299999995,
+        "longitude": 2.3125934
+    },
+    {
+        "category": "museums",
+        "title": "Fondation Louis Vuitton",
+        "rating": 4.5,
+        "address": "8 Av. du Mahatma Gandhi, 75116 Paris, France",
+        "latitude": 48.8766453,
+        "longitude": 2.2635239
+    },
+    {
+        "category": "museums",
+        "title": "Cité des Sciences et de l'Industrie",
+        "rating": 3.8,
+        "address": "30 Av. Corentin Cariou, 75019 Paris, France",
+        "latitude": 48.8955948,
+        "longitude": 2.3878996
+    },
+    {
+        "category": "museums",
+        "title": "Grand Palais",
+        "rating": 4.5,
+        "address": "75008 Paris, France",
+        "latitude": 48.866109099999996,
+        "longitude": 2.3124544
+    },
+    {
+        "category": "museums",
+        "title": "Musée d'Art Moderne de Paris",
+        "rating": 4.5,
+        "address": "11 Av. du Président Wilson, 75116 Paris, France",
+        "latitude": 48.864342099999995,
+        "longitude": 2.2978207999999998
+    },
+    {
+        "category": "museums",
+        "title": "Petit Palais",
+        "rating": 4.7,
+        "address": "Av. Winston Churchill, 75008 Paris, France",
+        "latitude": 48.8660479,
+        "longitude": 2.3145895999999997
+    },
+    {
+        "category": "museums",
+        "title": "National Museum of Natural History",
+        "rating": 4.5,
+        "address": "57 Rue Cuvier, 75005 Paris, France",
+        "latitude": 48.8417009,
+        "longitude": 2.3560168999999997
+    },
+    {
+        "category": "museums",
+        "title": "Carnavalet Museum",
+        "rating": 4.7,
+        "address": "23 Rue de Sévigné, 75003 Paris, France",
+        "latitude": 48.8570669,
+        "longitude": 2.3628579
+    },
+    {
+        "category": "museums",
+        "title": "Cluny Museum - National Museum of the Middle Ages",
+        "rating": 4.5,
+        "address": "28 Rue du Sommerard, 75005 Paris, France",
+        "latitude": 48.8504833,
+        "longitude": 2.3440808
+    },
+    {
+        "category": "museums",
+        "title": "Musée national des arts asiatiques - Guimet",
+        "rating": 4.6,
+        "address": "6 Pl. d'Iéna, 75116 Paris, France",
+        "latitude": 48.8651018,
+        "longitude": 2.2937604
+    },
+    {
+        "category": "museums",
+        "title": "Musée Marmottan Monet",
+        "rating": 4.6,
+        "address": "2 Rue Louis Boilly, 75016 Paris, France",
+        "latitude": 48.8592613,
+        "longitude": 2.2672282
+    },
+    {
+        "category": "museums",
+        "title": "Dali Museum",
+        "rating": 4.5,
+        "address": "11 Rue Poulbot, 75018 Paris, France",
+        "latitude": 48.886511899999995,
+        "longitude": 2.3398718
+    },
+    {
+        "category": "museums",
+        "title": "Musée des Arts et Métiers",
+        "rating": 4.6,
+        "address": "60 Rue Réaumur, 75003 Paris, France",
+        "latitude": 48.8660399,
+        "longitude": 2.3556152
+    },
+    {
+        "category": "night markets",
+        "title": "Rue Mouffetard Market",
+        "rating": 4.5,
+        "address": "139 Rue Mouffetard, 75005 Paris, France",
+        "latitude": 48.8404307,
+        "longitude": 2.3498002
+    },
+    {
+        "category": "night markets",
+        "title": "Night market",
+        "rating": 4.2,
+        "address": "74 Bd des Batignolles, 75017 Paris, France",
+        "latitude": 48.8821994,
+        "longitude": 2.3197826
+    },
+    {
+        "category": "night markets",
+        "title": "888 NIGHT MARKET | 一村夜话",
+        "rating": 4.6,
+        "address": "3 Imp. Beaubourg, 75003 Paris, France",
+        "latitude": 48.862102,
+        "longitude": 2.3534899
+    },
+    {
+        "category": "night markets",
+        "title": "Marché Saxe-Breteuil",
+        "rating": 4.5,
+        "address": "37-31 Av. de Saxe, 75007 Paris, France",
+        "latitude": 48.8481169,
+        "longitude": 2.3104749
+    },
+    {
+        "category": "night markets",
+        "title": "Marché Grenelle",
+        "rating": 4.4,
+        "address": "Bd de Grenelle, 75015 Paris, France",
+        "latitude": 48.8494813,
+        "longitude": 2.2965891
+    },
+    {
+        "category": "night markets",
+        "title": "Marché couvert des Enfants Rouges",
+        "rating": 4.4,
+        "address": "39 Rue de Bretagne, 75003 Paris, France",
+        "latitude": 48.8628656,
+        "longitude": 2.3620448
+    },
+    {
+        "category": "night markets",
+        "title": "NKS Marché",
+        "rating": 3.8,
+        "address": "40bis Av. Bosquet, 75007 Paris, France",
+        "latitude": 48.8564308,
+        "longitude": 2.3042537
+    },
+    {
+        "category": "night markets",
+        "title": "Marché aux puces de la Porte de Vanves",
+        "rating": 4.5,
+        "address": "21 Av. Georges Lafenestre, 75014 Paris, France",
+        "latitude": 48.8250472,
+        "longitude": 2.3107774
+    },
+    {
+        "category": "night markets",
+        "title": "Marché aux Fleurs de Paris",
+        "rating": 4.5,
+        "address": "Place Louis Lépine, All. Célestin Hennion, 75004 Paris, France",
+        "latitude": 48.8551453,
+        "longitude": 2.3476661
+    },
+    {
+        "category": "night markets",
+        "title": "Marché aux puces de Saint-Ouen",
+        "rating": 4.2,
+        "address": "124 Rue des Rosiers, 93400 Saint-Ouen-sur-Seine, France",
+        "latitude": 48.9025816,
+        "longitude": 2.3410485999999997
+    },
+    {
+        "category": "night markets",
+        "title": "Marché Président Wilson",
+        "rating": 4.6,
+        "address": "Av. du Président Wilson, 75116 Paris, France",
+        "latitude": 48.864883999999996,
+        "longitude": 2.2958993
+    },
+    {
+        "category": "night markets",
+        "title": "Marché Bourse",
+        "rating": 4,
+        "address": "Pl. de la Bourse, 75002 Paris, France",
+        "latitude": 48.8689732,
+        "longitude": 2.3405036999999997
+    },
+    {
+        "category": "night markets",
+        "title": "Marché Barbès",
+        "rating": 3.9,
+        "address": "60 Bd de la Chapelle, 75018 Paris, France",
+        "latitude": 48.8839147,
+        "longitude": 2.3522529
+    },
+    {
+        "category": "night markets",
+        "title": "Le Food Market",
+        "rating": 4,
+        "address": "1 Bd de Belleville, 75020 Paris, France",
+        "latitude": 48.8672628,
+        "longitude": 2.38256
+    },
+    {
+        "category": "night markets",
+        "title": "Opéra Market",
+        "rating": 3.8,
+        "address": "29 Rue des Petits Champs, 75001 Paris, France",
+        "latitude": 48.8667033,
+        "longitude": 2.3369185
+    },
+    {
+        "category": "night markets",
+        "title": "Biron Market",
+        "rating": 4.4,
+        "address": "85 Rue des Rosiers Allée 1 - Stand 4, 93400 Saint-Ouen-sur-Seine, France",
+        "latitude": 48.902577199999996,
+        "longitude": 2.3418658
+    },
+    {
+        "category": "night markets",
+        "title": "Marché Bercy",
+        "rating": 3.8,
+        "address": "Entre le n°14 place Lachambeaudie, 15 Rue Baron le Roy et le n°11, 75012 Paris, France",
+        "latitude": 48.8355059,
+        "longitude": 2.3871956
+    },
+    {
+        "category": "night markets",
+        "title": "Marché de Joinville",
+        "rating": 4.1,
+        "address": "Pl. de Joinville, 75019 Paris, France",
+        "latitude": 48.8894923,
+        "longitude": 2.3802784
+    },
+    {
+        "category": "night markets",
+        "title": "Marché Raspail",
+        "rating": 4.5,
+        "address": "Bd Raspail, 75006 Paris, France",
+        "latitude": 48.848262,
+        "longitude": 2.3277635
+    },
+    {
+        "category": "night markets",
+        "title": "Marché couvert des Ternes",
+        "rating": 4.3,
+        "address": "8bis Rue Lebon, 75017 Paris, France",
+        "latitude": 48.881025799999996,
+        "longitude": 2.2921559
+    },
+    {
+        "category": "viewpoints",
+        "title": "Eiffel Tower viewpoint",
+        "rating": 4.8,
+        "address": "Port Debilly, 75016 Paris, France",
+        "latitude": 48.8597628,
+        "longitude": 2.29069
+    },
+    {
+        "category": "viewpoints",
+        "title": "Overlook of Paris",
+        "rating": 4.6,
+        "address": "5 Rue du Cardinal Dubois, 75018 Paris, France",
+        "latitude": 48.885660099999996,
+        "longitude": 2.3432519
+    },
+    {
+        "category": "viewpoints",
+        "title": "Paris Viewpoint",
+        "rating": 4.8,
+        "address": "R6Q8+9F, 92210 Saint-Cloud, France",
+        "latitude": 48.8384542,
+        "longitude": 2.2162335
+    },
+    {
+        "category": "viewpoints",
+        "title": "Viewpoint – Pont de la Concorde",
+        "rating": 5,
+        "address": "Pont de la Concorde, 75007 Paris, France",
+        "latitude": 48.8633111,
+        "longitude": 2.3193178999999997
+    },
+    {
+        "category": "viewpoints",
+        "title": "Champs-Élysées Viewpoint",
+        "rating": 5,
+        "address": "La, Rue La Boétie, 75008 Paris, France",
+        "latitude": 48.870262399999994,
+        "longitude": 2.306174
+    },
+    {
+        "category": "viewpoints",
+        "title": "Paris Montparnasse – Top of the city",
+        "rating": 4.5,
+        "address": "33 Av. du Maine, 75015 Paris, France",
+        "latitude": 48.8421375,
+        "longitude": 2.3219678999999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Promenade Jean-Paul Belmondo",
+        "rating": 4.8,
+        "address": "Pont de Bir-Hakeim, 75015 Paris, France",
+        "latitude": 48.855581199999996,
+        "longitude": 2.287589
+    },
+    {
+        "category": "viewpoints",
+        "title": "Champ de Mars",
+        "rating": 4.6,
+        "address": "75007 Paris, France",
+        "latitude": 48.8558047,
+        "longitude": 2.2983766
+    },
+    {
+        "category": "viewpoints",
+        "title": "Montparnasse Tower",
+        "rating": 4.5,
+        "address": "33 Av. du Maine, 75015 Paris, France",
+        "latitude": 48.8421379,
+        "longitude": 2.3219514
+    },
+    {
+        "category": "viewpoints",
+        "title": "Pont Neuf",
+        "rating": 4.6,
+        "address": "75001 Paris, France",
+        "latitude": 48.8567198,
+        "longitude": 2.3407594
+    },
+    {
+        "category": "viewpoints",
+        "title": "Place du Trocadero",
+        "rating": 4.7,
+        "address": "Pl. du Trocadéro et du 11 Novembre, 75016 Paris, France",
+        "latitude": 48.8628748,
+        "longitude": 2.2873248
+    },
+    {
+        "category": "viewpoints",
+        "title": "Saule Pleureur de la Pointe",
+        "rating": 4.9,
+        "address": "1 Square du Vert Galant, 75001 Paris, France",
+        "latitude": 48.8577583,
+        "longitude": 2.3394095999999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Eiffel Tower",
+        "rating": 4.7,
+        "address": "Av. Gustave Eiffel, 75007 Paris, France",
+        "latitude": 48.858370099999995,
+        "longitude": 2.2944812999999997
+    },
+    {
+        "category": "viewpoints",
+        "title": "Arc de Triomphe",
+        "rating": 4.7,
+        "address": "Pl. Charles de Gaulle, 75008 Paris, France",
+        "latitude": 48.8737917,
+        "longitude": 2.2950274999999998
+    },
+    {
+        "category": "viewpoints",
+        "title": "Staircase To Paris Highline",
+        "rating": 4.8,
+        "address": "11 Av. Daumesnil, 75012 Paris, France",
+        "latitude": 48.848827299999996,
+        "longitude": 2.3725704999999997
+    },
+    {
+        "category": "viewpoints",
+        "title": "Point de vue sur la tour Eiffel",
+        "rating": 3.8,
+        "address": "33P Rue Piat, 75020 Paris, France",
+        "latitude": 48.8720965,
+        "longitude": 2.3836946
+    },
+    {
+        "category": "viewpoints",
+        "title": "FlyView Paris",
+        "rating": 4.1,
+        "address": "30 Rue du 4 septembre, 75002 Paris, France",
+        "latitude": 48.8703551,
+        "longitude": 2.3333291
+    },
+    {
+        "category": "gardens",
+        "title": "Tuileries Garden",
+        "rating": 4.6,
+        "address": "75001 Paris, France",
+        "latitude": 48.863491599999996,
+        "longitude": 2.3274942999999997
+    },
+    {
+        "category": "gardens",
+        "title": "Jardin des Plantes",
+        "rating": 4.6,
+        "address": "75005 Paris, France",
+        "latitude": 48.8439069,
+        "longitude": 2.359658
+    },
+    {
+        "category": "gardens",
+        "title": "Jardin du Luxembourg",
+        "rating": 4.7,
+        "address": "75006 Paris, France",
+        "latitude": 48.8466144,
+        "longitude": 2.3363309
+    },
+    {
+        "category": "gardens",
+        "title": "Jardin du Palais Royal",
+        "rating": 4.7,
+        "address": "8 Rue de Montpensier, 75001 Paris, France",
+        "latitude": 48.8649723,
+        "longitude": 2.3378061
+    },
+    {
+        "category": "gardens",
+        "title": "Jardin des Champs-Élysées",
+        "rating": 4.5,
+        "address": "10 Av. des Champs-Élysées, 75008 Paris, France",
+        "latitude": 48.8672475,
+        "longitude": 2.3179396999999997
+    },
+    {
+        "category": "gardens",
+        "title": "Jardin des Serres d’auteuil",
+        "rating": 4.6,
+        "address": "3 Av. de la Prte d'Auteuil, 75016 Paris, France",
+        "latitude": 48.846307599999996,
+        "longitude": 2.2521865
+    },
+    {
+        "category": "gardens",
+        "title": "Jardin du Carrousel",
+        "rating": 4.7,
+        "address": "6 Av. du Général Lemonnier, 75001 Paris, France",
+        "latitude": 48.8619966,
+        "longitude": 2.3320700999999997
+    },
+    {
+        "category": "gardens",
+        "title": "Jardin Catherine-Labouré",
+        "rating": 4.6,
+        "address": "29 Rue de Babylone, 75007 Paris, France",
+        "latitude": 48.8510552,
+        "longitude": 2.3209919
+    },
+    {
+        "category": "gardens",
+        "title": "Jardin de la Tour Eiffel",
+        "rating": 4.5,
+        "address": "75007 Paris, France",
+        "latitude": 48.8574446,
+        "longitude": 2.2957701
+    },
+    {
+        "category": "gardens",
+        "title": "Jardin de Kyiv au Peuple Ukrainien",
+        "rating": 4.6,
+        "address": "1 Cr la Reine, 75008 Paris, France",
+        "latitude": 48.8654575,
+        "longitude": 2.31525
+    },
+    {
+        "category": "gardens",
+        "title": "Jardin des Grands-Explorateurs",
+        "rating": 4.6,
+        "address": "27M Av. de l'Observatoire, 75006 Paris, France",
+        "latitude": 48.8418366,
+        "longitude": 2.336885
+    },
+    {
+        "category": "gardens",
+        "title": "Rosiers Joseph Migneret Garden",
+        "rating": 4.5,
+        "address": "10 Rue des Rosiers, 75004 Paris, France",
+        "latitude": 48.8572997,
+        "longitude": 2.3602219
+    },
+    {
+        "category": "gardens",
+        "title": "Port de l'Arsenal Garden",
+        "rating": 4.4,
+        "address": "53 Bd de la Bastille, 75012 Paris, France",
+        "latitude": 48.849730199999996,
+        "longitude": 2.3678741999999997
+    },
+    {
+        "category": "gardens",
+        "title": "Jardin Anne Frank",
+        "rating": 4.4,
+        "address": "14 Imp. Berthaud, 75003 Paris, France",
+        "latitude": 48.8616193,
+        "longitude": 2.354984
+    },
+    {
+        "category": "gardens",
+        "title": "Tino Rossi Garden",
+        "rating": 4.5,
+        "address": "2 Quai Saint-Bernard, 75005 Paris, France",
+        "latitude": 48.8470637,
+        "longitude": 2.3608583
+    },
+    {
+        "category": "gardens",
+        "title": "Jardin alpin",
+        "rating": 4.8,
+        "address": "57 Rue Cuvier, 75005 Paris, France",
+        "latitude": 48.84395,
+        "longitude": 2.358571
+    },
+    {
+        "category": "gardens",
+        "title": "Jardins des Archives Nationales",
+        "rating": 4.6,
+        "address": "60 Rue des Francs Bourgeois, 75003 Paris, France",
+        "latitude": 48.8599697,
+        "longitude": 2.3572959
+    },
+    {
+        "category": "gardens",
+        "title": "Jardin Atlantique",
+        "rating": 4,
+        "address": "1 Pl. des Cinq Martyrs du Lycée Buffon, 75015 Paris, France",
+        "latitude": 48.8398009,
+        "longitude": 2.3188543999999998
+    },
+    {
+        "category": "gardens",
+        "title": "Cour et Jardin de l'Hôtel de Sully",
+        "rating": 4.6,
+        "address": "5 Pl. des Vosges, 75004 Paris, France",
+        "latitude": 48.8550056,
+        "longitude": 2.3640776
+    },
+    {
+        "category": "gardens",
+        "title": "Parc Monceau",
+        "rating": 4.6,
+        "address": "75008 Paris, France",
+        "latitude": 48.8796835,
+        "longitude": 2.308955
+    },
+    {
+        "category": "zoo",
+        "title": "Parc zoologique de Paris",
+        "rating": 4.3,
+        "address": "Av. Daumesnil, 75012 Paris, France",
+        "latitude": 48.83342,
+        "longitude": 2.414476
+    },
+    {
+        "category": "zoo",
+        "title": "La Ménagerie, le zoo du Jardin des Plantes",
+        "rating": 4.2,
+        "address": "57 Rue Cuvier, 75005 Paris, France",
+        "latitude": 48.844277,
+        "longitude": 2.3604529999999997
+    },
+    {
+        "category": "zoo",
+        "title": "Jardin des Plantes",
+        "rating": 4.6,
+        "address": "75005 Paris, France",
+        "latitude": 48.8439069,
+        "longitude": 2.359658
+    },
+    {
+        "category": "zoo",
+        "title": "Aquarium Tropical",
+        "rating": 4.4,
+        "address": "293 Av. Daumesnil, 75012 Paris, France",
+        "latitude": 48.835525999999994,
+        "longitude": 2.4092536
+    },
+    {
+        "category": "zoo",
+        "title": "Jardin d'Acclimatation",
+        "rating": 4.3,
+        "address": "Bois de Boulogne, Rte de la Prte Dauphine à la Prte des Sablons, 75116 Paris, France",
+        "latitude": 48.8777811,
+        "longitude": 2.2697643999999997
+    },
+    {
+        "category": "zoo",
+        "title": "Wow Safari Thoiry",
+        "rating": 4.2,
+        "address": "2 Rue du Pavillon de Montreuil, 78770 Thoiry, France",
+        "latitude": 48.8637485,
+        "longitude": 1.7961004999999999
+    },
+    {
+        "category": "zoo",
+        "title": "Feline Park",
+        "rating": 4.5,
+        "address": "Domaine de, 77540 Lumigny-Nesles-Ormeaux, France",
+        "latitude": 48.710606899999995,
+        "longitude": 2.9599405
+    },
+    {
+        "category": "adventure parks",
+        "title": "Jardin d'Acclimatation",
+        "rating": 4.3,
+        "address": "Bois de Boulogne, Rte de la Prte Dauphine à la Prte des Sablons, 75116 Paris, France",
+        "latitude": 48.8777811,
+        "longitude": 2.2697643999999997
+    },
+    {
+        "category": "adventure parks",
+        "title": "Disneyland Paris",
+        "rating": 4.5,
+        "address": "Bd de Parc, 77700 Coupvray, France",
+        "latitude": 48.8673858,
+        "longitude": 2.7835929999999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Seven Squares Paris",
+        "rating": 4.8,
+        "address": "Boom Boom Villette, 30 Av. Corentin Cariou, 75019 Paris, France",
+        "latitude": 48.8959099,
+        "longitude": 2.3893060999999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Parc Walt Disney Studios",
+        "rating": 4.6,
+        "address": "Pl. des Frères Lumière, 77700 Chessy, France",
+        "latitude": 48.8680792,
+        "longitude": 2.7803918
+    },
+    {
+        "category": "adventure parks",
+        "title": "Parc Asterix",
+        "rating": 4.4,
+        "address": "Parc Astérix, 60128 Plailly, France",
+        "latitude": 49.134232,
+        "longitude": 2.571278
+    },
+    {
+        "category": "adventure parks",
+        "title": "The Sand Sea",
+        "rating": 4.1,
+        "address": "N330, 60950 Ermenonville, France",
+        "latitude": 49.1458778,
+        "longitude": 2.6772993
+    },
+    {
+        "category": "adventure parks",
+        "title": "Le Monde de Noé - Centre Montparnasse",
+        "rating": 5,
+        "address": "17 Pl. de Catalogne, 75014 Paris, France",
+        "latitude": 48.837054099999996,
+        "longitude": 2.3176693999999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "Aquaboulevard",
+        "rating": 3.7,
+        "address": "4 Rue Louis Armand, 75015 Paris, France",
+        "latitude": 48.8318042,
+        "longitude": 2.2762626999999998
+    },
+    {
+        "category": "adventure parks",
+        "title": "France Miniature",
+        "rating": 4.4,
+        "address": "Bd André Malraux, 78990 Élancourt, France",
+        "latitude": 48.7765687,
+        "longitude": 1.963188
+    },
+    {
+        "category": "adventure parks",
+        "title": "Palomano City",
+        "rating": 4.5,
+        "address": "125 Bd Jean Jaurès, 92110 Clichy, France",
+        "latitude": 48.9055155,
+        "longitude": 2.3015874999999997
+    },
+    {
+        "category": "adventure parks",
+        "title": "Winnoland",
+        "rating": 4.2,
+        "address": "214 Rte de Melun, 91280 Saint-Pierre-du-Perray, France",
+        "latitude": 48.5906704,
+        "longitude": 2.5169001
+    },
+    {
+        "category": "adventure parks",
+        "title": "Xtrem Aventures Cergy Park",
+        "rating": 4.3,
+        "address": "Ile de Loisirs de Cergy-Pontoise, Rue des Etangs, 95000 Cergy, France",
+        "latitude": 49.026241999999996,
+        "longitude": 2.050669
+    },
+    {
+        "category": "adventure parks",
+        "title": "Parque De Diversão",
+        "rating": 4.6,
+        "address": "2-8 Rue de Castiglione, 75001 Paris, France",
+        "latitude": 48.865597,
+        "longitude": 2.3277417
+    },
+    {
+        "category": "adventure parks",
+        "title": "La Rivière Enchantée",
+        "rating": 4.5,
+        "address": "Bois de Boulogne, Carrefour des Sablons, 6 Av. du Mahatma Gandhi, 75116 Paris, France",
+        "latitude": 48.877963699999995,
+        "longitude": 2.2672827
+    },
+    {
+        "category": "adventure parks",
+        "title": "Ecopark Adventures SAS",
+        "rating": 4.8,
+        "address": "9 Rue Desbordes-Valmore, 75116 Paris, France",
+        "latitude": 48.861050999999996,
+        "longitude": 2.2777648
+    },
+    {
+        "category": "adventure parks",
+        "title": "Aventure Fantastique",
+        "rating": 4.7,
+        "address": "2 Sq. des Cardeurs, 75020 Paris, France",
+        "latitude": 48.858320299999995,
+        "longitude": 2.4071761
+    },
+    {
+        "category": "adventure parks",
+        "title": "Folie des Visites",
+        "rating": 3.7,
+        "address": "Gal de la Villette, 75019 Paris, France",
+        "latitude": 48.892280299999996,
+        "longitude": 2.3879486
+    },
+    {
+        "category": "adventure parks",
+        "title": "Balançoires",
+        "rating": 3.7,
+        "address": "1 All. de la Comtesse de Ségur, 75008 Paris, France",
+        "latitude": 48.8796432,
+        "longitude": 2.3095456
+    },
+    {
+        "category": "adventure parks",
+        "title": "Aquaboulevard de Paris Minigolf Course",
+        "rating": 3.9,
+        "address": "12P Rue du Colonel Pierre Avia, 75015 Paris, France",
+        "latitude": 48.831480299999996,
+        "longitude": 2.2738742999999997
+    },
+    {
+        "category": "adventure parks",
+        "title": "Fête à Neuneu",
+        "rating": 3.6,
+        "address": "Pelouse de la Muette, Porte de, 75016 Paris, France",
+        "latitude": 48.8634706,
+        "longitude": 2.2654283
+    },
+    {
+        "category": "hot springs",
+        "title": "Spa Decorté Fouquet's Paris",
+        "rating": 4.6,
+        "address": "46 Av. George V, 75008 Paris, France",
+        "latitude": 48.8710629,
+        "longitude": 2.3012924999999997
+    },
+    {
+        "category": "hot springs",
+        "title": "Chaine Thermale du Soleil",
+        "rating": 3.5,
+        "address": "31 Av. de l'Opéra, 75001 Paris, France",
+        "latitude": 48.8674247,
+        "longitude": 2.3333415
+    },
+    {
+        "category": "hot springs",
+        "title": "Spa de la Reine - Codage - Le Marais",
+        "rating": 3.8,
+        "address": "Hôtel Le Pavillon de la Reine, 28 Place des Vosges, 75003 Paris, France",
+        "latitude": 48.8563626,
+        "longitude": 2.3651496
+    },
+    {
+        "category": "hot springs",
+        "title": "Hammam Pacha",
+        "rating": 4.7,
+        "address": "17 Rue Mayet, 75006 Paris, France",
+        "latitude": 48.84641,
+        "longitude": 2.3192912999999997
+    },
+    {
+        "category": "hot springs",
+        "title": "Hôtel Kleber Paris & Spa",
+        "rating": 4,
+        "address": "7 Rue de Belloy, 75116 Paris, France",
+        "latitude": 48.8687277,
+        "longitude": 2.2920845
+    },
+    {
+        "category": "hot springs",
+        "title": "Thermes de Cluny",
+        "rating": 4.5,
+        "address": "28 Rue du Sommerard, 75005 Paris, France",
+        "latitude": 48.850772,
+        "longitude": 2.3437742
+    },
+    {
+        "category": "hot springs",
+        "title": "Spa Arbre à Sens Paris",
+        "rating": 4.7,
+        "address": "4 Rue Montesquieu, 75001 Paris, France",
+        "latitude": 48.8631167,
+        "longitude": 2.3391580999999997
+    },
+    {
+        "category": "hot springs",
+        "title": "Spa de La Belle Juliette",
+        "rating": 4.4,
+        "address": "92 Rue du Cherche-Midi, 75006 Paris, France",
+        "latitude": 48.8474426,
+        "longitude": 2.3223783
+    },
+    {
+        "category": "hot springs",
+        "title": "Hot water spring",
+        "rating": 4.7,
+        "address": "Promenade Paul Salette, 09110 Ax-les-Thermes, France",
+        "latitude": 42.7214628,
+        "longitude": 1.8396436999999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Bains de saint Thomas",
+        "rating": 4.5,
+        "address": "Aygue Calente, 66360 Fontpédrouse, France",
+        "latitude": 42.5000909,
+        "longitude": 2.1671625999999997
+    },
+    {
+        "category": "hot springs",
+        "title": "Maison Albar - Le Pont-Neuf",
+        "rating": 4.5,
+        "address": "23-25 Rue du Pont Neuf, 75001 Paris, France",
+        "latitude": 48.860546299999996,
+        "longitude": 2.3443201
+    },
+    {
+        "category": "hot springs",
+        "title": "Les Thermes de Saint-Gervais Mont Blanc",
+        "rating": 3.9,
+        "address": "355 All. du Dr Lépinay, 74170 Saint-Gervais-les-Bains, France",
+        "latitude": 45.896593499999994,
+        "longitude": 6.705921999999999
+    },
+    {
+        "category": "hot springs",
+        "title": "ZEN THAI SPA",
+        "rating": 4.8,
+        "address": "12 Rue du Pic de Barrette, 75015 Paris, France",
+        "latitude": 48.842017999999996,
+        "longitude": 2.277184
+    },
+    {
+        "category": "hot springs",
+        "title": "Spa Charme d'Orient",
+        "rating": 4.7,
+        "address": "18 Bd du Temple, 75011 Paris, France",
+        "latitude": 48.864492999999996,
+        "longitude": 2.3662015999999997
+    },
+    {
+        "category": "hot springs",
+        "title": "Les Bains Paris",
+        "rating": 4.3,
+        "address": "7 Rue du Bourg l'Abbé, 75003 Paris, France",
+        "latitude": 48.863865399999995,
+        "longitude": 2.3519430999999997
+    },
+    {
+        "category": "hot springs",
+        "title": "Suzanne Berlioux swimming pool",
+        "rating": 3.7,
+        "address": "10 Place de la Rotonde, 75001 Paris, France",
+        "latitude": 48.8626662,
+        "longitude": 2.3439731
+    },
+    {
+        "category": "hot springs",
+        "title": "Les Bains du Couloubret",
+        "rating": 4.2,
+        "address": "Promenade Paul Salette, 09110 Ax-les-Thermes, France",
+        "latitude": 42.721291199999996,
+        "longitude": 1.8392511999999999
+    },
+    {
+        "category": "hot springs",
+        "title": "O'Kari",
+        "rating": 4.4,
+        "address": "22 Rue Dussoubs, 75002 Paris, France",
+        "latitude": 48.865680999999995,
+        "longitude": 2.3489980999999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield Forum des Halles",
+        "rating": 4.1,
+        "address": "101 Porte Berger, 75001 Paris, France",
+        "latitude": 48.862015799999995,
+        "longitude": 2.3470948
+    },
+    {
+        "category": "shopping malls",
+        "title": "Carrousel du Louvre",
+        "rating": 4.4,
+        "address": "99 Rue de Rivoli, 75001 Paris, France",
+        "latitude": 48.8627068,
+        "longitude": 2.3347803
+    },
+    {
+        "category": "shopping malls",
+        "title": "Bercy Village",
+        "rating": 4.4,
+        "address": "28 Rue François Truffaut, 75012 Paris, France",
+        "latitude": 48.8328395,
+        "longitude": 2.3861882999999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "Centre Commercial Beaugrenelle",
+        "rating": 4.3,
+        "address": "12 Rue Linois, 75015 Paris, France",
+        "latitude": 48.848323799999996,
+        "longitude": 2.2823613
+    },
+    {
+        "category": "shopping malls",
+        "title": "Shopping centre \"Saint-Lazare\"",
+        "rating": 4,
+        "address": "1 Cr de Rome, 75008 Paris, France",
+        "latitude": 48.875888499999995,
+        "longitude": 2.3240292
+    },
+    {
+        "category": "shopping malls",
+        "title": "Passage du Havre",
+        "rating": 4.2,
+        "address": "109 Rue Saint-Lazare, 75009 Paris, France",
+        "latitude": 48.8753007,
+        "longitude": 2.3276936
+    },
+    {
+        "category": "shopping malls",
+        "title": "Italie 2",
+        "rating": 4,
+        "address": "30 Av. d'Italie, 75013 Paris, France",
+        "latitude": 48.8303381,
+        "longitude": 2.3551843999999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "La Galerie - Masséna",
+        "rating": 3.7,
+        "address": "98 Bd Masséna, 75013 Paris, France",
+        "latitude": 48.821431,
+        "longitude": 2.3644689999999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "Galeries Lafayette Champs-Élysées",
+        "rating": 4.4,
+        "address": "60 Av. des Champs-Élysées, 75008 Paris, France",
+        "latitude": 48.8706988,
+        "longitude": 2.3062649
+    },
+    {
+        "category": "shopping malls",
+        "title": "Galerie Vivienne",
+        "rating": 4.6,
+        "address": "4 Rue des Petits Champs, 75002 Paris, France",
+        "latitude": 48.8663533,
+        "longitude": 2.3394854
+    },
+    {
+        "category": "shopping malls",
+        "title": "Westfield Les 4 Temps",
+        "rating": 4.2,
+        "address": "15 Parv. de la Défense, 92092 Puteaux, France",
+        "latitude": 48.890556,
+        "longitude": 2.2373203999999998
+    },
+    {
+        "category": "shopping malls",
+        "title": "Montparnasse Rive Gauche",
+        "rating": 3.7,
+        "address": "10 Rue du Départ, 75015 Paris, France",
+        "latitude": 48.8429935,
+        "longitude": 2.3230736
+    },
+    {
+        "category": "shopping malls",
+        "title": "Galerie des Arcades",
+        "rating": 4.2,
+        "address": "76 Av. des Champs-Élysées, 75008 Paris, France",
+        "latitude": 48.8712266,
+        "longitude": 2.3042739
+    },
+    {
+        "category": "shopping malls",
+        "title": "Les Boutiques Du Palais",
+        "rating": 4,
+        "address": "2 Pl de la Pte Maillot, 75017 Paris, France",
+        "latitude": 48.879154799999995,
+        "longitude": 2.2834885
+    },
+    {
+        "category": "shopping malls",
+        "title": "La Vallee Village",
+        "rating": 4.3,
+        "address": "3 Cr de la Garonne, 77700 Serris, France",
+        "latitude": 48.853854899999995,
+        "longitude": 2.7831029999999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "Passages Shopping Center",
+        "rating": 4.1,
+        "address": "5 Rue Tony Garnier, 92100 Boulogne-Billancourt, France",
+        "latitude": 48.8366742,
+        "longitude": 2.2393324999999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "Bel Est",
+        "rating": 3.7,
+        "address": "28 Av. du Général de Gaulle, 93170 Bagnolet, France",
+        "latitude": 48.865633599999995,
+        "longitude": 2.4171055999999997
+    },
+    {
+        "category": "shopping malls",
+        "title": "Passage des Panoramas",
+        "rating": 4.5,
+        "address": "11 Bd Montmartre, 75002 Paris, France",
+        "latitude": 48.8715109,
+        "longitude": 2.341904
+    },
+    {
+        "category": "shopping malls",
+        "title": "Le charme parisien des passages couverts",
+        "rating": 4.8,
+        "address": "Rue du Bouloi, 75001 Paris, France",
+        "latitude": 48.8630797,
+        "longitude": 2.3397798
+    },
+    {
+        "category": "shopping malls",
+        "title": "Galerie du Claridge",
+        "rating": 4.3,
+        "address": "74 Av. des Champs-Élysées, 75008 Paris, France",
+        "latitude": 48.8710974,
+        "longitude": 2.3047513
+    },
+    {
+        "category": "historical sites",
+        "title": "Eiffel Tower",
+        "rating": 4.7,
+        "address": "Av. Gustave Eiffel, 75007 Paris, France",
+        "latitude": 48.858370099999995,
+        "longitude": 2.2944812999999997
+    },
+    {
+        "category": "historical sites",
+        "title": "Panthéon",
+        "rating": 4.6,
+        "address": "Pl. du Panthéon, 75005 Paris, France",
+        "latitude": 48.846221799999995,
+        "longitude": 2.3464138
+    },
+    {
+        "category": "historical sites",
+        "title": "Conciergerie",
+        "rating": 4.4,
+        "address": "2 Bd du Palais, 75001 Paris, France",
+        "latitude": 48.8560114,
+        "longitude": 2.3454953
+    },
+    {
+        "category": "historical sites",
+        "title": "Place de la Bastille",
+        "rating": 4.3,
+        "address": "Pl. de la Bastille, 75004 Paris, France",
+        "latitude": 48.8531827,
+        "longitude": 2.3691443
+    },
+    {
+        "category": "historical sites",
+        "title": "Hôtel des Invalides",
+        "rating": 4.7,
+        "address": "75007 Paris, France",
+        "latitude": 48.856528999999995,
+        "longitude": 2.3127059
+    },
+    {
+        "category": "historical sites",
+        "title": "Notre-Dame Cathedral of Paris",
+        "rating": 4.7,
+        "address": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France",
+        "latitude": 48.8529682,
+        "longitude": 2.3499021
+    },
+    {
+        "category": "historical sites",
+        "title": "Arc de Triomphe",
+        "rating": 4.7,
+        "address": "Pl. Charles de Gaulle, 75008 Paris, France",
+        "latitude": 48.8737917,
+        "longitude": 2.2950274999999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Catacombs of Paris",
+        "rating": 4,
+        "address": "1 Av. du Colonel Henri Rol-Tanguy, 75014 Paris, France",
+        "latitude": 48.8338325,
+        "longitude": 2.3324222
+    },
+    {
+        "category": "historical sites",
+        "title": "Place Dauphine",
+        "rating": 4.8,
+        "address": "Rue Henri Robert, Rue de Harlay, Paris, France",
+        "latitude": 48.8566869,
+        "longitude": 2.3423181
+    },
+    {
+        "category": "historical sites",
+        "title": "Place Saint-Michel",
+        "rating": 4.6,
+        "address": "Pl. Saint-Michel, 75006 Paris, France",
+        "latitude": 48.8528364,
+        "longitude": 2.3434008
+    },
+    {
+        "category": "historical sites",
+        "title": "Louvre Museum",
+        "rating": 4.7,
+        "address": "75001 Paris, France",
+        "latitude": 48.8606111,
+        "longitude": 2.337644
+    },
+    {
+        "category": "historical sites",
+        "title": "Crypte Archéologique de l'İle de la Cité",
+        "rating": 4.3,
+        "address": "7 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France",
+        "latitude": 48.8536504,
+        "longitude": 2.3477148
+    },
+    {
+        "category": "historical sites",
+        "title": "Tour Saint-Jacques",
+        "rating": 4.5,
+        "address": "Square de la Tour Saint-Jacques, 75004 Paris, France",
+        "latitude": 48.858068499999995,
+        "longitude": 2.3489071999999998
+    },
+    {
+        "category": "historical sites",
+        "title": "Arènes de Lutèce",
+        "rating": 4.2,
+        "address": "49 Rue Monge, 75005 Paris, France",
+        "latitude": 48.845116,
+        "longitude": 2.3528366
+    },
+    {
+        "category": "historical sites",
+        "title": "Paris City",
+        "rating": 5,
+        "address": "2 Rue des Prêtres Saint-Séverin, 75005 Paris, France",
+        "latitude": 48.8518581,
+        "longitude": 2.3453614
+    },
+    {
+        "category": "historical sites",
+        "title": "Sainte-Chapelle",
+        "rating": 4.6,
+        "address": "10 Bd du Palais, 75001 Paris, France",
+        "latitude": 48.855374999999995,
+        "longitude": 2.3449609
+    },
+    {
+        "category": "historical sites",
+        "title": "Atlantes",
+        "rating": 4.6,
+        "address": "76 Av. Daumesnil, 75012 Paris, France",
+        "latitude": 48.8444497,
+        "longitude": 2.3808352
+    },
+    {
+        "category": "historical sites",
+        "title": "Passage Jouffroy",
+        "rating": 4.5,
+        "address": "10-12 Bd Montmartre, 75009 Paris, France",
+        "latitude": 48.8718559,
+        "longitude": 2.3419322
+    },
+    {
+        "category": "historical sites",
+        "title": "Palace of Versailles",
+        "rating": 4.6,
+        "address": "Place d'Armes, 78000 Versailles, France",
+        "latitude": 48.8048649,
+        "longitude": 2.1203554
+    },
+    {
+        "category": "historical sites",
+        "title": "Basilique du Sacré-Cœur de Montmartre",
+        "rating": 4.7,
+        "address": "35 Rue du Chevalier de la Barre, 75018 Paris, France",
+        "latitude": 48.886704599999995,
+        "longitude": 2.3431043
+    },
+    {
+        "category": "art galleries",
+        "title": "Musée d'Orsay",
+        "rating": 4.8,
+        "address": "Esplanade Valéry Giscard d'Estaing, 75007 Paris, France",
+        "latitude": 48.859961399999996,
+        "longitude": 2.3265614
+    },
+    {
+        "category": "art galleries",
+        "title": "Louvre Museum",
+        "rating": 4.7,
+        "address": "75001 Paris, France",
+        "latitude": 48.8606111,
+        "longitude": 2.337644
+    },
+    {
+        "category": "art galleries",
+        "title": "Dali Museum",
+        "rating": 4.5,
+        "address": "11 Rue Poulbot, 75018 Paris, France",
+        "latitude": 48.886511899999995,
+        "longitude": 2.3398718
+    },
+    {
+        "category": "art galleries",
+        "title": "Perrotin",
+        "rating": 4.7,
+        "address": "76 Rue de Turenne, 75003 Paris, France",
+        "latitude": 48.860502999999994,
+        "longitude": 2.3647278
+    },
+    {
+        "category": "art galleries",
+        "title": "Grand Palais",
+        "rating": 4.5,
+        "address": "75008 Paris, France",
+        "latitude": 48.866109099999996,
+        "longitude": 2.3124544
+    },
+    {
+        "category": "art galleries",
+        "title": "Musée de l'Orangerie",
+        "rating": 4.6,
+        "address": "Jardin des Tuileries, 75001 Paris, France",
+        "latitude": 48.8637884,
+        "longitude": 2.3226724
+    },
+    {
+        "category": "art galleries",
+        "title": "Musée National Picasso-Paris",
+        "rating": 4.4,
+        "address": "5 Rue de Thorigny, 75003 Paris, France",
+        "latitude": 48.859877499999996,
+        "longitude": 2.362285
+    },
+    {
+        "category": "art galleries",
+        "title": "Musée Jacquemart-André",
+        "rating": 4.5,
+        "address": "158 Bd Haussmann, 75008 Paris, France",
+        "latitude": 48.875553,
+        "longitude": 2.310422
+    },
+    {
+        "category": "art galleries",
+        "title": "Halle Saint-Pierre",
+        "rating": 4.5,
+        "address": "2 Rue Ronsard, 75018 Paris, France",
+        "latitude": 48.8847467,
+        "longitude": 2.3445131999999997
+    },
+    {
+        "category": "art galleries",
+        "title": "Palais de Tokyo",
+        "rating": 4.4,
+        "address": "13 Av. du Président Wilson, 75116 Paris, France",
+        "latitude": 48.864586599999996,
+        "longitude": 2.2966748
+    },
+    {
+        "category": "art galleries",
+        "title": "Fluctuart - Centre d'art urbain",
+        "rating": 4.4,
+        "address": "2 port du Gros Caillou, 75007 Paris, France",
+        "latitude": 48.8629774,
+        "longitude": 2.3098234
+    },
+    {
+        "category": "art galleries",
+        "title": "Petit Palais",
+        "rating": 4.7,
+        "address": "Av. Winston Churchill, 75008 Paris, France",
+        "latitude": 48.8660479,
+        "longitude": 2.3145895999999997
+    },
+    {
+        "category": "art galleries",
+        "title": "Musée Rodin",
+        "rating": 4.7,
+        "address": "77 Rue de Varenne, 75007 Paris, France",
+        "latitude": 48.8553072,
+        "longitude": 2.3158354
+    },
+    {
+        "category": "art galleries",
+        "title": "Musée national des arts asiatiques - Guimet",
+        "rating": 4.6,
+        "address": "6 Pl. d'Iéna, 75116 Paris, France",
+        "latitude": 48.8651018,
+        "longitude": 2.2937604
+    },
+    {
+        "category": "art galleries",
+        "title": "La Galerie Dior",
+        "rating": 4.8,
+        "address": "11 Rue François 1er, 75008 Paris, France",
+        "latitude": 48.8664857,
+        "longitude": 2.3070634
+    },
+    {
+        "category": "art galleries",
+        "title": "Panthéon Bouddhique",
+        "rating": 4.5,
+        "address": "19 Av. d'Iéna, 75116 Paris, France",
+        "latitude": 48.866366299999996,
+        "longitude": 2.2944459999999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Cluny Museum - National Museum of the Middle Ages",
+        "rating": 4.5,
+        "address": "28 Rue du Sommerard, 75005 Paris, France",
+        "latitude": 48.8504833,
+        "longitude": 2.3440808
+    },
+    {
+        "category": "art galleries",
+        "title": "Musée d'Art Moderne de Paris",
+        "rating": 4.5,
+        "address": "11 Av. du Président Wilson, 75116 Paris, France",
+        "latitude": 48.864342099999995,
+        "longitude": 2.2978207999999998
+    },
+    {
+        "category": "art galleries",
+        "title": "Musée Cernuschi",
+        "rating": 4.5,
+        "address": "7 Av. Velasquez, 75008 Paris, France",
+        "latitude": 48.8795526,
+        "longitude": 2.3124485999999997
+    },
+    {
+        "category": "art galleries",
+        "title": "Musée d'art et d'histoire du Judaïsme",
+        "rating": 4.5,
+        "address": "Hôtel de Saint-Aignan, 71 Rue du Temple, 75003 Paris, France",
+        "latitude": 48.861010199999996,
+        "longitude": 2.3556112
+    },
+    {
+        "category": "theaters",
+        "title": "Palais Garnier",
+        "rating": 4.7,
+        "address": "Pl. de l'Opéra, 75009 Paris",
+        "latitude": 48.8719697,
+        "longitude": 2.3316014
+    },
+    {
+        "category": "theaters",
+        "title": "Théâtre de Paris",
+        "rating": 4.4,
+        "address": "15 Rue Blanche, 75009 Paris",
+        "latitude": 48.878625799999995,
+        "longitude": 2.3314956
+    },
+    {
+        "category": "theaters",
+        "title": "Théâtre du Châtelet",
+        "rating": 4.5,
+        "address": "1 Pl. du Châtelet, 75000 Paris",
+        "latitude": 48.8577285,
+        "longitude": 2.3463103999999997
+    },
+    {
+        "category": "theaters",
+        "title": "Opéra Bastille",
+        "rating": 4.6,
+        "address": "Pl. de la Bastille, 75012 Paris",
+        "latitude": 48.852500299999996,
+        "longitude": 2.3703422
+    },
+    {
+        "category": "theaters",
+        "title": "Théâtre des Champs-Élysées",
+        "rating": 4.5,
+        "address": "15 Av. Montaigne, 75008 Paris",
+        "latitude": 48.865684699999996,
+        "longitude": 2.3031867
+    },
+    {
+        "category": "theaters",
+        "title": "Essaïon Théâtre",
+        "rating": 4.5,
+        "address": "6 Rue Pierre au Lard, 75004 Paris",
+        "latitude": 48.859704,
+        "longitude": 2.3533098999999997
+    },
+    {
+        "category": "theaters",
+        "title": "Bobino",
+        "rating": 4.5,
+        "address": "14-20 Rue de la Gaité, 75014 Paris",
+        "latitude": 48.839841,
+        "longitude": 2.323009
+    },
+    {
+        "category": "theaters",
+        "title": "Théâtre Edouard VII",
+        "rating": 4.5,
+        "address": "10 Pl. Édouard VII, 75009 Paris",
+        "latitude": 48.871347899999996,
+        "longitude": 2.3293909
+    },
+    {
+        "category": "theaters",
+        "title": "Théâtre de la Gaîté-Montparnasse",
+        "rating": 4.4,
+        "address": "26 Rue de la Gaité, 75014 Paris",
+        "latitude": 48.839301999999996,
+        "longitude": 2.323101
+    },
+    {
+        "category": "theaters",
+        "title": "Comédie Française",
+        "rating": 4.7,
+        "address": "1 Place Colette, 75001 Paris",
+        "latitude": 48.8635708,
+        "longitude": 2.3359376
+    },
+    {
+        "category": "theaters",
+        "title": "Théâtre Mogador",
+        "rating": 4.7,
+        "address": "25 Rue de Mogador, 75009 Paris",
+        "latitude": 48.8753465,
+        "longitude": 2.3310671
+    },
+    {
+        "category": "theaters",
+        "title": "Théâtre des Mathurins",
+        "rating": 4.5,
+        "address": "36 Rue des Mathurins, 75008 Paris",
+        "latitude": 48.873301999999995,
+        "longitude": 2.325566
+    },
+    {
+        "category": "theaters",
+        "title": "Laurette Théâtre Paris",
+        "rating": 4.4,
+        "address": "36 Rue Bichat, 75010 Paris",
+        "latitude": 48.8715414,
+        "longitude": 2.3682092
+    },
+    {
+        "category": "theaters",
+        "title": "Théâtre de la Huchette",
+        "rating": 4.6,
+        "address": "23 Rue de la Huchette, 75005 Paris",
+        "latitude": 48.853034699999995,
+        "longitude": 2.3453589999999997
+    },
+    {
+        "category": "theaters",
+        "title": "Théâtre Edgar",
+        "rating": 4.4,
+        "address": "58 Bd Edgar Quinet, 75014 Paris",
+        "latitude": 48.841556399999995,
+        "longitude": 2.3244753
+    },
+    {
+        "category": "theaters",
+        "title": "Odéon Theatre",
+        "rating": 4.6,
+        "address": "Pl. de l'Odéon, 75006 Paris",
+        "latitude": 48.849495,
+        "longitude": 2.3387029999999998
+    },
+    {
+        "category": "theaters",
+        "title": "Théâtre de la Ville",
+        "rating": 4.5,
+        "address": "2 Pl. du Châtelet, 75004 Paris",
+        "latitude": 48.857357,
+        "longitude": 2.3482605999999997
+    },
+    {
+        "category": "theaters",
+        "title": "Lucernaire",
+        "rating": 4.5,
+        "address": "53 Rue Notre Dame des Champs, 75006 Paris",
+        "latitude": 48.844246999999996,
+        "longitude": 2.330402
+    },
+    {
+        "category": "theaters",
+        "title": "Théâtre du Palais-Royal",
+        "rating": 4.5,
+        "address": "38 Rue de Montpensier, 75001 Paris",
+        "latitude": 48.8660353,
+        "longitude": 2.3374935999999997
+    },
+    {
+        "category": "theaters",
+        "title": "Théâtre du Ranelagh",
+        "rating": 4.6,
+        "address": "5 Rue des Vignes, 75016 Paris",
+        "latitude": 48.8546134,
+        "longitude": 2.2776511
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Par’Ici",
+        "rating": 4.9,
+        "address": "52 Rue Mouffetard, 75005 Paris, France",
+        "latitude": 48.8433439,
+        "longitude": 2.3494261
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir’s Factory",
+        "rating": 4,
+        "address": "6 Quai du Marché Neuf - Maurice Grimaud, 75004 Paris, France",
+        "latitude": 48.854248399999996,
+        "longitude": 2.3455226
+    },
+    {
+        "category": "souvenir counters",
+        "title": "ARN Souvenirs",
+        "rating": 4.7,
+        "address": "31 Rue Saint-André des Arts, 75006 Paris, France",
+        "latitude": 48.853290099999995,
+        "longitude": 2.3420867999999997
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Royal Souvenirs",
+        "rating": 4.6,
+        "address": "5 Rue Lagrange, 75005 Paris, France",
+        "latitude": 48.8517496,
+        "longitude": 2.3480958
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Sacré-Cœur Souvenirs",
+        "rating": 4.1,
+        "address": "48 Rue du Chevalier de la Barre, 75018 Paris, France",
+        "latitude": 48.8871481,
+        "longitude": 2.3416758
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs Center",
+        "rating": 4.1,
+        "address": "214 Rue de Rivoli, 75001 Paris, France",
+        "latitude": 48.8647564,
+        "longitude": 2.3296175999999997
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Piou Piou Paris",
+        "rating": 4.8,
+        "address": "28 Quai du Louvre, 75001 Paris, France",
+        "latitude": 48.8590649,
+        "longitude": 2.3406371
+    },
+    {
+        "category": "souvenir counters",
+        "title": "La Boutique Napoléon",
+        "rating": 4.1,
+        "address": "10 Rue de Beaujolais, 75001 Paris, France",
+        "latitude": 48.866116999999996,
+        "longitude": 2.3388286
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs De Paris",
+        "rating": 3.9,
+        "address": "10 Rue de Bellechasse, 75007 Paris, France",
+        "latitude": 48.8595271,
+        "longitude": 2.3239965
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Eiffel Shop Souvenirs",
+        "rating": 4.6,
+        "address": "33 Av. de la Bourdonnais, 75007 Paris, France",
+        "latitude": 48.8586307,
+        "longitude": 2.2988561
+    },
+    {
+        "category": "souvenir counters",
+        "title": "SOUVENIRS BAZAR",
+        "rating": 3.3,
+        "address": "99 Bd de Magenta, 75010 Paris, France",
+        "latitude": 48.8782455,
+        "longitude": 2.3540008
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs de Paris (I ❤️ Paris)",
+        "rating": 5,
+        "address": "29 Rue de la Ferronnerie, 75001 Paris, France",
+        "latitude": 48.8602385,
+        "longitude": 2.3468883
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs of Paris",
+        "rating": 2.8,
+        "address": "4 Rue de Tilsitt, 75008 Paris, France",
+        "latitude": 48.8737091,
+        "longitude": 2.2974113
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Le Petit Prince",
+        "rating": 4.7,
+        "address": "8 Rue Grégoire de Tours, 75006 Paris, France",
+        "latitude": 48.853409,
+        "longitude": 2.337744
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Gifts from the Tower",
+        "rating": 4.2,
+        "address": "19 Av. de la Bourdonnais, 75007 Paris, France",
+        "latitude": 48.859441999999994,
+        "longitude": 2.2976175
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Boutique de l'Hôtel de Ville - Paris la Boutique",
+        "rating": 4,
+        "address": "29 Rue de Rivoli, 75004 Paris, France",
+        "latitude": 48.8570608,
+        "longitude": 2.3527663
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Les Souvenirs De Paris",
+        "rating": 3.8,
+        "address": "103 Quai Jacques Chirac, 75015 Paris, France",
+        "latitude": 48.854688599999996,
+        "longitude": 2.2893277999999997
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs Lagrange",
+        "rating": 4.7,
+        "address": "3 Rue Lagrange, 75005 Paris, France",
+        "latitude": 48.851931199999996,
+        "longitude": 2.3481175
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs De Paris",
+        "rating": 4.4,
+        "address": "Rue de la Colombe, 75004 Paris, France",
+        "latitude": 48.8548061,
+        "longitude": 2.3505148
+    },
+    {
+        "category": "souvenir counters",
+        "title": "My souvenir of Paris",
+        "rating": 4.9,
+        "address": "17 Rue de Lyon, 75012 Paris, France",
+        "latitude": 48.847058999999994,
+        "longitude": 2.3715937
+    }
+]

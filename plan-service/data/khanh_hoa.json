@@ -1,0 +1,3938 @@
+[
+    {
+        "category": "tourist attractions",
+        "title": "CaraWorld Cam Ranh",
+        "rating": 4.3,
+        "address": "Nguyễn Tất Thành, Cam Nghĩa, Cam Ranh, Khánh Hòa, Vietnam",
+        "latitude": 11.9890636,
+        "longitude": 109.2392883
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Po Nagar Temple",
+        "rating": 4.5,
+        "address": "61 Hai Tháng Tư, Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.265366499999999,
+        "longitude": 109.1953678
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Monkey Island tourist resort",
+        "rating": 4.2,
+        "address": "Lương Sơn, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.359675,
+        "longitude": 109.21291
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Beach Nha Trang",
+        "rating": 4.8,
+        "address": "76Q4+88H, Phạm Văn Đồng, Ba Làng, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2883043,
+        "longitude": 109.2058634
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Đảo Hòn Tằm",
+        "rating": 4.2,
+        "address": "Vĩnh Nguyên, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.1789019,
+        "longitude": 109.24515799999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Long Son Pagoda",
+        "rating": 4.3,
+        "address": "22 Đ. 23 Tháng 10, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2501803,
+        "longitude": 109.1801753
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hoa Lan Island Resort",
+        "rating": 4.2,
+        "address": "Ninh Phú, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.405657,
+        "longitude": 109.24284469999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Con Sẻ Tre Tourist Village",
+        "rating": 4.1,
+        "address": "Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.213403999999999,
+        "longitude": 109.2411157
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Đèo Lương Sơn",
+        "rating": 4.7,
+        "address": "865M+FCJ, Phạm Văn Đồng, Vĩnh Lương, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.3087182,
+        "longitude": 109.2335133
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Robinson Beach Nha Trang",
+        "rating": 4.3,
+        "address": "Đảo Hòn Tre, Vĩnh Nguyên, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.19221,
+        "longitude": 109.31659599999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Vinh San Ho 2",
+        "rating": 4,
+        "address": "56PF+R5F, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.1862041,
+        "longitude": 109.22339029999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hang Heo",
+        "rating": 4,
+        "address": "86H6+W24, Phạm Văn Đồng, Vĩnh Lương, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.3297624,
+        "longitude": 109.2100849
+    },
+    {
+        "category": "tourist attractions",
+        "title": "MerPerle Hòn Tằm Pier - Cảng Hòn Tằm",
+        "rating": 4.5,
+        "address": "Đảo, Nha Trang - Hòn Tằm, Vĩnh Nguyên, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2025559,
+        "longitude": 109.2174144
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hon Mun Marine Protected Area",
+        "rating": 4.4,
+        "address": "735 Nguyễn Tất Thành, Phước Đồng, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.169998099999999,
+        "longitude": 109.3002051
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hải đăng Hòn Lớn",
+        "rating": 4.7,
+        "address": "58VM+RHW, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.1946187,
+        "longitude": 109.33394039999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Khu Du Lịch Suối Tiên",
+        "rating": 4,
+        "address": "Suối Tiên, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2041516,
+        "longitude": 109.0302179
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Tram Huong Tower",
+        "rating": 4.4,
+        "address": "Trần Phú Quảng trường, Hai tháng Tư, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.240404,
+        "longitude": 109.1969225
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Bai Tranh Beach",
+        "rating": 4.1,
+        "address": "Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.187827299999999,
+        "longitude": 109.22647909999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Suoi Do Pagoda",
+        "rating": 4.6,
+        "address": "Suối Hiệp, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.221511099999999,
+        "longitude": 109.10082059999999
+    },
+    {
+        "category": "tourist attractions",
+        "title": "Hon Giao Stone Stream",
+        "rating": 4.2,
+        "address": "Đường Hoa và Biển, Sơn Thái, Khánh Vĩnh, Khánh Hòa 640000, Vietnam",
+        "latitude": 12.2548652,
+        "longitude": 108.81546829999999
+    },
+    {
+        "category": "parks",
+        "title": "Tue Tinh Park",
+        "rating": 4.6,
+        "address": "78 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.232048299999999,
+        "longitude": 109.1984619
+    },
+    {
+        "category": "parks",
+        "title": "Park Bridge Tran Phu",
+        "rating": 4.3,
+        "address": "10b Phạm Văn Đồng, Vĩnh Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2651261,
+        "longitude": 109.20095119999999
+    },
+    {
+        "category": "parks",
+        "title": "Bach Dang Park",
+        "rating": 4.3,
+        "address": "Trần Phú, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2175666,
+        "longitude": 109.2071443
+    },
+    {
+        "category": "parks",
+        "title": "Vo Van Ky Park",
+        "rating": 4.2,
+        "address": "15 Trần Đường, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2491319,
+        "longitude": 109.18441179999999
+    },
+    {
+        "category": "parks",
+        "title": "Phu Dong Park",
+        "rating": 4.5,
+        "address": "100 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2297812,
+        "longitude": 109.1993064
+    },
+    {
+        "category": "parks",
+        "title": "Hon Ba Nature Reserve",
+        "rating": 4.4,
+        "address": "Khánh Sơn, Khánh Hòa, Vietnam",
+        "latitude": 12.1090137,
+        "longitude": 108.9739958
+    },
+    {
+        "category": "parks",
+        "title": "Khu Du Lịch Trăm Trứng -100 Egg Theme Park",
+        "rating": 4.7,
+        "address": "Đại lộ, Nguyễn Tất Thành, Phước Trung, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.1852992,
+        "longitude": 109.16149659999999
+    },
+    {
+        "category": "parks",
+        "title": "Công viên Yến Phi",
+        "rating": 4.6,
+        "address": "753W+P74, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2542625,
+        "longitude": 109.19570309999999
+    },
+    {
+        "category": "parks",
+        "title": "VinWonders Nha Trang",
+        "rating": 4.6,
+        "address": "Đảo Hòn Tre, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.217047899999999,
+        "longitude": 109.2408718
+    },
+    {
+        "category": "parks",
+        "title": "Công Viên Võ Văn Ký",
+        "rating": 4.9,
+        "address": "65XM+VRV, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2497446,
+        "longitude": 109.1845486
+    },
+    {
+        "category": "parks",
+        "title": "Vòng Xoay Ngã 7",
+        "rating": 4.4,
+        "address": "26 Đ. Nguyễn Chánh, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2448663,
+        "longitude": 109.1920457
+    },
+    {
+        "category": "parks",
+        "title": "Youth Park",
+        "rating": 4.4,
+        "address": "12a Trần Phú, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2200644,
+        "longitude": 109.2044593
+    },
+    {
+        "category": "parks",
+        "title": "April 2nd Square",
+        "rating": 4.7,
+        "address": "46 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.239284099999999,
+        "longitude": 109.197092
+    },
+    {
+        "category": "parks",
+        "title": "Công viên Phượng đỏ (Mon Park)",
+        "rating": 3.8,
+        "address": "65WH+WJ9, Phước Hải, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2472967,
+        "longitude": 109.1791228
+    },
+    {
+        "category": "parks",
+        "title": "Công Viên Du Lịch Yang Bay",
+        "rating": 4.2,
+        "address": "Ngã Hai/Thôn Commune, Khánh Phú, Khánh Vĩnh, Khánh Hòa 65000, Vietnam",
+        "latitude": 12.1940046,
+        "longitude": 108.9169275
+    },
+    {
+        "category": "parks",
+        "title": "Công Viên Phước Hải",
+        "rating": 4.5,
+        "address": "Đ. Bùi Phùng, Phước Hải, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2367362,
+        "longitude": 109.1778712
+    },
+    {
+        "category": "parks",
+        "title": "Vườn lan Diên Khánh",
+        "rating": 4.7,
+        "address": "Thôn, Đảnh Thạnh, Diên Khánh, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2298013,
+        "longitude": 109.0391494
+    },
+    {
+        "category": "parks",
+        "title": "Small Park",
+        "rating": 4,
+        "address": "147/2 D. Hiến Quyền, Ba Làng, Nha Trang, Khánh Hòa 57100, Vietnam",
+        "latitude": 12.271790999999999,
+        "longitude": 109.20532329999999
+    },
+    {
+        "category": "parks",
+        "title": "Kong Forest Nha Trang - ATV, Zipline, Camping",
+        "rating": 4.5,
+        "address": "Km19 Hòn Bà Mountain, Suối Cát, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.1129082,
+        "longitude": 108.9979674
+    },
+    {
+        "category": "parks",
+        "title": "Tượng Trần Hưng Đạo",
+        "rating": 4.5,
+        "address": "6684+WVP, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2173375,
+        "longitude": 109.2072031
+    },
+    {
+        "category": "restaurants",
+        "title": "CUI seafood restaurant",
+        "rating": 4.8,
+        "address": "135 Đ. Hồng Bàng, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2385478,
+        "longitude": 109.1919056
+    },
+    {
+        "category": "restaurants",
+        "title": "Xóm Mới Garden Nha Trang (씀모이가든 나트랑)",
+        "rating": 4.8,
+        "address": "144 Đ. Võ Trứ, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.240882899999999,
+        "longitude": 109.191768
+    },
+    {
+        "category": "restaurants",
+        "title": "YASHODA INDIAN RESTAURANT",
+        "rating": 4.7,
+        "address": "119 Nguyễn Thiện Thuật, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2376831,
+        "longitude": 109.19386589999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Ơi Nha Trang Restaurant",
+        "rating": 4.7,
+        "address": "11 Yersin, Lộc Thọ, Nha Trang, Khánh Hòa 65000, Vietnam",
+        "latitude": 12.249066,
+        "longitude": 109.1945781
+    },
+    {
+        "category": "restaurants",
+        "title": "Ngoc Trai Seafood Restaurant - Since 2004",
+        "rating": 4.8,
+        "address": "97 Nguyễn Thị Minh Khai, Phước Hoà, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.237457899999999,
+        "longitude": 109.18990699999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Ớt Hiểm Vietnamese Kitchen",
+        "rating": 4.5,
+        "address": "39 Đ. Hoàng Hoa Thám, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2503189,
+        "longitude": 109.1941458
+    },
+    {
+        "category": "restaurants",
+        "title": "Cơm Nhà Nha Trang - 베트남 밥 전문점",
+        "rating": 4.9,
+        "address": "45 Đ. Lê Đại Hành, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.240208599999999,
+        "longitude": 109.1884577
+    },
+    {
+        "category": "restaurants",
+        "title": "I Like Buffet Restaurant",
+        "rating": 4.9,
+        "address": "61 Đặng Tất, Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2762557,
+        "longitude": 109.1992034
+    },
+    {
+        "category": "restaurants",
+        "title": "K.HOUSE Restaurant",
+        "rating": 4.9,
+        "address": "86 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.23059,
+        "longitude": 109.19912
+    },
+    {
+        "category": "restaurants",
+        "title": "Alpaca homestyle cafe",
+        "rating": 4.8,
+        "address": "10/1B Nguyễn Thiện Thuật, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.241105099999999,
+        "longitude": 109.1932393
+    },
+    {
+        "category": "restaurants",
+        "title": "Nôm Nôm Restaurant & Cafe",
+        "rating": 4.5,
+        "address": "73/16 Trần Quang Khải, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2322065,
+        "longitude": 109.1955981
+    },
+    {
+        "category": "restaurants",
+        "title": "Ресторан ЧАЙХАНА",
+        "rating": 4.8,
+        "address": "98B Trần Phú, nhà hàng, Tây Hồ, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2265572,
+        "longitude": 109.2001921
+    },
+    {
+        "category": "restaurants",
+        "title": "An Lam Vietnamese Cuisine",
+        "rating": 4.8,
+        "address": "86 Hùng Vương, Lộc Thọ, Nha Trang, Khánh Hòa 57000, Vietnam",
+        "latitude": 12.2381111,
+        "longitude": 109.1949217
+    },
+    {
+        "category": "restaurants",
+        "title": "라냐 Là Nhà",
+        "rating": 4.8,
+        "address": "102 Đ. Hồng Bàng, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2397861,
+        "longitude": 109.1904295
+    },
+    {
+        "category": "restaurants",
+        "title": "Ambassador Club, Ana Marina Nha Trang",
+        "rating": 4.9,
+        "address": "Đường Nguyễn Cơ Thạch, Vĩnh Hải, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2947455,
+        "longitude": 109.2223717
+    },
+    {
+        "category": "restaurants",
+        "title": "Tuan's Vietnamese Cuisine",
+        "rating": 4.7,
+        "address": "96A7 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2281385,
+        "longitude": 109.1993517
+    },
+    {
+        "category": "restaurants",
+        "title": "atelier",
+        "rating": 4.8,
+        "address": "140 Nguyễn Thiện Thuật, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2328119,
+        "longitude": 109.19486169999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Hoang Sa restaurant - 냐짱 해산물 - 나트랑 해산물 - Seafood Nha Trang - 해산물 요리 - 나트랑 해산물 요리 - Ресторан морепродуктов в Нячанге",
+        "rating": 4.8,
+        "address": "64 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 570000, Vietnam",
+        "latitude": 12.2357965,
+        "longitude": 109.19702819999999
+    },
+    {
+        "category": "restaurants",
+        "title": "Ngon Gallery Nha Trang Restaurant",
+        "rating": 4.7,
+        "address": "Citadines Bayfront, 62 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.236219,
+        "longitude": 109.19685439999999
+    },
+    {
+        "category": "restaurants",
+        "title": "La Cala - Gusto Italiano",
+        "rating": 4.6,
+        "address": "Bạch Đằng, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2387325,
+        "longitude": 109.19270619999999
+    },
+    {
+        "category": "cafes",
+        "title": "Anh Coffee Roasters",
+        "rating": 4.9,
+        "address": "140 Đ. Hoàng Hoa Thám, Lộc Thọ, Nha Trang, Khánh Hòa 57100, Vietnam",
+        "latitude": 12.243792599999999,
+        "longitude": 109.1937955
+    },
+    {
+        "category": "cafes",
+        "title": "Artisan Cafe & Eatery",
+        "rating": 4.9,
+        "address": "17/35a Hẻm đường Hoàng Diệu, Vĩnh Nguyên, Nha Trang, Khánh Hòa 57129, Vietnam",
+        "latitude": 12.2194343,
+        "longitude": 109.2004979
+    },
+    {
+        "category": "cafes",
+        "title": "Alpaca homestyle cafe",
+        "rating": 4.8,
+        "address": "10/1B Nguyễn Thiện Thuật, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.241105099999999,
+        "longitude": 109.1932393
+    },
+    {
+        "category": "cafes",
+        "title": "Ume Cafe by Ola",
+        "rating": 4.8,
+        "address": "29 Đ. Nhị Hà, Phước Hoà, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2364128,
+        "longitude": 109.1841007
+    },
+    {
+        "category": "cafes",
+        "title": "Gióng Cafe",
+        "rating": 4.7,
+        "address": "15 Đ. Trần Hưng Đạo, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.242824899999999,
+        "longitude": 109.19483299999999
+    },
+    {
+        "category": "cafes",
+        "title": "San Coffee and Cocktail",
+        "rating": 4.9,
+        "address": "46 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 57106, Vietnam",
+        "latitude": 12.2389931,
+        "longitude": 109.1962865
+    },
+    {
+        "category": "cafes",
+        "title": "Nha He Coffee Shop",
+        "rating": 4.8,
+        "address": "120/8 Nguyễn Thiện Thuật, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2328272,
+        "longitude": 109.19435539999999
+    },
+    {
+        "category": "cafes",
+        "title": "Atlas Café",
+        "rating": 4.8,
+        "address": "17a Cao Văn Bé, Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.272888199999999,
+        "longitude": 109.20126139999999
+    },
+    {
+        "category": "cafes",
+        "title": "Cafe Culture",
+        "rating": 4.8,
+        "address": "120/25-26 Nguyễn Thiện Thuật, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.232943899999999,
+        "longitude": 109.1939383
+    },
+    {
+        "category": "cafes",
+        "title": "LAM Coffee Roastery",
+        "rating": 4.7,
+        "address": "6A1 Đ. Ngô Thời Nhiệm, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.240102199999999,
+        "longitude": 109.1913835
+    },
+    {
+        "category": "cafes",
+        "title": "Nora Coffee",
+        "rating": 4.6,
+        "address": "85 Đoàn Trần Nghiệp, Vĩnh Phước, Nha Trang, Khánh Hòa 57000, Vietnam",
+        "latitude": 12.2710533,
+        "longitude": 109.1994027
+    },
+    {
+        "category": "cafes",
+        "title": "ANDAO Coffee & Chocolate",
+        "rating": 4.8,
+        "address": "KĐT Lê Hồng Phong, 21.29 Đ. 4B, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2488374,
+        "longitude": 109.1766327
+    },
+    {
+        "category": "cafes",
+        "title": "K cafe",
+        "rating": 4.9,
+        "address": "11 Đ. Phan Chu Trinh, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2529237,
+        "longitude": 109.1939393
+    },
+    {
+        "category": "cafes",
+        "title": "La Viet Coffee (Nha Trang - Vinpearl Habour)",
+        "rating": 4.9,
+        "address": "667Q+MH, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.215307099999999,
+        "longitude": 109.2391852
+    },
+    {
+        "category": "cafes",
+        "title": "Ola Cafe",
+        "rating": 4.7,
+        "address": "31 Nguyễn Hữu Huân, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.240156899999999,
+        "longitude": 109.1867309
+    },
+    {
+        "category": "cafes",
+        "title": "CCCP Coffee",
+        "rating": 4.5,
+        "address": "22 Tô Hiến Thành, Tân Tiến, Nha Trang, Khánh Hòa 57000, Vietnam",
+        "latitude": 12.2400149,
+        "longitude": 109.19215609999999
+    },
+    {
+        "category": "cafes",
+        "title": "& More by Sheraton - Café & Lounge",
+        "rating": 4.8,
+        "address": "Hotel & Spa, 26 - 28 Trần Phú Sheraton, 28 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2464113,
+        "longitude": 109.1957817
+    },
+    {
+        "category": "cafes",
+        "title": "týp coffee & bakery",
+        "rating": 4.7,
+        "address": "Chung cư Nguyễn Thiện Thuật, Hẻm 7, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2408623,
+        "longitude": 109.1936406
+    },
+    {
+        "category": "cafes",
+        "title": "Mango Coffee",
+        "rating": 4.5,
+        "address": "9 Hùng Vương, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2396432,
+        "longitude": 109.195112
+    },
+    {
+        "category": "cafes",
+        "title": "Jungle Coffee Nha Trang",
+        "rating": 4.8,
+        "address": "8 Lê Quý Đôn, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.245073,
+        "longitude": 109.1897668
+    },
+    {
+        "category": "mountains",
+        "title": "La Mere et l'Enfant",
+        "rating": 5,
+        "address": "Ninh Tây, Ninh Hoa, Khánh Hòa, Vietnam",
+        "latitude": 12.6833333,
+        "longitude": 108.96666669999999
+    },
+    {
+        "category": "mountains",
+        "title": "Chu Mo",
+        "rating": null,
+        "address": "Khánh Thượng, Khánh Vĩnh District, Khánh Hòa, Vietnam",
+        "latitude": 12.3666667,
+        "longitude": 108.8
+    },
+    {
+        "category": "mountains",
+        "title": "Chu M'rao",
+        "rating": null,
+        "address": "Khánh Hiệp, Khánh Vĩnh District, Khánh Hòa, Vietnam",
+        "latitude": 12.4666667,
+        "longitude": 108.83333329999999
+    },
+    {
+        "category": "mountains",
+        "title": "Chu La Hou",
+        "rating": null,
+        "address": "Khánh Vĩnh District, Khánh Hòa, Vietnam",
+        "latitude": 12.35,
+        "longitude": 108.6833333
+    },
+    {
+        "category": "mountains",
+        "title": "Chu Het Tiala",
+        "rating": null,
+        "address": "Khánh Vĩnh District, Khánh Hòa, Vietnam",
+        "latitude": 12.399999999999999,
+        "longitude": 108.71666669999999
+    },
+    {
+        "category": "mountains",
+        "title": "Nui Mai Nha",
+        "rating": 3,
+        "address": "Ninh Phước, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.4666667,
+        "longitude": 109.25
+    },
+    {
+        "category": "mountains",
+        "title": "Hon San",
+        "rating": 3.5,
+        "address": "Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2694444,
+        "longitude": 109.1916667
+    },
+    {
+        "category": "mountains",
+        "title": "Gia Kang",
+        "rating": null,
+        "address": "Khánh Thành, Khánh Vĩnh District, Khánh Hòa, Vietnam",
+        "latitude": 12.2,
+        "longitude": 108.88333329999999
+    },
+    {
+        "category": "mountains",
+        "title": "Chu M'tar",
+        "rating": null,
+        "address": "Khánh Bình, Khánh Vĩnh District, Khánh Hòa, Vietnam",
+        "latitude": 12.45,
+        "longitude": 108.88333329999999
+    },
+    {
+        "category": "mountains",
+        "title": "Nui Cau Hin",
+        "rating": 3,
+        "address": "Cam Hải Đông, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.149999999999999,
+        "longitude": 109.1666667
+    },
+    {
+        "category": "mountains",
+        "title": "Chu Gren",
+        "rating": null,
+        "address": "Khánh Hiệp, Khánh Vĩnh District, Khánh Hòa, Vietnam",
+        "latitude": 12.5,
+        "longitude": 108.7833333
+    },
+    {
+        "category": "mountains",
+        "title": "Dam Mon Thuong",
+        "rating": 4.4,
+        "address": "Vạn Thạnh, Vạn Ninh District, Khánh Hòa, Vietnam",
+        "latitude": 12.6997222,
+        "longitude": 109.38749999999999
+    },
+    {
+        "category": "mountains",
+        "title": "Hon Ngang",
+        "rating": null,
+        "address": "Vĩnh Phương, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.3333333,
+        "longitude": 109.1166667
+    },
+    {
+        "category": "mountains",
+        "title": "Hon Ngang",
+        "rating": 4.8,
+        "address": "Xuân Sơn, Vạn Ninh District, Khánh Hòa, Vietnam",
+        "latitude": 12.666666699999999,
+        "longitude": 109.1666667
+    },
+    {
+        "category": "mountains",
+        "title": "Hon Nhanh",
+        "rating": null,
+        "address": "Khánh Trung, Khánh Vĩnh District, Khánh Hòa, Vietnam",
+        "latitude": 12.316666699999999,
+        "longitude": 108.9333333
+    },
+    {
+        "category": "mountains",
+        "title": "Nui Deo",
+        "rating": null,
+        "address": "Ninh Xuân, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.533333299999999,
+        "longitude": 109.0666667
+    },
+    {
+        "category": "mountains",
+        "title": "Chu Loun",
+        "rating": null,
+        "address": "Khánh Thượng, Khánh Vĩnh District, Khánh Hòa, Vietnam",
+        "latitude": 12.3333333,
+        "longitude": 108.71666669999999
+    },
+    {
+        "category": "mountains",
+        "title": "Hon N'gante",
+        "rating": null,
+        "address": "Ba Cụm Nam, Khánh Sơn District, Khánh Hòa, Vietnam",
+        "latitude": 11.9666667,
+        "longitude": 108.94999999999999
+    },
+    {
+        "category": "mountains",
+        "title": "Hon Lieng",
+        "rating": null,
+        "address": "Khánh Hiệp, Khánh Vĩnh District, Khánh Hòa, Vietnam",
+        "latitude": 12.416666699999999,
+        "longitude": 108.8166667
+    },
+    {
+        "category": "mountains",
+        "title": "Duc Ba",
+        "rating": null,
+        "address": "Vĩnh Lương, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.338333299999999,
+        "longitude": 109.1583333
+    },
+    {
+        "category": "waterfalls",
+        "title": "Thác Bình An Waterfall",
+        "rating": 4.5,
+        "address": "6483+V9G, Diên Toàn, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2171834,
+        "longitude": 109.1034564
+    },
+    {
+        "category": "waterfalls",
+        "title": "Khanh Le Pass Waterfall",
+        "rating": 4.7,
+        "address": "5PR9+FWQ, Sơn Thái, Khánh Vĩnh, Khánh Hòa, Vietnam",
+        "latitude": 12.1912231,
+        "longitude": 108.7198452
+    },
+    {
+        "category": "waterfalls",
+        "title": "Thác Tà Gụ",
+        "rating": 4.6,
+        "address": "Sơn Hiệp, Khánh Sơn District, Khánh Hòa, Vietnam",
+        "latitude": 12.050121599999999,
+        "longitude": 108.9203347
+    },
+    {
+        "category": "waterfalls",
+        "title": "Thác Yang Bay",
+        "rating": 4.2,
+        "address": "Khánh Phú, Khánh Vĩnh, Khánh Hòa, Vietnam",
+        "latitude": 12.1891801,
+        "longitude": 108.9108174
+    },
+    {
+        "category": "waterfalls",
+        "title": "Victoria Waterfall",
+        "rating": 5,
+        "address": "6P4P+2G, Sơn Thái, Khánh Vĩnh, Khánh Hòa, Vietnam",
+        "latitude": 12.205032,
+        "longitude": 108.7363458
+    },
+    {
+        "category": "waterfalls",
+        "title": "Khu du lịch Ba Hồ",
+        "rating": 4.5,
+        "address": "Thôn Vạn Thuận, Ninh Hòa, Khánh Hòa 57000, Vietnam",
+        "latitude": 12.3898019,
+        "longitude": 109.1378798
+    },
+    {
+        "category": "waterfalls",
+        "title": "Thác Bầu - Suối Mấu",
+        "rating": 4.4,
+        "address": "7QQ9+GH7, Khánh Thượng, Khánh Vĩnh, Khánh Hòa, Vietnam",
+        "latitude": 12.2887911,
+        "longitude": 108.76890879999999
+    },
+    {
+        "category": "waterfalls",
+        "title": "Suối Đổ Nha Trang",
+        "rating": 4.2,
+        "address": "64C2+V5P, Unnamed Road, Diên Toàn, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2222008,
+        "longitude": 109.1004402
+    },
+    {
+        "category": "lakes",
+        "title": "Lac Ao Ho",
+        "rating": null,
+        "address": "Cam Nghĩa, Cam Ranh, Khánh Hòa, Vietnam",
+        "latitude": 11.899999999999999,
+        "longitude": 109.2333333
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Suối Dầu",
+        "rating": 4.4,
+        "address": "Cam Lâm District, Khánh Hòa, Vietnam",
+        "latitude": 12.1539887,
+        "longitude": 109.0527504
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ",
+        "rating": 4,
+        "address": "Ninh Thủy, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.4992436,
+        "longitude": 109.23892149999999
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Suối Sim",
+        "rating": 3.9,
+        "address": "Thôn Nông Trường, Ninh Sim, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.5730784,
+        "longitude": 109.02228679999999
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Liên Sang",
+        "rating": 3.6,
+        "address": "Liên Sang, Khánh Vĩnh District, Khánh Hòa, Vietnam",
+        "latitude": 12.2668805,
+        "longitude": 108.8230286
+    },
+    {
+        "category": "lakes",
+        "title": "Xuan Son lake",
+        "rating": 3.7,
+        "address": "Xuân Sơn, Vạn Ninh District, Khánh Hòa, Vietnam",
+        "latitude": 12.6824952,
+        "longitude": 109.134121
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Suối Dầu",
+        "rating": 4,
+        "address": "Cam Lâm District, Khánh Hòa, Vietnam",
+        "latitude": 12.1539887,
+        "longitude": 109.0527504
+    },
+    {
+        "category": "lakes",
+        "title": "Nha Trang Bay",
+        "rating": 4.6,
+        "address": "Vietnam",
+        "latitude": 12.2600333,
+        "longitude": 109.30694319999999
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Vĩnh Hòa",
+        "rating": 3.3,
+        "address": "Vĩnh Hòa, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.302853899999999,
+        "longitude": 109.205379
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Suối Hành",
+        "rating": 4.3,
+        "address": "Cam Phước Đông, Cam Ranh, Khánh Hòa, Vietnam",
+        "latitude": 11.9326849,
+        "longitude": 109.0557225
+    },
+    {
+        "category": "lakes",
+        "title": "Khu du lịch Ba Hồ",
+        "rating": 4.5,
+        "address": "Thôn Vạn Thuận, Ninh Hòa, Khánh Hòa 57000, Vietnam",
+        "latitude": 12.3898019,
+        "longitude": 109.1378798
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Am Chúa",
+        "rating": 4.6,
+        "address": "Diên Điền, Diên Khánh District, Khánh Hòa, Vietnam",
+        "latitude": 12.3155951,
+        "longitude": 109.096592
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Suối Trầu",
+        "rating": 4.6,
+        "address": "Ninh Xuân, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.5001572,
+        "longitude": 109.03491779999999
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Tiên Du",
+        "rating": 3.7,
+        "address": "Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.4490907,
+        "longitude": 109.2459834
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Khánh Vĩnh",
+        "rating": 4,
+        "address": "Khanh Vinh, Khánh Vĩnh District, Khánh Hòa, Vietnam",
+        "latitude": 12.2835266,
+        "longitude": 108.90556129999999
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Đá Bàn",
+        "rating": 4.6,
+        "address": "Ninh Sơn, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.644749,
+        "longitude": 109.1017938
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ Nhân Tạo",
+        "rating": 5,
+        "address": "Thôn Nông Trường, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.5485747,
+        "longitude": 109.03360219999999
+    },
+    {
+        "category": "lakes",
+        "title": "Hồ K2",
+        "rating": 5,
+        "address": "Thôn Nông Trường, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.5483823,
+        "longitude": 109.0337747
+    },
+    {
+        "category": "lakes",
+        "title": "KDL Galina Lake View",
+        "rating": 4.1,
+        "address": "Phước Trung, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.1881986,
+        "longitude": 109.1566435
+    },
+    {
+        "category": "lakes",
+        "title": "Sông Cây Sung",
+        "rating": 4.3,
+        "address": "Diên Tân, Diên Khánh District, Khánh Hòa, Vietnam",
+        "latitude": 12.2307785,
+        "longitude": 108.9821674
+    },
+    {
+        "category": "beaches",
+        "title": "Khu Du Lịch Bãi Dài",
+        "rating": 4,
+        "address": "Khu du lịch Bãi Dài, Nguyễn Tất Thành, Cam Lâm, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.11315,
+        "longitude": 109.1950652
+    },
+    {
+        "category": "beaches",
+        "title": "South Beach",
+        "rating": 4,
+        "address": "An Viên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.196030799999999,
+        "longitude": 109.2124025
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi biển Nha Trang",
+        "rating": 4.5,
+        "address": "Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.236339099999999,
+        "longitude": 109.1978532
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi biển Nhũ Tiên",
+        "rating": 4,
+        "address": "Phước Hạ, Phước Đồng, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.174230399999999,
+        "longitude": 109.20556479999999
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi Tắm Hòn Chồng",
+        "rating": 4.4,
+        "address": "Phạm Văn Đồng, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.274582599999999,
+        "longitude": 109.2024342
+    },
+    {
+        "category": "beaches",
+        "title": "Bai Dai",
+        "rating": 4.5,
+        "address": "Khánh Hòa, Vietnam",
+        "latitude": 12.027069899999999,
+        "longitude": 109.224571
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi Dài Nha Trang",
+        "rating": 4.4,
+        "address": "Cam Hải Đông, Khánh Hòa, Vietnam",
+        "latitude": 12.104804399999999,
+        "longitude": 109.19450839999999
+    },
+    {
+        "category": "beaches",
+        "title": "Plage de Thuy Trieu",
+        "rating": 3.7,
+        "address": "Cam Hải Đông, Cam Lâm District, Khánh Hòa, Vietnam",
+        "latitude": 12.066666699999999,
+        "longitude": 109.19999999999999
+    },
+    {
+        "category": "beaches",
+        "title": "Bai Tranh Beach",
+        "rating": 4.1,
+        "address": "Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.187827299999999,
+        "longitude": 109.22647909999999
+    },
+    {
+        "category": "beaches",
+        "title": "BÃI HẬU",
+        "rating": 4.6,
+        "address": "Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.312816699999999,
+        "longitude": 109.2289911
+    },
+    {
+        "category": "beaches",
+        "title": "KDL Ganh Nhay",
+        "rating": 3.9,
+        "address": "ĐT652D, Ninh Phước, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.4213814,
+        "longitude": 109.2932297
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi tắm Tre",
+        "rating": 4.8,
+        "address": "Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.214589,
+        "longitude": 109.3118454
+    },
+    {
+        "category": "beaches",
+        "title": "Heart island",
+        "rating": 4.9,
+        "address": "Vạn Thạnh, Vạn Ninh District, Khánh Hòa, Vietnam",
+        "latitude": 12.637265999999999,
+        "longitude": 109.3076073
+    },
+    {
+        "category": "beaches",
+        "title": "Chuong Beach",
+        "rating": 4.2,
+        "address": "Cam Bình, Cam Ranh, Khánh Hòa, Vietnam",
+        "latitude": 11.8425972,
+        "longitude": 109.24644289999999
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi biển Đại Lãnh",
+        "rating": 4.6,
+        "address": "Đại Lãnh, Khánh Hòa, Vietnam",
+        "latitude": 12.8269884,
+        "longitude": 109.3587094
+    },
+    {
+        "category": "beaches",
+        "title": "Doc Let Beach",
+        "rating": 4.3,
+        "address": "G6VH+CXJ, Bãi Biển Dốc Lết, TDP Bá Hà, Ninh Thuỷ, Khánh Hòa, Vietnam",
+        "latitude": 12.543580799999999,
+        "longitude": 109.2299034
+    },
+    {
+        "category": "beaches",
+        "title": "Long Beach public",
+        "rating": 4.7,
+        "address": "456V+5P, Cam Hải Đông, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.1104,
+        "longitude": 109.1942833
+    },
+    {
+        "category": "beaches",
+        "title": "Robinson Beach Nha Trang",
+        "rating": 4.3,
+        "address": "Đảo Hòn Tre, Vĩnh Nguyên, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.19221,
+        "longitude": 109.31659599999999
+    },
+    {
+        "category": "beaches",
+        "title": "Bải biển Dốc Lết",
+        "rating": 4.3,
+        "address": "Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.5486182,
+        "longitude": 109.2353794
+    },
+    {
+        "category": "beaches",
+        "title": "Bãi Yến",
+        "rating": 4.6,
+        "address": "Cam Bình, Cam Ranh, Khánh Hòa, Vietnam",
+        "latitude": 11.833561699999999,
+        "longitude": 109.248701
+    },
+    {
+        "category": "swimming pools",
+        "title": "Vinpearl Resort & Spa Nha Villa Swimming Pool",
+        "rating": 5,
+        "address": "66FM+X9, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2246303,
+        "longitude": 109.23345529999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Học bơi khách sạn Trần Viễn Đông",
+        "rating": 4.3,
+        "address": "15 Đ. Trần Hưng Đạo, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2428001,
+        "longitude": 109.1953133
+    },
+    {
+        "category": "swimming pools",
+        "title": "I-Resort Swimming Pool",
+        "rating": 4.4,
+        "address": "75FG+258, Vĩnh Ngọc, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2725279,
+        "longitude": 109.1754562
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bể bơi Tháp Bà Spa",
+        "rating": 4.3,
+        "address": "75CG+7P8, Ngọc Hiệp, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.270664499999999,
+        "longitude": 109.1768357
+    },
+    {
+        "category": "swimming pools",
+        "title": "Daisy Pool Bar",
+        "rating": 4.8,
+        "address": "102 D. Hiến Quyền, Vĩnh Hải, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2829625,
+        "longitude": 109.2031045
+    },
+    {
+        "category": "swimming pools",
+        "title": "Trung tâm bơi lặn Yết Kiêu",
+        "rating": 3.5,
+        "address": "10 Yersin, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2497537,
+        "longitude": 109.19191599999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "VIP Pool 1",
+        "rating": 5,
+        "address": "66FM+X9, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2249292,
+        "longitude": 109.2334793
+    },
+    {
+        "category": "swimming pools",
+        "title": "Apollo Hotel & Rooftop Swimming Pool",
+        "rating": 4.2,
+        "address": "64/8 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2354019,
+        "longitude": 109.19658869999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hồ Bơi Không Quân",
+        "rating": 3.9,
+        "address": "65PQ+2HR, Phước Hoà, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2351051,
+        "longitude": 109.18890479999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Aquafield Nha Trang",
+        "rating": 4.9,
+        "address": "Đảo Hòn Tre, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2150658,
+        "longitude": 109.24061689999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Sheraton Fitness",
+        "rating": 5,
+        "address": "26-28 Trần Phú, phường, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.246314799999999,
+        "longitude": 109.19571619999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bể bơi Vinpearl Nha Trang Resort",
+        "rating": 5,
+        "address": "66FP+RWV, Vinpearl Nha Trang, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2246191,
+        "longitude": 109.23729829999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Hồ Bơi Blue Sea TTC",
+        "rating": 4.8,
+        "address": "H62H+HXX, Ninh Hải, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.551487999999999,
+        "longitude": 109.22997769999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "빈펄럭셔리 수영장",
+        "rating": 4.8,
+        "address": "Vietnam, Khánh Hòa, Nha Trang, Vĩnh Nguyên",
+        "latitude": 12.2119988,
+        "longitude": 109.24344819999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "G&M Pool Club II",
+        "rating": 4.9,
+        "address": "25 Đoàn Trần Nghiệp, Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2713986,
+        "longitude": 109.20254659999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Khanh Hoa Provincial Gymnasium",
+        "rating": 3.9,
+        "address": "Yersin, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.250848099999999,
+        "longitude": 109.1918365
+    },
+    {
+        "category": "swimming pools",
+        "title": "MEOW BILLIARDS CLUB NHA TRANG - CÂU LẠC BỘ BIDA BI-A LỖ",
+        "rating": 4.8,
+        "address": "71/10 Nguyễn Thị Minh Khai, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2371764,
+        "longitude": 109.1916165
+    },
+    {
+        "category": "swimming pools",
+        "title": "PoolKo Billiards Club Nha Trang - CLB Bi-a Lỗ.Libre",
+        "rating": 4.7,
+        "address": "75A/2, Nguyễn Thị Minh Khai, Tân Tiến, Nha Trang, Khánh Hòa 65000, Vietnam",
+        "latitude": 12.236846499999999,
+        "longitude": 109.1902475
+    },
+    {
+        "category": "swimming pools",
+        "title": "Infinity Pool",
+        "rating": 5,
+        "address": "1i Quân Trấn, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2349718,
+        "longitude": 109.19540119999999
+    },
+    {
+        "category": "swimming pools",
+        "title": "Bể bơi thi sách",
+        "rating": 4.5,
+        "address": "65RM+88H, Thi Sách, Phước Hoà, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2413217,
+        "longitude": 109.18300669999999
+    },
+    {
+        "category": "resorts",
+        "title": "Amiana Resort Nha Trang",
+        "rating": 4.6,
+        "address": "Phạm Văn Đồng, Tổ 14, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.295209,
+        "longitude": 109.2338719
+    },
+    {
+        "category": "resorts",
+        "title": "Diamond Bay Resort & Spa in Nha Trang City",
+        "rating": 4.2,
+        "address": "Nguyễn Tất Thành, Phước Hạ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.163676899999999,
+        "longitude": 109.2003776
+    },
+    {
+        "category": "resorts",
+        "title": "Hon Tam Resort",
+        "rating": 4.9,
+        "address": "56HV+JVG, Đảo Hòn Tằm, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.178623799999999,
+        "longitude": 109.23565769999999
+    },
+    {
+        "category": "resorts",
+        "title": "Six Senses Ninh Van Bay",
+        "rating": 4.7,
+        "address": "Ninh Phước, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.358939699999999,
+        "longitude": 109.27768549999999
+    },
+    {
+        "category": "resorts",
+        "title": "Hòn Ông Resort",
+        "rating": 4.6,
+        "address": "Thôn Đầm Môn, Vạn Thạnh, Vạn Ninh, Khánh Hòa, Vietnam",
+        "latitude": 12.6533412,
+        "longitude": 109.3948669
+    },
+    {
+        "category": "resorts",
+        "title": "Mia Resort Nha Trang",
+        "rating": 4.7,
+        "address": "Bãi Dông, Cam Lâm, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.1352578,
+        "longitude": 109.2123833
+    },
+    {
+        "category": "resorts",
+        "title": "Mövenpick Resort Cam Ranh",
+        "rating": 4.8,
+        "address": "Plot D 12 Abc, Cam Hải Đông, Cam Ranh, Khánh Hòa 057615, Vietnam",
+        "latitude": 12.0455132,
+        "longitude": 109.2081712
+    },
+    {
+        "category": "resorts",
+        "title": "Alma Resort Cam Ranh",
+        "rating": 4.5,
+        "address": "Nguyễn Tất Thành, Cam Hải Đông, Cam Lâm, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.0714173,
+        "longitude": 109.19525689999999
+    },
+    {
+        "category": "resorts",
+        "title": "The Anam Cam Ranh",
+        "rating": 4.7,
+        "address": "452V+53X, Nguyễn Tất Thành, Cam Hải Đông, Cam Lâm, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.100622399999999,
+        "longitude": 109.1921175
+    },
+    {
+        "category": "resorts",
+        "title": "Selectum Noa Resort Cam Ranh",
+        "rating": 4.4,
+        "address": "Cam Hải Đông, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.086464399999999,
+        "longitude": 109.1924853
+    },
+    {
+        "category": "resorts",
+        "title": "TTC Resort Van Phong Bay",
+        "rating": 4.8,
+        "address": "Đông Cát, Ninh Hòa, Khánh Hòa 57327, Vietnam",
+        "latitude": 12.552859199999999,
+        "longitude": 109.229655
+    },
+    {
+        "category": "resorts",
+        "title": "Ba Ho Eco Resort",
+        "rating": 4.5,
+        "address": "94QQ+W67, Ninh ích, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.3897897,
+        "longitude": 109.1380389
+    },
+    {
+        "category": "resorts",
+        "title": "Duyen Ha Resort Cam Ranh",
+        "rating": 4.5,
+        "address": "3643+JH, Lô D9B, Khu 3, Cam Lâm, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.0548035,
+        "longitude": 109.2005858
+    },
+    {
+        "category": "resorts",
+        "title": "Amiana Resort Cam Ranh",
+        "rating": 4.3,
+        "address": "Lô D2C - Khu 1 - Khu Du Lịch Bắc Bán Đảo Cam Ranh, Cam Lâm, Khánh Hòa 57600, Vietnam",
+        "latitude": 12.105035599999999,
+        "longitude": 109.19122949999999
+    },
+    {
+        "category": "resorts",
+        "title": "Vinpearl Resort & Spa Nha Trang Bay",
+        "rating": 4.9,
+        "address": "Đảo Hòn Tre, Vĩnh Nguyên, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2257024,
+        "longitude": 109.23714269999999
+    },
+    {
+        "category": "resorts",
+        "title": "An Lam Retreats Ninh Van Bay",
+        "rating": 4.5,
+        "address": "Hon Heo Peninsula, Tan Thanh Commune, Ward, Ninh ích, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.3902132,
+        "longitude": 109.25107519999999
+    },
+    {
+        "category": "resorts",
+        "title": "GM Doc Let Beach Resort & Spa",
+        "rating": 3.8,
+        "address": "277 Lê Hồng Phong, Ninh Thuỷ, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.5139778,
+        "longitude": 109.2360831
+    },
+    {
+        "category": "resorts",
+        "title": "Pax Ana Doc Let Resort & Spa",
+        "rating": 4.7,
+        "address": "G6XH+9XH, Ninh Hải, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.548483599999999,
+        "longitude": 109.22902429999999
+    },
+    {
+        "category": "resorts",
+        "title": "Cam Ranh Riviera Beach Resort & Spa",
+        "rating": 4.6,
+        "address": "Lot D4b, Northern Peninsula, Cam Hải Đông, Cam Lâm, Khánh Hòa 57800, Vietnam",
+        "latitude": 12.0960518,
+        "longitude": 109.19143109999999
+    },
+    {
+        "category": "resorts",
+        "title": "Boma Resort Nha Trang",
+        "rating": 4.6,
+        "address": "Phạm Văn Đồng, Vĩnh Hải, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.294587199999999,
+        "longitude": 109.227536
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Zone - Hòn Bà Valley",
+        "rating": 4.8,
+        "address": "Hòn Bà (Gần Hạt Kiểm Lâm Hòn Bà), Thôn Suối Lau 2, KM12 Đường lên, Suối Cát, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.1296254,
+        "longitude": 109.03226889999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Mây Camping Nha Trang",
+        "rating": 4.6,
+        "address": "ĐT675L, Phước Trung, Nha Trang, Khánh Hòa 100000, Vietnam",
+        "latitude": 12.157502899999999,
+        "longitude": 109.2114651
+    },
+    {
+        "category": "camping sites",
+        "title": "Bãi Dài Camping",
+        "rating": 4.7,
+        "address": "đại lộ, Nguyễn Tất Thành, Cam Hải Đông, Cam Ranh, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.119076999999999,
+        "longitude": 109.19721109999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Ninh Vân Camping",
+        "rating": 4.8,
+        "address": "Unnamed, Road, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.378041999999999,
+        "longitude": 109.30201
+    },
+    {
+        "category": "camping sites",
+        "title": "Angel Mountain - Peak One",
+        "rating": 4.7,
+        "address": "76W2+RJW, Vĩnh Hải, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.297124,
+        "longitude": 109.2015806
+    },
+    {
+        "category": "camping sites",
+        "title": "Lộc Rừng Hill",
+        "rating": 5,
+        "address": "ĐH62, Diên Tân, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2383618,
+        "longitude": 109.00081829999999
+    },
+    {
+        "category": "camping sites",
+        "title": "HD campsite Nha Trang",
+        "rating": 5,
+        "address": "7RC7+M6M, Trà Liên, Khánh Vĩnh, Khánh Hòa, Vietnam",
+        "latitude": 12.271798599999999,
+        "longitude": 108.8127602
+    },
+    {
+        "category": "camping sites",
+        "title": "Kong Forest Nha Trang - ATV, Zipline, Camping",
+        "rating": 4.5,
+        "address": "Km19 Hòn Bà Mountain, Suối Cát, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.1129082,
+        "longitude": 108.9979674
+    },
+    {
+        "category": "camping sites",
+        "title": "Chạm Camping",
+        "rating": 4.8,
+        "address": "Thôn gia rú, Khánh Vĩnh, Khánh Hòa, Vietnam",
+        "latitude": 12.2695555,
+        "longitude": 108.91609749999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Am Chua Lake View Camping",
+        "rating": 5,
+        "address": "Bờ Kè Am Chúa, Diên Điền, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.316955199999999,
+        "longitude": 109.09060009999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Camping Nha Trang",
+        "rating": 4,
+        "address": "754R+F9V, Chưa có, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.256246599999999,
+        "longitude": 109.1909192
+    },
+    {
+        "category": "camping sites",
+        "title": "O RISE Camping & Homestay",
+        "rating": 5,
+        "address": "44MR+J52, Cam Hoà, Cam Lâm, Khánh Hòa 57600, Vietnam",
+        "latitude": 12.134063,
+        "longitude": 109.14043799999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Suối Mơ Dốc Tình Glamping & Retreat Ninh Thượng Ninh Hoà Khánh Hoà",
+        "rating": 4.6,
+        "address": "Thôn 3, Ninh Hòa, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.5997284,
+        "longitude": 109.0425889
+    },
+    {
+        "category": "camping sites",
+        "title": "Zcamp Nha Trang",
+        "rating": 4.2,
+        "address": "hồ Kênh, Hạ 1, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.1867858,
+        "longitude": 109.15370419999999
+    },
+    {
+        "category": "camping sites",
+        "title": "The Sunset Glamping - Bình Lập",
+        "rating": 4.7,
+        "address": "Bình Lập, Cam Ranh, Khánh Hòa, Vietnam",
+        "latitude": 11.8460611,
+        "longitude": 109.16049509999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Hoàng Ngưu Sơn",
+        "rating": 4.8,
+        "address": "Cam Hoà, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.1556751,
+        "longitude": 109.1599839
+    },
+    {
+        "category": "camping sites",
+        "title": "Dưới tán cây sung",
+        "rating": 5,
+        "address": "7V83+82, Cầu Bà, Khánh Vĩnh, Khánh Hòa, Vietnam",
+        "latitude": 12.2658382,
+        "longitude": 108.8525391
+    },
+    {
+        "category": "camping sites",
+        "title": "Omely hill",
+        "rating": 5,
+        "address": "và, Diên Hoà, QL27C, Gần ngã 4, Diên Khánh, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2478423,
+        "longitude": 109.04214569999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Hi Camping Dốc Lết",
+        "rating": 4.8,
+        "address": "Mặt biển Dốc Lết, Làng Chài, Đường Bờ Kè, TDP 1 Đông Hải, Ninh Hòa, Dông Hai, Nha Trang, Khánh Hòa 58000, Vietnam",
+        "latitude": 12.5737475,
+        "longitude": 109.23633509999999
+    },
+    {
+        "category": "camping sites",
+        "title": "Papa Camping",
+        "rating": null,
+        "address": "QL27C, Cầu Bà, Khánh Vĩnh, Khánh Hòa, Vietnam",
+        "latitude": 12.2644977,
+        "longitude": 108.85154449999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Hoàng Ngưu Sơn",
+        "rating": 4.8,
+        "address": "Cam Hoà, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.1556751,
+        "longitude": 109.1599839
+    },
+    {
+        "category": "hiking trails",
+        "title": "Suối Đổ Nha Trang",
+        "rating": 4.2,
+        "address": "64C2+V5P, Unnamed Road, Diên Toàn, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2222008,
+        "longitude": 109.1004402
+    },
+    {
+        "category": "hiking trails",
+        "title": "Пятничная беседка",
+        "rating": 4.9,
+        "address": "54 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.237242,
+        "longitude": 109.19735899999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Natural Swimming pool",
+        "rating": 4.9,
+        "address": "94JJ+7Q2, Ninh ích, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.3806487,
+        "longitude": 109.1318878
+    },
+    {
+        "category": "hiking trails",
+        "title": "Hon Ba Nature Reserve",
+        "rating": 4.4,
+        "address": "Khánh Sơn, Khánh Hòa, Vietnam",
+        "latitude": 12.1090137,
+        "longitude": 108.9739958
+    },
+    {
+        "category": "hiking trails",
+        "title": "Angel Mountain - Peak One",
+        "rating": 4.7,
+        "address": "76W2+RJW, Vĩnh Hải, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.297124,
+        "longitude": 109.2015806
+    },
+    {
+        "category": "hiking trails",
+        "title": "Thác Bình An Waterfall",
+        "rating": 4.5,
+        "address": "6483+V9G, Diên Toàn, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2171834,
+        "longitude": 109.1034564
+    },
+    {
+        "category": "hiking trails",
+        "title": "Гора ангела (Ангельские горы)",
+        "rating": 4.8,
+        "address": "76W2+VM2, Vĩnh Hải, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.296953,
+        "longitude": 109.2017412
+    },
+    {
+        "category": "hiking trails",
+        "title": "Chóp Tây Lầu",
+        "rating": 5,
+        "address": "93MH+548, Ninh Lộc, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.382919699999999,
+        "longitude": 109.0778137
+    },
+    {
+        "category": "hiking trails",
+        "title": "mountain of angels",
+        "rating": 4.8,
+        "address": "75XX+HM, Vĩnh Hải, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2989001,
+        "longitude": 109.1992106
+    },
+    {
+        "category": "hiking trails",
+        "title": "Trần Phú Bridge",
+        "rating": 4.6,
+        "address": "756X+QMG, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2619378,
+        "longitude": 109.1992045
+    },
+    {
+        "category": "hiking trails",
+        "title": "Kong Forest Nha Trang - ATV, Zipline, Camping",
+        "rating": 4.5,
+        "address": "Km19 Hòn Bà Mountain, Suối Cát, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.1129082,
+        "longitude": 108.9979674
+    },
+    {
+        "category": "hiking trails",
+        "title": "Angel/Fairy Mountain (Núi Cô Tiên)",
+        "rating": 4.8,
+        "address": "76W2+QMH, Vĩnh Hải, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.296949399999999,
+        "longitude": 109.2017442
+    },
+    {
+        "category": "hiking trails",
+        "title": "Cô Tiên Mountain",
+        "rating": 4.8,
+        "address": "75XW+P79, Vĩnh Hải, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2992975,
+        "longitude": 109.19573609999999
+    },
+    {
+        "category": "hiking trails",
+        "title": "Tue Tinh Park",
+        "rating": 4.6,
+        "address": "78 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.232048299999999,
+        "longitude": 109.1984619
+    },
+    {
+        "category": "hiking trails",
+        "title": "Monkey Island tourist resort",
+        "rating": 4.2,
+        "address": "Lương Sơn, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.359675,
+        "longitude": 109.21291
+    },
+    {
+        "category": "hiking trails",
+        "title": "Hon Chong",
+        "rating": 4.3,
+        "address": "Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.27292,
+        "longitude": 109.2064934
+    },
+    {
+        "category": "hiking trails",
+        "title": "Đèo Lương Sơn",
+        "rating": 4.7,
+        "address": "865M+FCJ, Phạm Văn Đồng, Vĩnh Lương, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.3087182,
+        "longitude": 109.2335133
+    },
+    {
+        "category": "hiking trails",
+        "title": "Angel Mountain - Peak Three",
+        "rating": 5,
+        "address": "75XW+P79, Vĩnh Hải, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2995661,
+        "longitude": 109.1959114
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Eco-Tourism Resort",
+        "rating": 4.2,
+        "address": "Xuân Đồng, Diên Khánh, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.3311929,
+        "longitude": 108.97306569999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Hon Mun Marine Protected Area",
+        "rating": 4.4,
+        "address": "735 Nguyễn Tất Thành, Phước Đồng, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.169998099999999,
+        "longitude": 109.3002051
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Hon Ba Nature Reserve",
+        "rating": 4.4,
+        "address": "Khánh Sơn, Khánh Hòa, Vietnam",
+        "latitude": 12.1090137,
+        "longitude": 108.9739958
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Monkey Island tourist resort",
+        "rating": 4.2,
+        "address": "Lương Sơn, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.359675,
+        "longitude": 109.21291
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Doc Let Beach",
+        "rating": 4.3,
+        "address": "G6VH+CXJ, Bãi Biển Dốc Lết, TDP Bá Hà, Ninh Thuỷ, Khánh Hòa, Vietnam",
+        "latitude": 12.543580799999999,
+        "longitude": 109.2299034
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Khu du lịch Ba Hồ",
+        "rating": 4.5,
+        "address": "Thôn Vạn Thuận, Ninh Hòa, Khánh Hòa 57000, Vietnam",
+        "latitude": 12.3898019,
+        "longitude": 109.1378798
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Sản Việt Farm",
+        "rating": 4.8,
+        "address": "thôn Suối Sâu, Khánh Vĩnh, Khánh Hòa, Vietnam",
+        "latitude": 12.4623622,
+        "longitude": 108.98724279999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Po Nagar Temple",
+        "rating": 4.5,
+        "address": "61 Hai Tháng Tư, Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.265366499999999,
+        "longitude": 109.1953678
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Khanh Son Eco",
+        "rating": 4.3,
+        "address": "2WQC+8J5, Sơn Trung, Khánh Sơn, Khánh Hòa 654230, Vietnam",
+        "latitude": 12.029937499999999,
+        "longitude": 108.9628125
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Dai Lanh Beach",
+        "rating": 4,
+        "address": "QL1A, Đại Lãnh, Vạn Ninh, Khánh Hòa, Vietnam",
+        "latitude": 12.825904,
+        "longitude": 109.3574069
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Long Son Pagoda",
+        "rating": 4.3,
+        "address": "22 Đ. 23 Tháng 10, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2501803,
+        "longitude": 109.1801753
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "KDL Galina Lake View",
+        "rating": 4.1,
+        "address": "Phước Trung, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.1881986,
+        "longitude": 109.1566435
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Bai Tranh Beach",
+        "rating": 4.1,
+        "address": "Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.187827299999999,
+        "longitude": 109.22647909999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Khu Du Lịch Sinh Thái Hoa Thành",
+        "rating": 3.8,
+        "address": "53FP+7WP, Suối Tân, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.1732198,
+        "longitude": 109.08734199999999
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Công Viên Du Lịch Yang Bay",
+        "rating": 4.2,
+        "address": "Ngã Hai/Thôn Commune, Khánh Phú, Khánh Vĩnh, Khánh Hòa 65000, Vietnam",
+        "latitude": 12.1940046,
+        "longitude": 108.9169275
+    },
+    {
+        "category": "ecotourism areas",
+        "title": "Ecotourism destinations",
+        "rating": null,
+        "address": "67/1 Hùng Vương, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.234210599999999,
+        "longitude": 109.1956379
+    },
+    {
+        "category": "temples",
+        "title": "Tong Lam Son Temple Lot",
+        "rating": 4.7,
+        "address": "Vĩnh Phương, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.282815999999999,
+        "longitude": 109.13375289999999
+    },
+    {
+        "category": "temples",
+        "title": "Long Son Pagoda",
+        "rating": 4.3,
+        "address": "22 Đ. 23 Tháng 10, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2501803,
+        "longitude": 109.1801753
+    },
+    {
+        "category": "temples",
+        "title": "Suoi Do Pagoda",
+        "rating": 4.6,
+        "address": "Suối Hiệp, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.221511099999999,
+        "longitude": 109.10082059999999
+    },
+    {
+        "category": "temples",
+        "title": "Po Nagar Temple",
+        "rating": 4.5,
+        "address": "61 Hai Tháng Tư, Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.265366499999999,
+        "longitude": 109.1953678
+    },
+    {
+        "category": "temples",
+        "title": "Tu Van Pagoda",
+        "rating": 4.4,
+        "address": "388 3 tháng 4, Cam Linh, Cam Ranh, Khánh Hòa, Vietnam",
+        "latitude": 11.909267,
+        "longitude": 109.1490573
+    },
+    {
+        "category": "temples",
+        "title": "Trúc Lâm Phụng Thuỳ Sơn, Nha Trang",
+        "rating": 4.6,
+        "address": "64GH+WXQ, Vĩnh Trung, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2273286,
+        "longitude": 109.1299901
+    },
+    {
+        "category": "temples",
+        "title": "Quan Am Temple Khanh Le Pass",
+        "rating": 4.9,
+        "address": "6QGM+C8, Sơn Thái, Khánh Vĩnh, Khánh Hòa, Vietnam",
+        "latitude": 12.2260809,
+        "longitude": 108.78332069999999
+    },
+    {
+        "category": "temples",
+        "title": "Phật thích ca",
+        "rating": 4.5,
+        "address": "752J+R9M, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2520948,
+        "longitude": 109.1809306
+    },
+    {
+        "category": "temples",
+        "title": "Золотая Пагода",
+        "rating": 4.4,
+        "address": "64GJ+R56, Vĩnh Trung, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2270439,
+        "longitude": 109.1303827
+    },
+    {
+        "category": "temples",
+        "title": "Temple Suoi Ngo",
+        "rating": 4.6,
+        "address": "842H+P8G, Vĩnh Phương, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.301822099999999,
+        "longitude": 109.1283277
+    },
+    {
+        "category": "temples",
+        "title": "Nghia Son Pagoda",
+        "rating": 4.7,
+        "address": "54VG+WRR, thôn Phước Sơn, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.1948738,
+        "longitude": 109.1270172
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Linh Sơn Pháp Ấn",
+        "rating": 4.7,
+        "address": "53RC+3JH, Đường Không Tên, Suối Cát, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.1901774,
+        "longitude": 109.0716023
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Từ Tôn",
+        "rating": 4.6,
+        "address": "7685+M7G, Vĩnh Thọ, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2666886,
+        "longitude": 109.2081884
+    },
+    {
+        "category": "temples",
+        "title": "Thanh Son Monastery",
+        "rating": 4.3,
+        "address": "8259+FF8, Diên Lâm, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.3086592,
+        "longitude": 109.01870339999999
+    },
+    {
+        "category": "temples",
+        "title": "Loc Tho pagoda",
+        "rating": 4.6,
+        "address": "7569+GVP, Đ. Xóm Chiếu, Vĩnh Ngọc, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2613466,
+        "longitude": 109.1697021
+    },
+    {
+        "category": "temples",
+        "title": "Hue Quang Pagoda",
+        "rating": 4.7,
+        "address": "7492+F8P, Đồng Khởi, Diên Sơn, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2687072,
+        "longitude": 109.1008332
+    },
+    {
+        "category": "temples",
+        "title": "Ancestral temple Nghia Phuong",
+        "rating": 4.4,
+        "address": "2 Lý Thánh Tôn, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2511681,
+        "longitude": 109.19127499999999
+    },
+    {
+        "category": "temples",
+        "title": "Chùa Đạo Nhẫn",
+        "rating": 4.8,
+        "address": "74WV+47M, 455/6 đường kháng chiến, thôn như xuân, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2953887,
+        "longitude": 109.1432291
+    },
+    {
+        "category": "temples",
+        "title": "Hai An Tu Temple",
+        "rating": 4.3,
+        "address": "759R+86G, Ngô Đến, Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2683179,
+        "longitude": 109.19058299999999
+    },
+    {
+        "category": "temples",
+        "title": "THIỀN ĐƯỜNG VĨNH QUANG",
+        "rating": 4.8,
+        "address": "Unnamed, Road, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.246707599999999,
+        "longitude": 109.1550772
+    },
+    {
+        "category": "museums",
+        "title": "Museum of Oceanography",
+        "rating": 4.2,
+        "address": "1 Cầu Đá - Hòn Một, Cầu Đá, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2070519,
+        "longitude": 109.2148629
+    },
+    {
+        "category": "museums",
+        "title": "Khanh Hoa Museum",
+        "rating": 3.9,
+        "address": "16 Trần Phú, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2497043,
+        "longitude": 109.1962195
+    },
+    {
+        "category": "museums",
+        "title": "Làng nghề Trường Sơn - Trường Sơn Craft Village",
+        "rating": 4.7,
+        "address": "08 Trường Sơn, Vĩnh Nguyên, Nha Trang, Khánh Hòa 57129, Vietnam",
+        "latitude": 12.213557,
+        "longitude": 109.1999237
+    },
+    {
+        "category": "museums",
+        "title": "Yersin museum",
+        "rating": 4.4,
+        "address": "10 Trần Phú, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2509604,
+        "longitude": 109.195996
+    },
+    {
+        "category": "museums",
+        "title": "Bảo Tàng Hải Dương Học, Cơ sở Hòn Chồng",
+        "rating": 4.8,
+        "address": "Đồi, Hòn Chồng, Nha Trang, Khánh Hòa 57109, Vietnam",
+        "latitude": 12.271265999999999,
+        "longitude": 109.2051889
+    },
+    {
+        "category": "museums",
+        "title": "Institute of Oceanography",
+        "rating": 4.5,
+        "address": "Số 1, Cầu Đá, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.207668799999999,
+        "longitude": 109.2144946
+    },
+    {
+        "category": "museums",
+        "title": "Khu Bảo tồn văn hoá trầm hương Hoàng Trầm",
+        "rating": 4.3,
+        "address": "Diên Thọ, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2816799,
+        "longitude": 109.00672449999999
+    },
+    {
+        "category": "museums",
+        "title": "Nhà trưng bày Bổ sung di tích Tàu không số - Vũng Rô",
+        "rating": 4.5,
+        "address": "VCG9+RWM, QL29, Hoà Xuân Nam, Đông Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.8770773,
+        "longitude": 109.4197872
+    },
+    {
+        "category": "museums",
+        "title": "Pagoda Phuoc Loi",
+        "rating": 4.9,
+        "address": "20 Đ. 23 Tháng 10, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.250192499999999,
+        "longitude": 109.18015969999999
+    },
+    {
+        "category": "museums",
+        "title": "Khu di tích lịch sử Quốc Gia Tàu Không Số",
+        "rating": 4.3,
+        "address": "98P5+R3F, Ninh Phước, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.3870507,
+        "longitude": 109.30767
+    },
+    {
+        "category": "museums",
+        "title": "Cửa Đông - Thành Diên Khánh",
+        "rating": 4.6,
+        "address": "734W+CPP, Lý Tự Trọng, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2560877,
+        "longitude": 109.0968224
+    },
+    {
+        "category": "museums",
+        "title": "Núi Mẹ Không Đầu",
+        "rating": 4.6,
+        "address": "C34R+5M7, Ninh Lộc, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.405419799999999,
+        "longitude": 109.0916567
+    },
+    {
+        "category": "museums",
+        "title": "Studio & Gallery Long Thanh Art",
+        "rating": 4.6,
+        "address": "126 Hoàng Văn Thụ, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.250620699999999,
+        "longitude": 109.1872844
+    },
+    {
+        "category": "museums",
+        "title": "туристический парк Khu du lịch Tàu Ngầm Nha Trang",
+        "rating": 3.5,
+        "address": "54MF+QVV, Unnamed Road, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.1844934,
+        "longitude": 109.1246748
+    },
+    {
+        "category": "museums",
+        "title": "Khu trưng bày Viện Hải dương học Nha Trang",
+        "rating": 4,
+        "address": "76C4+G37, Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.271287899999999,
+        "longitude": 109.20518659999999
+    },
+    {
+        "category": "museums",
+        "title": "Khanh Hoa Museum Tram Huong",
+        "rating": 4,
+        "address": "55FH+87F, Phước Đồng, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.1733202,
+        "longitude": 109.17816429999999
+    },
+    {
+        "category": "museums",
+        "title": "Po Nagar Temple",
+        "rating": 4.5,
+        "address": "61 Hai Tháng Tư, Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.265366499999999,
+        "longitude": 109.1953678
+    },
+    {
+        "category": "museums",
+        "title": "La Villa Art Gallery",
+        "rating": 4.8,
+        "address": "176/3 Hùng Vương, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.23424,
+        "longitude": 109.1957278
+    },
+    {
+        "category": "museums",
+        "title": "Cam Lam District Children's House",
+        "rating": 4.2,
+        "address": "3577+9RM, Cam Hải Tây, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.063469399999999,
+        "longitude": 109.1645564
+    },
+    {
+        "category": "museums",
+        "title": "Tượng đài tưởng niệm Gạc Ma",
+        "rating": 4.9,
+        "address": "35PR+3QQ, Cam Hải Đông, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.0852113,
+        "longitude": 109.1919784
+    },
+    {
+        "category": "night markets",
+        "title": "Night Market Nha Trang",
+        "rating": 3.8,
+        "address": "Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2397172,
+        "longitude": 109.19644219999999
+    },
+    {
+        "category": "night markets",
+        "title": "Dam Market",
+        "rating": 3.9,
+        "address": "Đường Đ. Phan Bội Châu, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2549514,
+        "longitude": 109.1918164
+    },
+    {
+        "category": "night markets",
+        "title": "Ab center night market(나트랑 먹거리 야시장)",
+        "rating": 5,
+        "address": "44 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 65000, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.240990499999999,
+        "longitude": 109.19616239999999
+    },
+    {
+        "category": "night markets",
+        "title": "Chợ Đêm Yến Sào",
+        "rating": 4.6,
+        "address": "46 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2396271,
+        "longitude": 109.1959715
+    },
+    {
+        "category": "night markets",
+        "title": "Trung Tâm Mua Sắm Ẩm Thực Nha Trang",
+        "rating": 4.7,
+        "address": "65HX+FGF, Hẻm 96 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2286855,
+        "longitude": 109.19879549999999
+    },
+    {
+        "category": "night markets",
+        "title": "Xom Moi Market",
+        "rating": 4,
+        "address": "49 Ngô Gia Tự, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.242762299999999,
+        "longitude": 109.19043029999999
+    },
+    {
+        "category": "night markets",
+        "title": "Chợ Đêm",
+        "rating": 4.6,
+        "address": "667R+99W, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2136955,
+        "longitude": 109.2404385
+    },
+    {
+        "category": "night markets",
+        "title": "Vinh Hai Market",
+        "rating": 4.1,
+        "address": "Hai Tháng Tư, Vĩnh Hải, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2790521,
+        "longitude": 109.1945746
+    },
+    {
+        "category": "night markets",
+        "title": "QUAN 3G night market",
+        "rating": 4.3,
+        "address": "48 Hùng Vương, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2394775,
+        "longitude": 109.194851
+    },
+    {
+        "category": "night markets",
+        "title": "Chợ đêm Cam Lâm - Cam Ranh야시장",
+        "rating": 4,
+        "address": "355W+595, Đường K9, Cam Hải Đông, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.0579375,
+        "longitude": 109.1959375
+    },
+    {
+        "category": "night markets",
+        "title": "Ninh Hoa Market (New)",
+        "rating": 4.2,
+        "address": "TT. Ninh Hòa, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.4932742,
+        "longitude": 109.12710949999999
+    },
+    {
+        "category": "night markets",
+        "title": "Chợ Xóm Mới",
+        "rating": 4.1,
+        "address": "47a Ngô Gia Tự, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.242777799999999,
+        "longitude": 109.1904167
+    },
+    {
+        "category": "night markets",
+        "title": "Anh bốn khói lửa",
+        "rating": 5,
+        "address": "432 3 tháng 4, Cam Linh, Cam Ranh, Khánh Hòa, Vietnam",
+        "latitude": 11.907293399999999,
+        "longitude": 109.14655239999999
+    },
+    {
+        "category": "night markets",
+        "title": "Streetfoodnightmarket",
+        "rating": 3.6,
+        "address": "Vietnam, Khánh Hòa, Thành phố, Lộc Thọ, Trần Phú",
+        "latitude": 12.2281599,
+        "longitude": 109.1967054
+    },
+    {
+        "category": "night markets",
+        "title": "Chợ Đêm Nha Trang",
+        "rating": 3.7,
+        "address": "7682+67Q, Công viên Cầu Trần Phú, Phạm Văn Đồng, Vĩnh Thọ, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2651261,
+        "longitude": 109.20095119999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Nha Trang city view point",
+        "rating": 3.7,
+        "address": "843H+7R, Vĩnh Phương, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.3031325,
+        "longitude": 109.12952879999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Thác Bình An Waterfall",
+        "rating": 4.5,
+        "address": "6483+V9G, Diên Toàn, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2171834,
+        "longitude": 109.1034564
+    },
+    {
+        "category": "viewpoints",
+        "title": "Điểm ngắm biển",
+        "rating": 4.7,
+        "address": "46WF+V2, Phước Đồng, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.1473181,
+        "longitude": 109.22182529999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Đèo Lương Sơn",
+        "rating": 4.7,
+        "address": "865M+FCJ, Phạm Văn Đồng, Vĩnh Lương, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.3087182,
+        "longitude": 109.2335133
+    },
+    {
+        "category": "viewpoints",
+        "title": "Po Nagar Temple",
+        "rating": 4.5,
+        "address": "61 Hai Tháng Tư, Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.265366499999999,
+        "longitude": 109.1953678
+    },
+    {
+        "category": "viewpoints",
+        "title": "Khanh Le Pass Waterfall",
+        "rating": 4.7,
+        "address": "5PR9+FWQ, Sơn Thái, Khánh Vĩnh, Khánh Hòa, Vietnam",
+        "latitude": 12.1912231,
+        "longitude": 108.7198452
+    },
+    {
+        "category": "viewpoints",
+        "title": "Suối Đổ Nha Trang",
+        "rating": 4.2,
+        "address": "64C2+V5P, Unnamed Road, Diên Toàn, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2222008,
+        "longitude": 109.1004402
+    },
+    {
+        "category": "viewpoints",
+        "title": "Hon Chong",
+        "rating": 4.3,
+        "address": "Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.27292,
+        "longitude": 109.2064934
+    },
+    {
+        "category": "viewpoints",
+        "title": "Trần Phú Bridge",
+        "rating": 4.6,
+        "address": "756X+QMG, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2619378,
+        "longitude": 109.1992045
+    },
+    {
+        "category": "viewpoints",
+        "title": "Double Rocks",
+        "rating": 5,
+        "address": "7688+9XC, Phạm Văn Đồng, Vĩnh Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2659491,
+        "longitude": 109.2173962
+    },
+    {
+        "category": "viewpoints",
+        "title": "Bach Dang Park",
+        "rating": 4.3,
+        "address": "Trần Phú, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2175666,
+        "longitude": 109.2071443
+    },
+    {
+        "category": "viewpoints",
+        "title": "Hon Ba Nature Reserve",
+        "rating": 4.4,
+        "address": "Khánh Sơn, Khánh Hòa, Vietnam",
+        "latitude": 12.1090137,
+        "longitude": 108.9739958
+    },
+    {
+        "category": "viewpoints",
+        "title": "Hon Mun Marine Protected Area",
+        "rating": 4.4,
+        "address": "735 Nguyễn Tất Thành, Phước Đồng, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.169998099999999,
+        "longitude": 109.3002051
+    },
+    {
+        "category": "viewpoints",
+        "title": "Angel Mountain - Peak One",
+        "rating": 4.7,
+        "address": "76W2+RJW, Vĩnh Hải, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.297124,
+        "longitude": 109.2015806
+    },
+    {
+        "category": "viewpoints",
+        "title": "Tram Huong Tower",
+        "rating": 4.4,
+        "address": "Trần Phú Quảng trường, Hai tháng Tư, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.240404,
+        "longitude": 109.1969225
+    },
+    {
+        "category": "viewpoints",
+        "title": "Monkey Island tourist resort",
+        "rating": 4.2,
+        "address": "Lương Sơn, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.359675,
+        "longitude": 109.21291
+    },
+    {
+        "category": "viewpoints",
+        "title": "Freedive & Scubadiving Viet Nam",
+        "rating": 4.9,
+        "address": "76R9+QJ, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.291896399999999,
+        "longitude": 109.2190167
+    },
+    {
+        "category": "viewpoints",
+        "title": "Robinson Beach Nha Trang",
+        "rating": 4.3,
+        "address": "Đảo Hòn Tre, Vĩnh Nguyên, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.19221,
+        "longitude": 109.31659599999999
+    },
+    {
+        "category": "viewpoints",
+        "title": "Гора ангела (Ангельские горы)",
+        "rating": 4.8,
+        "address": "76W2+VM2, Vĩnh Hải, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.296953,
+        "longitude": 109.2017412
+    },
+    {
+        "category": "viewpoints",
+        "title": "Hon Giao Stone Stream",
+        "rating": 4.2,
+        "address": "Đường Hoa và Biển, Sơn Thái, Khánh Vĩnh, Khánh Hòa 640000, Vietnam",
+        "latitude": 12.2548652,
+        "longitude": 108.81546829999999
+    },
+    {
+        "category": "gardens",
+        "title": "Koi Garden Cafe",
+        "rating": 4.7,
+        "address": "Nguyễn Tất Thành, Phước Hạ, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.1788568,
+        "longitude": 109.1741959
+    },
+    {
+        "category": "gardens",
+        "title": "Hân Uyên Gardens Nha Trang",
+        "rating": 4.5,
+        "address": "Đội 3 Thôn An Định, Diên Khánh, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2527156,
+        "longitude": 109.0414071
+    },
+    {
+        "category": "gardens",
+        "title": "M Valley Organic Garden",
+        "rating": 5,
+        "address": "Hon Tre Island, Nha Trang, Khánh Hòa 571000, Vietnam",
+        "latitude": 12.2238062,
+        "longitude": 109.2521158
+    },
+    {
+        "category": "gardens",
+        "title": "Huỳnh Gia Garden",
+        "rating": 5,
+        "address": "72P3+P8, Xuân Đồng, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2867813,
+        "longitude": 109.0032574
+    },
+    {
+        "category": "gardens",
+        "title": "Vinpearl Zoo",
+        "rating": 4.6,
+        "address": "Hòn Tre, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2188228,
+        "longitude": 109.2436807
+    },
+    {
+        "category": "gardens",
+        "title": "Góc Tường Garden",
+        "rating": 4.8,
+        "address": "Đường Phong Châu/Đ. Số 5/37/25 Đất Lành, Vĩnh Thái, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2307262,
+        "longitude": 109.1519526
+    },
+    {
+        "category": "gardens",
+        "title": "Chili Coconut Garden - L'Coconut Garden",
+        "rating": 4.8,
+        "address": "QL27C, Diên Thọ, Diên Khánh, Khánh Hòa 65000, Vietnam",
+        "latitude": 12.2714315,
+        "longitude": 108.97400429999999
+    },
+    {
+        "category": "gardens",
+        "title": "Nha Trang Rose Garden",
+        "rating": 4.3,
+        "address": "177 Xuân Phú, Vĩnh Phương, Nha Trang, Khánh Hòa 57000, Vietnam",
+        "latitude": 12.2743355,
+        "longitude": 109.1511608
+    },
+    {
+        "category": "gardens",
+        "title": "SuBen Garden",
+        "rating": 5,
+        "address": "Chu Văn An, Diên Khánh, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2555604,
+        "longitude": 109.10265539999999
+    },
+    {
+        "category": "gardens",
+        "title": "Linh Orchids garden",
+        "rating": 5,
+        "address": "743V+3V2, Vĩnh Hiệp, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.252644799999999,
+        "longitude": 109.14463099999999
+    },
+    {
+        "category": "gardens",
+        "title": "Xoài’s Garden",
+        "rating": null,
+        "address": "Xóm Bàu/2 Phước Tuy 2, Diên Phước, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.269708399999999,
+        "longitude": 109.0451763
+    },
+    {
+        "category": "gardens",
+        "title": "La Rice",
+        "rating": 5,
+        "address": "1 HL39, Suối Tiên, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.194899,
+        "longitude": 109.0561891
+    },
+    {
+        "category": "gardens",
+        "title": "QUOCCAN GARDEN",
+        "rating": 5,
+        "address": "7452+7P3, Phan Bội Châu, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.258137,
+        "longitude": 109.101801
+    },
+    {
+        "category": "gardens",
+        "title": "Su Shi Garden",
+        "rating": 5,
+        "address": "Đ. Số 12, Diên An, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.260053899999999,
+        "longitude": 109.1130159
+    },
+    {
+        "category": "gardens",
+        "title": "Làng nghề Trường Sơn - Trường Sơn Craft Village",
+        "rating": 4.7,
+        "address": "08 Trường Sơn, Vĩnh Nguyên, Nha Trang, Khánh Hòa 57129, Vietnam",
+        "latitude": 12.213557,
+        "longitude": 109.1999237
+    },
+    {
+        "category": "gardens",
+        "title": "Organic Garden",
+        "rating": 3.5,
+        "address": "976H+24G, Ninh Phước, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.3600701,
+        "longitude": 109.27782239999999
+    },
+    {
+        "category": "gardens",
+        "title": "Mai Đình Garden",
+        "rating": 5,
+        "address": "Đường Lê Lai, Cam Hải Tây, Cam Lâm, Khánh Hòa 70000, Vietnam",
+        "latitude": 12.0680781,
+        "longitude": 109.1699149
+    },
+    {
+        "category": "gardens",
+        "title": "Đồi Vạn Hoa",
+        "rating": 4.9,
+        "address": "Vĩnh Nguyên, Hòn Tre, Khánh Hòa, Vietnam",
+        "latitude": 12.2213963,
+        "longitude": 109.2436228
+    },
+    {
+        "category": "gardens",
+        "title": "Công viên Yến Phi",
+        "rating": 4.6,
+        "address": "753W+P74, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2542625,
+        "longitude": 109.19570309999999
+    },
+    {
+        "category": "gardens",
+        "title": "Nga Nghi Garden",
+        "rating": 5,
+        "address": "7336+27, Diên Hoà, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2525348,
+        "longitude": 109.0606808
+    },
+    {
+        "category": "zoo",
+        "title": "Vinpearl Zoo",
+        "rating": 4.6,
+        "address": "Hòn Tre, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2188228,
+        "longitude": 109.2436807
+    },
+    {
+        "category": "zoo",
+        "title": "ZooDoo Zoo",
+        "rating": 4.5,
+        "address": "QL27C, Xã Đạ Nhim, Lạc Dương, Lâm Đồng, Vietnam",
+        "latitude": 12.112005199999999,
+        "longitude": 108.5861358
+    },
+    {
+        "category": "zoo",
+        "title": "Eco-Tourism Resort",
+        "rating": 4.2,
+        "address": "Xuân Đồng, Diên Khánh, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.3311929,
+        "longitude": 108.97306569999999
+    },
+    {
+        "category": "zoo",
+        "title": "Hồ Thiên Nga",
+        "rating": 4.4,
+        "address": "669V+QG5, VinWonders Nha Trang, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2193949,
+        "longitude": 109.24385559999999
+    },
+    {
+        "category": "zoo",
+        "title": "Koi Garden Cafe",
+        "rating": 4.7,
+        "address": "Nguyễn Tất Thành, Phước Hạ, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.1788568,
+        "longitude": 109.1741959
+    },
+    {
+        "category": "zoo",
+        "title": "Hươu cao cổ - Giraffe",
+        "rating": 4.4,
+        "address": "669V+VP4, Hòn Tre, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.219639899999999,
+        "longitude": 109.24431849999999
+    },
+    {
+        "category": "zoo",
+        "title": "Hon Ba Nature Reserve",
+        "rating": 4.4,
+        "address": "Khánh Sơn, Khánh Hòa, Vietnam",
+        "latitude": 12.1090137,
+        "longitude": 108.9739958
+    },
+    {
+        "category": "zoo",
+        "title": "TTC RESORT Doc Let",
+        "rating": 4.3,
+        "address": "Đông Cát, Ninh Hòa, Khánh Hòa 57300, Vietnam",
+        "latitude": 12.551581899999999,
+        "longitude": 109.22985129999999
+    },
+    {
+        "category": "zoo",
+        "title": "Thủy cung Vinpearl Nha Trang",
+        "rating": 4.4,
+        "address": "669R+QC2, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.219395599999999,
+        "longitude": 109.2410017
+    },
+    {
+        "category": "zoo",
+        "title": "Khỉ đầu chó - Hamadryas Baboon",
+        "rating": 2.8,
+        "address": "669V+MH8, Hòn Tre, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2191508,
+        "longitude": 109.2439381
+    },
+    {
+        "category": "zoo",
+        "title": "Saigon Zoo & Botanical Gardens",
+        "rating": 4.3,
+        "address": "2 Nguyễn Bỉnh Khiêm, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "latitude": 10.787334399999999,
+        "longitude": 106.70505659999999
+    },
+    {
+        "category": "zoo",
+        "title": "Công viên biển Hòn Chồng",
+        "rating": 4.7,
+        "address": "76C3+MVX, Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2717311,
+        "longitude": 109.20474499999999
+    },
+    {
+        "category": "zoo",
+        "title": "Hanoi Zoo",
+        "rating": 4.1,
+        "address": "Đ. Bưởi, Thủ Lệ, Ba Đình, Hà Nội 100000, Vietnam",
+        "latitude": 21.0312676,
+        "longitude": 105.80369689999999
+    },
+    {
+        "category": "zoo",
+        "title": "Bãi biển Nhũ Tiên",
+        "rating": 4,
+        "address": "Phước Hạ, Phước Đồng, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.174230399999999,
+        "longitude": 109.20556479999999
+    },
+    {
+        "category": "zoo",
+        "title": "Museum of Oceanography",
+        "rating": 4.2,
+        "address": "1 Cầu Đá - Hòn Một, Cầu Đá, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2070519,
+        "longitude": 109.2148629
+    },
+    {
+        "category": "zoo",
+        "title": "Zoodoo - Zoo & Cafe",
+        "rating": 4.5,
+        "address": "Unnamed Road, An Hải, Ninh Phước, Ninh Thuận, Vietnam",
+        "latitude": 11.5174189,
+        "longitude": 108.9928176
+    },
+    {
+        "category": "zoo",
+        "title": "The Fairy Forest",
+        "rating": 4.5,
+        "address": "Phước Trung, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.1812258,
+        "longitude": 109.1654693
+    },
+    {
+        "category": "zoo",
+        "title": "Trường chim phước long đường 28",
+        "rating": 5,
+        "address": "Đường số 28/21 Đường Số 6, giao nhau, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2188152,
+        "longitude": 109.1893635
+    },
+    {
+        "category": "zoo",
+        "title": "Khỉ sóc - Squirrel Monkey",
+        "rating": null,
+        "address": "669V+QFQ, Hòn Tre, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2194647,
+        "longitude": 109.2437252
+    },
+    {
+        "category": "zoo",
+        "title": "Gina Exotic Garden",
+        "rating": 4.3,
+        "address": "34 Nguyễn Thái Học, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2562733,
+        "longitude": 109.190432
+    },
+    {
+        "category": "adventure parks",
+        "title": "VinWonders Nha Trang",
+        "rating": 4.6,
+        "address": "Đảo Hòn Tre, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.217047899999999,
+        "longitude": 109.2408718
+    },
+    {
+        "category": "adventure parks",
+        "title": "Kong Forest Nha Trang - ATV, Zipline, Camping",
+        "rating": 4.5,
+        "address": "Km19 Hòn Bà Mountain, Suối Cát, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.1129082,
+        "longitude": 108.9979674
+    },
+    {
+        "category": "adventure parks",
+        "title": "Splash Water Park at Alma Resort",
+        "rating": 4.4,
+        "address": "Nguyễn Tất Thành, Cam Hải Đông, Cam Lâm, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.0714191,
+        "longitude": 109.1969802
+    },
+    {
+        "category": "adventure parks",
+        "title": "Khu Du Lịch Trăm Trứng -100 Egg Theme Park",
+        "rating": 4.7,
+        "address": "Đại lộ, Nguyễn Tất Thành, Phước Trung, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.1852992,
+        "longitude": 109.16149659999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "100 Eggs Mud Bath",
+        "rating": 4,
+        "address": "Đại lộ, Nguyễn Tất Thành, Phước Trung, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.1860837,
+        "longitude": 109.1704834
+    },
+    {
+        "category": "adventure parks",
+        "title": "Tata Aventure",
+        "rating": 4.7,
+        "address": "668R+W2G, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.217362699999999,
+        "longitude": 109.2402587
+    },
+    {
+        "category": "adventure parks",
+        "title": "Axx Garden",
+        "rating": 5,
+        "address": "Ninh Thuỷ, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.545223199999999,
+        "longitude": 109.2258579
+    },
+    {
+        "category": "adventure parks",
+        "title": "Phu Dong Park",
+        "rating": 4.5,
+        "address": "100 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2297812,
+        "longitude": 109.1993064
+    },
+    {
+        "category": "adventure parks",
+        "title": "Công Viên Thám Hiểm Kong Forest - ATV Zipline Rafting Hiking Camping (Kong Forest Adventure Park) -",
+        "rating": 3,
+        "address": "Khu Bảo Tồn Thiên Nhiên Hòn Bà(Yersin) ATV Zipline Camping Hiking, Km19, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.113261399999999,
+        "longitude": 108.9973582
+    },
+    {
+        "category": "adventure parks",
+        "title": "Vinpearl Land",
+        "rating": 4.3,
+        "address": "Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.216229199999999,
+        "longitude": 109.2413414
+    },
+    {
+        "category": "adventure parks",
+        "title": "Eco-Tourism Resort",
+        "rating": 4.2,
+        "address": "Xuân Đồng, Diên Khánh, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.3311929,
+        "longitude": 108.97306569999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Trường đua và khu vui chơi V Cam Ranh",
+        "rating": null,
+        "address": "4 Đường K9, Cam Hải Đông, Cam Lâm, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.056745,
+        "longitude": 109.19320649999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Vịnh Phao Nổi Splash Bay",
+        "rating": 3.9,
+        "address": "Hòn Tre, Khánh Hòa, Vietnam",
+        "latitude": 12.219857399999999,
+        "longitude": 109.2394657
+    },
+    {
+        "category": "adventure parks",
+        "title": "Selectum Noa Aqua Park",
+        "rating": 5,
+        "address": "35PR+J7, Cam Hải Đông, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.0866119,
+        "longitude": 109.19072469999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Hoa Lan Island Resort",
+        "rating": 4.2,
+        "address": "Ninh Phú, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.405657,
+        "longitude": 109.24284469999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Alexandre Yersin Park",
+        "rating": 4.5,
+        "address": "755X+HF9, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2589171,
+        "longitude": 109.1987314
+    },
+    {
+        "category": "adventure parks",
+        "title": "Dynalecx Paradise & Molly Fantasy Nha Trang",
+        "rating": 4.1,
+        "address": "TTTM & Siêu Thị GO, 2S16, 4 Đường 19/5, Phước Hải, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.241892799999999,
+        "longitude": 109.18208419999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Khu du lịch Ba Hồ",
+        "rating": 4.5,
+        "address": "Thôn Vạn Thuận, Ninh Hòa, Khánh Hòa 57000, Vietnam",
+        "latitude": 12.3898019,
+        "longitude": 109.1378798
+    },
+    {
+        "category": "adventure parks",
+        "title": "Children House of Khanh Hoa",
+        "rating": 4.2,
+        "address": "62 Thái Nguyên, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2482923,
+        "longitude": 109.18790089999999
+    },
+    {
+        "category": "adventure parks",
+        "title": "Sky Wheel",
+        "rating": 4.7,
+        "address": "66CV+P4X, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.221850199999999,
+        "longitude": 109.2428491
+    },
+    {
+        "category": "hot springs",
+        "title": "Hot mineral springs I-Resort Nha Trang",
+        "rating": 4.3,
+        "address": "75CG+X3W, Tổ 19, thôn Xuân Ngọc, Vĩnh Ngọc, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.273191599999999,
+        "longitude": 109.17577779999999
+    },
+    {
+        "category": "hot springs",
+        "title": "THAP BA MUD BATH",
+        "rating": 4.4,
+        "address": "438 Ngô Đến, Ngọc Hiệp, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2702162,
+        "longitude": 109.17778299999999
+    },
+    {
+        "category": "hot springs",
+        "title": "100 Eggs Mud Bath",
+        "rating": 4,
+        "address": "Đại lộ, Nguyễn Tất Thành, Phước Trung, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.1860837,
+        "longitude": 109.1704834
+    },
+    {
+        "category": "hot springs",
+        "title": "I-Resort Swimming Pool",
+        "rating": 4.4,
+        "address": "75FG+258, Vĩnh Ngọc, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2725279,
+        "longitude": 109.1754562
+    },
+    {
+        "category": "hot springs",
+        "title": "아이리조트 스파(베트남)",
+        "rating": 4.6,
+        "address": "Vietnam, Khánh Hòa, Nha Trang, Vĩnh Ngọc",
+        "latitude": 12.2728375,
+        "longitude": 109.1756094
+    },
+    {
+        "category": "hot springs",
+        "title": "Hot Mineral Water Springs",
+        "rating": 4.9,
+        "address": "5WVC+G5X, Unnamed Road, Khánh Phú, Khánh Vĩnh, Khánh Hòa, Vietnam",
+        "latitude": 12.1938582,
+        "longitude": 108.92048179999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Термальный бассейн",
+        "rating": 4.5,
+        "address": "75CG+7J6, Ngọc Hiệp, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.270673299999999,
+        "longitude": 109.17650839999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Khu du lịch Ba Hồ",
+        "rating": 4.5,
+        "address": "Thôn Vạn Thuận, Ninh Hòa, Khánh Hòa 57000, Vietnam",
+        "latitude": 12.3898019,
+        "longitude": 109.1378798
+    },
+    {
+        "category": "hot springs",
+        "title": "Suối Nước Nóng Trường Xuân",
+        "rating": 3.8,
+        "address": "Km 21 Tx., QL26, Ninh Tây, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.536178699999999,
+        "longitude": 108.9496679
+    },
+    {
+        "category": "hot springs",
+        "title": "MALLIKA CHAMPA",
+        "rating": 4.2,
+        "address": "QL1A, Ninh Đa, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.506493899999999,
+        "longitude": 109.1482286
+    },
+    {
+        "category": "hot springs",
+        "title": "Cổng vào Bùn khoáng I-Resort",
+        "rating": 4.4,
+        "address": "75CG+X3W, Tổ 19 thôn Xuân Ngọc, Vĩnh Ngọc, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2731362,
+        "longitude": 109.17572279999999
+    },
+    {
+        "category": "hot springs",
+        "title": "Bể bơi Tháp Bà Spa",
+        "rating": 4.3,
+        "address": "75CG+7P8, Ngọc Hiệp, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.270664499999999,
+        "longitude": 109.1768357
+    },
+    {
+        "category": "hot springs",
+        "title": "Hon Ba Nature Reserve",
+        "rating": 4.4,
+        "address": "Khánh Sơn, Khánh Hòa, Vietnam",
+        "latitude": 12.1090137,
+        "longitude": 108.9739958
+    },
+    {
+        "category": "hot springs",
+        "title": "나트랑 마사지 - Anth‘s Spa - 안티스파",
+        "rating": 5,
+        "address": "98A Bạch Đằng, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2411222,
+        "longitude": 109.1903607
+    },
+    {
+        "category": "shopping malls",
+        "title": "Vincom Plaza Trần Phú",
+        "rating": 4.4,
+        "address": "78-80 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.233215,
+        "longitude": 109.1972188
+    },
+    {
+        "category": "shopping malls",
+        "title": "Nha Trang Center",
+        "rating": 4.2,
+        "address": "20 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2480844,
+        "longitude": 109.1959534
+    },
+    {
+        "category": "shopping malls",
+        "title": "Vincom Plaza Thái nguyên, Nha Trang",
+        "rating": 4.1,
+        "address": "60 Thái Nguyên, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.248302899999999,
+        "longitude": 109.1868137
+    },
+    {
+        "category": "shopping malls",
+        "title": "Vincom Plaza Lê Thánh Tôn",
+        "rating": 4.3,
+        "address": "44-46 Đ. Lê Thánh Tôn, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.242695999999999,
+        "longitude": 109.19359929999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Gold Coast Mall Nha Trang",
+        "rating": 4.3,
+        "address": "01 Đ. Trần Hưng Đạo, Lộc Thọ, Nha Trang, Khánh Hòa 65000, Vietnam",
+        "latitude": 12.247834399999999,
+        "longitude": 109.1949664
+    },
+    {
+        "category": "shopping malls",
+        "title": "AB Central Square",
+        "rating": 4.2,
+        "address": "44 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 65000, Vietnam",
+        "latitude": 12.2408016,
+        "longitude": 109.1962052
+    },
+    {
+        "category": "shopping malls",
+        "title": "LOTTE MART Nha Trang",
+        "rating": 4.3,
+        "address": "58 Đ. 23 Tháng 10, Phường Tây, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2516974,
+        "longitude": 109.1770415
+    },
+    {
+        "category": "shopping malls",
+        "title": "Dam Market",
+        "rating": 3.9,
+        "address": "Đường Đ. Phan Bội Châu, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2549514,
+        "longitude": 109.1918164
+    },
+    {
+        "category": "shopping malls",
+        "title": "Lotte Mart Nha Trang Gold Coast",
+        "rating": 4.5,
+        "address": "Khu Thương mại phức hợp - Tòa nhà Gold Coast, 01 Đ. Trần Hưng Đạo, phường, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.248145099999999,
+        "longitude": 109.1948614
+    },
+    {
+        "category": "shopping malls",
+        "title": "SIÊU THỊ HIẾN NHÁY",
+        "rating": 4.8,
+        "address": "45 Hùng Vương, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Nha Trang, Khánh Hòa 57106, Vietnam",
+        "latitude": 12.236848499999999,
+        "longitude": 109.1955325
+    },
+    {
+        "category": "shopping malls",
+        "title": "Ngoc Vietnam Shopping Center",
+        "rating": 3.6,
+        "address": "6662+78J, Võ Thị Sáu, Vĩnh Hoà, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2107031,
+        "longitude": 109.2007782
+    },
+    {
+        "category": "shopping malls",
+        "title": "I LOVE FLEX",
+        "rating": 4.8,
+        "address": "95 Nguyễn Thiện Thuật, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2382979,
+        "longitude": 109.193744
+    },
+    {
+        "category": "shopping malls",
+        "title": "Nha Trang Square Shopping Mall",
+        "rating": null,
+        "address": "Đường Bình Hòa, Phước Hạ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.1734049,
+        "longitude": 109.18111169999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Xom Moi Market",
+        "rating": 4,
+        "address": "49 Ngô Gia Tự, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.242762299999999,
+        "longitude": 109.19043029999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Central Market",
+        "rating": 4.9,
+        "address": "137 Đ. Huỳnh Thúc Kháng, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2420571,
+        "longitude": 109.19182749999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Nhà của Sen",
+        "rating": 5,
+        "address": "P05 Vinpearl, Harbour, Nha Trang, Khánh Hòa 57000, Vietnam",
+        "latitude": 12.212161,
+        "longitude": 109.28910049999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Xuân Hường Railway",
+        "rating": 5,
+        "address": "03.03 Đ. Số 6, Khu đô thị Hà Quang 2, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.250655799999999,
+        "longitude": 109.1758424
+    },
+    {
+        "category": "shopping malls",
+        "title": "Khu đô thị mỹ gia",
+        "rating": 4.6,
+        "address": "65R9+FQF, Đường Võ Nguyên Giáp, Vĩnh Thái, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2411975,
+        "longitude": 109.16940749999999
+    },
+    {
+        "category": "shopping malls",
+        "title": "Trung tâm Giới thiệu Sản phẩm Yến sào Khánh Hòa Sanvinest",
+        "rating": 5,
+        "address": "14 Đ. Trần Hưng Đạo, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.245368599999999,
+        "longitude": 109.194592
+    },
+    {
+        "category": "shopping malls",
+        "title": "Chợ Diên Tân",
+        "rating": 4.2,
+        "address": "6XVP+7G3, Diên Tân, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.243137599999999,
+        "longitude": 108.98629609999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Po Nagar Temple",
+        "rating": 4.5,
+        "address": "61 Hai Tháng Tư, Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.265366499999999,
+        "longitude": 109.1953678
+    },
+    {
+        "category": "historical sites",
+        "title": "West gate - Dien Khanh old citadel",
+        "rating": 4.6,
+        "address": "Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.255567899999999,
+        "longitude": 109.09092659999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Khanh Hoa Museum",
+        "rating": 3.9,
+        "address": "16 Trần Phú, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2497043,
+        "longitude": 109.1962195
+    },
+    {
+        "category": "historical sites",
+        "title": "The Old Nha Trang Traditional Craft Village",
+        "rating": 4.7,
+        "address": "65W4+VQC, Vĩnh Thái, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2471857,
+        "longitude": 109.1568763
+    },
+    {
+        "category": "historical sites",
+        "title": "Yersin museum",
+        "rating": 4.4,
+        "address": "10 Trần Phú, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2509604,
+        "longitude": 109.195996
+    },
+    {
+        "category": "historical sites",
+        "title": "Long Son Pagoda",
+        "rating": 4.3,
+        "address": "22 Đ. 23 Tháng 10, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2501803,
+        "longitude": 109.1801753
+    },
+    {
+        "category": "historical sites",
+        "title": "Memorial for the fallen soldiers of Johnson South Reef",
+        "rating": 4.7,
+        "address": "35PR+2GX, Cam Hai Dong, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.0851198,
+        "longitude": 109.19135879999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Cây dầu đôi Diên Khánh",
+        "rating": 4.7,
+        "address": "128 Hai Mươi Ba Tháng Mười, Diên Khánh, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.257003,
+        "longitude": 109.1082374
+    },
+    {
+        "category": "historical sites",
+        "title": "Khu di tích Bến Tàu Không Số Vũng Rô",
+        "rating": 4.3,
+        "address": "Hoà Xuân Nam, Đông Hòa, Phú Yên, Vietnam",
+        "latitude": 12.8776002,
+        "longitude": 109.4196633
+    },
+    {
+        "category": "historical sites",
+        "title": "Khu Bảo tồn văn hoá trầm hương Hoàng Trầm",
+        "rating": 4.3,
+        "address": "Diên Thọ, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2816799,
+        "longitude": 109.00672449999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Đài Liệt Sĩ",
+        "rating": 4.7,
+        "address": "7452+Q2J, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2594623,
+        "longitude": 109.1000007
+    },
+    {
+        "category": "historical sites",
+        "title": "Temple of Convocation",
+        "rating": 4.4,
+        "address": "F4XW+F62, Mười Sáu Tháng Bảy, Ninh Đa, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.4986485,
+        "longitude": 109.1455208
+    },
+    {
+        "category": "historical sites",
+        "title": "Khu di tích lịch sử Quốc Gia Tàu Không Số",
+        "rating": 4.3,
+        "address": "98P5+R3F, Ninh Phước, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.3870507,
+        "longitude": 109.30767
+    },
+    {
+        "category": "historical sites",
+        "title": "Đền thờ Trần Quý Cáp",
+        "rating": 4.6,
+        "address": "7443+F8H, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.256189599999999,
+        "longitude": 109.1033583
+    },
+    {
+        "category": "historical sites",
+        "title": "Làng nghề Trường Sơn - Trường Sơn Craft Village",
+        "rating": 4.7,
+        "address": "08 Trường Sơn, Vĩnh Nguyên, Nha Trang, Khánh Hòa 57129, Vietnam",
+        "latitude": 12.213557,
+        "longitude": 109.1999237
+    },
+    {
+        "category": "historical sites",
+        "title": "Cửa Hậu Thành Cổ Diên Khánh",
+        "rating": 4.2,
+        "address": "Unnamed Road, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.2565981,
+        "longitude": 109.09277349999999
+    },
+    {
+        "category": "historical sites",
+        "title": "Lô Cốt Cũ",
+        "rating": 4.3,
+        "address": "R6PX+VWV, Cam Binh, Cam Ranh, Khánh Hòa, Vietnam",
+        "latitude": 11.837228099999999,
+        "longitude": 109.249794
+    },
+    {
+        "category": "historical sites",
+        "title": "Dr Alexandre Yersin Tomb",
+        "rating": 4.7,
+        "address": "Suối Dầu, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.178785999999999,
+        "longitude": 109.0684029
+    },
+    {
+        "category": "historical sites",
+        "title": "Hon Chong",
+        "rating": 4.3,
+        "address": "Vĩnh Phước, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.27292,
+        "longitude": 109.2064934
+    },
+    {
+        "category": "historical sites",
+        "title": "Museum of Oceanography",
+        "rating": 4.2,
+        "address": "1 Cầu Đá - Hòn Một, Cầu Đá, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2070519,
+        "longitude": 109.2148629
+    },
+    {
+        "category": "art galleries",
+        "title": "La Villa Art Gallery",
+        "rating": 4.8,
+        "address": "176/3 Hùng Vương, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.23424,
+        "longitude": 109.1957278
+    },
+    {
+        "category": "art galleries",
+        "title": "Studio & Gallery Long Thanh Art",
+        "rating": 4.6,
+        "address": "126 Hoàng Văn Thụ, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.250620699999999,
+        "longitude": 109.1872844
+    },
+    {
+        "category": "art galleries",
+        "title": "DDK's White & Black Photo Gallery",
+        "rating": 4.5,
+        "address": "City, 126B Đ. Hồng Bàng, Street, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2385445,
+        "longitude": 109.19181359999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Poet Art Gallery",
+        "rating": 5,
+        "address": "12 Nguyễn Thị Ngọc Oanh, TT. Ninh Hòa, Ninh Hòa, Khánh Hòa, Vietnam",
+        "latitude": 12.490884099999999,
+        "longitude": 109.1264801
+    },
+    {
+        "category": "art galleries",
+        "title": "Gallery Ngoc Do",
+        "rating": null,
+        "address": "thôn, 34 La Văn Cầu, Phước Lộc, Nha Trang, Khánh Hòa 57000, Vietnam",
+        "latitude": 12.1883372,
+        "longitude": 109.168082
+    },
+    {
+        "category": "art galleries",
+        "title": "Trầm Hương Khánh Hoà - ATC Tháp Trầm Hương",
+        "rating": 5,
+        "address": "65RW+5Q, Lộc Thọ, Nha Trang, Khánh Hòa 57000, Vietnam",
+        "latitude": 12.240437499999999,
+        "longitude": 109.19693749999999
+    },
+    {
+        "category": "art galleries",
+        "title": "M Art Gallery",
+        "rating": 5,
+        "address": "65WG+VMF, Khu đô thị Hà Quang 2, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2471605,
+        "longitude": 109.17667519999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Lạc Việt",
+        "rating": null,
+        "address": "239 Thống Nhất, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.250669499999999,
+        "longitude": 109.18603859999999
+    },
+    {
+        "category": "art galleries",
+        "title": "CXV Wood & Resin",
+        "rating": 5,
+        "address": "228 Huỳnh Thúc Kháng, Diên Toàn, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.25175,
+        "longitude": 109.10241669999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Gỗ lũa H2",
+        "rating": 5,
+        "address": "747R+Q86, Đ. Lương Định Của, Vĩnh Thạnh, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2644085,
+        "longitude": 109.14076689999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Khanh Hoa Museum",
+        "rating": 3.9,
+        "address": "16 Trần Phú, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2497043,
+        "longitude": 109.1962195
+    },
+    {
+        "category": "art galleries",
+        "title": "Bối Art - Workshop Nha Trang",
+        "rating": 4.6,
+        "address": "44 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2409802,
+        "longitude": 109.1955297
+    },
+    {
+        "category": "art galleries",
+        "title": "Museum of Oceanography",
+        "rating": 4.2,
+        "address": "1 Cầu Đá - Hòn Một, Cầu Đá, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2070519,
+        "longitude": 109.2148629
+    },
+    {
+        "category": "art galleries",
+        "title": "Yersin museum",
+        "rating": 4.4,
+        "address": "10 Trần Phú, Vạn Thạnh, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2509604,
+        "longitude": 109.195996
+    },
+    {
+        "category": "art galleries",
+        "title": "Kissa Souvenirs Nha Trang",
+        "rating": 4.9,
+        "address": "1b Đ. Ngô Thời Nhiệm, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.240452699999999,
+        "longitude": 109.19187529999999
+    },
+    {
+        "category": "art galleries",
+        "title": "GỐC Studio",
+        "rating": 5,
+        "address": "17/16 Hoàng Diệu, Vĩnh Hoà, Nha Trang, Khánh Hòa 57129, Vietnam",
+        "latitude": 12.2200498,
+        "longitude": 109.2006753
+    },
+    {
+        "category": "art galleries",
+        "title": "Nest Art Paradise",
+        "rating": 5,
+        "address": "4 Nguyễn Thiện Thuật, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.243228499999999,
+        "longitude": 109.19296829999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Làng Nghề Trầm Hương Vạn Thắng",
+        "rating": 4.7,
+        "address": "Đường Nguyễn Huệ, Thôn Phú Hội 1, Vạn Ninh, Khánh Hòa, Vietnam",
+        "latitude": 12.7087752,
+        "longitude": 109.24476539999999
+    },
+    {
+        "category": "art galleries",
+        "title": "Institute of Oceanography",
+        "rating": 4.5,
+        "address": "Số 1, Cầu Đá, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.207668799999999,
+        "longitude": 109.2144946
+    },
+    {
+        "category": "art galleries",
+        "title": "SPACE SHOP",
+        "rating": null,
+        "address": "36B Đặng Tất, Vĩnh Hải, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2764609,
+        "longitude": 109.2015722
+    },
+    {
+        "category": "theaters",
+        "title": "Galaxy Nha Trang Center",
+        "rating": 4.4,
+        "address": "Nha Trang Center, 20 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2480883,
+        "longitude": 109.195995
+    },
+    {
+        "category": "theaters",
+        "title": "LOTTE Cinema Nha Trang Trần Phú - Vincom",
+        "rating": 4.3,
+        "address": "78 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.233196399999999,
+        "longitude": 109.19707389999999
+    },
+    {
+        "category": "theaters",
+        "title": "Galaxy Cine+ Gold Coast Nha Trang",
+        "rating": 4.9,
+        "address": "01 Đ. Trần Hưng Đạo, Lộc Thọ, Nha Trang, Khánh Hòa 65000, Vietnam",
+        "latitude": 12.2479889,
+        "longitude": 109.19488319999999
+    },
+    {
+        "category": "theaters",
+        "title": "Beta cineplex Nha Trang",
+        "rating": 3.9,
+        "address": "10 Đ. Hoàng Hoa Thám, P, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2489586,
+        "longitude": 109.19383219999999
+    },
+    {
+        "category": "theaters",
+        "title": "Cinema Room",
+        "rating": 5,
+        "address": "Hon Tre Island, Vĩnh Nguyên, Nha Trang, Khánh Hòa 571000, Vietnam",
+        "latitude": 12.217328,
+        "longitude": 109.253272
+    },
+    {
+        "category": "theaters",
+        "title": "LOTTE Cinema Nha Trang Thái Nguyên - Vincom",
+        "rating": 4.2,
+        "address": "60 Thái Nguyên, Phường Tây, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2484883,
+        "longitude": 109.1867673
+    },
+    {
+        "category": "theaters",
+        "title": "CGV Big C Nha Trang",
+        "rating": 3.1,
+        "address": "754C+M3H, Vĩnh Hiệp, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.256691499999999,
+        "longitude": 109.17023429999999
+    },
+    {
+        "category": "theaters",
+        "title": "Đại lý Vé Nhà hát Đó (Đó theater)",
+        "rating": 4.6,
+        "address": "Đại Lộ Phạm Văn Đồng, Vĩnh Hải, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.3005801,
+        "longitude": 109.2375732
+    },
+    {
+        "category": "theaters",
+        "title": "Vinpearl Theater Nha Trang",
+        "rating": 4.8,
+        "address": "667V+F27, Hòn Tre, Vĩnh Nguyên, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2136526,
+        "longitude": 109.2425547
+    },
+    {
+        "category": "theaters",
+        "title": "Nha Trang Center",
+        "rating": 4.2,
+        "address": "20 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2480844,
+        "longitude": 109.1959534
+    },
+    {
+        "category": "theaters",
+        "title": "Trung tâm Hội nghị tỉnh Khánh Hòa",
+        "rating": 4.3,
+        "address": "46 Trần Phú, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.239234999999999,
+        "longitude": 109.1960939
+    },
+    {
+        "category": "theaters",
+        "title": "Amphitheater",
+        "rating": 5,
+        "address": "North of Cam Ranh Peninsula, Cam Lam Commune, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.0701194,
+        "longitude": 109.19557329999999
+    },
+    {
+        "category": "theaters",
+        "title": "Rạp Tân Tân xưa - Tan Tan Cinema",
+        "rating": null,
+        "address": "168 Thống Nhất, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2512992,
+        "longitude": 109.1869629
+    },
+    {
+        "category": "theaters",
+        "title": "Life Puppets show - Rối Mơ",
+        "rating": 4.6,
+        "address": "Libera Nha Trang Bãi Tiên, Vĩnh Hải, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.3006266,
+        "longitude": 109.2374262
+    },
+    {
+        "category": "theaters",
+        "title": "Do theater",
+        "rating": 4.8,
+        "address": "76XP+WX8, Đại Lộ Phạm Văn Đồng, Khu vực Bãi Tiên, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.3008771,
+        "longitude": 109.2370632
+    },
+    {
+        "category": "theaters",
+        "title": "Chum show - Nhà hát Đó",
+        "rating": 5,
+        "address": "Đại Lộ Phạm Văn Đồng, Bãi Tiên, Nha Trang, Khánh Hòa 57000, Vietnam",
+        "latitude": 12.3005965,
+        "longitude": 109.2374792
+    },
+    {
+        "category": "theaters",
+        "title": "Vincom Plaza Thái nguyên, Nha Trang",
+        "rating": 4.1,
+        "address": "60 Thái Nguyên, Phương Sài, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.248302899999999,
+        "longitude": 109.1868137
+    },
+    {
+        "category": "theaters",
+        "title": "Chốn CineHome - Nguyễn Phi Khanh - Nha Trang",
+        "rating": 4.8,
+        "address": "Nguyễn Phi Khanh, Vĩnh Hải, Nha Trang, Khánh Hòa 57000, Vietnam",
+        "latitude": 12.2990792,
+        "longitude": 109.2129717
+    },
+    {
+        "category": "theaters",
+        "title": "Sunrise milk & film",
+        "rating": 3.8,
+        "address": "53 Đào Duy Anh, Cam Đức, Cam Lâm, Khánh Hòa, Vietnam",
+        "latitude": 12.0533215,
+        "longitude": 109.15595359999999
+    },
+    {
+        "category": "theaters",
+        "title": "Rạp Chiếu Phim Khánh Hòa",
+        "rating": 4,
+        "address": "10 Đ. Hoàng Hoa Thám, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2489648,
+        "longitude": 109.1938965
+    },
+    {
+        "category": "souvenir counters",
+        "title": "NHA TRANG MEMORY Gift and Souvenirs",
+        "rating": 5,
+        "address": "03 Ngô Gia Tự, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2444934,
+        "longitude": 109.1914267
+    },
+    {
+        "category": "souvenir counters",
+        "title": "스카이 선물집- Sky souvenir",
+        "rating": 4.9,
+        "address": "91 Đ. Hồng Bàng, Tân Tiến, Nha Trang, Khánh Hòa 336745, Vietnam",
+        "latitude": 12.239992299999999,
+        "longitude": 109.19043549999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Kissa Souvenirs Nha Trang",
+        "rating": 4.9,
+        "address": "1b Đ. Ngô Thời Nhiệm, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.240452699999999,
+        "longitude": 109.19187529999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "SHREK GIFT",
+        "rating": 4.9,
+        "address": "138A Bạch Đằng, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2399724,
+        "longitude": 109.19173269999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "JW GIFT",
+        "rating": 4.7,
+        "address": "92a Đ. Hồng Bàng, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.239941799999999,
+        "longitude": 109.1902301
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Carpe Diem Nha Trang - Souvenir, Handicrafts and Gifts",
+        "rating": 5,
+        "address": "197 Nguyễn Thiện Thuật, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2359037,
+        "longitude": 109.1942181
+    },
+    {
+        "category": "souvenir counters",
+        "title": "L STORE",
+        "rating": 4.9,
+        "address": "37 Tô Hiến Thành, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2400103,
+        "longitude": 109.1923795
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Kissa Bag Nha Trang",
+        "rating": 5,
+        "address": "7 Tô Hiến Thành, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.242038299999999,
+        "longitude": 109.1923594
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Central Market",
+        "rating": 4.9,
+        "address": "137 Đ. Huỳnh Thúc Kháng, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2420571,
+        "longitude": 109.19182749999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Aloha Vintage and Souvenir Shop 🌺",
+        "rating": 5,
+        "address": "81 Nguyễn Thị Minh Khai, Tân Tiến, Nha Trang, Khánh Hòa 100000, Vietnam",
+        "latitude": 12.237576299999999,
+        "longitude": 109.1909587
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs Mrs. Trinh",
+        "rating": 5,
+        "address": "Nguyễn Thi, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2397291,
+        "longitude": 109.1963341
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Đặc sản Cam Lâm - CamLamGift - 카카오채널:다팔아 마트 깜란",
+        "rating": 5,
+        "address": "Đinh Tiên Hoàng, Cam Hải Đông, Cam Lâm, Khánh Hòa 57600, Vietnam",
+        "latitude": 12.0799415,
+        "longitude": 109.17982049999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Capy's House | Souvenirs - Gifts - Sweets",
+        "rating": 5,
+        "address": "53A Nguyễn Thị Minh Khai, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2379862,
+        "longitude": 109.19189499999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "CTY TNHH QUÀ XANH VIỆT - QUÀ TẶNG DOANH NGHIỆP",
+        "rating": 4.8,
+        "address": "Kho sỉ Quang Ducj Vinpearl Harbour Market ( Quà Xanh Việt, 6/53 HL Ngọc Hiệp Chợ Đầm, Ngọc Hiệp, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2543455,
+        "longitude": 109.18599669999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Viewmory",
+        "rating": 5,
+        "address": "6/24 Nguyễn Thiện Thuật, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.242286799999999,
+        "longitude": 109.1928423
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Hanvy Shop",
+        "rating": 5,
+        "address": "TL2, Diên Lạc, Diên Khánh, Khánh Hòa, Vietnam",
+        "latitude": 12.260297999999999,
+        "longitude": 109.0740895
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Cái Tiệm Handmade Đảo Bình Hưng",
+        "rating": 4.9,
+        "address": "Bình hưng, Bình Hưng, Khánh Hòa, Vietnam",
+        "latitude": 11.7793896,
+        "longitude": 109.21499999999999
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenirs",
+        "rating": 4,
+        "address": "65QW+GCH, Nguyễn Thị Minh Khai, Lộc Thọ, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2388044,
+        "longitude": 109.1961237
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Souvenir",
+        "rating": 5,
+        "address": "183 Nguyễn Thiện Thuật, Tân Tiến, Nha Trang, Khánh Hòa 650000, Vietnam",
+        "latitude": 12.2362649,
+        "longitude": 109.1940372
+    },
+    {
+        "category": "souvenir counters",
+        "title": "Kissa Souvenirs Hon Tre Vinpearl Harbour",
+        "rating": 5,
+        "address": "Shop House A, 20 Vinpearl, Harbour, Nha Trang, Khánh Hòa, Vietnam",
+        "latitude": 12.2157222,
+        "longitude": 109.2389723
+    }
+]
