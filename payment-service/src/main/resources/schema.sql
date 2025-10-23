@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS payment_records (
-    id BIGSERIAL PRIMARY KEY,
+    id UUID PRIMARY KEY,
     order_code BIGINT NOT NULL UNIQUE,
     amount BIGINT NOT NULL,
     description VARCHAR(255),
@@ -7,6 +7,9 @@ CREATE TABLE IF NOT EXISTS payment_records (
     status VARCHAR(64),
     checkout_url TEXT,
     qr_code TEXT,
-    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP NOT NULL,
+    expires_at TIMESTAMP WITH TIME ZONE
 );
 
+ALTER TABLE payment_records
+    ADD COLUMN IF NOT EXISTS expires_at TIMESTAMP WITH TIME ZONE;

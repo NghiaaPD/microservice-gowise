@@ -1,11 +1,10 @@
 package org.example.updateplan.model;
 
 import java.time.OffsetDateTime;
+import java.util.UUID;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
@@ -14,8 +13,8 @@ import jakarta.persistence.Table;
 public class PaymentRecord {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    @Column(name = "id", nullable = false, columnDefinition = "UUID")
+    private UUID id;
 
     @Column(name = "order_code", nullable = false, unique = true)
     private Long orderCode;
@@ -41,11 +40,14 @@ public class PaymentRecord {
     @Column(name = "created_at", nullable = false)
     private OffsetDateTime createdAt = OffsetDateTime.now();
 
-    public Long getId() {
+    @Column(name = "expires_at")
+    private OffsetDateTime expiresAt;
+
+    public UUID getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(UUID id) {
         this.id = id;
     }
 
@@ -112,5 +114,12 @@ public class PaymentRecord {
     public void setCreatedAt(OffsetDateTime createdAt) {
         this.createdAt = createdAt;
     }
-}
 
+    public OffsetDateTime getExpiresAt() {
+        return expiresAt;
+    }
+
+    public void setExpiresAt(OffsetDateTime expiresAt) {
+        this.expiresAt = expiresAt;
+    }
+}
