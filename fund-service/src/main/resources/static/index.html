@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo PayOS Thu & Chi</title>
+    <style>
+        /* Này bóc lột AI */
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 700px; margin: 40px auto; color: #333; background-color: #f9f9f9; }
+        .tab-buttons { display: flex; border-bottom: 2px solid #eee; }
+        .tab-button { flex: 1; padding: 15px; text-align: center; cursor: pointer; background-color: #f1f1f1; border: none; font-size: 18px; font-weight: 600; color: #888; transition: all 0.2s; }
+        .tab-button.active { background-color: #fff; color: #007bff; border-top: 2px solid #007bff; border-left: 1px solid #eee; border-right: 1px solid #eee; }
+        .tab-content { display: none; background-color: #fff; padding: 25px; border: 1px solid #eee; border-top: none; }
+        .tab-content.active { display: block; }
+        h1, h2 { text-align: center; color: #1a1a1a; }
+        label { display: block; margin-bottom: 5px; font-weight: 600; color: #555; }
+        input, select { width: 100%; padding: 12px; margin-bottom: 15px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; font-size: 16px; background-color: white; }
+        button { width: 100%; padding: 15px; color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 18px; font-weight: bold; }
+        button:disabled { background-color: #aaa; cursor: not-allowed; }
+        pre { background-color: #f8f9fa; padding: 15px; border-radius: 8px; border: 1px solid #e9ecef; white-space: pre-wrap; word-wrap: break-word; font-family: "SF Mono", monospace; font-size: 14px; }
+        .success { color: #155724; background-color: #d4edda; }
+        .failure { color: #721c24; background-color: #f8d7da; }
+        #thu-button { background-color: #007bff; }
+        #chi-button { background-color: #dc3545; }
+    </style>
+</head>
+<body>
+    <h1>Demo Quỹ</h1>
+    <div class="tab-buttons">
+        <button class="tab-button active" onclick="openTab('thu')">Nạp quỹ</button>
+        <button class="tab-button" onclick="openTab('chi')">Rút quỹ òi</button>
+    </div>
+
+    <!-- Nạp quỹ -->
+    <div id="thu" class="tab-content active">
+        <h2>Tạo QR để góp quỹ</h2>
+        <input type="text" id="fundId" value="123" placeholder="Mã Quỹ">
+        <input type="text" id="userId" value="456" placeholder="Mã user">
+        <input type="number" id="amount-thu" placeholder="Tiền">
+        <button id="thu-button" onclick="createPaymentLink()">Nạp quỹ</button>
+        <div id="qr-container" style="text-align: center; margin-top: 20px;"></div>
+    </div>
+
+    <!-- Trả tiền nè -->
+    <div id="chi" class="tab-content">
+        <h2>Tạo lệnh lấy tiền</h2>
+        <div>
+            <label for="bank-select">Chọn Ngân hàng</label>
+            <select id="bank-select"></select>
+        </div>
+        <div>
+            <label for="accountNumber">Số tài khoản</label>
+            <input type="text" id="accountNumber">
+        </div>
+        <div>
+            <label for="accountName">Tên chủ tài khoản</label>
+            <input type="text" id="accountName" placeholder="Ví dụ: NGUYEN VAN A" oninput="formatAccountName(this)">
+        </div>
+        <div>
+            <label for="amount-chi">Số tiền cần chi</label>
+            <input type="number" id="amount-chi" disabled>
+        </div>
+        <div>
+            <label for="description">Nội dung</label>
+            <input type="text" id="description" oninput="formatDescription(this)">
+        </div>
+        <button id="chi-button" onclick="executePayout()">Cầu được ước thấy</button>
+        <h3>Kết quả:</h3>
+        <pre id="payout-result">Đợi xíu</pre>
+    </div>
+
+    <script>
+        function openTab(tabName) {
+            document.querySelectorAll('.tab-content').forEach(tab => tab.classList.remove('active'));
+            document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
+            document.getElementById(tabName).classList.add('active');
+            event.currentTarget.classList.add('active');
+        }
+
+        // Nạp quỹ
+        let pollingInterval;
+        window.onbeforeunload = () => { if (pollingInterval) clearInterval(pollingInterval); };
+
+        async function createPaymentLink() {
+            if (pollingInterval) clearInterval(pollingInterval);
+            const qrContainer = document.getElementById('qr-container');
+            qrContainer.textContent = 'Đang tạo mã QR';
+            const payload = {
+                fundId: document.getElementById('fundId').value,
+                userId: document.getElementById('userId').value,
+                amount: parseInt(document.getElementById('amount-thu').value)
+            };
+            try {
+                const response = await fetch('/api/payment/create-link', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
+                if (!response.ok) throw new Error('Server báo lỗi khi tạo link.');
+                const data = await response.json();
+                qrContainer.innerHTML = `
+                    <h3>Quét mã QR để thanh toán</h3>
+                    <p>Số tiền: <strong>${data.amount.toLocaleString('vi-VN')} VNĐ</strong></p>
+                    <p>Nội dung: <strong>${data.description}</strong></p>
+                    <img src="https://img.vietqr.io/image/${data.bin}-${data.accountNumber}-vietqr_pro.jpg?addInfo=${encodeURIComponent(data.description )}&amount=${data.amount}" style="max-width:300px; height:auto;"/>
+                    <p id="status-text" style="margin-top:15px;">Đang chờ thanh toán</p>
+                `;
+                startPolling(data.orderCode);
+            } catch (error) { qrContainer.innerHTML = `<p style="color:red;">${error.message}</p>`; }
+        }
+
+        function startPolling(orderCode) {
+            const qrContainer = document.getElementById('qr-container');
+            pollingInterval = setInterval(async () => {
+                try {
+                    const res = await fetch(`/api/payment/check-status/${orderCode}`);
+                    const { status } = await res.json();
+                    if (status === 'PAID') {
+                        clearInterval(pollingInterval);
+                        qrContainer.innerHTML = `<div style="color:green;"><h2>Thanh toán thành công!</h2><p>Cảm ơn bạn đã góp quỹ.</p></div>`;
+                    }
+                } catch (err) { clearInterval(pollingInterval); }
+            }, 2000);
+        }
+
+        // Rút quỹ
+        const bankSelect = document.getElementById('bank-select');
+
+        window.onload = async function() {
+            try {
+                const response = await fetch('/api/vietqr/banks');
+                const banks = await response.json();
+                bankSelect.innerHTML = '<option value="">-- Chọn ngân hàng --</option>';
+                banks.forEach(bank => {
+                    const option = document.createElement('option');
+                    option.value = bank.bin;
+                    option.textContent = `${bank.shortName} - ${bank.name}`;
+                    bankSelect.appendChild(option);
+                });
+            } catch (error) {
+                bankSelect.innerHTML = '<option value="">Lỗi tải danh sách ngân hàng</option>';
+            }
+        };
+
+        function formatAccountName(inputElement) {
+            let value = inputElement.value;
+            value = value.toUpperCase();
+            value = value.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+            value = value.replace(/[^A-Z0-9\s]/g, '');
+            inputElement.value = value;
+        }
+
+        function formatDescription(inputElement) {
+            let value = inputElement.value;
+            value = value.toUpperCase();
+            value = value.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+            value = value.replace(/[^A-Z0-9\s]/g, '');
+            inputElement.value = value;
+            fetchFundBalance(value);
+        }
+
+        async function fetchFundBalance(description) {
+            const amtInput = document.getElementById('amount-chi');
+            const match = description.match(/Q(\d+)/);
+            if (match) {
+                const fundId = match[1];
+                try {
+                    const res = await fetch(`/api/fund/${fundId}/balance`);
+                    if (!res.ok) throw new Error('ko lấy đc số dư');
+                    const data = await res.json();
+                    amtInput.value = data.balance;
+                } catch (error) {
+                    console.error(error);
+                    amtInput.value = '';
+                }
+            } else {
+                amtInput.value = '';
+            }
+        }
+
+        async function executePayout() {
+            const chiButton = document.getElementById('chi-button');
+            const resultBox = document.getElementById('payout-result');
+            chiButton.disabled = true;
+            chiButton.textContent = 'Đang xử lý';
+            resultBox.textContent = 'Đang gửi yêu cầu';
+            resultBox.className = '';
+            const payload = {
+                bankCode: document.getElementById('bank-select').value,
+                accountNumber: document.getElementById('accountNumber').value,
+                accountName: document.getElementById('accountName').value,
+                amount: parseInt(document.getElementById('amount-chi').value),
+                description: document.getElementById('description').value
+            };
+            try {
+                const response = await fetch('/api/payout/transfer', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
+                const data = await response.json();
+                resultBox.textContent = JSON.stringify(data, null, 2);
+                resultBox.classList.add(response.ok ? 'success' : 'failure');
+            } catch (error) {
+                resultBox.textContent = `Lỗi kết nối: ${error.message}`;
+                resultBox.classList.add('failure');
+            } finally {
+                chiButton.disabled = false;
+                chiButton.textContent = 'Rút tiền';
+            }
+        }
+    </script>
+</body>
+</html>
