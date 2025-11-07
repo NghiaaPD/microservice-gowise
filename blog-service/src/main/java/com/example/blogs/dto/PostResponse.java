@@ -17,5 +17,9 @@ public class PostResponse {
     PostStatus status;
     long likeCount;
     long viewCount;
+    String category;
+    String coverImageUrl;
+    Instant createdAt;
+    Instant updatedAt;
+    Instant publishedAt;
 }
-
