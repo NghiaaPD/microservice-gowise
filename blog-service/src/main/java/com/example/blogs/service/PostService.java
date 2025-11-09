@@ -3,6 +3,7 @@ package com.example.blogs.service;
 import com.example.blogs.dto.PostCreateRequest;
 import com.example.blogs.dto.PostResponse;
 import com.example.blogs.dto.PostUpdateRequest;
+import com.example.blogs.dto.UserPostStatsResponse;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.lang.Nullable;
@@ -15,7 +16,7 @@ public interface PostService {
 
     PostResponse update(UUID userId, UUID postId, PostUpdateRequest req);
 
-    void softDelete(UUID userId, UUID postId);
+    UserPostStatsResponse softDelete(UUID userId, UUID postId);
 
     PostResponse getOne(UUID postId, @Nullable UUID requesterUserId);
 

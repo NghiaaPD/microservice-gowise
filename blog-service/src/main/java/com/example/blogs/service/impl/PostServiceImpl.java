@@ -3,6 +3,7 @@ package com.example.blogs.service.impl;
 import com.example.blogs.dto.PostCreateRequest;
 import com.example.blogs.dto.PostResponse;
 import com.example.blogs.dto.PostUpdateRequest;
+import com.example.blogs.dto.UserPostStatsResponse;
 import com.example.blogs.entity.Post;
 import com.example.blogs.entity.PostLike;
 import com.example.blogs.entity.PostStatus;
@@ -65,11 +66,12 @@ public class PostServiceImpl implements PostService {
     }
 
     @Override
-    public void softDelete(UUID userId, UUID postId) {
+    public UserPostStatsResponse softDelete(UUID userId, UUID postId) {
         Post p = postRepo.findById(postId).orElseThrow(() -> notFound(postId));
         ensureOwner(userId, p);
         p.setDeleted(true);
         postRepo.save(p);
+        return snapshotUserStats(userId);
     }
 
     @Override
@@ -188,6 +190,13 @@ public class PostServiceImpl implements PostService {
                 .updatedAt(p.getUpdatedAt())
                 .publishedAt(p.getPublishedAt())
                 .build();
+    }
+
+    private UserPostStatsResponse snapshotUserStats(UUID userId) {
+        long totalPosts = postRepo.countByDeletedFalseAndAuthorUserId(userId);
+        long totalLikes = likeRepo.countByAuthorUserId(userId);
+        long totalViews = countTotalViewsByAuthor(userId);
+        return new UserPostStatsResponse(totalPosts, totalLikes, totalViews);
     }
 
     private String normalizeCategory(String category) {

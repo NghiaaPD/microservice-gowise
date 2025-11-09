@@ -55,4 +55,6 @@ public interface PostRepository extends JpaRepository<Post, UUID> {
             where p.deleted = false and p.authorUserId = :authorId
             """)
     Long sumViewsByAuthor(@Param("authorId") UUID authorId);
+
+    long countByDeletedFalseAndAuthorUserId(UUID authorUserId);
 }

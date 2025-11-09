@@ -63,13 +63,14 @@ public class PostController {
 
 //    Soft Delete
     @DeleteMapping("/{postId}")
-    public ResponseEntity<ApiResponse<Void>> delete(
+    public ResponseEntity<ApiResponse<UserPostStatsResponse>> delete(
             @RequestHeader("X-User-Id") String userHeader,
             @PathVariable UUID postId
     ) {
         UUID userId = UserIdResolver.requireUserId(userHeader);
-        postService.softDelete(userId, postId);
-        return ResponseEntity.status(HttpStatus.OK).body(ApiResponse.ok(null, Map.of("message", "Deleted post!")));
+        UserPostStatsResponse stats = postService.softDelete(userId, postId);
+        return ResponseEntity.status(HttpStatus.OK)
+                .body(ApiResponse.ok(stats, Map.of("message", "Deleted post!")));
     }
 
 //    return a blog with user right
