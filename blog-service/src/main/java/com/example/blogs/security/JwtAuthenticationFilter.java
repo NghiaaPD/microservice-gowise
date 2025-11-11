@@ -18,8 +18,10 @@ import org.springframework.web.filter.OncePerRequestFilter;
 
 import java.io.IOException;
 import java.time.Instant;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
+import java.util.Set;
 import java.util.UUID;
 import java.util.stream.Collectors;
 
@@ -28,6 +30,10 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
 
     private final JwtUtils jwtUtils;
     private final boolean enableHeaderFallback;
+    private static final Set<String> KNOWN_ROLES =
+            Arrays.stream(Role.values())
+                    .map(Enum::name)
+                    .collect(Collectors.toSet());
 
     @Override
     protected void doFilterInternal(HttpServletRequest request,
@@ -37,6 +43,8 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
         String auth = request.getHeader(HttpHeaders.AUTHORIZATION);
         boolean authenticated = false;
 
+        boolean tokenInvalid = false;
+
         if (StringUtils.hasText(auth) && auth.startsWith("Bearer ")) {
             String token = auth.substring(7);
             try {
@@ -44,30 +52,26 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
                 setAuthentication(parsed.userId(), parsed.roles());
                 authenticated = true;
             } catch (Exception e) {
-                // Token sai hoặc hết hạn => trả 401 JSON
+                tokenInvalid = true;
                 SecurityContextHolder.clearContext();
-
-                ApiError body = new ApiError(
-                        HttpStatus.UNAUTHORIZED.value(),
-                        HttpStatus.UNAUTHORIZED.getReasonPhrase(),
-                        "Invalid or expired token"
-                );
-                response.setStatus(HttpStatus.UNAUTHORIZED.value());
-                response.setContentType("application/json");
-                new ObjectMapper().writeValue(response.getWriter(), body);
-                return; // Dừng chain, không cho đi tiếp
             }
         }
 
-        // Fallback: nếu bật & chưa authenticated & có X-User-Id -> set ROLE_USER
+        // Fallback: nếu bật & chưa authenticated & có header phù hợp
         if (!authenticated && enableHeaderFallback) {
-            String userHeader = request.getHeader("X-User-Id");
-            if (StringUtils.hasText(userHeader)) {
-                try {
-                    UUID uid = UUID.fromString(userHeader);
-                    setAuthentication(uid, List.of(Role.USER.name()));
-                } catch (IllegalArgumentException ignored) { }
-            }
+            authenticated = tryHeaderFallback(request);
+        }
+
+        if (!authenticated && tokenInvalid) {
+            ApiError body = new ApiError(
+                    HttpStatus.UNAUTHORIZED.value(),
+                    HttpStatus.UNAUTHORIZED.getReasonPhrase(),
+                    "Invalid or expired token"
+            );
+            response.setStatus(HttpStatus.UNAUTHORIZED.value());
+            response.setContentType("application/json");
+            new ObjectMapper().writeValue(response.getWriter(), body);
+            return;
         }
 
         chain.doFilter(request, response);
@@ -93,5 +97,38 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
 
         System.out.println("[JWT] user=" + userId + " authorities=" +
                 authorities.stream().map(a -> a.getAuthority()).toList());
+    }
+
+    private boolean tryHeaderFallback(HttpServletRequest request) {
+        String userHeader = request.getHeader("X-User-Id");
+        if (!StringUtils.hasText(userHeader)) {
+            return false;
+        }
+        try {
+            UUID uid = UUID.fromString(userHeader);
+            List<String> fallbackRoles = parseRolesHeader(request.getHeader("X-User-Roles"));
+            if (fallbackRoles.isEmpty()) {
+                fallbackRoles = List.of(Role.USER.name());
+            }
+            setAuthentication(uid, fallbackRoles);
+            return true;
+        } catch (IllegalArgumentException ignored) {
+            return false;
+        }
+    }
+
+    private List<String> parseRolesHeader(String header) {
+        if (!StringUtils.hasText(header)) {
+            return List.of();
+        }
+        return Arrays.stream(header.split(","))
+                .map(String::trim)
+                .filter(StringUtils::hasText)
+                .map(role -> role.toUpperCase().startsWith("ROLE_")
+                        ? role.substring(5)
+                        : role.toUpperCase())
+                .filter(KNOWN_ROLES::contains)
+                .distinct()
+                .toList();
     }
 }

@@ -1,6 +1,9 @@
 package org.example.updateplan.service;
 
 import java.nio.charset.StandardCharsets;
+import java.time.OffsetDateTime;
+import java.time.ZoneOffset;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.Objects;
@@ -13,6 +16,7 @@ import org.example.updateplan.dto.CreatePaymentLinkRequestDto;
 import org.example.updateplan.model.PaymentRecord;
 import org.example.updateplan.repository.PaymentRecordRepository;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.Assert;
 import org.springframework.util.StringUtils;
 
@@ -39,6 +43,7 @@ public class PayOSService {
     public CreatePaymentLinkResponse createPaymentLink(CreatePaymentLinkRequestDto requestDto) {
         Assert.notNull(requestDto, "requestDto must not be null");
 
+        UUID userId = Objects.requireNonNull(requestDto.getUserId(), "userId is required");
         String description = Optional.ofNullable(requestDto.getDescription())
                 .filter(StringUtils::hasText)
                 .orElse("PayOS payment");
@@ -47,6 +52,7 @@ public class PayOSService {
         Long orderCode = generateOrderCode();
 
         List<PaymentLinkItem> items = buildFixedPriceItems(requestDto, description);
+        OffsetDateTime expiresAt = generateAutoExpiry();
 
         CreatePaymentLinkRequest.CreatePaymentLinkRequestBuilder builder = CreatePaymentLinkRequest.builder()
                 .orderCode(orderCode)
@@ -54,6 +60,7 @@ public class PayOSService {
                 .description(description)
                 .cancelUrl(cancelUrl)
                 .returnUrl(returnUrl)
+                .expiredAt(expiresAt.toEpochSecond())
                 .items(items);
 
         BuyerInfoDto buyer = requestDto.getBuyer();
@@ -78,12 +85,8 @@ public class PayOSService {
             }
         }
 
-        if (requestDto.getExpiredAt() != null) {
-            builder.expiredAt(requestDto.getExpiredAt());
-        }
-
         CreatePaymentLinkResponse response = payOS.paymentRequests().create(builder.build());
-        persistPaymentRecord(orderCode, description, response);
+        persistPaymentRecord(userId, orderCode, description, response, expiresAt);
         return response;
     }
 
@@ -107,8 +110,38 @@ public class PayOSService {
         return List.of(item);
     }
 
-    private void persistPaymentRecord(Long orderCode, String description, CreatePaymentLinkResponse response) {
-        PaymentRecord record = new PaymentRecord();
+    @Transactional
+    public int markExpiredRecordsAsFailed() {
+        OffsetDateTime now = OffsetDateTime.now();
+        List<PaymentRecord> expiredRecords = paymentRecordRepository.findByExpiresAtBefore(now);
+        if (expiredRecords.isEmpty()) {
+            return 0;
+        }
+        List<PaymentRecord> toUpdate = new ArrayList<>();
+        for (PaymentRecord record : expiredRecords) {
+            String status = record.getStatus();
+            if (PaymentLinkStatus.PAID.name().equals(status) || PaymentLinkStatus.FAILED.name().equals(status)) {
+                continue;
+            }
+            record.setStatus(PaymentLinkStatus.FAILED.name());
+            toUpdate.add(record);
+        }
+        if (toUpdate.isEmpty()) {
+            return 0;
+        }
+        paymentRecordRepository.saveAll(toUpdate);
+        return toUpdate.size();
+    }
+
+    private OffsetDateTime generateAutoExpiry() {
+        // Ensure the payment link expires two minutes after creation.
+        return OffsetDateTime.now(ZoneOffset.UTC).plusMinutes(2);
+    }
+
+    private void persistPaymentRecord(UUID userId, Long orderCode, String description,
+            CreatePaymentLinkResponse response, OffsetDateTime expiresAt) {
+        PaymentRecord record = paymentRecordRepository.findById(userId).orElseGet(PaymentRecord::new);
+        record.setId(userId);
         record.setOrderCode(orderCode);
         record.setAmount(FIXED_PRICE_VND);
         record.setDescription(description);
@@ -119,6 +152,7 @@ public class PayOSService {
         }
         record.setCheckoutUrl(response.getCheckoutUrl());
         record.setQrCode(response.getQrCode());
+        record.setExpiresAt(expiresAt);
         paymentRecordRepository.save(record);
     }
 

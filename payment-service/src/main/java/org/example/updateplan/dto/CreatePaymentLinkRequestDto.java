@@ -2,8 +2,16 @@ package org.example.updateplan.dto;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.UUID;
+
+import com.fasterxml.jackson.annotation.JsonAlias;
+import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class CreatePaymentLinkRequestDto {
+
+    @JsonProperty("userId")
+    @JsonAlias("id")
+    private UUID userId;
 
     private Long orderCode;
 
@@ -20,6 +28,14 @@ public class CreatePaymentLinkRequestDto {
     private BuyerInfoDto buyer;
 
     private List<PaymentLinkItemDto> items = new ArrayList<>();
+
+    public UUID getUserId() {
+        return userId;
+    }
+
+    public void setUserId(UUID userId) {
+        this.userId = userId;
+    }
 
     public Long getOrderCode() {
         return orderCode;
@@ -85,4 +101,3 @@ public class CreatePaymentLinkRequestDto {
         this.items = items;
     }
 }
-

@@ -34,3 +34,7 @@ security:
     base64-secret: "4pMrj9Q5aOg/Qi9tYfYQLIww81gmtLda4MCRkwCtBhPLgx9bYCzJH0h8ojM0fZ9VQi/Gf0u6XMmiiA7si55glg=="
     ttl-seconds: 600
   fallback-header-auth: true
+
+app:
+  cors:
+    allowed-origins: "http://localhost:5173, http://gowise.ddns.net:8081"

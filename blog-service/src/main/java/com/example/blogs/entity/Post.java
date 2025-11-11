@@ -58,6 +58,12 @@ public class Post {
     @Column(name = "view_count", nullable = false)
     private long viewCount = 0L;
 
+    @Column(length = 80)
+    private String category = "Travel Stories";
+
+    @Column(name = "cover_image_url", length = 512)
+    private String coverImageUrl;
+
     private Instant publishedAt;
 
     private UUID moderatedByUserId;

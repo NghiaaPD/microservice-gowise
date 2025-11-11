@@ -14,4 +14,10 @@ public class PostCreateRequest {
 
     @NotBlank
     private String content;
+
+    @Size(max = 80)
+    private String category;
+
+    @Size(max = 512)
+    private String coverImageUrl;
 }

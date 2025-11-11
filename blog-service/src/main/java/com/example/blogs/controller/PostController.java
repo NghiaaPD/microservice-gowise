@@ -63,22 +63,26 @@ public class PostController {
 
 //    Soft Delete
     @DeleteMapping("/{postId}")
-    public ResponseEntity<ApiResponse<Void>> delete(
+    public ResponseEntity<ApiResponse<UserPostStatsResponse>> delete(
             @RequestHeader("X-User-Id") String userHeader,
             @PathVariable UUID postId
     ) {
         UUID userId = UserIdResolver.requireUserId(userHeader);
-        postService.softDelete(userId, postId);
-        return ResponseEntity.status(HttpStatus.OK).body(ApiResponse.ok(null, Map.of("message", "Deleted post!")));
+        UserPostStatsResponse stats = postService.softDelete(userId, postId);
+        return ResponseEntity.status(HttpStatus.OK)
+                .body(ApiResponse.ok(stats, Map.of("message", "Deleted post!")));
     }
 
 //    return a blog with user right
     @GetMapping("/{postId}")
     public ResponseEntity<ApiResponse<PostResponse>> getOne(
-            @RequestHeader("X-User-Id") String userHeader,
+            @RequestHeader(value = "X-User-Id", required = false) String userHeader,
             @PathVariable UUID postId
     ) {
-        UUID userId = UserIdResolver.requireUserId(userHeader);
+        UUID userId = null;
+        if (StringUtils.hasText(userHeader)) {
+            userId = UserIdResolver.requireUserId(userHeader);
+        }
         PostResponse body = postService.getOne(postId, userId);
         return  ResponseEntity.status(HttpStatus.OK).body(ApiResponse.ok(body));
     }
@@ -87,7 +91,24 @@ public class PostController {
     @GetMapping("/feed")
     public ResponseEntity<ApiResponse<PageResponse<PostResponse>>> feed(Pageable pageable) {
         Page<PostResponse> body = postService.getFeed(pageable);
-        return ResponseEntity.status(HttpStatus.OK).body(ApiResponse.ok(PageResponse.from(body)));
+        return ResponseEntity.status(HttpStatus.OK)
+                .body(ApiResponse.ok(PageResponse.from(body), Map.of("categories", postService.getActiveCategories())));
+    }
+
+    // Timeline: bài đã duyệt + bài của chính mình
+    @GetMapping("/timeline")
+    public ResponseEntity<ApiResponse<PageResponse<PostResponse>>> timeline(
+            @RequestHeader(value = "X-User-Id", required = false) String userHeader,
+            @RequestParam(value = "search", required = false) String search,
+            @RequestParam(value = "category", required = false) String category,
+            Pageable pageable
+    ) {
+        UUID userId = null;
+        if (StringUtils.hasText(userHeader)) {
+            userId = UserIdResolver.requireUserId(userHeader);
+        }
+        Page<PostResponse> body = postService.getTimeline(userId, search, category, pageable);
+        return ResponseEntity.ok(ApiResponse.ok(PageResponse.from(body), Map.of("categories", postService.getActiveCategories())));
     }
 
     // Bài của chính mình (mọi trạng thái, trừ deleted)
@@ -98,8 +119,8 @@ public class PostController {
     ) {
         UUID userId = UserIdResolver.requireUserId(userHeader);
         Page<PostResponse> body = postService.getMyPosts(userId, pageable);
-        long totalLikes = body.getContent().stream().mapToLong(PostResponse::getLikeCount).sum();
-        long totalViews = body.getContent().stream().mapToLong(PostResponse::getViewCount).sum();
+        long totalLikes = postService.countTotalLikesByAuthor(userId);
+        long totalViews = postService.countTotalViewsByAuthor(userId);
         return ResponseEntity.status(HttpStatus.OK).body(ApiResponse.ok(PageResponse.from(body), Map.of("totalLike", totalLikes, "totalViews", totalViews)));
     }
 
