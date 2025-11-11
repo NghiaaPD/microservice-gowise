@@ -1,40 +1,48 @@
 spring:
   application:
-    name: Blogs
+    name: blog-service
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/blogdb
-    username: gowise
-    password: 12345
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/blog_service}
+    username: ${DB_USERNAME:postgres}
+    password: ${DB_PASSWORD:postgres}
     driver-class-name: org.postgresql.Driver
 
   jpa:
     hibernate:
-      ddl-auto: update
-    show-sql: true
+      ddl-auto: ${JPA_DDL_AUTO:update}
+    show-sql: ${JPA_SHOW_SQL:true}
     properties:
       hibernate:
-        format_sql: true
+        format_sql: ${JPA_FORMAT_SQL:true}
     open-in-view: false
 
   docker:
     compose:
       enabled: false
 
-management:
-    endpoints:
-      web:
-        exposure:
-          include: health,info
+server:
+  port: ${SERVER_PORT:9101}
 
+eureka:
+  client:
+    service-url:
+      defaultZone: ${EUREKA_SERVER_URL:http://localhost:8761/eureka/}
+  instance:
+    prefer-ip-address: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
 
 security:
   jwt:
-
-    base64-secret: "4pMrj9Q5aOg/Qi9tYfYQLIww81gmtLda4MCRkwCtBhPLgx9bYCzJH0h8ojM0fZ9VQi/Gf0u6XMmiiA7si55glg=="
-    ttl-seconds: 600
-  fallback-header-auth: true
+    base64-secret: ${JWT_SECRET:4pMrj9Q5aOg/Qi9tYfYQLIww81gmtLda4MCRkwCtBhPLgx9bYCzJH0h8ojM0fZ9VQi/Gf0u6XMmiiA7si55glg==}
+    ttl-seconds: ${JWT_TTL_SECONDS:600}
+  fallback-header-auth: ${FALLBACK_HEADER_AUTH:true}
 
 app:
   cors:
-    allowed-origins: "http://localhost:5173, http://gowise.ddns.net:8081"
+    allowed-origins: ${CORS_ALLOWED_ORIGINS:http://localhost:5173,http://gowise.ddns.net:8081}

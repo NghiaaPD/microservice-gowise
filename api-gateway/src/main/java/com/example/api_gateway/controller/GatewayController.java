@@ -1447,4 +1447,392 @@ public class GatewayController {
                             "error", e.getMessage()));
         }
     }
+
+    // ========================== BLOG SERVICE ROUTES ==========================
+
+    /**
+     * Create a new blog post
+     */
+    @PostMapping("/api/posts")
+    public ResponseEntity<Object> createPost(
+            @org.springframework.web.bind.annotation.RequestHeader HttpHeaders headers,
+            @RequestBody Map<String, Object> body) {
+        try {
+            String serviceUrl = loadBalancer.choose("BLOG-SERVICE").getUri().toString();
+            String url = serviceUrl + "/api/posts";
+
+            HttpHeaders forwardHeaders = new HttpHeaders();
+            forwardHeaders.setContentType(MediaType.APPLICATION_JSON);
+            if (headers.containsKey("Authorization")) {
+                forwardHeaders.set("Authorization", headers.getFirst("Authorization"));
+            }
+            if (headers.containsKey("X-User-Id")) {
+                forwardHeaders.set("X-User-Id", headers.getFirst("X-User-Id"));
+            }
+
+            HttpEntity<Map<String, Object>> request = new HttpEntity<>(body, forwardHeaders);
+            return restTemplate.exchange(url, HttpMethod.POST, request, Object.class);
+        } catch (HttpClientErrorException | HttpServerErrorException e) {
+            logger.error("Error creating post: {}", e.getMessage());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Unexpected error creating post: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Blog service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Get all posts with pagination
+     */
+    @GetMapping("/api/posts")
+    public ResponseEntity<Object> getAllPosts(@RequestParam Map<String, String> params) {
+        try {
+            String serviceUrl = loadBalancer.choose("BLOG-SERVICE").getUri().toString();
+            StringBuilder url = new StringBuilder(serviceUrl + "/api/posts");
+
+            if (!params.isEmpty()) {
+                url.append("?");
+                params.forEach((key, value) -> url.append(key).append("=").append(value).append("&"));
+            }
+
+            return restTemplate.getForEntity(url.toString(), Object.class);
+        } catch (Exception e) {
+            logger.error("Error getting posts: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Blog service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Get a specific post by ID
+     */
+    @GetMapping("/api/posts/{postId}")
+    public ResponseEntity<Object> getPostById(@PathVariable String postId) {
+        try {
+            String serviceUrl = loadBalancer.choose("BLOG-SERVICE").getUri().toString();
+            String url = serviceUrl + "/api/posts/" + postId;
+            return restTemplate.getForEntity(url, Object.class);
+        } catch (HttpClientErrorException | HttpServerErrorException e) {
+            logger.error("Error getting post: {}", e.getMessage());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Unexpected error getting post: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Blog service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Update a post
+     */
+    @PutMapping("/api/posts/{postId}")
+    public ResponseEntity<Object> updatePost(
+            @PathVariable String postId,
+            @org.springframework.web.bind.annotation.RequestHeader HttpHeaders headers,
+            @RequestBody Map<String, Object> body) {
+        try {
+            String serviceUrl = loadBalancer.choose("BLOG-SERVICE").getUri().toString();
+            String url = serviceUrl + "/api/posts/" + postId;
+
+            HttpHeaders forwardHeaders = new HttpHeaders();
+            forwardHeaders.setContentType(MediaType.APPLICATION_JSON);
+            if (headers.containsKey("Authorization")) {
+                forwardHeaders.set("Authorization", headers.getFirst("Authorization"));
+            }
+            if (headers.containsKey("X-User-Id")) {
+                forwardHeaders.set("X-User-Id", headers.getFirst("X-User-Id"));
+            }
+
+            HttpEntity<Map<String, Object>> request = new HttpEntity<>(body, forwardHeaders);
+            return restTemplate.exchange(url, HttpMethod.PUT, request, Object.class);
+        } catch (HttpClientErrorException | HttpServerErrorException e) {
+            logger.error("Error updating post: {}", e.getMessage());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Unexpected error updating post: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Blog service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Delete a post
+     */
+    @DeleteMapping("/api/posts/{postId}")
+    public ResponseEntity<Object> deletePost(
+            @PathVariable String postId,
+            @org.springframework.web.bind.annotation.RequestHeader HttpHeaders headers) {
+        try {
+            String serviceUrl = loadBalancer.choose("BLOG-SERVICE").getUri().toString();
+            String url = serviceUrl + "/api/posts/" + postId;
+
+            HttpHeaders forwardHeaders = new HttpHeaders();
+            if (headers.containsKey("Authorization")) {
+                forwardHeaders.set("Authorization", headers.getFirst("Authorization"));
+            }
+            if (headers.containsKey("X-User-Id")) {
+                forwardHeaders.set("X-User-Id", headers.getFirst("X-User-Id"));
+            }
+
+            HttpEntity<Void> request = new HttpEntity<>(forwardHeaders);
+            return restTemplate.exchange(url, HttpMethod.DELETE, request, Object.class);
+        } catch (HttpClientErrorException | HttpServerErrorException e) {
+            logger.error("Error deleting post: {}", e.getMessage());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Unexpected error deleting post: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Blog service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Like a post
+     */
+    @PostMapping("/api/posts/{postId}/like")
+    public ResponseEntity<Object> likePost(
+            @PathVariable String postId,
+            @org.springframework.web.bind.annotation.RequestHeader HttpHeaders headers) {
+        try {
+            String serviceUrl = loadBalancer.choose("BLOG-SERVICE").getUri().toString();
+            String url = serviceUrl + "/api/posts/" + postId + "/like";
+
+            HttpHeaders forwardHeaders = new HttpHeaders();
+            if (headers.containsKey("Authorization")) {
+                forwardHeaders.set("Authorization", headers.getFirst("Authorization"));
+            }
+            if (headers.containsKey("X-User-Id")) {
+                forwardHeaders.set("X-User-Id", headers.getFirst("X-User-Id"));
+            }
+
+            HttpEntity<Void> request = new HttpEntity<>(forwardHeaders);
+            return restTemplate.exchange(url, HttpMethod.POST, request, Object.class);
+        } catch (HttpClientErrorException | HttpServerErrorException e) {
+            logger.error("Error liking post: {}", e.getMessage());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Unexpected error liking post: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Blog service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Unlike a post
+     */
+    @DeleteMapping("/api/posts/{postId}/like")
+    public ResponseEntity<Object> unlikePost(
+            @PathVariable String postId,
+            @org.springframework.web.bind.annotation.RequestHeader HttpHeaders headers) {
+        try {
+            String serviceUrl = loadBalancer.choose("BLOG-SERVICE").getUri().toString();
+            String url = serviceUrl + "/api/posts/" + postId + "/like";
+
+            HttpHeaders forwardHeaders = new HttpHeaders();
+            if (headers.containsKey("Authorization")) {
+                forwardHeaders.set("Authorization", headers.getFirst("Authorization"));
+            }
+            if (headers.containsKey("X-User-Id")) {
+                forwardHeaders.set("X-User-Id", headers.getFirst("X-User-Id"));
+            }
+
+            HttpEntity<Void> request = new HttpEntity<>(forwardHeaders);
+            return restTemplate.exchange(url, HttpMethod.DELETE, request, Object.class);
+        } catch (HttpClientErrorException | HttpServerErrorException e) {
+            logger.error("Error unliking post: {}", e.getMessage());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Unexpected error unliking post: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Blog service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Get my posts (current user's posts)
+     */
+    @GetMapping("/api/posts/me")
+    public ResponseEntity<Object> getMyPosts(
+            @org.springframework.web.bind.annotation.RequestHeader HttpHeaders headers,
+            @RequestParam Map<String, String> params) {
+        try {
+            var serviceInstance = loadBalancer.choose("BLOG-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("No instances of BLOG-SERVICE available");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "Blog service temporarily unavailable"));
+            }
+
+            String serviceUrl = serviceInstance.getUri().toString();
+            StringBuilder url = new StringBuilder(serviceUrl + "/api/posts/me");
+
+            if (!params.isEmpty()) {
+                url.append("?");
+                params.forEach((key, value) -> url.append(key).append("=").append(value).append("&"));
+            }
+
+            HttpHeaders forwardHeaders = new HttpHeaders();
+            if (headers.containsKey("Authorization")) {
+                forwardHeaders.set("Authorization", headers.getFirst("Authorization"));
+            }
+            if (headers.containsKey("X-User-Id")) {
+                forwardHeaders.set("X-User-Id", headers.getFirst("X-User-Id"));
+            }
+            if (headers.containsKey("X-User-Roles")) {
+                forwardHeaders.set("X-User-Roles", headers.getFirst("X-User-Roles"));
+            }
+
+            HttpEntity<Void> request = new HttpEntity<>(forwardHeaders);
+            return restTemplate.exchange(url.toString(), HttpMethod.GET, request, Object.class);
+        } catch (HttpClientErrorException | HttpServerErrorException e) {
+            logger.error("Error getting my posts: {}", e.getMessage());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Unexpected error getting my posts: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Blog service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Get posts by user
+     */
+    @GetMapping("/api/posts/by-user/{userId}")
+    public ResponseEntity<Object> getPostsByUser(
+            @PathVariable String userId,
+            @RequestParam Map<String, String> params) {
+        try {
+            String serviceUrl = loadBalancer.choose("BLOG-SERVICE").getUri().toString();
+            StringBuilder url = new StringBuilder(serviceUrl + "/api/posts/by-user/" + userId);
+
+            if (!params.isEmpty()) {
+                url.append("?");
+                params.forEach((key, value) -> url.append(key).append("=").append(value).append("&"));
+            }
+
+            return restTemplate.getForEntity(url.toString(), Object.class);
+        } catch (Exception e) {
+            logger.error("Error getting user posts: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Blog service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Get user post statistics
+     */
+    @GetMapping("/api/posts/stats/{userId}")
+    public ResponseEntity<Object> getUserPostStats(@PathVariable String userId) {
+        try {
+            String serviceUrl = loadBalancer.choose("BLOG-SERVICE").getUri().toString();
+            String url = serviceUrl + "/api/posts/stats/" + userId;
+            return restTemplate.getForEntity(url, Object.class);
+        } catch (Exception e) {
+            logger.error("Error getting user post stats: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Blog service temporarily unavailable"));
+        }
+    }
+
+    // ========================== ADMIN BLOG ROUTES ==========================
+
+    /**
+     * Get pending posts for moderation
+     */
+    @GetMapping("/api/admin/posts/pending")
+    public ResponseEntity<Object> getPendingPosts(
+            @org.springframework.web.bind.annotation.RequestHeader HttpHeaders headers,
+            @RequestParam Map<String, String> params) {
+        try {
+            var serviceInstance = loadBalancer.choose("BLOG-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("BLOG-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "Blog service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            StringBuilder url = new StringBuilder(serviceUrl + "/api/admin/posts/pending");
+
+            if (!params.isEmpty()) {
+                url.append("?");
+                params.forEach((key, value) -> url.append(key).append("=").append(value).append("&"));
+            }
+
+            HttpHeaders forwardHeaders = new HttpHeaders();
+            if (headers.containsKey("Authorization")) {
+                forwardHeaders.set("Authorization", headers.getFirst("Authorization"));
+            }
+            if (headers.containsKey("X-User-Id")) {
+                forwardHeaders.set("X-User-Id", headers.getFirst("X-User-Id"));
+            }
+            if (headers.containsKey("X-User-Roles")) {
+                forwardHeaders.set("X-User-Roles", headers.getFirst("X-User-Roles"));
+            }
+
+            HttpEntity<Void> request = new HttpEntity<>(forwardHeaders);
+            return restTemplate.exchange(url.toString(), HttpMethod.GET, request, Object.class);
+        } catch (Exception e) {
+            logger.error("Error getting pending posts: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Blog service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * Moderate a post (approve/reject)
+     */
+    @PostMapping("/api/admin/posts/{postId}/moderate")
+    public ResponseEntity<Object> moderatePost(
+            @PathVariable String postId,
+            @org.springframework.web.bind.annotation.RequestHeader HttpHeaders headers,
+            @RequestBody Map<String, Object> body) {
+        try {
+            var serviceInstance = loadBalancer.choose("BLOG-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("BLOG-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "Blog service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/api/admin/posts/" + postId + "/moderate";
+
+            HttpHeaders forwardHeaders = new HttpHeaders();
+            forwardHeaders.setContentType(MediaType.APPLICATION_JSON);
+            if (headers.containsKey("Authorization")) {
+                forwardHeaders.set("Authorization", headers.getFirst("Authorization"));
+            }
+            if (headers.containsKey("X-User-Id")) {
+                forwardHeaders.set("X-User-Id", headers.getFirst("X-User-Id"));
+            }
+            if (headers.containsKey("X-User-Roles")) {
+                forwardHeaders.set("X-User-Roles", headers.getFirst("X-User-Roles"));
+            }
+
+            HttpEntity<Map<String, Object>> request = new HttpEntity<>(body, forwardHeaders);
+            return restTemplate.exchange(url, HttpMethod.POST, request, Object.class);
+        } catch (HttpClientErrorException | HttpServerErrorException e) {
+            logger.error("Error moderating post: {}", e.getMessage());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Unexpected error moderating post: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Blog service temporarily unavailable"));
+        }
+    }
 }

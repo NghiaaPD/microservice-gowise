@@ -34,7 +34,7 @@ public class SecurityConfig {
     private String corsAllowedOrigins;
 
     private final JsonAuthenticationEntryPoint authenticationEntryPoint; // 401
-    private final JsonAccessDeniedHandler accessDeniedHandler;           // 403
+    private final JsonAccessDeniedHandler accessDeniedHandler; // 403
 
     @Bean
     public JwtUtils jwtUtils() {
@@ -51,19 +51,17 @@ public class SecurityConfig {
                 .sessionManagement(sm -> sm.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
                 .exceptionHandling(eh -> eh
                         .authenticationEntryPoint(authenticationEntryPoint)
-                        .accessDeniedHandler(accessDeniedHandler)
-                )
+                        .accessDeniedHandler(accessDeniedHandler))
                 .authorizeHttpRequests(auth -> auth
                         // public
                         .requestMatchers(HttpMethod.GET, "/api/posts/feed").permitAll()
                         .requestMatchers(HttpMethod.GET, "/api/posts/timeline").permitAll()
                         .requestMatchers("/actuator/health").permitAll()
                         .requestMatchers("/api/auth/**").permitAll()
-                        // admin
+                        // admin - hasRole tự động thêm ROLE_ prefix và uppercase
                         .requestMatchers("/api/admin/**").hasRole("ADMIN")
                         // còn lại
-                        .anyRequest().authenticated()
-                )
+                        .anyRequest().authenticated())
                 .addFilterBefore(jwtFilter, UsernamePasswordAuthenticationFilter.class)
                 .build();
     }
@@ -84,8 +82,7 @@ public class SecurityConfig {
             }
         }
         configuration.setAllowedMethods(
-                java.util.List.of("GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS")
-        );
+                java.util.List.of("GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"));
         configuration.addAllowedHeader("*");
         configuration.setAllowCredentials(true);
 

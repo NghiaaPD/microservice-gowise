@@ -11,6 +11,17 @@ nohup mvn spring-boot:run -f demo/pom.xml > .logs/demo.log 2>&1 &
 nohup mvn spring-boot:run -f auth-service/pom.xml > .logs/auth-service.log 2>&1 &
 nohup mvn spring-boot:run -f user-service/pom.xml > .logs/user-service.log 2>&1 &
 
+# Start blog-service with its .env loaded
+(
+	set -a
+	if [ -f "blog-service/.env" ]; then
+		# shellcheck disable=SC1091
+		source blog-service/.env
+	fi
+	set +a
+	nohup mvn spring-boot:run -f blog-service/pom.xml > .logs/blog-service.log 2>&1 &
+)
+
 # Start gallery-service with its .env loaded into environment so DB_/MINIO_ variables are available
 (
 	set -a

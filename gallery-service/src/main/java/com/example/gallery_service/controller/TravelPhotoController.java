@@ -33,6 +33,7 @@ public class TravelPhotoController {
             TravelPhoto photo = travelPhotoService.uploadPhoto(userId, galleryId, file, caption, location, takenAt);
             return ResponseEntity.ok(photo);
         } catch (Exception e) {
+            e.printStackTrace(); // Add logging
             return ResponseEntity.internalServerError().build();
         }
     }

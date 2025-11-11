@@ -15,11 +15,19 @@ public class CorsConfig {
     public CorsFilter corsFilter() {
         CorsConfiguration corsConfiguration = new CorsConfiguration();
 
-        // Cho phép tất cả origins (có thể thay đổi thành domain cụ thể để bảo mật hơn)
-        corsConfiguration.setAllowedOriginPatterns(Arrays.asList("*"));
+        // Cho phép tất cả origins
+        corsConfiguration.addAllowedOriginPattern("*");
+
+        // Expose headers for client
+        corsConfiguration.setExposedHeaders(Arrays.asList(
+                "Authorization",
+                "Content-Type",
+                "X-User-Id",
+                "Access-Control-Allow-Origin",
+                "Access-Control-Allow-Credentials"));
 
         // Cho phép tất cả HTTP methods
-        corsConfiguration.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"));
+        corsConfiguration.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS", "PATCH", "HEAD"));
 
         // Cho phép tất cả headers
         corsConfiguration.setAllowedHeaders(Arrays.asList("*"));

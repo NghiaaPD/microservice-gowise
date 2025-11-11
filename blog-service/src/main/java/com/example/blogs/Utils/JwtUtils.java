@@ -1,6 +1,5 @@
 package com.example.blogs.Utils;
 
-
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.io.Decoders;
 import io.jsonwebtoken.security.Keys;
@@ -29,7 +28,7 @@ public class JwtUtils {
                 .claim("roles", roles)
                 .setIssuedAt(Date.from(now))
                 .setExpiration(Date.from(now.plusSeconds(ttl)))
-                .signWith(key, SignatureAlgorithm.HS256)
+                .signWith(key, SignatureAlgorithm.HS512)
                 .compact();
     }
 
@@ -41,10 +40,27 @@ public class JwtUtils {
 
         Claims c = jws.getBody();
         UUID userId = UUID.fromString(c.getSubject());
-        @SuppressWarnings("unchecked")
-        List<String> roles = (List<String>) c.get("roles", List.class);
+
+        // Handle both "roles" (plural, List) and "role" (singular, String)
+        List<String> roles;
+        Object rolesObj = c.get("roles");
+        Object roleObj = c.get("role");
+
+        if (rolesObj instanceof List) {
+            @SuppressWarnings("unchecked")
+            List<String> rolesList = (List<String>) rolesObj;
+            roles = rolesList;
+        } else if (roleObj instanceof String) {
+            // Convert singular "role" claim to a list
+            roles = List.of((String) roleObj);
+        } else {
+            // Default to empty list if neither claim exists
+            roles = List.of();
+        }
+
         return new ParsedToken(userId, roles);
     }
 
-    public record ParsedToken(UUID userId, List<String> roles) {}
+    public record ParsedToken(UUID userId, List<String> roles) {
+    }
 }

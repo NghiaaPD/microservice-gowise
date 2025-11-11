@@ -30,15 +30,14 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
 
     private final JwtUtils jwtUtils;
     private final boolean enableHeaderFallback;
-    private static final Set<String> KNOWN_ROLES =
-            Arrays.stream(Role.values())
-                    .map(Enum::name)
-                    .collect(Collectors.toSet());
+    private static final Set<String> KNOWN_ROLES = Arrays.stream(Role.values())
+            .map(Enum::name)
+            .collect(Collectors.toSet());
 
     @Override
     protected void doFilterInternal(HttpServletRequest request,
-                                    HttpServletResponse response,
-                                    FilterChain chain) throws ServletException, IOException {
+            HttpServletResponse response,
+            FilterChain chain) throws ServletException, IOException {
 
         String auth = request.getHeader(HttpHeaders.AUTHORIZATION);
         boolean authenticated = false;
@@ -52,6 +51,9 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
                 setAuthentication(parsed.userId(), parsed.roles());
                 authenticated = true;
             } catch (Exception e) {
+                System.out.println(
+                        "[JWT Error] Failed to parse token: " + e.getClass().getName() + " - " + e.getMessage());
+                e.printStackTrace();
                 tokenInvalid = true;
                 SecurityContextHolder.clearContext();
             }
@@ -60,14 +62,18 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
         // Fallback: nếu bật & chưa authenticated & có header phù hợp
         if (!authenticated && enableHeaderFallback) {
             authenticated = tryHeaderFallback(request);
+            // Nếu fallback thành công thì bỏ qua lỗi JWT
+            if (authenticated) {
+                tokenInvalid = false;
+                System.out.println("[JWT] Fallback authentication successful via headers");
+            }
         }
 
         if (!authenticated && tokenInvalid) {
             ApiError body = new ApiError(
                     HttpStatus.UNAUTHORIZED.value(),
                     HttpStatus.UNAUTHORIZED.getReasonPhrase(),
-                    "Invalid or expired token"
-            );
+                    "Invalid or expired token");
             response.setStatus(HttpStatus.UNAUTHORIZED.value());
             response.setContentType("application/json");
             new ObjectMapper().writeValue(response.getWriter(), body);
@@ -80,17 +86,33 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
     private void setAuthentication(UUID userId, List<String> roles) {
         List<SimpleGrantedAuthority> authorities = roles.stream()
                 .filter(Objects::nonNull)
-                .map(r -> r.startsWith("ROLE_") ? r : "ROLE_" + r)
+                .map(r -> {
+                    // Chuẩn hóa role thành ROLE_UPPERCASE cho Spring Security
+                    if (r.toUpperCase().startsWith("ROLE_")) {
+                        return r.toUpperCase();
+                    } else {
+                        // Thêm tiền tố ROLE_ và chuyển thành chữ HOA
+                        return "ROLE_" + r.toUpperCase();
+                    }
+                })
                 .map(SimpleGrantedAuthority::new)
                 .collect(Collectors.toList());
 
         AbstractAuthenticationToken authToken = new AbstractAuthenticationToken(authorities) {
             @Override
-            public Object getCredentials() { return ""; }
+            public Object getCredentials() {
+                return "";
+            }
+
             @Override
-            public Object getPrincipal() { return userId; }
+            public Object getPrincipal() {
+                return userId;
+            }
+
             @Override
-            public String getName() { return userId.toString(); }
+            public String getName() {
+                return userId.toString();
+            }
         };
         authToken.setAuthenticated(true);
         SecurityContextHolder.getContext().setAuthentication(authToken);
@@ -108,7 +130,7 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
             UUID uid = UUID.fromString(userHeader);
             List<String> fallbackRoles = parseRolesHeader(request.getHeader("X-User-Roles"));
             if (fallbackRoles.isEmpty()) {
-                fallbackRoles = List.of(Role.USER.name());
+                fallbackRoles = List.of(Role.user.name());
             }
             setAuthentication(uid, fallbackRoles);
             return true;
@@ -124,9 +146,14 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
         return Arrays.stream(header.split(","))
                 .map(String::trim)
                 .filter(StringUtils::hasText)
-                .map(role -> role.toUpperCase().startsWith("ROLE_")
-                        ? role.substring(5)
-                        : role.toUpperCase())
+                .map(role -> {
+                    // Loại bỏ tiền tố ROLE_ nếu có (không phân biệt hoa thường)
+                    if (role.toUpperCase().startsWith("ROLE_")) {
+                        return role.substring(5);
+                    }
+                    return role;
+                })
+                .map(String::toLowerCase) // Chuyển thành chữ thường
                 .filter(KNOWN_ROLES::contains)
                 .distinct()
                 .toList();
