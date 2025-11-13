@@ -1,8 +1,10 @@
 package com.example.user_service.controller;
 
 import com.example.user_service.entity.CreditCard;
+import com.example.user_service.entity.Friend;
 import com.example.user_service.entity.User;
 import com.example.user_service.service.CreditCardService;
+import com.example.user_service.service.FriendService;
 import com.example.user_service.service.UserService;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotBlank;
@@ -33,6 +35,9 @@ public class UserController {
 
     @Autowired
     private CreditCardService creditCardService;
+
+    @Autowired
+    private FriendService friendService;
 
     @GetMapping("/health")
     public String health() {
@@ -80,6 +85,33 @@ public class UserController {
         response.put("success", true);
         response.put("message", "Users retrieved successfully");
         response.put("data", users);
+        return ResponseEntity.ok(response);
+    }
+
+    /**
+     * GET /users/search?name={keyword} - Search users by name (real-time search)
+     * This endpoint searches for users by first name or last name (case
+     * insensitive)
+     * Returns user_id and other user details for add friend feature
+     */
+    @GetMapping("/search")
+    public ResponseEntity<Map<String, Object>> searchUsers(@RequestParam String name) {
+        logger.info("GET /users/search?name={} - Searching users", name);
+
+        Map<String, Object> response = new HashMap<>();
+
+        if (name == null || name.trim().isEmpty()) {
+            response.put("success", false);
+            response.put("message", "Search name parameter is required");
+            response.put("data", List.of());
+            return ResponseEntity.badRequest().body(response);
+        }
+
+        List<User> users = userService.searchUsersByName(name);
+        response.put("success", true);
+        response.put("message", "Search completed successfully");
+        response.put("data", users);
+        response.put("count", users.size());
         return ResponseEntity.ok(response);
     }
 
@@ -662,6 +694,238 @@ public class UserController {
 
         public void setSetAsDefault(Boolean setAsDefault) {
             this.setAsDefault = setAsDefault;
+        }
+    }
+
+    // ==================== FRIEND ENDPOINTS ====================
+
+    /**
+     * POST /users/friends - Add friend (send friend request)
+     * Body: { "user_id": "uuid", "friend_id": "uuid" }
+     * Creates bidirectional friendship with status=false
+     */
+    @PostMapping("/friends")
+    public ResponseEntity<Map<String, Object>> addFriend(@RequestBody FriendRequest request) {
+
+        logger.info("POST /users/friends - Request body: {}", request);
+
+        Map<String, Object> response = new HashMap<>();
+
+        if (request.getUserId() == null) {
+            response.put("success", false);
+            response.put("message", "User ID is required in request body");
+            return ResponseEntity.badRequest().body(response);
+        }
+
+        if (request.getFriendId() == null) {
+            response.put("success", false);
+            response.put("message", "Friend ID is required in request body");
+            return ResponseEntity.badRequest().body(response);
+        }
+
+        logger.info("POST /users/friends - User {} adding friend {}", request.getUserId(), request.getFriendId());
+
+        FriendService.AddFriendResult result = friendService.addFriend(request.getUserId(), request.getFriendId());
+
+        response.put("success", result.isSuccess());
+        response.put("message", result.getMessage());
+
+        if (result.getErrorCode() != null) {
+            response.put("error_code", result.getErrorCode());
+        }
+
+        if (result.isSuccess()) {
+            return ResponseEntity.ok(response);
+        } else {
+            return ResponseEntity.badRequest().body(response);
+        }
+    }
+
+    /**
+     * POST /users/friends/list - Get all friends for a user
+     * Body: { "user_id": "uuid" }
+     */
+    @PostMapping("/friends/list")
+    public ResponseEntity<Map<String, Object>> getAllFriends(@RequestBody UserIdRequest request) {
+        logger.info("POST /users/friends/list - Getting all friends for user {}", request.getUserId());
+
+        Map<String, Object> response = new HashMap<>();
+
+        if (request.getUserId() == null) {
+            response.put("success", false);
+            response.put("message", "User ID is required");
+            return ResponseEntity.badRequest().body(response);
+        }
+
+        List<Friend> friends = friendService.getAllFriends(request.getUserId());
+        response.put("success", true);
+        response.put("message", "Friends retrieved successfully");
+        response.put("data", friends);
+        response.put("count", friends.size());
+        return ResponseEntity.ok(response);
+    }
+
+    /**
+     * POST /users/friends/pending - Get pending friend requests
+     * Body: { "user_id": "uuid" }
+     */
+    @PostMapping("/friends/pending")
+    public ResponseEntity<Map<String, Object>> getPendingFriendRequests(@RequestBody UserIdRequest request) {
+        logger.info("POST /users/friends/pending - Getting pending requests for user {}", request.getUserId());
+
+        Map<String, Object> response = new HashMap<>();
+
+        if (request.getUserId() == null) {
+            response.put("success", false);
+            response.put("message", "User ID is required");
+            return ResponseEntity.badRequest().body(response);
+        }
+
+        List<Friend> pendingRequests = friendService.getPendingRequests(request.getUserId());
+        response.put("success", true);
+        response.put("message", "Pending friend requests retrieved successfully");
+        response.put("data", pendingRequests);
+        response.put("count", pendingRequests.size());
+        return ResponseEntity.ok(response);
+    }
+
+    /**
+     * POST /users/friends/accepted - Get accepted friends
+     * Body: { "user_id": "uuid" }
+     */
+    @PostMapping("/friends/accepted")
+    public ResponseEntity<Map<String, Object>> getAcceptedFriends(@RequestBody UserIdRequest request) {
+        logger.info("POST /users/friends/accepted - Getting accepted friends for user {}", request.getUserId());
+
+        Map<String, Object> response = new HashMap<>();
+
+        if (request.getUserId() == null) {
+            response.put("success", false);
+            response.put("message", "User ID is required");
+            return ResponseEntity.badRequest().body(response);
+        }
+
+        List<Friend> acceptedFriends = friendService.getAcceptedFriends(request.getUserId());
+        response.put("success", true);
+        response.put("message", "Accepted friends retrieved successfully");
+        response.put("data", acceptedFriends);
+        response.put("count", acceptedFriends.size());
+        return ResponseEntity.ok(response);
+    }
+
+    /**
+     * PUT /users/friends/accept - Accept friend request
+     * Body: { "user_id": "uuid", "friend_id": "uuid" }
+     */
+    @PutMapping("/friends/accept")
+    public ResponseEntity<Map<String, Object>> acceptFriendRequest(@RequestBody FriendRequest request) {
+
+        logger.info("PUT /users/friends/accept - User {} accepting friend {}", request.getUserId(),
+                request.getFriendId());
+
+        Map<String, Object> response = new HashMap<>();
+
+        if (request.getUserId() == null || request.getFriendId() == null) {
+            response.put("success", false);
+            response.put("message", "Both user_id and friend_id are required");
+            return ResponseEntity.badRequest().body(response);
+        }
+
+        boolean success = friendService.acceptFriendRequest(request.getUserId(), request.getFriendId());
+
+        if (success) {
+            response.put("success", true);
+            response.put("message", "Friend request accepted successfully");
+            return ResponseEntity.ok(response);
+        } else {
+            response.put("success", false);
+            response.put("message", "Failed to accept friend request");
+            return ResponseEntity.badRequest().body(response);
+        }
+    }
+
+    /**
+     * DELETE /users/friends - Remove friend
+     * Body: { "user_id": "uuid", "friend_id": "uuid" }
+     */
+    @DeleteMapping("/friends")
+    public ResponseEntity<Map<String, Object>> removeFriend(@RequestBody FriendRequest request) {
+
+        logger.info("DELETE /users/friends - Request body: {}", request);
+        logger.info("DELETE /users/friends - User {} removing friend {}", request.getUserId(), request.getFriendId());
+
+        Map<String, Object> response = new HashMap<>();
+
+        if (request.getUserId() == null || request.getFriendId() == null) {
+            response.put("success", false);
+            response.put("message", "Both user_id and friend_id are required");
+            return ResponseEntity.badRequest().body(response);
+        }
+
+        boolean success = friendService.removeFriend(request.getUserId(), request.getFriendId());
+
+        if (success) {
+            response.put("success", true);
+            response.put("message", "Friend removed successfully");
+            return ResponseEntity.ok(response);
+        } else {
+            response.put("success", false);
+            response.put("message", "Failed to remove friend");
+            return ResponseEntity.badRequest().body(response);
+        }
+    }
+
+    // Request DTOs for Friend endpoints
+    public static class FriendRequest {
+        private UUID userId;
+        private UUID user_id; // Support snake_case
+        private UUID friendId;
+        private UUID friend_id; // Support snake_case
+
+        public UUID getUserId() {
+            return userId != null ? userId : user_id;
+        }
+
+        public void setUserId(UUID userId) {
+            this.userId = userId;
+        }
+
+        public void setUser_id(UUID user_id) {
+            this.user_id = user_id;
+        }
+
+        public UUID getFriendId() {
+            return friendId != null ? friendId : friend_id;
+        }
+
+        public void setFriendId(UUID friendId) {
+            this.friendId = friendId;
+        }
+
+        public void setFriend_id(UUID friend_id) {
+            this.friend_id = friend_id;
+        }
+
+        @Override
+        public String toString() {
+            return "FriendRequest{userId=" + getUserId() + ", friendId=" + getFriendId() + "}";
+        }
+    }
+
+    public static class UserIdRequest {
+        private UUID userId;
+        private UUID user_id; // Support snake_case
+
+        public UUID getUserId() {
+            return userId != null ? userId : user_id;
+        }
+
+        public void setUserId(UUID userId) {
+            this.userId = userId;
+        }
+
+        public void setUser_id(UUID user_id) {
+            this.user_id = user_id;
         }
     }
 }

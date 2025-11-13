@@ -510,6 +510,36 @@ public class GatewayController {
     }
 
     /**
+     * Forward GET /users/search?name={keyword} to user-service (search users by
+     * name)
+     * Real-time search for add friend feature
+     */
+    @GetMapping("/users/search")
+    public ResponseEntity<Object> forwardSearchUsers(@RequestParam String name) {
+        try {
+            var serviceInstance = loadBalancer.choose("USER-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("USER-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "User service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/users/search?name=" + name;
+            logger.info("Forwarding search request to user-service: {}", url);
+            return restTemplate.getForEntity(url, Object.class);
+        } catch (HttpClientErrorException e) {
+            logger.warn("User service returned client error: {}", e.getStatusCode());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding to user service search: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
      * Forward GET /users to user-service (get all users)
      */
     @GetMapping("/users")
@@ -1833,6 +1863,209 @@ public class GatewayController {
             return ResponseEntity.status(500).body(Map.of(
                     "success", false,
                     "message", "Blog service temporarily unavailable"));
+        }
+    }
+
+    // ==================== FRIEND ENDPOINTS ====================
+
+    /**
+     * POST /users/friends - Add friend (send friend request)
+     * Body: { "user_id": "uuid", "friend_id": "uuid" }
+     */
+    @PostMapping("/users/friends")
+    public ResponseEntity<Object> addFriend(@RequestBody Map<String, Object> body) {
+        try {
+            var serviceInstance = loadBalancer.choose("USER-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("USER-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "User service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/users/friends";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+
+            HttpEntity<Map<String, Object>> request = new HttpEntity<>(body, headers);
+            logger.info("Forwarding add friend request to user-service: body={}", body);
+
+            return restTemplate.exchange(url, HttpMethod.POST, request, Object.class);
+        } catch (HttpClientErrorException e) {
+            logger.warn("User service returned client error: {}", e.getStatusCode());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding add friend request: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * POST /users/friends/list - Get all friends for a user
+     * Body: { "user_id": "uuid" }
+     */
+    @PostMapping("/users/friends/list")
+    public ResponseEntity<Object> getAllFriends(@RequestBody Map<String, Object> body) {
+        try {
+            var serviceInstance = loadBalancer.choose("USER-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("USER-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "User service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/users/friends/list";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+
+            HttpEntity<Map<String, Object>> request = new HttpEntity<>(body, headers);
+            logger.info("Forwarding get all friends request to user-service");
+
+            return restTemplate.exchange(url, HttpMethod.POST, request, Object.class);
+        } catch (Exception e) {
+            logger.error("Error forwarding get all friends request: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * POST /users/friends/pending - Get pending friend requests
+     * Body: { "user_id": "uuid" }
+     */
+    @PostMapping("/users/friends/pending")
+    public ResponseEntity<Object> getPendingFriendRequests(@RequestBody Map<String, Object> body) {
+        try {
+            var serviceInstance = loadBalancer.choose("USER-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("USER-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "User service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/users/friends/pending";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+
+            HttpEntity<Map<String, Object>> request = new HttpEntity<>(body, headers);
+            logger.info("Forwarding get pending requests to user-service");
+
+            return restTemplate.exchange(url, HttpMethod.POST, request, Object.class);
+        } catch (Exception e) {
+            logger.error("Error forwarding get pending requests: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * POST /users/friends/accepted - Get accepted friends
+     * Body: { "user_id": "uuid" }
+     */
+    @PostMapping("/users/friends/accepted")
+    public ResponseEntity<Object> getAcceptedFriends(@RequestBody Map<String, Object> body) {
+        try {
+            var serviceInstance = loadBalancer.choose("USER-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("USER-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "User service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/users/friends/accepted";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+
+            HttpEntity<Map<String, Object>> request = new HttpEntity<>(body, headers);
+            logger.info("Forwarding get accepted friends to user-service");
+
+            return restTemplate.exchange(url, HttpMethod.POST, request, Object.class);
+        } catch (Exception e) {
+            logger.error("Error forwarding get accepted friends: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * PUT /users/friends/accept - Accept friend request
+     * Body: { "user_id": "uuid", "friend_id": "uuid" }
+     */
+    @PutMapping("/users/friends/accept")
+    public ResponseEntity<Object> acceptFriendRequest(@RequestBody Map<String, Object> body) {
+        try {
+            var serviceInstance = loadBalancer.choose("USER-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("USER-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "User service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/users/friends/accept";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+
+            HttpEntity<Map<String, Object>> request = new HttpEntity<>(body, headers);
+            logger.info("Forwarding accept friend request to user-service");
+
+            return restTemplate.exchange(url, HttpMethod.PUT, request, Object.class);
+        } catch (HttpClientErrorException e) {
+            logger.warn("User service returned client error: {}", e.getStatusCode());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding accept friend request: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * DELETE /users/friends - Remove friend
+     * Body: { "user_id": "uuid", "friend_id": "uuid" }
+     */
+    @DeleteMapping("/users/friends")
+    public ResponseEntity<Object> removeFriend(@RequestBody Map<String, Object> body) {
+        try {
+            var serviceInstance = loadBalancer.choose("USER-SERVICE");
+            if (serviceInstance == null) {
+                logger.error("USER-SERVICE not available in load balancer");
+                return ResponseEntity.status(503).body(Map.of(
+                        "success", false,
+                        "message", "User service temporarily unavailable"));
+            }
+            String serviceUrl = serviceInstance.getUri().toString();
+            String url = serviceUrl + "/users/friends";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+
+            HttpEntity<Map<String, Object>> request = new HttpEntity<>(body, headers);
+            logger.info("Forwarding remove friend request to user-service");
+
+            return restTemplate.exchange(url, HttpMethod.DELETE, request, Object.class);
+        } catch (HttpClientErrorException e) {
+            logger.warn("User service returned client error: {}", e.getStatusCode());
+            return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
+        } catch (Exception e) {
+            logger.error("Error forwarding remove friend request: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
         }
     }
 }

@@ -1,0 +1,110 @@
+{
+    "trip_info": {
+        "destination": "Seoul",
+        "duration": "2 days (requested: 2 days)",
+        "group_size": 2,
+        "budget": "high",
+        "interests": "nature, food, culture, adventure, shop"
+    },
+    "itinerary": {
+        "day_1": {
+            "morning": {
+                "activity": "Visit Seoul Hiking Tourism Center (Bukhansan)",
+                "location": "5층, 52 Samyang-ro 173-gil, Gangbuk-gu, Seoul, South Korea",
+                "coordinates": {
+                    "latitude": 37.6623859,
+                    "longitude": 127.0096883
+                },
+                "rating": 4.8,
+                "category": "hiking trails",
+                "time": "09:00-12:00"
+            },
+            "lunch": {
+                "activity": "Lunch at Vegan Kitchen",
+                "location": "21 Toegye-ro 20-gil, Jung District, Seoul, South Korea",
+                "coordinates": {
+                    "latitude": 37.5592554,
+                    "longitude": 126.9859855
+                },
+                "rating": 4.9,
+                "category": "restaurants",
+                "time": "12:00-13:30"
+            },
+            "afternoon": {
+                "activity": "Visit Baegundae, Bukhansan Mountain Peak",
+                "location": "South Korea, Gyeonggi-do, Goyang-si, Deogyang-gu, 북한동",
+                "coordinates": {
+                    "latitude": 37.6586607,
+                    "longitude": 126.9780658
+                },
+                "rating": 4.8,
+                "category": "hiking trails",
+                "time": "14:00-17:00"
+            },
+            "dinner": {
+                "activity": "Dinner at COW&PIG2 Myeongdong Korean bbq Restaurants | COW & PIG | kbbq buffet All you can eat | 明洞 サムギョプサル 明洞美食 明洞烤肉 明洞牛肉",
+                "location": "South Korea, Seoul, Jung District, Myeongdong 4-gil, 26",
+                "coordinates": {
+                    "latitude": 37.5625401,
+                    "longitude": 126.9838164
+                },
+                "rating": 4.9,
+                "category": "restaurants",
+                "time": "18:00-20:00"
+            }
+        },
+        "day_2": {
+            "morning": {
+                "activity": "Visit Malbawi Hiking Trail Entrance (to Bugaksan)",
+                "location": "말바위 진입로 남서 계단 쉼터, Waryonggongwon-gil, 삼청동, Jongno District, Seoul, South Korea",
+                "coordinates": {
+                    "latitude": 37.589627,
+                    "longitude": 126.984276
+                },
+                "rating": 4.8,
+                "category": "hiking trails",
+                "time": "09:00-12:00"
+            },
+            "lunch": {
+                "activity": "Lunch at Wangbijib Myeongdong Central",
+                "location": "45 Myeongdong 8na-gil, Jung District, Seoul, South Korea",
+                "coordinates": {
+                    "latitude": 37.5610364,
+                    "longitude": 126.9823871
+                },
+                "rating": 4.8,
+                "category": "restaurants",
+                "time": "12:00-13:30"
+            },
+            "afternoon": {
+                "activity": "Visit Gwanghwamun Gate",
+                "location": "161 Sajik-ro, Jongno District, Seoul, South Korea",
+                "coordinates": {
+                    "latitude": 37.576011099999995,
+                    "longitude": 126.9768611
+                },
+                "rating": 4.7,
+                "category": "tourist attractions",
+                "time": "14:00-17:00"
+            },
+            "dinner": {
+                "activity": "Dinner at L’Amant Secret",
+                "location": "67 Toegye-ro, Jung District, Seoul, South Korea",
+                "coordinates": {
+                    "latitude": 37.5598403,
+                    "longitude": 126.97951339999999
+                },
+                "rating": 4.7,
+                "category": "restaurants",
+                "time": "18:00-20:00"
+            }
+        }
+    },
+    "notes": [
+        "Itinerary optimized for 2 people",
+        "Only create itinerary for days with sufficient place data",
+        "Places within same day are grouped nearby to save travel time",
+        "Recommend booking reservations for high-end restaurants",
+        "Bring offline maps and cash"
+    ]
+}

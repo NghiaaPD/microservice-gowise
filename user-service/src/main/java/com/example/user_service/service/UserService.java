@@ -249,4 +249,18 @@ public class UserService {
     public boolean userExists(UUID id) {
         return userRepository.existsById(id);
     }
+
+    /**
+     * Search users by name (first name or last name)
+     */
+    public List<User> searchUsersByName(String name) {
+        logger.info("Searching users by name: {}", name);
+        if (name == null || name.trim().isEmpty()) {
+            logger.warn("Search name is empty, returning empty list");
+            return List.of();
+        }
+        List<User> users = userRepository.searchByName(name.trim());
+        logger.info("Found {} users matching name: {}", users.size(), name);
+        return users;
+    }
 }

@@ -8,6 +8,7 @@ import org.springframework.data.repository.query.Param;
 import org.springframework.lang.NonNull;
 import org.springframework.stereotype.Repository;
 
+import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
 
@@ -19,6 +20,12 @@ public interface UserRepository extends JpaRepository<User, UUID> {
      */
     @NonNull
     Optional<User> findById(@NonNull UUID id);
+
+    /**
+     * Search users by first name or last name (case insensitive, partial match)
+     */
+    @Query("SELECT u FROM User u WHERE LOWER(u.firstName) LIKE LOWER(CONCAT('%', :name, '%')) OR LOWER(u.lastName) LIKE LOWER(CONCAT('%', :name, '%'))")
+    List<User> searchByName(@Param("name") String name);
 
     /**
      * Update user's first name

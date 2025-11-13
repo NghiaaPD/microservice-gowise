@@ -1,0 +1,110 @@
+{
+    "trip_info": {
+        "destination": "london",
+        "duration": "2 days (requested: 2 days)",
+        "group_size": 1,
+        "budget": "high",
+        "interests": "Ẩm Thực"
+    },
+    "itinerary": {
+        "day_1": {
+            "morning": {
+                "activity": "Visit Tower Bridge",
+                "location": "Tower Bridge Rd, London, SE1 2UP, United Kingdom",
+                "coordinates": {
+                    "latitude": 51.5054564,
+                    "longitude": -0.07535649999999999
+                },
+                "rating": 4.8,
+                "category": "tourist attractions",
+                "time": "09:00-12:00"
+            },
+            "lunch": {
+                "activity": "Lunch at The English Grill",
+                "location": "39 Buckingham Palace Rd, London, SW1W 0PS, United Kingdom",
+                "coordinates": {
+                    "latitude": 51.498245,
+                    "longitude": -0.1434644
+                },
+                "rating": 4.9,
+                "category": "restaurants",
+                "time": "12:00-13:30"
+            },
+            "afternoon": {
+                "activity": "Visit Tower of London",
+                "location": "London, EC3N 4AB, United Kingdom",
+                "coordinates": {
+                    "latitude": 51.508112399999995,
+                    "longitude": -0.0759493
+                },
+                "rating": 4.7,
+                "category": "tourist attractions",
+                "time": "14:00-17:00"
+            },
+            "dinner": {
+                "activity": "Dinner at Scully",
+                "location": "4 St James's Market, London, SW1Y 4AH, United Kingdom",
+                "coordinates": {
+                    "latitude": 51.508665,
+                    "longitude": -0.1330131
+                },
+                "rating": 4.8,
+                "category": "restaurants",
+                "time": "18:00-20:00"
+            }
+        },
+        "day_2": {
+            "morning": {
+                "activity": "Visit Hyde Park",
+                "location": "London, United Kingdom",
+                "coordinates": {
+                    "latitude": 51.5073638,
+                    "longitude": -0.1641135
+                },
+                "rating": 4.7,
+                "category": "tourist attractions",
+                "time": "09:00-12:00"
+            },
+            "lunch": {
+                "activity": "Lunch at Riviera",
+                "location": "23 St James's St, London, SW1A 1HA, United Kingdom",
+                "coordinates": {
+                    "latitude": 51.5066352,
+                    "longitude": -0.1391577
+                },
+                "rating": 4.8,
+                "category": "restaurants",
+                "time": "12:00-13:30"
+            },
+            "afternoon": {
+                "activity": "Visit Queen Victoria Memorial",
+                "location": "London, SW1A 1AA, United Kingdom",
+                "coordinates": {
+                    "latitude": 51.501881399999995,
+                    "longitude": -0.14062249999999998
+                },
+                "rating": 4.7,
+                "category": "tourist attractions",
+                "time": "14:00-17:00"
+            },
+            "dinner": {
+                "activity": "Dinner at Evelyn's Table",
+                "location": "28 Rupert St, London, W1D 6DJ, United Kingdom",
+                "coordinates": {
+                    "latitude": 51.511125899999996,
+                    "longitude": -0.1326177
+                },
+                "rating": 4.8,
+                "category": "restaurants",
+                "time": "18:00-20:00"
+            }
+        }
+    },
+    "notes": [
+        "Itinerary optimized for 1 people",
+        "Only create itinerary for days with sufficient place data",
+        "Places within same day are grouped nearby to save travel time",
+        "Recommend booking reservations for high-end restaurants",
+        "Bring offline maps and cash"
+    ]
+}

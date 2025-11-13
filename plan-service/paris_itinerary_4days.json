@@ -1,0 +1,202 @@
+{
+    "trip_info": {
+        "destination": "paris",
+        "duration": "4 days (requested: 4 days)",
+        "group_size": 1,
+        "budget": "high",
+        "interests": "Ẩm Thực, Leo núi"
+    },
+    "itinerary": {
+        "day_1": {
+            "morning": {
+                "activity": "Visit Promenade Jean-Paul Belmondo",
+                "location": "Pont de Bir-Hakeim, 75015 Paris, France",
+                "coordinates": {
+                    "latitude": 48.855581199999996,
+                    "longitude": 2.287589
+                },
+                "rating": 4.8,
+                "category": "tourist attractions",
+                "time": "09:00-12:00"
+            },
+            "lunch": {
+                "activity": "Lunch at Sphère",
+                "location": "18 Rue La Boétie, 75008 Paris, France",
+                "coordinates": {
+                    "latitude": 48.8742665,
+                    "longitude": 2.3169386999999997
+                },
+                "rating": 4.8,
+                "category": "restaurants",
+                "time": "12:00-13:30"
+            },
+            "afternoon": {
+                "activity": "Visit Notre-Dame Cathedral of Paris",
+                "location": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France",
+                "coordinates": {
+                    "latitude": 48.8529682,
+                    "longitude": 2.3499021
+                },
+                "rating": 4.7,
+                "category": "tourist attractions",
+                "time": "14:00-17:00"
+            },
+            "dinner": {
+                "activity": "Dinner at ASPIC",
+                "location": "24 Rue Louise-Émilie de la Tour d'Auvergne, 75009 Paris, France",
+                "coordinates": {
+                    "latitude": 48.879196099999994,
+                    "longitude": 2.3437259
+                },
+                "rating": 4.8,
+                "category": "restaurants",
+                "time": "18:00-20:00"
+            }
+        },
+        "day_2": {
+            "morning": {
+                "activity": "Visit Eiffel Tower",
+                "location": "Av. Gustave Eiffel, 75007 Paris, France",
+                "coordinates": {
+                    "latitude": 48.858370099999995,
+                    "longitude": 2.2944812999999997
+                },
+                "rating": 4.7,
+                "category": "tourist attractions",
+                "time": "09:00-12:00"
+            },
+            "lunch": {
+                "activity": "Lunch at Boutary",
+                "location": "25 Rue Mazarine, 75006 Paris, France",
+                "coordinates": {
+                    "latitude": 48.8549894,
+                    "longitude": 2.3380174
+                },
+                "rating": 4.8,
+                "category": "restaurants",
+                "time": "12:00-13:30"
+            },
+            "afternoon": {
+                "activity": "Visit Arc de Triomphe",
+                "location": "Pl. Charles de Gaulle, 75008 Paris, France",
+                "coordinates": {
+                    "latitude": 48.8737917,
+                    "longitude": 2.2950274999999998
+                },
+                "rating": 4.7,
+                "category": "tourist attractions",
+                "time": "14:00-17:00"
+            },
+            "dinner": {
+                "activity": "Dinner at Pink Mamma",
+                "location": "20bis Rue de Douai, 75009 Paris, France",
+                "coordinates": {
+                    "latitude": 48.881946899999996,
+                    "longitude": 2.3345309
+                },
+                "rating": 4.7,
+                "category": "restaurants",
+                "time": "18:00-20:00"
+            }
+        },
+        "day_3": {
+            "morning": {
+                "activity": "Visit Jardin du Palais Royal",
+                "location": "8 Rue de Montpensier, 75001 Paris, France",
+                "coordinates": {
+                    "latitude": 48.8649723,
+                    "longitude": 2.3378061
+                },
+                "rating": 4.7,
+                "category": "tourist attractions",
+                "time": "09:00-12:00"
+            },
+            "lunch": {
+                "activity": "Lunch at Le Cinq",
+                "location": "31 Av. George V, 75008 Paris, France",
+                "coordinates": {
+                    "latitude": 48.868849,
+                    "longitude": 2.300683
+                },
+                "rating": 4.7,
+                "category": "restaurants",
+                "time": "12:00-13:30"
+            },
+            "afternoon": {
+                "activity": "Visit Basilique du Sacré-Cœur de Montmartre",
+                "location": "35 Rue du Chevalier de la Barre, 75018 Paris, France",
+                "coordinates": {
+                    "latitude": 48.886704599999995,
+                    "longitude": 2.3431043
+                },
+                "rating": 4.7,
+                "category": "tourist attractions",
+                "time": "14:00-17:00"
+            },
+            "dinner": {
+                "activity": "Dinner at Les Parisiens",
+                "location": "1 Rue du Pré aux Clercs, 75007 Paris, France",
+                "coordinates": {
+                    "latitude": 48.856660899999994,
+                    "longitude": 2.3303688
+                },
+                "rating": 4.7,
+                "category": "restaurants",
+                "time": "18:00-20:00"
+            }
+        },
+        "day_4": {
+            "morning": {
+                "activity": "Visit Louvre Museum",
+                "location": "75001 Paris, France",
+                "coordinates": {
+                    "latitude": 48.8606111,
+                    "longitude": 2.337644
+                },
+                "rating": 4.7,
+                "category": "tourist attractions",
+                "time": "09:00-12:00"
+            },
+            "lunch": {
+                "activity": "Lunch at Pur' - Jean-François Rouquette",
+                "location": "5 Rue de la Paix, 75002 Paris, France",
+                "coordinates": {
+                    "latitude": 48.8689056,
+                    "longitude": 2.3301781
+                },
+                "rating": 4.7,
+                "category": "restaurants",
+                "time": "12:00-13:30"
+            },
+            "afternoon": {
+                "activity": "Visit Domaine National du Palais-Royal",
+                "location": "75001 Paris, France",
+                "coordinates": {
+                    "latitude": 48.8637569,
+                    "longitude": 2.3371261
+                },
+                "rating": 4.6,
+                "category": "tourist attractions",
+                "time": "14:00-17:00"
+            },
+            "dinner": {
+                "activity": "Dinner at La Table de Colette",
+                "location": "17 Rue Laplace, 75005 Paris, France",
+                "coordinates": {
+                    "latitude": 48.8473045,
+                    "longitude": 2.3472188
+                },
+                "rating": 4.7,
+                "category": "restaurants",
+                "time": "18:00-20:00"
+            }
+        }
+    },
+    "notes": [
+        "Itinerary optimized for 1 people",
+        "Only create itinerary for days with sufficient place data",
+        "Places within same day are grouped nearby to save travel time",
+        "Recommend booking reservations for high-end restaurants",
+        "Bring offline maps and cash"
+    ]
+}
