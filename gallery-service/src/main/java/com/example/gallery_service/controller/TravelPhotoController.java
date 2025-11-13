@@ -62,4 +62,10 @@ public class TravelPhotoController {
         travelPhotoService.deletePhoto(photoId);
         return ResponseEntity.noContent().build();
     }
+
+    @DeleteMapping("/trip/{tripId}")
+    public ResponseEntity<Void> deleteGalleryByTripId(@PathVariable UUID tripId) {
+        travelPhotoService.deleteGalleryByTripId(tripId);
+        return ResponseEntity.noContent().build();
+    }
 }

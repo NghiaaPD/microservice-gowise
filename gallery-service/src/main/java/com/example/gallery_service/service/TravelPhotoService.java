@@ -8,12 +8,12 @@ import io.minio.PutObjectArgs;
 import io.minio.BucketExistsArgs;
 import io.minio.MakeBucketArgs;
 import io.minio.GetPresignedObjectUrlArgs;
+import io.minio.RemoveObjectArgs;
 import io.minio.http.Method;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.security.core.Authentication;
-import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.InputStream;
@@ -117,6 +117,85 @@ public class TravelPhotoService {
     }
 
     public void deletePhoto(UUID photoId) {
+        // Get photo info to extract file path from URL
+        TravelPhoto photo = travelPhotoRepository.findById(photoId).orElse(null);
+        if (photo != null && photo.getFileUrl() != null) {
+            try {
+                // Extract object name from presigned URL
+                String objectName = extractObjectNameFromUrl(photo.getFileUrl());
+
+                if (objectName != null) {
+                    // Delete from MinIO
+                    minioClient.removeObject(
+                            RemoveObjectArgs.builder()
+                                    .bucket(bucketName)
+                                    .object(objectName)
+                                    .build());
+                    System.out.println("Deleted from MinIO: " + objectName);
+                }
+            } catch (Exception e) {
+                System.err.println("Error deleting from MinIO: " + e.getMessage());
+                e.printStackTrace(); // Log error but continue with DB deletion
+            }
+        }
+        // Delete from database
         travelPhotoRepository.deleteById(photoId);
+    }
+
+    @Transactional
+    public void deleteGalleryByTripId(UUID tripId) {
+        // Get all photos in this trip
+        List<TravelPhoto> photos = travelPhotoRepository.findByTripId(tripId);
+
+        // Delete each file from MinIO
+        for (TravelPhoto photo : photos) {
+            if (photo.getFileUrl() != null) {
+                try {
+                    // Extract object name from presigned URL
+                    // Format: http://host:port/bucket/object?params
+                    String fileUrl = photo.getFileUrl();
+                    String objectName = extractObjectNameFromUrl(fileUrl);
+
+                    if (objectName != null) {
+                        // Delete from MinIO
+                        minioClient.removeObject(
+                                RemoveObjectArgs.builder()
+                                        .bucket(bucketName)
+                                        .object(objectName)
+                                        .build());
+                        System.out.println("Deleted from MinIO: " + objectName);
+                    }
+                } catch (Exception e) {
+                    System.err.println("Error deleting from MinIO: " + e.getMessage());
+                    e.printStackTrace(); // Log error but continue
+                }
+            }
+        }
+
+        // Delete all from database
+        travelPhotoRepository.deleteByTripId(tripId);
+    }
+
+    private String extractObjectNameFromUrl(String url) {
+        try {
+            // Presigned URL format: http://host:port/bucket/object?X-Amz-...
+            // Extract everything between bucket/ and ?
+            int bucketIndex = url.indexOf("/" + bucketName + "/");
+            if (bucketIndex == -1)
+                return null;
+
+            int startIndex = bucketIndex + bucketName.length() + 2; // +2 for two slashes
+            int endIndex = url.indexOf("?", startIndex);
+
+            if (endIndex == -1) {
+                return url.substring(startIndex);
+            } else {
+                return url.substring(startIndex, endIndex);
+            }
+        } catch (Exception e) {
+            System.err.println("Error extracting object name from URL: " + url);
+            e.printStackTrace();
+            return null;
+        }
     }
 }

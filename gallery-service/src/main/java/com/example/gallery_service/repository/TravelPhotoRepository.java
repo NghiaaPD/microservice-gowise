@@ -2,9 +2,11 @@ package com.example.gallery_service.repository;
 
 import com.example.gallery_service.entity.TravelPhoto;
 import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 import java.util.UUID;
@@ -25,4 +27,8 @@ public interface TravelPhotoRepository extends JpaRepository<TravelPhoto, UUID> 
 
     @Query("SELECT t FROM TravelPhoto t WHERE t.userId = :userId AND t.tripId = :tripId ORDER BY t.uploadedAt ASC")
     List<TravelPhoto> findFirstPhotoByUserAndGallery(@Param("userId") UUID userId, @Param("tripId") UUID tripId);
+
+    @Transactional
+    @Modifying
+    void deleteByTripId(UUID tripId);
 }
