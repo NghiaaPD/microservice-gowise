@@ -33,6 +33,17 @@ nohup mvn spring-boot:run -f user-service/pom.xml > .logs/user-service.log 2>&1 
 	nohup mvn spring-boot:run -f gallery-service/pom.xml > .logs/gallery-service.log 2>&1 &
 )
 
+# Start payment-service with its .env loaded
+(
+	set -a
+	if [ -f "payment-service/.env" ]; then
+		# shellcheck disable=SC1091
+		source payment-service/.env
+	fi
+	set +a
+	nohup mvn spring-boot:run -f payment-service/pom.xml > .logs/payment-service.log 2>&1 &
+)
+
 # RUn service Go ( Gin ) on dev mode
 (cd go-service && nohup go run server.go > ../.logs/go-service.log 2>&1 &)
 

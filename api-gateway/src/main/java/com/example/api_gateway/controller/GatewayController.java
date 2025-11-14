@@ -2172,4 +2172,160 @@ public class GatewayController {
                     "message", "Service temporarily unavailable"));
         }
     }
+
+    /**
+     * POST /api/payos/payment-link - Create payment link
+     */
+    @PostMapping("/api/payos/payment-link")
+    public ResponseEntity<Object> createPaymentLink(@RequestBody Map<String, Object> request) {
+        try {
+            String serviceUrl = loadBalancer.choose("payment-service").getUri().toString();
+            String url = serviceUrl + "/api/payos/payment-link";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+
+            HttpEntity<Map<String, Object>> entity = new HttpEntity<>(request, headers);
+
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            logger.warn("Payment service returned client error: {} - {}", e.getStatusCode(),
+                    e.getResponseBodyAsString());
+
+            try {
+                Object responseBody = objectMapper.readValue(e.getResponseBodyAsString(), Object.class);
+                return ResponseEntity.status(e.getStatusCode()).body(responseBody);
+            } catch (Exception parseException) {
+                logger.error("Failed to parse payment service error response: {}", parseException.getMessage());
+                return ResponseEntity.status(e.getStatusCode()).body(Map.of(
+                        "success", false,
+                        "message", "Payment link creation failed"));
+            }
+
+        } catch (HttpServerErrorException e) {
+            logger.error("Payment service returned server error: {} - {}", e.getStatusCode(),
+                    e.getResponseBodyAsString());
+
+            try {
+                Object responseBody = objectMapper.readValue(e.getResponseBodyAsString(), Object.class);
+                return ResponseEntity.status(e.getStatusCode()).body(responseBody);
+            } catch (Exception parseException) {
+                logger.error("Failed to parse payment service error response: {}", parseException.getMessage());
+                return ResponseEntity.status(500).body(Map.of(
+                        "success", false,
+                        "message", "Service temporarily unavailable"));
+            }
+
+        } catch (Exception e) {
+            logger.error("Error connecting to payment service: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * POST /api/payos/payment-link/premium - Create premium payment link (314,380 VND)
+     */
+    @PostMapping("/api/payos/payment-link/premium")
+    public ResponseEntity<Object> createPremiumPaymentLink(@RequestBody Map<String, Object> request) {
+        try {
+            String serviceUrl = loadBalancer.choose("payment-service").getUri().toString();
+            String url = serviceUrl + "/api/payos/payment-link/premium";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+
+            HttpEntity<Map<String, Object>> entity = new HttpEntity<>(request, headers);
+
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            logger.warn("Payment service returned client error: {} - {}", e.getStatusCode(),
+                    e.getResponseBodyAsString());
+
+            try {
+                Object responseBody = objectMapper.readValue(e.getResponseBodyAsString(), Object.class);
+                return ResponseEntity.status(e.getStatusCode()).body(responseBody);
+            } catch (Exception parseException) {
+                logger.error("Failed to parse payment service error response: {}", parseException.getMessage());
+                return ResponseEntity.status(e.getStatusCode()).body(Map.of(
+                        "success", false,
+                        "message", "Premium payment link creation failed"));
+            }
+
+        } catch (HttpServerErrorException e) {
+            logger.error("Payment service returned server error: {} - {}", e.getStatusCode(),
+                    e.getResponseBodyAsString());
+
+            try {
+                Object responseBody = objectMapper.readValue(e.getResponseBodyAsString(), Object.class);
+                return ResponseEntity.status(e.getStatusCode()).body(responseBody);
+            } catch (Exception parseException) {
+                logger.error("Failed to parse payment service error response: {}", parseException.getMessage());
+                return ResponseEntity.status(500).body(Map.of(
+                        "success", false,
+                        "message", "Service temporarily unavailable"));
+            }
+
+        } catch (Exception e) {
+            logger.error("Error connecting to payment service: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * POST /api/payos/payment-link/enterprise - Create enterprise payment link (628,760 VND)
+     */
+    @PostMapping("/api/payos/payment-link/enterprise")
+    public ResponseEntity<Object> createEnterprisePaymentLink(@RequestBody Map<String, Object> request) {
+        try {
+            String serviceUrl = loadBalancer.choose("payment-service").getUri().toString();
+            String url = serviceUrl + "/api/payos/payment-link/enterprise";
+
+            HttpHeaders headers = new HttpHeaders();
+            headers.setContentType(MediaType.APPLICATION_JSON);
+
+            HttpEntity<Map<String, Object>> entity = new HttpEntity<>(request, headers);
+
+            return restTemplate.exchange(url, HttpMethod.POST, entity, Object.class);
+
+        } catch (HttpClientErrorException e) {
+            logger.warn("Payment service returned client error: {} - {}", e.getStatusCode(),
+                    e.getResponseBodyAsString());
+
+            try {
+                Object responseBody = objectMapper.readValue(e.getResponseBodyAsString(), Object.class);
+                return ResponseEntity.status(e.getStatusCode()).body(responseBody);
+            } catch (Exception parseException) {
+                logger.error("Failed to parse payment service error response: {}", parseException.getMessage());
+                return ResponseEntity.status(e.getStatusCode()).body(Map.of(
+                        "success", false,
+                        "message", "Enterprise payment link creation failed"));
+            }
+
+        } catch (HttpServerErrorException e) {
+            logger.error("Payment service returned server error: {} - {}", e.getStatusCode(),
+                    e.getResponseBodyAsString());
+
+            try {
+                Object responseBody = objectMapper.readValue(e.getResponseBodyAsString(), Object.class);
+                return ResponseEntity.status(e.getStatusCode()).body(responseBody);
+            } catch (Exception parseException) {
+                logger.error("Failed to parse payment service error response: {}", parseException.getMessage());
+                return ResponseEntity.status(500).body(Map.of(
+                        "success", false,
+                        "message", "Service temporarily unavailable"));
+            }
+
+        } catch (Exception e) {
+            logger.error("Error connecting to payment service: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
 }

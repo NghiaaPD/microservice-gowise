@@ -30,8 +30,6 @@ import vn.payos.model.v2.paymentRequests.PaymentLinkStatus;
 @Service
 public class PayOSService {
 
-    private static final long FIXED_PRICE_VND = 5_000L;
-
     private final PayOS payOS;
     private final PaymentRecordRepository paymentRecordRepository;
 
@@ -40,8 +38,9 @@ public class PayOSService {
         this.paymentRecordRepository = paymentRecordRepository;
     }
 
-    public CreatePaymentLinkResponse createPaymentLink(CreatePaymentLinkRequestDto requestDto) {
+    public CreatePaymentLinkResponse createPaymentLink(CreatePaymentLinkRequestDto requestDto, Long priceVnd) {
         Assert.notNull(requestDto, "requestDto must not be null");
+        Assert.notNull(priceVnd, "priceVnd must not be null");
 
         UUID userId = Objects.requireNonNull(requestDto.getUserId(), "userId is required");
         String description = Optional.ofNullable(requestDto.getDescription())
@@ -51,12 +50,12 @@ public class PayOSService {
         String returnUrl = Objects.requireNonNull(requestDto.getReturnUrl(), "returnUrl is required");
         Long orderCode = generateOrderCode();
 
-        List<PaymentLinkItem> items = buildFixedPriceItems(requestDto, description);
+        List<PaymentLinkItem> items = buildFixedPriceItems(requestDto, description, priceVnd);
         OffsetDateTime expiresAt = generateAutoExpiry();
 
         CreatePaymentLinkRequest.CreatePaymentLinkRequestBuilder builder = CreatePaymentLinkRequest.builder()
                 .orderCode(orderCode)
-                .amount(FIXED_PRICE_VND)
+                .amount(priceVnd)
                 .description(description)
                 .cancelUrl(cancelUrl)
                 .returnUrl(returnUrl)
@@ -86,7 +85,7 @@ public class PayOSService {
         }
 
         CreatePaymentLinkResponse response = payOS.paymentRequests().create(builder.build());
-        persistPaymentRecord(userId, orderCode, description, response, expiresAt);
+        persistPaymentRecord(userId, orderCode, description, response, expiresAt, priceVnd);
         return response;
     }
 
@@ -95,7 +94,7 @@ public class PayOSService {
         return payOS.webhooks().verify(payload);
     }
 
-    private List<PaymentLinkItem> buildFixedPriceItems(CreatePaymentLinkRequestDto requestDto, String fallbackName) {
+    private List<PaymentLinkItem> buildFixedPriceItems(CreatePaymentLinkRequestDto requestDto, String fallbackName, Long priceVnd) {
         String itemName = fallbackName;
         if (requestDto.getItems() != null && !requestDto.getItems().isEmpty()
                 && requestDto.getItems().get(0) != null
@@ -105,7 +104,7 @@ public class PayOSService {
         PaymentLinkItem item = PaymentLinkItem.builder()
                 .name(itemName)
                 .quantity(1)
-                .price(FIXED_PRICE_VND)
+                .price(priceVnd)
                 .build();
         return List.of(item);
     }
@@ -139,11 +138,11 @@ public class PayOSService {
     }
 
     private void persistPaymentRecord(UUID userId, Long orderCode, String description,
-            CreatePaymentLinkResponse response, OffsetDateTime expiresAt) {
+            CreatePaymentLinkResponse response, OffsetDateTime expiresAt, Long priceVnd) {
         PaymentRecord record = paymentRecordRepository.findById(userId).orElseGet(PaymentRecord::new);
         record.setId(userId);
         record.setOrderCode(orderCode);
-        record.setAmount(FIXED_PRICE_VND);
+        record.setAmount(priceVnd);
         record.setDescription(description);
         record.setPaymentLinkId(response.getPaymentLinkId());
         PaymentLinkStatus status = response.getStatus();

@@ -30,7 +30,21 @@ public class PayOSController {
     @PostMapping("/payment-link")
     public ResponseEntity<CreatePaymentLinkResponse> createPaymentLink(
             @RequestBody CreatePaymentLinkRequestDto requestDto) {
-        CreatePaymentLinkResponse response = payOSService.createPaymentLink(requestDto);
+        CreatePaymentLinkResponse response = payOSService.createPaymentLink(requestDto, 52_397L);
+        return ResponseEntity.ok(response);
+    }
+
+    @PostMapping("/payment-link/premium")
+    public ResponseEntity<CreatePaymentLinkResponse> createPremiumPaymentLink(
+            @RequestBody CreatePaymentLinkRequestDto requestDto) {
+        CreatePaymentLinkResponse response = payOSService.createPaymentLink(requestDto, 314_380L);
+        return ResponseEntity.ok(response);
+    }
+
+    @PostMapping("/payment-link/enterprise")
+    public ResponseEntity<CreatePaymentLinkResponse> createEnterprisePaymentLink(
+            @RequestBody CreatePaymentLinkRequestDto requestDto) {
+        CreatePaymentLinkResponse response = payOSService.createPaymentLink(requestDto, 628_760L);
         return ResponseEntity.ok(response);
     }
 
