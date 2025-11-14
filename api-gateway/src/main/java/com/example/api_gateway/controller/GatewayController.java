@@ -2226,7 +2226,8 @@ public class GatewayController {
     }
 
     /**
-     * POST /api/payos/payment-link/premium - Create premium payment link (314,380 VND)
+     * POST /api/payos/payment-link/premium - Create premium payment link (314,380
+     * VND)
      */
     @PostMapping("/api/payos/payment-link/premium")
     public ResponseEntity<Object> createPremiumPaymentLink(@RequestBody Map<String, Object> request) {
@@ -2278,7 +2279,8 @@ public class GatewayController {
     }
 
     /**
-     * POST /api/payos/payment-link/enterprise - Create enterprise payment link (628,760 VND)
+     * POST /api/payos/payment-link/enterprise - Create enterprise payment link
+     * (628,760 VND)
      */
     @PostMapping("/api/payos/payment-link/enterprise")
     public ResponseEntity<Object> createEnterprisePaymentLink(@RequestBody Map<String, Object> request) {

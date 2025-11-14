@@ -94,7 +94,8 @@ public class PayOSService {
         return payOS.webhooks().verify(payload);
     }
 
-    private List<PaymentLinkItem> buildFixedPriceItems(CreatePaymentLinkRequestDto requestDto, String fallbackName, Long priceVnd) {
+    private List<PaymentLinkItem> buildFixedPriceItems(CreatePaymentLinkRequestDto requestDto, String fallbackName,
+            Long priceVnd) {
         String itemName = fallbackName;
         if (requestDto.getItems() != null && !requestDto.getItems().isEmpty()
                 && requestDto.getItems().get(0) != null
