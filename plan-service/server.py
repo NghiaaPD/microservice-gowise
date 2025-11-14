@@ -62,6 +62,21 @@ def health_check():
 def read_hello():
     return {"message": "hello from plan service"}
 
+@app.get("/plan-statistics")
+def get_statistics():
+    """Get system statistics including total plans"""
+    try:
+        from repository.database import get_database
+        db = get_database()
+        total_plans = db.get_total_plans()
+        return {
+            "success": True,
+            "total_plans": total_plans
+        }
+    except Exception as e:
+        logger.error(f"Statistics error: {e}")
+        raise HTTPException(status_code=500, detail=f"Failed to get statistics: {str(e)}")
+
 @app.get("/cities/suggest")
 def suggest_cities(q: str = "", limit: int = 10):
     """

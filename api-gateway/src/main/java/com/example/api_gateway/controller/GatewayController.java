@@ -27,6 +27,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.Map;
 
 /**
@@ -1478,6 +1479,36 @@ public class GatewayController {
         }
     }
 
+    /**
+     * Forward delete gallery by trip ID request to gallery service.
+     */
+    @DeleteMapping("/api/gallery/trip/{tripId}")
+    public ResponseEntity<Object> forwardDeleteGalleryByTripId(@PathVariable String tripId) {
+        try {
+            String serviceUrl = loadBalancer.choose("gallery-service").getUri().toString();
+            String url = serviceUrl + "/api/gallery/trip/" + tripId;
+
+            restTemplate.delete(url);
+            return ResponseEntity.ok(Map.of(
+                    "success", true,
+                    "message", "Gallery deleted successfully"));
+        } catch (HttpClientErrorException | HttpServerErrorException e) {
+            logger.error("Error forwarding delete gallery request: {}", e.getMessage());
+            return ResponseEntity.status(e.getStatusCode())
+                    .body(Map.of(
+                            "success", false,
+                            "message", "Gallery service temporarily unavailable",
+                            "error", e.getMessage()));
+        } catch (Exception e) {
+            logger.error("Unexpected error forwarding delete gallery request: {}", e.getMessage());
+            return ResponseEntity.status(500)
+                    .body(Map.of(
+                            "success", false,
+                            "message", "Gallery service temporarily unavailable",
+                            "error", e.getMessage()));
+        }
+    }
+
     // ========================== BLOG SERVICE ROUTES ==========================
 
     /**
@@ -2063,6 +2094,79 @@ public class GatewayController {
             return ResponseEntity.status(e.getStatusCode()).body(e.getResponseBodyAsString());
         } catch (Exception e) {
             logger.error("Error forwarding remove friend request: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * GET /users/statistics - Get total users count
+     */
+    @GetMapping("/users/statistics")
+    public ResponseEntity<Object> getUserStatistics() {
+        try {
+            String serviceUrl = loadBalancer.choose("user-service").getUri().toString();
+            String url = serviceUrl + "/users/statistics";
+            return restTemplate.getForEntity(url, Object.class);
+        } catch (Exception e) {
+            logger.error("Error forwarding get user statistics request: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * GET /plan/statistics - Get total plans count
+     */
+    @GetMapping("/plan/statistics")
+    public ResponseEntity<Object> getPlanStatistics() {
+        try {
+            String serviceUrl = loadBalancer.choose("python-service").getUri().toString();
+            String url = serviceUrl + "/plan-statistics";
+            return restTemplate.getForEntity(url, Object.class);
+        } catch (Exception e) {
+            logger.error("Error forwarding get plan statistics request: {}", e.getMessage());
+            return ResponseEntity.status(500).body(Map.of(
+                    "success", false,
+                    "message", "Service temporarily unavailable"));
+        }
+    }
+
+    /**
+     * GET /statistics - Get all system statistics
+     */
+    @GetMapping("/statistics")
+    public ResponseEntity<Object> getAllStatistics() {
+        try {
+            // Get user statistics
+            String userServiceUrl = loadBalancer.choose("user-service").getUri().toString();
+            String userUrl = userServiceUrl + "/users/statistics";
+            ResponseEntity<Object> userResponse = restTemplate.getForEntity(userUrl, Object.class);
+
+            // Get plan statistics
+            String planServiceUrl = loadBalancer.choose("python-service").getUri().toString();
+            String planUrl = planServiceUrl + "/plan-statistics";
+            ResponseEntity<Object> planResponse = restTemplate.getForEntity(planUrl, Object.class);
+
+            // Combine results
+            Map<String, Object> combinedStats = new HashMap<>();
+            combinedStats.put("success", true);
+
+            if (userResponse.getBody() instanceof Map) {
+                Map<String, Object> userStats = (Map<String, Object>) userResponse.getBody();
+                combinedStats.put("total_users", userStats.get("total_users"));
+            }
+
+            if (planResponse.getBody() instanceof Map) {
+                Map<String, Object> planStats = (Map<String, Object>) planResponse.getBody();
+                combinedStats.put("total_plans", planStats.get("total_plans"));
+            }
+
+            return ResponseEntity.ok(combinedStats);
+        } catch (Exception e) {
+            logger.error("Error getting all statistics: {}", e.getMessage());
             return ResponseEntity.status(500).body(Map.of(
                     "success", false,
                     "message", "Service temporarily unavailable"));

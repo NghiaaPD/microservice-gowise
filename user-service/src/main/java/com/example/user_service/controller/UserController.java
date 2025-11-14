@@ -49,6 +49,23 @@ public class UserController {
         return "Test endpoint working!";
     }
 
+    @GetMapping("/statistics")
+    public ResponseEntity<Map<String, Object>> getStatistics() {
+        try {
+            long totalUsers = userService.getTotalUsers();
+            Map<String, Object> response = new HashMap<>();
+            response.put("success", true);
+            response.put("total_users", totalUsers);
+            return ResponseEntity.ok(response);
+        } catch (Exception e) {
+            logger.error("Error getting user statistics: {}", e.getMessage());
+            Map<String, Object> errorResponse = new HashMap<>();
+            errorResponse.put("success", false);
+            errorResponse.put("message", "Failed to get statistics");
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(errorResponse);
+        }
+    }
+
     /**
      * GET /users/{id} - Get user by ID
      */

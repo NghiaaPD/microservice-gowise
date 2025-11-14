@@ -250,6 +250,22 @@ class Database:
         except Exception as e:
             raise Exception(f"Failed to get itinerary: {str(e)}")
 
+    def get_total_plans(self) -> int:
+        """Get total number of plans in the system"""
+        try:
+            collection = self.get_plan_service_collection()
+            count = collection.count_documents({})
+            logger.info(f"Total plans in collection 'plan-service': {count}")
+            
+            # Also log collection names to verify
+            all_collections = self.db.list_collection_names()
+            logger.info(f"Available collections: {all_collections}")
+            
+            return count
+        except Exception as e:
+            logger.error(f"Failed to get total plans: {str(e)}")
+            raise Exception(f"Failed to get total plans: {str(e)}")
+
 # Global database instance
 db_instance = None
 

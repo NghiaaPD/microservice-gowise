@@ -263,4 +263,12 @@ public class UserService {
         logger.info("Found {} users matching name: {}", users.size(), name);
         return users;
     }
+
+    /**
+     * Get total number of users
+     */
+    public long getTotalUsers() {
+        logger.info("Getting total number of users");
+        return userRepository.count();
+    }
 }
